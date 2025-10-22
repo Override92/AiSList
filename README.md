@@ -28,6 +28,6 @@ A YouTube channel should be added if it:
 
 Always provide evidence!
 
-#### - Pull Request (Recommended)
-#### - GitHub Issue
+#### - Pull Request
+#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md)
 
