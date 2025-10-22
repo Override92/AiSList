@@ -1,0 +1,25 @@
+! AI Block Community Warnlist (Medium Confidence)
+! Title: AISList - Warnlist
+! Description: Community-maintained list of YouTube channels likely using AI-generated content
+! Homepage: https://github.com/USERNAME/aiblock-community
+! License: CC0 1.0 Universal (Public Domain)
+! Last Modified: 2025-10-22
+!
+! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
+! These channels will show a dismissible warning to users.
+!
+! Format: One channel per line
+! - @channelhandle (YouTube handle format)
+! - UCxxxxxxxxxxxxxxxx (YouTube channel ID format)
+! - Lines starting with ! are comments
+! - Empty lines are ignored
+!
+! Channels are moved to this list when:
+! - Evidence is not conclusive but strongly suggests AI content
+! - Community votes indicate probable AI usage
+! - Awaiting additional verification
+!
+! Total Channels: 0
+
+! Entries:
+
