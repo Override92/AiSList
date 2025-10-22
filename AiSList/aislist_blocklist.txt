@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11
+! Total Channels: 12
 
 ! Entries:
 @UniversumDeutsch
