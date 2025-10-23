@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 100
+! Total Channels: 102
 
 ! Entries:
 @UniversumDeutsch
@@ -117,3 +117,5 @@
 @Mews_Flash
 @Meow09i8i
 @MeowKitten007
+@TheCatMeowMedia
+@LoventoFilms
