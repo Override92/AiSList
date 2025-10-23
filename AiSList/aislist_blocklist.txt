@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 79
+! Total Channels: 84
 
 ! Entries:
 @UniversumDeutsch
@@ -95,4 +95,10 @@
 @axieadventures
 @FairyFrame-r24
 @burstwc
+@paulandfriends7006
+@Starway-v5z
+@AmyyRoblox1
+@againrazvai
+@CuentosFacianantes
+@HEROISINSANOS-m9s
 @paulandfriends7006
