@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-10-23
+! Last Modified: 2025-10-25
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 102
+! Total Channels: 113
 
 ! Entries:
 @UniversumDeutsch
@@ -119,3 +119,14 @@
 @MeowKitten007
 @TheCatMeowMedia
 @LoventoFilms
+@FunnyMeow-q1j
+@meowworldcat-c9m
+@funnymeow-v8
+@Meow_Funny
+@mishimeow1
+@meowneow-g9d
+@storys.meowia
+@funnymeow55
+@Meowfunnystories
+@Tiny-Chick-dz
+@sweetestpals1
