@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 191
+! Total Channels: 238
 
 ! Entries:
 @UniversumDeutsch
@@ -208,3 +208,50 @@
 @FantasticAi-u3i
 @FantaVerse-v5y
 @ToonFlickAI.01
+@Furrr_Ai
+@furrAI-lovers
+@AllScienceForKids
+@aibeauty-creations
+@CinematicSpells
+@BGFilmsEntertainment
+@lo-fi-rock-metal
+@FunKidsMusiczh1
+@Toonverse-r6e-h6w
+@PetsAi-h1v
+@CarlosLehman-n9b
+@littlefairy-c7k
+@aimagicstudio11
+@CuteAIcreations-n7f
+@Mingkayak_AI
+@mrjangai
+@3Dverse786
+@mysticvideoai
+@AiWonderLab_eu
+@SynapticFairy
+@AIstories51214
+@MindfulAICreations
+@aifactory77
+@aifussionhub
+@animatenow14
+@FrogAteMyWifii
+@ViraNocturne
+@SoftPixelAI
+@DreamscapeAI4K
+@Tinybird_ai
+@DeepDiveDreams
+@aiartgallery636
+@naveedautomationskill
+@SereneVideoAI
+@GptShowAi
+@ROISAI21
+@artofjoey1972
+@sandymayasartwork
+@etherealsparkling
+@imagineartofficial
+@winkiwinkihk1
+@AIimagine-l9q
+@AhadCreativeWorld
+@AI.Snippets-ART
+@FrogTalesAIFairyStories
+@TunicDreams
+@TinyFriends-TV
