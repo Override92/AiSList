@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-10-28
+! Last Modified: 2025-10-29
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 148
+! Total Channels: 191
 
 ! Entries:
 @UniversumDeutsch
@@ -165,3 +165,46 @@
 @Titanamazing
 @Animalartlab
 @KhanOfficialTK
+@funntastic_AI
+@fantasticAI-IA
+@AIARTRAMY
+@Nextvibe-altf4
+@historical_shorts_Ai
+@AIPetPlayground
+@simpleai-m8r
+@Neoflux-u3p
+@AiNextfunny
+@kreation_tv
+@MR.ADWANAI
+@ruchinofficial
+@run_with_ai
+@EpicAIWalks
+@NeuroFilmsLab
+@AI_Dreamscape_
+@Fantastickitten
+@HaHaFactory-f4r6l
+@Katyushatulip
+@Kittykomedychronicleshow
+@AITechHD
+@Patricks_AI
+@FantasticAIShorts
+@nia_lookbook
+@AI_Filmss
+@VF-TX
+@ESHANAI777
+@AIPetPlayground
+@aicrinology
+@IAcunning
+@MalikZeshanAi
+@FantasticJoy-f8x
+@FFantastic_AI
+@fancreatures
+@FunTasticai88
+@AI_Showcase
+@MrBakhronov
+@AIAnimaLsHub_7
+@FunAI1-y3j5b
+@Fantastickitten
+@FantasticAi-u3i
+@FantaVerse-v5y
+@ToonFlickAI.01
