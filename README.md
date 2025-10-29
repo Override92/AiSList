@@ -24,7 +24,7 @@ A YouTube channel should be added if it:
 **When in doubt:** 
 - Possible case for the warnlist
 
-- ### Submission Methods
+### Submission Methods
 
 Always provide evidence!
 
