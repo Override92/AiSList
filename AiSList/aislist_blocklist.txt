@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-10-29
+! Last Modified: 2025-10-30
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 238
+! Total Channels: 282
 
 ! Entries:
 @UniversumDeutsch
@@ -255,3 +255,47 @@
 @FrogTalesAIFairyStories
 @TunicDreams
 @TinyFriends-TV
+@AIAI-Ai
+@ImpossibleAIs-c9z
+@AIFlickNips
+@bellalovesasmr
+@TheAmbienceGirl
+@AsmrdreamYt
+@kellyeld2323
+@animaxx3d-animation
+@DreamAI-h3f
+@XilaAi
+@AzASMR-00
+@Dream4SMR
+@DreamASMR-g1c
+@DreamASMRAI
+@DreamASMR-AI
+@DreamASMR-AI-H
+@DreamRideAi1
+@loralovesasmr
+@DreamSliceasmr123
+@ImpossibleASMRDreamsss
+@PurrfectAIVids
+@MessyLabAIASMR
+@ArtificialSatisfyASMR
+@ForbiddenCuts
+@Dreamasmr55
+@DreamASMR77
+@DreamPawsAsmr
+@EDMFANTASYAI
+@MotionAi-7
+@Dream.LoopASMR
+@serenityaiasmr
+@ASMR_AI_STUDIO-X
+@AiDreamAsmrai
+@tususuASMR
+@ASMRFantasyVibes
+@youtubeshortsasmr
+@WhisperDreamsASMR-no1
+@ASMRAIbyClara
+@CatastroBotAI
+@aicandream2025
+@WhisperAIx
+@AI.maginary0
+@AIASMRDreams-h3f
+@DeepDreamAsmr
