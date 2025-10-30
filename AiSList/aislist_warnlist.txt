@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-10-22
+! Last Modified: 2025-10-30
 !
 ! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! These channels will show a dismissible warning to users.
@@ -19,7 +19,10 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 0
+! Total Channels: 4
 
 ! Entries:
-
+@HealMyDog
+@NextGenAI-k7b
+@CinebotComedy
+@yenra
