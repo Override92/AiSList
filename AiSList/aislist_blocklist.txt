@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 304
+! Total Channels: 308
 
 ! Entries:
 @UniversumDeutsch
@@ -321,3 +321,7 @@
 @AiRelaxation1
 @HyperAi01
 @RainBondStories
+@AiAnjaliArjun
+@AIllusions-d7o
+@AI_maginary
+@NeoModelAI-v2v
