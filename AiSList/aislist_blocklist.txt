@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 308
+! Total Channels: 313
 
 ! Entries:
 @UniversumDeutsch
@@ -325,3 +325,8 @@
 @AIllusions-d7o
 @AI_maginary
 @NeoModelAI-v2v
+@AiVidCreation-z6k
+@Rainvillage83
+@rainasmr-us
+@ScreenPlayHub-q1w
+@Dream_path_AI
