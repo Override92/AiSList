@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-10-30
+! Last Modified: 2025-11-04
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 282
+! Total Channels: 304
 
 ! Entries:
 @UniversumDeutsch
@@ -299,3 +299,25 @@
 @AI.maginary0
 @AIASMRDreams-h3f
 @DeepDreamAsmr
+@Zorsa-56
+@Rainrest-area
+@AInaturecabin
+@RomanticEchos
+@rainvibegirl
+@AiGenworld-b1g
+@NatureTrip3
+@Amar-Ai-shorts
+@IqraUsman-i5k7h
+@God-Videos-AI
+@LovelyCouple583
+@GenZVibes-k1b
+@aikarrie
+@ratu_hujan
+@TrueWords-p5d
+@aisofy-t5w
+@AIQueen-j1h
+@HeartcodeShorts
+@aiverse011
+@AiRelaxation1
+@HyperAi01
+@RainBondStories
