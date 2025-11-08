@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-11-07
+! Last Modified: 2025-11-08
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 340
+! Total Channels: 374
 
 ! Entries:
 @UniversumDeutsch
@@ -357,3 +357,37 @@
 @smilebeautyrobotfashion
 @aishorttime
 @AprilAI.Channel
+@NicksAIChannel
+@SuperGoodCat
+@KittenNarrative
+@Aigreenly
+@TheMainverse
+@Acorn_Studios_official
+@ElsieFisher-i3f
+@AIKittyChronicle
+@JellyJam-q4o
+@Laugh2cry
+@CutecatAI-Kakada
+@PakeezasCat
+@AIMeow-kitten
+@CatimationAI
+@Zam-Zam786-m2
+@AlCatTalesAi
+@aicretive_o7
+@PARALLELGALAXY-TV
+@janetstory90
+@Daisy520-h2o
+@Ai.MeowwwUs
+@KittenCuteness8713
+@Tendyap
+@Manoranjan_Tales
+@NovaTaleAI
+@TheWOWSyndrome
+@LodiBotPH
+@AistorysPets
+@magicalgirlofficial
+@im.animasi
+@TailRippleMedia
+@CuteChaosClub
+@AIForFun34
+@AiCatFamily-v5c
