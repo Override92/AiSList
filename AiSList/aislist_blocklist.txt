@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/USERNAME/aiblock-community
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-11-08
+! Last Modified: 2025-11-11
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 374
+! Total Channels: 439
 
 ! Entries:
 @UniversumDeutsch
@@ -391,3 +391,68 @@
 @CuteChaosClub
 @AIForFun34
 @AiCatFamily-v5c
+@OrangecatYT-1H
+@catstudio_yt
+@CuteCat.50
+@CatRealmAI
+@MamaCatStoryTNMedia
+@MamaCatDailyy
+@animalworld_serenovive
+@ImpossibleTales96
+@McKitty-b2m
+@MEOWMYMY-n9d
+@ZOZOCAT-n7b
+@TOCOCAT-US
+@BeamNGTN
+@mewify1
+@CatChaos-01
+@Starcat_Studio
+@MeowAI-o3e
+@LoopyCatLife
+@StoryArcPaws
+@felinedreamtv
+@OrangecatYT-1H
+@Zkfan499
+@meowmemoriesx
+@MeowLaand
+@Catflix.taless
+@ai-meowplanet
+@CatsCuteStoriess
+@SavageCatStories
+@Meow_Ai_Story
+@OrangeCat_799
+@DudiDudiDumDumm
+@MeowLifeTNMedia
+@mhanimationai102
+@YupAnimation2
+@Kittytailsofficial
+@gingercatstoryai
+@RumasAnimationVedio1
+@KittyisSweety
+@MrkPopPix
+@CRAZYAISTORY-14ry
+@meowgo01
+@Magiclight-Ai
+@EAGLEFANCLUB3
+@MeowMemoirs97
+@MeowFictioncat
+@tomyt2025
+@AIPalette-CuteCreatures
+@LilyVideoAi
+@Transformationthroughai
+@MeowMagicLabmeowmagiclabgmail
+@kitten-ai.cat.786
+@CatClips143
+@kittyaistory6
+@smartpetvideoai
+@MeowverseAI-g9s
+@FluffyBox715
+@BauhhVv
+@funnycatvideodaily
+@DAANI-p4c
+@Goldenkitten8
+@GingerMamaAI
+@Aimewmind00
+@thesupernaughtykitten
+@cataivideos-m8b
+@aikittentales0346
