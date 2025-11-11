@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 439
+! Total Channels: 447
 
 ! Entries:
 @UniversumDeutsch
@@ -456,3 +456,11 @@
 @thesupernaughtykitten
 @cataivideos-m8b
 @aikittentales0346
+@SleeplessHistorian
+@BrianCoxForSleep
+@TheSleepyScientist
+@thesleepybiologist1
+@TheSleepyPhysicist1
+@SleepyPhysicist
+@TheSleepyAstronomer101
+@SleepyGeographerChannel
