@@ -1,7 +1,7 @@
 ! AI Block Community Warnlist (Medium Confidence)
 ! Title: AISList - Warnlist
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
-! Homepage: https://github.com/USERNAME/aiblock-community
+! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
 ! Last Modified: 2025-10-30
 !
