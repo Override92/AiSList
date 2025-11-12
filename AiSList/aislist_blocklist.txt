@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 538
+! Total Channels: 561
 
 ! Entries:
 @UniversumDeutsch
@@ -555,3 +555,26 @@
 @ManaAIStories18
 @Storyhubai1.0
 @AIStuff777
+@DasVolkDenkt
+@Freiheitspricht
+@ArozPlay
+@Neo-Humans
+@runwaybliss
+@Ai.nueramix
+@Intelligent-Lab
+@itor00itor
+@artificial_intelligence.ai.u
+@Satisfai_aiasmr
+@POLLOAI-VIDCREATOR
+@predmet_ai
+@yapaybrain
+@GrezelArevalo
+@YellowChikess-original
+@diyanshai
+@AiMagiclq
+@soraaiinvitecode
+@bhaktdhan
+@WhatsTheTeaSis-p2v
+@MuteMatr1x
+@FauxRealityAI
+@Aisareewalks
