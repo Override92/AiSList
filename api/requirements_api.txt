@@ -1,0 +1,11 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Already in parent requirements.txt, but listed here for reference:
+# torch>=2.0.0
+# torchvision>=0.15.0
+# transformers>=4.30.0
+# opencv-python>=4.8.0
+# numpy>=1.24.0
+# yt-dlp>=2023.10.0
+# matplotlib>=3.7.0
