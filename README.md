@@ -29,5 +29,15 @@ A YouTube channel should be added if it:
 Always provide evidence!
 
 #### - Pull Request
-#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md)
+#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) (Recommended)
+#### - Bulk submission in progress
 
+### Removal Requests
+
+If you are certain that a channel is not using AI-generated content or doesn't meet the qualification criteria, you can request the removal from a list.
+Always provide channelHandle, a detailed description and at least one video as evidence.
+Be aware that removals will not be handled with priority.
+
+#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=removal-request.md)
+
+Bulk removals will not be possible.
