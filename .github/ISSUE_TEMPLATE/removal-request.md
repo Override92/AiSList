@@ -9,5 +9,5 @@ assignees: ''
 
 Provide:
    - Channel handle or URL
-   - Reason (ai voice, generated visuals or scripts,...)
-   - Detailed description and evidence
+   - Detailed description
+   - Evidence
