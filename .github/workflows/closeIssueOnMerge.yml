@@ -49,3 +49,11 @@ jobs:
               issue_number: ${{ steps.find.outputs.issue_number }},
               state: "closed"
             });
+
+      - name: Add label to the closed issue
+        if: steps.find.outputs.issue_number != ''
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: implemented
+          issue-number: ${{ steps.find.outputs.issue_number }} 
