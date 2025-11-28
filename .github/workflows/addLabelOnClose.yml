@@ -1,0 +1,30 @@
+name: Label Issue on Close
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if issue contains "Add" and "Blocklist"
+        id: check
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          BODY="${{ github.event.issue.body }}"
+
+          if [[ "$TITLE" =~ Add && "$TITLE" =~ Blocklist ]] || [[ "$BODY" =~ Add && "$BODY" =~ Blocklist ]]; then
+            echo "match=true" >> $GITHUB_OUTPUT
+          else
+            echo "match=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Add label
+        if: steps.check.outputs.match == 'true'
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: |
+            implemented
