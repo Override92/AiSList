@@ -1,3 +1,6 @@
+permissions:
+  issues: write
+  
 name: Label Issue on Close
 
 on:
