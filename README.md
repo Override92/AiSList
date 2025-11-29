@@ -1,3 +1,8 @@
+<div align="center">
+  
+![API Status](https://img.shields.io/badge/API-offline-red?style=for-the-badge)
+
+</div>
 # AiSList
 Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
 
