@@ -1,6 +1,6 @@
 <div align="center">
   
-![API Status](https://img.shields.io/badge/API-offline-red?style=for-the-badge)
+![API Status](https://img.shields.io/badge/API-online-brightgreen?style=for-the-badge)
 
 </div>
 # AiSList
