@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 598
+! Total Channels: 599
 
 ! Entries:
 @ChickofHonor-c7g
@@ -615,3 +615,4 @@
 @SharpOddity
 @Imheretohelpyou224
 @HerbalHealthExplained
+@Nico_and_Luna
