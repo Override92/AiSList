@@ -1,0 +1,47 @@
+name: Update Issue Title with Channel Handle
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-issue-title:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, '@channelHandle')
+    
+    steps:
+      - name: Extract handle from issue body
+        id: extract
+        run: |
+          # Extract @handle from issue body
+          ISSUE_BODY="${{ github.event.issue.body }}"
+          
+          # Find @handle pattern (@ followed by alphanumeric characters, hyphens, underscores)
+          HANDLE=$(echo "$ISSUE_BODY" | grep -oP '@[a-zA-Z0-9_-]+' | head -1)
+          
+          if [ -z "$HANDLE" ]; then
+            echo "No handle found in issue body"
+            exit 1
+          fi
+          
+          echo "Found handle: $HANDLE"
+          echo "handle=$HANDLE" >> $GITHUB_OUTPUT
+      
+      - name: Update issue title
+        if: steps.extract.outputs.handle != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ORIGINAL_TITLE="${{ github.event.issue.title }}"
+          NEW_HANDLE="${{ steps.extract.outputs.handle }}"
+          
+          # Replace @channelHandle with the actual handle
+          NEW_TITLE="${ORIGINAL_TITLE//@channelHandle/$NEW_HANDLE}"
+          
+          echo "Original title: $ORIGINAL_TITLE"
+          echo "New title: $NEW_TITLE"
+          
+          # Update the issue title using GitHub CLI
+          gh issue edit ${{ github.event.issue.number }} \
+            --title "$NEW_TITLE" \
+            --repo ${{ github.repository }}
