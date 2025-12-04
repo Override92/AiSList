@@ -35,7 +35,7 @@ A YouTube channel should be added if it:
 
 Always provide evidence!
 
-If a channel is now submitted as an issue as prescribed, an automated workflow is being triggered that uses AI-Detection algorythms to check the video, provided in the issue.
+If a channel is now submitted as an issue as prescribed, an automated [workflow](https://github.com/Override92/AiSList/edit/main/README.md#workflow) is being triggered that uses AI-Detection algorythms to check the video, provided in the issue.
 If confidence exceeds a specified threshold, a pull request will be prepared automatically.
 
 #### - Pull Request
@@ -51,3 +51,24 @@ Be aware that removals will not be handled with priority.
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=removal-request.md)
 
 Bulk removals will not be possible.
+
+<div align="center">
+
+## Workflow
+
+```mermaid
+flowchart TD
+  A[GitHub Issue Created<br/>User submits YouTube channel] --> B[n8n Webhook
+Trigger<br/>monitors new issues]
+  B --> C[Extract Video URLs<br/>from issue body/URL]
+  C --> D[Download Video Snippet]
+  D --> E[Call Detection API<br/>AI Detector]
+  E --> F{AI Probability?}
+  F -->| | G[Post Comment<br/>✅ Likely Real<br/>No PR]
+  F -->| | H[Post Comment<br/>⚠️ Uncertain<br/>No PR]
+  F -->| | I[Post Comment<br/>⚠️ Likely AI]
+  I --> J[Prepare and create Pull Request]
+```
+</div>
+
+###
