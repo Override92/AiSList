@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-03
+! Last Modified: 2025-12-05
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 599
+! Total Channels: 628
 
 ! Entries:
 @ChickofHonor-c7g
@@ -616,3 +616,32 @@
 @Imheretohelpyou224
 @HerbalHealthExplained
 @Nico_and_Luna
+@Afraid2Sleep
+@AI_ESteem
+@Ai_Verse-099
+@Ai4K-x7x
+@AIAssemblyLine
+@AIContent-t6m
+@AIDeutschland
+@AIFUTUREINWARLD
+@airevolutionx
+@airevolutionx_es
+@airevolutionx_fr
+@airevolutionx_pt
+@AISyncMotion
+@AlanJam-o2l
+@aliaboutine
+@AliceShaw_AI
+@DistantAI
+@DreamCraftor-me
+@epicaifilms2024
+@EternaShores
+@JudasBooth
+@KimochiAIgirl
+@KINGOFAIVIDEO19
+@loran-ai10
+@SatisVid
+@starzapasmr
+@tankermedia
+@Underworld-g1n
+@yuliya3k
