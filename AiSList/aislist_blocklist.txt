@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-08
+! Last Modified: 2025-12-09
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 647
+! Total Channels: 685
 
 ! Entries:
 @ChickofHonor-c7g
@@ -664,3 +664,41 @@
 @CineLabAi
 @researchriderinfo
 @dreamyydooodles
+@cutecat-h5j
+@catshorts-l1c
+@skull-story
+@catloverstube-e6x
+@funfactory-l4f
+@catcartoons7
+@bengtoon
+@aicatvideos09
+@cappuccinodreams
+@animalstoryai-5
+@strangecatk
+@futuremindkii
+@purrfectlyviral-j7p
+@meow-trixanimations
+@nnrr-n4u4x
+@cartoonshorts-16
+@animalaistory-m7s
+@aicatsstorys
+@asmr-f6e9d
+@crystalcutasmr-j4x
+@asmr-cutting-4k
+@crystalcutasmr-y7j
+@asmrglassfruitcutting1
+@crystalcutsasmr-y5c
+@crystalbreakasmr_09
+@soothingsliceasmr1
+@glassfruitscutting-1
+@glassvideos-o3o
+@crystalsliced-b4f
+@glassverseasmr1
+@satisfyingasmr-fh
+@crystallinecutsasmr-j1b
+@asmrcrispfruit
+@glasscutterasmr_1
+@glasscutbr
+@theglasscutterasmr
+@bestaiasmrsatisfying
+@starasmr-w6d
