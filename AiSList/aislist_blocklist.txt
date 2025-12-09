@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 800
+! Total Channels: 786
 
 ! Entries:
 @ChickofHonor-c7g
@@ -180,7 +180,6 @@
 @EpicAIWalks
 @NeuroFilmsLab
 @AI_Dreamscape_
-@Fantastickitten
 @HaHaFactory-f4r6l
 @Katyushatulip
 @Kittykomedychronicleshow
@@ -191,7 +190,6 @@
 @AI_Filmss
 @VF-TX
 @ESHANAI777
-@AIPetPlayground
 @aicrinology
 @IAcunning
 @MalikZeshanAi
@@ -410,7 +408,6 @@
 @LoopyCatLife
 @StoryArcPaws
 @felinedreamtv
-@OrangecatYT-1H
 @Zkfan499
 @meowmemoriesx
 @MeowLaand
