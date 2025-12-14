@@ -62,7 +62,7 @@ flowchart TD
 Trigger<br/>monitors new issues]
   B --> C[Extract Video URLs<br/>from issue body/URL]
   C --> D[Download Video Snippet]
-  D --> E[Call Detection API<br/>AI Detector]
+  D --> E[Call Detection API<br/>AI Detector - Video & Audio]
   E --> F{AI Probability?}
   F -->| | G[Post Comment<br/>✅ Likely Real<br/>No PR]
   F -->| | H[Post Comment<br/>⚠️ Uncertain<br/>No PR]
