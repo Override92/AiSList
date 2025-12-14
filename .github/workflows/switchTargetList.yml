@@ -1,0 +1,138 @@
+name: Switch PR Target List
+
+on:
+  pull_request:
+    types: [labeled, unlabeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  switch-target:
+    runs-on: ubuntu-latest
+
+    # Only run if the label is target:blocklist or target:warnlist
+    if: |
+      contains(github.event.pull_request.labels.*.name, 'target:blocklist') ||
+      contains(github.event.pull_request.labels.*.name, 'target:warnlist')
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Determine target list from labels
+        id: determine_target
+        run: |
+          # Check which target label is present
+          if echo '${{ toJson(github.event.pull_request.labels.*.name) }}' | grep -q "target:blocklist"; then
+            echo "target_list=blocklist" >> $GITHUB_OUTPUT
+            echo "target_file=AiSList/aislist_blocklist.txt" >> $GITHUB_OUTPUT
+            echo "other_file=AiSList/aislist_warnlist.txt" >> $GITHUB_OUTPUT
+          elif echo '${{ toJson(github.event.pull_request.labels.*.name) }}' | grep -q "target:warnlist"; then
+            echo "target_list=warnlist" >> $GITHUB_OUTPUT
+            echo "target_file=AiSList/aislist_warnlist.txt" >> $GITHUB_OUTPUT
+            echo "other_file=AiSList/aislist_blocklist.txt" >> $GITHUB_OUTPUT
+          else
+            echo "No target label found"
+            exit 0
+          fi
+
+      - name: Check if files exist and get channel
+        id: check_files
+        run: |
+          # Check which file is currently being modified in this PR
+          if git diff --name-only origin/main | grep -q "AiSList/aislist_blocklist.txt"; then
+            echo "current_file=AiSList/aislist_blocklist.txt" >> $GITHUB_OUTPUT
+            echo "current_list=blocklist" >> $GITHUB_OUTPUT
+          elif git diff --name-only origin/main | grep -q "AiSList/aislist_warnlist.txt"; then
+            echo "current_file=AiSList/aislist_warnlist.txt" >> $GITHUB_OUTPUT
+            echo "current_list=warnlist" >> $GITHUB_OUTPUT
+          else
+            echo "No list file modified in PR"
+            exit 0
+          fi
+
+          # Extract the channel handle from the current file changes
+          CHANNEL=$(git diff origin/main -- $current_file | grep "^+" | grep "@" | sed 's/^+//' | tr -d '[:space:]')
+          echo "channel=$CHANNEL" >> $GITHUB_OUTPUT
+
+      - name: Switch target if needed
+        id: switch
+        run: |
+          CURRENT_FILE="${{ steps.check_files.outputs.current_file }}"
+          CURRENT_LIST="${{ steps.check_files.outputs.current_list }}"
+          TARGET_FILE="${{ steps.determine_target.outputs.target_file }}"
+          TARGET_LIST="${{ steps.determine_target.outputs.target_list }}"
+          CHANNEL="${{ steps.check_files.outputs.channel }}"
+
+          # If target matches current, no action needed
+          if [ "$CURRENT_LIST" == "$TARGET_LIST" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "Target already correct ($TARGET_LIST)"
+            exit 0
+          fi
+
+          echo "Switching from $CURRENT_LIST to $TARGET_LIST"
+
+          # Revert changes to current file
+          git checkout origin/main -- "$CURRENT_FILE"
+
+          # Add channel to target file
+          echo "$CHANNEL" >> "$TARGET_FILE"
+
+          # Sort and deduplicate target file
+          sort -u "$TARGET_FILE" -o "$TARGET_FILE"
+
+          # Get current date for metadata
+          CURRENT_DATE=$(date -u +"%Y-%m-%d")
+
+          # Update metadata in target file (file we're adding to)
+          TARGET_CHANNELS=$(grep -c "^@" "$TARGET_FILE" || echo "0")
+          sed -i "6s/! Last Modified: .*/! Last Modified: $CURRENT_DATE/" "$TARGET_FILE"
+          sed -i "s/^! Total Channels: .*/! Total Channels: $TARGET_CHANNELS/" "$TARGET_FILE"
+
+          # Update metadata in current file (file we reverted - keep it consistent)
+          CURRENT_CHANNELS=$(grep -c "^@" "$CURRENT_FILE" || echo "0")
+          sed -i "6s/! Last Modified: .*/! Last Modified: $CURRENT_DATE/" "$CURRENT_FILE"
+          sed -i "s/^! Total Channels: .*/! Total Channels: $CURRENT_CHANNELS/" "$CURRENT_FILE"
+
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "from=$CURRENT_LIST" >> $GITHUB_OUTPUT
+          echo "to=$TARGET_LIST" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        if: steps.switch.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AiSList/
+          git commit -m "chore: switch target from ${{ steps.switch.outputs.from }} to ${{ steps.switch.outputs.to }}"
+          git push
+
+      - name: Post comment
+        if: steps.switch.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `✅ **Target list switched**\n\nChanged from **${{ steps.switch.outputs.from }}** to **${{ steps.switch.outputs.to }}**\n\nThe PR now targets \`${{ steps.determine_target.outputs.target_file }}\``
+            })
+
+      - name: No change comment
+        if: steps.switch.outputs.changed == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `ℹ️ Target list is already set to **${{ steps.determine_target.outputs.target_list }}**\n\nNo changes needed.`
+            })
