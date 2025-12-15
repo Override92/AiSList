@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 1089
+! Total Channels: 1090
 
 ! Entries:
 @ChickofHonor-c7g
@@ -1106,3 +1106,4 @@
 @historyneedtoknow705
 @RF-melody
 @JewishTeachingsForAll
+@Historyvisit
