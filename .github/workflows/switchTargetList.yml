@@ -88,8 +88,12 @@ jobs:
           # Add channel to target file
           echo "$CHANNEL" >> "$TARGET_FILE"
 
-          # Sort and deduplicate target file
-          sort -u "$TARGET_FILE" -o "$TARGET_FILE"
+          # Sort and deduplicate ONLY channel entries (preserve header comments)
+          {
+            grep "^!" "$TARGET_FILE"  # Keep all comment/header lines in order
+            echo ""  # Empty line separator
+            grep "^@" "$TARGET_FILE" | sort -u  # Sort only channel lines
+          } > "$TARGET_FILE.tmp" && mv "$TARGET_FILE.tmp" "$TARGET_FILE"
 
           # Get current date for metadata
           CURRENT_DATE=$(date -u +"%Y-%m-%d")
