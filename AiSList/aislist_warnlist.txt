@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 7
+! Total Channels: 6
 
 ! Entries:
 @HealMyDog
@@ -28,4 +28,3 @@
 @yenra
 @pooraiworld
 @carcarecentral
-@RF-melody
