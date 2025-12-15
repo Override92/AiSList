@@ -1,28 +1,30 @@
-
-!
-! - @channelhandle (YouTube handle format)
-! - Awaiting additional verification
-! - Community votes indicate probable AI usage
-! - Empty lines are ignored
-! - Evidence is not conclusive but strongly suggests AI content
-! - Lines starting with ! are comments
-! - UCxxxxxxxxxxxxxxxx (YouTube channel ID format)
 ! AI Block Community Warnlist (Medium Confidence)
-! Channels are moved to this list when:
-! Description: Community-maintained list of YouTube channels likely using AI-generated content
-! Entries:
-! Format: One channel per line
-! Homepage: https://github.com/Override92/AiSList
-! Last Modified: 2025-12-15
-! License: CC0 1.0 Universal (Public Domain)
-! These channels will show a dismissible warning to users.
-! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! Title: AISList - Warnlist
-! Total Channels: 7
-@CinebotComedy
+! Description: Community-maintained list of YouTube channels likely using AI-generated content
+! Homepage: https://github.com/Override92/AiSList
+! License: CC0 1.0 Universal (Public Domain)
+! Last Modified: 2025-12-15
+!
+! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
+! These channels will show a dismissible warning to users.
+!
+! Format: One channel per line
+! - @channelhandle (YouTube handle format)
+! - UCxxxxxxxxxxxxxxxx (YouTube channel ID format)
+! - Lines starting with ! are comments
+! - Empty lines are ignored
+!
+! Channels are moved to this list when:
+! - Evidence is not conclusive but strongly suggests AI content
+! - Community votes indicate probable AI usage
+! - Awaiting additional verification
+!
+! Total Channels: 6
+
+! Entries:
 @HealMyDog
 @NextGenAI-k7b
-@carcarecentral
-@pooraiworld
-@rainyatmosphere89
+@CinebotComedy
 @yenra
+@pooraiworld
+@carcarecentral
