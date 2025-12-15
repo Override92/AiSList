@@ -22,7 +22,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0  # Fetch all history to enable git operations
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}:refs/remotes/origin/${{ github.event.pull_request.base.ref }}
 
       - name: Determine target list from labels
         id: determine_target
