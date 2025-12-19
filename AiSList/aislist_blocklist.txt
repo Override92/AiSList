@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-17
+! Last Modified: 2025-12-19
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 1207
+! Total Channels: 1313
 
 ! Entries:
 @ChickofHonor-c7g
@@ -1224,3 +1224,109 @@
 @pappy_life_story
 @bossypaws
 @romio_the_puppy
+@博特夫4848
+@cartoon_video_mfz
+@tamim_factz
+@asmrrelaxing-x5t
+@mindasmr-t2s
+@bedswhisper
+@prismasmr.1
+@catshort-v9t
+@meowforge1
+@meostoryshorts
+@meowstories3d
+@mewomewo-p1v
+@felinefables3
+@meoowpurrfect
+@catsenjoyment
+@meow_storys-q9j
+@catstory-t8j
+@whiskerwarss
+@katilionaire
+@meowfamilyt
+@catpawsworld
+@mycatpets
+@kindcat12.12
+@catty366
+@catslifenick
+@meowtopia-123
+@fatorangecat.888
+@chubbyorangecat88
+@orangecat-1205
+@веселыеприколы-я3л
+@animalhealingtv99
+@shawn-cats01
+@mrmilo-k4j
+@pixelvision-c1p
+@orange_cat2026
+@anyeverythingtv
+@ai-pawtopia
+@mr.ace67
+@amandarasulova
+@meow-9696
+@meowtasticlife-i8c
+@ozotx_10
+@annie_and_lys
+@funwithmamacat786
+@mamacatdiary
+@mamacatstoryai
+@mamacatfamily-l6u
+@mamacattv-gt
+@mamacatandkittenscute
+@catkittenfamily2018
+@thecatfamilyworld
+@mamacatkids
+@catai.shorts
+@aicats-u4g
+@aicatstories03
+@jonisusanto1985
+@catshortai
+@cataistory1
+@aicatstories00
+@storytellinggai
+@catai321
+@catstoriesai-z4z
+@cutenessworld-ch2sj
+@srscatstory
+@catai3-d3x
+@aicatdraw
+@cataishort-q9o
+@aicatshort2
+@aishorts-j6b
+@cataishorts0406
+@super-catverse
+@wildlyoutofplace
+@catsjoourney
+@thecatbonds
+@zupercats
+@aikittystore
+@kittystoriesfun
+@catemotionalstoriestv
+@kitty.aiverse
+@mysticmeow01
+@cat_ai_journey
+@aitalespoweredbyai
+@catflixtoons
+@theaicatstale
+@meofliks
+@catsai-story
+@kato_220
+@catsstory-2025
+@gentlehero-y8b
+@heartfeltkittens
+@catmeow-254
+@emotionalcatstory-u9l
+@kittenslittleadventures
+@adorablekittensshorts
+@siblingkitten786
+@kittenfamily-stories
+@catgpt-o7i
+@catmeow.2025
+@catemotionalstories-v6u
+@lunasstories-n8r
+@thekitten-l8g
+@catvideosofficiall
+@silentmeows-o1r
+@meowcats9
+@storygarden777
+@aicircle-x7r
