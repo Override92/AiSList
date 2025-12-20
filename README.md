@@ -21,8 +21,6 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 | 🥉 3 | [@Zeti123](https://github.com/Zeti123) | 2 |
 | 4 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
 | 5 | [@switchgard](https://github.com/switchgard) | 1 |
-| 6 | [@elypter2](https://github.com/elypter2) | 1 |
-| 7 | [@aslanonthemove](https://github.com/aslanonthemove) | 1 |
 <!-- LEADERBOARD:END -->
 </br>
 
