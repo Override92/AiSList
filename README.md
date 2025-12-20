@@ -12,7 +12,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 
 
 <!-- LEADERBOARD:START -->
-## 🏆 Contributor Leaderboard
+## 🏆 Top 5 Contributor Leaderboard
 
 | Rank | Contributor | Contributions |
 |------|-------------|---------------|
@@ -21,6 +21,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 | 🥉 3 | [@Zeti123](https://github.com/Zeti123) | 2 |
 | 4 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
 | 5 | [@switchgard](https://github.com/switchgard) | 1 |
+
 <!-- LEADERBOARD:END -->
 </div>
 </br>
