@@ -5,6 +5,12 @@
 
 # AiSList
 Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
+
+## 📊 Blocklist Statistics
+
+[➡ View live interactive chart](https://override92.github.io/AiSList/)
+
+![Blocklist growth](docs/chart-preview.png)
 </div>
 </br>
 
