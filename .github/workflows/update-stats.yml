@@ -1,25 +1,37 @@
-name: Update channel stats
+name: Update blocklist stats history
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:     # manual trigger
+    - cron: "0 0 * * *"   # once per day
+  workflow_dispatch:
 
 jobs:
   stats:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v4
+
       - name: Download blocklist
         run: |
           curl -s https://raw.githubusercontent.com/Override92/AiSList/refs/heads/main/AiSList/aislist_blocklist.txt > blocklist.txt
 
-      - name: Extract channel count
+      - name: Extract channel count (line 17)
         run: |
-          COUNT=$(grep -E 'Total Channels:' blocklist.txt | awk '{print $3}')
-          echo "{ \"channel_count\": $COUNT }" > stats.json
+          COUNT=$(sed -n '17p' blocklist.txt | grep -o '[0-9]\+')
+          DATE=$(date -u +"%Y-%m-%d")
+
+          if [ ! -f stats.json ]; then
+            echo "[]" > stats.json
+          fi
+
+          jq --arg date "$DATE" --argjson count "$COUNT" \
+            '. + [{date: $date, count: $count}]' stats.json > tmp.json
+
+          mv tmp.json stats.json
 
       - name: Commit stats
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update channel stats"
+          commit_message: "Update blocklist stats (${{ github.run_id }})"
           file_pattern: stats.json
