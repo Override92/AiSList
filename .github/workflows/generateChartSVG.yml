@@ -1,0 +1,22 @@
+- name: Generate SVG chart
+  run: |
+    pip install matplotlib
+    python << 'EOF'
+    import json
+    import matplotlib.pyplot as plt
+
+    with open("docs/stats.json") as f:
+        data = json.load(f)
+
+    dates = [d["date"] for d in data]
+    counts = [d["count"] for d in data]
+
+    plt.figure(figsize=(8,4))
+    plt.plot(dates, counts)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.title("AI Blocklist – Channel Count Over Time")
+    plt.ylabel("Channels")
+
+    plt.savefig("chart.svg")
+    EOF
