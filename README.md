@@ -10,7 +10,6 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 
 [➡ View live interactive chart](https://override92.github.io/AiSList/)
 
-![Blocklist growth](docs/chart-preview.png)
 </div>
 </br>
 
