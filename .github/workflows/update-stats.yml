@@ -24,7 +24,7 @@ jobs:
           COUNT=$(sed -n '17p' blocklist.txt | grep -o '[0-9]\+')
           DATE=$(date -u +"%Y-%m-%d")
 
-          if [ ! -f stats.json ]; then
+          if [ ! -f docs/stats.json ]; then
             echo "[]" > stats.json
           fi
 
