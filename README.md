@@ -10,7 +10,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 
 [➡ View live interactive chart](https://override92.github.io/AiSList/)
 
-</div>
+
 <!-- LEADERBOARD:START -->
 ## 🏆 Contributor Leaderboard
 
@@ -22,6 +22,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 | 4 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
 | 5 | [@switchgard](https://github.com/switchgard) | 1 |
 <!-- LEADERBOARD:END -->
+</div>
 </br>
 
 ## How to Contribute
