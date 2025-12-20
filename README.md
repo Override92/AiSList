@@ -11,6 +11,8 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 [➡ View live interactive chart](https://override92.github.io/AiSList/)
 
 </div>
+<!-- LEADERBOARD:START -->
+<!-- LEADERBOARD:END -->
 </br>
 
 ## How to Contribute
