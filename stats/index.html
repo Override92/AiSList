@@ -1,34 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Blocklist Stats</title>
+  <meta charset="utf-8">
+  <title>AI Blocklist Growth</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+  </style>
 </head>
 <body>
-  <h1>AiSlist Blocklist Channel Count</h1>
-  <canvas id="chart"></canvas>
 
-  <script>
-    fetch('stats.json')
-      .then(r => r.json())
-      .then(data => {
-        new Chart(document.getElementById('chart'), {
-          type: 'line',
-          data: {
-            labels: ['Total Channels'],
-            datasets: [{
-              label: 'Count',
-              data: [data.channel_count],
-              backgroundColor: 'rgba(54, 162, 235, 0.6)'
-            }]
-          },
-          options: {
-            scales: {
-              y: { beginAtZero: true }
-            }
+<h1>AI Blocklist – Channel Count Over Time</h1>
+
+<canvas id="chart"></canvas>
+
+<script>
+fetch('stats.json')
+  .then(r => r.json())
+  .then(data => {
+    new Chart(document.getElementById('chart'), {
+      type: 'line',
+      data: {
+        labels: data.map(d => d.date),
+        datasets: [{
+          label: 'Total Blocked Channels',
+          data: data.map(d => d.count),
+          tension: 0.25,
+          fill: true
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: false
           }
-        });
-      });
-  </script>
+        }
+      }
+    });
+  });
+</script>
+
 </body>
 </html>
