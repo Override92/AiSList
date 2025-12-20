@@ -25,16 +25,16 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d")
 
           if [ ! -f docs/stats.json ]; then
-            echo "[]" > stats.json
+            echo "[]" > docs/stats.json
           fi
 
           jq --arg date "$DATE" --argjson count "$COUNT" \
-            '. + [{date: $date, count: $count}]' stats.json > tmp.json
+            '. + [{date: $date, count: $count}]' docs/stats.json > tmp.json
 
-          mv tmp.json stats.json
+          mv tmp.json docs/stats.json
 
       - name: Commit stats
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update blocklist stats (${{ github.run_id }})"
-          file_pattern: stats.json
+          file_pattern: docs/stats.json
