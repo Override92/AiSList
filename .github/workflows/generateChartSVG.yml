@@ -1,5 +1,5 @@
-- name: Generate SVG chart
-  run: |
+  name: Generate SVG chart
+  run: 
     pip install matplotlib
     python << 'EOF'
     import json
