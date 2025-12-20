@@ -32,27 +32,28 @@ jobs:
             '. + [{date: $date, count: $count}]' docs/stats.json > tmp.json
 
           mv tmp.json docs/stats.json
+          
       - name: Generate chart SVG
         run: |
           pip install matplotlib
-          python << EOF
-          import json
-          import matplotlib.pyplot as plt
+          python <<EOF
+import json
+import matplotlib.pyplot as plt
 
-          with open("docs/stats.json") as f:
-              data = json.load(f)
+with open("docs/stats.json") as f:
+    data = json.load(f)
 
-          dates = [d["date"] for d in data]
-          counts = [d["count"] for d in data]
+dates = [d["date"] for d in data]
+counts = [d["count"] for d in data]
 
-          plt.figure(figsize=(8,4))
-          plt.plot(dates, counts, marker='o')
-          plt.xticks(rotation=45)
-          plt.tight_layout()
-          plt.title("AI Blocklist – Channel Count Over Time")
-          plt.ylabel("Channels")
-          plt.savefig("docs/chart.svg")
-          EOF
+plt.figure(figsize=(8,4))
+plt.plot(dates, counts, marker='o')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.title("AI Blocklist – Channel Count Over Time")
+plt.ylabel("Channels")
+plt.savefig("docs/chart.svg")
+EOF
                 
       - name: Commit stats
         uses: stefanzweifel/git-auto-commit-action@v5
