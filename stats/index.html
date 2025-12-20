@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blocklist Stats</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>AiSlist Blocklist Channel Count</h1>
+  <canvas id="chart"></canvas>
+
+  <script>
+    fetch('stats.json')
+      .then(r => r.json())
+      .then(data => {
+        new Chart(document.getElementById('chart'), {
+          type: 'line',
+          data: {
+            labels: ['Total Channels'],
+            datasets: [{
+              label: 'Count',
+              data: [data.channel_count],
+              backgroundColor: 'rgba(54, 162, 235, 0.6)'
+            }]
+          },
+          options: {
+            scales: {
+              y: { beginAtZero: true }
+            }
+          }
+        });
+      });
+  </script>
+</body>
+</html>
