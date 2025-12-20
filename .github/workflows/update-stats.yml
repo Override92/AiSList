@@ -54,6 +54,7 @@ plt.title("AI Blocklist – Channel Count Over Time")
 plt.ylabel("Channels")
 plt.savefig("docs/chart.svg")
 EOF
+
                 
       - name: Commit stats
         uses: stefanzweifel/git-auto-commit-action@v5
