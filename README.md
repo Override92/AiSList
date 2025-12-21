@@ -14,7 +14,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 <!-- LEADERBOARD:START -->
 ## 🏆 Top 5 Contributor Leaderboard
 
-| Rank | Contributor | Contributions |
+| Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@PianoMan7](https://github.com/PianoMan7) | 12 |
 | 🥈 2 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
