@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2314
+! Total Channels: 2315
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2331,3 +2331,4 @@
 @satisfied.asmr.videos
 @aiasmr-r7z
 @asmrbotai
+@criancasinteligentes
