@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-23
+! Last Modified: 2025-12-16
 !
 ! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! These channels will show a dismissible warning to users.
