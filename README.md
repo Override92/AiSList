@@ -17,10 +17,10 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@PianoMan7](https://github.com/PianoMan7) | 13 |
-| 🥈 2 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
-| 🥉 3 | [@Zeti123](https://github.com/Zeti123) | 2 |
-| 4 | [@OliveOil-83](https://github.com/OliveOil-83) | 2 |
-| 5 | [@aslanonthemove](https://github.com/aslanonthemove) | 1 |
+| 🥈 2 | [@willowbank48](https://github.com/willowbank48) | 4 |
+| 🥉 3 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
+| 4 | [@Zeti123](https://github.com/Zeti123) | 2 |
+| 5 | [@OliveOil-83](https://github.com/OliveOil-83) | 2 |
 
 <!-- LEADERBOARD:END -->
 </div>
