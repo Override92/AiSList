@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2326
+! Total Channels: 2340
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2343,3 +2343,17 @@
 @SecretsofWWII
 @VWTales
 @ForgottenBattleNotes
+@EchoesofWar-r8j
+@WW2Declassified-s6b
+@Big.K.Korner
+@WW2RealStories-n4c
+@CanadiansAtWar
+@TheStoryKeeper4k
+@Since1945s
+@IconicReplies
+@SecretsofWWII-8
+@Viet-Tales
+@ColdWarInsightss
+@lume-channel
+@WarlineHistoryEng
+@WW2Recode
