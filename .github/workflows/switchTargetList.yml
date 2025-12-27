@@ -83,7 +83,7 @@ jobs:
           echo "Switching from $CURRENT_LIST to $TARGET_LIST"
 
           # Revert BOTH files to clean state from main branch
-          git checkout origin/main -- "$CURRENT_FILE" "$TARGET_FILE"
+          git checkout origin/main -- "$CURRENT_FILE"
 
           # Get current date for metadata
           CURRENT_DATE=$(date -u +"%Y-%m-%d")
