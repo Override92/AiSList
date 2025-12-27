@@ -96,11 +96,6 @@ jobs:
           sed -i "6s/! Last Modified: .*/! Last Modified: $CURRENT_DATE/" "$TARGET_FILE"
           sed -i "s/^! Total Channels: .*/! Total Channels: $TARGET_CHANNELS/" "$TARGET_FILE"
 
-          # Update metadata in current file (file we reverted - keep it consistent)
-          CURRENT_CHANNELS=$(grep -c "^@" "$CURRENT_FILE" || echo "0")
-          sed -i "6s/! Last Modified: .*/! Last Modified: $CURRENT_DATE/" "$CURRENT_FILE"
-          sed -i "s/^! Total Channels: .*/! Total Channels: $CURRENT_CHANNELS/" "$CURRENT_FILE"
-
           echo "changed=true" >> $GITHUB_OUTPUT
           echo "from=$CURRENT_LIST" >> $GITHUB_OUTPUT
           echo "to=$TARGET_LIST" >> $GITHUB_OUTPUT
