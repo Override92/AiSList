@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2345
+! Total Channels: 2350
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2362,3 +2362,8 @@
 @echoesofpatton
 @infact4754
 @4chanInAMinute
+@BritishWW2
+@UntoldWarArchives
+@britainsfrontline
+@WWII-Records
+@SmartInvestmentBreakdown
