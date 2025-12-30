@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-28
+! Last Modified: 2025-12-30
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2350
+! Total Channels: 2367
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2367,3 +2367,20 @@
 @britainsfrontline
 @WWII-Records
 @SmartInvestmentBreakdown
+@CanadianWW2Archives
+@BoringHistorySecrets
+@CanadianWarSecrets-v1i
+@CanadianWarSecrets
+@midnighthistorys
+@WW2Canada_Explained
+@canadian_legacy
+@TheRealTruthCanada
+@WW2RealBattlesExplained
+@canadawwii
+@Beyondthelens-r3v
+@TechReport-v8f
+@SurvivalHistory11
+@FuriousGarageYT
+@AmericasWarfactories
+@WW2-ShadowForge
+@CanadianWW2Archives
