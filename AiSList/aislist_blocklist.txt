@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2368
+! Total Channels: 2399
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2385,3 +2385,34 @@
 @WW2-ShadowForge
 @CanadianWW2Archives
 @WW2Insight
+@ConfessedOutLoud
+@RedditUpdatesStorytime
+@TheSStoryArchives
+@horrors_dont_sleep
+@RedTrailz
+@EarthTales-f1t
+@RedditTalesNook
+@IAmReddits
+@RedditStoryTimeHQ
+@Redditscreem
+@TalesoftheHive222
+@ZoaRevengeStories
+@dianazapatab395
+@Anishtales-q3i
+@SubredditDiaries2222
+@wisdomtaleshub-m5n
+@captured_reads
+@RedditEchoes01
+@TendieTales
+@HoaExposed-YT
+@KandisRulapaugh
+@RileyREDDIT
+@TrueStoryUpdate
+@luatcoldly8883
+@Revenge-p3l
+@DosisdeReddit-e7o
+@VerySparked
+@RedditWhispers001
+@RedditDramaStorytime_99
+@TalesInfidelityStories
+@ONLYREALMESS
