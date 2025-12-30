@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2367
+! Total Channels: 2368
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2384,3 +2384,4 @@
 @AmericasWarfactories
 @WW2-ShadowForge
 @CanadianWW2Archives
+@WW2Insight
