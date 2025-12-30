@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2352
+! Total Channels: 2360
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2369,3 +2369,11 @@
 @SmartInvestmentBreakdown
 @CanadianWW2Archives
 @BoringHistorySecrets
+@CanadianWarSecrets-v1i
+@CanadianWarSecrets
+@midnighthistorys
+@WW2Canada_Explained
+@canadian_legacy
+@TheRealTruthCanada
+@WW2RealBattlesExplained
+@canadawwii
