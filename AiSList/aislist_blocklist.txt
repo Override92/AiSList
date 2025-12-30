@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2360
+! Total Channels: 2363
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2377,3 +2377,6 @@
 @TheRealTruthCanada
 @WW2RealBattlesExplained
 @canadawwii
+@Beyondthelens-r3v
+@TechReport-v8f
+@SurvivalHistory11
