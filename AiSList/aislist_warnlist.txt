@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2025-12-30
+! Last Modified: 2025-12-31
 !
 ! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! These channels will show a dismissible warning to users.
@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 10
+! Total Channels: 11
 
 ! Entries:
 @HealMyDog
@@ -32,3 +32,4 @@
 @Cockpitchronicles17
 @stayalive_urbansurvival
 @DerLegionarEng
+@NCrimby
