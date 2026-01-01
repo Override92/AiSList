@@ -60,6 +60,7 @@ If confidence exceeds a specified threshold, a pull request will be prepared aut
 #### - Pull Request
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) (Recommended)
 #### - Bulk submission in progress
+#### - Submission on discord server in progress
 
 ### Removal Requests
 
