@@ -19,7 +19,7 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 |------|-------------|---------------|
 | 🥇 1 | [@willowbank48](https://github.com/willowbank48) | 35 |
 | 🥈 2 | [@PianoMan7](https://github.com/PianoMan7) | 16 |
-| 🥉 3 | [@Tea-Fox](https://github.com/Tea-Fox) | 14 |
+| 🥉 3 | [@Tea-Fox](https://github.com/Tea-Fox) | 16 |
 | 4 | [@Zeti123](https://github.com/Zeti123) | 2 |
 | 5 | [@OliveOil-83](https://github.com/OliveOil-83) | 2 |
 
