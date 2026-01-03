@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2558
+! Total Channels: 2557
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2574,4 +2574,3 @@
 @ThePublicBrief-z6y
 @FuzzyAI-q7b
 @Ai.AnimalsSeries
-@zoorumi
