@@ -1,16 +1,22 @@
 <div align="center">
   
+[![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/wKaaCRdaj)
 ![API Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=API)
-[![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/jqs7RdsX)
-
+[![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/)
 
 # AiSList
 Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
+</div>
 
-## 📊 Blocklist Statistics
+<div align="center">
+  
+## 🎉 **What's New**
+Channels can now be submitted directly through our Discord bot - no GitHub account required!
+[Join Discord](https://discord.gg/wKaaCRdaj)
+</div>
 
-[➡ View live interactive chart](https://override92.github.io/AiSList/)
-
+<br/>
+<div align="center">
 
 <!-- LEADERBOARD:START -->
 ## 🏆 Top 5 Contributor Leaderboard
@@ -24,8 +30,8 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 | 5 | [@OliveOil-83](https://github.com/OliveOil-83) | 2 |
 
 <!-- LEADERBOARD:END -->
+
 </div>
-</br>
 
 ## How to Contribute
 I welcome contributions from the community! Please help, identifying AI-generated content channels on YouTube.
@@ -59,8 +65,8 @@ If confidence exceeds a specified threshold, a pull request will be prepared aut
 
 #### - Pull Request
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) (Recommended)
+#### - [Submission on discord server](https://discord.gg/wKaaCRdaj)
 #### - Bulk submission in progress
-#### - Submission on discord server in progress
 
 ### Removal Requests
 
