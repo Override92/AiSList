@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2556
+! Total Channels: 2555
 
 ! Entries:
 @ChickofHonor-c7g
