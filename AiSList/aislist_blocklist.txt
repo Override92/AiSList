@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2026-01-04
+! Last Modified: 2026-01-05
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 2864
+! Total Channels: 2930
 
 ! Entries:
 @ChickofHonor-c7g
@@ -2881,3 +2881,69 @@
 @hamoj-v9l
 @aicarttonwold-q8q
 @factverse160
+@deepaiasmr
+@aigurujii-000
+@satisfyingaiasmr-f1h
+@satisfyingasmraivideos
+@ayaanraza-r6k
+@asmr.satisfying.cutting
+@asmr.ai.youtube
+@asmraivideo0x
+@aitrends79
+@mindglaze-07
+@snapasmr1
+@mr.crushai
+@icerikuretici0707
+@adityaladi1
+@munchkinmonkeys
+@simuiationn
+@cartoonaivideo-l5o
+@asmr_for_ai
+@hosseinparsa-k6h
+@calmfruitasmr
+@satisfyingslice-f7t
+@keyrippleasmr
+@misscrystal-s9m
+@asmr-f1j
+@videos_from_ai
+@julievirdhi
+@viral.ai.2444
+@dhruvvermakkk
+@ai-podex
+@aidigital-101
+@virtualminds_ai
+@aiaxan
+@emojiechoes-f7e
+@futuresutra
+@aishorts-i5k
+@aishortstv-u7w
+@thisvideoai
+@aishortvideo69
+@aizone2222
+@aishort-only
+@aestheticai-k9c
+@aistudio-495
+@aitrendingvideo_29
+@pramod-e6d2c
+@m3dvideoediting
+@asmrhanark
+@aicreationswitmanish
+@oddlysatisfyingfruitaiasmr
+@glasskitchensatisfying
+@vegetablescutting-asmr
+@glasscutasmr-p2x
+@crystalcutasmr-n2c
+@glasssliceasmr11
+@crystalcuts-g3v
+@crystal_slice_asmr
+@glasssliceasmryt
+@prismslice_asmr
+@glasssliceasmr0007
+@crystalaismr
+@crystalvibeofficial
+@crystalfruitasmr-l6d
+@crystalcutasmr-2
+@shorts-s200
+@crystalsliceasmr-o8k
+@asmrfruitcutting07
+@crystallcuts1
