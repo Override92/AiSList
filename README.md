@@ -23,11 +23,11 @@ Channels can now be submitted directly through our Discord bot - no GitHub accou
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@willowbank48](https://github.com/willowbank48) | 35 |
-| 🥈 2 | [@PianoMan7](https://github.com/PianoMan7) | 16 |
-| 🥉 3 | [@Tea-Fox](https://github.com/Tea-Fox) | 16 |
-| 4 | [@Zeti123](https://github.com/Zeti123) | 2 |
-| 5 | [@OliveOil-83](https://github.com/OliveOil-83) | 2 |
+| 🥇 1 | [@willowbank48](https://github.com/willowbank48) | 70 |
+| 🥈 2 | [@PianoMan7](https://github.com/PianoMan7) | 32 |
+| 🥉 3 | [@Tea-Fox](https://github.com/Tea-Fox) | 32 |
+| 4 | [@Zeti123](https://github.com/Zeti123) | 4 |
+| 5 | [@OliveOil-83](https://github.com/OliveOil-83) | 4 |
 
 <!-- LEADERBOARD:END -->
 
