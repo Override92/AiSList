@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3190
+! Total Channels: 3191
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3207,3 +3207,4 @@
 @PandaAIDuniya
 @Mr.Twist.2077
 @K.PawsAI
+@AiPaws-Brand
