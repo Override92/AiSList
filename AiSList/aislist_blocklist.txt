@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3214
+! Total Channels: 3215
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3231,3 +3231,4 @@
 @vkn-987
 @Kingofaivlogs
 @Supercarunboxing
+@Cole-Xi
