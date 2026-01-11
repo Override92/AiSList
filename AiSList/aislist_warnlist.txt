@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 11
+! Total Channels: 10
 
 ! Entries:
 @CinebotComedy
@@ -32,4 +32,3 @@
 @animalm-g2y
 @OmegaClassicRecordsTV
 @Lost-Factory-Archives
-@Thesleepfactory416
