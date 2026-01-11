@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3208
+! Total Channels: 3209
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3225,3 +3225,4 @@
 @Crazy.Things.1995
 @SafariTony
 @playthemaster
+@ArchitectEvolution
