@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3217
+! Total Channels: 3218
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3234,3 +3234,4 @@
 @Cole-Xi
 @AnimyneShorts
 @MedievalIngenuity
+@MedievalExplorations-h1t
