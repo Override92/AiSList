@@ -26,9 +26,9 @@ Channels can now be submitted directly through our Discord bot - no GitHub accou
 |------|-------------|---------------|
 | 🥇 1 | [@willowbank48](https://github.com/willowbank48) | 35 |
 | 🥈 2 | [@Tea-Fox](https://github.com/Tea-Fox) | 20 |
-| 🥉 3 | [@PianoMan7](https://github.com/PianoMan7) | 17 |
-| 4 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
-| 5 | [@Zeti123](https://github.com/Zeti123) | 2 |
+| 🥉 3 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
+| 4 | [@PianoMan7](https://github.com/PianoMan7) | 17 |
+| 5 | [@FredrikSchaefer](https://github.com/FredrikSchaefer) | 2 |
 
 <!-- LEADERBOARD:END -->
 
