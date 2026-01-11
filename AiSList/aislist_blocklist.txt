@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3206
+! Total Channels: 3207
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3223,3 +3223,4 @@
 @cat.time117
 @NewTvInfoo
 @Crazy.Things.1995
+@SafariTony
