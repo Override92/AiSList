@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://github.com/Override92/AiSList
 ! License: CC0 1.0 Universal (Public Domain)
-! Last Modified: 2026-01-11
+! Last Modified: 2026-01-12
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3252
+! Total Channels: 3253
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3270,3 +3270,4 @@
 @thehoafiles-l6v
 @h0astory22
 @storytimewithhoakarenstories
+@USCapitolUnmasked
