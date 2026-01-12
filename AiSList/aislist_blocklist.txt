@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3253
+! Total Channels: 3254
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3271,3 +3271,4 @@
 @h0astory22
 @storytimewithhoakarenstories
 @USCapitolUnmasked
+@DavidMercerUpdates
