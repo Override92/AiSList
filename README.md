@@ -3,6 +3,12 @@
 [![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/6zn9y2GYbE)
 ![API Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=API)
 [![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/stats.html)
+</br>
+<a href="https://ko-fi.com/R6R41JCKWA" target="_blank">
+    <img src="https://ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" 
+         alt="Support me on Ko-fi" 
+         height="36">
+</a>
 
 # AiSList
 Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
