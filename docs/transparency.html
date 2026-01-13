@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transparency - AiSList & AiBlock</title>
+    <meta name="description" content="Monthly costs and financial transparency for the AiSList and AiBlock project.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0a0a0b;
+            --bg-secondary: #111113;
+            --bg-tertiary: #1a1a1d;
+            --bg-card: #151517;
+            --accent-red: #e63946;
+            --accent-red-glow: rgba(230, 57, 70, 0.4);
+            --accent-red-subtle: rgba(230, 57, 70, 0.1);
+            --accent-green: #10b981;
+            --accent-green-subtle: rgba(16, 185, 129, 0.1);
+            --text-primary: #fafafa;
+            --text-secondary: #a1a1aa;
+            --text-muted: #71717a;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Space Grotesk', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* Grid background */
+        .grid-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+            background-size: 80px 80px;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        /* Glow orbs */
+        .glow-orb {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(100px);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .glow-orb-1 {
+            width: 400px;
+            height: 400px;
+            background: var(--accent-red-glow);
+            top: -100px;
+            right: -100px;
+            opacity: 0.2;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1.25rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 100;
+            background: rgba(10, 10, 11, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 700;
+            font-size: 1.25rem;
+            text-decoration: none;
+            color: var(--text-primary);
+        }
+
+        .logo-icon {
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, var(--accent-red), #ff6b6b);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: color 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .back-link:hover {
+            color: var(--text-primary);
+        }
+
+        /* Main Content */
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 2rem 4rem;
+        }
+
+        .page-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .page-tag {
+            color: var(--accent-red);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1rem;
+        }
+
+        .page-title {
+            font-size: clamp(2rem, 4vw, 2.75rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .page-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Summary Cards */
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .summary-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+
+        .summary-card.expenses {
+            border-color: rgba(230, 57, 70, 0.3);
+        }
+
+        .summary-card.income {
+            border-color: rgba(16, 185, 129, 0.3);
+        }
+
+        .summary-card.balance {
+            border-color: var(--border-hover);
+        }
+
+        .summary-label {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .summary-value {
+            font-size: 2rem;
+            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .summary-card.expenses .summary-value {
+            color: var(--accent-red);
+        }
+
+        .summary-card.income .summary-value {
+            color: var(--accent-green);
+        }
+
+        .summary-card.balance .summary-value {
+            color: var(--text-primary);
+        }
+
+        .summary-period {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-top: 0.25rem;
+        }
+
+        /* Cost Breakdown */
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .section-title svg {
+            width: 24px;
+            height: 24px;
+            color: var(--accent-red);
+        }
+
+        .cost-list {
+            display: grid;
+            gap: 1rem;
+        }
+
+        .cost-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s;
+        }
+
+        .cost-item:hover {
+            border-color: var(--border-hover);
+        }
+
+        .cost-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .cost-icon {
+            width: 40px;
+            height: 40px;
+            background: var(--accent-red-subtle);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--accent-red);
+        }
+
+        .cost-icon svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        .cost-name {
+            font-weight: 500;
+        }
+
+        .cost-description {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .cost-amount {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent-red);
+        }
+
+        /* Donation Section */
+        .donation-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2.5rem;
+            text-align: center;
+            margin-top: 3rem;
+        }
+
+        .donation-section h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .donation-section p {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .kofi-button {
+            display: inline-block;
+            transition: all 0.3s;
+        }
+
+        .kofi-button img {
+            height: 42px;
+            border: 2px solid var(--accent-red);
+            border-radius: 10px;
+            padding: 4px;
+            transition: all 0.3s;
+        }
+
+        .kofi-button:hover img {
+            box-shadow: 0 0 25px var(--accent-red-glow);
+            transform: translateY(-3px);
+        }
+
+        /* Update Notice */
+        .update-notice {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* Footer */
+        footer {
+            padding: 3rem 2rem;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+            margin-top: 4rem;
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--accent-red);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+
+            main {
+                padding: 6rem 1rem 2rem;
+            }
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .cost-item {
+                flex-direction: column;
+                gap: 1rem;
+                text-align: center;
+            }
+
+            .cost-info {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    <div class="glow-orb glow-orb-1"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="/" class="logo">
+            AiSList
+        </a>
+        <a href="/" class="back-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+            </svg>
+            Back to Home
+        </a>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="page-header">
+            <div class="page-tag">Financial Transparency</div>
+            <h1 class="page-title">Project Costs</h1>
+            <p class="page-subtitle">
+                We believe in full transparency. Here's exactly where your donations go.
+            </p>
+        </div>
+
+        <!-- Summary Cards -->
+        <div class="summary-grid">
+            <div class="summary-card expenses">
+                <div class="summary-label">Monthly Expenses</div>
+                <div class="summary-value">15.94€</div>
+                <div class="summary-period">per month</div>
+            </div>
+            <div class="summary-card income">
+                <div class="summary-label">Donations</div>
+                <div class="summary-value">0.00€</div>
+                <div class="summary-period">this month</div>
+            </div>
+            <div class="summary-card balance">
+                <div class="summary-label">Balance</div>
+                <div class="summary-value">-15.94€</div>
+                <div class="summary-period">this month</div>
+            </div>
+        </div>
+
+        <!-- Cost Breakdown -->
+        <div class="section">
+            <h2 class="section-title">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
+                </svg>
+                Monthly Cost Breakdown
+            </h2>
+            <div class="cost-list">
+                <div class="cost-item">
+                    <div class="cost-info">
+                        <div class="cost-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" />
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="cost-name">Server & Hosting</div>
+                            <div class="cost-description">VPS for website and services</div>
+                        </div>
+                    </div>
+                    <div class="cost-amount">10.58€</div>
+                </div>
+                <div class="cost-item">
+                    <div class="cost-info">
+                        <div class="cost-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="cost-name">Domains</div>
+                            <div class="cost-description">aisloplist.com and related domains</div>
+                        </div>
+                    </div>
+                    <div class="cost-amount">5.36€</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Donation Section -->
+        <div class="donation-section">
+            <h2>Support the Project</h2>
+            <p>
+                AiSList is a community project run entirely by volunteers. Your donations help cover server costs and keep the project running.
+            </p>
+            <a href="https://ko-fi.com/R6R41JCKWA" target="_blank">
+              <img src="https://ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" 
+                   alt="Support me on Ko-fi" 
+                   height="36"
+                   style="border: 1px solid var(--accent-red); border-radius: 8px; padding: 4px; transition: all 0.3s; box-shadow: 0 0 15px var(--accent-red-glow);"
+                   onmouseover="this.style.boxShadow='0 0 25px var(--accent-red-glow)'; this.style.transform='translateY(-2px)';"
+                   onmouseout="this.style.boxShadow='0 0 15px var(--accent-red-glow)'; this.style.transform='translateY(0)';">
+            </a>
+        </div>
+
+        <div class="update-notice">
+            Last updated: January 2026 · Donations are updated manually
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            Made with ❤️ by the community · 
+            <a href="https://github.com/Override92/AiSList" target="_blank">Open Source</a> · 
+            <!-- <a href="/imprint">Legal Notice</a> -->
+        </p>
+    </footer>
+</body>
+</html>
