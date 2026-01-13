@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AiSList & AiBlock - Block AI Slop on YouTube</title>
+    <meta name="description" content="Community-driven blocklist and browser extension to filter AI-generated content from YouTube. Take back your feed.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0a0a0b;
+            --bg-secondary: #111113;
+            --bg-tertiary: #1a1a1d;
+            --bg-card: #151517;
+            --accent-red: #e63946;
+            --accent-red-glow: rgba(230, 57, 70, 0.4);
+            --accent-red-subtle: rgba(230, 57, 70, 0.1);
+            --text-primary: #fafafa;
+            --text-secondary: #a1a1aa;
+            --text-muted: #71717a;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Noise texture overlay */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            opacity: 0.025;
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        /* Grid background */
+        .grid-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+            background-size: 80px 80px;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        @media (min-width: 1400px) {
+            .grid-bg {
+                background-size: 100px 100px;
+            }
+        }
+
+        @media (min-width: 1800px) {
+            .grid-bg {
+                background-size: 120px 120px;
+            }
+        }
+
+        /* Glow orbs */
+        .glow-orb {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(100px);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .glow-orb-1 {
+            width: 600px;
+            height: 600px;
+            background: var(--accent-red-glow);
+            top: -200px;
+            right: -200px;
+            opacity: 0.3;
+        }
+
+        .glow-orb-2 {
+            width: 400px;
+            height: 400px;
+            background: var(--accent-red-glow);
+            bottom: 20%;
+            left: -100px;
+            opacity: 0.15;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1.25rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 100;
+            background: rgba(10, 10, 11, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 700;
+            font-size: 1.25rem;
+            text-decoration: none;
+            color: var(--text-primary);
+        }
+
+        .logo-icon {
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, var(--accent-red), #ff6b6b);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-cta {
+            background: var(--accent-red);
+            color: white;
+            padding: 0.6rem 1.25rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            box-shadow: 0 0 20px var(--accent-red-glow);
+        }
+
+        .nav-cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 30px var(--accent-red-glow);
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 8rem 2rem 4rem;
+            position: relative;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--accent-red-subtle);
+            border: 1px solid rgba(230, 57, 70, 0.3);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            color: var(--accent-red);
+            margin-bottom: 2rem;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        .hero-badge::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            background: var(--accent-red);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 8vw, 5rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            animation: fadeInUp 0.6s ease-out 0.1s backwards;
+        }
+
+        .hero h1 span {
+            background: linear-gradient(135deg, var(--accent-red), #ff6b6b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin-bottom: 2.5rem;
+            animation: fadeInUp 0.6s ease-out 0.2s backwards;
+        }
+
+        .hero-buttons {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            animation: fadeInUp 0.6s ease-out 0.3s backwards;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.9rem 1.75rem;
+            border-radius: 10px;
+            font-weight: 600;
+            font-size: 1rem;
+            text-decoration: none;
+            transition: all 0.25s;
+            cursor: pointer;
+            border: none;
+            font-family: inherit;
+        }
+
+        .btn-primary {
+            background: var(--accent-red);
+            color: white;
+            box-shadow: 0 0 30px var(--accent-red-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 40px var(--accent-red-glow);
+        }
+
+        .btn-secondary {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-card);
+            border-color: var(--border-hover);
+            transform: translateY(-3px);
+        }
+
+        .btn svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Stats Section */
+        .stats {
+            padding: 4rem 2rem;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .stats-grid {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 1.5rem;
+        }
+
+        .stat-value {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            color: var(--text-primary);
+            font-family: 'JetBrains Mono', monospace;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value.loading {
+            background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--bg-card) 50%, var(--bg-tertiary) 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+            border-radius: 8px;
+            color: transparent;
+        }
+
+        @keyframes shimmer {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+
+        .stat-label {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Features Section */
+        .features {
+            padding: 6rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .section-tag {
+            color: var(--accent-red);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1rem;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 4vw, 2.75rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .section-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .feature-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2rem;
+            transition: all 0.3s;
+        }
+
+        .feature-card:hover {
+            border-color: var(--border-hover);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .feature-icon {
+            width: 48px;
+            height: 48px;
+            background: var(--accent-red-subtle);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1.25rem;
+            color: var(--accent-red);
+        }
+
+        .feature-icon svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        .feature-card h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+
+        .feature-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        /* Download Section */
+        .download {
+            padding: 6rem 2rem;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+        }
+
+        .download-cards {
+            max-width: 900px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+        }
+
+        .download-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2.5rem;
+            text-align: center;
+            transition: all 0.3s;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .download-card:hover {
+            border-color: var(--accent-red);
+            transform: translateY(-5px);
+            box-shadow: 0 0 40px var(--accent-red-subtle);
+        }
+
+        .browser-icon {
+            width: 64px;
+            height: 64px;
+            margin: 0 auto 1.5rem;
+        }
+
+        .download-card h3 {
+            font-size: 1.35rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .download-card p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--accent-red);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.2s;
+        }
+
+        .download-card:hover .download-btn {
+            box-shadow: 0 0 20px var(--accent-red-glow);
+        }
+
+        /* Contribute Section */
+        .contribute {
+            padding: 6rem 2rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .steps {
+            display: grid;
+            gap: 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .step {
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.75rem;
+            transition: all 0.3s;
+        }
+
+        .step:hover {
+            border-color: var(--border-hover);
+        }
+
+        .step-number {
+            width: 44px;
+            height: 44px;
+            min-width: 44px;
+            background: var(--accent-red);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .step-content h3 {
+            font-size: 1.15rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .step-content p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .step-content code {
+            background: var(--bg-tertiary);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--accent-red);
+        }
+
+        /* Community Section */
+        .community {
+            padding: 6rem 2rem;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        .community-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 2.5rem;
+        }
+
+        .community-link {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            padding: 1rem 1.75rem;
+            border-radius: 12px;
+            text-decoration: none;
+            color: var(--text-primary);
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+
+        .community-link:hover {
+            border-color: var(--border-hover);
+            transform: translateY(-3px);
+        }
+
+        .community-link svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        /* Footer */
+        footer {
+            padding: 3rem 2rem;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--accent-red);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1rem;
+            }
+
+            .download-cards {
+                grid-template-columns: 1fr;
+            }
+
+            .step {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .hero-buttons {
+                flex-direction: column;
+                width: 100%;
+                max-width: 300px;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Scroll animations */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease-out;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    <div class="glow-orb glow-orb-1"></div>
+    <div class="glow-orb glow-orb-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#" class="logo">
+            <!-- <div class="logo-icon">🚫</div> -->
+            AiSList
+        </a>
+        <ul class="nav-links">
+            <li><a href="#features">Features</a></li>
+            <li><a href="#download">Download</a></li>
+            <li><a href="#contribute">Contribute</a></li>
+            <li><a href="#community">Community</a></li>
+        </ul>
+        <a href="#download" class="nav-cta">Install Extension</a>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-badge">
+            <span>Community-Driven • Open Source</span>
+        </div>
+        <h1>Take Back Your<br><span>YouTube Feed</span></h1>
+        <p class="hero-subtitle">
+            Block AI-generated slop content from your YouTube experience. 
+            A community-maintained blocklist with browser extensions for Firefox and Chrome.
+        </p>
+        <div class="hero-buttons">
+            <a href="#download" class="btn btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                </svg>
+                Get the Extension
+            </a>
+            <a href="https://github.com/Override92/AiSList" target="_blank" class="btn btn-secondary">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                </svg>
+                View on GitHub
+            </a>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <div class="stat-value loading" id="channels-blocked">0</div>
+                <div class="stat-label">Channels Blocked</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value loading" id="github-stars">0</div>
+                <div class="stat-label">GitHub Stars</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value loading" id="contributors">0</div>
+                <div class="stat-label">Contributors</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value loading" id="total-commits">0</div>
+                <div class="stat-label">Commits</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="section-header fade-in">
+            <div class="section-tag">Features</div>
+            <h2 class="section-title">Why AiSList & AiBlock?</h2>
+            <p class="section-subtitle">
+                A simple but powerful solution to clean up your YouTube recommendations
+            </p>
+        </div>
+        <div class="features-grid">
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197m13.5-9a2.25 2.25 0 11-4.5 0 2.25 2.25 0 014.5 0z" />
+                    </svg>
+                </div>
+                <h3>Community-Maintained</h3>
+                <p>The blocklist is curated and updated by the community. Anyone can suggest channels to add through GitHub issues or Discord.</p>
+            </div>
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                </div>
+                <h3>Real-Time Blocking</h3>
+                <p>The extension hides AI slop channels instantly as you browse YouTube. No page reloads needed - content disappears automatically.</p>
+            </div>
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                    </svg>
+                </div>
+                <h3>Auto-Updates</h3>
+                <p>The blocklist syncs automatically from GitHub. New AI channels get blocked without you having to do anything.</p>
+            </div>
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
+                    </svg>
+                </div>
+                <h3>Privacy-First</h3>
+                <p>No tracking, no analytics, no data collection. The extension only reads the blocklist and filters your feed locally.</p>
+            </div>
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
+                    </svg>
+                </div>
+                <h3>Open Source</h3>
+                <p>100% open source and transparent. Review the code or contribute improvements.</p>
+            </div>
+            <div class="feature-card fade-in">
+                <div class="feature-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 9.563C9 9.252 9.252 9 9.563 9h4.874c.311 0 .563.252.563.563v4.874c0 .311-.252.563-.563.563H9.564A.562.562 0 019 14.437V9.564z" />
+                    </svg>
+                </div>
+                <h3>Cross-Browser</h3>
+                <p>Works on both Firefox and Chrome. Same great experience regardless of your browser preference.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section class="download" id="download">
+        <div class="section-header fade-in">
+            <div class="section-tag">Download</div>
+            <h2 class="section-title">Get the Extension</h2>
+            <p class="section-subtitle">
+                Install AiBlock for your browser and start enjoying a cleaner YouTube
+            </p>
+        </div>
+        <div class="download-cards">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/ai-channel-blocker-for-youtube/" target="_blank" class="download-card fade-in">
+                <img class="browser-icon" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/74.1.0/firefox/firefox.svg" alt="Firefox">
+                <h3>Firefox</h3>
+                <p>Add to Firefox Browser</p>
+                <span class="download-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="18" height="18">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                    Install Free
+                </span>
+            </a>
+            <a href="https://chromewebstore.google.com/detail/ai-channel-blocker-for-yo/opehoedgoiggiecjdlmmgjgdegjgoaim" target="_blank" class="download-card fade-in">
+                <img class="browser-icon" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/74.1.0/chrome/chrome.svg" alt="Chrome">
+                <h3>Chrome</h3>
+                <p>Add to Chrome Browser</p>
+                <span class="download-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="18" height="18">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                    Install Free
+                </span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Contribute Section -->
+    <section class="contribute" id="contribute">
+        <div class="section-header fade-in">
+            <div class="section-tag">Contribute</div>
+            <h2 class="section-title">Help Grow the List</h2>
+            <p class="section-subtitle">
+                Found an AI slop channel? Here's how you can help expand the blocklist
+            </p>
+        </div>
+        <div class="steps">
+            <div class="step fade-in">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                    <h3>Open a GitHub Issue</h3>
+                    <p>Head to the <a href="https://github.com/Override92/AiSList/issues/new" target="_blank" style="color: var(--accent-red);">AiSList repository</a> and create a new issue. Include the channel URL and a brief explanation of why it should be blocked.</p>
+                </div>
+            </div>
+            <div class="step fade-in">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                    <h3>Submit a Pull Request</h3>
+                    <p>Fork the repo, add the channel ID to <code>aislist_blocklist.txt</code>, and submit a PR. Each line is one channel ID - easy to contribute!</p>
+                </div>
+            </div>
+            <div class="step fade-in">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                    <h3>Report on Discord</h3>
+                    <p>Not familiar with GitHub? No problem! Join our Discord server and report AI channels there. Community members will review and add them to the list.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Community Section -->
+    <section class="community" id="community">
+        <div class="section-header fade-in">
+            <div class="section-tag">Community</div>
+            <h2 class="section-title">Join the Movement</h2>
+            <p class="section-subtitle">
+                Connect with us and help fight AI slop on YouTube
+            </p>
+        </div>
+        <div class="community-links fade-in">
+            <a href="https://github.com/Override92/AiSList" target="_blank" class="community-link">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                </svg>
+                AiSList Repo
+            </a>
+            <a href="https://github.com/Override92/AiBlock" target="_blank" class="community-link">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                </svg>
+                AiBlock Repo
+            </a>
+            <a href="https://discord.gg/6zn9y2GYbE" target="_blank" class="community-link">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M20.317 4.37a19.791 19.791 0 00-4.885-1.515.074.074 0 00-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 00-5.487 0 12.64 12.64 0 00-.617-1.25.077.077 0 00-.079-.037A19.736 19.736 0 003.677 4.37a.07.07 0 00-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 00.031.057 19.9 19.9 0 005.993 3.03.078.078 0 00.084-.028 14.09 14.09 0 001.226-1.994.076.076 0 00-.041-.106 13.107 13.107 0 01-1.872-.892.077.077 0 01-.008-.128 10.2 10.2 0 00.372-.292.074.074 0 01.077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 01.078.01c.12.098.246.198.373.292a.077.077 0 01-.006.127 12.299 12.299 0 01-1.873.892.077.077 0 00-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 00.084.028 19.839 19.839 0 006.002-3.03.077.077 0 00.032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 00-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
+                </svg>
+                Discord Server
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            Made with ❤️ by the community · 
+            <a href="https://github.com/Override92/AiSList" target="_blank">Open Source</a>
+        </p>
+    </footer>
+
+    <script>
+        // Animate stats with counting effect
+        function animateValue(element, start, end, duration) {
+            element.classList.remove('loading');
+            const range = end - start;
+            const increment = range / (duration / 16);
+            let current = start;
+            
+            const timer = setInterval(() => {
+                current += increment;
+                if ((increment > 0 && current >= end) || (increment < 0 && current <= end)) {
+                    element.textContent = formatNumber(end);
+                    clearInterval(timer);
+                } else {
+                    element.textContent = formatNumber(Math.floor(current));
+                }
+            }, 16);
+        }
+
+        function formatNumber(num) {
+            if (num >= 1000) {
+                return (num / 1000).toFixed(1) + 'k';
+            }
+            return num.toLocaleString();
+        }
+
+        // Fetch live stats from GitHub API
+        async function fetchStats() {
+            try {
+                // Fetch AiSList repo data
+                const aislistResponse = await fetch('https://api.github.com/repos/Override92/AiSList');
+                const aislistData = await aislistResponse.json();
+
+                // Fetch AiBlock repo data
+                const aiblockResponse = await fetch('https://api.github.com/repos/Override92/AiBlock');
+                const aiblockData = await aiblockResponse.json();
+
+                // Fetch contributors for both repos
+                const aislistContribResponse = await fetch('https://api.github.com/repos/Override92/AiSList/contributors?per_page=100');
+                const aislistContribs = await aislistContribResponse.json();
+                
+                const aiblockContribResponse = await fetch('https://api.github.com/repos/Override92/AiBlock/contributors?per_page=100');
+                const aiblockContribs = await aiblockContribResponse.json();
+
+                // Fetch blocklist to count channels
+                const blocklistResponse = await fetch('https://raw.githubusercontent.com/Override92/AiSList/main/AiSList/aislist_blocklist.txt');
+                const blocklistText = await blocklistResponse.text();
+                const channelCount = blocklistText.split('\n').filter(line => line.trim() && !line.startsWith('#')).length;
+
+                // Calculate totals
+                const totalStars = (aislistData.stargazers_count || 0) + (aiblockData.stargazers_count || 0);
+                
+                // Unique contributors across both repos
+                const allContributorLogins = new Set([
+                    ...(Array.isArray(aislistContribs) ? aislistContribs.map(c => c.login) : []),
+                    ...(Array.isArray(aiblockContribs) ? aiblockContribs.map(c => c.login) : [])
+                ]);
+                const uniqueContributors = allContributorLogins.size;
+
+                // Calculate total commits from contributors
+                const totalCommits = [
+                    ...(Array.isArray(aislistContribs) ? aislistContribs : []),
+                    ...(Array.isArray(aiblockContribs) ? aiblockContribs : [])
+                ].reduce((sum, c) => sum + (c.contributions || 0), 0);
+
+                // Animate the stats
+                animateValue(document.getElementById('channels-blocked'), 0, channelCount, 1500);
+                animateValue(document.getElementById('github-stars'), 0, totalStars, 1500);
+                animateValue(document.getElementById('contributors'), 0, uniqueContributors, 1500);
+                animateValue(document.getElementById('total-commits'), 0, totalCommits, 1500);
+
+            } catch (error) {
+                console.error('Error fetching stats:', error);
+                // Show fallback values
+                document.querySelectorAll('.stat-value').forEach(el => {
+                    el.classList.remove('loading');
+                    el.textContent = '—';
+                });
+            }
+        }
+
+        // Scroll animations
+        function handleScrollAnimations() {
+            const elements = document.querySelectorAll('.fade-in');
+            const windowHeight = window.innerHeight;
+
+            elements.forEach(element => {
+                const elementTop = element.getBoundingClientRect().top;
+                if (elementTop < windowHeight - 100) {
+                    element.classList.add('visible');
+                }
+            });
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchStats();
+            handleScrollAnimations();
+        });
+
+        window.addEventListener('scroll', handleScrollAnimations);
+
+        // Smooth scroll for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
