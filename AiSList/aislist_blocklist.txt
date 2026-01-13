@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3523
+! Total Channels: 3530
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3541,3 +3541,10 @@
 @hearttalksify
 @mindlapse.official
 @PoliticsTalk8
+@TheUnheard1283
+@WWIIUntold-k7k
+@WW2Explained.channel
+@ThisWarDocumentary
+@WW2Footnotes
+@WW2Declassified-w3p
+@seniorwellnessjourney-c6r
