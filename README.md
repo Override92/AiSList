@@ -2,7 +2,7 @@
   
 [![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/6zn9y2GYbE)
 ![API Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=API)
-[![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/)
+[![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/stats.html)
 
 # AiSList
 Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
@@ -25,7 +25,7 @@ Channels can now be submitted directly through our Discord bot - no GitHub accou
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@willowbank48](https://github.com/willowbank48) | 35 |
-| 🥈 2 | [@Tea-Fox](https://github.com/Tea-Fox) | 20 |
+| 🥈 2 | [@Tea-Fox](https://github.com/Tea-Fox) | 27 |
 | 🥉 3 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
 | 4 | [@PianoMan7](https://github.com/PianoMan7) | 17 |
 | 5 | [@BulbulatorMacher](https://github.com/BulbulatorMacher) | 8 |
