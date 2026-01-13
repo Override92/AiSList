@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3528
+! Total Channels: 3529
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3546,3 +3546,4 @@
 @WW2Explained.channel
 @ThisWarDocumentary
 @WW2Footnotes
+@WW2Declassified-w3p
