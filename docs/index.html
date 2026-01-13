@@ -631,6 +631,71 @@
             text-decoration: underline;
         }
 
+        /* Cookie Banner */
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: var(--bg-card);
+            border-top: 1px solid var(--border-color);
+            padding: 1rem 2rem;
+            z-index: 1001;
+            transform: translateY(0);
+            transition: transform 0.3s ease;
+        }
+
+        .cookie-banner.hidden {
+            transform: translateY(100%);
+            pointer-events: none;
+        }
+
+        .cookie-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-content p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin: 0;
+        }
+
+        .cookie-content strong {
+            color: var(--text-primary);
+        }
+
+        .cookie-btn {
+            background: var(--accent-red);
+            color: white;
+            border: none;
+            padding: 0.6rem 1.25rem;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .cookie-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 20px var(--accent-red-glow);
+        }
+
+        @media (max-width: 600px) {
+            .cookie-content {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+        
         /* Responsive */
         @media (max-width: 768px) {
             nav {
@@ -925,7 +990,47 @@
         </p>
     </footer>
 
+    <!-- Cookie Info Banner -->
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-content">
+            <p>🍪 <strong>No cookies here!</strong> This website doesn't use cookies or track you in any way. We only fetch public data from GitHub.</p>
+            <button class="cookie-btn" onclick="closeCookieBanner()">Got it (<span id="countdown">5</span>)</button>
+        </div>
+    </div>
+    
     <script>
+        // Cookie banner logic
+        let countdownTimer;
+        
+        function closeCookieBanner() {
+            document.getElementById('cookieBanner').classList.add('hidden');
+            localStorage.setItem('cookieBannerDismissed', 'true');
+            if (countdownTimer) clearInterval(countdownTimer);
+        }
+
+        function startCountdown() {
+            let seconds = 5;
+            const countdownEl = document.getElementById('countdown');
+            
+            countdownTimer = setInterval(() => {
+                seconds--;
+                if (countdownEl) countdownEl.textContent = seconds;
+                if (seconds <= 0) {
+                    closeCookieBanner();
+                }
+            }, 1000);
+        }
+
+        function checkCookieBanner() {
+            if (localStorage.getItem('cookieBannerDismissed') === 'true') {
+                document.getElementById('cookieBanner').classList.add('hidden');
+            } else {
+                startCountdown();
+            }
+        }
+
+        checkCookieBanner();
+        
         // Animate stats with counting effect
         function animateValue(element, start, end, duration) {
             element.classList.remove('loading');
