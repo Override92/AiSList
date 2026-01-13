@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - AiSList Review Bot</title>
+    <meta name="description" content="Terms of Service for the AiSList Review Bot on Discord.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0a0a0b;
+            --bg-secondary: #111113;
+            --bg-tertiary: #1a1a1d;
+            --bg-card: #151517;
+            --accent-red: #e63946;
+            --accent-red-glow: rgba(230, 57, 70, 0.4);
+            --accent-red-subtle: rgba(230, 57, 70, 0.1);
+            --text-primary: #fafafa;
+            --text-secondary: #a1a1aa;
+            --text-muted: #71717a;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Noise texture overlay */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            opacity: 0.025;
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        /* Grid background */
+        .grid-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+            background-size: 80px 80px;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        /* Glow orbs */
+        .glow-orb {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(100px);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .glow-orb-1 {
+            width: 600px;
+            height: 600px;
+            background: var(--accent-red-glow);
+            top: -200px;
+            right: -200px;
+            opacity: 0.3;
+        }
+
+        .glow-orb-2 {
+            width: 400px;
+            height: 400px;
+            background: var(--accent-red-glow);
+            bottom: 20%;
+            left: -100px;
+            opacity: 0.15;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1.25rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 100;
+            background: rgba(10, 10, 11, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 700;
+            font-size: 1.25rem;
+            text-decoration: none;
+            color: var(--text-primary);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-cta {
+            background: var(--accent-red);
+            color: white;
+            padding: 0.6rem 1.25rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            box-shadow: 0 0 20px var(--accent-red-glow);
+        }
+
+        .nav-cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 30px var(--accent-red-glow);
+        }
+
+        /* Main Content */
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 2rem 4rem;
+        }
+
+        /* Page Header */
+        .page-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .section-tag {
+            color: var(--accent-red);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1rem;
+        }
+
+        .page-header h1 {
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .page-header h1 span {
+            background: linear-gradient(135deg, var(--accent-red), #ff6b6b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .last-updated {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        /* Content Sections */
+        .content-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            transition: all 0.3s;
+        }
+
+        .content-section:hover {
+            border-color: var(--border-hover);
+        }
+
+        .content-section h2 {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1.25rem;
+        }
+
+        .section-number {
+            width: 36px;
+            height: 36px;
+            min-width: 36px;
+            background: var(--accent-red);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 1rem;
+        }
+
+        .content-section h3 {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin: 1.5rem 0 0.75rem;
+            color: var(--text-primary);
+        }
+
+        .content-section p {
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        .content-section ul {
+            color: var(--text-secondary);
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+        }
+
+        .content-section li {
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+
+        /* Highlight Box */
+        .highlight-box {
+            background: var(--accent-red-subtle);
+            border-left: 4px solid var(--accent-red);
+            padding: 1rem 1.5rem;
+            border-radius: 0 12px 12px 0;
+            margin: 1.5rem 0;
+        }
+
+        .highlight-box p {
+            color: var(--text-primary);
+            margin: 0;
+        }
+
+        /* Warning Box */
+        .warning-box {
+            background: rgba(239, 68, 68, 0.1);
+            border-left: 4px solid #ef4444;
+            padding: 1rem 1.5rem;
+            border-radius: 0 12px 12px 0;
+            margin: 1.5rem 0;
+        }
+
+        .warning-box p {
+            color: var(--text-primary);
+            margin: 0;
+        }
+
+        /* Links */
+        a {
+            color: var(--accent-red);
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 3rem 2rem;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--accent-red);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .footer-links {
+            margin-top: 1rem;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            main {
+                padding: 6rem 1rem 2rem;
+            }
+
+            .content-section {
+                padding: 1.5rem;
+            }
+
+            .content-section h2 {
+                font-size: 1.1rem;
+            }
+
+            .section-number {
+                width: 32px;
+                height: 32px;
+                min-width: 32px;
+                font-size: 0.9rem;
+            }
+        }
+
+        /* Scroll animations */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease-out;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    <div class="glow-orb glow-orb-1"></div>
+    <div class="glow-orb glow-orb-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="https://override92.github.io/AiSList/" class="logo">AiSList</a>
+        <ul class="nav-links">
+            <li><a href="https://override92.github.io/AiSList/#features">Features</a></li>
+            <li><a href="https://override92.github.io/AiSList/#download">Download</a></li>
+            <li><a href="https://override92.github.io/AiSList/#contribute">Contribute</a></li>
+            <li><a href="https://discord.gg/6zn9y2GYbE">Discord</a></li>
+        </ul>
+        <a href="https://override92.github.io/AiSList/#download" class="nav-cta">Install Extension</a>
+    </nav>
+
+    <main>
+        <div class="page-header fade-in">
+            <div class="section-tag">Legal</div>
+            <h1>Terms of <span>Service</span></h1>
+            <p class="last-updated">Last Updated: January 3, 2026</p>
+        </div>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">1</span> Acceptance of Terms</h2>
+            <p>By using the AiSList Review Bot ("the Bot"), you agree to these Terms of Service. If you do not agree, please do not use the Bot.</p>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">2</span> Description of Service</h2>
+            <p>The AiSList Review Bot allows users to:</p>
+            <ul>
+                <li>Submit YouTube channels suspected of using AI-generated content</li>
+                <li>Review and approve/reject channel submissions (maintainers only)</li>
+                <li>Receive notifications about submission status</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">3</span> User Responsibilities</h2>
+            <p>By using the Bot, you agree to:</p>
+            <ul>
+                <li>Provide accurate and truthful information when submitting channels</li>
+                <li>Only submit channels you genuinely believe use AI-generated content</li>
+                <li>Not abuse, spam, or misuse the submission system</li>
+                <li>Not attempt to manipulate or exploit the Bot</li>
+                <li>Respect rate limits and usage restrictions</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">4</span> Prohibited Conduct</h2>
+            <div class="warning-box">
+                <p><strong>You may not:</strong></p>
+            </div>
+            <ul>
+                <li>Submit false or malicious reports</li>
+                <li>Harass or target specific content creators without valid evidence</li>
+                <li>Use the Bot for any illegal purpose</li>
+                <li>Attempt to reverse engineer or exploit the Bot</li>
+                <li>Circumvent any security measures or rate limits</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">5</span> Submission Guidelines</h2>
+            <p>When submitting a channel:</p>
+            <ul>
+                <li>Provide a valid YouTube channel handle</li>
+                <li>Include evidence (video URL) demonstrating AI-generated content</li>
+                <li>Ensure submissions meet the AiSList criteria for AI content</li>
+            </ul>
+            <div class="highlight-box">
+                <p>Submissions that do not meet these guidelines may be rejected without notice.</p>
+            </div>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">6</span> Moderation and Decisions</h2>
+            <ul>
+                <li>All submissions are reviewed by volunteer maintainers</li>
+                <li>Maintainer decisions regarding approvals or rejections are final</li>
+                <li>We reserve the right to reject any submission without explanation</li>
+                <li>Repeated low-quality submissions may result in rate limiting</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">7</span> Data Collection</h2>
+            <p>The Bot collects Discord user ID, username, submitted channel information, and submission timestamps. This data is used for processing submissions, generating statistics, and preventing abuse.</p>
+            <p>See our <a href="bot_pp">Privacy Policy</a> for more details.</p>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">8</span> No Warranty</h2>
+            <p>The Bot is provided "as is" without warranty of any kind. We do not guarantee:</p>
+            <ul>
+                <li>Continuous or uninterrupted availability</li>
+                <li>That all submissions will be processed</li>
+                <li>Specific response times for reviews</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">9</span> Limitation of Liability</h2>
+            <p>The AiSList team and contributors are not liable for:</p>
+            <ul>
+                <li>Any damages arising from use of the Bot</li>
+                <li>Incorrect additions or removals from the blocklist</li>
+                <li>Actions taken by YouTube or channel owners</li>
+                <li>Any disputes between users and content creators</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">10</span> Changes to Terms</h2>
+            <p>We may update these Terms at any time. Continued use of the Bot after changes constitutes acceptance of the new Terms.</p>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">11</span> Termination</h2>
+            <p>We reserve the right to:</p>
+            <ul>
+                <li>Restrict or terminate access to the Bot at any time</li>
+                <li>Remove users who violate these Terms</li>
+                <li>Discontinue the Bot service without notice</li>
+            </ul>
+        </section>
+
+        <section class="content-section fade-in">
+            <h2><span class="section-number">12</span> Contact</h2>
+            <p>For questions about these Terms, please:</p>
+            <ul>
+                <li>Open an issue on <a href="https://github.com/Override92/AiSList">GitHub</a></li>
+                <li>Contact us via <a href="https://discord.gg/6zn9y2GYbE">Discord</a></li>
+            </ul>
+        </section>
+
+        <div class="highlight-box fade-in">
+            <p>By using the AiSList Review Bot, you acknowledge that you have read, understood, and agree to these Terms of Service.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Made with ❤️ by the community · <a href="https://github.com/Override92/AiSList">Open Source</a></p>
+        <div class="footer-links">
+            <a href="https://override92.github.io/AiSList/">Home</a>
+            <a href="bot_pp">Bot Privacy Policy</a>
+            <a href="https://github.com/Override92/AiSList">GitHub</a>
+            <a href="https://discord.gg/6zn9y2GYbE">Discord</a>
+        </div>
+    </footer>
+
+    <script>
+        // Scroll animations
+        function handleScrollAnimations() {
+            const elements = document.querySelectorAll('.fade-in');
+            const windowHeight = window.innerHeight;
+
+            elements.forEach(element => {
+                const elementTop = element.getBoundingClientRect().top;
+                if (elementTop < windowHeight - 100) {
+                    element.classList.add('visible');
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', handleScrollAnimations);
+        window.addEventListener('scroll', handleScrollAnimations);
+    </script>
+</body>
+</html>
