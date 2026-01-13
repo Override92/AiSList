@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 12
+! Total Channels: 13
 
 ! Entries:
 @CinebotComedy
@@ -32,5 +32,6 @@
 @animalm-g2y
 @OmegaClassicRecordsTV
 @Lost-Factory-Archives
+@PlayersUnlimitedMedia
 @AustraliaInsightTV
 @CrisisReportAussie
