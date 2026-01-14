@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3777
+! Total Channels: 3776
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3793,4 +3793,3 @@
 @cutecatstorys10
 @cutecatlover112
 @ww2powarchives
-@ThePixelPawsAI
