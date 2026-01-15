@@ -1,8 +1,8 @@
 ! AI Block Community Blocklist (High Confidence)
 ! Title: AISList - Blocklist
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
-! Homepage: https://github.com/Override92/AiSList
-! License: CC0 1.0 Universal (Public Domain)
+! Homepage: https://aisloplist.com
+! License: CC BY-NC 4.0
 ! Last Modified: 2026-01-14
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
