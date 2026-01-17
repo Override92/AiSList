@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3813
+! Total Channels: 3814
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3830,3 +3830,4 @@
 @RedditTales-s4h
 @Unpeeled-b3w
 @AITADaily-d6x
+@Sleeping_Tales
