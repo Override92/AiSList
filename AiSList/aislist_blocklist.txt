@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3808
+! Total Channels: 3809
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3825,3 +3825,4 @@
 @4channy-l5t
 @%E8%80%B6%E8%80%B6%E8%A8%80%E6%83%85
 @Ajanimalking
+@VexonTales
