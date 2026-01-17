@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3796
+! Total Channels: 3797
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3813,3 +3813,4 @@
 @PrimeStory_Lab
 @WhisperedLoree
 @NokNok-c9z
+@JackStoryWorld2
