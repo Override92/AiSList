@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3786
+! Total Channels: 3787
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3803,3 +3803,4 @@
 @K4CHANs
 @redditstoryTrail123
 @Silentnotionss
+@BitterJustice-p3w
