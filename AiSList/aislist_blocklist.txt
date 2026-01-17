@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3803
+! Total Channels: 3804
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3820,3 +3820,4 @@
 @4ChanPost
 @SamCassim-f9w
 @FrejordTales
+@SarahBoxStories
