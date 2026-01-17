@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3792
+! Total Channels: 3793
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3809,3 +3809,4 @@
 @BearTales-l2u
 @QuokkaReads
 @RedditKarmaStories-c9m
+@ReddXYZ
