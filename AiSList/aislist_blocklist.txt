@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3821
+! Total Channels: 3823
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3838,3 +3838,5 @@
 @TheBackfireEffectFanPage
 @ADMIN-THETARIFFSHADOW
 @SlopFarm2
+@theslopfarm
+@TheSlopTemple
