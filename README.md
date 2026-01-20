@@ -30,7 +30,7 @@ Channels can now be submitted directly through our Discord bot - no GitHub accou
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@Tea-Fox](https://github.com/Tea-Fox) | 40 |
+| 🥇 1 | [@Tea-Fox](https://github.com/Tea-Fox) | 41 |
 | 🥈 2 | [@Nyekomimi](https://github.com/Nyekomimi) | 38 |
 | 🥉 3 | [@willowbank48](https://github.com/willowbank48) | 35 |
 | 4 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
