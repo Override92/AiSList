@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3840
+! Total Channels: 3841
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3857,3 +3857,4 @@
 @MochiJapanesePodcast
 @MotorForge-h2i
 @MindFactsOfficialGLB
+@WRCExplained
