@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3844
+! Total Channels: 3845
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3861,3 +3861,4 @@
 @Core_Sight
 @MusstWissen
 @DjMakinetor
+@ezmaniac
