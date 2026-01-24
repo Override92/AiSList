@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3842
+! Total Channels: 3843
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3859,3 +3859,4 @@
 @MindFactsOfficialGLB
 @WRCExplained
 @Core_Sight
+@MusstWissen
