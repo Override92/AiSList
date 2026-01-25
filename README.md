@@ -2,6 +2,7 @@
   
 [![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/6zn9y2GYbE)
 ![AI Detection Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=AI-Detection)
+![API Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/37698312a7642ef30df91abfbec57a00/raw/backend-status.json&style=for-the-badge&label=API)
 [![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/stats.html)
 </br>
 <a href="https://ko-fi.com/R6R41JCKWA" target="_blank">
@@ -11,13 +12,17 @@
 </a>
 
 # AiSList
-Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AI Channel Blocker for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
+Community-maintained lists of YouTube channels that primarily use AI-generated content. These lists are used by the [AiBlock for Youtube](https://github.com/Override92/AiBlock) browser extension to help you filter AI-generated content on YouTube.
 </div>
 
 <div align="center">
   
 ## 🎉 **What's New**
-Channels can now be submitted directly through our Discord bot - no GitHub account required!<br/>
+You can now directly submit channels from within the extension. Either use the context menu, the small flag in the media controls of the video player or the "Submit AI Channel"-tab in the extension popup.
+Don't forget to set your username in the settings.
+
+</br>
+Channels can also be submitted directly through our Discord bot - no GitHub account required!<br/>
 **Note:** If your discord server nick matches your Github username, it will be linked correctly in the leaderboard.<br/>
 [Join Discord](https://discord.gg/6zn9y2GYbE)
 </div>
