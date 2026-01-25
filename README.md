@@ -75,10 +75,10 @@ Always provide evidence!
 If a channel is now submitted as an issue as prescribed, an automated [workflow](https://github.com/Override92/AiSList/blob/main/README.md#workflow) is being triggered that uses AI-Detection algorythms to check the video, provided in the issue.
 If confidence exceeds a specified threshold, a pull request will be prepared automatically.
 
-#### - Pull Request
-#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) (Recommended)
-#### - [Submission on discord server](https://discord.gg/wKaaCRdaj)
-#### - Bulk submission in progress
+#### - Submit directly from browser extension (Recommended)
+#### - [Submission on discord server](https://discord.gg/wKaaCRdaj) (Recommended)
+#### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) 
+#### - Bulk submission on hold
 
 ### Removal Requests
 
