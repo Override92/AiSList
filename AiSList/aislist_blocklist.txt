@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3868
+! Total Channels: 3869
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3885,4 +3885,5 @@
 @TheGlobalInferno
 @IronRoadMusic
 @TheTowerBrief
+@HistoricFront25
 @HistoricFront25
