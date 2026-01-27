@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3875
+! Total Channels: 3876
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3893,3 +3893,4 @@
 @Unbelievabletruestories1
 @TradeShockFiles
 @Unsolved48HoursLater
+@TrueBritainS
