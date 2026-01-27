@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3901
+! Total Channels: 3902
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3919,3 +3919,4 @@
 @itstheflopguy
 @Plotpulse01
 @TradeX-194
+@QuickLitExplained
