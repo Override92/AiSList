@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3891
+! Total Channels: 3892
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3909,3 +3909,4 @@
 @NightroNews
 @BattleBriefYTB
 @WW2Files7
+@echoesinthedark_8
