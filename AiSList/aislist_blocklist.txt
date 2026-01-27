@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3879
+! Total Channels: 3880
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3897,3 +3897,4 @@
 @TheMacMedias
 @TheWolfReports
 @PoliticsDeskUSA
+@PowerIndex-c1v
