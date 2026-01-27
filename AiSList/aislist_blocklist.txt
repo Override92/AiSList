@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3888
+! Total Channels: 3889
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3906,3 +3906,4 @@
 @MadowsNewsroom
 @EliteDemocracy-q3n
 @criminalKingsUsnews
+@NightroNews
