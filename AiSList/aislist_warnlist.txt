@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 22
+! Total Channels: 23
 
 ! Entries:
 @CinebotComedy
@@ -44,3 +44,4 @@
 @stadiumdb
 @Logan-83x
 @ToonOfficialYT
+@ClassicWorldStories
