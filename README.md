@@ -38,8 +38,8 @@ Channels can also be submitted directly through our Discord bot - no GitHub acco
 | 🥇 1 | [@Tea-Fox](https://github.com/Tea-Fox) | 41 |
 | 🥈 2 | [@Nyekomimi](https://github.com/Nyekomimi) | 38 |
 | 🥉 3 | [@willowbank48](https://github.com/willowbank48) | 35 |
-| 4 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
-| 5 | [@PianoMan7](https://github.com/PianoMan7) | 17 |
+| 4 | [@@FirefoxPluginIsBroken](https://github.com/@FirefoxPluginIsBroken) | 21 |
+| 5 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
 
 <!-- LEADERBOARD:END -->
 
