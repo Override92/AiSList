@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3956
+! Total Channels: 3957
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3974,3 +3974,4 @@
 @KrugmanAnalysis
 @JoshGeoLive
 @InvisibleTrillions
+@MacroCurrencySignal
