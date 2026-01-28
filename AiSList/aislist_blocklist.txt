@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3981
+! Total Channels: 3982
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3999,3 +3999,4 @@
 @USCanadaNewsDaily
 @GeorgeWillHUB-t6o
 @GlobalBriefDesk-n5c
+@RachelMaddow-y2v
