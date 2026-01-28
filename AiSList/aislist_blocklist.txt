@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3907
+! Total Channels: 3908
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3925,3 +3925,4 @@
 @worldwidedeception
 @BritishWarWeapons
 @HistoricalPhotos-o5r
+@Billsofarsogood
