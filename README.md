@@ -42,7 +42,7 @@ Channels can also be submitted directly through our Discord bot - no GitHub acco
 | 5 | [@factsdosto_79569](https://github.com/factsdosto_79569) | 18 |
 
 <!-- LEADERBOARD:END -->
-
+_This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
 </div>
 
 ## How to Contribute
