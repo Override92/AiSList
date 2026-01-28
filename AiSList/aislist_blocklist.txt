@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3952
+! Total Channels: 3953
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3970,3 +3970,4 @@
 @RockMemoriesVintage
 @BarrelStandard
 @Darknessfromai
+@CriticalBrief
