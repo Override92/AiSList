@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3950
+! Total Channels: 3951
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3968,3 +3968,4 @@
 @legendarynhls
 @HollywoodsOopsFiles
 @RockMemoriesVintage
+@BarrelStandard
