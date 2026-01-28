@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3916
+! Total Channels: 3917
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3934,3 +3934,4 @@
 @NoShade-yb
 @PAPStories1
 @GoldenAffairsStory
+@PowerAbuseStories
