@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3925
+! Total Channels: 3926
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3943,3 +3943,4 @@
 @VoicesUnchained_1
 @WhenJusticeArrives-v9p
 @WhisperedStories-US
+@KindSoulNarratives-c4c
