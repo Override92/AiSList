@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3942
+! Total Channels: 3943
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3960,3 +3960,4 @@
 @BEATStories3
 @BlackTalesStories
 @WhisperAnimalsTales
+@DreadMemoir
