@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3936
+! Total Channels: 3937
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3954,3 +3954,4 @@
 @BlackVoicesUncut
 @Black_PoliceBrutalityTv
 @MariaAparecidaCostadeLima-j4e
+@TheJusticeReport-z4e
