@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3974
+! Total Channels: 3975
 
 ! Entries:
 @ChickofHonor-c7g
@@ -3992,3 +3992,4 @@
 @SecretValor7
 @HyperLineFactory
 @ExtremeSurvivaal
+@JohnBoltonExplained
