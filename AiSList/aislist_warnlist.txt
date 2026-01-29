@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 27
+! Total Channels: 28
 
 ! Entries:
 @CinebotComedy
@@ -49,3 +49,4 @@
 @Dollwave
 @HighStreetYT
 @TellyHD-e5q
+@LobotomySoundRecords
