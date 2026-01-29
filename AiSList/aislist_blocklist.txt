@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4007
+! Total Channels: 4008
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4025,3 +4025,4 @@
 @HistoricReelsAI
 @TheStoicEnglish
 @TheHistoryAnalyst
+@BookShortzSchool
