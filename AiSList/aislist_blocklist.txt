@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4020
+! Total Channels: 4021
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4038,3 +4038,4 @@
 @geopoliticalalert
 @SignalsToWorld
 @CivicStorm-1
+@ThePowerLedgers
