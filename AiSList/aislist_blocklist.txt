@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4026
+! Total Channels: 4027
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4044,3 +4044,4 @@
 @WarEclipse007
 @OpenCourtAnalysis
 @HeadlineBrief
+@ExecutiveBrief-m3b
