@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 3999
+! Total Channels: 4000
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4017,3 +4017,4 @@
 @PenguinTales-h4v
 @IKISSA.I
 @UnlimitedTalesUS
+@CozyEnglishTalk
