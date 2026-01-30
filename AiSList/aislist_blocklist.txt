@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4048
+! Total Channels: 4049
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4066,3 +4066,4 @@
 @ThePatelReport
 @Black_LegacyTv
 @geopoliticalalert
+@SoldierSignal2
