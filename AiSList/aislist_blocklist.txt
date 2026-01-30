@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4078
+! Total Channels: 4079
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4096,3 +4096,4 @@
 @WWIIRegistry
 @WW2Stories40
 @Blood-and-Ledgers
+@buddyanalysis
