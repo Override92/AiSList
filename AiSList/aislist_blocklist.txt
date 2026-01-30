@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4080
+! Total Channels: 4081
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4098,3 +4098,4 @@
 @Blood-and-Ledgers
 @buddyanalysis
 @FinancialExposures
+@FunCurrency
