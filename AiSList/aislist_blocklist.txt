@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4045
+! Total Channels: 4046
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4063,3 +4063,4 @@
 @TheShipLine
 @CANADAPENSIONTALK
 @SeniorsBoost
+@ThePatelReport
