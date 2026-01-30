@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4060
+! Total Channels: 4061
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4078,3 +4078,4 @@
 @funzoneleon
 @JoJoMoonKidz
 @moraiskidz
+@Fairytalesho
