@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4076
+! Total Channels: 4077
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4094,3 +4094,4 @@
 @PaulJamesNews
 @DormirSabio
 @WWIIRegistry
+@WW2Stories40
