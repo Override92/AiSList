@@ -39,7 +39,7 @@ Channels can also be submitted directly through our Discord bot - no GitHub acco
 | 🥈 2 | [@Tea-Fox](https://github.com/Tea-Fox) | 41 |
 | 🥉 3 | [@Nyekomimi](https://github.com/Nyekomimi) | 38 |
 | 4 | [@willowbank48](https://github.com/willowbank48) | 35 |
-| 5 | [@Honk Honk](https://github.com/Honk Honk) | 24 |
+| 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 24 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
