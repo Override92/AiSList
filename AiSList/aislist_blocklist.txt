@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4102
+! Total Channels: 4104
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4120,3 +4120,5 @@
 @BureauBrief
 @TheAsianGuy-k9h
 @CelebrityUnseen-07
+@WW2Informant
+@WartimeWhisperss
