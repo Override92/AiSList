@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4095
+! Total Channels: 4096
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4113,3 +4113,4 @@
 @bzcnews24
 @SmithJack2
 @TNNEWS24-news
+@BruceLeeThePowerWithin
