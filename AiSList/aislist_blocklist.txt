@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4098
+! Total Channels: 4099
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4116,3 +4116,4 @@
 @BruceLeeThePowerWithin
 @MensVitalityHub-w8m
 @FuegoRescateCuentos
+@ATMNewsBangla
