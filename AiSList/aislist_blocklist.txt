@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4113
+! Total Channels: 4114
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4131,3 +4131,4 @@
 @UnbreakableandArmed
 @HQStories-r2w
 @The_Unbroken_Trident
+@USEliteWomen
