@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4111
+! Total Channels: 4112
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4129,3 +4129,4 @@
 @GormtheOld25
 @QuietGuard
 @UnbreakableandArmed
+@HQStories-r2w
