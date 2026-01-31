@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4114
+! Total Channels: 4115
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4132,3 +4132,4 @@
 @HQStories-r2w
 @The_Unbroken_Trident
 @USEliteWomen
+@moviessexplained
