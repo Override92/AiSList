@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4179
+! Total Channels: 4180
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4197,3 +4197,4 @@
 @CrownWatch-q5j
 @TacticalPursuits-h7e
 @wildweststorytelling
+@cowboycampfirechronicles1
