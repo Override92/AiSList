@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4164
+! Total Channels: 4165
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4182,3 +4182,4 @@
 @ValorChronicles44
 @VeteransValor
 @KarmaTelltales
+@RealBlackVoices-w6i
