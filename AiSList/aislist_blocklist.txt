@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4189
+! Total Channels: 4190
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4207,3 +4207,4 @@
 @Tales.oftheHeart
 @RealUndercoverStories
 @JohnWayneForgottenLegends
+@LegalLies
