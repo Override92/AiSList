@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4205
+! Total Channels: 4206
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4223,3 +4223,4 @@
 @ClashRoyaleSrb
 @TheOldGuardWatch
 @justicearchivestv
+@PatriotNationMedia
