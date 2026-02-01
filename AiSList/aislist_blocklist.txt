@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4182
+! Total Channels: 4183
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4200,3 +4200,4 @@
 @cowboycampfirechronicles1
 @SeagalStories
 @RevengewithChloee
+@HeartEchoStories-YT
