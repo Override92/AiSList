@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4186
+! Total Channels: 4187
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4204,3 +4204,4 @@
 @EchoesofHonor-z7v
 @TheEternalGuardWatch
 @SAGEstories3
+@Tales.oftheHeart
