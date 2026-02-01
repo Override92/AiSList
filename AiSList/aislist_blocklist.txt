@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4197
+! Total Channels: 4198
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4215,3 +4215,4 @@
 @VoiceBeyondColor
 @WatchersoftheTomb
 @BlackTalesSecrets
+@TombGuardFables
