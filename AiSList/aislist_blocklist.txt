@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4163
+! Total Channels: 4164
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4181,3 +4181,4 @@
 @WrongTargetStories-68
 @ValorChronicles44
 @VeteransValor
+@KarmaTelltales
