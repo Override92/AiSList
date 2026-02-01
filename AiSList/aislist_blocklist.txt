@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4192
+! Total Channels: 4193
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4210,3 +4210,4 @@
 @LegalLies
 @PawsofHope-9m
 @royalchampion7
+@GrimMedievalTales
