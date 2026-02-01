@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4173
+! Total Channels: 4174
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4191,3 +4191,4 @@
 @Paws_OfJustice
 @TT.Soul.Stories.86
 @K9RescueLegends
+@GlobalStoryX
