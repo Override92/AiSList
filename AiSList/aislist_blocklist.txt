@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4225
+! Total Channels: 4226
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4243,3 +4243,4 @@
 @CartoonFablesWorld0.1
 @TheExplaineryYT
 @WhyExplained00
+@BarhoundOfficial
