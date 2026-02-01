@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4176
+! Total Channels: 4177
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4194,3 +4194,4 @@
 @GlobalStoryX
 @StoriesDreams-o3y
 @TheDawnOfHope-son
+@CrownWatch-q5j
