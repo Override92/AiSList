@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4243
+! Total Channels: 4244
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4261,3 +4261,4 @@
 @Mythical.History
 @SleepyHistory-n9k
 @HistoryUncovered-q2k
+@VoxHistoria21
