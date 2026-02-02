@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4276
+! Total Channels: 4277
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4294,3 +4294,4 @@
 @ObsidianVengeance-x2n
 @sisterverdict
 @historyofcoins-xyz
+@RarecoinHQ
