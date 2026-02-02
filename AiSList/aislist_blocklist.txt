@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4334
+! Total Channels: 4335
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4352,3 +4352,4 @@
 @Htechbyhassan
 @LifeWorthLivings
 @FootballExplainerYT
+@NPCFinance100
