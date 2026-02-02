@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4258
+! Total Channels: 4259
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4276,3 +4276,4 @@
 @BoringHistorian-d5y
 @MYFutureTrends-v2u
 @MoneyMeetsHistory-g6m
+@CosmicHaven-h4u
