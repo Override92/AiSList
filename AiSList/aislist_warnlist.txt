@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 39
+! Total Channels: 40
 
 ! Entries:
 @CinebotComedy
@@ -61,3 +61,4 @@
 @GrimdarkTavern
 @TheEvaluat0r
 @itgirlplaybook
+@ClipCoveYT
