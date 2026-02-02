@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4300
+! Total Channels: 4301
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4318,3 +4318,4 @@
 @RandomRevenge.22
 @RevengeWithKaren
 @revengerize
+@RevengeTruth-m2z
