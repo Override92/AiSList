@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4344
+! Total Channels: 4345
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4362,3 +4362,4 @@
 @StarboundHFY
 @RadioReimagined
 @scifi-hfy2
+@GalacticSciVerse786
