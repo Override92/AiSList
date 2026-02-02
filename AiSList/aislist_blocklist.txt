@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4311
+! Total Channels: 4312
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4329,3 +4329,4 @@
 @UltimateRevenge-p9u
 @R_RevengeStory
 @SarahWilliams-d1w
+@WWII-Unlocked
