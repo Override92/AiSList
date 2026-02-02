@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4320
+! Total Channels: 4321
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4338,3 +4338,4 @@
 @TrueEmotionsHub0
 @RevengeOTCP
 @Alexonomics1
+@Stories-of-Valor
