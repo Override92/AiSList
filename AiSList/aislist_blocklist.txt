@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4252
+! Total Channels: 4253
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4270,3 +4270,4 @@
 @bambierantsroblox
 @ExplainingEverythingChannel
 @FilmExplained-c1x
+@FilmRecapExplained
