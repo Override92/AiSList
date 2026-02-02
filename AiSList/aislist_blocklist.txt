@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4292
+! Total Channels: 4293
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4310,3 +4310,4 @@
 @WorldRareCoin
 @rarecoinsinfo
 @TheFinalRevenge
+@RetributionDiariesMain
