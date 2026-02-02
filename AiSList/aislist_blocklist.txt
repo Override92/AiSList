@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4279
+! Total Channels: 4280
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4297,3 +4297,4 @@
 @RarecoinHQ
 @MuhammadEhtisham-t2d
 @Worldcoinshistory
+@WhisperedVengeance-v7w
