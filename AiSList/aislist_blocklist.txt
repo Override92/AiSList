@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4282
+! Total Channels: 4283
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4300,3 +4300,4 @@
 @WhisperedVengeance-v7w
 @TheConcealedBonds
 @StoriesofMarina
+@JadesStories-b7k
