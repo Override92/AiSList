@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4261
+! Total Channels: 4262
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4279,3 +4279,4 @@
 @CosmicHaven-h4u
 @ImaginethePhysics
 @TheTacticalPsychology
+@TheMoneyFilesChannel
