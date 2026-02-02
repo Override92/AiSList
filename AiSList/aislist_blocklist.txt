@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4289
+! Total Channels: 4290
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4307,3 +4307,4 @@
 @requiemofthrones
 @worldcoinmystique
 @JusticeStands-u7b
+@WorldRareCoin
