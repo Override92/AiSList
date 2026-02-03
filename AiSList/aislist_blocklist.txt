@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4543
+! Total Channels: 4544
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4561,3 +4561,4 @@
 @Next-LevelTech-p3p
 @WhatifAnime5
 @TheBoring.Historian
+@TheDreamoria
