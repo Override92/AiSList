@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4418
+! Total Channels: 4419
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4436,3 +4436,4 @@
 @HFYAhxaris
 @HFYVeltharaSci-Fi
 @Sci-FiStory-k9z
+@DeathworldLegends
