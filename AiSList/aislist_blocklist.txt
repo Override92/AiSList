@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4489
+! Total Channels: 4490
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4507,3 +4507,4 @@
 @HFYRecorder
 @TheLastOnesStanding-k3v
 @talesdominion
+@TheCouncilsFear
