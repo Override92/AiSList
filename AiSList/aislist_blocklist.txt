@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4510
+! Total Channels: 4511
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4528,3 +4528,4 @@
 @MafiaLoveCinematic
 @ScarlettMafiaStories
 @VeronicaNarration
+@WhispersBeforeSleepyt0
