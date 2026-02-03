@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4505
+! Total Channels: 4506
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4523,3 +4523,4 @@
 @KRAYONMAFIA
 @zoltekex1640
 @Mafia-Syndicate6368
+@CrimsonMafiaTaless
