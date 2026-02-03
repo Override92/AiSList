@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4259
+! Total Channels: 4260
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4277,3 +4277,4 @@
 @JoeHistoryCorner
 @DeepSleepMode
 @JREShorts
+@YourComputerCompanion
