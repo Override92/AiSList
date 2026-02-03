@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4509
+! Total Channels: 4510
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4527,3 +4527,4 @@
 @TouchingBossStories
 @MafiaLoveCinematic
 @ScarlettMafiaStories
+@VeronicaNarration
