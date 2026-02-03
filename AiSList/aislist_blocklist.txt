@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4485
+! Total Channels: 4486
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4503,3 +4503,4 @@
 @EpicSpaceChronicles
 @Humanity_Ascendant
 @BeyondEarthHFYSci-Fi2
+@StarbreakersHFY
