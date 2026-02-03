@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4534
+! Total Channels: 4535
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4552,3 +4552,4 @@
 @UnchartedEarthYT
 @SleepyTimeHistoryYT
 @TheHiddenRealityDocs
+@HistoryThroughTime1
