@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4360
+! Total Channels: 4361
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4378,3 +4378,4 @@
 @IngenuityChronicles
 @HFYGlobalTales
 @HFYDeathworldsTales
+@GalacticLoreFoundry
