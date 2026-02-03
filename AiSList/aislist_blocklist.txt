@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4472
+! Total Channels: 4473
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4490,3 +4490,4 @@
 @Echoesofwar999
 @IconicUSATales
 @LifeInsightsStory
+@HenrysStories
