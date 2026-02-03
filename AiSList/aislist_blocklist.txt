@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4456
+! Total Channels: 4457
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4474,3 +4474,4 @@
 @whisperedstorieshub
 @IronwoodNarratives
 @PawsofCourage-h6o
+@HFYAdultVault
