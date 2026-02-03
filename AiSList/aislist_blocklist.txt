@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4433
+! Total Channels: 4434
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4451,3 +4451,4 @@
 @bruceleetheuntoldlegacy-n9y
 @vellob
 @WW2Untold-t3e
+@WW2Insider
