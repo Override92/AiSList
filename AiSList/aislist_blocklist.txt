@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4492
+! Total Channels: 4493
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4510,3 +4510,4 @@
 @TheCouncilsFear
 @HealingMafiaRomance
 @SerenasRomanceVault
+@EmpireRomance76_US
