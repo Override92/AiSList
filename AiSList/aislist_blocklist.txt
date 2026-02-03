@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4383
+! Total Channels: 4384
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4401,3 +4401,4 @@
 @CitizenAnalytics
 @Oldsteed-j4q
 @SleepOnSpace
+@CrownyDagger
