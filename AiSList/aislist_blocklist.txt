@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4399
+! Total Channels: 4400
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4417,3 +4417,4 @@
 @TheHistoryofWar11
 @KingdomChroniclesUS
 @EchoTales-i6n
+@StoryUnfolds-s
