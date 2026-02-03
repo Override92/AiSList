@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4536
+! Total Channels: 4537
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4554,3 +4554,4 @@
 @TheHiddenRealityDocs
 @HistoryThroughTime1
 @BarelyEvolved
+@ForgetfulHistorian
