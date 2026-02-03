@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4348
+! Total Channels: 4349
 
 ! Entries:
 @ChickofHonor-c7g
@@ -4366,3 +4366,4 @@
 @StarsOfTerra
 @GalaticHFYDark
 @TerraFirmaHFY
+@ManForgeHFY
