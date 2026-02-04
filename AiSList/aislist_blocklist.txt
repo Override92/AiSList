@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4287
+! Total Channels: 4288
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4303,3 +4303,4 @@
 @JungThoughts
 @ThePhysicsParadox-c6n
 @WorldMetalMusicHub
+@AdrineColeManagement
