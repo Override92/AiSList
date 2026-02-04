@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4275
+! Total Channels: 4276
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4291,3 +4291,4 @@
 @LofiTokyoDreamsOfficial
 @FinanceHiistorian
 @CosmicEchoes94
+@FrameNFury
