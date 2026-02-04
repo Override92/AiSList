@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4283
+! Total Channels: 4284
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4299,3 +4299,4 @@
 @ThePeacefulWatcher
 @SunoKidsChannel
 @EpicToonKids
+@MindToActionChannel
