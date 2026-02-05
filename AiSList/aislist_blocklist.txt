@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4294
+! Total Channels: 4295
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4310,3 +4310,4 @@
 @MintlyWise
 @Aditi_Aadia
 @FiatFilesCurrency
+@MacroReality
