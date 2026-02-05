@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4434
+! Total Channels: 4418
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -51,7 +51,6 @@
 @FantasyLabAI
 @AI-GEN-XI
 @LittleMan-x5x
-@BarbaProductions-le23gy
 @tarworldofficial
 @Unbelievable.thought
 @chargeforward-z
@@ -840,7 +839,6 @@
 @bravepets-h6f
 @rescuebykindness
 @bravecatss
-@bravepawskidsanimalrescuers
 @aibaby2.0kd4
 @gayanitales
 @babyrescue706
@@ -914,7 +912,6 @@
 @babysavemesorry
 @nitinkatam
 @savingbaby
-@savethebaby8
 @furguardrescue
 @savethebaby-p4u
 @thechoicelabtv
@@ -967,7 +964,6 @@
 @CanadianWW2Tales
 @historyneedtoknow705
 @RF-melody
-@JewishTeachingsForAll
 @Historyvisit
 @90sNeonSoul
 @AnimalDoesWhatDaily
@@ -2377,7 +2373,6 @@
 @ww2legacy-g4w
 @ww2mystery-i5x
 @wizardweaponforge
-@ww2uncovered1
 @ww2vaultofsecrets5
 @ww2vaultyt
 @wwiiarchives-channel
@@ -2442,11 +2437,8 @@
 @ww2forgottenletters
 @wartimememory
 @voicesfromthevoid1970
-@generalsofww2
-@voicesofthegenerals
 @ww2history2005
 @wwiichronicles_05
-@ww1ww2history
 @bestww2archives
 @pattonswardairy2y
 @ruthlessgeneral
@@ -2932,7 +2924,6 @@
 @aipuppyvideo-12
 @aicortoonhistory
 @uniquemoveofficial
-@aidiariesx
 @aishorts0.12
 @theloyallab
 @folora2.0
@@ -3656,7 +3647,6 @@
 @Hidden_Justice_0
 @DOCSTORIES-p9m
 @growforjustice
-@SilentAuthority-g4d
 @VoicesUnchained_1
 @WhenJusticeArrives-v9p
 @WhisperedStories-US
@@ -3698,7 +3688,6 @@
 @ghoulexplains
 @FalconFury07
 @EconomicAlarm-yt
-@NewsFlashAmerica-f4o
 @MrJosephStories1
 @KavionCapital
 @CONOMICFANCLUB
@@ -3745,7 +3734,6 @@
 @NationalMediaHouse
 @geopoliticalalert
 @SignalsToWorld
-@CivicStorm-1
 @ThePowerLedgers
 @ThePatternReportx
 @DarkFearTV-i2u
@@ -3824,7 +3812,6 @@
 @TNNEWS24-news
 @BruceLeeThePowerWithin
 @MensVitalityHub-w8m
-@FuegoRescateCuentos
 @ATMNewsBangla
 @BureauBrief
 @TheAsianGuy-k9h
@@ -3877,7 +3864,6 @@
 @Thecharlesrivera
 @BeProductiveOfficial
 @untoldstoriesweb
-@zoevinegar
 @AvenueStoriesMovie
 @SwordsExplained
 @TimeFaker
@@ -3903,7 +3889,6 @@
 @TT.Soul.Stories.86
 @GlobalStoryX
 @StoriesDreams-o3y
-@TheDawnOfHope-son
 @CrownWatch-q5j
 @TacticalPursuits-h7e
 @wildweststorytelling
@@ -3935,7 +3920,6 @@
 @justicearchivestv
 @PatriotNationMedia
 @Jhonewillreports
-@FocusedPolitics
 @straightbriefnews
 @LuvsStories
 @BuildTheInsight
