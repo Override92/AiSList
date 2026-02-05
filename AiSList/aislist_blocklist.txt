@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4394
+! Total Channels: 4395
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4410,3 +4410,4 @@
 @BAYANWATCHS
 @WarAndMystery
 @IndependentFinancialHistorian
+@TheSilverThesis
