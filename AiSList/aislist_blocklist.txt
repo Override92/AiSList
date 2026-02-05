@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4398
+! Total Channels: 4399
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4414,3 +4414,4 @@
 @TheHiddenEconomyTV
 @Macrosignallive
 @FinanceSaga-u6f
+@macrohub12
