@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4409
+! Total Channels: 4410
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4425,3 +4425,4 @@
 @EconemyMeetHistory
 @THE-EmpireCycles
 @BULLIONSTREET-m7g
+@China-Silver-Alert
