@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://aisloplist.com
 ! License: CC BY-NC 4.0
-! Last Modified: 2026-02-04
+! Last Modified: 2026-02-05
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4293
+! Total Channels: 4294
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4309,3 +4309,4 @@
 @TheCoinFinancials
 @MintlyWise
 @Aditi_Aadia
+@FiatFilesCurrency
