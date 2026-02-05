@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4366
+! Total Channels: 4367
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4382,3 +4382,4 @@
 @ThePhysicalSilverDesk
 @Currency_and_Currency
 @The-Next-Candle
+@EconomyMeetsWarfare
