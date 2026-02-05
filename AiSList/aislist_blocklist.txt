@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4392
+! Total Channels: 4393
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4408,3 +4408,4 @@
 @WarRecalled
 @ghostsofthebattlefield-error
 @BAYANWATCHS
+@WarAndMystery
