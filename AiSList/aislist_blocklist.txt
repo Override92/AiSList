@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4339
+! Total Channels: 4340
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4355,3 +4355,4 @@
 @MotiveStrands
 @FinanceEconomistt
 @FINACEWAR
+@FinalCurrency
