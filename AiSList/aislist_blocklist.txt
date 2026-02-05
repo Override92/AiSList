@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4363
+! Total Channels: 4364
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4379,3 +4379,4 @@
 @EngineeredMarkets
 @Michaelsaylorfanzone
 @GlobalBullionWatch
+@ThePhysicalSilverDesk
