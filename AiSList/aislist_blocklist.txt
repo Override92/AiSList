@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4342
+! Total Channels: 4343
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4358,3 +4358,4 @@
 @FinalCurrency
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
+@MissileDiscovery
