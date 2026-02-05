@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4330
+! Total Channels: 4331
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4346,3 +4346,4 @@
 @f123x-c6u
 @warfaremeetseconomy
 @WarAndMystery
+@The_Smart_Retirement
