@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4333
+! Total Channels: 4334
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4349,3 +4349,4 @@
 @The_Smart_Retirement
 @SilverSignalRoom
 @CurrencyArchive
+@MoneyArchive-Official
