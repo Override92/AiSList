@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4314
+! Total Channels: 4315
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4330,3 +4330,4 @@
 @moneymomentum-x9o
 @BehindTheRichh
 @TheChizzyCurrency
+@JonConnecting_Currency
