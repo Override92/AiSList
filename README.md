@@ -35,10 +35,10 @@ Channels can also be submitted directly through our Discord bot - no GitHub acco
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 294 |
-| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 198 |
-| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 130 |
-| 4 | [@Tea-Fox](https://github.com/Tea-Fox) | 44 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 303 |
+| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 200 |
+| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 134 |
+| 4 | [@Tea-Fox](https://github.com/Tea-Fox) | 45 |
 | 5 | [@Nyekomimi](https://github.com/Nyekomimi) | 38 |
 
 <!-- LEADERBOARD:END -->
