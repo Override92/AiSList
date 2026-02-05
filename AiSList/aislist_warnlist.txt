@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 49
+! Total Channels: 50
 
 ! Entries:
 @CinebotComedy
@@ -72,3 +72,4 @@
 @TheExtreme-Edge
 @FarsiJazz
 @WorldWithoutShopWindows
+@ManipulationUnleashed
