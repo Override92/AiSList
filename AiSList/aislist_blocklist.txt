@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4386
+! Total Channels: 4387
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4402,3 +4402,4 @@
 @warfaremeetseconomy
 @iWW2-Files
 @WW2Embers
+@FoxholeFrequencies
