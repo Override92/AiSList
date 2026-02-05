@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4307
+! Total Channels: 4308
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4323,3 +4323,4 @@
 @EconomicRecords
 @EconomyUnfilteredTV
 @TrueNorthAnalysis
+@ArchiveCurrencyAG
