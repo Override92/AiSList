@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4447
+! Total Channels: 4448
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4463,3 +4463,4 @@
 @HFYChroniclesCosmos
 @HYF-FireintheVoid
 @Scifiuniverse1
+@SciFiRealmExtra
