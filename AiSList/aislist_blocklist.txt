@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4441
+! Total Channels: 4442
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4457,3 +4457,4 @@
 @losEnigmasdelTiempo
 @Historia.Brutal
 @LasCronicasBelicas
+@DepthoftheSoulS
