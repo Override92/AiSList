@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4486
+! Total Channels: 4487
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4502,3 +4502,4 @@
 @Maxstone010
 @EliteInsight-p5n
 @PoliticsRaw
+@TheVeridexRoom
