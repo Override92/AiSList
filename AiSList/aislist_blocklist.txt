@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4464
+! Total Channels: 4465
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4480,3 +4480,4 @@
 @DepthPsychologyHub
 @psychologyscholar
 @SensitivePsychology0
+@PsychLens25
