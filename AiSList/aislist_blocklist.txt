@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4473
+! Total Channels: 4474
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4489,3 +4489,4 @@
 @themetaltrader
 @TheKenzoGuy
 @Moneysignal01
+@stateeconomy
