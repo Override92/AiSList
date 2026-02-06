@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4435
+! Total Channels: 4436
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4451,3 +4451,4 @@
 @maxscifiespa%C3%B1ol
 @CienciayFiccionFHY
 @LaOdiseaHumanaHFY
+@ManhwaResumenIA
