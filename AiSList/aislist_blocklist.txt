@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4482
+! Total Channels: 4483
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4498,3 +4498,4 @@
 @TheWolffThoughts
 @SHOCKINGNEWS-k2w
 @Noetica7
+@GeorgeSpeaks-i5g
