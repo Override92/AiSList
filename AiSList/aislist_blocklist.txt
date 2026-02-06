@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4460
+! Total Channels: 4461
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4476,3 +4476,4 @@
 @ReversHub
 @Kee0111
 @KooPsychology
+@Drk-Minds
