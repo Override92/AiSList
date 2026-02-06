@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4454
+! Total Channels: 4455
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4470,3 +4470,4 @@
 @Estrellasretro-TV
 @planeta_antiguo
 @Thynksee
+@PsychologyIsSimplified
