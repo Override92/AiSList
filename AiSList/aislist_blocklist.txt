@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4438
+! Total Channels: 4439
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4454,3 +4454,4 @@
 @ManhwaResumenIA
 @EcosdeSangre-s5k
 @HistoriaHispana
+@losEnigmasdelTiempo
