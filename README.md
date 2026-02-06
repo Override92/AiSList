@@ -35,11 +35,11 @@ Channels can also be submitted directly through our Discord bot - no GitHub acco
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 303 |
-| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 200 |
-| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 134 |
-| 4 | [@Tea-Fox](https://github.com/Tea-Fox) | 45 |
-| 5 | [@Nyekomimi](https://github.com/Nyekomimi) | 38 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 306 |
+| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 201 |
+| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 152 |
+| 4 | [@magikarp](https://github.com/magikarp) | 121 |
+| 5 | [@Tea-Fox](https://github.com/Tea-Fox) | 45 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
