@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4562
+! Total Channels: 4563
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4578,3 +4578,4 @@
 @TheLogicRoom
 @ThousandTalesTube
 @Ai_blues_rock
+@EquatorAI
