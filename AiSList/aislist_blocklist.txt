@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4519
+! Total Channels: 4520
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4535,3 +4535,4 @@
 @CerebroyMentedeCastellanos
 @Raizmental01
 @SABIDUR%C3%8DANEUROCORPORAL
+@C%C3%A9ntrateenti
