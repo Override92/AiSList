@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4564
+! Total Channels: 4565
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4580,3 +4580,4 @@
 @Ai_blues_rock
 @EquatorAI
 @UnveilingPsychology
+@LauraRosenTalks
