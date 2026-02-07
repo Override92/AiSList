@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4565
+! Total Channels: 4550
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -2110,7 +2110,6 @@
 @aiasmr-r7z
 @asmrbotai
 @criancasinteligentes
-@TheEmailToolbox
 @YesterVerseYT
 @AmericanFrontierChannel
 @ANZAC_War_Tales
@@ -3555,7 +3554,6 @@
 @Paws-AI
 @LaborLegacies
 @BoringHistoryofficial
-@LearnToDIY360
 @mindlapse.official
 @AiMew-n9y
 @AiMewStory
@@ -3698,15 +3696,12 @@
 @RushdiAnalysis
 @sushjha9140
 @Admin_ExploreUSNow_Channel
-@USCanadaNewsDaily
 @GeorgeWillHUB-t6o
-@GlobalBriefDesk-n5c
 @RachelMaddow-y2v
 @BeforeTimeForget
 @kaito3641
 @shkamran
 @BuddhismWisdom7
-@Tales-Texts
 @motivation_7940
 @Minipawsai
 @minipaws.studio
@@ -3902,7 +3897,6 @@
 @Tales.oftheHeart
 @RealUndercoverStories
 @JohnWayneForgottenLegends
-@LegalLies
 @PawsofHope-9m
 @royalchampion7
 @GrimMedievalTales
@@ -3983,7 +3977,6 @@
 @ATRevengeTales
 @valuablerarecoins
 @quarterdollar1
-@ElliesStoriesYT
 @HerBitterTruth
 @ObsidianVengeance-x2n
 @sisterverdict
@@ -3997,7 +3990,6 @@
 @JadesStories-b7k
 @SereneDramaStories-u4o
 @EchoesJustice
-@VoicesofHerMission
 @requiemofthrones
 @worldcoinmystique
 @JusticeStands-u7b
@@ -4006,7 +3998,6 @@
 @TheFinalRevenge
 @RetributionDiariesMain
 @silentfamilydrama1
-@GildedVengeance
 @DimpleRevengeDiaries
 @RevengeStart9
 @RandomRevenge.22
@@ -4126,7 +4117,6 @@
 @IronHorseNarratives
 @billionaireceostory
 @truelifetales001
-@SilentStories-q4m
 @HFYAhxaris
 @HFYVeltharaSci-Fi
 @Sci-FiStory-k9z
@@ -4157,7 +4147,6 @@
 @FilesofJustice-3
 @DontForgetMe-q3i
 @AfroKorean-Legends
-@TheVampiresVow
 @JadaStories
 @HerMissionChronicles
 @JusticeInView
@@ -4183,13 +4172,11 @@
 @KindnessDiary-x3t
 @Echoesofwar999
 @IconicUSATales
-@LifeInsightsStory
 @HenrysStories
 @Life-ChangingTrueStories
 @Underworld-Love-Stories
 @MafiaTalesVault
 @SilentBossStories
-@LisaRomanceLibrary
 @graceslovestories
 @PlotTwisttoPower
 @IRONSKY_ARMADA
@@ -4200,7 +4187,6 @@
 @StarbreakersHFY
 @HFYRecorder
 @TheLastOnesStanding-k3v
-@talesdominion
 @TheCouncilsFear
 @HealingMafiaRomance
 @SerenasRomanceVault
@@ -4235,7 +4221,6 @@
 @febirizki8490
 @JinnaLoveStories
 @BosssStories
-@SecretMafiaStories
 @blackintimehistory
 @build.a.better.u
 @HistoryVersez
