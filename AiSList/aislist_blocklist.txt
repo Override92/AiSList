@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4528
+! Total Channels: 4529
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4544,3 +4544,4 @@
 @Sabidur%C3%ADadeJung
 @NeuroDivulgadores
 @NeuroEsenciaYT
+@EthaanWalker
