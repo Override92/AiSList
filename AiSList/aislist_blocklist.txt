@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4560
+! Total Channels: 4561
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4575,4 +4575,5 @@
 @DailyNYCReporter
 @thesurrealmind
 @FactWyse
-@https://www.youtube.com/@TheLogicRoom
+@TheLogicRoom
+@ThousandTalesTube
