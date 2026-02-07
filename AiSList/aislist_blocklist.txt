@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4534
+! Total Channels: 4535
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4550,3 +4550,4 @@
 @Zen_Vibes_Station
 @Voces-Africanas
 @PatelFiles
+@BlueShockFiles
