@@ -21,10 +21,6 @@ Community-maintained lists of YouTube channels that primarily use AI-generated c
 You can now directly submit channels from within the extension. Either use the context menu, the small flag in the media controls of the video player or the "Submit AI Channel"-tab in the extension popup.
 Don't forget to set your username in the settings.
 
-</br>
-Channels can also be submitted directly through our Discord bot - no GitHub account required!<br/>
-**Note:** If your discord server nick matches your Github username, it will be linked correctly in the leaderboard.<br/>
-[Join Discord](https://discord.gg/6zn9y2GYbE)
 </div>
 
 <br/>
@@ -72,9 +68,6 @@ A YouTube channel should be added if it:
 
 Always provide evidence!
 
-If a channel is now submitted as an issue as prescribed, an automated [workflow](https://github.com/Override92/AiSList/blob/main/README.md#workflow) is being triggered that uses AI-Detection algorythms to check the video, provided in the issue.
-If confidence exceeds a specified threshold, a pull request will be prepared automatically.
-
 #### - Submit directly from browser extension (Recommended)
 #### - [Submission on discord server](https://discord.gg/wKaaCRdaj) (Recommended)
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) 
@@ -85,6 +78,8 @@ If confidence exceeds a specified threshold, a pull request will be prepared aut
 If you are certain that a channel is not using AI-generated content or doesn't meet the qualification criteria, you can request the removal from a list.
 Always provide channelHandle, a detailed description and at least one video as evidence.
 Be aware that removals will not be handled with priority.
+
+Once a channel is approved and has been added to the list, it will actively monitored. Changing the handle will not protect a channel from being listed, even if it doesn't publish AI content anymore.
 
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=removal-request.md)
 
