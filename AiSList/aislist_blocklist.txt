@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4553
+! Total Channels: 4554
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4569,3 +4569,4 @@
 @EvangelioProhibido
 @ForerunnerArchive
 @psychronix-b8e
+@MoneyCovered31
