@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4578
+! Total Channels: 4579
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4594,3 +4594,4 @@
 @EliteDemocracyAnalysis
 @EconomicSignalsYT
 @VireliaMusic
+@Zen_vibes_station
