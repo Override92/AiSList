@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4609
+! Total Channels: 4607
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -3706,7 +3706,6 @@
 @minipaws.studio
 @TheGlobalShiftt
 @MindMuscle-w2n
-@PowerSee-w4p
 @hollywoodforeverstories
 @HerUntoldStory-sad
 @PenguinTales-h4v
@@ -3730,7 +3729,6 @@
 @SignalsToWorld
 @ThePowerLedgers
 @ThePatternReportx
-@DarkFearTV-i2u
 @WarEclipse007
 @OpenCourtAnalysis
 @HeadlineBrief
