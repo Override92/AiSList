@@ -31,11 +31,11 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 330 |
-| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 204 |
-| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 166 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 332 |
+| 🥈 2 | [@Anonymous](https://github.com/Anonymous) | 208 |
+| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 169 |
 | 4 | [@magikarp](https://github.com/magikarp) | 121 |
-| 5 | [@Tea-Fox](https://github.com/Tea-Fox) | 45 |
+| 5 | [@Oflogon](https://github.com/Oflogon) | 121 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
@@ -79,7 +79,7 @@ If you are certain that a channel is not using AI-generated content or doesn't m
 Always provide channelHandle, a detailed description and at least one video as evidence.
 Be aware that removals will not be handled with priority.
 
-Once a channel is approved and has been added to the list, it will actively monitored. Changing the handle will not protect a channel from being listed, even if it doesn't publish AI content anymore.
+Once a channel was approved and has been added to the list, it is actively being monitored. Changing the handle will not protect a channel from being listed, even if it doesn't publish AI content anymore.
 
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=removal-request.md)
 
