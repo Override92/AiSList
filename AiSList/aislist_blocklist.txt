@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4689
+! Total Channels: 4690
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4704,4 +4704,5 @@
 @CienciaNocturnaa
 @MysteriesoftheUniverse00
 @Justi%C3%A7adasSombras
-@SecrretoSombrr%C3%ADo
+@OficinadeHallazgosOcultos
+@Error_199_es
