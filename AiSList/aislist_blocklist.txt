@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4690
+! Total Channels: 4691
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4706,3 +4706,4 @@
 @Justi%C3%A7adasSombras
 @OficinadeHallazgosOcultos
 @Error_199_es
+@ZonaX_spain
