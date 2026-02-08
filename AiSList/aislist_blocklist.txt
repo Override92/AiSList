@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4581
+! Total Channels: 4582
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4597,3 +4597,4 @@
 @Zen_vibes_station
 @BardStrike
 @Glum_Aleks
+@EchoesOfVelandria
