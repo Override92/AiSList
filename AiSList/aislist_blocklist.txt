@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4619
+! Total Channels: 4620
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4635,3 +4635,4 @@
 @TheInnerZodiac
 @ZodiacRealm
 @ZodiacOfMind
+@zodiaclife6448
