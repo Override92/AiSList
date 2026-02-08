@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4714
+! Total Channels: 4710
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -3851,7 +3851,6 @@
 @EconomicShift
 @M.A.NMediaCA
 @moneyempires01
-@CarRestoreHub-q5v
 @TutorialsWithJames
 @Thecharlesrivera
 @BeProductiveOfficial
@@ -4292,13 +4291,11 @@
 @ArchiveCurrencyAG
 @AshFinanceSecrets
 @FinanceHacks-e7m
-@BarnFindRevived
 @moneymomentum-x9o
 @BehindTheRichh
 @TheChizzyCurrency
 @JonConnecting_Currency
 @TheFinanceChronicle
-@Kevinomics-1M
 @FinanceReality-z3v
 @RebornHistorian
 @Kevonomics1m
@@ -4415,7 +4412,6 @@
 @TuPsiqueOscura
 @profesortodoo
 @Dato-Visual
-@FederalPowerDesk
 @whitekittenstory
 @alokislive-t7c
 @evolutionstudiosai
