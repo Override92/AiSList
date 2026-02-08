@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4632
+! Total Channels: 4633
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4648,3 +4648,4 @@
 @AstrologyAlchemy-s7x
 @ArcaneZodiacSagittarius
 @Zodiacsingtoday
+@ZodiacAndBeyond
