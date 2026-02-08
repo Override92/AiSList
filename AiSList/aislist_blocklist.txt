@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4649
+! Total Channels: 4650
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4665,3 +4665,4 @@
 @TheMilitaryHub
 @L%C3%BAinCelticMusic
 @lenguajedelalma1
+@Detr%C3%A1sdelMercadofinanzas
