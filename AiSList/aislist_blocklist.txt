@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4696
+! Total Channels: 4697
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4711,4 +4711,5 @@
 @Insidepolitics-7
 @suleimanyusufu7923
 @linhnguyen-du2ib
-@VerdictSpike
+@ViewofPolitics
+@SignalDesk-t4h
