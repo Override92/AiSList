@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4658
+! Total Channels: 4653
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4668,9 +4668,4 @@
 @Detr%C3%A1sdelMercadofinanzas
 @PhilosophyOriginsEspa%C3%B1ol
 @Stardust-Sounds1
-@RelatosDeHerald
-@MiSuspiro
-@LaVerdaddeCarlos-e5r
-@Kookee-ze1ro
-@bi-o-LE-ta
-@bi-o-LE-ta
+@ConflictosFamiliares-68
