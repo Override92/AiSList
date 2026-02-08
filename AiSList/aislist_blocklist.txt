@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4569
+! Total Channels: 4568
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -674,7 +674,6 @@
 @aicartoons-j9o
 @aicatunivers
 @upwale-e3p
-@cattoonverse
 @meowtasticai-k9o
 @aicutecats1a
 @aitoons_kidscrt
