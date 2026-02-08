@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4639
+! Total Channels: 4640
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4654,4 +4654,5 @@
 @NationPulseOfficial
 @RachelToday-24
 @TheSealedRoom
-@HistoriadelMundo-yt
+@LaPalmaVisible
+@LibertadEcon%C3%B3micaTV
