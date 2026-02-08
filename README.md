@@ -79,7 +79,7 @@ If you are certain that a channel is not using AI-generated content or doesn't m
 Always provide channelHandle, a detailed description and at least one video as evidence.
 Be aware that removals will not be handled with priority.
 
-Once a channel is approved and has been added to the list, it will actively monitored. Changing the handle will not protect a channel from being listed, even if it doesn't publish AI content anymore.
+Once a channel was approved and has been added to the list, it is actively being monitored. Changing the handle will not protect a channel from being listed, even if it doesn't publish AI content anymore.
 
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=removal-request.md)
 
