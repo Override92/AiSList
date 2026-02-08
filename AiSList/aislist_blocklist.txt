@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4710
+! Total Channels: 4707
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4120,7 +4120,6 @@
 @TheCosmicVanguard
 @HFYDEATHWORLDSTORIES
 @HFYPrimitiveEarth
-@StarboundChronicles1
 @GalacticZenHFY
 @scifispace34
 @HUMAN_SALVAGE
@@ -4144,7 +4143,6 @@
 @DontForgetMe-q3i
 @AfroKorean-Legends
 @JadaStories
-@HerMissionChronicles
 @JusticeInView
 @DARKNESS12-u1w
 @DramaHOA-u5v
@@ -4196,7 +4194,6 @@
 @johndasser6874
 @DestinyStories-z8k
 @Happy-Love-Stories
-@KRAYONMAFIA
 @zoltekex1640
 @Mafia-Syndicate6368
 @CrimsonMafiaTaless
