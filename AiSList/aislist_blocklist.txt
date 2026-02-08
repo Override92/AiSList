@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://aisloplist.com
 ! License: CC BY-NC 4.0
-! Last Modified: 2026-02-07
+! Last Modified: 2026-02-08
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4568
+! Total Channels: 4609
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4584,3 +4584,43 @@
 @esqueletosabioo
 @cozy_cat_mom
 @beyondthebattlefield-x6f
+@PawsAIStorie
+@GujjarbhaiG48
+@Financedecoded-g4x
+@AsianGuy_AG
+@CLARA.MONROE
+@DanielHarper-t8u
+@EliteDemocracyAnalysis
+@EconomicSignalsYT
+@VireliaMusic
+@Zen_vibes_station
+@BardStrike
+@Glum_Aleks
+@EchoesOfVelandria
+@Hassistah
+@CurrencyArchives-AG
+@Saludparapersonasmayores-l1n
+@DrLorenzoArens
+@RespiraMotivaci%C3%B3n
+@SaludDoradaPlus
+@CuerpoenArmon%C3%ADa-q8p
+@Dra.AlmaSerrano
+@DrLuisRomero
+@Dr.JavierSerrano
+@DrFernandoManochi
+@DespiertaTuEsenciaYT
+@MentalidadImparable-j7j
+@VerdadesSilenciosas-q1o
+@GabrielPsicolog%C3%ADaMotivacional
+@SaludDoradaPlus
+@Psicolog%C3%ADadeMarianRojas
+@MindMirrorEspa%C3%B1ol
+@RelatosqueConmueven1
+@GabrielRol%C3%B3nMotivacion-e6f
+@Evoluci%C3%B3n%C3%89pica
+@MotivaRol%C3%B3n
+@SinL%C3%ADmitesMotivaci%C3%B3n
+@dra.dlbadom%C3%A9nech
+@LaVozdelosAncestross
+@Dra.Isabel_Mart%C3%ADnez
+@mujeresmagneticas
