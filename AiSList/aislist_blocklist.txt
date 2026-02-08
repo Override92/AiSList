@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4595
+! Total Channels: 4596
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4611,3 +4611,4 @@
 @DrFernandoManochi
 @DespiertaTuEsenciaYT
 @MentalidadImparable-j7j
+@VerdadesSilenciosas-q1o
