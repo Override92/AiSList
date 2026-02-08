@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4652
+! Total Channels: 4651
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4666,5 +4666,4 @@
 @L%C3%BAinCelticMusic
 @lenguajedelalma1
 @Detr%C3%A1sdelMercadofinanzas
-@PhilosophyOriginsEspa%C3%B1ol
-@FantaSceneMusic
+@ElLadoSombr%C3%ADo-t5m
