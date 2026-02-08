@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4701
+! Total Channels: 4702
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4717,3 +4717,4 @@
 @analystbycon
 @Timeless.Value.Academy
 @TheDalioMethodUSA
+@SeniorSecrets60
