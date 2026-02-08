@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4583
+! Total Channels: 4584
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4599,3 +4599,4 @@
 @Glum_Aleks
 @EchoesOfVelandria
 @Hassistah
+@CurrencyArchives-AG
