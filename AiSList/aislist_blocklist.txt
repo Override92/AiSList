@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4822
+! Total Channels: 4823
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4838,3 +4838,4 @@
 @Lindazpi-h3x
 @DiamondRevengeUS2
 @EveryLoveStoryy
+@CapitolBrief-o2w
