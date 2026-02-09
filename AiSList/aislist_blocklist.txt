@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4929
+! Total Channels: 4930
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4945,3 +4945,4 @@
 @LightStories-S3
 @ElNarradorMinimalista
 @MyStoriesbyLena
+@WrittenbyRowan
