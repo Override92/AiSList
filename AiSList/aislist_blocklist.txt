@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4801
+! Total Channels: 4802
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4816,4 +4816,5 @@
 @AgainstAllOdds-d6y
 @CalmDramaStories
 @camelliashiddenstories
-@CalmRevengeUS
+@RevengeCoffee09
+@Olivia.Revenge.Stories
