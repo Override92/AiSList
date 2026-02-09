@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4881
+! Total Channels: 4882
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4897,3 +4897,4 @@
 @LovingWifesLit
 @BlackVelvetMurders
 @SophiesSecretCourt
+@Revengebytruth83
