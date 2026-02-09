@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4782
+! Total Channels: 4783
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4798,3 +4798,4 @@
 @HOATALES-u6z
 @HOAcase
 @The.Hidden.ChapterYT
+@JusticeRevealed-us
