@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4792
+! Total Channels: 4793
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4808,3 +4808,4 @@
 @karenstorieslab
 @L%C3%A1grimasdeHierro
 @RevengeDadUS
+@HEROStoriesSG
