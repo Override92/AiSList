@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4839
+! Total Channels: 4840
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4855,3 +4855,4 @@
 @Talking-71-ai
 @thefolkdices
 @SilenceHitsHarder
+@VerdeckteWahrheit-q2d
