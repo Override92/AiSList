@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4964
+! Total Channels: 4965
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4980,3 +4980,4 @@
 @VeteranTruths-911
 @theothersideofbetrayal
 @MistakenWeakness
+@samqlepc4252
