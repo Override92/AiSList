@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4755
+! Total Channels: 4756
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4771,3 +4771,4 @@
 @ThePublicRecord.100k
 @dingdongsimsim
 @SafeCapital-u3r
+@gujaratnishaan8030
