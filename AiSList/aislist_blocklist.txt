@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4707
+! Total Channels: 4717
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4723,3 +4723,9 @@
 @SaludconDatos1
 @signosdesalud
 @SaludIntegral-n3d
+@StrongSeniors365
+@BioWellnessZone
+@HealthBite-1M
+@WisdomSimplified-u8e
+@NutritionNation-h8i
+@HealthSense70
