@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4849
+! Total Channels: 4850
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4864,4 +4864,5 @@
 @UmeshYaduwanshi-e9l
 @UnitedWar-x6o
 @RevengeWithKiren
+@Sanctum123
 @Sanctum123
