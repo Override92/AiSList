@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 66
+! Total Channels: 67
 
 ! Entries:
 @CinebotComedy
@@ -89,3 +89,4 @@
 @Tobuscus
 @Public_AffairReport
 @SeniorsHub65
+@GunLawUpdates
