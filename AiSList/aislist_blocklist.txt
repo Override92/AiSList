@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4768
+! Total Channels: 4769
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4784,3 +4784,4 @@
 @BlackPowerTruth
 @DogHeroesofLight
 @BrokenLawTales-999
+@CopsCamVault
