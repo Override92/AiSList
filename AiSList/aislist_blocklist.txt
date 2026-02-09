@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4837
+! Total Channels: 4838
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4853,3 +4853,4 @@
 @BlackFreedom2
 @TheRiversideTavern
 @Talking-71-ai
+@thefolkdices
