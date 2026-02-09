@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4762
+! Total Channels: 4763
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4778,3 +4778,4 @@
 @StoriesBetweenSeasons
 @LiesBurnSlowly
 @TheyDidntWait
+@HauntedHeartsStories
