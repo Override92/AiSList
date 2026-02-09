@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4864
+! Total Channels: 4865
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4880,3 +4880,4 @@
 @RevengeWithKiren
 @RittHeppding
 @viral_texts
+@CapitolBrief-o2w
