@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4713
+! Total Channels: 4693
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -1769,10 +1769,6 @@
 @aryanxp099
 @doraemonhindi-s4j
 @fact-i9w
-@cataicuteee
-@cutecatai_funny
-@cutecatai-kakada
-@aicutecat-d4k
 @aiburst79
 @aicats-letsgo
 @shorts123ai
@@ -1925,7 +1921,6 @@
 @glassifyvisuals
 @asmraivedio
 @asmrglasscutting-w4m
-@bestaiasmrsatisfying
 @asmrglassai-j4m
 @asmraiglassfruite
 @satisfyingasmr-ai0.6g
@@ -2159,7 +2154,6 @@
 @FuriousGarageYT
 @AmericasWarfactories
 @WW2-ShadowForge
-@CanadianWW2Archives
 @WW2Insight
 @ConfessedOutLoud
 @RedditUpdatesStorytime
@@ -2441,7 +2435,6 @@
 @pattonswardairy2y
 @ruthlessgeneral
 @revengediaries-1k
-@wwiichronicles_05
 @legendsofcommand-o8d
 @ww2shadowarchives.5
 @darkhistoryexplainer
@@ -2450,7 +2443,6 @@
 @ww2-b7o
 @warxhistory
 @boringww2
-@ww2shadowarchives.5
 @warzonecodghost
 @ww2chronicles-e1s
 @legacyofvalor_45
@@ -3553,7 +3545,6 @@
 @Paws-AI
 @LaborLegacies
 @BoringHistoryofficial
-@mindlapse.official
 @AiMew-n9y
 @AiMewStory
 @WennDingeReden
@@ -3753,7 +3744,6 @@
 @SeniorsBoost
 @ThePatelReport
 @Black_LegacyTv
-@geopoliticalalert
 @SoldierSignal2
 @WarshipsRemembered
 @ToldUntold
@@ -3906,7 +3896,6 @@
 @UndercoverTales-m1v
 @SilentStories-c4y
 @ClashRoyaleSrb
-@TheOldGuardWatch
 @justicearchivestv
 @PatriotNationMedia
 @Jhonewillreports
@@ -4336,7 +4325,6 @@
 @chillfinancialhistorian
 @GlobalEye1st
 @WarrenBuffettStrategy1
-@EngineeredMarkets
 @Michaelsaylorfanzone
 @GlobalBullionWatch
 @ThePhysicalSilverDesk
@@ -4359,7 +4347,6 @@
 @RaysPlaybook11
 @TheInvestorsTruth-h1
 @TheOLearyLedger
-@warfaremeetseconomy
 @iWW2-Files
 @WW2Embers
 @FoxholeFrequencies
@@ -4368,7 +4355,6 @@
 @WarRecalled
 @ghostsofthebattlefield-error
 @BAYANWATCHS
-@WarAndMystery
 @IndependentFinancialHistorian
 @TheSilverThesis
 @TheHiddenEconomyTV
@@ -4486,7 +4472,6 @@
 @PensionToday_Live
 @ThePublicLogicyt
 @Aeelu-v7q
-@DemocracyonTrial
 @mejoradiaria
 @ELT%C3%8DOFRONTAL
 @LaCosaEsSimple
@@ -4581,10 +4566,8 @@
 @AsianGuy_AG
 @CLARA.MONROE
 @DanielHarper-t8u
-@EliteDemocracyAnalysis
 @EconomicSignalsYT
 @VireliaMusic
-@Zen_vibes_station
 @BardStrike
 @Glum_Aleks
 @EchoesOfVelandria
@@ -4603,7 +4586,6 @@
 @MentalidadImparable-j7j
 @VerdadesSilenciosas-q1o
 @GabrielPsicolog%C3%ADaMotivacional
-@SaludDoradaPlus
 @Psicolog%C3%ADadeMarianRojas
 @MindMirrorEspa%C3%B1ol
 @RelatosqueConmueven1
@@ -4661,7 +4643,6 @@
 @ElLadoSombr%C3%ADo-t5m
 @PhilosophyOriginsEspa%C3%B1ol
 @FantaSceneMusic
-@ElLadoSombr%C3%ADo-t5m
 @TheConflictNexus45
 @Stardust-Sounds1
 @RelatosDeHerald
@@ -4677,7 +4658,6 @@
 @LaFuriaDeLaAbuela
 @HistoriasdeAntonio
 @MrStickySensei
-@CanadaObserverOfficial
 @Z%C3%A1v%C4%9Bsd%C4%9Bjin
 @pages-of-then
 @CienciaFeynman
