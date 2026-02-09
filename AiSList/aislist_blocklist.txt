@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4754
+! Total Channels: 4755
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4770,3 +4770,4 @@
 @MindSketches01
 @ThePublicRecord.100k
 @dingdongsimsim
+@SafeCapital-u3r
