@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4904
+! Total Channels: 4905
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4920,3 +4920,4 @@
 @MateriaFuncionalConsciente
 @MateriaFuncionalConsciente
 @Francolyy
+@gorillatechofficial
