@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4884
+! Total Channels: 4885
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4900,3 +4900,4 @@
 @KARMATales_TV
 @Revengebytruth83
 @Renacimiento_Oscuro
+@ArquetiposJung
