@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4764
+! Total Channels: 4765
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4780,3 +4780,4 @@
 @TheyDidntWait
 @HauntedHeartsStories
 @NoOneAbovetheLaw-m2k
+@JusticeZoneTV
