@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4934
+! Total Channels: 4935
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -4950,3 +4950,4 @@
 @Forever_StoriesYT
 @TheReceiptRoom-k4i
 @TheQuietOrders
+@Voicesemotions
