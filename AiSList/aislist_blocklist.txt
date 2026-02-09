@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4807
+! Total Channels: 4808
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4822,4 +4822,5 @@
 @EndllesStories
 @RevegeOlus
 @Hijodeoscarwilde
-@LenaStories-s5x
+@FamilySecretsUnspoken
+@RevengeTitanX205
