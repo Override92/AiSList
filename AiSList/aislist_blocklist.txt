@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4844
+! Total Channels: 4845
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4860,3 +4860,4 @@
 @JusticiaFr%C3%ADa091
 @LucasHerreraVozdeHistorias
 @JusticiaVoz
+@StoryMania-b1u
