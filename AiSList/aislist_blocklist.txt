@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4699
+! Total Channels: 4700
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4715,3 +4715,4 @@
 @IbrahimTraorestories88
 @TheGeopoliticalEdges
 @TrueLineToday-t8q
+@TheGlobalBriefDesk
