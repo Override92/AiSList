@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4813
+! Total Channels: 4814
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4826,6 +4826,7 @@
 @RevengeTitanX205
 @SugarRevengeUSA
 @Tale-Teller198
-@IceRevenge25
-@RevengeZoneReddit1
-@rewindjustic
+@HeartUnveiled
+@SHATTEREDHOME-t6f
+@TalesofLove-channel
+@BackyardVoices
