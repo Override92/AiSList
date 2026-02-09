@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4790
+! Total Channels: 4791
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4806,3 +4806,4 @@
 @Unsaid-Stories99
 @RevengeLineUS
 @DESTINOCRUEL87
+@RESStories99
