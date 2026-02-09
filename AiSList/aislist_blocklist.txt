@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4835
+! Total Channels: 4836
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4851,3 +4851,4 @@
 @GrrTalesStories-w7j
 @RevengeStoryOfLife
 @BlackFreedom2
+@TheRiversideTavern
