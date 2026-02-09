@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4749
+! Total Channels: 4750
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4764,4 +4764,5 @@
 @GroundRealityTV-b7u
 @FutureFrame-h2z
 @shadowwarfiles1
-@RushdiExplains-v2h
+@VoicebyMaddow
+@KatieJohn-o9m
