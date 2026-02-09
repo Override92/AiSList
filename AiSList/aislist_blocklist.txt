@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4820
+! Total Channels: 4821
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4835,4 +4835,5 @@
 @the.love.chapters
 @SpiritGuidesStories
 @RealLoveStories-byLia_Stuart
-@lovewritteninsilence
+@Lindazpi-h3x
+@DiamondRevengeUS2
