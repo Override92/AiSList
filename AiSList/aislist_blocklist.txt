@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4876
+! Total Channels: 4877
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4891,4 +4891,5 @@
 @BikerGuardianStories123
 @italianmafia1
 @DarkenedRevenge-y9g
-@RichManBrokenHeartStories
+@CowboyLegends-yt
+@AwarenessStoriestv
