@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4718
+! Total Channels: 4719
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4734,3 +4734,4 @@
 @CapitalReveal
 @EchoesfromPyongyang-911
 @SilverChain22
+@DanielMercerYT
