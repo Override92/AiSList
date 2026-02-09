@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 4731
+! Total Channels: 4732
 ! Entries:
 @ChickofHonor-c7g
 @ChickofHonor-o6d
@@ -4747,3 +4747,4 @@
 @ChoquedeEras
 @LaHistoriaQueNuncaFuex
 @Canada_Voice-r7x
+@SWSchannel60
