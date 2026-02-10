@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5078
+! Total Channels: 5079
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5094,3 +5094,4 @@
 @user-dc4of4bh8k
 @HumanKindStories-q4b
 @Blacktodaystories
+@Hardware_Report
