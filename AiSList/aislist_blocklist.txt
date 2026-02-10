@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5122
+! Total Channels: 5123
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5138,3 +5138,4 @@
 @Ruta-Narrada
 @H%C3%A9roesInmortales-2
 @AmoresdeHonorEterno
+@CUENTOSSDEPASI%C3%93N
