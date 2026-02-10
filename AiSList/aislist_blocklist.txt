@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5115
+! Total Channels: 5116
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5131,3 +5131,4 @@
 @HistoriaOlvidada-k6e
 @Huellas_Eternas_0000
 @Legado-Militar
+@HistoriadeHispania-d3s
