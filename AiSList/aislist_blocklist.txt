@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5112
+! Total Channels: 5113
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5128,3 +5128,4 @@
 @Maestro_Enigma
 @El.Historiador.Nocturno
 @Sue%C3%B1os_de_Mar
+@HistoriaOlvidada-k6e
