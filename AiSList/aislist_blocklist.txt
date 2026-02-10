@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5022
+! Total Channels: 5023
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5038,3 +5038,4 @@
 @HiddenFamilySecrets-i7p
 @sd-love-stories-2
 @SoulfulRomance-Channel
+@TheQuietRevenge-US
