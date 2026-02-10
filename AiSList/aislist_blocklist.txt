@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5129
+! Total Channels: 5130
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5145,3 +5145,4 @@
 @AlmaMexicanaYT
 @Lifecanvasstories
 @Dra.CamilaVexa
+@LaOraci%C3%B3ndeMedianoche
