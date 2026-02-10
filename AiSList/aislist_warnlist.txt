@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 70
+! Total Channels: 71
 
 ! Entries:
 @CinebotComedy
@@ -93,3 +93,4 @@
 @TheMidnightRogue
 @fexl
 @Meowtopia-k8z
+@BestiasdeCarretera
