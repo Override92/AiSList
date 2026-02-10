@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5107
+! Total Channels: 5108
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5123,3 +5123,4 @@
 @diariosmedievales
 @Kil%C3%B3metroCeroo
 @MemoriadeBatallas
+@guerra.brutal
