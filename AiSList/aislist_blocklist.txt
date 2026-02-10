@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5030
+! Total Channels: 5031
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5046,3 +5046,4 @@
 @MafiaBossWhisper
 @anthmad5065
 @TimelessLoveStories-q1b
+@EmmaStories-t7l
