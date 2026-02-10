@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5067
+! Total Channels: 5068
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5083,3 +5083,4 @@
 @BillionaireHeartStoriesusa
 @EmbersofEmotions888
 @GildedBetrayalStories
+@LettersSent
