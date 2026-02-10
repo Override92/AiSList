@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5104
+! Total Channels: 5105
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5120,3 +5120,4 @@
 @豐澤財經
 @Dr.CharlesBennettSeniorHealth
 @UnifyEconomy
+@diariosmedievales
