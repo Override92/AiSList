@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5289
+! Total Channels: 5290
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5305,3 +5305,4 @@
 @MarketFaultLines
 @PhysicswithFeynman-1
 @OracionesdeAmoraJes%C3%BAs-r8w
+@GlobalObserver-g8z
