@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5268
+! Total Channels: 5269
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5284,3 +5284,4 @@
 @FinanceCapitalYT
 @US-CanadaWatch
 @BritainPressroom
+@InsightWireNow
