@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5303
+! Total Channels: 5304
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5319,3 +5319,4 @@
 @ForbiddenRootsOfficial
 @EvergreenSeniors-n4o
 @TimelessCropsHaven
+@EverGreenHomeLiving
