@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5213
+! Total Channels: 5214
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5229,3 +5229,4 @@
 @%ED%95%98%EC%9E%AC%ED%98%81-b3b
 @groundsreality
 @LateNightWithSarah
+@JusticeExplained-d6l
