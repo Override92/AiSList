@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5242
+! Total Channels: 5243
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5258,3 +5258,4 @@
 @TheVerdictBreakdown
 @AmericaFiles-y6t
 @GlobalBrief78
+@TheLegalBreakdown-v9r
