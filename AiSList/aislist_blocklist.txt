@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5217
+! Total Channels: 5218
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5233,3 +5233,4 @@
 @NewsflashAmerica-h4y
 @TheBriefingDesk-b6e
 @LaBibliaRevela
+@HerenciadeloAlto
