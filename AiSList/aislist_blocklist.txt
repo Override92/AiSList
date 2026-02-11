@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5280
+! Total Channels: 5281
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5296,3 +5296,4 @@
 @ArchivoSellado
 @FederalPrimeNews7
 @Canada_News_2026
+@DemocracyDecoded-1
