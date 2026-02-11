@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5279
+! Total Channels: 5280
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5295,3 +5295,4 @@
 @capitalconflict
 @ArchivoSellado
 @FederalPrimeNews7
+@Canada_News_2026
