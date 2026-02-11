@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5253
+! Total Channels: 5254
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5269,3 +5269,4 @@
 @StraightTalkCapital
 @NARCIFIC-t6h
 @CapitolCurvature
+@USAuthorityNews
