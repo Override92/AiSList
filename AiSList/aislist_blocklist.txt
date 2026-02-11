@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5235
+! Total Channels: 5236
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5250,4 +5250,5 @@
 @yikesproduction
 @user-pk2dz6cz4p
 @FearlessFocusMaster
+@TheStrategicPerspective-d7g
 @TheStrategicPerspective-d7g
