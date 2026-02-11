@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5179
+! Total Channels: 5180
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5195,3 +5195,4 @@
 @marinarojasmentalidad
 @LeccionesDelCoraz%C3%B3nOffical
 @Innermindpsychology_01
+@BeastMindset-p9d
