@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 78
+! Total Channels: 79
 
 ! Entries:
 @CinebotComedy
@@ -101,3 +101,4 @@
 @SombrasdelaHistoria77
 @FilesofRecord
 @canadapressroom
+@OldFactoryStories
