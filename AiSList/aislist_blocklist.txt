@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5458
+! Total Channels: 5459
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5474,3 +5474,4 @@
 @AmorVitalTV
 @MujeresdeLuzyAmor
 @C%C3%B3digoChiaraviglio
+@Amor%C3%8Dntegro
