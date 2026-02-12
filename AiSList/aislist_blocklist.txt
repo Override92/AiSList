@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5568
+! Total Channels: 5569
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5584,3 +5584,4 @@
 @MrWonderful-h3q
 @DalioWorldOrder
 @DalioPrinciplesLab
+@RichardStewart-t3e
