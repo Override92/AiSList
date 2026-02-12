@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5391
+! Total Channels: 5361
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -980,7 +980,6 @@
 @catventurestory
 @aifurrystory
 @winkydinkykids22
-@meowgicaltoonkingdom
 @aistoryr.k-5.0
 @furrytalesnetwork
 @meowtationtv
@@ -2402,7 +2401,6 @@
 @mapleleafatwar
 @warexplained-2005
 @worldwar2-i6k
-@valorpast
 @ww2gear
 @worldwar2archive
 @secretshistory
@@ -2562,7 +2560,6 @@
 @aivideo482
 @aigeneratedanimals89
 @axanimalscartoon
-@ai-story9768
 @aishorts_70
 @aianimated-l6g
 @kevintw8888
@@ -3590,7 +3587,6 @@
 @RogerRoger5555
 @Unbelievabletruestories1
 @TradeShockFiles
-@bncamericanews24
 @TrueBritainS
 @TheMacMedias
 @SachsGlobalAnalysis
@@ -3601,7 +3597,6 @@
 @DrLauraMWhitfieldMD
 @MadowsNewsroom
 @EliteDemocracy-q3n
-@NightroNews
 @BattleBriefYTB
 @WW2Files7
 @echoesinthedark_8
@@ -3664,7 +3659,6 @@
 @RockMemoriesVintage
 @BarrelStandard
 @Darknessfromai
-@CriticalBrief
 @KrugmanAnalysis
 @JoshGeoLive
 @InvisibleTrillions
@@ -3676,16 +3670,13 @@
 @FalconFury07
 @EconomicAlarm-yt
 @MrJosephStories1
-@KavionCapital
 @CONOMICFANCLUB
 @Prof-X-1
 @SecretValor7
-@criticalpress
 @JohnBoltonExplained
 @RushdiAnalysis
 @sushjha9140
 @Admin_ExploreUSNow_Channel
-@GeorgeWillHUB-t6o
 @RachelMaddow-y2v
 @BeforeTimeForget
 @kaito3641
@@ -3782,14 +3773,9 @@
 @CHICKIE-c4c5q
 @MusicOfOurTime
 @Epochalypse1978
-@themaddowtalks
-@isigame7764
-@ViralChamberOfficial
-@bzcnews24
 @BruceLeeThePowerWithin
 @MensVitalityHub-w8m
 @ATMNewsBangla
-@BureauBrief
 @TheAsianGuy-k9h
 @CelebrityUnseen-07
 @WW2Informant
@@ -3892,7 +3878,6 @@
 @justicearchivestv
 @PatriotNationMedia
 @Jhonewillreports
-@straightbriefnews
 @LuvsStories
 @BuildTheInsight
 @AmericanBloodlines
@@ -4040,11 +4025,9 @@
 @IngenuityChronicles
 @HFYGlobalTales
 @HFYDeathworldsTales
-@GalacticLoreFoundry
 @HFYEpitome
 @SargesStories
 @GalacticDominators-k91
-@CosmicFrontiers12
 @HFYVector-h3v
 @NextEraTech01
 @HFYParagonExtra-t7z
@@ -4064,7 +4047,6 @@
 @Oldsteed-j4q
 @SleepOnSpace
 @CrownyDagger
-@HFYWarborn
 @TalesofKindness-i5n
 @EpicOldWestStories
 @TheShadowsStories
@@ -4157,7 +4139,6 @@
 @IRONSKY_ARMADA
 @HFYZenith
 @EpicSpaceChronicles
-@Humanity_Ascendant
 @BeyondEarthHFYSci-Fi2
 @StarbreakersHFY
 @HFYRecorder
@@ -4291,7 +4272,6 @@
 @CurrencyArchive
 @MoneyArchive-Official
 @TheUntoldEmpire-t7e
-@FinanceExplained07
 @MotiveStrands
 @FinanceEconomistt
 @FINACEWAR
@@ -4301,7 +4281,6 @@
 @MissileDiscovery
 @UncoveredGuru
 @GregAbouttMoney
-@EconomicChronicles786
 @MoneyMadeSimple-z9g
 @FinanceDebtParadox
 @FinancialInspection
@@ -4317,7 +4296,6 @@
 @GlobalEye1st
 @WarrenBuffettStrategy1
 @Michaelsaylorfanzone
-@GlobalBullionWatch
 @ThePhysicalSilverDesk
 @Currency_and_Currency
 @The-Next-Candle
@@ -4455,7 +4433,6 @@
 @PoliticsRaw
 @GeorgeWillNew
 @%E5%89%8D%E7%94%B0%E3%83%A2%E3%82%AB
-@CourtroomWatchUSA
 @PensionToday_Live
 @ThePublicLogicyt
 @Aeelu-v7q
@@ -4548,10 +4525,8 @@
 @beyondthebattlefield-x6f
 @PawsAIStorie
 @GujjarbhaiG48
-@Financedecoded-g4x
 @AsianGuy_AG
 @CLARA.MONROE
-@DanielHarper-t8u
 @EconomicSignalsYT
 @VireliaMusic
 @BardStrike
@@ -4652,8 +4627,6 @@
 @LasEnse%C3%B1anzasdeFeynman
 @Manmedia-x78
 @An%C3%A1lisisdeEmergencia
-@USDailyUpdates-g4f
-@1MinProductivity
 @mrpitorrose
 @RichardImaginaVibe
 @IMAGINALAF%C3%8DSICA-e5f
@@ -5114,7 +5087,6 @@
 @DarkReturnSignal
 @UntoldJourneyStories
 @RomanticPrints
-@WorldState
 @Johan_Andi⁩
 @nana_jianwenlu
 @豐澤財經
@@ -5256,7 +5228,6 @@
 @OldMinistersTales
 @Avispaceloeb
 @TheVerdictBreakdown
-@AmericaFiles-y6t
 @GlobalBrief78
 @TheLegalBreakdown-v9r
 @TheFederalUpdate-v1u
@@ -5274,7 +5245,6 @@
 @PATHTOLOGICS
 @melapelas9047
 @Stephennewss
-@ImtiazHussain-p4o
 @TheLegalTimeLine
 @RushdiExplains-v2h
 @WorldAffairsDesk-d1z
