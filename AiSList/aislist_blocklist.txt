@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5572
+! Total Channels: 5573
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5588,3 +5588,4 @@
 @meyouNight
 @rescuepaws_ai
 @TheBuildingPoint
+@BravePawsAI
