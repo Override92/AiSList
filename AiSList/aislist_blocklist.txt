@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5478
+! Total Channels: 5479
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5494,3 +5494,4 @@
 @Despierta_TuConsciencia
 @AmarDespiertos
 @AmorConsciente-v4q
+@LatidosdeAmor-p3k
