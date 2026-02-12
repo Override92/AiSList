@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5378
+! Total Channels: 5379
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5394,3 +5394,4 @@
 @OwlWhispers-c3f
 @NephiAcama
 @ToxicFamilyStories-g5y
+@BurningBetrayal
