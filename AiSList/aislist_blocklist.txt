@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5371
+! Total Channels: 5372
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5387,3 +5387,4 @@
 @MinecraftMemories-m9v
 @Revengeinsilence-f2r
 @RevengeLastLight-b2w
+@Witch-r4g
