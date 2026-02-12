@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5580
+! Total Channels: 5581
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5596,3 +5596,4 @@
 @GOLDSILVERALERT-u6m
 @PropertyGorilla
 @JusticeCaseFiles-78
+@SILVERNEWSDAILY
