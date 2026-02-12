@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5456
+! Total Channels: 5457
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5472,3 +5472,4 @@
 @陶子見聞録
 @EconomiaUno
 @AmorVitalTV
+@MujeresdeLuzyAmor
