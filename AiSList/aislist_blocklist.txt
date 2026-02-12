@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5387
+! Total Channels: 5388
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5403,3 +5403,4 @@
 @lendexuat_ntt
 @AITAHConfessions-d8h
 @ForbiddenTalesLab
+@LostGenre
