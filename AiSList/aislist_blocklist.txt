@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5383
+! Total Channels: 5384
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5399,3 +5399,4 @@
 @itstruepompeo
 @SHATTEREDHOME-t6f
 @TrustTestHub-i5e
+@FATHERSQUIETREVENGE
