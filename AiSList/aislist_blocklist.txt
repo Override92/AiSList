@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5513
+! Total Channels: 5514
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5528,4 +5528,5 @@
 @TheLastArchivistHFY
 @GalacticMercy
 @HFYLoreforge-k4i
+@SecCometHFY
 @SecCometHFY
