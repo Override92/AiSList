@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5423
+! Total Channels: 5424
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5439,3 +5439,4 @@
 @Margarita_Elena
 @AriadnaZuleta-u8i
 @SaludconelDr.Javier
+@Hombres_con_Poder
