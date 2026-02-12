@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5446
+! Total Channels: 5447
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5462,3 +5462,4 @@
 @Publicaffairsnetwork
 @MiraCalderon1
 @SophieEdward-c7o
+@LEGALANALYSIS-d3q
