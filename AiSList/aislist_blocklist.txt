@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5723
+! Total Channels: 5724
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5740,3 +5740,4 @@
 @InsightAffairsMedia
 @MarketReportYT
 @CemreSonDakika
+@TheVeridexBrief
