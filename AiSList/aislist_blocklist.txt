@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5701
+! Total Channels: 5702
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5718,3 +5718,4 @@
 @LeydelKarma-w4o
 @venganzafamiliar68
 @ElGiroInesperado
+@VocesSabias-j2q
