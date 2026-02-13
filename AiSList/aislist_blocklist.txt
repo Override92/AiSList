@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5795
+! Total Channels: 5796
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5811,3 +5811,4 @@
 @thenightfiles-w3z
 @AstroVerge
 @AstroPhyscis
+@TheMillionaireRabbi
