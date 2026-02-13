@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5613
+! Total Channels: 5614
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5629,3 +5629,4 @@
 @USChinaGlobalPulse
 @M%C3%A9todoWarrenBuffett
 @globalchinatracker
+@TheGameofEconomies
