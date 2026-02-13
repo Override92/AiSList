@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5674
+! Total Channels: 5675
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5691,3 +5691,4 @@
 @HiddenUniverse01
 @Feynman-Explains
 @thinklikefeynman012
+@TheSumOverHistories-y9k
