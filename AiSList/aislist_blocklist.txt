@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5802
+! Total Channels: 5803
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5818,3 +5818,4 @@
 @MillionaireRabbi
 @Milit%C3%A4rschau
 @secretosdelariquezajudia
+@Riqueza_Judia
