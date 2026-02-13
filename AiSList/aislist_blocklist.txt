@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5792
+! Total Channels: 5778
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5446,10 +5446,8 @@
 @LEGALANALYSIS-d3q
 @Maya-brief
 @M.A.NMedia
-@M.A.NMedia
 @TMT_News1
 @PoliticoScope01
-@TMT_News1
 @陶子見聞録
 @EconomiaUno
 @AmorVitalTV
@@ -5504,12 +5502,10 @@
 @scifistories1977
 @USAInsideNews
 @HumansStrikeBack
-@HumansStrikeBack
 @HFYXtremeTeller
 @TheLastArchivistHFY
 @GalacticMercy
 @HFYLoreforge-k4i
-@SecCometHFY
 @SecCometHFY
 @DeathCrownHFY
 @HFYSci-FiStories-r4c
@@ -5525,16 +5521,13 @@
 @nyxteraa
 @GunLawsUpdates
 @MarketTruthFiles
-@MarketTruthFiles
 @FinalUrgency
-@MarketTruthFiles
 @Espa%C3%B1aenNoticias
 @GlobalAffairsDesk-t9h
 @TheSensationalNews
 @%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%98%D0%BD%D1%81%D0%B0%D0%B9%D0%B4
 @TheEconomyUnwrapped
 @Inventariom%C3%A1sGrande
-@HistoriaDelCapitalOculto
 @HistoriaDelCapitalOculto
 @futuresmarket-g2d
 @mossadscope
@@ -5575,7 +5568,6 @@
 @jonAGfinance
 @MarketClarity-u7m
 @GOLDSILVERALERT-u6m
-@GOLDSILVERALERT-u6m
 @PropertyGorilla
 @JusticeCaseFiles-78
 @SILVERNEWSDAILY
@@ -5586,7 +5578,6 @@
 @kevinolisum
 @WhatChanges
 @DeepDebt
-@SimpleCurrencyYT
 @yourJohnAG
 @MARKETHISTORY-k7p
 @METALMARKETINTELLIGENCE
@@ -5682,7 +5673,6 @@
 @JuecesReales
 @justiciacaprio
 @historiasdelbrillonupcial
-@JuecesReales
 @recuerdosdepadres
 @RecuerdosdeCarmenYT
 @ElMundodelAbuelo_fz7
@@ -5702,8 +5692,6 @@
 @VocesSabias-j2q
 @VenganzaSilenciosa-l2x
 @Historiascotidianas-t7r
-@BODAHistorias
-@BODAHistorias
 @HistoriasDelPresidente
 @Detr%C3%A1sdelpoderBukele
 @TallerdeRecuerdos
@@ -5732,7 +5720,6 @@
 @DespiertaTuAlma-x4l
 @LaFrecuenciaSagrada
 @Br%C3%BAjuladelAlma0
-@DespiertalaSupraconciencia
 @Stayready-1
 @mentecuantica00
 @Comprenderlaf%C3%ADsicaconFeynman
@@ -5748,7 +5735,6 @@
 @millonariosperdidos
 @HistoriasVivas-1
 @HistoriasdeVincent
-@RecuerdosdeMaribel
 @B%C3%B3vedaHistoriasdelasAbuelas
 @FlorecerenlaTormenta
 @HistoriasdeQuienR%C3%ADe%C3%9Altimo
@@ -5784,7 +5770,6 @@
 @RelatosyHistoriasdelCorazon
 @RelatosDram%C3%A1ticos66
 @HayleyDai
-@NoEraParaContarlo2006
 @najakuma9861
 @WildOnesss
 @aivideo_14yal
