@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5658
+! Total Channels: 5659
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5675,3 +5675,4 @@
 @Secretosespiriituales
 @NolanzoAnimationtv
 @GoldSilverVault
+@goldsilverpronews
