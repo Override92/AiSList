@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5821
+! Total Channels: 5822
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5837,3 +5837,4 @@
 @MorrisonJustNow
 @americasdispatch
 @archivocriminal-es
+@TheMexiTalk
