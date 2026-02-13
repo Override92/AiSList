@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5818
+! Total Channels: 5819
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5834,3 +5834,4 @@
 @RabbiShimonTorahBlueprint
 @JewishFinancialCode
 @TheReversePsyche
+@MorrisonJustNow
