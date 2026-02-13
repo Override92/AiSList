@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5722
+! Total Channels: 5723
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5739,3 +5739,4 @@
 @zerotool2077
 @InsightAffairsMedia
 @MarketReportYT
+@CemreSonDakika
