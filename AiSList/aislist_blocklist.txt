@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5757
+! Total Channels: 5758
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5774,3 +5774,4 @@
 @HistoriasdeQuienR%C3%ADe%C3%9Altimo
 @MateusAugustohistorias
 @Detr%C3%A1sdelSacrificioMaterno
+@VenganzaFr%C3%ADa-g4q
