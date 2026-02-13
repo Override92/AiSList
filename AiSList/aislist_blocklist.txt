@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5667
+! Total Channels: 5668
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5684,3 +5684,4 @@
 @WolffExplained
 @BiggieEggstein
 @DanielWrightBriefing
+@cw.au-25
