@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5688
+! Total Channels: 5689
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5705,3 +5705,4 @@
 @recuerdosdepadres
 @RecuerdosdeCarmenYT
 @ElMundodelAbuelo_fz7
+@RelatosDeGerald
