@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 86
+! Total Channels: 87
 
 ! Entries:
 @CinebotComedy
@@ -109,3 +109,4 @@
 @TheJohnOliverReports
 @DarkFrontvideos
 @thepatelcase
+@RewatchClub2025
