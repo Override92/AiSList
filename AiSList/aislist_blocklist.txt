@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5900
+! Total Channels: 5901
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5916,3 +5916,4 @@
 @TheOracleofOmaha1st
 @CanadaPropertyWatch
 @fliporyhome
+@mayascheffler
