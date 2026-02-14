@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5898
+! Total Channels: 5899
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5914,3 +5914,4 @@
 @ParadaProgramada
 @JDM-ENGINE-ARCHIVE
 @TheOracleofOmaha1st
+@CanadaPropertyWatch
