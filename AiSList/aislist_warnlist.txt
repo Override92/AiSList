@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 84
+! Total Channels: 85
 
 ! Entries:
 @CinebotComedy
@@ -107,3 +107,4 @@
 @ThePixelPlayback
 @VirgilHamill
 @TheJohnOliverReports
+@DarkFrontvideos
