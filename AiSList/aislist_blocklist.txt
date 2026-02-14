@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5844
+! Total Channels: 5845
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5860,3 +5860,4 @@
 @marketalarm55
 @SolRust-t6t
 @MatthewAspire-r3u
+@HouseExperts-1
