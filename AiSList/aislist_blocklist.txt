@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5903
+! Total Channels: 5904
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5919,3 +5919,4 @@
 @The-Celtic-Mage
 @KoryoKeeper
 @LaLeLoBard
+@JazzHazeYT
