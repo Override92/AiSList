@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
 ! Homepage: https://aisloplist.com
 ! License: CC BY-NC 4.0
-! Last Modified: 2026-02-14
+! Last Modified: 2026-02-15
 !
 ! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! These channels will show a dismissible warning to users.
@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 87
+! Total Channels: 88
 
 ! Entries:
 @CinebotComedy
@@ -110,3 +110,4 @@
 @DarkFrontvideos
 @thepatelcase
 @RewatchClub2025
+@ALPHAALGOFINANCE
