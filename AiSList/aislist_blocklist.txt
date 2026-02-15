@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6019
+! Total Channels: 6020
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6035,3 +6035,4 @@
 @MONEYBANGERs
 @BuffettDaily-v6u
 @DailyFinanceLog
+@PowerEconomy-p2u
