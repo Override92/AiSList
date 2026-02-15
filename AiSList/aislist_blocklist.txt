@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6044
+! Total Channels: 6028
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5786,8 +5786,6 @@
 @StoryMint-s2j
 @OGJohnAG2
 @FinanceExplained1
-@Loomee0
-@CurrencySecrets
 @CurrencySecrets
 @OGJOHN_AG2
 @FinanceThroughTime-i9p
@@ -5804,7 +5802,6 @@
 @Milit%C3%A4rschau
 @secretosdelariquezajudia
 @Riqueza_Judia
-@secretosdelariquezajudia
 @RabbiBoazTheTorahLifeStrateg
 @kapitalenth%C3%BCllt
 @StefanInvestiert
@@ -5813,7 +5810,6 @@
 @MaquiavelodelPoder
 @Mindplot01111
 @PowerMindsetA
-@MachiavellianStoicism
 @MachiavellianStoicism
 @Sabidur%C3%ADaorientalTao%C3%ADsmo
 @RabbiShimonTorahBlueprint
@@ -5825,8 +5821,6 @@
 @TheMexiTalk
 @anghoang4475
 @AGDailyOfficial
-@AGDailyOfficial
-@MindandMarket-v6c
 @MindandMarket-v6c
 @sirazhar-j6g
 @warfarehitseconomy
@@ -5856,10 +5850,8 @@
 @MenteFr%C3%ADaconCharlie
 @WarrenThinkTank
 @BuffetPOV
-@BuffetPOV
 @CharlieMunger_enespa%C3%B1ol
 @RutadeRiqueza-e6s
-@Gabrielrolon7-n3j
 @Gabrielrolon7-n3j
 @ExitoMunger
 @lasense%C3%B1anzasdecharliemunger
@@ -5918,7 +5910,6 @@
 @DR.NORAHAYES-v4v
 @DR.NERITA
 @MensHealthOver50-60
-@DR.NORAHAYES-v4v
 @Think_Outside1
 @HeartToWolff
 @MrCityView4
@@ -5930,14 +5921,11 @@
 @BradleyMaddenNews
 @deluxebyluk
 @Primoyang-l4b
-@JonSilverGuy
 @GoldSilverCurrency
 @VaultReality-x9g
 @CrisisLens-k9s
 @EditorialNews-j5z
-@EconemyMeetHistory
 @FinanceUncovered22
-@jonAGfinance
 @TheSilentEconomy-e9e
 @capitalHistorian-j8r
 @MarcusBlackwellCurrency
@@ -5968,10 +5956,8 @@
 @drramani-x8e
 @Dr.jocelyn
 @HowardRamos-z9w
-@Dr.jocelyn
 @RojasMotivaci%C3%B3n-x3p
 @DraAng%C3%A9licaFernandezOficial
-@OGFinance-c5z
 @BackdoorEconomics
 @TheShadowLedger-e2q
 @AnoshaYoutube
@@ -6030,9 +6016,7 @@
 @aibuble
 @RevengeLifeStories-i3r
 @economy_fastforward
-@economy_fastforward
 @FinnsDaily_1
-@RandomFacts1669
 @imaginarii-videos
 @AiWithNoman-d4l
 @CichaNauka0
