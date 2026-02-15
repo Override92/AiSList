@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6085
+! Total Channels: 6086
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6101,3 +6101,4 @@
 @worldpocketcoins
 @StoriediCuoriCoraggiosi
 @OLDCOINSTV-k7h
+@TellySaraf-y8t
