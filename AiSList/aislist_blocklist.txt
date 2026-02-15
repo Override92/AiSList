@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 5980
+! Total Channels: 5981
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -5996,3 +5996,4 @@
 @TheShadowLedger-e2q
 @AnoshaYoutube
 @eduforcrypto
+@OGJohnAG2.0-g9z
