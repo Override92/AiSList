@@ -31,11 +31,11 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 628 |
-| 🥈 2 | [@Honk Honk](https://github.com/Honk%20Honk) | 199 |
-| 🥉 3 | [@Oflogon](https://github.com/Oflogon) | 159 |
-| 4 | [@magikarp](https://github.com/magikarp) | 121 |
-| 5 | [@Tea-Fox](https://github.com/Tea-Fox) | 51 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 640 |
+| 🥈 2 | [@Oflogon](https://github.com/Oflogon) | 220 |
+| 🥉 3 | [@Honk Honk](https://github.com/Honk%20Honk) | 200 |
+| 4 | [@www2](https://github.com/www2) | 197 |
+| 5 | [@magikarp](https://github.com/magikarp) | 121 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
