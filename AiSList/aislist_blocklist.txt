@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6119
+! Total Channels: 6120
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6117,3 +6117,4 @@
 @PrimeNarrative-Official
 @FinanceUnlocked-f8n
 @RestfulWealth
+@TheAncientAnomalies
