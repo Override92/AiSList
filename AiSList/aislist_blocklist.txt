@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6412
+! Total Channels: 6413
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6410,3 +6410,4 @@
 @Chill_Village
 @chillcitynight
 @Neon-DriftNight
+@A-Lofi-Soul
