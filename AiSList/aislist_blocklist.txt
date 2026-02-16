@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6352
+! Total Channels: 6353
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6350,3 +6350,4 @@
 @WeisheitdesKapitals
 @Wild_Core_Survival
 @DuaNaz-m8d
+@thefoodshow587
