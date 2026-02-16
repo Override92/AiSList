@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6389
+! Total Channels: 6390
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6387,3 +6387,4 @@
 @LofiAilurophile-lq4oi
 @chillchilljournal
 @retrorhythm-on
+@CombustibleCerebral
