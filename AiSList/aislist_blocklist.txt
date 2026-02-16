@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6236
+! Total Channels: 6237
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6234,3 +6234,4 @@
 @HotlineKaren911
 @BATTLEHOA
 @TheUSAKarenShow
+@DramaExposed-i9j
