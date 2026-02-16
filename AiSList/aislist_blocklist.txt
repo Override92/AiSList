@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6126
+! Total Channels: 6127
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6124,3 +6124,4 @@
 @thefinancehistorian-q3h
 @CapitalCollapseHistory
 @QuincyinvestW
+@LibertyFinancialHistorian
