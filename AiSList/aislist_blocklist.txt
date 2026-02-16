@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6174
+! Total Channels: 6175
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6172,3 +6172,4 @@
 @codigoestoicoai
 @WhatWhereWhy-x2i
 @HowItHappenedStories
+@AFKNews01
