@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6369
+! Total Channels: 6370
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6367,3 +6367,4 @@
 @Truemetals-l5p
 @ZumrutlNuyens5
 @SamodzielnyInwestor
+@PolskaAutoZone
