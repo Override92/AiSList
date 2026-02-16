@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6407
+! Total Channels: 6408
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6405,3 +6405,4 @@
 @Felunee
 @1catpsyche
 @LoFi_TOKYOCITY
+@chillcitiesvibes
