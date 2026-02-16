@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 98
+! Total Channels: 99
 
 ! Entries:
 @CinebotComedy
@@ -121,3 +121,4 @@
 @BeastBuildersPolska
 @Accelerated_Mind
 @SmallBusinessRisk
+@Web3Reviewers
