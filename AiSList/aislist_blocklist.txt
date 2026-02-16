@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6326
+! Total Channels: 6327
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6324,3 +6324,4 @@
 @bitcoinglobalnews-z9q
 @LearnFinanceSimplified
 @Silverdollarcollapse
+@EconInsiderofficial
