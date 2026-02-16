@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6228
+! Total Channels: 6229
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6226,3 +6226,4 @@
 @HOABoardMembers
 @Maidens_Payback
 @HEARTBREAK-STORIES-CHANNEL
+@HOATalkYT
