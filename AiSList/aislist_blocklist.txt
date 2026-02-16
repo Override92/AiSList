@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6365
+! Total Channels: 6366
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6363,3 +6363,4 @@
 @GOLDSILVERINSIGHTS-r4e
 @TheHiddenEconomyTV-h8f
 @MotherFolktales
+@FineMetalsOfficial
