@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6273
+! Total Channels: 6274
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6271,3 +6271,4 @@
 @PhysicsUniverseHD
 @ImaginePhysics2.0
 @LeonardSusskindfan
+@susskindperspective
