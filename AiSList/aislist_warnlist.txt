@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 103
+! Total Channels: 104
 
 ! Entries:
 @CinebotComedy
@@ -126,3 +126,4 @@
 @HeartDramaTheater
 @Noxium-d2h
 @RIFEL-tv
+@ColdWarImpact
