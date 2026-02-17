@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 118
+! Total Channels: 119
 
 ! Entries:
 @CinebotComedy
@@ -141,3 +141,4 @@
 @FlashStockSentinel
 @TheFireArchitect
 @unknownfrequencies-tv
+@karl.explains
