@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6418
+! Total Channels: 6419
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6416,3 +6416,4 @@
 @RetroAustraliaTV
 @Asia-Tech-Marco
 @TINYKINGDOMADVENTURES
+@Smacznie_Prosto
