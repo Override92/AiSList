@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 110
+! Total Channels: 111
 
 ! Entries:
 @CinebotComedy
@@ -133,3 +133,4 @@
 @snafuww2
 @EconomicEdge.updates
 @EconomicEdge-mjg
+@TheEconomicEdgeDailyBriefing
