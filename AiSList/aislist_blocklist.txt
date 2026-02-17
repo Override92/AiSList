@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6419
+! Total Channels: 6420
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-c7g
@@ -6417,3 +6417,4 @@
 @Asia-Tech-Marco
 @TINYKINGDOMADVENTURES
 @Smacznie_Prosto
+@SPARCCast
