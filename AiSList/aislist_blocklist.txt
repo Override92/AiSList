@@ -14,10 +14,9 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6436
+! Total Channels: 6415
 ! Entries:
 @DarkRomancMafia
-@ChickofHonor-c7g
 @ChickofHonor-o6d
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -268,7 +267,6 @@
 @NeoModelAI-v2v
 @AiVidCreation-z6k
 @Cam-Ai-11
-@FutureAiRobots-ai
 @Catfuntv99
 @kitten.Storys
 @thebizarrevault
@@ -5389,7 +5387,6 @@
 @MiraCalderon1
 @SophieEdward-c7o
 @LEGALANALYSIS-d3q
-@Maya-brief
 @M.A.NMedia
 @TMT_News1
 @PoliticoScope01
@@ -5430,7 +5427,6 @@
 @ConsejeroJung
 @PadresConscientes-z2g
 @MarianRojasMensaje
-@HorizontedeEsperanza-b8b
 @MotivaSinL%C3%ADmites124
 @Renovaci%C3%B3nInterior-k4b
 @VozdetuEsencia-f3o
@@ -5454,8 +5450,6 @@
 @SecCometHFY
 @DeathCrownHFY
 @HFYSci-FiStories-r4c
-@TheVerdixCode
-@Judicial_Junction
 @ramazanlimur270
 @WolffalD%C3%ADa
 @TheHonestPlus
@@ -5468,13 +5462,10 @@
 @MarketTruthFiles
 @FinalUrgency
 @Espa%C3%B1aenNoticias
-@GlobalAffairsDesk-t9h
 @TheSensationalNews
-@%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%98%D0%BD%D1%81%D0%B0%D0%B9%D0%B4
 @TheEconomyUnwrapped
 @Inventariom%C3%A1sGrande
 @HistoriaDelCapitalOculto
-@futuresmarket-g2d
 @mossadscope
 @rebrainloop
 @passchillin101
@@ -5489,7 +5480,6 @@
 @MarianHabla15
 @VocesInternas-k4f
 @EliteRepublicans
-@RetoldJustice
 @TheTruthBehindtheHeadlines
 @RojasVital
 @mente-x-d4w
@@ -5503,7 +5493,6 @@
 @Warren_Buffett_Playbook
 @MrWonderful-h3q
 @DalioWorldOrder
-@DalioPrinciplesLab
 @RichardStewart-t3e
 @meyouNight
 @rescuepaws_ai
@@ -5518,16 +5507,13 @@
 @SILVERNEWSDAILY
 @MoneyLensNow
 @SimpleCurrencyYT
-@Kevincapital-g1m
 @TheLastLessonYTA
-@kevinolisum
 @WhatChanges
 @DeepDebt
 @yourJohnAG
 @MARKETHISTORY-k7p
 @METALMARKETINTELLIGENCE
 @SILVERGOLDTALK
-@AshFinanceHistory
 @EconomicTruth2
 @JohnAGLive
 @Prosper_Path_1
@@ -5550,7 +5536,6 @@
 @TheGameofEconomies
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
 @TraselPoderYT
-@VozLatinaGlobal-f8b
 @CurrencyConflict
 @AlertaBeneficiosUSA
 @LailaJaveriya-qt9xz
@@ -5650,12 +5635,9 @@
 @MindsOfFree
 @Mot%C3%ADvateHoy-t7f
 @zerotool2077
-@InsightAffairsMedia
-@MarketReportYT
 @CemreSonDakika
 @TheVeridexBrief
 @PenroseMindCosmos
-@A-NewsNetwork
 @Dr.SansVidayConciencia
 @eltiemponoesperayt
 @Codigo.delAmor
@@ -6153,7 +6135,6 @@
 @FinancialFred-j3d
 @UPNEXTFILES
 @AGMarketDesk
-@usnewstable
 @CNBnow
 @DanielWhitmanPol
 @TheScribeOfFinance
@@ -6255,7 +6236,6 @@
 @ConfirmadoAhora
 @StreetSilence1
 @GWillAnalysis
-@coredemocracy
 @ЗелёныйГектар
 @DignityStories
 @MONEYMINDSETMEDIA-u4s
@@ -6337,7 +6317,6 @@
 @Money_Talks_Invests
 @buffet-o8c
 @TheFinanceGuyOfficial
-@KevinAcademy1
 @PrecisionInvesting-h6d
 @SilverAIWealth
 @Qadi804-g9h
