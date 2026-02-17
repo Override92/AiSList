@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6683
+! Total Channels: 6684
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6681,3 +6681,4 @@
 @WWIIBattlefront
 @WW2HiddenFiles-c5x
 @WIIWarStories
+@WW2Frontliner
