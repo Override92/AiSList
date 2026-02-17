@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6517
+! Total Channels: 6518
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6515,3 +6515,4 @@
 @KidsFunSongRhymes
 @SingAlongRhymes-y7w
 @JoJoJoyland
+@SuperKidsRhymes-s9r
