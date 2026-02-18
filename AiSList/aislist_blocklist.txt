@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6759
+! Total Channels: 6760
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6757,3 +6757,4 @@
 @DeepFocusGroove-e2w
 @InfoPensiun-i9e
 @FreedomReportNews
+@Canada_US_Report
