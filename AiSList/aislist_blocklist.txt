@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6718
+! Total Channels: 6719
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6716,3 +6716,4 @@
 @HistoryforSleep-4U
 @WW2History-Hub
 @WW2Storyforge
+@WarSharpshooter
