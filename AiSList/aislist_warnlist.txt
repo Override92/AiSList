@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 134
+! Total Channels: 135
 
 ! Entries:
 @CinebotComedy
@@ -157,3 +157,4 @@
 @SmartInvestTips_1
 @jusdecerveau
 @napsea
+@moebiusfm
