@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6706
+! Total Channels: 6707
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6704,3 +6704,4 @@
 @frutiger-xp
 @Ash.AI.muzika
 @WhenWordsHurt
+@BigFootBoyzVlog
