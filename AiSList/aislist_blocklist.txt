@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6748
+! Total Channels: 6749
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6746,3 +6746,4 @@
 @AthenaQuant
 @Andrewinvests-y3n
 @BeyondBoringCurrency-l7z
+@CryptocurrencyandWeb32025
