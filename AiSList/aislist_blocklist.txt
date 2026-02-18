@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6785
+! Total Channels: 6786
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6783,3 +6783,4 @@
 @OGJohnAG-l5x
 @HistoriasConFania
 @NoirJazzCats_Playlist
+@SiliconDreamsleeper
