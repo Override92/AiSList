@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 124
+! Total Channels: 125
 
 ! Entries:
 @CinebotComedy
@@ -147,3 +147,4 @@
 @FinancialFreedom2047
 @distrotester1361
 @WorldWarIIChronicles369Heroes
+@JapaneseWW2Stories
