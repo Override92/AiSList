@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6797
+! Total Channels: 6798
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6795,3 +6795,4 @@
 @Aimusictrendsforlive
 @VionixMusic12
 @novabeatsrecord
+@FantasyCelestina
