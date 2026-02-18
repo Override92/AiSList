@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6801
+! Total Channels: 6802
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6799,3 +6799,4 @@
 @RhythmBloomRecords
 @Healthyeveryday.usa00
 @hakimthanh
+@CoverNusantara
