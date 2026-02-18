@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 128
+! Total Channels: 129
 
 ! Entries:
 @CinebotComedy
@@ -151,3 +151,4 @@
 @WW2-y3r
 @TheWW2Historian
 @WW2NavalHistory
+@audiiance
