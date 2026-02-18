@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6782
+! Total Channels: 6781
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6778,5 +6778,4 @@
 @ForexLab-d9n
 @marketflux8
 @JohnAGUnfiltered-x1n
-@BOBAPIC291
 @BruxTwins3T9REALRICH
