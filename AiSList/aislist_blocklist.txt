@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6788
+! Total Channels: 6789
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6786,3 +6786,4 @@
 @SiliconDreamsleeper
 @Nate-Bishop
 @empireandmoney
+@BernardOrtegaAnalyst
