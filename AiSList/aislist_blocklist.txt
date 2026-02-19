@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6894
+! Total Channels: 6895
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6892,3 +6892,4 @@
 @DalioSuccess
 @OLearyInsiderFanChannel
 @AliRaza-j7o2e
+@AsianBitcoinGuy
