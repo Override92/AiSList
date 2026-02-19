@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6881
+! Total Channels: 6882
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6879,3 +6879,4 @@
 @bukakameme
 @MemeMachiine
 @WorldofCartoon13
+@Salloia
