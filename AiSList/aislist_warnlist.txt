@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 143
+! Total Channels: 144
 
 ! Entries:
 @CinebotComedy
@@ -166,3 +166,4 @@
 @Eleotan
 @SpaghettiBoomBoom
 @SerieslyYT
+@Omnius-Trades
