@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6813
+! Total Channels: 6814
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6811,3 +6811,4 @@
 @Survivalzone12
 @HanifHussain-v1f
 @GrunerDaumenn
+@TheRevengeRecipe
