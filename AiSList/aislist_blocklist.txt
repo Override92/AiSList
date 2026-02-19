@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6877
+! Total Channels: 6878
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6875,3 +6875,4 @@
 @brainrotzon
 @MangoAnimationMeme
 @MemesRandomnes
+@Rabbitteooooooooooooo
