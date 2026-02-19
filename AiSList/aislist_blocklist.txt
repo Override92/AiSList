@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6871
+! Total Channels: 6872
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6869,3 +6869,4 @@
 @SecretValorStories
 @Dzienniki%C5%9Aredniowieczne
 @TheNewsAnalysis-i1t
+@DeepLineNews-Analysis
