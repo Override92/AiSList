@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6911
+! Total Channels: 6912
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6909,3 +6909,4 @@
 @WHATJUSTHAPPENED-YT
 @MoneyGuideUk
 @PoliticsUnfiltered0
+@SmirkzyOfficial
