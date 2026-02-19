@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6861
+! Total Channels: 6862
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6859,3 +6859,4 @@
 @InvestorMindset-im
 @LuminoxTerritory
 @PowertoProfits
+@RayDalioStrategy
