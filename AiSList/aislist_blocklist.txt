@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7074
+! Total Channels: 7075
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7072,3 +7072,4 @@
 @AxisFall
 @RealEstateDramaStories
 @TheOversightDesk8
+@MoneyHauL
