@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6962
+! Total Channels: 6963
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6960,3 +6960,4 @@
 @bwaincomps
 @EnglishwithSaniha
 @buggypasta
+@animemes-collection
