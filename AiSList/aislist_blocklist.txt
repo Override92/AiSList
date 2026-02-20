@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6984
+! Total Channels: 6985
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6982,3 +6982,4 @@
 @BrainrotfunAI
 @sliro.a
 @BrainrotDrop
+@SKYArtAi
