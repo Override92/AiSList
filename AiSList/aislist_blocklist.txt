@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6996
+! Total Channels: 6997
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6994,3 +6994,4 @@
 @doodleclarity
 @HTThing
 @MSNshow1
+@SamuraiGirl-official
