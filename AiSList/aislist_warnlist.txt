@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 160
+! Total Channels: 158
 
 ! Entries:
 @CinebotComedy
@@ -67,8 +67,6 @@
 @FoodCrisisUK
 @SimplifyTechh1
 @floydbishop
-@NORTH02
-@NORTH02
 @TheExtreme-Edge
 @FarsiJazz
 @WorldWithoutShopWindows
