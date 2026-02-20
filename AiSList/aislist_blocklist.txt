@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6980
+! Total Channels: 7040
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4842,7 +4842,7 @@
 @RegencyLoveStories-EN
 @RevengeServedCold1
 @VeteranTruths-911
-@theothersideofbetrayal
+@silenttruthstales
 @MistakenWeakness
 @samqlepc4252
 @thefarmerstruth
@@ -5914,7 +5914,7 @@
 @MilitaryMatrix-x4c
 @mirada-p
 @suenos_de_mar
-@laoraciondemedianoche
+@laoraciondemedianochfanchannel
 @코리아더블류
 @reconstructiontime
 @curiobitsdaily
@@ -6996,3 +6996,63 @@
 @PastFutureSounds
 @techpulse_uk
 @NarrativeStories0
+@warhistorytech
+@unconqueredhistory00
+@hannahtheamishgirl
+@mentefriaconcharlie
+@charliemunger_enespanol
+@lasensenanzasdecharliemunger
+@mentalidaddeinversion-u3f
+@ensenanzasderaydalio
+@torafinanciera
+@norgemilitar
+@drainesramirez
+@rojasmotivacion-x3p
+@draangelicafernandezoficial
+@usainsight-o1o
+@historiecodziennosci-h2b
+@opowiesciokarze
+@historiasallimite47
+@powernews1122
+@crking41
+@cutecat-ai-s
+@economyandescalation
+@theolearyledgerfanpage
+@ai_blast_shorts0
+@lha9i9a_tv
+@physics-of-success786
+@dallioprinciples
+@filosochocos
+@cricket_lover3377
+@اعلام_ليلى
+@authentictalks-r3c
+@thecosmicperspective-x5r
+@cactusninjastories
+@patrigomezzz
+@amiai16
+@nickfinance-w7w
+@ensenanzasconraydalio
+@nuestraconciencia
+@updateshub-4464
+@ingenieriatrascendental
+@mascaraalma
+@syorldinvestsus
+@newonenooneee
+@wolffanalisisglobal
+@diariodeeconomia
+@datosestrategicos
+@skeletonsociety04
+@fisicasinfronteras
+@realidadescosmicas
+@watekpomyslu
+@复仇合集
+@tajemstvivesmiru2025
+@зеленыигектар
+@miakhalifatips
+@mindforge2568
+@techanurag-s4q
+@moneymindlab1
+@shadoweconomicss
+@raportsercasystemu
+@евалилова-п4и
+@gwiezdneopowiesci-h4v
