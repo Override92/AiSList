@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6999
+! Total Channels: 7000
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6997,3 +6997,4 @@
 @SamuraiGirl-official
 @paradigmcapital_fanchannel
 @MindsetMechanics-c9k
+@capitalnexusws
