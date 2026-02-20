@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6965
+! Total Channels: 6966
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6963,3 +6963,4 @@
 @animemes-collection
 @holo-holo-holo
 @TUNGTUNGNEWS-e4w
+@Sprun.Rapier
