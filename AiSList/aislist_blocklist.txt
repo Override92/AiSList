@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7012
+! Total Channels: 7013
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7010,3 +7010,4 @@
 @CrockettExposes
 @BoringHistorianarchive
 @SSDNEWS2026
+@CuriousWick
