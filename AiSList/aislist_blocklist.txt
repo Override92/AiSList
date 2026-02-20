@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6947
+! Total Channels: 6948
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6945,3 +6945,4 @@
 @RevRadar-u9y
 @CarXpress-d9e
 @DreamRides7
+@THAutoReviews
