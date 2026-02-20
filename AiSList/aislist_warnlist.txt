@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 157
+! Total Channels: 158
 
 ! Entries:
 @CinebotComedy
@@ -180,3 +180,4 @@
 @Mbilalapriansyah
 @SourcePast
 @mukkultaluja
+@crazeegames_official
