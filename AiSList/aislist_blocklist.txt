@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6951
+! Total Channels: 6952
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6949,3 +6949,4 @@
 @OverdriveTV-g2m
 @rkautoreviews-j5e
 @RealTalkWithTime
+@rizzler.clipz.67
