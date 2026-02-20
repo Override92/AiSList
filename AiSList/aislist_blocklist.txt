@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7097
+! Total Channels: 7025
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -344,7 +344,6 @@
 @OrangeCat_799
 @DudiDudiDumDumm
 @MeowLifeTNMedia
-@mhanimationai102
 @YupAnimation2
 @Kittytailsofficial
 @RumasAnimationVedio1
@@ -354,7 +353,6 @@
 @EAGLEFANCLUB3
 @MeowMemoirs97
 @MeowFictioncat
-@tomyt2025
 @AIPalette-CuteCreatures
 @LilyVideoAi
 @Transformationthroughai
@@ -816,7 +814,6 @@
 @pawtracks-jnk
 @cutecat_lovely
 @bravestorychannel
-@brave_dog_stories1
 @rescuetales38
 @catsvideo-c7x
 @puppystoriestv
@@ -983,7 +980,6 @@
 @rak-entertainment
 @aikitten-e1l
 @poorcatai
-@cat-p1k-y5x
 @cutecataistudio
 @poorcatkitten
 @poorcatais
@@ -1525,7 +1521,6 @@
 @catloverstories1
 @lnsscutecatai
 @catlovers-r9d
-@aikittensstory
 @catlovers55223
 @cutecatstorie1
 @catstoryfree
@@ -3530,7 +3525,6 @@
 @littlemeow06
 @RankOnTopEN
 @DearOldBlighty
-@MegaFactoryInsidex
 @ProcessFoundry1
 @MochiJapanesePodcast
 @MotorForge-h2i
@@ -3561,7 +3555,6 @@
 @langweiligewahrung
 @%EA%B0%80%EC%A0%95%EC%9D%98%EA%B7%B8%EB%A6%BC%EC%9E%908658
 @ImagineVerseAI
-@TheGlobalInferno
 @IronRoadMusic
 @TheTowerBrief
 @TheFrontDeskyt
@@ -3638,7 +3631,6 @@
 @RockMemoriesVintage
 @BarrelStandard
 @Darknessfromai
-@KrugmanAnalysis
 @JoshGeoLive
 @InvisibleTrillions
 @MacroCurrencySignal
@@ -3670,7 +3662,6 @@
 @HerUntoldStory-sad
 @PenguinTales-h4v
 @IKISSA.I
-@UnlimitedTalesUS
 @TheStoicPath11
 @Wikifino
 @libraryofterence
@@ -3682,7 +3673,6 @@
 @AG_Chronicle
 @TalesofValor-Podcast
 @jamiedimonmindsett
-@MoneyRewindd
 @geopoliticalalert
 @SignalsToWorld
 @ThePowerLedgers
@@ -3995,7 +3985,6 @@
 @GalacticPrincessHFY
 @HFYGalacticHumor
 @TerraFistHFY
-@IngenuityChronicles
 @HFYGlobalTales
 @HFYDeathworldsTales
 @HFYEpitome
@@ -4020,7 +4009,6 @@
 @Oldsteed-j4q
 @SleepOnSpace
 @CrownyDagger
-@TalesofKindness-i5n
 @EpicOldWestStories
 @TheShadowsStories
 @The_Miner-h5h
@@ -4074,7 +4062,6 @@
 @StoriesMeaning
 @BlackStories-tv
 @LuxeStories-USA
-@SingleDadEmpire
 @FilesofJustice-3
 @DontForgetMe-q3i
 @AfroKorean-Legends
@@ -4212,7 +4199,6 @@
 @MoneyUntold-l6s
 @boglesWay0
 @BoringEconomic
-@THEASIANGUY-AG
 @JohnAGAlert
 @WorldEconomyReborn
 @OGJohnAG
@@ -4231,14 +4217,12 @@
 @RebornHistorian
 @Kevonomics1m
 @The-currency07
-@Silveranalyst1
 @AsianSilverMedia
 @FinanceExpert07
 @MacroFinanceExplained
 @EngineeredMarkets
 @Sidney_Explains_Money
 @f123x-c6u
-@warfaremeetseconomy
 @WarAndMystery
 @The_Smart_Retirement
 @SilverSignalRoom
@@ -4273,10 +4257,8 @@
 @The-Next-Candle
 @EconomyMeetsWarfare
 @PatriotBattlefront01
-@NINO-OICO
 @MILLIONAIRERULES-u4k
 @mootivefuel
-@KevinInsights
 @KeviStrategy
 @zadoklkaesyn2499
 @BuffettMoneyMentality
@@ -4306,7 +4288,6 @@
 @WarandSecretFiles
 @SheryBhai-d3v
 @FrozenSecrets-u9j
-@EconemyMeetHistory
 @THE-EmpireCycles
 @BULLIONSTREET-m7g
 @China-Silver-Alert
@@ -4363,7 +4344,6 @@
 @HYF-FireintheVoid
 @Scifiuniverse1
 @SciFiRealmExtra
-@ApexAnomaly-t8i
 @RealidadSeg%C3%BAnLaCiencia
 @SapiensAplicada
 @Estrellasretro-TV
@@ -4377,7 +4357,6 @@
 @Drk-Minds
 @DepthPsychologyHub
 @psychologyscholar
-@SensitivePsychology0
 @PsychLens25
 @Jungian_Psychology1
 @Buffettunfiltered
@@ -4386,19 +4365,15 @@
 @unboringfinance_official
 @themetaltrader
 @TheKenzoGuy
-@Moneysignal01
 @stateeconomy
 @JhonFeeds
 @Dolorpintadoyt
 @explicadorsencillo
 @bitacoraoculta
 @DerR%C3%A4cheresp
-@TheWolffThoughts
-@SHOCKINGNEWS-k2w
 @Noetica7
 @GeorgeSpeaks-i5g
 @Maxstone010
-@PoliticsRaw
 @GeorgeWillNew
 @%E5%89%8D%E7%94%B0%E3%83%A2%E3%82%AB
 @PensionToday_Live
@@ -4433,7 +4408,6 @@
 @Inspiraci%C3%B3nYokoi-c3r
 @C%C3%B3digoMental-d4l
 @Sabidur%C3%ADadeJung
-@NeuroDivulgadores
 @NeuroEsenciaYT
 @EthaanWalker
 @El-Perezoso-Explica
@@ -4586,7 +4560,6 @@
 @HistoriasdeAntonio
 @MrStickySensei
 @Z%C3%A1v%C4%9Bsd%C4%9Bjin
-@pages-of-then
 @CienciaFeynman
 @ExploradorCu%C3%A1ntico
 @NielsBohrexplicalaf%C3%ADsica
@@ -4652,7 +4625,6 @@
 @CapitalReveal
 @EchoesfromPyongyang-911
 @SilverChain22
-@DanielMercerYT
 @PrinciplesofWealth-c3i
 @DPrinciples
 @Armachron
@@ -4675,7 +4647,6 @@
 @Dr.JavierMart%C3%ADnez-b3w
 @DraEmiliaSu%C3%A1rez
 @HealX-d1b
-@GroundRealityTV-b7u
 @FutureFrame-h2z
 @shadowwarfiles1
 @KatieJohn-o9m
@@ -4822,7 +4793,6 @@
 @MotoresdelPasado-v6h
 @BaruchSpinozaElPulidordeLentes
 @HistoriaB%C3%A9lica-1
-@Dr.LouiseSeniorHealth1
 @BreakingNewsReport-l8p
 @Revenge54252
 @SleepOnScience
@@ -4904,7 +4874,6 @@
 @amigoshouse1026
 @TortureofEchoesTV
 @EverydayValorStories-o3t
-@storiescosmic
 @StoriesofLoveSecrets
 @TheTaleTrove102
 @BAPStories
@@ -4972,7 +4941,6 @@
 @MiDiarioBiblico-b2q
 @M%C3%A1sAll%C3%A1delasHistoriasB%C3%ADbli-o7r
 @VIDAESTOICATGN
-@LuzCerebral1
 @GabrielRol%C3%B3nMotivacion-r5f
 @Audiolibrosdealtonivel
 @PausayReflexi%C3%B3n1122
@@ -5087,9 +5055,7 @@
 @LaylaHina-mm9lb
 @PriceSignal-e2d
 @NovaMedia-c8z
-@LoQueNoDije-x4j
 @TheHonestPlus05
-@LaVozdePadreFortea786
 @emotionalwisdomlab
 @MujeresMagn%C3%A9ticas-h8e
 @DespiertatuAlmaTV
@@ -5136,7 +5102,6 @@
 @RichardWolfOffical
 @Sant%C3%A9Moderne
 @MarketRedZone
-@RichardEconomica
 @An%C3%A1lisisEcon%C3%B3micoconWolff-r3o
 @ThePentaTalks
 @groundsreality
@@ -5160,12 +5125,10 @@
 @FearlessFocusMaster
 @TheStrategicPerspective-d7g
 @hemavathishetty3423
-@OldMinistersTales
 @Avispaceloeb
 @GlobalBrief78
 @TheFederalUpdate-v1u
 @MiPuntodeVista0
-@maddowreport_official
 @UnfilteredTruth1-s2v
 @TheBriefDesk-h5t
 @DCDailyBrief
@@ -5174,9 +5137,7 @@
 @NARCIFIC-t6h
 @USAuthorityNews
 @melapelas9047
-@Stephennewss
 @TheLegalTimeLine
-@RushdiExplains-v2h
 @TheSilentFiles-b2r
 @capitolchaos2
 @noticias1-c4h
@@ -5194,7 +5155,6 @@
 @Canada_News_2026
 @Rachelmdmadwo
 @statetruthsyt
-@RachelNews-r7u
 @VerdictVisions_TV
 @MarketFaultLines
 @PhysicswithFeynman-1
@@ -5213,7 +5173,6 @@
 @TimelessCropsHaven
 @EverGreenHomeLiving
 @evergreengardeningadvice
-@peerawatpeerawat3897
 @GlobalAffairsDesk-v8q
 @SaladePoder
 @RichardWolffVoice
@@ -5223,13 +5182,11 @@
 @ZonadeImpacto2
 @WolffNoticias
 @CarlosMorenoYTT
-@thedailysignal-t1n
 @RachelHabladePol%C3%ADticaFanClub
 @economia.imperial
 @SabInfo-i8p
 @IntelligentesGeld
 @RichardWolffHoy
-@AhmedIram-op1yu
 @noticiasescalantes
 @HollywoodenVoz
 @LaVerdadEcon%C3%B3micaofc
@@ -5241,7 +5198,6 @@
 @GuideThejourney
 @WorldBriefDaily-l1w
 @WarrenBuffettStrategy-b1e
-@EVERYNEWS-d3w
 @SpeakESpaine
 @FanFight-b7m
 @DramayVenganza-h5h
@@ -5249,8 +5205,6 @@
 @RevengewithPapa
 @carladangmomma
 @AuraBloom.22
-@THEVAULTCHRONICLES-12
-@RiseandFallAmericadecline
 @ChosenRevengeLab
 @RedThreadStories-w7j
 @OGJohnAG2.0
@@ -5266,14 +5220,12 @@
 @PropertyFiles
 @SeniorsPost
 @RevengeBackstory
-@Karenverse2
 @RevengeKatapult
 @FamilyFortuneFallout-vtm
 @HOAUnderFire-n7o
 @SHEKNOWSreddit
 @tandezotandezo
 @MinecraftMemories-m9v
-@Revengeinsilence-f2r
 @RevengeLastLight-b2w
 @Witch-r4g
 @ChroniclesRSTStories
@@ -5295,7 +5247,6 @@
 @MineQley
 @capitalchroniclesweekly
 @가정의그림자8658
-@democracysignal
 @lastsignal-y1d
 @ai.darkhorizon
 @k_s_vaja_gaming
@@ -5391,7 +5342,6 @@
 @TMT_News1
 @PoliticoScope01
 @陶子見聞録
-@EconomiaUno
 @AmorVitalTV
 @MujeresdeLuzyAmor
 @C%C3%B3digoChiaraviglio
@@ -5405,7 +5355,6 @@
 @UNIVERSONATURAL-y1v
 @MarianRojastoday
 @Fabuleon
-@JalifeSinFiltro
 @renacerfemenino-nilda
 @EspacioFemeninoNilda
 @ReinasLibres
@@ -5450,7 +5399,6 @@
 @SecCometHFY
 @DeathCrownHFY
 @HFYSci-FiStories-r4c
-@ramazanlimur270
 @WolffalD%C3%ADa
 @TheHonestPlus
 @WOLFFECONOMICHUB
@@ -5462,7 +5410,6 @@
 @MarketTruthFiles
 @FinalUrgency
 @Espa%C3%B1aenNoticias
-@TheSensationalNews
 @TheEconomyUnwrapped
 @Inventariom%C3%A1sGrande
 @HistoriaDelCapitalOculto
@@ -5503,11 +5450,9 @@
 @MarketClarity-u7m
 @GOLDSILVERALERT-u6m
 @PropertyGorilla
-@JusticeCaseFiles-78
 @SILVERNEWSDAILY
 @MoneyLensNow
 @SimpleCurrencyYT
-@TheLastLessonYTA
 @WhatChanges
 @DeepDebt
 @yourJohnAG
@@ -5543,7 +5488,6 @@
 @An%C3%A1lisisdeEmergencia8
 @AlertaConstitucional
 @RichardWolffHabla1
-@THEHONESTPULSE-t3i
 @ConstructorVisionario
 @ClearFinanceHelp
 @modomillonarioesp
@@ -5573,7 +5517,6 @@
 @Dr.-Rafael-Mendoza
 @CaminodeOraci%C3%B3n-v1l
 @VentanaLuzyVerdadalCielo
-@LaVozEspiritual
 @RefugiodelAlmaMEX
 @Secretosespiriituales
 @NolanzoAnimationtv
@@ -5586,7 +5529,6 @@
 @MotoDyno-68
 @WolffExplained
 @BiggieEggstein
-@DanielWrightBriefing
 @cw.au-25
 @CanadaNextt
 @UKINFOHUB-k1s
@@ -5595,7 +5537,6 @@
 @Feynman-Explains
 @thinklikefeynman012
 @TheSumOverHistories-y9k
-@AmaraVanceReports
 @elimperioamericano2.0
 @HablemosYa-l6i
 @groceglenn2690
@@ -5631,7 +5572,6 @@
 @NichePlanet
 @SilentImperium
 @realitychecknews-s9q
-@Upcomingcars-p1f
 @MindsOfFree
 @Mot%C3%ADvateHoy-t7f
 @zerotool2077
@@ -5700,7 +5640,6 @@
 @najakuma9861
 @WildOnesss
 @aivideo_14yal
-@beforewemeet
 @bsidiannight
 @ironarchivesusa
 @hulku_jiiii
@@ -5835,10 +5774,8 @@
 @KoryoKeeper
 @LaLeLoBard
 @JazzHazeYT
-@RiseTheory-b8n
 @GlobalWatchHQ
 @VerityScope-d8v
-@thelawbreakdown
 @TheTruthNoOneToldMe
 @AiFantasyWorldi
 @ree_ree0513
@@ -5914,7 +5851,6 @@
 @FutureSpark786
 @MoneyOdysseyOfficial
 @tcjplayer
-@RareRundownNetwork
 @NewsJapan-b3f
 @Kevinomics2M
 @Thefinancefiles4u
@@ -6117,7 +6053,6 @@
 @DiariodeEconom%C3%ADa
 @2323-s4t
 @TheZantaTalks12
-@MenteenEquilibrio-r9d
 @FinoraTV
 @SmithArchive
 @FeynmanAnalysis
@@ -6134,7 +6069,6 @@
 @globegigle
 @FinancialFred-j3d
 @UPNEXTFILES
-@AGMarketDesk
 @CNBnow
 @DanielWhitmanPol
 @TheScribeOfFinance
@@ -6349,7 +6283,6 @@
 @PolskaAutoZone
 @RecenzjaAut
 @business_outlook
-@USADaily-x2j
 @WarandShadowSecrets
 @SmartCurrencySignals
 @NOBLEBUILLIONNEWS.0
@@ -6444,7 +6377,6 @@
 @elcodigojudioancestral_101
 @elhumanodetrasdellider
 @santemoderne
-@analisiseconomicoconwolff-r3o
 @cartasdesdeelmasalla
 @caminomistico-c3n
 @caminosmasalladelavida
@@ -6452,7 +6384,6 @@
 @miultimahistoria
 @elpulpitonacional
 @rachelhabladepoliticafanclub
-@laverdadeconomicaofc
 @laopiniondetodos
 @minhbeoluong
 @laclavedivina-f6t
@@ -6818,8 +6749,6 @@
 @FinanceHorizon-b7o
 @buffetfinancial
 @TheRebornEconomy
-@VoiceOfMarkTilbury
-@Asian_guy-u9n
 @YourJohnUSE
 @CapitalTransmission
 @MoneyFlashback-75M
@@ -6862,7 +6791,6 @@
 @RayDalioStrategy
 @MapleRetirees
 @JusticeClashAmerica
-@WhatsHappeningNow1M
 @CapitalAffairsYT
 @RushdiFiles
 @InsideAmericanJustice
