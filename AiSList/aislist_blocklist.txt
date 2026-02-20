@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6967
+! Total Channels: 6968
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6965,3 +6965,4 @@
 @TUNGTUNGNEWS-e4w
 @Sprun.Rapier
 @TimeMaxi
+@TheBrainrotHQ
