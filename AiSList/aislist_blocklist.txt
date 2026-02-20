@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 6979
+! Total Channels: 6980
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6977,3 +6977,4 @@
 @BrainRotRecords-Official
 @TimeSmiles
 @tungtunganomalii
+@BrainrotMemeSquad
