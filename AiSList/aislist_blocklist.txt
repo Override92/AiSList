@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7004
+! Total Channels: 7005
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7002,3 +7002,4 @@
 @turningpointchapters
 @alberta-reporter
 @SaudadeArcade
+@BoringHistorianarchive
