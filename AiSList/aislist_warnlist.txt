@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 149
+! Total Channels: 150
 
 ! Entries:
 @CinebotComedy
@@ -172,3 +172,4 @@
 @dandingles
 @battleoftheinternet1
 @JuliAnimationn
+@CartoonGamesMovies
