@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7025
+! Total Channels: 6980
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6109,7 +6109,6 @@
 @AfterAutomation
 @courtroomfiles07
 @WorldwideCourt
-@WorldwideCourt
 @HOAOutcry
 @harborhoa_k24
 @SovereignJustice
@@ -6127,14 +6126,11 @@
 @ShadowSystems_OG
 @EconomicEdge-h5g
 @HOATIMELINE
-@HoaKarenToday
 @HOAWars-b1k
 @DadPerfectRevenge
 @PolicyHOA
 @bridgingbasiccivilrights
 @HOAShocks
-@harborhoa_k24
-@theHOAlab
 @HOAUprising
 @TheLastFrontierTales
 @RealLifeDramaStories-tv
@@ -6257,7 +6253,6 @@
 @Vreviewdotinfo
 @GizzyTech
 @SimpleFinanceTom
-@Johnn-AG
 @MarbleZoid_world
 @BNGQUEENC
 @WeisheitdesKapitals
@@ -6463,22 +6458,16 @@
 @war2Stories
 @EchoesofWar20th
 @WARLOGICS-8888
-@Worldwar2-i6k
 @UntoldWarTruths
-@Since1939ww2
 @WW2-y3r
-@RuthlessGeneral
 @WW2Elite
 @CostOfFreedomYT
 @Tales1940
 @ww2-dates
-@WW2DustyArchives
 @RealGG2026
-@WW2Gear
 @ww2strike
 @WW2Stories1234
 @WWVanguardOfficial
-@EyeOfWW2
 @WarfrontRewind
 @CrimsonLegacyHistorians
 @CosmaraSpace
@@ -6499,7 +6488,6 @@
 @thelasthonestadvice_____20
 @TheHiddenBobDylanStories
 @WisdomThroughTime99
-@EchoesOfWar-a1
 @HouseofDarkConfessions
 @stoicthinkers1
 @ElderlyPrimeHealth
@@ -6600,7 +6588,6 @@
 @MillionairesInvestmentSecretx
 @JamieDimonMindset-05
 @financecentral9064
-@war2Stories
 @WingsofWorldWarII
 @WW2Veils
 @UnheardStories-f6p
@@ -6681,7 +6668,6 @@
 @HarringtonSilverReport
 @TheorytoReality-g2m
 @PropenomAIx
-@Andrewinvests-y3n
 @EconomyShock
 @CigarBlues
 @PsyDubMusic
@@ -6690,7 +6676,6 @@
 @FreedomReportNews
 @Canada_US_Report
 @ProsecutorSmitth
-@IndustrialDecayUSA
 @PAISATRACKER
 @Introvert-invest
 @RonnieInvests
@@ -6749,15 +6734,12 @@
 @FinanceHorizon-b7o
 @buffetfinancial
 @TheRebornEconomy
-@YourJohnUSE
 @CapitalTransmission
 @MoneyFlashback-75M
 @MINDSET-o8f
 @TheLegalBreakdownReport
 @voiceofwealthus
-@simplefinance00
 @MungerMasteryFanChannel
-@FinanceCompass111
 @DigitalPersons
 @TheNewsAngle-l2y
 @CapitalUnplugged
@@ -6769,7 +6751,6 @@
 @EliteBoardroom
 @FinancialArchivist_1
 @GlobalGoldAlert
-@JensenSecretsBusiness
 @RetirementIncomeStrategiesPro
 @WorldWidenewsOfficial3
 @BergHealthCode
@@ -6777,18 +6758,14 @@
 @BentalkMoney
 @TheWealthArchitect-US
 @Matthewinvests-s8v
-@CapitalTransmission
-@MoneyFlashback-75M
 @ShadowEdge-r1e
 @MKstudioUnitedState
-@TheLegalBreakdownReport
 @BuffettPortfolio
 @DeepDiveGlobal9
 @SmartCapital-g3w
 @InvestorMindset-im
 @LuminoxTerritory
 @PowertoProfits
-@RayDalioStrategy
 @MapleRetirees
 @JusticeClashAmerica
 @CapitalAffairsYT
@@ -6912,7 +6889,6 @@
 @BrainrotDrop
 @SKYArtAi
 @misteripek
-@warrenbuffetperspective1991
 @JohnOGReport
 @EntiendeTuMente-o9z
 @paradigmcapital_fanchannel
@@ -6923,7 +6899,6 @@
 @HTThing
 @MSNshow1
 @SamuraiGirl-official
-@paradigmcapital_fanchannel
 @MindsetMechanics-c9k
 @capitalnexusws
 @trendnews1-s3g
@@ -6936,7 +6911,6 @@
 @DailyTruthReport-g4x
 @UncoverTruthx
 @CrockettExposes
-@BoringHistorianarchive
 @SSDNEWS2026
 @CuriousWick
 @Zikumikukids
@@ -7008,7 +6982,6 @@
 @TreasuryOFTime
 @AtlanticBriefing
 @wealthhistoryy
-@BelliaWealthCode
 @lida4ever
 @DJMokdust
 @satoshirebel
