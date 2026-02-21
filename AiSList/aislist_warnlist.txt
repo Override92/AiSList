@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 167
+! Total Channels: 168
 
 ! Entries:
 @CinebotComedy
@@ -190,3 +190,4 @@
 @WarfareSignal
 @USMilitaryRecon
 @WWIINavalReport
+@USDefenseReview
