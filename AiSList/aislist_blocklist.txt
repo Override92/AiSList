@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7175
+! Total Channels: 7176
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7191,3 +7191,4 @@
 @forensicmacro
 @LincolnEra11
 @Healovaai
+@MetalKpop
