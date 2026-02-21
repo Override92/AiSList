@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7122
+! Total Channels: 7123
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7138,3 +7138,4 @@
 @Karmabuzz
 @Corporate_Vendetta
 @KindnessLoveTales
+@TalesSoulWhisper
