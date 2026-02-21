@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7155
+! Total Channels: 7156
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7171,3 +7171,4 @@
 @EliteLoveDossier99
 @OASISOFPASSIONS
 @FrontierRescueStories
+@ESA_Mafia_Stories
