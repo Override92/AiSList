@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 165
+! Total Channels: 166
 
 ! Entries:
 @CinebotComedy
@@ -188,3 +188,4 @@
 @StreetLevelUK
 @LuckyWithfinance
 @WarfareSignal
+@USMilitaryRecon
