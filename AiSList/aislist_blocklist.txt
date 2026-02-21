@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7199
+! Total Channels: 7200
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7215,3 +7215,4 @@
 @BuffettBlueprintHQ
 @GeoShiftVision
 @Exloretheunexplored
+@TheHiddenEconomy-8
