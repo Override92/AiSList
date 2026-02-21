@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7192
+! Total Channels: 7193
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7208,3 +7208,4 @@
 @GRACEFORPEACEofficial
 @aimillionavatar
 @BibleTruthDeliverance
+@KarenTrueStores0
