@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7231
+! Total Channels: 7232
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7247,3 +7247,4 @@
 @CourtRoomChaosHD
 @CycleOfAbundance
 @YouTubeIncomeGuru
+@CWIN_NEWS75
