@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7275
+! Total Channels: 7254
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -67,7 +67,6 @@
 @spacekitten435
 @sauravkreations
 @LaughingPawsHD
-@C.LEVIATAN
 @axieadventures
 @FairyFrame-r24
 @burstwc
@@ -125,7 +124,6 @@
 @BabySharkAI2
 @skillman1507
 @ai_kartoons
-@WildAidAnimalRescues
 @Titanamazing
 @Animalartlab
 @KhanOfficialTK
@@ -657,7 +655,6 @@
 @kidsai-m7x
 @nidsai786
 @meow-magic1-z1v
-@meowcat-t8r
 @mustafasamejo
 @animalkingdom-t3
 @nextgenai120
@@ -728,7 +725,6 @@
 @multiverseofai777
 @cyborgstrike-machinedown
 @thebeliefguide
-@kidecon2.0
 @neuralclips-u8o
 @cutepenguofficial
 @cutepenguindaily
@@ -2099,7 +2095,6 @@
 @EchoesofWar-r8j
 @WW2Declassified-s6b
 @Big.K.Korner
-@WW2RealStories-n4c
 @CanadiansAtWar
 @TheStoryKeeper4k
 @Since1945s
@@ -2233,7 +2228,6 @@
 @babyaishorts
 @chineseshortsai
 @aicreatorshorts-g3r
-@meow_story_book
 @aishorts4k-j6n
 @ducklindiaries
 @catbyteyr
@@ -2419,7 +2413,6 @@
 @legendsofcommand-o8d
 @ww2shadowarchives.5
 @darkhistoryexplainer
-@battledecoded
 @wwii_anatomy
 @ww2-b7o
 @warxhistory
@@ -2540,7 +2533,6 @@
 @ai.cartoon-y5b
 @aianimatedshorts07
 @islamiccartoonvideostory
-@aivideo482
 @aigeneratedanimals89
 @axanimalscartoon
 @aishorts_70
@@ -2897,7 +2889,6 @@
 @theloyallab
 @folora2.0
 @lalsaha123
-@junglequest12
 @TechSolutionz
 @Beyond_Time-e7s
 @ActiorDe
@@ -3627,7 +3618,6 @@
 @ILivedToTell-qx
 @MeaningfulLifeStoriesTV
 @legendarynhls
-@HollywoodsOopsFiles
 @RockMemoriesVintage
 @BarrelStandard
 @Darknessfromai
@@ -3922,7 +3912,6 @@
 @JusticeStands-u7b
 @WorldRareCoin
 @rarecoinsinfo
-@TheFinalRevenge
 @RetributionDiariesMain
 @silentfamilydrama1
 @DimpleRevengeDiaries
@@ -4717,7 +4706,6 @@
 @DiamondRevengeUS2
 @EveryLoveStoryy
 @Feyvoritestories
-@ReceiptsRetribution
 @OldWestRange
 @pathsofromance
 @TheObsessionScript
@@ -5121,7 +5109,6 @@
 @sweetlifebeatlife
 @FrankGravesStories
 @yikesproduction
-@user-pk2dz6cz4p
 @FearlessFocusMaster
 @TheStrategicPerspective-d7g
 @hemavathishetty3423
@@ -5736,7 +5723,6 @@
 @Gabrielrolon7-n3j
 @ExitoMunger
 @lasense%C3%B1anzasdecharliemunger
-@InvertirconCabeza-i8j
 @ELMETODOMUNGERESP
 @FinanzasenlaTerceraEdad
 @CanalyouCanalyou-f6i
@@ -5760,7 +5746,6 @@
 @ResQRaceQ
 @untamedhorizons3
 @BioMechZoo
-@Krugmaninsights
 @SecretShelterAlon
 @ProfPolicyLens
 @TrunpDemocracy
@@ -6350,14 +6335,12 @@
 @antanimation_66
 @thatiskarma
 @givemeromance
-@motupatlu-125
 @insidethecourtroom-r5e
 @warmhandswildlife
 @johan_andi
 @kilometroceroo
 @heroesinmortales-2
 @cuentossdepasion
-@padreforteaensena
 @sabiduriajudiaeterna
 @conductajudia
 @jungyelcodigodelostraumas
@@ -6404,7 +6387,6 @@
 @psicologiadelalma-o2x
 @metodowarrenbuffett
 @wolffeconomicoanalisisfan1
-@analisisdeemergencia8
 @capitalhistoricoo
 @ellegadocarmesi
 @dra.marinalopez
@@ -6465,7 +6447,6 @@
 @Tales1940
 @ww2-dates
 @RealGG2026
-@ww2strike
 @WW2Stories1234
 @WWVanguardOfficial
 @WarfrontRewind
@@ -6567,9 +6548,7 @@
 @TheFinanceLedger7
 @kevin_o_connor_fan_page
 @wealthchronicles-v3e
-@AmericanPulse-h5p
 @courtroom.archive
-@MarksEconomicBriefing
 @velocityalphafinal
 @JohnEconomic-o9x
 @DailyIANEWS
