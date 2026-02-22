@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7292
+! Total Channels: 7293
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7308,3 +7308,4 @@
 @TheNexusArchitect
 @ashish-OmniVerse-Updates
 @tonytechInsights78
+@ReferCoinLab
