@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7284
+! Total Channels: 7278
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7067,12 +7067,10 @@
 @TwoNationsPolitics
 @WarrenBuffettSays
 @THEECONOMIST-TH
-@WarrenBuffettSays
 @UBFinanceTruth
 @CapitalCraft-f8r
 @MacroMetalsReport
 @BookishHaven-s5k
-@THEECONOMIST-TH
 @FinanceBeyondBordersOfficial
 @stevemakemoney
 @HOAShenanigans
@@ -7084,7 +7082,6 @@
 @peachylee7110
 @HOA-KarenStories
 @hoaxpresss
-@RealHOAStorytime-o5q
 @Tranding2-12
 @HOAPayback-s2l
 @hoastories-n6v
@@ -7093,7 +7090,6 @@
 @HOAKarmaGroup
 @HOAUpdate
 @KarenMeltdown77
-@stevemakemoney
 @MetalMacroInsights
 @Investonomics
 @TheAppVerdict
@@ -7188,7 +7184,6 @@
 @aimillionavatar
 @BibleTruthDeliverance
 @KarenTrueStores0
-@WallStreetSketchbook
 @untolddiarise_official
 @HimaruChan-oj8ph
 @BuffettBlueprintHQ
