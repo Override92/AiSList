@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7283
+! Total Channels: 7284
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7299,3 +7299,4 @@
 @EternalFantasySounds
 @Mystic_Highlands
 @MysticGirlVibes
+@echoesoflight-g3n
