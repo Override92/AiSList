@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7274
+! Total Channels: 7275
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7290,3 +7290,4 @@
 @Panda_Market_News
 @JesterEngine
 @Neural_Lens_Music
+@DecodeDiaries1m
