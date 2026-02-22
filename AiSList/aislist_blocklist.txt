@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7279
+! Total Channels: 7280
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7295,3 +7295,4 @@
 @kowbojskamilosc
 @jesusmysavior-p3m
 @SiliconDreamsASMR
+@FjordHarmonies
