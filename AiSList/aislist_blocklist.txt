@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7278
+! Total Channels: 7277
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7279,7 +7279,6 @@
 @bodyreactionlabs
 @exploringaustraliah
 @adii.remix1k
-@visionx4kpro
 @meera_beti
 @jonclinton-official
 @ashik-43
