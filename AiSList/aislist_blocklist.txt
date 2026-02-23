@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7407
+! Total Channels: 7408
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7423,3 +7423,4 @@
 @ForestechoesAiMusic
 @rowdybunchseashanties
 @Ethereal_Chronicles_off
+@BaldGeeSaga
