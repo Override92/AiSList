@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7343
+! Total Channels: 7344
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7359,3 +7359,4 @@
 @WhenLoveBreaksQuietly
 @ShatteredVengeance
 @THRevengeMomentum
+@HeartJournals
