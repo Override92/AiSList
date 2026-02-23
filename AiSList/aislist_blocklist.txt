@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7389
+! Total Channels: 7390
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7405,3 +7405,4 @@
 @RadioRuach
 @NatureMeditationAmbience
 @Aelwyn-e5k
+@CelticGlensSongs
