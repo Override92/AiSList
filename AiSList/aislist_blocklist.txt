@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7507
+! Total Channels: 7508
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7523,3 +7523,4 @@
 @Teaser-fox
 @MajidGhorbaninejad
 @KarmasRevenge.0
+@calmstories12
