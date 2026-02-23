@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7384
+! Total Channels: 7385
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7400,3 +7400,4 @@
 @HerHiddenHeartLab
 @cheatingtaleslab
 @TurningTablesStories
+@SteelBrotherhoodYT
