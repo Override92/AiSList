@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7392
+! Total Channels: 7393
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7408,3 +7408,4 @@
 @CelticGlensSongs
 @EpicCelticMusicByTox
 @AshasAmbientAiArt
+@EmeraldLegacy
