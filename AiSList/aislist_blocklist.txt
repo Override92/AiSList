@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7353
+! Total Channels: 7354
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7369,3 +7369,4 @@
 @NeverTooOldChannel
 @CarolineRestelli-j7g
 @ShelleDiaryStories-z5b
+@Inside-House-of-Secrets
