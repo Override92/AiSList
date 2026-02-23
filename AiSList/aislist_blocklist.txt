@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7413
+! Total Channels: 7414
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7429,3 +7429,4 @@
 @ElderHarpStudio
 @FG-creations
 @Eiradora8888
+@Echoesof%C3%89ire-c5p
