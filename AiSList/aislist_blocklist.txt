@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7329
+! Total Channels: 7330
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7345,3 +7345,4 @@
 @LIZAUSA006
 @BibleOrigins1
 @SoapOperaInsider
+@ScreenwritersCheatCode
