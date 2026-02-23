@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7469
+! Total Channels: 7465
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7378,17 +7378,14 @@
 @Thelostlibrary_ElvenFantasy
 @SAIPhonic
 @DenisWestpfahl
-@sacredpulsemusic
 @Doodle_Wise
 @FinanceDeepDive
-@MindOverMarket7-k9f
 @JordiVisserLabs
 @MoneyMastery-b9e
 @JackMaMotivation-w9y
 @TheForgottenRealmSoundscapes
 @financeguruvjkohli
 @JohnAGInvest
-@EmpireEconomic
 @MofizReact
 @RevengeDailyUs
 @DramaUnfolded88
