@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7338
+! Total Channels: 7339
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7354,3 +7354,4 @@
 @oldweststoriees
 @GrandmaTrueStories
 @mydramaanimated
+@AfricanTalesPrince
