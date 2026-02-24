@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7567
+! Total Channels: 7568
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7583,3 +7583,4 @@
 @QuietConfessionsYT
 @HouseholdRevenge
 @HeartfeltBetrayals
+@RevengeofBloodline
