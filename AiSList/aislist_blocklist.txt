@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7580
+! Total Channels: 7581
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7596,3 +7596,4 @@
 @netflixromanticstory
 @WhatWasNeverSaid-p8e
 @MaryannChioma-i7w
+@UnravelingRevenge
