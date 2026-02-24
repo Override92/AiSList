@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7479
+! Total Channels: 7480
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7495,3 +7495,4 @@
 @FamilyDramaStories-t7t
 @RevengeRedUS
 @WTFNarrativ
+@PittDrama
