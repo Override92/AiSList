@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7516
+! Total Channels: 7517
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7532,3 +7532,4 @@
 @SimpleRedditReadings
 @Family-Betrayals-Stories
 @DearMama-khm
+@revengeshift
