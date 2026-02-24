@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7522
+! Total Channels: 7523
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7538,3 +7538,4 @@
 @HarlansRevengeOfficial
 @RevengeScale
 @DarkRevenge-u8b
+@HiddenFamilyTales
