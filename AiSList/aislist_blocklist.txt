@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7547
+! Total Channels: 7548
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7563,3 +7563,4 @@
 @RevengeCrown-q3k
 @DragonStoriesByReddit
 @ExtremeRevengeStories-z2e
+@REVENGE-AITA
