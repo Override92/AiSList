@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7534
+! Total Channels: 7535
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7550,3 +7550,4 @@
 @BrokenByBlood
 @UrbanRevenge-c8x
 @FixRevenge
+@ToxicRelationship-j8x
