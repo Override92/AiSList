@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7553
+! Total Channels: 7554
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7569,3 +7569,4 @@
 @AstraLifeStories
 @QuietHome9
 @revenge_savage
+@SongsoftheNorthofficial
