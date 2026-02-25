@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7677
+! Total Channels: 7678
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7693,3 +7693,4 @@
 @JohnAGDaily
 @UnsolvedEvidence1
 @OGJhonAG
+@Alpacinostories
