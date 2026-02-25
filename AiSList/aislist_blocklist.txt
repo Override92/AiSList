@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7632
+! Total Channels: 7633
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7648,3 +7648,4 @@
 @WALLSTREETSQUIRREL
 @GlobalMonetaryWatch
 @SciTech-Explained
+@MungerMindset-m2q
