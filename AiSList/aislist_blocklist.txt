@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7739
+! Total Channels: 7740
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7755,3 +7755,4 @@
 @ShadowstoStars-k9e
 @UpdatesWithGeorgeWill
 @feyman-g8t
+@LearnWithFeynman
