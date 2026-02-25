@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7802
+! Total Channels: 7803
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7818,3 +7818,4 @@
 @Psyphos_official
 @Psyphos_official
 @polbox
+@brainandbehavior1
