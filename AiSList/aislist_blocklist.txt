@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7672
+! Total Channels: 7673
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7688,3 +7688,4 @@
 @JohnAGEconomy
 @MrJohnAG-l3e
 @BTEOfficical
+@CrystalMindAudio
