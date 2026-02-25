@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7798
+! Total Channels: 7799
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7813,4 +7813,5 @@
 @stocksMoonRadar
 @keyaki1117
 @Manhwarecap137
+@ThoughtArchitectt
 @ThoughtArchitectt
