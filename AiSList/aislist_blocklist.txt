@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7707
+! Total Channels: 7708
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7723,3 +7723,4 @@
 @GeopoliticalLedger10
 @GlobalStrikeDesk
 @GeoDominion5
+@TrumpLiveUpdate
