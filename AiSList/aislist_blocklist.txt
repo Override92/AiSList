@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7800
+! Total Channels: 7801
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7815,4 +7815,5 @@
 @Manhwarecap137
 @ThoughtArchitectt
 @ThoughtArchitectt
+@Psyphos_official
 @Psyphos_official
