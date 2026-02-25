@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7734
+! Total Channels: 7735
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7750,3 +7750,4 @@
 @CanadaAmericaDaily
 @TheEarthLab
 @prayer_faith
+@Housingsignal
