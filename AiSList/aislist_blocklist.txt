@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7693
+! Total Channels: 7694
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7709,3 +7709,4 @@
 @Neow-AI
 @HappyMeowMeow93
 @phonkhub68
+@BNCNews99
