@@ -32,10 +32,10 @@ Don't forget to set your username in the settings.
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1024 |
-| 🥈 2 | [@www2](https://github.com/www2) | 929 |
+| 🥈 2 | [@www2](https://github.com/www2) | 933 |
 | 🥉 3 | [@Oflogon](https://github.com/Oflogon) | 332 |
-| 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 200 |
-| 5 | [@magikarp](https://github.com/magikarp) | 136 |
+| 4 | [@magikarp](https://github.com/magikarp) | 217 |
+| 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 200 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
