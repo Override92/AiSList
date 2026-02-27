@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 224
+! Total Channels: 225
 
 ! Entries:
 @CinebotComedy
@@ -247,3 +247,4 @@
 @CafeSong1
 @Zikotashorts
 @BernardAnimationOfficial
+@POVStorries
