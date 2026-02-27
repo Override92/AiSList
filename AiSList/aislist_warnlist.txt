@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 218
+! Total Channels: 219
 
 ! Entries:
 @CinebotComedy
@@ -241,3 +241,4 @@
 @PocketCinema_
 @Thi.MoneyExpose
 @Redconomy
+@PinionNewswire
