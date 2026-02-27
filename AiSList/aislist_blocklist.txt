@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7974
+! Total Channels: 7975
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7990,3 +7990,4 @@
 @Shivangmini
 @memefluffy
 @TOROT_TOROT
+@CappuccinoEdw
