@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7884
+! Total Channels: 7885
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7900,3 +7900,4 @@
 @AGAsianGuyYT
 @Time_Prism24
 @TheEmpirePOV
+@TheSecretExplainerYT
