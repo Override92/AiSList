@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 208
+! Total Channels: 209
 
 ! Entries:
 @CinebotComedy
@@ -231,3 +231,4 @@
 @JeanFalcaoMusicLab
 @LittleThing_moment
 @ToCieRuszy
+@PokerGoneWild
