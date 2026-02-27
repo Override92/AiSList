@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7822
+! Total Channels: 7823
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7838,3 +7838,4 @@
 @TheAsianGuy-t9z
 @AmericanIronworks_1
 @TheSmartCarMethod
+@Currencyupdate-h9
