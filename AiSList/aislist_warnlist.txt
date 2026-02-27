@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 216
+! Total Channels: 217
 
 ! Entries:
 @CinebotComedy
@@ -239,3 +239,4 @@
 @GummyDrama
 @earthcurious
 @PocketCinema_
+@Thi.MoneyExpose
