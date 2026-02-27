@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8032
+! Total Channels: 8033
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8048,3 +8048,4 @@
 @MarketingbyVijay
 @AndersonCooperArchive
 @ChoseninGOD-h4d
+@Canada.PensionAlert
