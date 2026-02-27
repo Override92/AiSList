@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7842
+! Total Channels: 7843
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7858,3 +7858,4 @@
 @SupremeWatch
 @Canadaustv
 @InsideCanadaTV
+@TheNationalBriefingyt
