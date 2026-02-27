@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7968
+! Total Channels: 7969
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7984,3 +7984,4 @@
 @BrainmeltedStudio
 @ShortyvidsYT
 @Chromed_X
+@Starvalley01
