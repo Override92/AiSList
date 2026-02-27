@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7844
+! Total Channels: 7833
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7598,14 +7598,12 @@
 @GlobalizingEconomy
 @formalfinance33
 @FactLine9t
-@AmericanMarketDesk
 @USMarketDaily07
 @FinIQAI
 @WALLSTREETSQUIRREL
 @GlobalMonetaryWatch
 @SciTech-Explained
 @MungerMindset-m2q
-@future-ai-toolls
 @CharlieMungar-u1d
 @EpicWarFiles
 @financepro5
@@ -7617,11 +7615,9 @@
 @Night-of-Evil
 @CodziennyKosmos1
 @FinanceInfinity6829
-@MungerMindset-m2q
 @ThePast880
 @OGJohnAG_2
 @MarketInsightRadar
-@JohnAGExposed
 @JohnAGHub2
 @PrimeogJohnAG
 @VantageEconomics
@@ -7655,7 +7651,6 @@
 @GeoDominion5
 @THINKOFWAY
 @SophiaMiller-f3p
-@AmericanMarketDesk
 @BlondiFoks
 @WildNatural86
 @AnimalBattleLab
@@ -7672,13 +7667,11 @@
 @MDTAREKRAHMAN-r2i
 @ShannonBream9
 @FutureSafeUS
-@MacroShieldMethod
 @WarWealthChronicles
 @ghostAG7
 @AgEconomy
 @GeopoliticalLedger10
 @GlobalStrikeDesk
-@GeoDominion5
 @TrumpLiveUpdate
 @WealthNexusChannel
 @FeynmanLightFiles
@@ -7770,8 +7763,6 @@
 @keyaki1117
 @Manhwarecap137
 @ThoughtArchitectt
-@ThoughtArchitectt
-@Psyphos_official
 @Psyphos_official
 @polbox
 @brainandbehavior1
@@ -7818,7 +7809,6 @@
 @KarenBusters65
 @TheDailyKaren
 @HOADispatched
-@RealHOAStorytime-o5q
 @EpicBond-TalEs
 @hoarevengefiles-k7g
 @SmartHands-i5n
