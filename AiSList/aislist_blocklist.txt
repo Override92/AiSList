@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8002
+! Total Channels: 8003
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8018,3 +8018,4 @@
 @Smartwallettalks23
 @RogerSinclairOfficial
 @TheMessiah_jesus
+@InternationalStacker
