@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 210
+! Total Channels: 211
 
 ! Entries:
 @CinebotComedy
@@ -233,3 +233,4 @@
 @ToCieRuszy
 @PokerGoneWild
 @JiangHistoriaPredictiva
+@TheHOAOverruled
