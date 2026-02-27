@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8010
+! Total Channels: 8011
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8026,3 +8026,4 @@
 @TemplarHymns
 @itstheamericanpolitics
 @therealitycheck57
+@TheFinanceReview
