@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8018
+! Total Channels: 8019
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8034,3 +8034,4 @@
 @TNTvUpdate
 @BABYKIDSTV-z8r
 @SystemGeld
+@DALIOPRINCIPLES-e1y
