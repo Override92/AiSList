@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7833
+! Total Channels: 7834
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7849,3 +7849,4 @@
 @glorybuildss
 @sweetanimal-i5j
 @bestcartoon22-p5e
+@HOARevengeStories
