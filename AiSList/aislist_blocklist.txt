@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7910
+! Total Channels: 7911
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7926,3 +7926,4 @@
 @LEGALREVIEW121
 @CanadaPensionUpdates
 @Ronald-t8i5n
+@SeniorLifeCanada
