@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 214
+! Total Channels: 215
 
 ! Entries:
 @CinebotComedy
@@ -237,3 +237,4 @@
 @DzikaOdnowa
 @NIEZNANY_KOSMOS
 @GummyDrama
+@earthcurious
