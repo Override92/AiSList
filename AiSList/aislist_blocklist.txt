@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 7898
+! Total Channels: 7899
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7914,3 +7914,4 @@
 @GlobalLedger-x4f
 @AlbertFred-f9w
 @CanadaGlobalEconomics
+@JohnD.Metals
