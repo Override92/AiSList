@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8073
+! Total Channels: 8074
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8089,3 +8089,4 @@
 @THE-POLITIX1
 @Finanzix24
 @MoneyMentorHub-y8k
+@ThelegendInvestor-k7m
