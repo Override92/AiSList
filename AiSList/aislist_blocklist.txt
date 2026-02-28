@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8093
+! Total Channels: 8094
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8109,3 +8109,4 @@
 @LegacyMotoring
 @BartekInwestuje
 @OverlayTube
+@SynthMageYT
