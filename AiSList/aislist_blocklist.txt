@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8102
+! Total Channels: 8103
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8118,3 +8118,4 @@
 @SoftHarborRadio
 @Matshubaba
 @ExcellentWatches-zy9ln
+@GeoPowerBrief
