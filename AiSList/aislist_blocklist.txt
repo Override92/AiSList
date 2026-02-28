@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8053
+! Total Channels: 8054
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8069,3 +8069,4 @@
 @CarlJungWisdom-w5h
 @BackshiftGarage
 @NoelPoloTV_en
+@BrassandBlitz
