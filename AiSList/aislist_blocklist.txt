@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8130
+! Total Channels: 8040
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2885,7 +2885,6 @@
 @folora2.0
 @lalsaha123
 @TechSolutionz
-@Beyond_Time-e7s
 @ActiorDe
 @SocialismExplained
 @PandaAIDuniya
@@ -2945,7 +2944,6 @@
 @storytimewithhoakaren
 @hoakaren-d1t
 @thehoastorytimemoments
-@thehoadiariesofficial
 @hoakarenstorytime
 @thehoafiles-l6v
 @h0astory22
@@ -3212,7 +3210,6 @@
 @AntioneOdo
 @hearttalksify
 @mindlapse.official
-@PoliticsTalk8
 @anfacraft6770
 @newssovereignty
 @TheUnheard1283
@@ -3428,7 +3425,6 @@
 @john_the_ai_creator
 @anizyra
 @chinchan-h9y
-@crazyaicat.1
 @ai_comedy-0.9
 @meowverse-aii
 @catarmy-h
@@ -3588,7 +3584,6 @@
 @DOCSTORIES-p9m
 @growforjustice
 @VoicesUnchained_1
-@WhenJusticeArrives-v9p
 @WhisperedStories-US
 @KindSoulNarratives-c4c
 @TheCodeWhisperers
@@ -3662,7 +3657,6 @@
 @ThePowerLedgers
 @ThePatternReportx
 @WarEclipse007
-@OpenCourtAnalysis
 @HeadlineBrief
 @ExecutiveBrief-m3b
 @ConflictSignals
@@ -3715,8 +3709,6 @@
 @Blood-and-Ledgers
 @buddyanalysis
 @FinancialExposures
-@FunCurrency
-@the-US-world
 @21FILM
 @TheEngineArchives
 @MrBookandMeStories
@@ -3824,7 +3816,6 @@
 @SilentStories-c4y
 @ClashRoyaleSrb
 @justicearchivestv
-@Jhonewillreports
 @LuvsStories
 @BuildTheInsight
 @AmericanBloodlines
@@ -3917,7 +3908,6 @@
 @FireOf_Revenge
 @StormRevenge102
 @HiddenRevengeFamily
-@WW2ForgottenStories1
 @WarriorArchives-n7z
 @HerHiddenHeart
 @UltimateRevenge-p9u
@@ -4054,7 +4044,6 @@
 @VENGEFULNETWORKS
 @whisperedstorieshub
 @IronwoodNarratives
-@PawsofCourage-h6o
 @HFYAdultVault
 @BlackCaptainHFY
 @HealingWithMe.
@@ -4112,7 +4101,6 @@
 @HeartfeltMafiaTales
 @TheDiaryofhearts
 @ImpressiveStorie
-@MafiaBloodline-yt
 @febirizki8490
 @JinnaLoveStories
 @blackintimehistory
@@ -4235,7 +4223,6 @@
 @The-Next-Candle
 @EconomyMeetsWarfare
 @PatriotBattlefront01
-@mootivefuel
 @KeviStrategy
 @zadoklkaesyn2499
 @BuffettMoneyMentality
@@ -4415,7 +4402,6 @@
 @ThousandTalesTube
 @Ai_blues_rock
 @EquatorAI
-@UnveilingPsychology
 @LauraRosenTalks
 @thekindride
 @สจตราออนละมล-ฟ1ฎ
@@ -4497,7 +4483,6 @@
 @ArcaneZodiacSagittarius
 @Zodiacsingtoday
 @ZodiacAndBeyond
-@CapitolChronicles-1
 @RachelToday-24
 @TheSealedRoom
 @LaPalmaVisible
@@ -4506,7 +4491,6 @@
 @RenderFaceAi
 @FantasyCeltic_Music
 @GGCi%C3%AAncia1
-@TheBlackVeil-x7v
 @ElnuevoPODERDELINCONSCIENTE
 @TheMilitaryHub
 @L%C3%BAinCelticMusic
@@ -4576,7 +4560,6 @@
 @GeorgeWillCritica
 @IbrahimTraorestories88
 @TheGeopoliticalEdges
-@TrueLineToday-t8q
 @CarVerse
 @noorFatima-z5m8j
 @RIDEDRIVEMUNI
@@ -4619,13 +4602,11 @@
 @FutureFrame-h2z
 @shadowwarfiles1
 @KatieJohn-o9m
-@MindSketches01
 @dingdongsimsim
 @SafeCapital-u3r
 @gujaratnishaan8030
 @StrengthUnspoken
 @LiesBurnSlowly
-@TheyDidntWait
 @HauntedHeartsStories
 @JusticeZoneTV
 @BlackPowerTruth
@@ -4678,7 +4659,6 @@
 @the.love.chapters
 @SpiritGuidesStories
 @RealLoveStories-byLia_Stuart
-@Lindazpi-h3x
 @DiamondRevengeUS2
 @EveryLoveStoryy
 @Feyvoritestories
@@ -4691,9 +4671,7 @@
 @RevengeStoryOfLife
 @BlackFreedom2
 @TheRiversideTavern
-@Talking-71-ai
 @thefolkdices
-@SilenceHitsHarder
 @VerdeckteWahrheit-q2d
 @JusticiaFr%C3%ADa091
 @LucasHerreraVozdeHistorias
@@ -4780,7 +4758,6 @@
 @TheQuietOrders
 @Voicesemotions
 @nrwqnkxt
-@yaroslav1233
 @RevengeSophia
 @CorporatePayback
 @phoenixnarrativesYT
@@ -4840,7 +4817,6 @@
 @TheTaleTrove102
 @BAPStories
 @Quiet_Betrayals
-@LetterstotheDuke
 @storiestheyoungignore
 @End.Racism.1
 @JusticeWatchTV-j2e
@@ -4850,7 +4826,6 @@
 @UltimoFrenteYT
 @PromotedbyBetrayal1566
 @UnseenBraverySagas
-@MoonlightChronicles-yt
 @roxysalpharomance
 @storiesthatseeyou
 @billionaireceostories-h7y
@@ -4868,7 +4843,6 @@
 @Underestimated_Dad
 @MafiaBossWhisper
 @TimelessLoveStories-q1b
-@EmmaStories-t7l
 @linasromantasycollection
 @SoulStories-c8y
 @PlayFramePlus
@@ -4931,7 +4905,6 @@
 @StrugglingStories-YT
 @BillionaireHeartStoriesusa
 @EmbersofEmotions888
-@GildedBetrayalStories
 @LettersSent
 @JamesWalkerTheStoryteller
 @TrueTaleTimeLE
@@ -4962,7 +4935,6 @@
 @RomanticPrints
 @Johan_Andi⁩
 @nana_jianwenlu
-@豐澤財經
 @Dr.CharlesBennettSeniorHealth
 @diariosmedievales
 @Kil%C3%B3metroCeroo
@@ -5054,7 +5026,6 @@
 @calmfocuslabs
 @CorazonDFeYT
 @Elhumanodetr%C3%A1sdell%C3%ADder
-@jarvisdarin1744
 @HACE5MINUTO
 @mayowaesther4748
 @MexicoNewsDaily-d4h
@@ -5107,9 +5078,7 @@
 @HazloRealidad-d8r
 @capitalconflict
 @ArchivoSellado
-@FederalPrimeNews7
 @Canada_News_2026
-@statetruthsyt
 @VerdictVisions_TV
 @MarketFaultLines
 @PhysicswithFeynman-1
@@ -5216,7 +5185,6 @@
 @porquesextranos
 @motivandohastaelexito
 @sabidurianeurocorporal
-@centrateenti
 @yokoikenjipsicologia
 @inspiracionyokoi-c3r
 @codigomental-d4l
@@ -5248,7 +5216,6 @@
 @philosophyoriginsespanol
 @nielsbohrexplicalafisica
 @sinsentidoes
-@SignalDesk-t4h
 @AlejandroFernandezAlvarez-w5y
 @LaSaladelAn%C3%A1lisis
 @MarketIntelligenceDesk
@@ -5281,7 +5248,6 @@
 @thelegendinvestor-n2f
 @oracleofomaha-s6u
 @jakestroy
-@PrimeDemocracy-d2e
 @breakingnewsupdate-r6u
 @Publicaffairsnetwork
 @SophieEdward-c7o
@@ -5365,10 +5331,8 @@
 @realitycheckpoint01
 @inspiredbymaddow-k2h
 @TheGrayLedgerOfficial
-@therachelm-j6i
 @GlobalAffairs-Media
 @soldiercommands
-@ThePolicy_Prism
 @MarianHabla15
 @VocesInternas-k4f
 @TheTruthBehindtheHeadlines
@@ -5381,7 +5345,6 @@
 @reinoderiquezas
 @Psicolog%C3%ADadelAlma-o2x
 @Warren_Buffett_Playbook
-@MrWonderful-h3q
 @DalioWorldOrder
 @RichardStewart-t3e
 @meyouNight
@@ -5393,7 +5356,6 @@
 @MarketClarity-u7m
 @GOLDSILVERALERT-u6m
 @PropertyGorilla
-@MoneyLensNow
 @SimpleCurrencyYT
 @WhatChanges
 @DeepDebt
@@ -5428,7 +5390,6 @@
 @LailaJaveriya-qt9xz
 @TRMANALYSIS
 @An%C3%A1lisisdeEmergencia8
-@AlertaConstitucional
 @RichardWolffHabla1
 @ConstructorVisionario
 @ClearFinanceHelp
@@ -5457,7 +5418,6 @@
 @Dr.-Rafael-Mendoza
 @CaminodeOraci%C3%B3n-v1l
 @VentanaLuzyVerdadalCielo
-@RefugiodelAlmaMEX
 @Secretosespiriituales
 @NolanzoAnimationtv
 @GoldSilverVault
@@ -5498,7 +5458,6 @@
 @LeydelKarma-w4o
 @venganzafamiliar68
 @ElGiroInesperado
-@VocesSabias-j2q
 @VenganzaSilenciosa-l2x
 @Historiascotidianas-t7r
 @HistoriasDelPresidente
@@ -5652,11 +5611,9 @@
 @wolfofcc
 @LensHistory
 @marketalarm55
-@SolRust-t6t
 @HouseExperts-1
 @GlobalFlowReport
 @Kevinomics02
-@CharlieMungerDailyTalks1
 @IndexSense
 @warrenbuffetinvest
 @Buffetts.Rules.of.Wealth
@@ -5701,7 +5658,6 @@
 @JDM-ENGINE-ARCHIVE
 @TheOracleofOmaha1st
 @CanadaPropertyWatch
-@fliporyhome
 @The-Celtic-Mage
 @KoryoKeeper
 @LaLeLoBard
@@ -5721,7 +5677,6 @@
 @DR.NORAHAYES-v4v
 @DR.NERITA
 @MensHealthOver50-60
-@Think_Outside1
 @HeartToWolff
 @MrCityView4
 @uscanada-x3h
@@ -5760,7 +5715,6 @@
 @buriedtruths3979
 @USAProblemZone
 @ChillingEconomy
-@OGFinance-c5z
 @DraIn%C3%A9sRam%C3%ADrez
 @PotenciaMasculinaDraJocelyn
 @DrMarianaSeniorWellness
@@ -5774,7 +5728,6 @@
 @AnoshaYoutube
 @eduforcrypto
 @OGJohnAG2.0-g9z
-@digitalhub-11-w1y
 @ThinkLikeMungerAcademy
 @AxelineOfficial
 @RykerDean445
@@ -5798,7 +5751,6 @@
 @pawsin60s-v7e
 @Opowie%C5%9BcioKarze
 @WWIIhistory-i1r
-@OGShocks-e1k
 @MasteryofUSA
 @ApexFinance-q6n
 @KenzoHistorianoffical
@@ -5882,7 +5834,6 @@
 @ElOtroEspejo0
 @Finan9
 @NarcisismoAlDescubierto-c2k
-@benreedshow
 @ElAlmaJungiana
 @ThePrincipleCodes
 @FinancialCrisisExplained
@@ -5916,7 +5867,6 @@
 @ToonzPik
 @Techlume-o3z
 @dividendosnews3519
-@Future_Driven-b1k
 @OTTOONLY
 @InnerSky-c2h
 @InsideMuskWorld
@@ -5942,7 +5892,6 @@
 @EconomyRewind
 @priceandpower
 @MoneyMethod-w5y
-@TheMungerPrinciples
 @WealthChronicles0
 @ProudAmericanHeritage
 @FinancialHistorys
@@ -6078,7 +6027,6 @@
 @TheHOAdiaries
 @JusticeLedger1991
 @HOAtea99
-@DeepView-24
 @ThinkBeyondLimits09
 @FeynmanTeLoExplica
 @CapriioCourt
@@ -6094,8 +6042,6 @@
 @GeorgeSaysEverything
 @ThePastEngine
 @NotiCore
-@TacticalOrder
-@Radaramerican
 @FederalInsightMedia
 @redsilence-v8o
 @MyAICareer
@@ -6160,7 +6106,6 @@
 @Jack_AT
 @BuffetKnowledgeHub
 @AIforGood
-@HealthyStickVibes
 @KevinMindset-s2j
 @FinancialHistorical09
 @EncuentrosConelAlma-n9d
@@ -6191,7 +6136,6 @@
 @TheHiddenEconomyTV-h8f
 @MotherFolktales
 @FineMetalsOfficial
-@Truemetals-l5p
 @ZumrutlNuyens5
 @SamodzielnyInwestor
 @PolskaAutoZone
@@ -6201,7 +6145,6 @@
 @SmartCurrencySignals
 @NOBLEBUILLIONNEWS.0
 @GoldSilverWorld
-@GOLDSILVERUPDATE-w5t
 @RichDuckInvests
 @TheFinanceGuy_19
 @HarrysStealthWealth
@@ -6286,13 +6229,11 @@
 @horoscopos_del_sol
 @elcodigojudioancestral_101
 @elhumanodetrasdellider
-@santemoderne
 @cartasdesdeelmasalla
 @caminomistico-c3n
 @caminosmasalladelavida
 @miultimahistoria
 @elpulpitonacional
-@rachelhabladepoliticafanclub
 @laopiniondetodos
 @minhbeoluong
 @laclavedivina-f6t
@@ -6342,7 +6283,6 @@
 @72Story
 @SilkRoadDiaries25
 @Narvik_Stories
-@TajnePrzygody
 @VtipyaSmiech
 @SzeptPragnie%C5%84
 @BohaterowieWojny
@@ -6360,14 +6300,12 @@
 @WealthLab-r6e
 @Animalemotion9
 @Babymelon-j1v
-@JoniInvestOfficial
 @VoidOfFears
 @TheTwistedDream
 @TeenStorySchool
 @IndustrialDecayUSA
 @WW2VOICES-o9z
 @ECHOESOFWWII-q8s
-@WW2.Heroes
 @war2Stories
 @EchoesofWar20th
 @WARLOGICS-8888
@@ -6454,7 +6392,6 @@
 @UntoldMoneySecrets-u2i
 @USExplainedToday
 @BioBites-u2z
-@maddangle
 @WW2BlackLegacy
 @Late-NightLegends
 @History-Unleashed7
@@ -6661,12 +6598,10 @@
 @MKstudioUnitedState
 @DeepDiveGlobal9
 @SmartCapital-g3w
-@InvestorMindset-im
 @LuminoxTerritory
 @PowertoProfits
 @MapleRetirees
 @JusticeClashAmerica
-@CapitalAffairsYT
 @RushdiFiles
 @InsideAmericanJustice
 @SecretValorStories
@@ -6690,7 +6625,6 @@
 @EconCommentary
 @TheWealthForecast
 @DalioSuccess
-@OLearyInsiderFanChannel
 @AliRaza-j7o2e
 @AsianBitcoinGuy
 @DalalStreetstories
@@ -6699,8 +6633,6 @@
 @DalioPrinciples80
 @financialfunda-z5p
 @BriefPrimeWithAdam
-@Chacun0A0Son0Gout
-@ussignalsexplained
 @Successstrategies-v8t
 @AmericaUnfilteredNewss
 @theanalyserchannel
@@ -6717,7 +6649,6 @@
 @money_matrix001
 @Behind_the_Markets
 @JhonnyInvestscapitalcompass
-@MrHoaStories72
 @Sovereign-Alpha
 @Bobinvestpro
 @HighQuality-AI
@@ -6798,7 +6729,6 @@
 @turningpointchapters
 @alberta-reporter
 @SaudadeArcade
-@BoringHistorianarchive
 @BriefUpdate
 @DraftScience
 @DailyTruthReport-g4x
@@ -6888,10 +6818,8 @@
 @hannahtheamishgirl
 @mentefriaconcharlie
 @charliemunger_enespanol
-@lasensenanzasdecharliemunger
 @mentalidaddeinversion-u3f
 @ensenanzasderaydalio
-@torafinanciera
 @norgemilitar
 @drainesramirez
 @rojasmotivacion-x3p
@@ -6970,7 +6898,6 @@
 @yourjonag
 @HeavenTestimoniess
 @RedSignal0t
-@WarrenBuffettSays
 @THEECONOMIST-TH
 @UBFinanceTruth
 @CapitalCraft-f8r
@@ -7006,7 +6933,6 @@
 @FlipStories9999
 @WealthFreedomPath
 @ChovyStories
-@ZohranMamdani-t6g
 @artshorts2720
 @CrownedInSilence-269
 @LuxeSecrets-v1o
@@ -7124,7 +7050,6 @@
 @YouTubeIncomeGuru
 @CWIN_NEWS75
 @lulilu1413
-@cashcraft-y6f
 @JohnAG-p9p
 @Moneyscop-y9e
 @Thinking_Experiments
@@ -7230,7 +7155,6 @@
 @signaldeargent
 @THEMETALSENSE-i4y
 @EconomicTales-v1y
-@ANIMELIFE786
 @Nerdtown-e5m
 @W.A.RMedia
 @politicsxsusan
@@ -7353,7 +7277,6 @@
 @DisrespectHasaPrice
 @RevengeZoneUS
 @StillWaterRevenge
-@bobowater888
 @RevengeSide
 @RevengeFiles-g3x
 @RevengeScriptruhan
@@ -7381,7 +7304,6 @@
 @HerTrueStory-z1d
 @revengevale2026
 @BloodLegacyByReddit
-@BondChronicles-j8k
 @HiddenTruthTales-p2j
 @RevengeTruthBomb
 @KForKindness-w2z
@@ -7442,7 +7364,6 @@
 @RevengeFury9
 @RevengeNickelus
 @RevengeSaga111
-@RevengeCodeUS
 @FamilySecretsUs888
 @WarmFamilyTalesLB
 @helinung
@@ -7507,7 +7428,6 @@
 @BrokenByBlood
 @UrbanRevenge-c8x
 @FixRevenge
-@ToxicRelationship-j8x
 @motors2569
 @hoppyshortss
 @MT-FamilyDrama
@@ -7564,7 +7484,6 @@
 @future-ai-toolls
 @B3.BrainBeautyBusiness
 @Zero-SumStories
-@SmartInvesting-f8i
 @NewsExxpress
 @TheWealthInstructor
 @AmericaUncoveredStates
@@ -7614,7 +7533,6 @@
 @Night-of-Evil
 @CodziennyKosmos1
 @FinanceInfinity6829
-@ThePast880
 @OGJohnAG_2
 @MarketInsightRadar
 @JohnAGHub2
@@ -7672,7 +7590,6 @@
 @GeopoliticalLedger10
 @GlobalStrikeDesk
 @TrumpLiveUpdate
-@WealthNexusChannel
 @FeynmanLightFiles
 @Unveiling_Science
 @FeynmanPhysicsTributeYT
@@ -7822,7 +7739,6 @@
 @RancherRomance
 @DeadEndHOA
 @TrueHOAStories-d8s
-@eurobrief1
 @drricardosalazarmendez
 @melonyamigos
 @billionaireinvestorsecrets
@@ -7937,7 +7853,6 @@
 @RetirePathCanada
 @CanadianPensionPlan
 @CPPOASInsider
-@KingsWithoutCrowns1
 @TheCanadaChronicles
 @CanadaPensionNewsBulletin
 @patelreportfiles
@@ -7946,7 +7861,6 @@
 @InsidetheRecordYT
 @MenOver50Vitality
 @FeminineMind9
-@SocialSecurityInfoHub
 @USRetirementWatch
 @worldTruthReport
 @MaddowInsider
@@ -7971,7 +7885,6 @@
 @attitudemag
 @MegaPrimeNews
 @WarHorizonHQ
-@DailyMilitaryofficial
 @theenotebook-v3b
 @LatestTrend-e9k
 @Pr.DevidDecosta
@@ -8038,14 +7951,11 @@
 @Richiesterling
 @TheMacroSignal572
 @UncomplicatedPaycheck
-@mr_drake_finance
 @iReportage
 @Thesilverdrosser
-@buffettmindset-p3w
 @TheBullionBossOfficial
 @smartstocktrading
 @MarketingbyVijay
-@AndersonCooperArchive
 @ChoseninGOD-h4d
 @Canada.PensionAlert
 @Modern-Beacon
