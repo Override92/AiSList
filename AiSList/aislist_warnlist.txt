@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 245
+! Total Channels: 246
 
 ! Entries:
 @CinebotComedy
@@ -268,3 +268,4 @@
 @Q.TECHSTUDIO
 @TheMotorTruth
 @MonkeeQuiz
+@mori_shorts1
