@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8097
+! Total Channels: 8098
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8113,3 +8113,4 @@
 @SpeaktoBuild
 @LostContine
 @TheSilverIndex
+@AIActorsLife
