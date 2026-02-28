@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8099
+! Total Channels: 8100
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8115,3 +8115,4 @@
 @TheSilverIndex
 @AIActorsLife
 @sakurashorts2026
+@SoftHarborRadio
