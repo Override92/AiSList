@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8059
+! Total Channels: 8060
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8075,3 +8075,4 @@
 @Acronium_Space
 @wolfmix500
 @lumeosBB
+@YouExistNow1
