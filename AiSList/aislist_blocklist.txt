@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8045
+! Total Channels: 8046
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8061,3 +8061,4 @@
 @mort.animation
 @Bernard_Films
 @ABOKAI
+@BHSCDreamCircuit
