@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8069
+! Total Channels: 8070
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8085,3 +8085,4 @@
 @iqtuber
 @TheBuffettWay-x8s
 @EvidenceExposedTV
+@cozygihlbivibes
