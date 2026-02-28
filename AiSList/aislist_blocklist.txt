@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8088
+! Total Channels: 8089
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8104,3 +8104,4 @@
 @SORAISREALISTIC
 @builttofail2233
 @RulexxBeats
+@Wspania%C5%82eDwory
