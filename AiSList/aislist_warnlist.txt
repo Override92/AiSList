@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 241
+! Total Channels: 240
 
 ! Entries:
 @CinebotComedy
@@ -263,4 +263,3 @@
 @ZekesReality
 @SoftTailsStudio-h9w
 @primalhackstv
-@AlexMagh10
