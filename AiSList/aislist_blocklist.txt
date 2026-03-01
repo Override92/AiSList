@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8084
+! Total Channels: 8085
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8100,3 +8100,4 @@
 @darinmo5016
 @GhostsofWarMachines
 @Canada-Superior-Scoop
+@ZeroToLuxuryTV
