@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8124
+! Total Channels: 8125
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8140,3 +8140,4 @@
 @HoaKarenStorytime-i4o
 @HOARealStoriesYT
 @QuietlyLegal-w8u
+@PixelWitofficial
