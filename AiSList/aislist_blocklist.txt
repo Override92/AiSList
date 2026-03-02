@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8085
+! Total Channels: 8086
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8101,3 +8101,4 @@
 @ShiningStories-nbt
 @HeartVoiceStories
 @RetroHeartwarmingStory
+@Betrayal_Chronicles1
