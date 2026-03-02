@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8081
+! Total Channels: 8082
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8097,3 +8097,4 @@
 @PRASADBHONDE-mw8ch
 @MillionaireInLove
 @UntoldAlibisStories
+@RevengewithMandy-b8vr
