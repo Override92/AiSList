@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8026
+! Total Channels: 8027
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8042,3 +8042,4 @@
 @RichMindMelody
 @SystemicLedger1
 @TheWealthSentinel
+@AudiobookWealthMindset
