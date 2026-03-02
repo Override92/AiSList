@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8064
+! Total Channels: 8065
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8080,3 +8080,4 @@
 @NextFeedd
 @USANewsExplained-l4t
 @CurrencyArchives-i9e
+@TalkWithGeorge-b2u
