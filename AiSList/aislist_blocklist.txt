@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8142
+! Total Channels: 8143
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8158,3 +8158,4 @@
 @SlopDynamics
 @GrindoGentleman
 @EpicMeme-p4w
+@SprunkiMotions
