@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8267
+! Total Channels: 8268
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8283,3 +8283,4 @@
 @EchoesofTorturee
 @TalkHistoryTV
 @RealCrimsonHistorians
+@ModernHistorians2026
