@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8250
+! Total Channels: 8251
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8266,3 +8266,4 @@
 @UnfuckEverythingYT
 @MoviesUnlocked07
 @UkrytyKosmos1
+@TajemniczeHistorie8
