@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8161
+! Total Channels: 8162
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8177,3 +8177,4 @@
 @Aiden-AITA
 @Hardscript-v9b
 @PlotTalesDaily
+@SunnyStories-j6h
