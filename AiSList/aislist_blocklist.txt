@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8278
+! Total Channels: 8271
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7944,7 +7944,6 @@
 @OGJohnOG
 @jonagbuy261
 @Boring-Jon
-@JonClinton-official
 @JonCurrency
 @PaladinApp
 @macrodar
@@ -8118,7 +8117,6 @@
 @HowProcessesWork
 @MorgueSecrets
 @StoriesOfOurLife_1
-@WarmHandsWildlife
 @SarahsLifeTales
 @TheStoryNook-c7x
 @Vintagesoulstories15
@@ -8163,7 +8161,6 @@
 @stoicmorningroutine786
 @unarealstories
 @HOAFalloutStories
-@RealHOAStorytime-o5q
 @HOAconfidential1
 @aliabdul5654
 @DailyDramaStoriesX
@@ -8236,14 +8233,12 @@
 @WorldWarIILegendsRetold
 @WW2RememberTales
 @WW2STORY365
-@BestWW2Archives
 @WW2ShadowTales
 @WWarChronicle
 @RedInk_History
 @WarDeadeye
 @WW2TalesArchive-m1v
 @WW2Diaries
-@WW2Vaultyt
 @ShadowPioneers-j9q
 @WW2_Diaries_US
 @WWIIAcademy
@@ -8254,13 +8249,11 @@
 @PhilippineDefenseUpdate
 @TehranBrief
 @ZonaTech.X
-@IsabellaGrantShow
 @pathWealthMindset
 @ArniBajki
 @Mitosnasen
 @UnfuckEverythingYT
 @MoviesUnlocked07
-@UkrytyKosmos1
 @TajemniczeHistorie8
 @BioLimit
 @westalert
