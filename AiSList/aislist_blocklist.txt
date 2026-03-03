@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8245
+! Total Channels: 8246
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8261,3 +8261,4 @@
 @ZonaTech.X
 @IsabellaGrantShow
 @pathWealthMindset
+@ArniBajki
