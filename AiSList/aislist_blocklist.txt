@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8278
+! Total Channels: 8273
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -407,7 +407,6 @@
 @Meow-Guardian
 @MeowMotionAi-g3o
 @Meowmeowmotion-b1w
-@MeowMotion-fb
 @MeowMotionAi25
 @Meow_Motion23
 @MeowMotion-t4x
@@ -450,7 +449,6 @@
 @moonhindianimation
 @CINETALES_AI
 @ancient.storyhub
-@ai.drama.25
 @ManaAIStories18
 @Storyhubai1.0
 @AIStuff777
@@ -778,7 +776,6 @@
 @deepakchouhan-z2q
 @aicartoonshortsindia
 @aishortsking-99
-@royalsatishaicartoon4194
 @aishortsstory-h7g
 @auraediting-12
 @aicartoonshorts55
@@ -7999,8 +7996,6 @@
 @SprunkiMotions
 @PopaSod
 @CharlieMungerLessons1
-@lovekeyshorts
-@khanhayar
 @ajibolammt
 @feynmanphysicsfiles
 @elderlyadvise2
