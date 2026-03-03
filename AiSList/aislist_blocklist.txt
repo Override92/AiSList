@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8248
+! Total Channels: 8249
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8264,3 +8264,4 @@
 @ArniBajki
 @Mitosnasen
 @UnfuckEverythingYT
+@MoviesUnlocked07
