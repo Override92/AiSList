@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 270
+! Total Channels: 271
 
 ! Entries:
 @CinebotComedy
@@ -293,3 +293,4 @@
 @FueraDelRuido.web12
 @KodSi%C5%82y
 @MiiliT3CH
+@BigWorld-rr2ss
