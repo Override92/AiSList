@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8242
+! Total Channels: 8243
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8258,3 +8258,4 @@
 @TalkofAfrica360
 @PhilippineDefenseUpdate
 @TehranBrief
+@ZonaTech.X
