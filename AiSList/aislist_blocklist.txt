@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8238
+! Total Channels: 8239
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8254,3 +8254,4 @@
 @WWIIAcademy
 @KDDNEWS
 @WorldViewStories21
+@Alexis_memesyt
