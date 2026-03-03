@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8206
+! Total Channels: 8207
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8222,3 +8222,4 @@
 @pastcaps
 @NovaBlackwoodMusic
 @ChroniclesofWarll
+@NostalgicWarStoriesOfficial
