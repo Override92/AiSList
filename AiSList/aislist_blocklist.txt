@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8183
+! Total Channels: 8184
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8199,3 +8199,4 @@
 @CanadaHousingInfo
 @RealityMetricsYT
 @SignalNews-z2k
+@WaggleAid
