@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8179
+! Total Channels: 8180
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8195,3 +8195,4 @@
 @CanadaForever-c4r
 @NextFrequency
 @CapitolPolicyBrief
+@CallousedMindOfficial
