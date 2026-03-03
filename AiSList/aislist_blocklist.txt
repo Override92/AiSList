@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8146
+! Total Channels: 8147
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8162,3 +8162,4 @@
 @TheStruggleTales
 @LisaRomanceStory
 @EchoesofRomance-1
+@PeriodStoriesYT
