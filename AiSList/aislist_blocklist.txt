@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8261
+! Total Channels: 8262
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8277,3 +8277,4 @@
 @NationalMeme1
 @TILESHOPRUSH-f7h
 @ItalianDelulu
+@anomalybrainrottv
