@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8192
+! Total Channels: 8193
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8208,3 +8208,4 @@
 @DR.EmilyJones
 @Dr.ElenaCruzHealth
 @WashingtonLedger
+@capitalbreakdown011
