@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8148
+! Total Channels: 8149
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8164,3 +8164,4 @@
 @EchoesofRomance-1
 @PeriodStoriesYT
 @AmericaUnmasked-2026
+@DeedStories
