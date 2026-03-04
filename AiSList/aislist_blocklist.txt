@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8290
+! Total Channels: 8291
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8306,3 +8306,4 @@
 @Bannerlore
 @BehindTheBattle-s4w
 @Echoeshistory-z7k
+@AfricanCoreVideos
