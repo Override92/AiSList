@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 273
+! Total Channels: 274
 
 ! Entries:
 @CinebotComedy
@@ -296,3 +296,4 @@
 @BigWorld-rr2ss
 @Angel-Theater
 @MZdsj6-e4w
+@Dukascopy_TV
