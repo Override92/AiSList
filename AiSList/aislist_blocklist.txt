@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8293
+! Total Channels: 8294
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8309,3 +8309,4 @@
 @AfricanCoreVideos
 @theImmortals23sg
 @EchoesoftheBiblee
+@CrescentHistory-i8s
