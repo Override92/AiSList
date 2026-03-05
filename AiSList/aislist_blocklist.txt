@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8335
+! Total Channels: 8336
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8351,3 +8351,4 @@
 @OliviaHarper-2
 @UnionStreet-x8d
 @joycebuyers6260
+@CurrencyMatrix
