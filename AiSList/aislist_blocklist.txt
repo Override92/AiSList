@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8318
+! Total Channels: 8319
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8334,3 +8334,4 @@
 @HiddenWorthStories
 @JustforKidsSongs-i6w
 @melodygarden_song
+@WorldEconomyInsights-s9d
