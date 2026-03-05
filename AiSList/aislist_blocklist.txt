@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8421
+! Total Channels: 8422
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8437,3 +8437,4 @@
 @KyricFinancial
 @real-john-ag
 @SubredditStories.s
+@johnag-explained
