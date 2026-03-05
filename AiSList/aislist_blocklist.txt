@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8387
+! Total Channels: 8388
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8403,3 +8403,4 @@
 @AlanWattsPhilosophy-h5r
 @allanwattsway-f2o
 @Stillness.1
+@alanwattsdailyawakeningus
