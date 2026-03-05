@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8315
+! Total Channels: 8316
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8331,3 +8331,4 @@
 @MiniJoyKidsYT
 @LetUsSing2026
 @Tinyzozo
+@HiddenWorthStories
