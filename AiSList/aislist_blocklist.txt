@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8312
+! Total Channels: 8313
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8328,3 +8328,4 @@
 @TechFlicks-dy8iu
 @JustIrishMusic
 @SafeHarborStudio
+@MiniJoyKidsYT
