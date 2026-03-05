@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8425
+! Total Channels: 8426
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8441,3 +8441,4 @@
 @VIPJohnAG
 @PrimeJohnAG
 @PulsePointReport-d6e
+@TheAsianGuy-JohnAG
