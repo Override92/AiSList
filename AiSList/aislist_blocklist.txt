@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8374
+! Total Channels: 8375
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8390,3 +8390,4 @@
 @NewsVelocityTV
 @StatesideNews1
 @WattsofWisdom47
+@Alan-Watts-Within
