@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8371
+! Total Channels: 8372
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8387,3 +8387,4 @@
 @oldmansanimation
 @NewsRewired
 @dptrawat
+@NewsVelocityTV
