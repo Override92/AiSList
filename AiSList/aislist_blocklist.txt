@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8461
+! Total Channels: 8462
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8477,3 +8477,4 @@
 @ImWise
 @MTFMagicDreams
 @idyllasoundscapes
+@KarenChroniclesYT
