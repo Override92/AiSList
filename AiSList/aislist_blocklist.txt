@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8453
+! Total Channels: 8454
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8469,3 +8469,4 @@
 @WieczorneOpowie%C5%9Bci
 @AudioMi%C5%82o%C5%9B%C4%87prezesa
 @Opowie%C5%9BcizCienia-hb
+@Odkrytesekrety
