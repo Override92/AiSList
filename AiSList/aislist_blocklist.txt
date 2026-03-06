@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8521
+! Total Channels: 8522
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8537,3 +8537,4 @@
 @BehindTheTechx
 @oldamericastorys
 @BibleWisdomOfficial
+@mindfold-tv
