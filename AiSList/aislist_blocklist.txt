@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8482
+! Total Channels: 8455
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8285,7 +8285,6 @@
 @AlanWattsUniverse-n1z
 @ModernAlanWatts-1
 @therealeconomy9
-@JohnAGUrgentUpdate
 @Boring-curency
 @YOURJOHNAG2026
 @The-Capital-Desk
@@ -8304,7 +8303,6 @@
 @SubredditStories.s
 @johnag-explained
 @VIPJohnAG
-@PrimeJohnAG
 @PulsePointReport-d6e
 @TheAsianGuy-JohnAG
 @Johnnagg
@@ -8337,7 +8335,6 @@
 @Odkrytesekrety
 @PotomkowieGalaktykiSCI-FI
 @WojenneEcho
-@Odkrytesekrety
 @Zmieniaj%C4%85cePrzeznaczenie
 @ImWise
 @MTFMagicDreams
