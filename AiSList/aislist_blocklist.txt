@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8463
+! Total Channels: 8464
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8479,3 +8479,4 @@
 @idyllasoundscapes
 @KarenChroniclesYT
 @Italian-Romance
+@RationalFrontier-h4y
