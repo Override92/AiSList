@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels confirmed to use AI-generated content
 ! Homepage: https://aisloplist.com
 ! License: CC BY-NC 4.0
-! Last Modified: 2026-03-06
+! Last Modified: 2026-03-07
 !
 ! This list contains channels with HIGH CONFIDENCE of using AI-generated content.
 ! These channels will be blocked (hidden or warned) based on user preferences.
@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8464
+! Total Channels: 8465
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8480,3 +8480,4 @@
 @pisces16h
 @TheStoryCabiin
 @OriginDecoder
+@LazyMonkeyEconomics
