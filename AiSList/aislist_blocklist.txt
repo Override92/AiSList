@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8477
+! Total Channels: 8478
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8493,3 +8493,4 @@
 @WarfareShadows
 @Charlies-zay
 @canadapensionhelpdesk
+@TheHOAInsider-f2u
