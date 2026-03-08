@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8553
+! Total Channels: 8554
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8569,3 +8569,4 @@
 @sofk66
 @BrainBlink000
 @FalloutRaccoonUSA
+@MoneyEmpiresYT
