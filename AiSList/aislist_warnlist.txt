@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 299
+! Total Channels: 300
 
 ! Entries:
 @CinebotComedy
@@ -322,3 +322,4 @@
 @ScienceIsAlive
 @EssentialPrepper
 @BottledVerdict
+@PresidentsPlayHorrorGames
