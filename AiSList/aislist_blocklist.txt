@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8546
+! Total Channels: 8547
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8562,3 +8562,4 @@
 @whatiflabsoficial
 @QuietScienceChannel
 @psy_kye
+@HistoryShocks
