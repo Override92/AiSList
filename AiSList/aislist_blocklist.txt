@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8497
+! Total Channels: 8498
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8513,3 +8513,4 @@
 @TheFutureTecOfficial
 @DrDavidYoggiMotivationSpeech
 @HOAJusticeVault
+@DeepBibleStories
