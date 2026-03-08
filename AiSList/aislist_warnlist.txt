@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 296
+! Total Channels: 297
 
 ! Entries:
 @CinebotComedy
@@ -319,3 +319,4 @@
 @ScienceScopeChannel
 @SciTechkingdom
 @TheAncientOrigins
+@ScienceIsAlive
