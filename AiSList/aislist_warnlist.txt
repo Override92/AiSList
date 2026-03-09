@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 301
+! Total Channels: 302
 
 ! Entries:
 @CinebotComedy
@@ -324,3 +324,4 @@
 @BottledVerdict
 @PresidentsPlayHorrorGames
 @PowerFiles-k5g
+@paniepodr%C3%B3%C5%BCnik
