@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8575
+! Total Channels: 8576
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8591,3 +8591,4 @@
 @Intellatrix
 @FrostWolfSurvivalTales
 @AussieAnimalRescue
+@DogRescueStation
