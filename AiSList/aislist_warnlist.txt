@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 308
+! Total Channels: 309
 
 ! Entries:
 @CinebotComedy
@@ -331,3 +331,4 @@
 @OpticExpedition
 @itskamper
 @TruthPointX
+@GDO.official
