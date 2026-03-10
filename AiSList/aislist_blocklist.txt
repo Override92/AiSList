@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8641
+! Total Channels: 8642
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8657,3 +8657,4 @@
 @AdvancedWorld-c2b
 @Policy-Shock
 @SystemowyOgr%C3%B3d3
+@GeoEconExplained-p4j
