@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8591
+! Total Channels: 8592
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8607,3 +8607,4 @@
 @TheGlobalBriefing-o5g
 @Capitalovertime
 @nestalgiamusic
+@BauernSch%C3%A4tze
