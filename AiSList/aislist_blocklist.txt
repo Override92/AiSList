@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8624
+! Total Channels: 8625
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8640,3 +8640,4 @@
 @petputer
 @MapleMarketbrief-e2z
 @DaliosWorldRules
+@GlobalDiscoveryDocumentary
