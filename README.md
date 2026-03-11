@@ -31,8 +31,8 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1352 |
-| 🥈 2 | [@www2](https://github.com/www2) | 1261 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1395 |
+| 🥈 2 | [@www2](https://github.com/www2) | 1285 |
 | 🥉 3 | [@Oflogon](https://github.com/Oflogon) | 339 |
 | 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 222 |
 | 5 | [@magikarp](https://github.com/magikarp) | 217 |
