@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 322
+! Total Channels: 323
 
 ! Entries:
 @CinebotComedy
@@ -345,3 +345,4 @@
 @%C5%BCyciecelebryty
 @TartariaVault
 @Psychtify
+@Indeceptions
