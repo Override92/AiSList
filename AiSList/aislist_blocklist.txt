@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8671
+! Total Channels: 8672
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8687,3 +8687,4 @@
 @Encountersworld
 @Unspoken.animalstories
 @Frozen_Heartt
+@AnimalSurvivalRoom
