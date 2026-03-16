@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8676
+! Total Channels: 8677
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8692,3 +8692,4 @@
 @ArcticGrandma8
 @WildRescueTeam-6886
 @ArcticKyunney
+@RescuePath-6868
