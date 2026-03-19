@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8683
+! Total Channels: 8684
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8696,3 +8696,4 @@
 @QuakeScopeOfficial
 @StatesExposed
 @DailyStoriesYT
+@Fates_Uncovered
