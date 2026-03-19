@@ -3,7 +3,7 @@
 ! Description: Community-maintained list of YouTube channels likely using AI-generated content
 ! Homepage: https://aisloplist.com
 ! License: CC BY-NC 4.0
-! Last Modified: 2026-03-17
+! Last Modified: 2026-03-19
 !
 ! This list contains channels with MEDIUM CONFIDENCE of using AI-generated content.
 ! These channels will show a dismissible warning to users.
@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 337
+! Total Channels: 338
 
 ! Entries:
 @CinebotComedy
@@ -360,3 +360,4 @@
 @WorkTunes-rw8ss
 @cozyjazzrhythm-q4k
 @TokyonoYoru26
+@folksofyore
