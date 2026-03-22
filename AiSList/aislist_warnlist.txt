@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 349
+! Total Channels: 350
 
 ! Entries:
 @CinebotComedy
@@ -372,3 +372,4 @@
 @kakkotsuketai_tochan
 @M4KChannel
 @CuriousElephant-h2w
+@Back.FromDeath
