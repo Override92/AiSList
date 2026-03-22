@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8664
+! Total Channels: 8678
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8617,7 +8617,6 @@
 @HardwareInsider
 @HYPNTECHNO
 @profjiangbriefing
-@k_s_vaja_gaming
 @rawrustrestore
 @seniorrevengestories
 @catholictruthsociety-j6d
@@ -8677,3 +8676,15 @@
 @StatesExposed
 @DailyStoriesYT
 @Fates_Uncovered
+@lovekeyshorts
+@k_s_vaja_gaming
+@her-life-storie
+@forbiddencamp
+@animeexplaineddailypro
+@bondbeyondbark
+@cinemapulse_officle
+@notsuitguy
+@barelyhumanpov
+@quizdoji_yt
+@profjiang123
+@fabiendekosmos
