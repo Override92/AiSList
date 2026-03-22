@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8684
+! Total Channels: 8685
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8694,3 +8694,4 @@
 @FarmerTales_YT
 @AmericanRewindChannel
 @CrimsonVengeance-s1d
+@Triumphantstories0
