@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8689
+! Total Channels: 8690
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8699,3 +8699,4 @@
 @FatalFilesyoutube
 @MidnightArchive-y7p
 @HiddenCamEvidence
+@BlackChronicle-b2b
