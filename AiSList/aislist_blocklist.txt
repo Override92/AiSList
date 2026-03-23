@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8755
+! Total Channels: 8756
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8765,3 +8765,4 @@
 @SeniorBookYT
 @DRrOBERT-p4t
 @VitalityMastery-d9u
+@TheBigFootRecord
