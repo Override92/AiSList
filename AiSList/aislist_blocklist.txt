@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8797
+! Total Channels: 8798
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8807,3 +8807,4 @@
 @ScottMatthewsFacts
 @MaddowNews24
 @MRJ_Metal
+@TexasBluesVibes
