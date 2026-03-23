@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8750
+! Total Channels: 8751
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8760,3 +8760,4 @@
 @RoadofNoMercy
 @RevengeByFacts
 @Zoeslesson
+@DorathyElizabethYT
