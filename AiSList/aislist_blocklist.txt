@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8804
+! Total Channels: 8805
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8814,3 +8814,4 @@
 @Cello_Classica
 @THELASTOUTLAWRADIO
 @DrEmmaBlake
+@LodowaHistoria
