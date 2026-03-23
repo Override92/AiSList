@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8769
+! Total Channels: 8770
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8779,3 +8779,4 @@
 @mr.Hark1
 @sketchedtale
 @WinterWhispers-e6j
+@trailrecapped8691
