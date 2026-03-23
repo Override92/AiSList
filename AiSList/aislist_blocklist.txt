@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8718
+! Total Channels: 8719
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8728,3 +8728,4 @@
 @ademibrhaim
 @MoonlitTransformations
 @ORGANize89
+@itsdreamboxofficial
