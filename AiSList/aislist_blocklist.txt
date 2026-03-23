@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8800
+! Total Channels: 8801
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8810,3 +8810,4 @@
 @TexasBluesVibes
 @WhiskeyBluesRelax
 @CozyGuitarRoom
+@PsycheDesert
