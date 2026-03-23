@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8745
+! Total Channels: 8746
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8755,3 +8755,4 @@
 @TwistedRSTStories
 @TwistedRSCStories
 @VellumVengeance
+@TwistedRSBStories
