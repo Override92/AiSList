@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8824
+! Total Channels: 8825
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8834,3 +8834,4 @@
 @bntmusicai
 @Beyond-Blueprint
 @thejurisprotocol
+@veridiondata
