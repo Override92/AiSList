@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8819
+! Total Channels: 8820
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8829,3 +8829,4 @@
 @Blizzard-band-cr
 @Techsplainer-d5d
 @osso-so
+@GeopoliticalBriefNow
