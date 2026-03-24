@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8863
+! Total Channels: 8864
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8873,3 +8873,4 @@
 @foodhealth-z1f
 @Dr.PaulRobinson
 @HealthFixNow
+@Dr.LiebermansEvolution
