@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8832
+! Total Channels: 8833
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8842,3 +8842,4 @@
 @ProfessorPortfolio
 @Footmorphstudio
 @LostRecords22
+@AnimalAttack-Ai
