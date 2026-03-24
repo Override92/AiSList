@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 8869
+! Total Channels: 8870
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8879,3 +8879,4 @@
 @Dr.MichaelHarrington-z4i
 @HealSphereWithAndrew
 @NomNomicsYT
+@AgelessVitality68
