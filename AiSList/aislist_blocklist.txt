@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9344
+! Total Channels: 9345
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9360,3 +9360,4 @@
 @studioshigtsujido
 @sunstrokerandcharlie
 @sagestories-h9n
+@FarsiJazz
