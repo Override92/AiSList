@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9539
+! Total Channels: 9535
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9515,7 +9515,6 @@
 @WesternRomance-wildwest
 @GodsMessageJoy
 @werewolfden
-@SurvivalCamping7
 @HistoryOfForgottenSouls
 @Scared-tv
 @DarkCovenant7
