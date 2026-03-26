@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9522
+! Total Channels: 9523
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9538,3 +9538,4 @@
 @saltbreezecafelofi
 @Soundstationglobal
 @mellowmoodmixes
+@thebiblestoryteller88
