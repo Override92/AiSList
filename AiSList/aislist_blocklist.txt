@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9535
+! Total Channels: 9536
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9551,3 +9551,4 @@
 @TrailCamUnfiltered
 @highway-tales
 @Dust_and_Destiny
+@ClintEastwoodUntoldLegend
