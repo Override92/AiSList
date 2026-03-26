@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 366
+! Total Channels: 367
 
 ! Entries:
 @CinebotComedy
@@ -389,3 +389,4 @@
 @Bible.Odyssey
 @Near-DeathExperiences
 @CourtroomLife
+@Blackfiles-HD
