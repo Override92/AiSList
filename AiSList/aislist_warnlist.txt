@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 369
+! Total Channels: 370
 
 ! Entries:
 @CinebotComedy
@@ -392,3 +392,4 @@
 @Blackfiles-HD
 @LatestMovieRecaps-x8s
 @The.FilmCut
+@GoldenAgeFiles
