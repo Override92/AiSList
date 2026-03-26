@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9530
+! Total Channels: 9539
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8839,7 +8839,6 @@
 @BibleHidden101
 @GoldenSeniorsLiving
 @Wisdom-Diaries
-@k_s_vaja_gaming
 @animatedworld_ss
 @aiframeshorts
 @survivalengineering3
@@ -9546,3 +9545,10 @@
 @SpazioSonoroItaliano
 @DeadLineFilesTV
 @Melty_ASMR_Love
+@lovekeyshorts
+@k_s_vaja_gaming
+@jeeksdoneit
+@провереныисторическиехаки
+@oldmankarmaus
+@waralerts07
+@samvelhov528
