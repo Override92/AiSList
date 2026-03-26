@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9558
+! Total Channels: 9530
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3458,7 +3458,6 @@
 @echoesinthedark_8
 @OddWhys
 @MovieZom7
-@SynthSoulLab
 @TheExplainerComics
 @Literaturein60seconds
 @Diojiapp
@@ -3520,7 +3519,6 @@
 @EconomicAlarm-yt
 @MrJosephStories1
 @Prof-X-1
-@SecretValor7
 @sushjha9140
 @Admin_ExploreUSNow_Channel
 @RachelMaddow-y2v
@@ -3754,7 +3752,6 @@
 @wilddocumentarry
 @valuablerarecoins
 @quarterdollar1
-@HerBitterTruth
 @ObsidianVengeance-x2n
 @sisterverdict
 @historyofcoins-xyz
@@ -4357,7 +4354,6 @@
 @suleimanyusufu7923
 @linhnguyen-du2ib
 @ViewofPolitics
-@1CapitalHorizon
 @michelle.davenport
 @Timeless.Value.Academy
 @TheDalioMethodUSA
@@ -4375,7 +4371,6 @@
 @BioWellnessZone
 @HealthBite-1M
 @NutritionNation-h8i
-@HealthSense70
 @CrownmarkVector
 @GeorgeWillCritica
 @IbrahimTraorestories88
@@ -4416,7 +4411,6 @@
 @larefvlog
 @Dr.JavierMart%C3%ADnez-b3w
 @DraEmiliaSu%C3%A1rez
-@FutureFrame-h2z
 @shadowwarfiles1
 @dingdongsimsim
 @SafeCapital-u3r
@@ -4429,7 +4423,6 @@
 @BrotherJamesStories
 @TheRecord_yt7
 @BlackLivesStorie
-@HeartLight20
 @SecretsofSilentBadges
 @BeneaththeTitle
 @JusticeServed-911
@@ -4439,7 +4432,6 @@
 @HOAcase
 @The.Hidden.ChapterYT
 @JusticeRevealed-us
-@BodycamReviewFiles
 @RacismMatters-f4o
 @HiddenPowerStories-f7o
 @Unsaid-Stories99
@@ -4447,7 +4439,6 @@
 @karenstorieslab
 @L%C3%A1grimasdeHierro
 @RevengeDadUS
-@TheQuietStories-yt
 @kofifolktalesss
 @BlackLegendsStory
 @AgainstAllOdds-d6y
@@ -4469,7 +4460,6 @@
 @the.love.chapters
 @SpiritGuidesStories
 @RealLoveStories-byLia_Stuart
-@DiamondRevengeUS2
 @EveryLoveStoryy
 @Feyvoritestories
 @OldWestRange
@@ -4526,7 +4516,6 @@
 @MonaEnigmaEng
 @BeyondThePorchStories
 @xkidsoreckless-8030
-@CosmicTales-sos
 @Daddy_Love_Us
 @Mafia.Romance.Stories
 @MEANINGLESSLIFE-b9f
@@ -4573,7 +4562,6 @@
 @pelayoabiliombandenandung3225
 @incrediblestories4286
 @RevengeWithBethany12
-@SALOFamilyStories-t6j
 @RevengeStorm-p6v
 @LoveDiary99
 @jawerlydiaries
@@ -4594,7 +4582,6 @@
 @RevengeGiftUS
 @RevengeTomato-US
 @SoulVoicess
-@RevengeArgonUS
 @ChroniclesofEmotions888
 @EternalDiary99
 @RevengeSpark-YT
@@ -4750,7 +4737,6 @@
 @Lifecanvasstories
 @Dra.CamilaVexa
 @Dra.CamilaMedicina
-@Almarion-x2i
 @Sabidur%C3%ADaJud%C3%ADaEterna
 @raicesdeljudaismo
 @caminocabalistico
@@ -4876,7 +4862,6 @@
 @MiguelSerranoyt
 @LaOpini%C3%B3ndeTodos
 @adamwalker00
-@GuideThejourney
 @WorldBriefDaily-l1w
 @WarrenBuffettStrategy-b1e
 @SpeakESpaine
@@ -5048,7 +5033,6 @@
 @GunLawsUpdates
 @FinalUrgency
 @Espa%C3%B1aenNoticias
-@TheEconomyUnwrapped
 @Inventariom%C3%A1sGrande
 @HistoriaDelCapitalOculto
 @mossadscope
@@ -5170,7 +5154,6 @@
 @HistoriasAgridulces
 @venganzafamiliar68
 @ElGiroInesperado
-@VenganzaSilenciosa-l2x
 @Historiascotidianas-t7r
 @HistoriasDelPresidente
 @Detr%C3%A1sdelpoderBukele
@@ -5368,7 +5351,6 @@
 @twenty80official
 @deluxebyluk
 @Primoyang-l4b
-@GoldSilverCurrency
 @VaultReality-x9g
 @CrisisLens-k9s
 @EditorialNews-j5z
@@ -5435,13 +5417,11 @@
 @DailyFinanceLog
 @SignalsByJulia
 @JohnAGThinks
-@WarrenBuffettWise
 @SoulStoriesX-1
 @MarketIntelligence-hy
 @StockVerseUSA
 @CurrencyF-Hy
 @GPPodcast-y5s
-@worldwise_news1
 @aibuble
 @RevengeLifeStories-i3r
 @economy_fastforward
@@ -5501,7 +5481,6 @@
 @Finan9
 @NarcisismoAlDescubierto-c2k
 @ElAlmaJungiana
-@ThePrincipleCodes
 @FinancialCrisisExplained
 @JustAboutEarth
 @DocumentaryforSleep-y9m
@@ -5540,7 +5519,6 @@
 @Macronomy211
 @VexoRise-l6f
 @ShaolinWisdomPath
-@zeen007
 @InspireMindset-g2n
 @ShiHengYiMotivation-w7l
 @PowerWithinYou-i1u
@@ -5581,7 +5559,6 @@
 @LibertyFinancialHistorian
 @WolffNoticiasdelMundo
 @USPolitics360
-@StarShadow-k2q
 @WolffAn%C3%A1lisisGlobal
 @DiariodeEconom%C3%ADa
 @TheZantaTalks12
@@ -5600,7 +5577,6 @@
 @FinancialFred-j3d
 @DanielWhitmanPol
 @TheScribeOfFinance
-@somvatirana5179
 @iranusaNews
 @CalmFinancialHistorian
 @TheSilverCollapseReport
@@ -5779,7 +5755,6 @@
 @WarandShadowSecrets
 @SmartCurrencySignals
 @NOBLEBUILLIONNEWS.0
-@GoldSilverWorld
 @RichDuckInvests
 @TheFinanceGuy_19
 @HarrysStealthWealth
@@ -5859,7 +5834,6 @@
 @raicesolvidadas1
 @ensenanzajudia-b5z
 @horoscopos_del_sol
-@elcodigojudioancestral_101
 @elhumanodetrasdellider
 @cartasdesdeelmasalla
 @caminomistico-c3n
@@ -8865,7 +8839,6 @@
 @BibleHidden101
 @GoldenSeniorsLiving
 @Wisdom-Diaries
-@lovekeyshorts
 @k_s_vaja_gaming
 @animatedworld_ss
 @aiframeshorts
@@ -9490,7 +9463,6 @@
 @CozyRoomASMR
 @SWINGSWINGSWING-y4h
 @LumaNoir
-@moonlitcalm_music8
 @slowly_maybe
 @TheEpicMetalViolinist-p4
 @EthnicDeepHouseMix-e2s
