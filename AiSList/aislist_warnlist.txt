@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 371
+! Total Channels: 372
 
 ! Entries:
 @CinebotComedy
@@ -394,3 +394,4 @@
 @The.FilmCut
 @GoldenAgeFiles
 @PalaceInsider1
+@PalaceSecretsTV1
