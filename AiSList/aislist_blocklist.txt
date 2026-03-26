@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9533
+! Total Channels: 9534
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9549,3 +9549,4 @@
 @Scared-tv
 @DarkCovenant7
 @TrailCamUnfiltered
+@highway-tales
