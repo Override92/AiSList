@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9524
+! Total Channels: 9525
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9540,3 +9540,4 @@
 @mellowmoodmixes
 @thebiblestoryteller88
 @Arkbiblefilms
+@CryptidLogs
