@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9556
+! Total Channels: 9557
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9572,3 +9572,4 @@
 @FeynmansPerspektive
 @the.prompt.canvas
 @DiscettoVGM
+@Ragna.Pop.
