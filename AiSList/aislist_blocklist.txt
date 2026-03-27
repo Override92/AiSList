@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9582
+! Total Channels: 9583
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9598,3 +9598,4 @@
 @UltimateStudiosOfficial
 @Teaser_Tube
 @a25trailers
+@cultmovieverse
