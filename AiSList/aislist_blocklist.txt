@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9720
+! Total Channels: 9721
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9736,3 +9736,4 @@
 @RachelMaddowpodcast
 @SoilSonata
 @FrontlineNightmares
+@POISONPOPCandy
