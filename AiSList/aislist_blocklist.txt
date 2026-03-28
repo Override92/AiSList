@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9606
+! Total Channels: 9607
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9622,3 +9622,4 @@
 @TrumpPowerWatch
 @venuscolapse
 @SecretFrequencyVibes
+@mirrorversemusic
