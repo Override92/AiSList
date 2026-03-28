@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9593
+! Total Channels: 9594
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9609,3 +9609,4 @@
 @Sci-Fi-Guy-Explains
 @DoctorTikhonov
 @Lolitacercel
+@HotSpotUkraine
