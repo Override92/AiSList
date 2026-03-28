@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9602
+! Total Channels: 9603
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9618,3 +9618,4 @@
 @currentaffairsexplain
 @YachtPro-v5i
 @EverydaySailing
+@hardwarealert
