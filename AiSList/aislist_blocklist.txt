@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9627
+! Total Channels: 9628
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9643,3 +9643,4 @@
 @Ausfallfinanzierung
 @theethnoai
 @TheCinemaRadio
+@JulianCapital
