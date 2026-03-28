@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9672
+! Total Channels: 9673
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9688,3 +9688,4 @@
 @SketchySurvival101
 @Lampoonery
 @NexusAtlas-p1f
+@Gamplik_impostor
