@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9687
+! Total Channels: 9688
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9703,3 +9703,4 @@
 @MAPLEEAGLE-q2v
 @GlobalPowerGrid
 @IbrahimTraoreOrigin
+@WarGrid-z
