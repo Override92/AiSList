@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9637
+! Total Channels: 9638
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9653,3 +9653,4 @@
 @FlipGender
 @Elixeo
 @TownHallJustice
+@MindsetCapital_Elite
