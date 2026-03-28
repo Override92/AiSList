@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9728
+! Total Channels: 9729
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9744,3 +9744,4 @@
 @FactoryMotion-68
 @Global_Assembly
 @ProcessesFactorySecerets
+@AutoLeatherLine
