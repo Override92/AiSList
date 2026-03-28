@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9620
+! Total Channels: 9621
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9636,3 +9636,4 @@
 @Aria.MusicOfficial
 @lumimusic.official
 @avrilvibes
+@vibetrance
