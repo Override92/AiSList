@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9663
+! Total Channels: 9664
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9679,3 +9679,4 @@
 @ChillVibe_902
 @YingMeiGuzheng
 @RedLanternMelodies
+@GothDollWave
