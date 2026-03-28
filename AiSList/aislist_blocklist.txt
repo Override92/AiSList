@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9650
+! Total Channels: 9651
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9666,3 +9666,4 @@
 @RhythmMusicHouse-t3q
 @KoraWave-j4u
 @AerinColette
+@IceHockeyPOV
