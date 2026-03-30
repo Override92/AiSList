@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9759
+! Total Channels: 9760
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9775,3 +9775,4 @@
 @StateAffairsDaily
 @Ścieżka_Wewnętrzna
 @FeynmanPOV
+@FinancialHistorianIndex
