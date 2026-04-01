@@ -32,9 +32,9 @@ Don't forget to set your username in the settings.
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1592 |
-| 🥈 2 | [@www2](https://github.com/www2) | 1344 |
+| 🥈 2 | [@www2](https://github.com/www2) | 1347 |
 | 🥉 3 | [@Oflogon](https://github.com/Oflogon) | 340 |
-| 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 233 |
+| 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 234 |
 | 5 | [@magikarp](https://github.com/magikarp) | 217 |
 
 <!-- LEADERBOARD:END -->
