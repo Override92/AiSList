@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 382
+! Total Channels: 383
 
 ! Entries:
 @CinebotComedy
@@ -405,3 +405,4 @@
 @FunBotan
 @RedUmbrellaYoutube
 @GlobeGoInArabic
+@ElMundoCurioso-v8p
