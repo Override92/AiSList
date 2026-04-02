@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9792
+! Total Channels: 9793
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9808,3 +9808,4 @@
 @Wiadomo%C5%9BcizFrontu
 @StrefaFrontu
 @Melozia.official
+@%E6%9A%AE%E8%89%B2%E8%BF%B4%E9%9F%BF777
