@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9731
+! Total Channels: 9732
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9747,3 +9747,4 @@
 @taptech-shoaib
 @LHistoriendesPi%C3%A8ces
 @AvsecTV
+@RedAlertMarkets
