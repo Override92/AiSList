@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9781
+! Total Channels: 9782
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9797,3 +9797,4 @@
 @DailyDoseofIdeas-TV
 @story_universe_M
 @Silent_Century-x2s
+@DragonAnimationClub
