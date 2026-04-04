@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9746
+! Total Channels: 9747
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9758,3 +9758,4 @@
 @Fruitloveisland1
 @FruitLoveisland-b4e
 @scaredketchup
+@Wyobra%C5%BAsobiewszech%C5%9Bwiat
