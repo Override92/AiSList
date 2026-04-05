@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9771
+! Total Channels: 9772
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9783,3 +9783,4 @@
 @NebulaBreeze
 @DailyProcess5.0
 @CaptainDiscover
+@FactoryInsiderYT
