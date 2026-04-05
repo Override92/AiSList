@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9773
+! Total Channels: 9774
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9785,3 +9785,4 @@
 @CaptainDiscover
 @FactoryInsiderYT
 @InsideMegaFactories-o2h
+@FactoryMatrix
