@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 394
+! Total Channels: 395
 
 ! Entries:
 @CinebotComedy
@@ -417,3 +417,4 @@
 @LOAF.SOUNDS
 @ToonologyYT
 @Noctoonn
+@quietpleasefm
