@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9863
+! Total Channels: 9838
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -576,7 +576,6 @@
 @ai-robot-a
 @lira.ai.studio
 @humanoid_robot-r8i
-@futureai042
 @hiddemairobotlab
 @airobotlabhidden
 @theroboticsfrontier
@@ -883,7 +882,6 @@
 @safyanprince4182
 @nyannyandaily
 @rescueanimalsai-r6p
-@animalrescueai-x5w
 @aianimalrescue00
 @rescueanimalsai-q6s
 @animalsrescuevideosai01
@@ -5867,7 +5865,6 @@
 @thedarkspan
 @PowerShiftBriefingFanPage
 @UntoldMoneySecrets-u2i
-@USExplainedToday
 @WW2BlackLegacy
 @Late-NightLegends
 @History-Unleashed7
@@ -6073,7 +6070,6 @@
 @Salloia
 @DrivingMoney
 @AlexJivotis
-@The-MungerArchive
 @githubtrendfeed
 @FinanceMeeting
 @AnatomyofMoney
@@ -6157,7 +6153,6 @@
 @tungtunganomalii
 @BrainrotMemeSquad
 @MoonCinema007
-@BrainrotfunAI
 @sliro.a
 @BrainrotDrop
 @SKYArtAi
@@ -6188,9 +6183,7 @@
 @TruthsWeIgnore-x8w
 @GeoUnseenn
 @MungerRationalGeopolitics
-@TruthClash99
 @Financial_History_and_Markets
-@OLearySpeaks
 @Goldsilvermining
 @MedievalTimesDiscovered
 @AIFLUFFYPANIC
@@ -6294,11 +6287,9 @@
 @复仇合集
 @tajemstvivesmiru2025
 @зеленыигектар
-@miakhalifatips
 @mindforge2568
 @techanurag-s4q
 @moneymindlab1
-@shadoweconomicss
 @raportsercasystemu
 @евалилова-п4и
 @gwiezdneopowiesci-h4v
@@ -6324,14 +6315,12 @@
 @HiddenTaleYT
 @TalesThatTouch-2
 @dollarlogic17
-@WarrenBuffetStyle
 @yourjonag
 @HeavenTestimoniess
 @RedSignal0t
 @THEECONOMIST-TH
 @UBFinanceTruth
 @CapitalCraft-f8r
-@MacroMetalsReport
 @BookishHaven-s5k
 @FinanceBeyondBordersOfficial
 @stevemakemoney
@@ -8438,7 +8427,6 @@
 @onceuponabritishtime
 @britainasitwas
 @BritishNostalgia1
-@TheChloeShowyt
 @Bodycamfactory-yt
 @BlackKarmaTV1
 @TopJourneyTV
@@ -8461,7 +8449,6 @@
 @StillHuman-3ic
 @AmericaDecoded92
 @PoliticalRegime
-@Will_America
 @ZAY-NEWS
 @renjianjiushi0888
 @guanxianglixing
@@ -8500,13 +8487,11 @@
 @WinterWhispers-e6j
 @trailrecapped8691
 @BigfootArchivesnew
-@OGJohnAGWorldview
 @SecretFiles-y5t
 @NightBloodTales
 @SunsetStories-n5e
 @MessengerofGod-
 @ArchivalTerrors
-@FrontierEchoesStories
 @crocaze
 @SasquatchStory
 @RachelMaddow-u1y
@@ -8639,7 +8624,6 @@
 @loquenoseve15
 @herquietvalor
 @americanewsdesk-d7y
-@nnextlove1
 @canada_today_1
 @pawdecode-v6h
 @mmanewshub19
@@ -9463,8 +9447,6 @@
 @dvltstock
 @hoagonetoofar
 @kdreviews-q7b
-@susskindfanuniverse
-@stoicadvice-i4g
 @quantumwithfeynman-f5j
 @anishkumargaming321
 @worldyta
@@ -9505,7 +9487,6 @@
 @RedLanternMelodies
 @GothDollWave
 @sukanyamoggam7985
-@TheFederalBrief-Tv
 @BrandonBriefing
 @BNCNEWS24-w5t
 @Tjabian
@@ -9669,7 +9650,6 @@
 @TalksByKate
 @2zaq0
 @Echonyra
-@AITrailerHome
 @Waqarera
 @professorjiang-10
 @MrWonderful-r6n
@@ -9709,7 +9689,6 @@
 @AI_DREAM_ASMRR
 @NovaEclipseAI
 @drAndrzejWi%C5%9Bniewski
-@NVIDIAReport
 @HistoriaPancerna
 @AiWebtoonz
 @sillyme6906
@@ -9719,7 +9698,6 @@
 @NeonRiot-b6l
 @FruitLoveTheory
 @silvermarketuncovered
-@Thepoliticalstrom
 @Financial.Growth.Academy
 @ProfitPulse466
 @ModernWisdomTales
@@ -9728,7 +9706,6 @@
 @story_universe_M
 @Silent_Century-x2s
 @DragonAnimationClub
-@lovekeyshorts
 @k_s_vaja_gaming
 @ai_story_world-c3n
 @deepnotemusic-s8n
@@ -9807,7 +9784,6 @@
 @SunoAiX
 @TheClawofAnatolia
 @TeslaCentralHD
-@crazyfood-7
 @circleoflifetimes
 @InkofthePast
 @S%C4%B1lentDocketYT
@@ -9839,7 +9815,6 @@
 @PLNWojsko
 @G%C5%82os-Przeznaczenia
 @ScenyHistorii
-@%EA%B1%B4%EA%B0%95%EB%A0%88%EC%8B%9C%ED%94%BC-h3c
 @TheMindsLabx
 @LostCivilizationsNordic
 @360newsroomnews
