@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9853
+! Total Channels: 9854
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9865,3 +9865,4 @@
 @recapqin
 @BingeLemon-7
 @NovelReelPicks
+@DailyManhwas232
