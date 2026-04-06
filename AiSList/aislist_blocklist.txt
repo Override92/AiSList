@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9810
+! Total Channels: 9811
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9822,3 +9822,4 @@
 @FilmsRecapped
 @bbord0907
 @WW2MilitaryFiles
+@Let-Me-Tell
