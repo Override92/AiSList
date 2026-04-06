@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9872
+! Total Channels: 9861
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9756,7 +9756,6 @@
 @LisaInvest
 @PiotrWęgiełek
 @SmartCatLife1
-@NebulaBreeze
 @DailyProcess5.0
 @CaptainDiscover
 @FactoryInsiderYT
@@ -9838,7 +9837,6 @@
 @Fyra-d1u
 @recapqin
 @BingeLemon-7
-@NovelReelPicks
 @DailyManhwas232
 @ManhwaAnimeStory
 @Mr.CreepinessUncut
