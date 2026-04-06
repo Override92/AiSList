@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9830
+! Total Channels: 9831
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9842,3 +9842,4 @@
 @%EA%B1%B4%EA%B0%95%EB%A0%88%EC%8B%9C%ED%94%BC-h3c
 @TheMindsLabx
 @LostCivilizationsNordic
+@360newsroomnews
