@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 411
+! Total Channels: 412
 
 ! Entries:
 @CinebotComedy
@@ -434,3 +434,4 @@
 @DramaPunch-tv
 @SunsetDrama-z8o
 @DragonKingDrama-u8l
+@DarkMintDramaStudio
