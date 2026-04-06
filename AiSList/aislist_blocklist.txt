@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9858
+! Total Channels: 9859
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9870,3 +9870,4 @@
 @Mr.CreepinessUncut
 @GodKingDrama
 @LifeUnfolded-q1t
+@ColdReason
