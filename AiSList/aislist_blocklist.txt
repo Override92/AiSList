@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9859
+! Total Channels: 9860
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9871,3 +9871,4 @@
 @GodKingDrama
 @LifeUnfolded-q1t
 @ColdReason
+@CanadaValor
