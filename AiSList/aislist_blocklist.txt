@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9814
+! Total Channels: 9815
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9826,3 +9826,4 @@
 @TheMacroPrinciples
 @explainedhistory313
 @BeforeHistory-Official
+@ReSongPROJECT
