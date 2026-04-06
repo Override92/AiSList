@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9795
+! Total Channels: 9796
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9807,3 +9807,4 @@
 @SunoAiX
 @TheClawofAnatolia
 @TeslaCentralHD
+@crazyfood-7
