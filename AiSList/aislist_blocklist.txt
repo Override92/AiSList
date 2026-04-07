@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9895
+! Total Channels: 9896
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9911,3 +9911,4 @@
 @НеочевидныеФакты
 @StoryChamberOfficial
 @HighlandHearthCelticPipes
+@CollapseLynx
