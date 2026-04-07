@@ -31,10 +31,10 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1601 |
-| 🥈 2 | [@www2](https://github.com/www2) | 1398 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1609 |
+| 🥈 2 | [@www2](https://github.com/www2) | 1404 |
 | 🥉 3 | [@Oflogon](https://github.com/Oflogon) | 340 |
-| 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 240 |
+| 4 | [@Honk Honk](https://github.com/Honk%20Honk) | 241 |
 | 5 | [@magikarp](https://github.com/magikarp) | 217 |
 
 <!-- LEADERBOARD:END -->
