@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 423
+! Total Channels: 424
 
 ! Entries:
 @CinebotComedy
@@ -446,3 +446,4 @@
 @FrugalSolutionsTV
 @musguess
 @TheComfyCozyCafe
+@TheCozyHideaway
