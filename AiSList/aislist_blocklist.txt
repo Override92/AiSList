@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9905
+! Total Channels: 9906
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9921,3 +9921,4 @@
 @WorldAffairsToday26
 @DigitalCompassCrypto
 @TradeExplained1
+@AmericaNow99
