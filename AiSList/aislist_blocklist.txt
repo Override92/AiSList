@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9926
+! Total Channels: 9927
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9942,3 +9942,4 @@
 @TheSkyLab-u4j
 @isitsundayalready
 @MindNest01
+@EmaluneASMR
