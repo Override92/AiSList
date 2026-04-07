@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9918
+! Total Channels: 9919
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9934,3 +9934,4 @@
 @BiscuitBeatsAI
 @AfterHoursRadioFM
 @OGJONAG
+@AutoReforge
