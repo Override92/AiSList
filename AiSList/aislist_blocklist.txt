@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9913
+! Total Channels: 9914
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9929,3 +9929,4 @@
 @KenzoFinance-c8u
 @Melanskiareal
 @melanskia
+@CozyMountainFireplace
