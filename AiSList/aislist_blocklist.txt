@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9961
+! Total Channels: 9962
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9971,3 +9971,4 @@
 @CheetahRecaps
 @imnotarobotytb
 @CampingCodex
+@ThePainfulExplainer
