@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9932
+! Total Channels: 9933
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9948,3 +9948,4 @@
 @TranceMood2026
 @caffe-lune
 @haretaro-animesongs
+@CinemaAfterHours-b
