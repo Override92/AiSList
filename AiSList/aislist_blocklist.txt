@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9935
+! Total Channels: 9934
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5930,7 +5930,6 @@
 @TheGoldenAgeInsight
 @SavageReviewsOfficial
 @YourTechGuruOfficial
-@YouTuxChannel
 @ZenkaiDBSYT
 @frutiger-xp
 @Ash.AI.muzika
