@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9978
+! Total Channels: 9979
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9988,3 +9988,4 @@
 @VintageAussieCars
 @IRONFROSTREQUIEM
 @FearAfterDark666
+@FogVisionFilms
