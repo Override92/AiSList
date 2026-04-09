@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9974
+! Total Channels: 9975
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9984,3 +9984,4 @@
 @BreezyRob
 @doctorpsyche
 @TreasurePulseOfficial
+@StoicPsychologist
