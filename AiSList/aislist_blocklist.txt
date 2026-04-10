@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10051
+! Total Channels: 10052
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10061,3 +10061,4 @@
 @susanlovestories
 @RosieStorytelling
 @%E5%81%A5%E5%BA%B7%E8%AC%9B%E4%BA%BA%E7%94%9F
+@%E8%80%81%E9%BB%84%E6%95%85%E4%BA%8B%E8%8C%B6%E9%A6%86
