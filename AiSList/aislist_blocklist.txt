@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10030
+! Total Channels: 10031
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10040,3 +10040,4 @@
 @GlobalCrisisNews-e7u
 @wwiiireporting
 @IncentiveBrief
+@gulfpulsenews
