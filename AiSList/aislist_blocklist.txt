@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10009
+! Total Channels: 10010
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10019,3 +10019,4 @@
 @ValhallaEchoes-i2n
 @SoulfireSounds
 @CTRLALTRIFF
+@rmaddowinsider
