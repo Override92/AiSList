@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 9996
+! Total Channels: 9997
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10006,3 +10006,4 @@
 @Mrrecappedofficial
 @akshaykumawatvibes
 @SPACE_LABb
+@MonsterXStudio
