@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10042
+! Total Channels: 10043
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10052,3 +10052,4 @@
 @GentleCareStories
 @afrokoreannarratives
 @AfrokoreanCrossroads
+@AfroSeouldiaries-i8y
