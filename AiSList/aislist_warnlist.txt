@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 447
+! Total Channels: 448
 
 ! Entries:
 @CinebotComedy
@@ -470,3 +470,4 @@
 @GeopolitycznyRaport
 @Wobj%C4%99ciachHistorii
 @Hotnews-od9qh
+@BTNArabic
