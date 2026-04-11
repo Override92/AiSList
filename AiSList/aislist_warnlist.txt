@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 443
+! Total Channels: 444
 
 ! Entries:
 @CinebotComedy
@@ -466,3 +466,4 @@
 @YapJitsu
 @liminalityShortz
 @WojennyWarsztat
+@In%C5%BCynieriaWojny
