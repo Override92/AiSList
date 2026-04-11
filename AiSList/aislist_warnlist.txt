@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 445
+! Total Channels: 446
 
 ! Entries:
 @CinebotComedy
@@ -468,3 +468,4 @@
 @WojennyWarsztat
 @In%C5%BCynieriaWojny
 @GeopolitycznyRaport
+@Wobj%C4%99ciachHistorii
