@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10100
+! Total Channels: 10101
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10116,3 +10116,4 @@
 @mysterymarketvault
 @IndoSphereMedia
 @Jonguy-g9t
+@QuickExplainer111
