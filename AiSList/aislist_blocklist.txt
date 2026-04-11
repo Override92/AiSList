@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10107
+! Total Channels: 10108
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10123,3 +10123,4 @@
 @Judge_Judy.filesYT
 @PowerFallouts
 @JudysLineofSight
+@Voices-of-Honor
