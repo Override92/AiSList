@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10082
+! Total Channels: 10083
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10098,3 +10098,4 @@
 @SUNhindhianimation-s6v
 @ASMRixAI-x8k
 @KitsuneAIMusic
+@RichardWykoffTradingMethods
