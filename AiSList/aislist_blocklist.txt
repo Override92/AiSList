@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10178
+! Total Channels: 10179
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10194,3 +10194,4 @@
 @TheRisingMindTales-l4q
 @ProjectOceanuso
 @JapaneseCarSecrets
+@VintageEchoRadio
