@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10172
+! Total Channels: 10173
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10188,3 +10188,4 @@
 @BruceLeeLegacyUS
 @TheUntoldValor
 @LegacyofRichStories
+@SumerianSecrets-s2u
