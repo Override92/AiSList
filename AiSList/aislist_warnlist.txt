@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 458
+! Total Channels: 459
 
 ! Entries:
 @CinebotComedy
@@ -481,3 +481,4 @@
 @TheGoodOldBritishDays
 @MelodicGuitarSanctuary
 @CosmicDesertDrift77
+@aip.almetallic
