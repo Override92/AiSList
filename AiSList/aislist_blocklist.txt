@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10192
+! Total Channels: 10193
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10208,3 +10208,4 @@
 @LawJusticeStories
 @LifeScriptsStories
 @CourtSense-CS
+@DiplomaticNewsJudge
