@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10215
+! Total Channels: 10216
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10231,3 +10231,4 @@
 @MetalGirlViral
 @MelodicGirlRock
 @AIConvoCast
+@ObscuraSonora
