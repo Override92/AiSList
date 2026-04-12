@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 454
+! Total Channels: 455
 
 ! Entries:
 @CinebotComedy
@@ -477,3 +477,4 @@
 @RewindeReveal
 @PlotMagix
 @GlamourVintageVault
+@regularcases
