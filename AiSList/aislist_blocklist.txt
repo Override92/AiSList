@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10209
+! Total Channels: 10210
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10225,3 +10225,4 @@
 @ChatMojeeb
 @onoffsound
 @Soul_ofBlues
+@SpillZoneTV
