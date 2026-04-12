@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10173
+! Total Channels: 10174
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10189,3 +10189,4 @@
 @TheUntoldValor
 @LegacyofRichStories
 @SumerianSecrets-s2u
+@PaintedThrone
