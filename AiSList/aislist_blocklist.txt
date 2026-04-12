@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10164
+! Total Channels: 10165
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10180,3 +10180,4 @@
 @SpiritoftheVillage
 @WhiskeyLead-y6o
 @Echoes-of-Midgard
+@TimelessEchoesMiddangeard
