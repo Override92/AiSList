@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10242
+! Total Channels: 10243
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10252,3 +10252,4 @@
 @gigantic_industry
 @MEGAMANUFACTURING-j6f
 @TRUTHWELLS
+@thenewsroomglobal
