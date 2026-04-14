@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10293
+! Total Channels: 10294
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10303,3 +10303,4 @@
 @queenasmr-x6r
 @AuraAIRelax2026
 @BedMeltsASMR
+@ASMR-AI-f7x
