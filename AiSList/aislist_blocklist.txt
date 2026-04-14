@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10286
+! Total Channels: 10287
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10296,3 +10296,4 @@
 @AIWatch0211
 @NeuralDerpMusic
 @OuroborosFM
+@BardoftheGreenwood
