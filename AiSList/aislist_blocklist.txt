@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10389
+! Total Channels: 10328
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -276,7 +276,6 @@
 @Todd_AI_Animal
 @Catanimation818
 @catzlabs
-@smilebeautyrobotfashion
 @aishorttime
 @AprilAI.Channel
 @SuperGoodCat
@@ -454,12 +453,10 @@
 @YellowChikess-original
 @diyanshai
 @AiMagiclq
-@soraaivideogenerator-yt
 @bhaktdhan
 @WhatsTheTeaSis-p2v
 @MuteMatr1x
 @FauxRealityAI
-@Aisareewalks
 @Maketopia-l7p
 @AiTopiaTv
 @FullOfFunWorld
@@ -476,7 +473,6 @@
 @PunkPenguin-l9u
 @nengstickers
 @littlewaddle
-@MachinePenguin
 @alpssstudio
 @FluffyHardWorker
 @Fluffytime-x4t
@@ -507,9 +503,7 @@
 @AISyncMotion
 @AlanJam-o2l
 @aliaboutine
-@AliceShaw_AI
 @DistantAI
-@DreamCraftor-me
 @epicaifilms2024
 @JudasBooth
 @KINGOFAIVIDEO19
@@ -569,7 +563,6 @@
 @theglasscutterasmr
 @bestaiasmrsatisfying
 @starasmr-w6d
-@enrobot-ai
 @miu_ai_studio
 @ngbotsai
 @humanoid_robot07
@@ -818,7 +811,6 @@
 @tikkuchicks
 @darkop-y7t
 @aivideotullar01
-@aibabygojol
 @cutebabyai_funny
 @aiparentingclub
 @aibabyworld-n9l
@@ -855,7 +847,6 @@
 @babysavemesorry
 @nitinkatam
 @savingbaby
-@furguardrescue
 @savethebaby-p4u
 @thechoicelabtv
 @savebabyai
@@ -1515,7 +1506,6 @@
 @aistoryhub-l3i
 @animationshort478
 @cartoonzila-l3j
-@animationbynaitik
 @junaidshaikh8918z
 @aivideospecial044
 @cartoon_ai7-b6w
@@ -2004,7 +1994,6 @@
 @ai4asmrr
 @satisfied.asmr.videos
 @aiasmr-r7z
-@asmrbotai
 @criancasinteligentes
 @AmericanFrontierChannel
 @ANZAC_War_Tales
@@ -2072,7 +2061,6 @@
 @RedditEchoes01
 @TendieTales
 @HoaExposed-YT
-@KandisRulapaugh
 @RileyREDDIT
 @luatcoldly8883
 @Revenge-p3l
@@ -2169,7 +2157,6 @@
 @prsv_ai
 @aicartooncat-p8t
 @catamsai
-@catcartoonai-p4s
 @newskiduniya125
 @motionstorybangla
 @mdmujahid1613
@@ -2238,7 +2225,6 @@
 @historyofwarstv
 @lindajohnsonvideos
 @mythsofwar-w1z
-@pattons_warpath
 @thebattlenetwork
 @thelegacyofpattonww2
 @silentsanctuary-p4q
@@ -3596,7 +3582,6 @@
 @SwordsExplained
 @TimeFaker
 @PreciousAlbum
-@elonmuskevolution
 @ChillCafeMusic
 @DoctorSaulWhitman
 @TheHealthReset-u3i
@@ -3721,7 +3706,6 @@
 @FireOf_Revenge
 @StormRevenge102
 @HiddenRevengeFamily
-@WarriorArchives-n7z
 @HerHiddenHeart
 @UltimateRevenge-p9u
 @SarahWilliams-d1w
@@ -6181,7 +6165,6 @@
 @TreasuryOFTime
 @wealthhistoryy
 @lida4ever
-@DJMokdust
 @satoshirebel
 @jazzandspace
 @billionairelifestyle0813
@@ -6600,7 +6583,6 @@
 @FinanceDeepDive
 @JordiVisserLabs
 @MoneyMastery-b9e
-@JackMaMotivation-w9y
 @TheForgottenRealmSoundscapes
 @financeguruvjkohli
 @JohnAGInvest
@@ -6954,7 +6936,6 @@
 @ThePhysicsFiles
 @FeynmanVision
 @FeynmanInsight
-@BJuntoldstories
 @BumpyJohnsonTheLegend
 @4180scs
 @LisiaNora0
@@ -7036,7 +7017,6 @@
 @golu_cat_malik
 @hackvidee
 @indocexplain
-@aistartrekladies
 @miumiu12345-q
 @glorybuildss
 @sweetanimal-i5j
@@ -7067,7 +7047,6 @@
 @JohnEconomyBrief
 @MysticCreationsInnerVoice
 @ProfessorPOVs
-@YourAGAsianGys
 @boringcurrencyupdate
 @AGAsianGuyYT
 @Time_Prism24
@@ -7164,7 +7143,6 @@
 @HOAHelli
 @whatIfWorlds-i9n
 @TemplarHymns
-@therealitycheck57
 @TheFinanceReview
 @nurmaawaes8426
 @MilitaryHQ1
@@ -7482,7 +7460,6 @@
 @TheFeynmanParadox-t5d
 @OJeitoFeynmandePensar
 @FeynmanThoughts-i4r
-@onceverse-e5x
 @StorySalad
 @EchoingHeartTalesLab
 @TheStruggleTales
@@ -7636,7 +7613,6 @@
 @JustIrishMusic
 @SafeHarborStudio
 @MiniJoyKidsYT
-@LetUsSing2026
 @Tinyzozo
 @HiddenWorthStories
 @JustforKidsSongs-i6w
@@ -7691,7 +7667,6 @@
 @alanwattsteachings-h5n
 @AlanWattsUniverse-n1z
 @therealeconomy9
-@Boring-curency
 @The-Capital-Desk
 @johnag-r3d
 @YourJohnAGYT
@@ -7738,7 +7713,6 @@
 @WojenneEcho
 @Zmieniaj%C4%85cePrzeznaczenie
 @ImWise
-@MTFMagicDreams
 @idyllasoundscapes
 @KarenChroniclesYT
 @Italian-Romance
@@ -7817,7 +7791,6 @@
 @earnsecretpro
 @benjieboy04
 @stephnsteve
-@iron.narrative
 @quietmindsstory
 @frecuencia-mental16
 @elsecretodelossabiosjudios
@@ -7869,9 +7842,7 @@
 @Jakwczoraj
 @ZaKulisamii
 @cool_techplus2753
-@HistoryRepeatsUS
 @MadridPonce
-@RedlineObservers
 @WarfareShadows
 @Charlies-zay
 @canadapensionhelpdesk
@@ -8004,12 +7975,9 @@
 @AIQuantoma
 @FinancePuppyStudio
 @THEDELISTED
-@ailesbiankisses
 @MetalPrompt
-@BakerExplained
 @BriefingDeck
 @DalyBrief
-@continental-report
 @HawkExplained
 @IronLensBodycam
 @Daviddesk
@@ -8027,7 +7995,6 @@
 @MoleHunt25
 @DailyReports7
 @warandwealth-x5k
-@FastOnlineXpress
 @TheLastDayTheory
 @ClarkAnalysis
 @BarefeildStories
@@ -8080,12 +8047,10 @@
 @doyouknow-x7x
 @loverumi-2q
 @anu_akbar
-@zenvyraai21
 @toracatdiary
 @laughreactor24
 @saludfacil-d7v
 @faithsermonstrategy
-@thepsychemirror-o9n
 @untoldfact_s
 @neonnoirfiles
 @hlstories-u5j
@@ -8141,36 +8106,26 @@
 @%C5%92ilPublicDecrypt
 @ClimaRescue
 @HealingMoments-v5x
-@HopeNestRescue
 @Arctic-Pulse-07
 @EchoesofYakutia-tf6
 @SuperRescue-n3s
 @endure-earth
 @WildCatRescue
-@RescueHub2
 @FrozenHumanity-d7k
 @frozenlivestv
-@WildReborn-u1o
 @NextGenGigaFactory
 @WildRescueZone1
-@HLAnimalsRescue888
 @WildReliefTV1
 @31Canvas
-@TheSilentPaw2026
 @ZeroDegreeChronicles
-@TheWildAnimalRescue1
 @NordicGrounds
 @SleepyScrolls12
-@PrimeTechProcess-999
 @animolita
 @WildHarborRescue
 @Encountersworld
 @Unspoken.animalstories
 @Frozen_Heartt
-@AnimalSurvivalRoom
-@ZooofNI
 @ArcticGrandma8
-@WildRescueTeam-6886
 @ArcticKyunney
 @RescuePath-6868
 @WildSurvivalStrong
@@ -8240,7 +8195,6 @@
 @followupworld
 @WW2Unlived
 @pastprofit_7
-@GlobalMilitaryUpdate11
 @PhiloNauticaa
 @ProfitTechAi
 @itslayto
@@ -8249,7 +8203,6 @@
 @TheMonetarySignall
 @SnapHistory-q7c
 @Financialhistoryuncovered
-@FinanceBriefing0
 @FinanceSimplified070
 @Archivefinancial
 @ANADefenceForces_Usa
@@ -9784,7 +9737,6 @@
 @HeroicAnimalRescue11
 @ClypseHQ
 @Funnypetslife-g4l
-@JohnDerEchteOG
 @fakemakemusic
 @Anadolucovers
 @gyzem-muzik
@@ -9817,7 +9769,6 @@
 @DigitalCompassCrypto
 @TradeExplained1
 @AmericaNow99
-@ThePowerBriefing-v9v
 @AmericanEyeTV5
 @UnitedStateNews-h6e
 @snc2007
@@ -9984,7 +9935,6 @@
 @%E8%80%81%E9%BB%84%E6%95%85%E4%BA%8B%E8%8C%B6%E9%A6%86
 @scotritteranalysis
 @nexorafiled
-@revelacionesdelcieloesp
 @orctaleforge
 @ellegadodelacreacion
 @clinteastwoodthefrontierlegend
@@ -10000,7 +9950,6 @@
 @monkeyking143e
 @fruit_cut_ai-e1d
 @lhistoriendespieces
-@profjiang200k
 @drandrzejwisniewski
 @wyobrazsobiewszechswiat
 @piotrwegielek
@@ -10010,7 +9959,6 @@
 @xD_Process
 @AIShortMovie-p7c
 @AIMusicKyra
-@Oracle-AI-Capital
 @AI-ValueVoice
 @noteboklmfin
 @TheKindSoul379
@@ -10020,13 +9968,11 @@
 @fauxfeast
 @aismr-nys
 @JohnOG1M
-@JohnOGTimes
 @IAMOGJOHNAG
 @R.MaddowBrief
 @RMaddowDailyLiveNews
 @WonderlyAI
 @pintocreation2745
-@RachelMaddowDaily-k8b
 @RebelBars
 @%E6%BA%AB%E9%A6%A8%E8%AC%9B%E6%95%85%E4%BA%8B
 @LearnAiWithNakshatra
@@ -10231,9 +10177,7 @@
 @risenking4494
 @GRTBusiness2.O
 @WW2_Chronicles_WW2
-@lovekeyshorts
 @k_s_vaja_gaming
-@itzneonvxx
 @ai绝恋幻姬
 @funnyai_videos-100
 @bladeandballad-p2q
@@ -10248,7 +10192,6 @@
 @sanchezwyjasnia
 @insiderbriefnews
 @miedzygalaktycznyszept
-@gasreporting
 @gigantic_industry
 @MEGAMANUFACTURING-j6f
 @TRUTHWELLS
@@ -10277,7 +10220,6 @@
 @TheAsymmetryLab
 @GRTBusiness4.o
 @WarMoneyReport
-@AIWhispererLab
 @AEVE-DEEP
 @psaimusic
 @Oracle-Capital-1
@@ -10307,7 +10249,6 @@
 @NaraAIyt
 @AIDreamDesign-m1n
 @swetlanaAI
-@ImpossibleASMR-l2p
 @deamtruyen_stories
 @ProductivityLabfs
 @HistoryEmpireGlobal
@@ -10337,7 +10278,6 @@
 @Stikk8
 @AnimalHeroes-86
 @swiftprocess
-@FactoryMotion-68
 @MegaFactoryProcess
 @dragondrive360
 @ProductMFG1
@@ -10388,7 +10328,6 @@
 @SecretsOfSimpleThings2323
 @Home_Me
 @TwistedRSDStories
-@REVStories9
 @Menrevengetales
 @WildWestLoveChronicles5
 @SunsetRidersYT
