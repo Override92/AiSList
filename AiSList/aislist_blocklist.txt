@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10308
+! Total Channels: 10309
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10318,3 +10318,4 @@
 @HistoryVisualized-AI
 @FeynmansPhysics-k5o
 @DiyCraftsOriginalss
+@DIYCraftsTVOfficial
