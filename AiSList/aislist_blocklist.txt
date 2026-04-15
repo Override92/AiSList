@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10323
+! Total Channels: 10324
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10333,3 +10333,4 @@
 @MagicBangG
 @VoxBotShow
 @ManufacturingAtlasOffices
+@shockedstage
