@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10341
+! Total Channels: 10342
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10352,3 +10352,4 @@
 @Investing-with-Buffett
 @BuildLikeaShark
 @BuriedCenturyYT
+@FalloutRaccoonJRUSA
