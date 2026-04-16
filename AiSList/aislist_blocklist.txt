@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10448
+! Total Channels: 10449
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10464,3 +10464,4 @@
 @WW2Eraa
 @NighttimeBiographies
 @ashbornrecords2025
+@NordicTwilight_ROCK
