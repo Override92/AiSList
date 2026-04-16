@@ -1,9 +1,9 @@
 <div align="center">
   
 [![Discord](https://img.shields.io/discord/1454479086964576477?color=7289da&label=Join&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/6zn9y2GYbE)
-![AI Detection Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=AI-Detection)
 ![API Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/37698312a7642ef30df91abfbec57a00/raw/backend-status.json&style=for-the-badge&label=API)
 [![Statistics](https://img.shields.io/badge/📈_View-Statistics-4BB0C6?style=for-the-badge)](https://override92.github.io/AiSList/stats.html)
+<!--![AI Detection Status](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Override92/0fc97e007bafebf4d081d43e4cd725a2/raw/api-status.json&style=for-the-badge&label=AI-Detection)-->
 </br>
 <a href="https://ko-fi.com/R6R41JCKWA" target="_blank">
     <img src="https://ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" 
@@ -42,7 +42,7 @@ _This leaderboard is automatically updated once a day. You can find an hourly up
 </div>
 
 ## How to Contribute
-I welcome contributions from the community! Please help, identifying AI-generated content channels on YouTube.
+I welcome contributions from the community! Please help by identifying channels on YouTube that produce useless AI-generated content.
 
 ### Before You Submit
 
@@ -50,7 +50,9 @@ I welcome contributions from the community! Please help, identifying AI-generate
 
 A YouTube channel should be added if it:
 - Uses AI-generated voices (text-to-speech, synthetic narration) as primary content
-- Uses AI-generated visuals (Midjourney, DALL-E, Stable Diffusion) without disclosure
+- Uses AI-generated visuals (Midjourney, DALL-E, Stable Diffusion)
+- Uses AI-generated scripts
+- AI-generated music
 - Heavily relies on automation with minimal human creativity
 - Mass-produces content using AI tools
 
@@ -69,11 +71,13 @@ A YouTube channel should be added if it:
 Always provide evidence!
 
 #### - Submit directly from browser extension (Recommended)
-#### - [Submission on discord server](https://discord.gg/wKaaCRdaj) (Recommended)
+#### - [Submission on discord server](https://discord.gg/6zn9y2GYbE)
 #### - [GitHub Issue](https://github.com/Override92/AiSList/issues/new?template=report-ai-channel.md) 
 #### - Bulk submission on hold
 
-### Removal Requests
+<br/>
+
+## Removal Requests
 
 If you are certain that a channel is not using AI-generated content or doesn't meet the qualification criteria, you can request the removal from a list.
 Always provide channelHandle, a detailed description and at least one video as evidence.
@@ -91,16 +95,12 @@ Bulk removals will not be possible.
 
 ```mermaid
 flowchart TD
-  A[GitHub Issue Created<br/>User submits YouTube channel] --> B[n8n Webhook
-Trigger<br/>monitors new issues]
-  B --> C[Extract Video URLs<br/>from issue body/URL]
-  C --> D[Download Video Snippet]
-  D --> E[Call Detection API<br/>AI Detector - Video & Audio]
-  E --> F{AI Probability?}
-  F -->| | G[Post Comment<br/>✅ Likely Real<br/>No PR]
-  F -->| | H[Post Comment<br/>⚠️ Uncertain<br/>No PR]
-  F -->| | I[Post Comment<br/>⚠️ Likely AI]
-  I --> J[Prepare and create Pull Request]
+  A[User submits YouTube channel<br/>API/Discord/GitHub] --> B[Backend<br/>Data validation]
+  B --> C[n8n<br/>YT-API checks, duplicate prevention and automated analysis]
+  C --> D{Discord<br/>Reviewing}
+  D -->|Yes| E[Approval<br/>Commit to blocklist]
+  D -->|Maybe/Light usage| F[Warnlist<br/>Commit to warnlist]
+  D -->|No| G[Reject]
 ```
 </div>
 
