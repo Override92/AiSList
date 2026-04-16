@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10390
+! Total Channels: 10391
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10406,3 +10406,4 @@
 @DrNaritaEliteMen
 @TrueVietnamDocs
 @Physics_With_William
+@CandidusVox
