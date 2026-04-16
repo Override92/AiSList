@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 480
+! Total Channels: 481
 
 ! Entries:
 @CinebotComedy
@@ -502,3 +502,4 @@
 @QProcessHD
 @RetroWorkdays
 @skikias
+@ChinaObserver0
