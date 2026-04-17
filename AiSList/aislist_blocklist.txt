@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10437
+! Total Channels: 10438
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10453,3 +10453,4 @@
 @TheProcess-i9b
 @SatisfyraASMR
 @ResumoPrime-h1o
+@nostalgie_tv_deutschland
