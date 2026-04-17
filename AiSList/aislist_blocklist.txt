@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10449
+! Total Channels: 10450
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10465,3 +10465,4 @@
 @MonkeySproutTV
 @WildBuildASMR56
 @glennabaya700
+@smile_kek
