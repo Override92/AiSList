@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10455
+! Total Channels: 10456
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10471,3 +10471,4 @@
 @RelaxationASMR7
 @SatisfyHubASMR888
 @BimoOfficialTV
+@TaktykiPrzetrwaniaRetro
