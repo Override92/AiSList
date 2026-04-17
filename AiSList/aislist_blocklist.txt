@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10486
+! Total Channels: 10487
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10502,3 +10502,4 @@
 @GladiusGloria
 @BonhoeffersLegacy
 @Upadek_Imperi%C3%B3w
+@NEXUSPOLSKA-z6w
