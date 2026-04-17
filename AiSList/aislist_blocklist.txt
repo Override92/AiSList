@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10439
+! Total Channels: 10440
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10455,3 +10455,4 @@
 @ResumoPrime-h1o
 @nostalgie_tv_deutschland
 @WhispersofFame1
+@VerbalShowdown
