@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10532
+! Total Channels: 10533
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10548,3 +10548,4 @@
 @ProfitoryHub
 @JiangPolicyInsights
 @AbyssEngineSounds
+@NeverlandSymphonicMetal
