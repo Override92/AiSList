@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10570
+! Total Channels: 10571
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10586,3 +10586,4 @@
 @GlobeEXPL
 @FaixFox
 @BuriedFix
+@DailyNewsFrontline
