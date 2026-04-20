@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 487
+! Total Channels: 488
 
 ! Entries:
 @CinebotComedy
@@ -509,3 +509,4 @@
 @GeheimeDeutscheArchive
 @MM-recapsofficial
 @roadreportcars
+@NorthernVeil
