@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10565
+! Total Channels: 10566
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10581,3 +10581,4 @@
 @RockOfAgesWorship
 @JonAGCapital
 @ThePatientCapital-2
+@OgJohnAg-n3g
