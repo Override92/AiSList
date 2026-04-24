@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10578
+! Total Channels: 10579
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10594,3 +10594,4 @@
 @90s-EDM-Style-Music-With-AI
 @ProfessorJiangsCriticalEconomy
 @UnwindAIASMR
+@KurisamiASMR
