@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10599
+! Total Channels: 10600
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10615,3 +10615,4 @@
 @SURVIVAL3656
 @rescuecover
 @nguyenhuuhai-l8l
+@AnimatedStoryWorldChannel
