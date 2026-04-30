@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 493
+! Total Channels: 494
 
 ! Entries:
 @CinebotComedy
@@ -515,3 +515,4 @@
 @DrJonathanTam
 @ChillDudeExplains
 @foxytunesbeatz
+@ProfJiangHistoryLectures
