@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10602
+! Total Channels: 10603
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10618,3 +10618,4 @@
 @HistoryRecreated-f9v
 @HistoryByComics
 @HouseofLunaire
+@Siren_Studio
