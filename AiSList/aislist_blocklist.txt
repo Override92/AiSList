@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10625
+! Total Channels: 10626
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10641,3 +10641,4 @@
 @TheVeilFlame
 @UncleSamsBlues
 @UBUNTUVOICES-o7n
+@AlmaFlamencoVibes
