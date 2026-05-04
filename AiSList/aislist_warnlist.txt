@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 498
+! Total Channels: 499
 
 ! Entries:
 @CinebotComedy
@@ -520,3 +520,4 @@
 @FadedArchives-n4i
 @ChillingAfterglow
 @ThecutFrame
+@TheLightofPsalms
