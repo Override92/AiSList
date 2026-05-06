@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10711
+! Total Channels: 10712
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10727,3 +10727,4 @@
 @InsideMakerLab
 @TheWorldofFactories
 @HOWITSMADE-q8v
+@NathalieGottmann
