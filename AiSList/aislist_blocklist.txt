@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10743
+! Total Channels: 10744
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10759,3 +10759,4 @@
 @CityFall-k6b
 @SEEstes3
 @Orvak-Official
+@ShinySSound
