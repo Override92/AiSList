@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10804
+! Total Channels: 10805
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10820,3 +10820,4 @@
 @SuperHeroAIKH
 @WorldJ-POP
 @DreamJournal-c3h
+@MOONLIT_BGM_Factory
