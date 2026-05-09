@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10787
+! Total Channels: 10788
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10803,3 +10803,4 @@
 @CriticalEvent
 @GeoclysmOfficial
 @sithdaddy
+@SEALCourageTales
