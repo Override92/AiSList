@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10749
+! Total Channels: 10750
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10765,3 +10765,4 @@
 @WakanEchoes
 @PorkysKitchenAI
 @imjust5taku
+@CustomerServiceBreakroom
