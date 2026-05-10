@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10847
+! Total Channels: 10848
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10863,3 +10863,4 @@
 @BOBReview-x7z
 @tartariahistorian
 @TrainEnthusiastYT
+@BlackboxDE
