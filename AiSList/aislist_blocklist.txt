@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10845
+! Total Channels: 10846
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10861,3 +10861,4 @@
 @DiandrasMusicBubble
 @Luminae_Official-s9t
 @BOBReview-x7z
+@tartariahistorian
