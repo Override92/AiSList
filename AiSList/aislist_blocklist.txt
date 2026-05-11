@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10768
+! Total Channels: 10769
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10784,3 +10784,4 @@
 @FractureHymn
 @CrownofPromise-L
 @ProjectMassMonster
+@DemonPop25
