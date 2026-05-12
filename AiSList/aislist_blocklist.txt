@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10796
+! Total Channels: 10797
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10812,3 +10812,4 @@
 @OldMoneyDocumentaries
 @DarkBibleMovie
 @FunKidsPlay-u7e
+@sideralisworks
