@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10836
+! Total Channels: 10837
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10852,3 +10852,4 @@
 @Danisifihub
 @AbsolutelyChillMusic
 @royaltales8998
+@ForbiddenFrequencyEN
