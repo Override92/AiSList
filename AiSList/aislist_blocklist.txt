@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10922
+! Total Channels: 10917
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1894,7 +1894,6 @@
 @DosisdeReddit-e7o
 @VerySparked
 @RedditWhispers001
-@RedditDramaStorytime_99
 @ONLYREALMESS
 @DerLegionarEng
 @NCrimby
@@ -1941,21 +1940,17 @@
 @ai-toonmonkeys
 @monkeyaishort123
 @aibazanimation
-@aitoonjungle
 @aiunreal-shorts
 @monkeyanimation-v3f
 @taraaianimation
 @aistory4you-d2i
 @aiasmr_78
-@aishortscat-q3x9d
 @naushan
 @aivideotoo-d4w
 @aicatsandkids
 @ai-video1211
 @aistory38
-@aishorts-n6q
 @aipetsshorts-d7w
-@aishorts-v1p
 @shortsgeneratedai
 @chineseshortsai
 @aicreatorshorts-g3r
