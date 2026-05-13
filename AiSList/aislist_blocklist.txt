@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10784
+! Total Channels: 10779
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4222,10 +4222,8 @@
 @PSYCORE-28
 @ense%C3%B1anzajudia-b5z
 @elcodigodegrinberg
-@LeccionesDelCoraz%C3%B3nOffical
 @Innermindpsychology_01
 @godlicia
-@TrueSelfEspa%C3%B1ol
 @SECRETOSJUDIOSMILLONARIOS
 @oraculo_estelar
 @Hor%C3%B3scopos_del_Sol
@@ -4233,7 +4231,6 @@
 @ElmonjeInterior
 @SabiduriaJudiaAncestral-m3b
 @LaLeydelInvisible
-@ElC%C3%B3digoJud%C3%ADoAncestral_101
 @SabiosJudios
 @ElTesoroEscondido7
 @conocimientorevelado-CR
@@ -4246,7 +4243,6 @@
 @RichardWolfOffical
 @groundsreality
 @LaBibliaRevela
-@HerenciadeloAlto
 @cartasdesdeelm%C3%A1sall%C3%A1
 @MensajesqueSananyt
 @palabrasdelalma01
@@ -4259,7 +4255,6 @@
 @sweetlifebeatlife
 @FrankGravesStories
 @yikesproduction
-@TheStrategicPerspective-d7g
 @hemavathishetty3423
 @Avispaceloeb
 @GlobalBrief78
