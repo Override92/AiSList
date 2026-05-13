@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10804
+! Total Channels: 10799
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3904,16 +3904,13 @@
 @Explica2-dos
 @ElDiabloteLoPinta
 @ysieramos
-@ChoquedeEras
 @LaHistoriaQueNuncaFuex
 @SWSchannel60
-@healnow-l2b
 @MyLifeAfter65
 @SeniorsCircleYT
 @SeniorGuideYT
 @seniorhealthaffairs
 @AgelessHealthGuide-s1e
-@Healthx33
 @larefvlog
 @Dr.JavierMart%C3%ADnez-b3w
 @DraEmiliaSu%C3%A1rez
@@ -3994,12 +3991,10 @@
 @BikerGuardianStories123
 @DarkenedRevenge-y9g
 @CowboyLegends-yt
-@AwarenessStoriestv
 @BlackVelvetMurders
 @SophiesSecretCourt
 @Revengebytruth83
 @Renacimiento_Oscuro
-@ArquetiposJung
 @AKDesperterInterior
 @Sabidur%C3%ADaCotidiana-k1b
 @SilentDiscipline-d7x
