@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10901
+! Total Channels: 10902
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10917,3 +10917,4 @@
 @Compounding-Wealth-9
 @Timeless-Investing-q
 @IntelligentCapital-2
+@Money-Lessons-9
