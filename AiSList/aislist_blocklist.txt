@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10759
+! Total Channels: 10754
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4409,7 +4409,6 @@
 @filosofiasinconsuelo
 @LaMentePersuasiva
 @arenafunnygame3062
-@%E9%BA%A5%E5%AD%90%E8%AA%AA%E4%BA%8B
 @%E7%B7%AF%E5%BA%A6%E8%A6%96%E7%95%8C5578
 @scifistories1977
 @USAInsideNews
@@ -4421,13 +4420,10 @@
 @SecCometHFY
 @DeathCrownHFY
 @HFYSci-FiStories-r4c
-@TheHonestPlus
-@GEOFFDESK-d7y
 @mundoenimpacto
 @nyxteraa
 @GunLawsUpdates
 @Espa%C3%B1aenNoticias
-@Inventariom%C3%A1sGrande
 @HistoriaDelCapitalOculto
 @mossadscope
 @rebrainloop
@@ -4435,7 +4431,6 @@
 @TheGrayLedgerOfficial
 @soldiercommands
 @TheTruthBehindtheHeadlines
-@RojasVital
 @mente-x-d4w
 @EstoicismoOscuro
 @menteviva-h8c
