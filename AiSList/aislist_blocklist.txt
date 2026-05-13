@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11016
+! Total Channels: 11017
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11032,3 +11032,4 @@
 @RavrenPulse
 @CrockettPrimeyt
 @POVrank
+@Maiden_Whispers
