@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10979
+! Total Channels: 10980
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10995,3 +10995,4 @@
 @Galactic_human_saga
 @HFYErythion
 @TheZXONProtocol
+@NEXORAStories_DH
