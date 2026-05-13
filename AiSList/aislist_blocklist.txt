@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10877
+! Total Channels: 10872
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2622,7 +2622,6 @@
 @cutecataishorts0
 @itskikiboom
 @purrfectlycuteaishorts
-@aikittyshorts_ll
 @cataishorts12
 @aicats-e2k
 @catsaishorts-i3e
@@ -2631,7 +2630,6 @@
 @aicatvideos.12
 @aishorts712
 @aishorts-321-v6u
-@samkingtoon2.o12
 @meowaishorts-n4g
 @aishorts-k7m
 @talkwithaicats
@@ -2731,12 +2729,9 @@
 @cutecatstory76
 @cutecatstorys
 @catstorys02
-@mamababycatstories
 @adorablegingerkitten
 @cutecatmews
 @gingermamamoments
-@gingerkittenlilly
-@gingercatdailyy
 @mamacatandtango
 @misoandmom
 @meowmoments-x7q
