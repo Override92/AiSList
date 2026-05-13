@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10794
+! Total Channels: 10789
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4090,10 +4090,8 @@
 @HiddenFamilySecrets-i7p
 @sd-love-stories-2
 @SoulfulRomance-Channel
-@TheQuietRevenge-US
 @MysticLoveStories
 @MyPassionDiaries
-@Voice-Of-Zyla
 @MafiaBossWhisper
 @TimelessLoveStories-q1b
 @linasromantasycollection
@@ -4102,7 +4100,6 @@
 @BookFlickShare
 @QC-FamilyStory
 @AlexsRevengeDramaine
-@PER%C3%8DMETROTV
 @AncientBloodline1
 @truejusticeofficial
 @RevengewithTruth
@@ -4114,11 +4111,9 @@
 @escandaloenlasociedad
 @Hijos_del_Poder
 @ApellidosMalditos
-@BeforeYouLoseEverything-9
 @retiredfrank
 @ELDECODIFICADORDEPERSONAS
 @Menteclara_21
-@why-b77
 @Psycor00
 @RitosdeConciencia
 @neuroticoyt
