@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10988
+! Total Channels: 10989
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11004,3 +11004,4 @@
 @EddieVanHalenTheUntoldLegacy
 @CarlosSantanaTheUntoldLegacy
 @RedVoidSurvivor
+@GlobalWarBrieff
