@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10844
+! Total Channels: 10839
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3338,7 +3338,6 @@
 @FunFlicker7
 @BoringHistorian-d5y
 @MYFutureTrends-v2u
-@MoneyMeetsHistory-g6m
 @ImaginethePhysics
 @TheTacticalPsychology
 @TheMoneyFilesChannel
@@ -3347,7 +3346,6 @@
 @WWIIPaths
 @wardecoded1
 @UntoldWW2story
-@wilddocumentarry
 @valuablerarecoins
 @quarterdollar1
 @ObsidianVengeance-x2n
@@ -3376,7 +3374,6 @@
 @RevengeTruth-m2z
 @RevengeRealm
 @FireOf_Revenge
-@StormRevenge102
 @HiddenRevengeFamily
 @HerHiddenHeart
 @UltimateRevenge-p9u
@@ -3394,7 +3391,6 @@
 @MatureElegance50
 @explained-US
 @สุจิตราอ่อนละมุล-ฟ1ฎ
-@BoringMoneybyJohnAG
 @OGAsianGuy
 @InfluenceCircuitTV
 @HOAStories68
@@ -3458,7 +3454,6 @@
 @StoryUnfolds-s
 @RoadMotorcycleDiaries
 @BravePawStories911
-@WhispersofDesireTV
 @HeartOfBikers1
 @SEALShepherds-l5t
 @WordsWrittenWithLove
