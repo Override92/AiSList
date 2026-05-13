@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11002
+! Total Channels: 11000
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -341,7 +341,6 @@
 @dailyDoseofAIslop
 @FeeliMals
 @mogingerstudios
-@madisonthroughtime
 @AIJesusStory
 @simpleaichannel4
 @Dulu19
@@ -354,7 +353,6 @@
 @VillageBoyAI
 @SBStyleViral_1M
 @AllThingsFlow2
-@MeowMotion950
 @MeowMotion-k4t
 @MeowMotion-nt9wu
 @MoewMotion-f9
