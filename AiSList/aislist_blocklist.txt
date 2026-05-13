@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10779
+! Total Channels: 10773
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4289,15 +4289,12 @@
 @WolffNoticias
 @CarlosMorenoYTT
 @economia.imperial
-@SabInfo-i8p
 @RichardWolffHoy
 @noticiasescalantes
 @HollywoodenVoz
 @trandbox-y7g
 @ArchivoenSombras
 @MiguelSerranoyt
-@LaOpini%C3%B3ndeTodos
-@SpeakESpaine
 @FanFight-b7m
 @DramayVenganza-h5h
 @RevengewithPapa
@@ -4325,13 +4322,10 @@
 @LostGenre
 @StoriesOverCoffee-v6e
 @MineQley
-@가정의그림자8658
-@lastsignal-y1d
 @ai.darkhorizon
 @givegitamukti
 @cutecat895k
 @movie_shortssss
-@emilydonnareports
 @hfy_en_espanol
 @realidadsegunlaciencia
 @derracheresp
