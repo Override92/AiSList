@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10882
+! Total Channels: 10877
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2536,7 +2536,6 @@
 @DailyAIAnimalLife
 @KavishkaStudios
 @cat.time117
-@t.u.z.g.88
 @playthemaster
 @ArchitectEvolution
 @HunBun-p5r
@@ -2558,7 +2557,6 @@
 @meetkaren7
 @hoafiles-x1d
 @karencurbsidetales1
-@cold-revenge12
 @novawisdomtales
 @unmarked-casebook
 @realhoastorytime
@@ -2578,7 +2576,6 @@
 @thehoafiles-l6v
 @h0astory22
 @storytimewithhoakarenstories
-@USCapitolUnmasked
 @cutecataistory
 @cattales234
 @aicattoon-2002
@@ -2612,14 +2609,12 @@
 @catsstory-w8g
 @ai_cat_adventures-2025
 @meowaicat-u2l
-@aistorytime2002
 @catkitten-aicat
 @ourcat_04
 @shortsai-t6h
 @ai.cat.shorts2026
 @tuhucataishorts
 @funnyaicats-ai
-@aicat1m1
 @aicatshort-c5u
 @catcuteaishort
 @cataishorts2026
