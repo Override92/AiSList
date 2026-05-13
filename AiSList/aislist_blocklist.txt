@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10917
+! Total Channels: 10912
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1974,7 +1974,6 @@
 @prsv_ai
 @aicartooncat-p8t
 @catamsai
-@newskiduniya125
 @motionstorybangla
 @mdmujahid1613
 @cartoonstorytv4u
@@ -1993,7 +1992,6 @@
 @aicartoonbygolu
 @aimahal24
 @ajairaai_2.0
-@dreamframeairox
 @mr.dheeraj001
 @mindsparkcartoon
 @tumtumsaharchannel
@@ -2008,7 +2006,6 @@
 @BritainRetold
 @memoriesfrombritannia-b1m
 @memoriesfrombritannia-z3g
-@taimukapuseru
 @WW2BuriedSecrets
 @ww2unheard
 @timelinesofwar-e4n
@@ -2016,13 +2013,11 @@
 @SmartMindTech-h6k
 @timelineofww2-x5e
 @patton-x4w
-@warweapons9
 @TimelineofWar-e4
 @HiddenFrontHistoryy
 @Since1939s
 @MalikMh-m8v
 @AfroWireAI
-@FuzzyAI-q7b
 @Ai.AnimalsSeries
 @zoorumi
 @mrpeto9
