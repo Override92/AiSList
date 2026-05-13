@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10875
+! Total Channels: 10876
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10891,3 +10891,4 @@
 @Raggae-BGM
 @EchoesSoundLab
 @TokyoJazzNight
+@wowreborn
