@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10829
+! Total Channels: 10824
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3662,7 +3662,6 @@
 @THE-EmpireCycles
 @China-Silver-Alert
 @TheWealthContinuum
-@TheUniverseAccordingtoSusskind
 @marioexplainsthings
 @psychology_facts
 @Dark-mind-psychology24
@@ -3670,7 +3669,6 @@
 @Eclipsophy
 @UpgradeYourSelf_Knowledge
 @SmarterWhileYouSleep
-@powerfulstoicmotivation
 @DarkPsycheZone
 @Mindplicit
 @SecondBrainChannel
@@ -3684,17 +3682,14 @@
 @TuPsiqueOscura
 @profesortodoo
 @Dato-Visual
-@whitekittenstory
 @evolutionstudiosai
 @animyne.1
 @elitedemocracyanalysis
 @goodthinkinghabits
-@asmrcreation-l2t
 @MedievalWay
 @HFY_en_Espa%C3%B1ol
 @BibliotecaGalactica-r7t
 @ArchivoHFY
-@maxscifiespa%C3%B1ol
 @CienciayFiccionFHY
 @LaOdiseaHumanaHFY
 @ManhwaResumenIA
