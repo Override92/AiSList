@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10769
+! Total Channels: 10764
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4343,7 +4343,6 @@
 @fisicapensamientosdefeynman
 @dravaleriamorenourologa
 @dra.isabelacortes-e3z
-@johnn-ag
 @cuerpoenarmonia-q8p
 @gabrielpsicologiamotivacional
 @mindmirrorespanol
@@ -4354,8 +4353,6 @@
 @ggciencia1
 @elladosombrio-t5m
 @philosophyoriginsespanol
-@nielsbohrexplicalafisica
-@sinsentidoes
 @LaSaladelAn%C3%A1lisis
 @MarketIntelligenceDesk
 @Nuestrasagrada
@@ -4373,14 +4370,12 @@
 @Drcardenas25
 @Dr.MateoCastillo
 @daniestory
-@FederalAffairsDesk
 @revengestorieswitholivia
 @truelifechronicles-d9o
 @ZooPhenomena
 @Royal.Unfiltered
 @TheReelLineup
 @mungerslessons23
-@thedollarrules1
 @thelegendinvestor-n2f
 @oracleofomaha-s6u
 @jakestroy
