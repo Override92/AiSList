@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10819
+! Total Channels: 10814
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3746,7 +3746,6 @@
 @TuMente-x8c
 @Motivandohastael%C3%A9xito
 @Raizmental01
-@SABIDUR%C3%8DANEUROCORPORAL
 @MenteenMovimiento-l8x
 @YokoiKenjiPsicolog%C3%ADa
 @C%C3%B3digoMental-d4l
@@ -3782,15 +3781,11 @@
 @EquatorAI
 @thekindride
 @สจตราออนละมล-ฟ1ฎ
-@itsogjonag
 @jackrebornhistory
-@horizontrivia
 @mr.pintukumar18
 @amliyat-w5p
 @trueminds-o5r
 @history.and.mysteryy
-@tiktoker_mery
-@esqueletosabioo
 @cozy_cat_mom
 @beyondthebattlefield-x6f
 @PawsAIStorie
