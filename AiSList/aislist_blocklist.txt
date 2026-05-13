@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10814
+! Total Channels: 10809
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3787,7 +3787,6 @@
 @trueminds-o5r
 @history.and.mysteryy
 @cozy_cat_mom
-@beyondthebattlefield-x6f
 @PawsAIStorie
 @GujjarbhaiG48
 @AsianGuy_AG
@@ -3808,12 +3807,10 @@
 @MindMirrorEspa%C3%B1ol
 @RelatosqueConmueven1
 @GabrielRol%C3%B3nMotivacion-e6f
-@SinL%C3%ADmitesMotivaci%C3%B3n
 @dra.dlbadom%C3%A9nech
 @LaVozdelosAncestross
 @Dra.Isabel_Mart%C3%ADnez
 @skyebrows
-@VoicesofStephanie
 @N1ghtGear
 @WisdomAndHappiness
 @zodiacflamestv
@@ -3821,7 +3818,6 @@
 @zodiacsignsaz6205
 @Zodiac_Enigma
 @izodiacguru
-@TheInnerZodiac
 @ZodiacRealm
 @ZodiacOfMind
 @zodiaclife6448
@@ -3835,7 +3831,6 @@
 @Galaxy_Astrology
 @ZodiacSecretsRevealed-v5e
 @AstrologyAlchemy-s7x
-@ArcaneZodiacSagittarius
 @Zodiacsingtoday
 @ZodiacAndBeyond
 @RachelToday-24
