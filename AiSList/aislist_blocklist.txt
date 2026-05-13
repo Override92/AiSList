@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10834
+! Total Channels: 10829
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3629,7 +3629,6 @@
 @MoneyMadeSimple-z9g
 @FinancialInspection
 @HiddenEconomicRevelations
-@financeflux-mk
 @Economy-Rewind
 @HealthyAgingTalk
 @LastChanceIsToday
@@ -3645,8 +3644,6 @@
 @BuffettMoneyMentality
 @boardroombillions
 @TheInvestorsTruth-h1
-@iWW2-Files
-@WW2Embers
 @WW2Echoes09
 @TODAYSTORIES6t
 @WarRecalled
@@ -3660,9 +3657,7 @@
 @CapitalKeyy
 @Financial-reviews
 @FinanceFrontierLab-t2c
-@taketwiss
 @WarandSecretFiles
-@SheryBhai-d3v
 @FrozenSecrets-u9j
 @THE-EmpireCycles
 @China-Silver-Alert
