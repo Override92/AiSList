@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11007
+! Total Channels: 11002
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -258,7 +258,6 @@
 @AprilAI.Channel
 @SuperGoodCat
 @KittenNarrative
-@TheMainverse
 @Acorn_Studios_official
 @ElsieFisher-i3f
 @JellyJam-q4o
@@ -268,7 +267,6 @@
 @AIMeow-kitten
 @CatimationAI
 @Zam-Zam786-m2
-@AlCatTalesAi
 @aicretive_o7
 @PARALLELGALAXY-TV
 @Ai.MeowwwUs
@@ -295,7 +293,6 @@
 @MEOWMYMY-n9d
 @BeamNGTN
 @imaginedreality019
-@MeowAI-o3e
 @StoryArcPaws
 @Zkfan499
 @MeowLaand
@@ -308,8 +305,6 @@
 @YupAnimation2
 @Kittytailsofficial
 @RumasAnimationVedio1
-@balljammer
-@CRAZYAISTORY-14ry
 @Magiclight-Ai
 @EAGLEFANCLUB3
 @MeowMemoirs97
