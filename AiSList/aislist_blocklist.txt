@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10749
+! Total Channels: 10744
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4448,20 +4448,17 @@
 @SILVERGOLDTALK
 @EconomicTruth2
 @Prosper_Path_1
-@WealthBuilder.m
 @BoringCurrencyLive
 @OGJohnFinanceAG
 @JohnAG-j8k
 @financialjohn
 @JohnAGFinance
-@Economy.Archive
 @letFinance-w7q
 @HistoFund2025
 @M%C3%A9todoWarrenBuffett
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
 @AlertaBeneficiosUSA
 @ConstructorVisionario
-@ClearFinanceHelp
 @modomillonarioesp
 @FinanzasAburridasTV
 @AudiolibrosDelSaber
@@ -4469,13 +4466,11 @@
 @capitalhist%C3%B3ricoo
 @expedienteabierto-g4y
 @ElLegadoCarmes%C3%AD
-@MedioEvo-q7g
 @GinecoSimple
 @ExploradoresdeHistoria-h5n
 @Dra.MarinaL%C3%B3pez
 @Dra.Luc%C3%ADaSoria-K111
 @PergaminoHistorico
-@RelatosdelAlma-d8l
 @LaClaveDivina-o6b
 @Oraci%C3%B3nInspirada
 @Ense%C3%B1anzasB%C3%ADblicasProfundas
