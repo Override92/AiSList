@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10902
+! Total Channels: 10897
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2101,7 +2101,6 @@
 @ww2history2005
 @wwiichronicles_05
 @bestww2archives
-@pattonswardairy2y
 @ruthlessgeneral
 @revengediaries-1k
 @legendsofcommand-o8d
@@ -2117,7 +2116,6 @@
 @yeteyeuyehehhe2058
 @thedictatorarchives
 @erzahlungenpattons
-@echoesthepattonlegacy
 @echosdepatton-fr
 @ww2warpath
 @wwiiexplored
@@ -2132,8 +2130,6 @@
 @warsofhistory-1
 @ww2talessecrets
 @ww2open
-@historyofworldwarii-s5o
-@cartoon_05-5x
 @pengpeng-22
 @animals_dancing99
 @penguinadventure88
@@ -2144,7 +2140,6 @@
 @thenatkhattoons
 @priyu-y7p
 @cartooncreaturehub
-@ppp-penguins
 @littlepenguinacademy
 @chronosofkairos
 @blublupenguin
