@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10977
+! Total Channels: 10972
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -684,7 +684,6 @@
 @aiaurhum12
 @tootleai
 @aicowstory6
-@aiwithwasik
 @dairytalesai
 @aicreatures12
 @aianimation-u8r
@@ -709,7 +708,6 @@
 @veggiefun89
 @story_snapaz
 @pawheroes14
-@thelastarchive-x
 @bravepets-h6f
 @rescuebykindness
 @bravecatss
@@ -719,13 +717,10 @@
 @vneditor1234-y1s
 @trendaiq
 @babyfunvideo
-@animatedworld-k1n
-@animalsquestx786
 @tinytrouble-y9j
 @aidream-v2w
 @thesupecat_1
 @ai_babyclips
-@reetuai
 @rio_4uai3
 @chikufilm
 @rio_5uai0
