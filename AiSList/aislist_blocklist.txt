@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10809
+! Total Channels: 10804
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3860,13 +3860,10 @@
 @HistoriasdeAntonio
 @MrStickySensei
 @ExploradorCu%C3%A1ntico
-@NielsBohrexplicalaf%C3%ADsica
-@LasEnse%C3%B1anzasdeFeynman
 @RichardImaginaVibe
 @IMAGINALAF%C3%8DSICA-e5f
 @FisicaEstiloFeynman
 @F%C3%ADsicaPensamientosdeFeynman
-@ProfesorMiguelAlcubierre
 @CienciaNocturnaa
 @MysteriesoftheUniverse00
 @OficinadeHallazgosOcultos
@@ -3875,9 +3872,7 @@
 @Diadelaluna_Terror
 @suleimanyusufu7923
 @linhnguyen-du2ib
-@michelle.davenport
 @TheDalioMethodUSA
-@berkshire_warrenbuffett
 @IntimateActiveAfter60
 @lifeafter700
 @dravaleriamorenour%C3%B3loga
