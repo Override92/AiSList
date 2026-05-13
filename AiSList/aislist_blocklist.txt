@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10859
+! Total Channels: 10854
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3015,11 +3015,9 @@
 @BitterJustice-p3w
 @Redditsphere002
 @BearTales-l2u
-@QuokkaReads
 @RedditKarmaStories-c9m
 @ReddXYZ
 @PrimeStory_Lab
-@WhisperedLoree
 @JackStoryWorld2
 @PredTalks095
 @LastRevenge-n4t
@@ -3032,7 +3030,6 @@
 @4channy-l5t
 @novelreelpicks
 @Ajanimalking
-@Storytimefamilia
 @RedditTales-s4h
 @Unpeeled-b3w
 @Sleeping_Tales
@@ -3060,7 +3057,6 @@
 @DjMakinetor
 @ezmaniac
 @BritfoodRewind
-@dearoldaustralia
 @OfficerPenguin
 @policeoverreach
 @policeauditauthority114
@@ -3078,7 +3074,6 @@
 @siennavideoss
 @LangweiligeW%C3%A4hrung
 @langweiligewahrung
-@%EA%B0%80%EC%A0%95%EC%9D%98%EA%B7%B8%EB%A6%BC%EC%9E%908658
 @ImagineVerseAI
 @IronRoadMusic
 @TheTowerBrief
