@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10789
+! Total Channels: 10784
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4123,7 +4123,6 @@
 @MiDiarioBiblico-b2q
 @M%C3%A1sAll%C3%A1delasHistoriasB%C3%ADbli-o7r
 @VIDAESTOICATGN
-@GabrielRol%C3%B3nMotivacion-r5f
 @Audiolibrosdealtonivel
 @PausayReflexi%C3%B3n1122
 @PSYCOart-E
@@ -4133,7 +4132,6 @@
 @SaludyVida60
 @Dr.DarienVoss
 @Dr.Castillo-j9x
-@Sabidur%C3%ADadeVida-r1r
 @earthly444_es
 @LoliiDrama365
 @ImpressiveNarratives1
@@ -4196,7 +4194,6 @@
 @AlmaMexicanaYT
 @Lifecanvasstories
 @Dra.CamilaVexa
-@Dra.CamilaMedicina
 @Sabidur%C3%ADaJud%C3%ADaEterna
 @raicesdeljudaismo
 @caminocabalistico
@@ -4206,14 +4203,12 @@
 @conductajud%C3%ADa
 @RabinoRevalaciones
 @JungyelC%C3%B3digodelosTraumas
-@ConocimientojudioEspa%C3%B1ol
 @MrKhan-e5y9c
 @AlmaDespierta1
 @SusurrosdelAlma_ES
 @MenteTransformadora88
 @As%C3%ADSomosES
 @PulsodelOro-l8m
-@TheHonestPlus05
 @CosmoMillonario
 @Ra%C3%ADcesOlvidadas1
 @DeepHarvestGarden
