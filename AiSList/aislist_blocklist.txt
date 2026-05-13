@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10839
+! Total Channels: 10834
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3477,7 +3477,6 @@
 @BlazeWardHFY
 @BruceLeeTheHiddenLegacy
 @BruceLeeSupernova
-@JackieChanStoriess
 @bruceleetheuntoldlegacy-n9y
 @vellob
 @WW2Untold-t3e
@@ -3505,7 +3504,6 @@
 @GraceWeaveNarratives
 @HeartfireStories
 @789-z5b
-@zodiaq-t5m
 @KindnessDiary-x3t
 @Echoesofwar999
 @IconicUSATales
@@ -3603,12 +3601,9 @@
 @moneyuntold_786
 @boglesWay0
 @JohnAGAlert
-@WorldEconomyReborn
 @EconomicRecords
 @EconomyUnfilteredTV
 @ArchiveCurrencyAG
-@AshFinanceSecrets
-@FinanceHacks-e7m
 @TheChizzyCurrency
 @JonConnecting_Currency
 @FinanceReality-z3v
