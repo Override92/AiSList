@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10912
+! Total Channels: 10907
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2018,20 +2018,15 @@
 @Since1939s
 @MalikMh-m8v
 @AfroWireAI
-@Ai.AnimalsSeries
-@zoorumi
 @mrpeto9
-@BritishWarTales
 @TheWW2Legacy
 @untoldwartales-1
 @eyeofww2
 @worldwarstoty
 @ww2memoir
 @ww2documentary1
-@ashesofww2
 @battlesofthecentury-j8d
 @echoesofusa007
-@georgespattonwhatwasnevertold
 @historyofwarstv
 @lindajohnsonvideos
 @mythsofwar-w1z
