@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10849
+! Total Channels: 10844
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3149,10 +3149,8 @@
 @motivation_7940
 @Minipawsai
 @TheGlobalShiftt
-@hollywoodforeverstories
 @HerUntoldStory-sad
 @PenguinTales-h4v
-@TheStoicPath11
 @Wikifino
 @libraryofterence
 @TheLanguageLibrary
@@ -3213,7 +3211,6 @@
 @CHICKIE-c4c5q
 @MusicOfOurTime
 @Epochalypse1978
-@BruceLeeThePowerWithin
 @ATMNewsBangla
 @WW2Informant
 @WartimeWhisperss
@@ -3249,7 +3246,6 @@
 @mrtung2
 @HorrorStoryAI-n6z9d
 @ExtremeSurvivalStories
-@JonSilverGuy
 @ChronoFallOfficial
 @EconomicShift
 @moneyempires01
@@ -3336,7 +3332,6 @@
 @True-Terra
 @Pastwithmax
 @simplemindmap1
-@bambierantsroblox
 @ExplainingEverythingChannel
 @FilmRecapExplained
 @HiddenChefsClub
