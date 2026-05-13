@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10942
+! Total Channels: 10937
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1580,7 +1580,6 @@
 @shineai01
 @catzdance-c5z
 @catdancelabsguddu
-@raju-b1o9d
 @kitten_mag
 @sillyanimals2
 @mewo20m
@@ -1597,7 +1596,6 @@
 @satisfyingfactoryasmr
 @process-h2t
 @asmrfactory-official
-@noalfactoryprocess
 @insideprocessai
 @factorytrueprocess
 @insidefactoryprocessv
@@ -1642,7 +1640,6 @@
 @insidefactorymanufacturing
 @insidefactoryflows
 @wilddominion175
-@insidefactory-process
 @insidethefactoryofficials
 @factoryprocess-l2g
 @factoryprocess-5q
@@ -1681,12 +1678,10 @@
 @massproduction91225
 @hiddenfactoryworld
 @primefactorysecrets
-@insidetheprocess-11
 @silentrestoration-00
 @production_secrets
 @factoryprocess-g5q
 @insideelitefactories
-@wind_tales
 @thugian2
 @globalworksfactory
 @megaproductionplant
