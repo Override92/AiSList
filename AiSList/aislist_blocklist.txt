@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10744
+! Total Channels: 10739
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4483,11 +4483,9 @@
 @JohnAGMarkets
 @JohnAG-x8g
 @RogersGoldSilver
-@MotoDyno-68
 @WolffExplained
 @cw.au-25
 @CanadaNextt
-@UKINFOHUB-k1s
 @PhysicsAfterDark
 @HiddenUniverse01
 @Feynman-Explains
@@ -4497,7 +4495,6 @@
 @groceglenn2690
 @Elmomentoenhistorias
 @JuecesReales
-@justiciacaprio
 @recuerdosdepadres
 @RecuerdosdeCarmenYT
 @ElMundodelAbuelo_fz7
@@ -4522,14 +4519,12 @@
 @NichePlanet
 @SilentImperium
 @MindsOfFree
-@Mot%C3%ADvateHoy-t7f
 @zerotool2077
 @PenroseMindCosmos
 @eltiemponoesperayt
 @Caminoal%C3%89xitoSantandreu-z1d
 @ArchivoNocturnoMX
 @LaFrecuenciaSagrada
-@Br%C3%BAjuladelAlma0
 @Stayready-1
 @Comprenderlaf%C3%ADsicaconFeynman
 @cuentosconguadalupe
