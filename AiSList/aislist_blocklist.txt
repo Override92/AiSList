@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11017
+! Total Channels: 11007
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -46,9 +46,7 @@
 @FantasyLabAI
 @AI-GEN-XI
 @LittleMan-x5x
-@tarworldofficial
 @Unbelievable.thought
-@chargeforward-z
 @ByteKings
 @1Sea_AI
 @Numb-Zhang
@@ -80,7 +78,6 @@
 @Catmeow-t9f
 @AJShorts-x8m
 @SADMEOWSTORYIES
-@Cat_storys2
 @K5CatMeow
 @Mews_Flash
 @Meow09i8i
@@ -132,7 +129,6 @@
 @ruchinofficial
 @run_with_ai
 @NeuroFilmsLab
-@AI_Dreamscape_
 @HaHaFactory-f4r6l
 @Katyushatulip
 @Kittykomedychronicleshow
@@ -159,7 +155,6 @@
 @Furrr_Ai
 @furrAI-lovers
 @AllScienceForKids
-@aibeauty-creations
 @BGFilmsEntertainment
 @lo-fi-rock-metal
 @FunKidsMusiczh1
@@ -169,7 +164,6 @@
 @littlefairy-c7k
 @aimagicstudio11
 @CuteAIcreations-n7f
-@mrjangai
 @3Dverse786
 @mysticvideoai
 @AiWonderLab_eu
@@ -184,7 +178,6 @@
 @SoftPixelAI
 @DreamscapeAI4K
 @DeepDiveDreams
-@naveedautomationskill
 @SereneVideoAI
 @GptShowAi
 @ROISAI21
@@ -220,7 +213,6 @@
 @Dreamasmr55
 @DreamASMR77
 @DreamPawsAsmr
-@EDMFANTASYAI
 @motion-film7
 @Dream.LoopASMR
 @serenityaiasmr
@@ -234,14 +226,12 @@
 @CatastroBotAI
 @aicandream2025
 @AI.maginary0
-@AIASMRDreams-h3f
 @DeepDreamAsmr
 @AInaturecabin
 @AiGenworld-b1g
 @NatureTrip3
 @God-Videos-AI
 @aikarrie
-@HeartcodeShorts
 @aiverse011
 @HyperAi01
 @AiAnjaliArjun
