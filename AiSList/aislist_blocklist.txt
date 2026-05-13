@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10937
+! Total Channels: 10932
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1691,16 +1691,13 @@
 @saveanimalslover
 @arcrescue
 @spiritofthewildai
-@animalrescuewarningwar
 @animalrescuest
 @ainimalrescue
 @untamedrescuesyt
 @sam_documentary
-@jollydailygt
 @wildrescueal
 @njstoryofficial
 @animalrescuemoments-g1s
-@spiritual-animals
 @rescuestories007
 @wild-relief
 @dogtotherescue
@@ -1739,8 +1736,6 @@
 @aiasmr-s5x
 @asmr-ai-8
 @user-qc8eq6it6v
-@aiasmr_satisfying1
-@satisfy_ai_asmr1
 @artificial-ai_edite
 @moonhugai
 @aiasmr-2
