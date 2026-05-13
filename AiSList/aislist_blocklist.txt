@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10824
+! Total Channels: 10819
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3701,11 +3701,9 @@
 @DepthoftheSoulS
 @PsychInsight-139
 @TheHFYChronicles1
-@HFYChroniclesCosmos
 @HYF-FireintheVoid
 @Scifiuniverse1
 @SciFiRealmExtra
-@RealidadSeg%C3%BAnLaCiencia
 @SapiensAplicada
 @Estrellasretro-TV
 @Thynksee
@@ -3719,17 +3717,14 @@
 @DepthPsychologyHub
 @psychologyscholar
 @PsychLens25
-@Jungian_Psychology1
 @Buffettunfiltered
 @unboringfinance_official
 @TheKenzoGuy
-@stateeconomy
 @JhonFeeds
 @Dolorpintadoyt
 @explicadorsencillo
 @bitacoraoculta
 @DerR%C3%A4cheresp
-@Maxstone010
 @Aeelu-v7q
 @mejoradiaria
 @ELT%C3%8DOFRONTAL
