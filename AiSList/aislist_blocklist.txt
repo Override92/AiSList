@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10872
+! Total Channels: 10867
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2737,7 +2737,6 @@
 @meowmoments-x7q
 @meowuniverse99
 @magiccats11
-@meowfamilymoments
 @prehistoriccreatures9
 @ai_meow_cat
 @talking_angela3
@@ -2788,10 +2787,8 @@
 @aicatvideos_official
 @aifunnycat44
 @aivideostou
-@gtalent4
 @aimeowerstory
 @aicatstory-e6f
-@catstory-h9s
 @guligul-u9k
 @citycatai
 @catstory-p9z
@@ -2799,14 +2796,12 @@
 @BabyPawsMoments-1
 @HuskyOps
 @AntioneOdo
-@hearttalksify
 @mindlapse.official
 @anfacraft6770
 @TheUnheard1283
 @BritainInBattle-u4n
 @WW2Uncovered-v6z
 @Schmre
-@WWIIUntold-k7k
 @WW2Explained.channel
 @ThisWarDocumentary
 @warfrontarchive-z6y
