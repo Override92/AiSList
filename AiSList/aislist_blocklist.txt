@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11006
+! Total Channels: 11007
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11022,3 +11022,4 @@
 @HistoricSkylines
 @echobarrow
 @HistorieZostaja
+@WstawajBracie
