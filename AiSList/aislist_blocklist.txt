@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10799
+! Total Channels: 10794
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3996,7 +3996,6 @@
 @Revengebytruth83
 @Renacimiento_Oscuro
 @AKDesperterInterior
-@Sabidur%C3%ADaCotidiana-k1b
 @SilentDiscipline-d7x
 @Psicolog%C3%ADa.Oculta1
 @MonaEnigmaEng
@@ -4018,7 +4017,6 @@
 @Millionaire_Romance_us
 @ToanNguyen-my5ez
 @BossoftheUnderworld
-@Ben%C3%ADtezMysteryFiles
 @enigmasarqueologicos7
 @HerBillionaireHero
 @PassionateMemories
@@ -4040,7 +4038,6 @@
 @LovingVoices-m3s
 @SolenthaStories
 @cerebrodesilicioIA
-@HisFianc%C3%A9e23io
 @incrediblestories4286
 @RevengeWithBethany12
 @RevengeStorm-p6v
@@ -4048,7 +4045,6 @@
 @jawerlydiaries
 @ProudVeteranStories
 @304WivesClub
-@RegencyLoveStories-EN
 @VeteranTruths-911
 @silenttruthstales
 @thefarmerstruth
@@ -4075,7 +4071,6 @@
 @IronHeartsChronicle
 @amigoshouse1026
 @TortureofEchoesTV
-@EverydayValorStories-o3t
 @StoriesofLoveSecrets
 @TheTaleTrove102
 @Quiet_Betrayals
