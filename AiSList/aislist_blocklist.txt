@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11000
+! Total Channels: 10982
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -360,7 +360,6 @@
 @Meo_i7
 @Meow-Guardian
 @MeowMotionAi-g3o
-@Meowmeowmotion-b1w
 @MeowMotionAi25
 @MeowMotion-t4x
 @Catsmotiom
@@ -371,10 +370,7 @@
 @Meow.Motion-00
 @MeowMotion531
 @AiMeowMotion11
-@hanvi-2q
-@StoryHoodAI-r8o
 @Aistory3.A
-@HybrideExplain
 @KahaniAI-f7f
 @SherooRevenge
 @AITeluguCreations
@@ -390,7 +386,6 @@
 @sauravsingh3838
 @SiroOfCat
 @PapaAIStory
-@VikashaiStory2.0
 @MoonTalesAIvideos
 @wangming-x5z
 @Quantomphiled
@@ -406,10 +401,8 @@
 @AIStuff777
 @DasVolkDenkt
 @Freiheitspricht
-@ArozPlay
 @runwaybliss
 @Ai.nueramix
-@artificial_intelligence.ai.u
 @Satisfai_aiasmr
 @POLLOAI-VIDCREATOR
 @predmet_ai
@@ -442,9 +435,7 @@
 @Fluffytime-x4t
 @Penguin-Ai-life
 @tinyexplrrs
-@Boggling_Fact
 @PenguinOrbit
-@iconunplugged-b5q
 @UniversumDeutsch
 @Guitutorials
 @TinyKitchenStudio
@@ -463,12 +454,10 @@
 @airevolutionx_es
 @airevolutionx_fr
 @airevolutionx_pt
-@AISyncMotion
 @AlanJam-o2l
 @aliaboutine
 @DistantAI
 @epicaifilms2024
-@JudasBooth
 @KINGOFAIVIDEO19
 @loran-ai10
 @SatisVid
@@ -495,7 +484,6 @@
 @cutecat-h5j
 @catshorts-l1c
 @skull-story
-@catloverstube-e6x
 @funfactory-l4f
 @catcartoons7
 @barakahrizqquran
@@ -509,19 +497,16 @@
 @cartoonshorts-16
 @aicatsstorys
 @asmr-f6e9d
-@asmr-cutting-4k
 @crystalcutasmr-y7j
 @asmrglassfruitcutting1
 @soothingsliceasmr1
 @glassfruitscutting-1
 @glassvideos-o3o
 @glassverseasmr1
-@satisfyingasmr-fh
 @crystallinecutsasmr-j1b
 @asmrcrispfruit
 @glasscutterasmr_1
 @glasscutbr
-@theglasscutterasmr
 @bestaiasmrsatisfying
 @starasmr-w6d
 @miu_ai_studio
@@ -542,7 +527,6 @@
 @silentpalaces1
 @catmamatales
 @mothercatfamily
-@mamacatworld2025
 @mamacatfamilytnmedia
 @mamacatfamilyfun
 @hearttouchaistories
@@ -550,7 +534,6 @@
 @mamascatstory
 @mamacatfamily-ts
 @mamacatkittens-95
-@catmamadiaries-1
 @mamacatdailylife
 @animationai-v9y
 @aivideoto
@@ -562,7 +545,6 @@
 @ai.videos.ronaldo
 @aivideoanimation-s5c6v
 @zippytunes452
-@aianimationvideohk_702
 @aianimationvideo2.0
 @only-ai-short-video
 @aicartoonvideo-j1i
