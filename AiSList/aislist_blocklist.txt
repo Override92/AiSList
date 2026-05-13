@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10764
+! Total Channels: 10759
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4376,8 +4376,6 @@
 @Royal.Unfiltered
 @TheReelLineup
 @mungerslessons23
-@thelegendinvestor-n2f
-@oracleofomaha-s6u
 @jakestroy
 @PoliticoScope01
 @陶子見聞録
@@ -4406,9 +4404,6 @@
 @mysteriamentis2025
 @AlquimiaMental3
 @Anah%C3%ADra-8
-@ConsejeroJung
-@MotivaSinL%C3%ADmites124
-@Visi%C3%B3ndewalter-l6q
 @Psicovisi%C3%B3n77
 @MaquiaveloDiario
 @filosofiasinconsuelo
