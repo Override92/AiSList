@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11000
+! Total Channels: 11001
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11016,3 +11016,4 @@
 @FMLfun
 @АртемКолчин-ц1л
 @TimelessWhisperxx
+@Style_Decoded
