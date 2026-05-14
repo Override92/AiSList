@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10633
+! Total Channels: 10628
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5309,24 +5309,19 @@
 @GrunerDaumenn
 @TheRevengeRecipe
 @TheEconomicArchive00
-@buffetwisdomyt
 @truthreports24
 @buffetfinancial
 @polvopolvora
-@CapitalTransmission
 @DigitalPersons
 @CapitalUnplugged
 @FrontlineUSAX
 @CurrencyofCivilization
-@JOHNROFINANCE
 @optionandstory
 @EliteBoardroom
 @FinancialArchivist_1
-@RetirementIncomeStrategiesPro
 @MutualFundMantra-0012
 @BentalkMoney
 @TheWealthArchitect-US
-@MKstudioUnitedState
 @DeepDiveGlobal9
 @SmartCapital-g3w
 @LuminoxTerritory
