@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10287
+! Total Channels: 10277
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8385,7 +8385,6 @@
 @story_universe_M
 @Silent_Century-x2s
 @DragonAnimationClub
-@ai_story_world-c3n
 @deepnotemusic-s8n
 @nature-escape-4k
 @worldsinseconds
@@ -8394,7 +8393,6 @@
 @carcraft-f1j
 @sleep_song_baby
 @cartoon_animation_video-u6h
-@dr.noraschneider
 @iconicnewzealand
 @frontlinebriefingyt
 @basstories
@@ -8426,7 +8424,6 @@
 @lowtechgrandma
 @BananaFinancial
 @Zeroq-vids
-@nextgenwarfareusa
 @LisaInvest
 @PiotrWęgiełek
 @SmartCatLife1
@@ -8454,18 +8451,15 @@
 @TeslaCentralHD
 @circleoflifetimes
 @InkofthePast
-@S%C4%B1lentDocketYT
 @ThePatelToday
 @NexionNews
 @SagaLoreAI
 @mythsandmagicmusic
 @Thehistoryhook5
 @JohnBoringCurrency
-@%C3%9Cberlebensgarten
 @FilmsRecapped
 @Let-Me-Tell
 @TheMacroPrinciples
-@explainedhistory313
 @BeforeHistory-Official
 @ReSongPROJECT
 @EinsteinOdkrywa
@@ -8474,12 +8468,10 @@
 @VistulaToday
 @SekretyPodMask%C4%85
 @PromienieMi%C5%82osierdzia
-@KhairiRozier
 @megaprojects9649_pl
 @PLNWojsko
 @G%C5%82os-Przeznaczenia
 @ScenyHistorii
-@TheMindsLabx
 @LostCivilizationsNordic
 @360newsroomnews
 @afkar_dz
@@ -8494,7 +8486,6 @@
 @TheBlessed-SpaceOfTales
 @shortsparksenglish
 @ReligiousStoryTV
-@AGJohnOG1
 @JoelleShenassa-w6t
 @NetShort-app
 @LeoThearter888
@@ -8502,7 +8493,6 @@
 @recapqin
 @BingeLemon-7
 @DailyManhwas232
-@ManhwaAnimeStory
 @Mr.CreepinessUncut
 @GodKingDrama
 @LifeUnfolded-q1t
