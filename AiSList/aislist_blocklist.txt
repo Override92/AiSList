@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10719
+! Total Channels: 10714
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4664,14 +4664,11 @@
 @NORGEMILIT%C3%84R
 @deluxebyluk
 @Primoyang-l4b
-@VaultReality-x9g
 @CrisisLens-k9s
 @EditorialNews-j5z
 @FinanceUncovered22
 @TheSilentEconomy-e9e
 @capitalHistorian-j8r
-@MarcusBlackwellCurrency
-@FiinancialFortress
 @ThriveWithDr.Jocelyn
 @SaludMasculina50Plus
 @ThePr00cess
@@ -4681,9 +4678,7 @@
 @AshenRevenge
 @WorldlyWisdomLab
 @EconomicChronicles
-@SurpressedKnowledge
 @buriedtruths3979
-@DraIn%C3%A9sRam%C3%ADrez
 @PotenciaMasculinaDraJocelyn
 @DrMarianaSeniorWellness
 @drramani-x8e
