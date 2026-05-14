@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10628
+! Total Channels: 10623
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5327,7 +5327,6 @@
 @LuminoxTerritory
 @PowertoProfits
 @JusticeClashAmerica
-@RushdiFiles
 @InsideAmericanJustice
 @SecretValorStories
 @Dzienniki%C5%9Aredniowieczne
@@ -5341,14 +5340,10 @@
 @MemeMachiine
 @WorldofCartoon13
 @Salloia
-@DrivingMoney
 @AlexJivotis
 @githubtrendfeed
 @FinanceMeeting
-@AnatomyofMoney
 @TheWealthForecast
-@DalioSuccess
-@AsianBitcoinGuy
 @DalalStreetstories
 @RizwanSiddique-k6l
 @JohnBogleLegacy
