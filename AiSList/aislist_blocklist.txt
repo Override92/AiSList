@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10638
+! Total Channels: 10633
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5279,7 +5279,6 @@
 @TheEconomicShock
 @WebsterOfficial2
 @StockAIinsights
-@ZET-XXXIII
 @ValueInSilence
 @datalovermonsters
 @DeannAnimation
@@ -5287,13 +5286,11 @@
 @marketflux8
 @BruxTwins3T9REALRICH
 @CosmoAcademia
-@OGJohnAG-l5x
 @HistoriasConFania
 @NoirJazzCats_Playlist
 @SiliconDreamsleeper
 @Nate-Bishop
 @empireandmoney
-@BernardOrtegaAnalyst
 @YourJohnUSE
 @simplefinance00
 @FinanceCompass111
@@ -5308,9 +5305,7 @@
 @WarrenBuffetsquad
 @TheUnfoldedEra
 @ToonFanatic
-@Macrovault-d6w
 @Survivalzone12
-@HanifHussain-v1f
 @GrunerDaumenn
 @TheRevengeRecipe
 @TheEconomicArchive00
