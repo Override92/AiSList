@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10561
+! Total Channels: 10556
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5773,10 +5773,8 @@
 @DukesRoyalLibrary
 @RevengeDramaine-YT
 @PastInsideOut
-@MoonZenSanctuary
 @BangRevenge
 @BuriedTruthsStories
-@MenRevenge
 @SilentHomeSecrets
 @DukesMidnightTales
 @ConfessionT
@@ -5824,15 +5822,12 @@
 @Celtic-Moonlight
 @GreatBearMusicStudio
 @mythica-celtic
-@vocalsbeauty
 @Thelostlibrary_ElvenFantasy
 @SAIPhonic
 @DenisWestpfahl
 @FinanceDeepDive
 @JordiVisserLabs
 @MoneyMastery-b9e
-@TheForgottenRealmSoundscapes
-@financeguruvjkohli
 @JohnAGInvest
 @MofizReact
 @RevengeDailyUs
