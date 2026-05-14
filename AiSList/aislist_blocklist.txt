@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10320
+! Total Channels: 10319
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7925,7 +7925,6 @@
 @CoffeeChapterJazz
 @SoothingRainPiano
 @LofiJazzCafe-jp
-@thejazzlounge6
 @SoulJazzRnB
 @GoodCafeAmbiance
 @Lo-Fi_Mellow_Cafe
