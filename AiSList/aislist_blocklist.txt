@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10688
+! Total Channels: 10683
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4861,7 +4861,6 @@
 @scienceunlocked-y4d
 @noir.the_kitty
 @AfterAutomation
-@courtroomfiles07
 @WorldwideCourt
 @HOAOutcry
 @harborhoa_k24
@@ -4903,16 +4902,13 @@
 @CapriioCourt
 @Tajemstv%C3%ADvesm%C3%ADru2025
 @kaique-v9h
-@Crisis_Point_1
 @ConfirmadoAhora
 @ЗелёныйГектар
 @DignityStories
 @FederalInsightMedia
 @redsilence-v8o
 @MyAICareer
-@MindMeetsPhysics-o9c
 @ImaginePhysics2.0
-@LeonardSusskindfan
 @susskindperspective
 @2ILOVE12
 @TheArtofInvesting-SamZell
@@ -4926,7 +4922,6 @@
 @wisetInvestor
 @MartikFinance
 @VanillaInvestor
-@JRMotivationVideos
 @ThinkLikeJimRohn
 @AIXplore_N1
 @WW2Storys-t1p
