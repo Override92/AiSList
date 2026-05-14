@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10683
+! Total Channels: 10678
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4937,15 +4937,12 @@
 @VoiceofWar0
 @WW2ForgottenVoices-q5m
 @VoicesOfWWII
-@SleepWiseStories
 @DavesDividendLab
-@LateWisdomStories
 @BuffettBrain-p2h
 @CriticalLimitYT
 @TheFinancialLedger-k3t
 @devrajchaudhary4677
 @ImagineTheUniverse-1M
-@Blackmondayhorror-s3e
 @WWTales1945
 @BuffettWisdomHubYT
 @INVESTORALARM
@@ -4970,8 +4967,6 @@
 @HERO_HAVUC
 @HerocamAI
 @tunz_tube
-@CurrencyArchiveJonAG
-@BoringMarket
 @Freshwibe
 @CAPITALCURRENCY_08
 @TheCurrencyWarning
