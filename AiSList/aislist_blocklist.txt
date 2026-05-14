@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10663
+! Total Channels: 10658
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5031,7 +5031,6 @@
 @21levelpl
 @thatiskarma
 @givemeromance
-@warmhandswildlife
 @johan_andi
 @kilometroceroo
 @heroesinmortales-2
@@ -5039,7 +5038,6 @@
 @sabiduriajudiaeterna
 @conductajudia
 @jungyelcodigodelostraumas
-@conocimientojudioespanol
 @asisomoses
 @raicesolvidadas1
 @ensenanzajudia-b5z
@@ -5070,8 +5068,6 @@
 @oracioninspirada
 @ensenanzasbiblicasprofundas
 @caminodeoracion-v1l
-@ventanaluzyverdadalfanpage
-@enquies
 @detrasdelpoderbukele
 @caminoalexitosantandreu-z1d
 @comprenderlafisicaconfeynman
@@ -5086,7 +5082,6 @@
 @SilkRoadDiaries25
 @Narvik_Stories
 @VtipyaSmiech
-@SzeptPragnie%C5%84
 @BohaterowieWojny
 @SkarbWiedzy
 @OstatecznyWyrok
