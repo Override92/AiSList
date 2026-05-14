@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10648
+! Total Channels: 10643
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5193,8 +5193,6 @@
 @kryptokonzil-podcast
 @TheFinanceLedger7
 @courtroom.archive
-@velocityalphafinal
-@JohnEconomic-o9x
 @DailyIANEWS
 @arkdigital1575
 @TheFinancePrism
@@ -5206,7 +5204,6 @@
 @Empire-of-MoneyOfficial
 @BeforeWeUnderstand
 @MillionairesInvestmentSecretx
-@JamieDimonMindset-05
 @financecentral9064
 @WW2Veils
 @UnheardStories-f6p
@@ -5221,11 +5218,9 @@
 @WW2Frontliner
 @WW2EdgeStories
 @WW2WingsStories
-@MoneyMentor-e3d
 @StressRelief-l2p
 @WealthWise-i1q
 @S%C5%82ynnepliki
-@marketpulsenexus
 @InvestiCore-v9o
 @FinSightCapital
 @CapitalFinance-f3c
