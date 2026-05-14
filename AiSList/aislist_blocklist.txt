@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10467
+! Total Channels: 10457
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6372,25 +6372,16 @@
 @misssamantha_ph
 @capitalpivot
 @freedomfeedusa
-@currencyarchive3
 @bosknll
 @softstepsasmr-yt
 @markkollarretirementexpert
-@scarcitybrain
-@economiccountryfinance
-@mmabuzzofficial19
 @spiacynaukowiec-h2p
-@realvillagelifetv-r2w
-@raybuildsai
-@annayorktv
 @joncvvault
-@podersinlimites1-m8k
 @omniverse-global
 @DeepWaveDiscovery
 @RenovationVision
 @wwii-battlefronts1
 @Kuzniaumyslu2
-@darinmo5016
 @ZeroToLuxuryTV
 @HiddenJusticeArchives
 @2ndAmendmentInsights
@@ -6414,7 +6405,6 @@
 @thewelth
 @LARRYSURVIVOR
 @laucam.studio
-@TaylorDreamss
 @DignidadSinFIltro
 @MidnightStorytelling-g9g
 @JusticeOnTape
