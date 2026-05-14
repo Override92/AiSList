@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10392
+! Total Channels: 10382
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7043,9 +7043,7 @@
 @anu_akbar
 @toracatdiary
 @saludfacil-d7v
-@faithsermonstrategy
 @untoldfact_s
-@neonnoirfiles
 @hlstories-u5j
 @karmaechostories-c8e
 @truthpulsenews4
@@ -7060,27 +7058,21 @@
 @wieczorneopowiesci
 @zmieniajaceprzeznaczenie
 @desivlog-9y
-@fact-x-star-z7u
 @cocobunnyrhymes10
-@billionaire_vision1
 @mrvlogsentertainment1
 @ogjohnag2.00
 @connectioninsights
 @thechronolithfiles
-@justicenewsmaddow
 @poweroverhistory
 @sleepwise_official
 @thepawpsychology
 @dharmendra-l5w8m
-@brainhiddenfiles
 @novaclipz101
-@mandelamindset_2
 @dubaireveals
 @hoastories450
 @logikaciala
 @sladykopyt
 @tar_animation
-@wealthtalkspodcast
 @kfl1900
 @magicpawtales_0
 @G%C5%82osStoicyzmu
@@ -7101,11 +7093,9 @@
 @SuperRescue-n3s
 @endure-earth
 @WildCatRescue
-@FrozenHumanity-d7k
 @frozenlivestv
 @NextGenGigaFactory
 @WildReliefTV1
-@31Canvas
 @ZeroDegreeChronicles
 @NordicGrounds
 @SleepyScrolls12
