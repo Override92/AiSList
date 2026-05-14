@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10658
+! Total Channels: 10653
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5093,8 +5093,6 @@
 @SuperKidsRhymes-s9r
 @rhymerealkids
 @WealthLab-r6e
-@Animalemotion9
-@Babymelon-j1v
 @VoidOfFears
 @TheTwistedDream
 @TeenStorySchool
@@ -5115,7 +5113,6 @@
 @WWVanguardOfficial
 @WarfrontRewind
 @CrimsonLegacyHistorians
-@CosmaraSpace
 @JohnBattleDiaries
 @sleepyhistoriantonigh
 @MilenaWiseAdvice
@@ -5128,10 +5125,8 @@
 @WWII-Unseen-Stories
 @LoveBeyondThePorch
 @WisdomPuppy
-@thelasthonestadvice_____20
 @TheHiddenBobDylanStories
 @WisdomThroughTime99
-@HouseofDarkConfessions
 @stoicthinkers1
 @ElderlyPrimeHealth
 @The.World.Revolution
