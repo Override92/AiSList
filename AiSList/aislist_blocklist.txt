@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10432
+! Total Channels: 10422
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6732,10 +6732,7 @@
 @TheAsianGuy-JohnAG
 @Johnnagg
 @TheFeynmanPhysics-3.5M
-@Feynmanphysics012
 @ThriveTribe-c3v
-@HiddenUniverse-k1s
-@ImaginewithFeynman
 @richardphysicss
 @PhysicsasToldbyRichardFeynman
 @Feynmanciencia
@@ -6745,14 +6742,11 @@
 @TheFeynmanEquation
 @PhysicsVisions
 @FeynmanExplainsPhysics-w5o
-@richardthelegend8
 @PlumbingTheCosmos-r8k
 @TheHustlePhilosophy
 @Podziemnalojalno%C5%9B%C4%87
 @Czarnalojalno%C5%9B%C4%87
 @WieczorneOpowie%C5%9Bci
-@AudioMi%C5%82o%C5%9B%C4%87prezesa
-@Opowie%C5%9BcizCienia-hb
 @Odkrytesekrety
 @PotomkowieGalaktykiSCI-FI
 @WojenneEcho
@@ -6767,7 +6761,6 @@
 @hoarevengestories-o2d
 @HOA_Madness_YT
 @HOADramaStoriess
-@HOARegretStories
 @BrightReality-v8g1v
 @HOANightmares-n1w
 @Karen_DiariesYT
@@ -6798,9 +6791,7 @@
 @KarensRulesYT
 @HOAChroniclesUncovered
 @HOAPatrolYT
-@HeartlandRuralStories
 @TheHOAUnleashed
-@WhenJusticeSpeaks-q9b
 @HOATALES-22
 @HOALoudPower
 @MyNightScience
@@ -6822,7 +6813,6 @@
 @theeconomyhistorian
 @Late_Science
 @WhatStayed-r9j
-@LaurinPonceAdvice-i4g
 @shortstory804-c5q
 @shadows_of_the_frontline
 @therightreport-g7w
