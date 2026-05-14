@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10613
+! Total Channels: 10608
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5403,15 +5403,12 @@
 @TheDregoEffect
 @BrainRotRecords-Official
 @TimeSmiles
-@tungtunganomalii
 @BrainrotMemeSquad
 @MoonCinema007
 @sliro.a
 @BrainrotDrop
 @SKYArtAi
 @misteripek
-@JohnOGReport
-@paradigmcapital_fanchannel
 @lazyninja3
 @mat-siems-production
 @doodleclarity
@@ -5419,7 +5416,6 @@
 @SamuraiGirl-official
 @MindsetMechanics-c9k
 @capitalnexusws
-@turningpointchapters
 @SaudadeArcade
 @BriefUpdate
 @DraftScience
@@ -5448,7 +5444,6 @@
 @TheHoatales-t4e
 @blackTale-1
 @SPLENDIDTALES
-@StoryNest-e7w
 @HOATales-h2u
 @HOAVictims
 @HOAGoneWild
