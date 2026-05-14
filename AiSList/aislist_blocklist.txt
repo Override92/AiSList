@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10526
+! Total Channels: 10516
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6046,17 +6046,14 @@
 @ourjohnag
 @JohnAGVault
 @Dollarstormofficial
-@SilverSentinel-g1x
 @YourJohnAGInvestments
 @BoringCurrencyInsights
-@JohnAGEconomy
 @MrJohnAG-l3e
 @BTEOfficical
 @CrystalMindAudio
 @MacroShieldMethod
 @JohnAGDaily
 @UnsolvedEvidence1
-@ushistoryinminutes
 @Alpacinostories
 @WildRealityyy
 @IanVonKira
@@ -6080,21 +6077,16 @@
 @Mathproven
 @bruceleediaries
 @BruceLeeTheDragonsChronicles
-@PhysicsbyFeynmann
 @mindofeynman
 @richardfeynman67
 @FeynmanReborn
-@InsideFeynman
 @feynmanarchives
 @EinsteinClarifies
-@FeynmansInsights
 @FeynmansBlackboard
 @TheSusskindUniverseExplained
 @CosmicWisdom93
 @macrofold
 @BeyondPhysics-i7o
-@SaganAnalysis
-@CanadaAmericaDaily
 @prayer_faith
 @BrusliLee-z3x
 @LearnWithFeynman
@@ -6104,10 +6096,8 @@
 @TheCuriousPhysicist-l3n
 @FeynmanLegacy
 @RichardFeynmanMindset-i2l
-@TheFeynmanPerspective
 @DeepPhysicsYT
 @physicunfolded01
-@curio-j9p
 @FeynmansWisdom
 @FeynmanExplainsPhysics1.2m
 @ssmusicusa
