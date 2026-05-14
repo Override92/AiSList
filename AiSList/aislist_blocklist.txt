@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10673
+! Total Channels: 10668
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4977,10 +4977,8 @@
 @SmartCurrencySignals
 @NOBLEBUILLIONNEWS.0
 @RichDuckInvests
-@TheFinanceGuy_19
 @HarrysStealthWealth
 @wymazane
-@primeglobalintellect
 @FutureFinanceLab1
 @Otterspace-Lofi
 @LofiAilurophile-lq4oi
@@ -5018,16 +5016,13 @@
 @AimusicMT-w6o
 @StrategiaWojny-o6x
 @Bazooka46
-@%D0%95%D0%B2%D0%B0%D0%9B%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BF4%D0%B8
 @inferenc_es
 @cvpmn
 @GwiezdneOpowie%C5%9Bci-h4v
 @GalacticWitness
 @briangreene-q4x
 @RavComm
-@FeynmansThoughts-b3o
 @GwiezdnaPodr%C3%B3%C5%BCSciFi
-@Niesamowitehistorieka%C5%BCdegodnia
 @DziennikZemsty
 @Pre-CodeCinema
 @mattinvestsUS
