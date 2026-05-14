@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10352
+! Total Channels: 10342
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7213,14 +7213,10 @@
 @her-life-storie
 @forbiddencamp
 @animeexplaineddailypro
-@cinemapulse_officle
 @notsuitguy
-@barelyhumanpov
-@quizdoji_yt
 @profjiang123
 @fabiendekosmos
 @TheShelterProject181
-@The_1800s
 @ArcticSurvival-tv
 @FarmerTales_YT
 @AmericanRewindChannel
@@ -7231,7 +7227,6 @@
 @MidnightArchive-y7p
 @HiddenCamEvidence
 @BlackChronicle-b2b
-@CowboySomber
 @mindbaffled
 @IntoThePastStories
 @aminuteterror
@@ -7289,7 +7284,6 @@
 @BravePaws_I
 @crimenighttime
 @EchoesOfService01
-@CryptidsUnfiltered
 @truestoriesvault-t7c
 @mr.Hark1
 @sketchedtale
@@ -7302,12 +7296,10 @@
 @MessengerofGod-
 @ArchivalTerrors
 @crocaze
-@RachelMaddow-u1y
 @TheBibleStoriesYT
 @RestWithChristYt
 @KazmiSye-j8m
 @DrJakeTaylor
-@purelongevitylife
 @DrMichaelKent-m2d
 @Dr.ThomasSeniorHealthTips
 @ClaireWhitmoreSeniorsHealth
@@ -7337,7 +7329,6 @@
 @amrarafa4352
 @FurFriendsVillage
 @Blizzard-band-cr
-@Techsplainer-d5d
 @osso-so
 @GeopoliticalBriefNow
 @HiddenEpochHistory
@@ -7350,7 +7341,6 @@
 @Loggs090
 @BoringRichh
 @ProfessorPortfolio
-@Footmorphstudio
 @LostRecords22
 @AnimalAttack-Ai
 @bytewatchreport
