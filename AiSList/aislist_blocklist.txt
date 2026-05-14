@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10342
+! Total Channels: 10332
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7351,7 +7351,6 @@
 @TalentShow-4
 @BaleineAnime
 @Jojolimo
-@TinkrWithMe
 @calderonbridger
 @twiz27
 @howtothomasyt
@@ -7367,9 +7366,7 @@
 @SeniorCareConnection
 @TheNutritionCode-j6w
 @purelyhealth-tips
-@Dr.DavidBennett
 @foodhealth-z1f
-@Dr.PaulRobinson
 @HealthFixNow
 @senior-healthblog
 @DOCTOrALLEXFORHEAlTH
@@ -7389,15 +7386,12 @@
 @AlanPolitics
 @ProfJiangAcademy-123
 @Faith_Spotlight
-@%E9%A6%AC%E9%9B%B2%E7%9A%84%E6%95%B8%E4%BD%8D%E4%BA%BA
 @PowerfulMind-o7q
 @BibleFiles365
 @TheOrcChronicles
 @HealthModoTips
 @ElderCareWellness1
-@Dr.EmilyCarter68
 @Dr.MayaVitalCore
-@EleanorVanceHealthinLaterYears
 @MERCEDESSO-c5n
 @SeniorHealthLife60
 @DrThomasSeniorCare
@@ -7413,14 +7407,10 @@
 @aiframeshorts
 @survivalengineering3
 @loquenoseve15
-@herquietvalor
 @americanewsdesk-d7y
-@pawdecode-v6h
 @mmanewshub19
 @gofinance_official
 @tonykz888
-@forbiddencamping-ag
-@thestoicpathin
 @अकितरॉय-----य-क
 @cbrtheorypractice
 @ourworld-estv
