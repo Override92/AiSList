@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10714
+! Total Channels: 10709
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4687,9 +4687,7 @@
 @BackdoorEconomics
 @TheShadowLedger-e2q
 @AnoshaYoutube
-@eduforcrypto
 @OGJohnAG2.0-g9z
-@ThinkLikeMungerAcademy
 @AxelineOfficial
 @RykerDean445
 @FinSpheresGlobal
@@ -4713,10 +4711,7 @@
 @WarrenBuffettMotivation-l8n
 @FINANCEVIBE-d6u
 @Finigma-c8k
-@HistoriasalLímite47
 @WhatWhereWhyHistory
-@MONEYBANGERs
-@DailyFinanceLog
 @JohnAGThinks
 @SoulStoriesX-1
 @MarketIntelligence-hy
