@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10402
+! Total Channels: 10392
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6955,7 +6955,6 @@
 @GenFlix1
 @NightmareFrames-l2k
 @Terrorath
-@Milcz%C4%85cyHistorycy
 @InnowacjeRzymskie-v2t
 @NocnyMitologg
 @MakeTheseMovies
@@ -6966,12 +6965,10 @@
 @DubaisDestiny
 @HistorieUkryte
 @KronikiFrontu
-@redstatefiles
 @Moneynationpowerglobal
 @FinancialInsight990
 @EchoesOfWealth-o6x
 @MindShiftwithJiangXueqin
-@TheGlobalBriefing-o5g
 @Capitalovertime
 @nestalgiamusic
 @BauernSch%C3%A4tze
@@ -6987,9 +6984,7 @@
 @MetalPrompt
 @BriefingDeck
 @DalyBrief
-@HawkExplained
 @IronLensBodycam
-@Daviddesk
 @canadatomorrow-1
 @maplemarketbrief
 @SurvivalCamping7
@@ -7005,9 +7000,6 @@
 @ClarkAnalysis
 @BarefeildStories
 @LucyLorthobrok
-@AdvancedWorld-c2b
-@SystemowyOgr%C3%B3d3
-@GeoEconExplained-p4j
 @TheTechLogYT
 @TheCloudXBerry
 @LabofDub
@@ -7046,12 +7038,10 @@
 @finova24
 @HistoriaBezLito%C5%9Bci
 @beyondtheveil2222
-@guerraysombra
 @doyouknow-x7x
 @loverumi-2q
 @anu_akbar
 @toracatdiary
-@laughreactor24
 @saludfacil-d7v
 @faithsermonstrategy
 @untoldfact_s
