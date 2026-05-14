@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10697
+! Total Channels: 10692
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4828,18 +4828,13 @@
 @LibertyFinancialHistorian
 @WolffAn%C3%A1lisisGlobal
 @DiariodeEconom%C3%ADa
-@TheZantaTalks12
 @FinoraTV
 @IndependentEconomicAnalyst
-@ghostnumbers3750
 @FeynmansMindset031
-@Whatisreal-e6f
 @MehboobKhan-u5j
 @CinematicEmpireArchives
 @MonetryHeretic
 @EconomicalWarning
-@globegigle
-@FinancialFred-j3d
 @DanielWhitmanPol
 @TheScribeOfFinance
 @iranusaNews
