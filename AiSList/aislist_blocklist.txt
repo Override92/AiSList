@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10709
+! Total Channels: 10703
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4718,7 +4718,6 @@
 @StockVerseUSA
 @GPPodcast-y5s
 @aibuble
-@economy_fastforward
 @FinnsDaily_1
 @imaginarii-videos
 @CichaNauka0
@@ -4736,12 +4735,9 @@
 @PlainFinanceYT
 @mirada-p
 @suenos_de_mar
-@코리아더블류
 @curiobitsdaily
-@crezy..mahee.o
 @lifeofthemilo
 @guntactix
-@cutedanceindan
 @MarketDecode-n3j
 @15MinuteInvestor
 @littletrumpcartoons
@@ -4749,8 +4745,6 @@
 @saleemkhan-l8b3y
 @Inerturium
 @LiminalStages
-@Finree-01
-@ValueInvestorAlert14
 @WeveSeenThisBefore
 @BoringDollar
 @IanOchiengAI
