@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10229
+! Total Channels: 10224
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4348,8 +4348,6 @@
 @TheReelLineup
 @mungerslessons23
 @jakestroy
-@PoliticoScope01
-@陶子見聞録
 @AmorVitalTV
 @MujeresdeLuzyAmor
 @C%C3%B3digoChiaraviglio
@@ -4805,7 +4803,6 @@
 @CinematicEmpireArchives
 @MonetryHeretic
 @EconomicalWarning
-@DanielWhitmanPol
 @TheScribeOfFinance
 @CalmFinancialHistorian
 @ThroughBritishEyes
@@ -4960,7 +4957,6 @@
 @PrimeFit-YT
 @SaludenPractica
 @MundoDeFuerza
-@thekaizenpath_yt
 @DespiertaTuMejorVersion1
 @MisteriosdeShinn
 @DecretoFortuna
@@ -5172,7 +5168,6 @@
 @EmpireEconomics101
 @ChillinFunky-c4k
 @Empire-of-MoneyOfficial
-@BeforeWeUnderstand
 @MillionairesInvestmentSecretx
 @financecentral9064
 @WW2Veils
