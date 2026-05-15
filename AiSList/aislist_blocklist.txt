@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10251
+! Total Channels: 10246
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6661,7 +6661,6 @@
 @WarfareTalks
 @HardwarePulse-v9u
 @Valtaris
-@StormNews0
 @DanielSatoNews
 @NavyClash
 @JackNewsUSA
@@ -6674,8 +6673,6 @@
 @KentMent-f5i
 @oldmansanimation
 @ShadowSelfRevealed
-@alanwattsteachings-h5n
-@AlanWattsUniverse-n1z
 @therealeconomy9
 @The-Capital-Desk
 @johnag-r3d
@@ -6822,7 +6819,6 @@
 @cool_techplus2753
 @WarfareShadows
 @Charlies-zay
-@canadapensionhelpdesk
 @TheHOAInsider-f2u
 @TheHOADiaries-z9s
 @FreedomTales-g9n
@@ -6854,7 +6850,6 @@
 @%C5%9AladyKopyt
 @Hubble_plpl
 @NotiFlash-v8p
-@VELIXusnews
 @GeoGlobal360
 @PuntodeConflicto1
 @JackSo-g1t
