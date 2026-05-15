@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10238
+! Total Channels: 10239
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10254,3 +10254,4 @@
 @TLCDRAMALIVE
 @RevolverRoomStudio
 @ForbiddenVault7
+@GalaxyTheorist
