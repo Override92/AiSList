@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10212
+! Total Channels: 10206
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8365,7 +8365,6 @@
 @Socialsurge01
 @ProfessorJiangGlobalCuration
 @warnomics-342
-@ProfessorJiangInsight
 @ProfessorJiangMindset
 @echotronu
 @StanislawWisniewiecki
@@ -8673,7 +8672,6 @@
 @Proton-z1y
 @OGALEXAG-v3y
 @Astro_EngIIneer
-@WarAlert24
 @GlobalCrisisNews-e7u
 @gulfpulsenews
 @KosmicznyAlarm
@@ -8683,7 +8681,6 @@
 @EmotionalJusticeStories
 @BeyondMansion
 @thepowerofhopeSE
-@GentleCareStories
 @afrokoreannarratives
 @AfrokoreanCrossroads
 @MrPetersFamily2
@@ -8803,7 +8800,6 @@
 @chinchan21
 @autorecenzje
 @storieswithmandy
-@yourjohnaj2
 @stimmederwahrheit-a
 @thecanadian-report
 @eatatyourownriskyt
@@ -8818,7 +8814,6 @@
 @parbejanimalcreatestudio
 @wealth_wisdomyt
 @theexplainer223
-@soulsyncstories-z7q
 @jinifam
 @MarketPrognosticator
 @Noem_AI
@@ -9934,7 +9929,6 @@
 @wiseprep12345
 @heartbreakfiles7
 @plainlyexplained_yt
-@rutina-l5l
 @profshinmarkets
 @merenguemix68
 @updateswithjudgenapolitano
