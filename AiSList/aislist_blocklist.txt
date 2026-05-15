@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10230
+! Total Channels: 10231
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10246,3 +10246,4 @@
 @Biovision2.0
 @AgriTechSmart
 @SurvivalLostVault
+@TheNewFront1
