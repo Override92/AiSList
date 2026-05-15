@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10205
+! Total Channels: 10207
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10221,3 +10221,5 @@
 @baladasinolvidables-o6w
 @mwtalkk
 @마트맵
+@bambiememes
+@navydebrief
