@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10198
+! Total Channels: 10199
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10214,3 +10214,4 @@
 @genewealthtv
 @revengezone-s5e
 @TheForgeEmpire
+@StormChant
