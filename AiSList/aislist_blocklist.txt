@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10203
+! Total Channels: 10197
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3165,7 +3165,6 @@
 @AmazingOurEarth
 @UncoveredSecrets-k4f
 @TheShipLine
-@CANADAPENSIONTALK
 @ThePatelReport
 @Black_LegacyTv
 @SoldierSignal2
@@ -3586,13 +3585,10 @@
 @TheMoneyVault-h6y
 @moneyuntold_786
 @boglesWay0
-@JohnAGAlert
 @EconomicRecords
 @EconomyUnfilteredTV
 @ArchiveCurrencyAG
 @TheChizzyCurrency
-@JonConnecting_Currency
-@FinanceReality-z3v
 @MacroFinanceExplained
 @EngineeredMarkets
 @Sidney_Explains_Money
@@ -3700,7 +3696,6 @@
 @PsychLens25
 @Buffettunfiltered
 @unboringfinance_official
-@TheKenzoGuy
 @JhonFeeds
 @Dolorpintadoyt
 @explicadorsencillo
@@ -3871,7 +3866,6 @@
 @noorFatima-z5m8j
 @RevlineMedia-t9b
 @LuxuryCars-x9v
-@AUTOCARSINFO-m9k4z
 @Next-GenCar
 @CarBeats-g4n
 @TopupcomingCar
