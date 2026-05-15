@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10236
+! Total Channels: 10237
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10252,3 +10252,4 @@
 @CosmosDustTalks
 @imansiraj-tm3wp
 @TLCDRAMALIVE
+@RevolverRoomStudio
