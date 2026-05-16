@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10256
+! Total Channels: 10255
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3932,7 +3932,6 @@
 @BlackFreedom2
 @TheRiversideTavern
 @thefolkdices
-@JusticiaFr%C3%ADa091
 @LucasHerreraVozdeHistorias
 @JusticiaVoz
 @StoryMania-b1u
