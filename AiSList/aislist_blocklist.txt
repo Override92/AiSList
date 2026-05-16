@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10260
+! Total Channels: 10259
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8013,7 +8013,6 @@
 @UkryteOdkrycia
 @WielkaStopaprawdaczymit
 @ArchiwumHistorii-g3c
-@POZAOFICJALN%C4%84HISTORI%C4%84
 @Praecz
 @FLAGSQUIZ
 @BruceSpringsteenEsp
