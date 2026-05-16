@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10257
+! Total Channels: 10254
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1175,7 +1175,6 @@
 @t_ai_x
 @relax-journal
 @gigglebots-k2i
-@spark_honey_pop
 @bravogaming-ik7bw
 @clipverseofficial3d
 @whiskerwheels_12
@@ -1282,7 +1281,6 @@
 @uniquevlog-s6c
 @cutecataibrain
 @trendingupdates12-k8v
-@babylover-i6u
 @pixelpulse3z
 @shahidshantho
 @chandni-j8t
@@ -1463,7 +1461,6 @@
 @aitechnologywithme
 @cow-ai-videos
 @cowaivideo-h8l
-@aishorts-u5j
 @ai_shorts_pr
 @tales_of_jo.y
 @mrdipoktantidancer
