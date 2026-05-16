@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10245
+! Total Channels: 10240
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3139,7 +3139,6 @@
 @PenguinTales-h4v
 @Wikifino
 @libraryofterence
-@TheLanguageLibrary
 @HistoricReelsAI
 @TheStoicEnglish
 @TheHistoryAnalyst
@@ -3262,7 +3261,6 @@
 @cowboycampfirechronicles1
 @SeagalStories
 @HeartEchoStories-YT
-@EchoesofHonor-z7v
 @TheEternalGuardWatch
 @SAGEstories3
 @Tales.oftheHeart
@@ -5623,7 +5621,6 @@
 @Thinking_Experiments
 @TejahanumanPala
 @HoryzontxZdarze%C5%84
-@WORLDWARIIISPARK
 @FreshHealth_Facts
 @motivationcomplex
 @Official_CapitalRewind
@@ -5707,7 +5704,6 @@
 @EmpireEconomic
 @BibleOrigins1
 @SoapOperaInsider
-@ScreenwritersCheatCode
 @HumbleRevenge
 @HerJustice-t7p
 @Africantalebyene
@@ -5722,7 +5718,6 @@
 @HeartJournals
 @goldrevengestory
 @Stories-b1r
-@HisSilences1
 @BlakeStoriesYT
 @RevengeEpisodes_1
 @NeverTooOldChannel
