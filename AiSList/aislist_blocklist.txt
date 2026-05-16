@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10245
+! Total Channels: 10240
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5427,7 +5427,6 @@
 @LittleLife-Dipikaji
 @MarketRulesthatmakemoney
 @RealEstateDramaStories
-@TheOversightDesk8
 @MoneyHauL
 @BusinessBooksKeyIdeas
 @MapleMoneyTalks-e2g
@@ -6170,7 +6169,6 @@
 @FinanceMeetsForce
 @tajemniceancestralne
 @AtTanzeelQuran
-@CanadaPensionPlan-c7o
 @RetirePathCanada
 @TheCanadaChronicles
 @CanadaPensionNewsBulletin
@@ -8218,7 +8216,6 @@
 @junglewizards
 @SecretsofWorldWarII-e2w
 @Danielreedshow
-@DailyReportNews-o8u
 @TheBriefCritic
 @StateAffairsDaily
 @Ścieżka_Wewnętrzna
@@ -8264,7 +8261,6 @@
 @druckenomics
 @naturevibes-b1l
 @drmairamalikofficial
-@thepowerbrief92
 @silvermereaudio
 @familyrevengefiles-s5p
 @richard_wolff
@@ -10007,7 +10003,6 @@
 @BENHODGESREPORT-h5l
 @BenHodgesUpdates
 @BenHodgesCentral
-@BenHodgesREPORT
 @FinanceDeciphered
 @Historygraphy11
 @worldrarecoins096
