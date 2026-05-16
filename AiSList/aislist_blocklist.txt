@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10255
+! Total Channels: 10254
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6227,7 +6227,6 @@
 @Thesilverdrosser
 @TheBullionBossOfficial
 @MarketingbyVijay
-@Modern-Beacon
 @ThePowerOfYou1
 @Peaktoon
 @OtnielThigpen-l5e1f
