@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10240
+! Total Channels: 10235
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5974,7 +5974,6 @@
 @NeighborWarsYT
 @HOAHunter
 @TheCheater2209
-@JusticeRevealed12
 @AmericanMarketDesk
 @GlobalizingEconomy
 @formalfinance33
@@ -6169,12 +6168,8 @@
 @CanadaGlobalEconomics
 @SophieBennett0
 @FinanceMeetsForce
-@CanadaPensionUpdates
-@SeniorLifeCanada
 @tajemniceancestralne
 @AtTanzeelQuran
-@MAPLEPENSIOUPDATE-g7b
-@SeniorBenefitsInsider-e5n
 @CanadaPensionPlan-c7o
 @RetirePathCanada
 @TheCanadaChronicles
