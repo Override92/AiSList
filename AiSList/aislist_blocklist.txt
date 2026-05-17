@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10274
+! Total Channels: 10269
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3151,7 +3151,6 @@
 @CGTioMusic
 @TheFeynmanLab
 @TheFatCatReport
-@ปรวฒนธรรมภกด
 @tvstarsbiography
 @EuropaWillRise
 @AncestryDecoder
@@ -3358,7 +3357,6 @@
 @UltimateRevenge-p9u
 @WWII-Unlocked
 @RevengeSignal-w9c
-@Honorvoices1
 @JusticeMyWay
 @RevengewithClaireUs
 @TrueEmotionsHub0
@@ -3576,7 +3574,6 @@
 @FiatFilesCurrency
 @TheMoneyVault-h6y
 @moneyuntold_786
-@boglesWay0
 @EconomicRecords
 @EconomyUnfilteredTV
 @ArchiveCurrencyAG
@@ -9260,7 +9257,6 @@
 @masoncanadianguy
 @finalpayback-h4c
 @tekingame
-@australiapensionalertzone
 @diy_finance_hacks
 @thesilverrabbi
 @drdavidfoster
@@ -9428,7 +9424,6 @@
 @karmafailed
 @hoastoryhub-q4h
 @slowianska-dusza-ks
-@drfraserphd
 @warfaredecode
 @mwtalk-d1w
 @restorefusion
