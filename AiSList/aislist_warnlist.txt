@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 530
+! Total Channels: 531
 
 ! Entries:
 @CinebotComedy
@@ -552,3 +552,4 @@
 @ForgottenMoments5343
 @HamstersWorkSongs
 @chill_duck_lofi_2412
+@TheHiddenMenu
