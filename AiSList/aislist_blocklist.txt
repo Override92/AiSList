@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10308
+! Total Channels: 10304
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8190,7 +8190,6 @@
 @OanhH%C3%A0-i5g
 @geostrategic22
 @%E4%BA%BA%E7%94%9F%E6%99%BA%E8%80%85
-@%E7%B1%B3%E9%A3%AF%E8%AA%AC%E4%BA%8B
 @tillynorwoodhq
 @MikrofonunRuhu
 @TheCapital_Edge
@@ -8520,7 +8519,6 @@
 @drmichaelcarter1
 @oanhha-i5g
 @人生智者
-@米飯説事
 @sciezka_wewnetrzna
 @as17kingraj
 @wiadomoscizfrontu
@@ -9650,7 +9648,6 @@
 @ChillwithTaiki
 @Arshannetwork
 @NolanHayesBrief
-@parallaxreal
 @BBSInformativo
 @VividReport
 @verumthemysteries
@@ -9716,7 +9713,6 @@
 @Journeyinsidefactory
 @seedkeeper.y
 @The-Value-Oracle
-@Atlas-Decode
 @VeloraStarlight
 @VisionCity7
 @TheDreamMetropolis
