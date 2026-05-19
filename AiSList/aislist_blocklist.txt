@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10406
+! Total Channels: 10407
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10422,3 +10422,4 @@
 @SovereignMind-1122
 @immortal_stories-3000
 @werewolf-romance-love-stories
+@alba-romance-library
