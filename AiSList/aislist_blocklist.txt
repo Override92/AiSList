@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10434
+! Total Channels: 10435
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10450,3 +10450,4 @@
 @ASMRchill8888
 @NeonNerveASMR
 @dreamlogic.ASMR.0
+@Slow_Pulse_ASMR
