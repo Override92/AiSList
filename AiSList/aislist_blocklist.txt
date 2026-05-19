@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10377
+! Total Channels: 10372
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4784,7 +4784,6 @@
 @TheScribeOfFinance
 @CalmFinancialHistorian
 @ThroughBritishEyes
-@krugmaneconomicclarity
 @F%C3%ADsicaSinFronteras
 @MenteInquebrantable.100k
 @MindHaven_withJung
@@ -4819,7 +4818,6 @@
 @OvertheFence3
 @HOATALESSTORIES-w5y
 @W%C4%85tekpomys%C5%82u
-@ReadTrade
 @ShadowSystems_OG
 @HOATIMELINE
 @PolicyHOA
@@ -5282,7 +5280,6 @@
 @githubtrendfeed
 @FinanceMeeting
 @TheWealthForecast
-@DalioPrinciples80
 @Successstrategies-v8t
 @WHATJUSTHAPPENED-YT
 @MoneyGuideUk
@@ -5547,7 +5544,6 @@
 @LinuxTechAI
 @Historyvintg
 @musibnewsfan
-@SajalSwapnil12
 @BankenHistorike
 @vaultofdiscovery
 @hiddensignalsfficial
@@ -10196,7 +10192,6 @@
 @catversecinema
 @lbiskiss3
 @eltronoylagloria
-@gentlecomfort-w2d
 @kozmio
 @manisha9570
 @veelog-f7o
