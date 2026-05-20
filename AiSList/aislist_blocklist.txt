@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10496
+! Total Channels: 10495
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3361,7 +3361,6 @@
 @footballexplained01
 @MatureElegance50
 @explained-US
-@สุจิตราอ่อนละมุล-ฟ1ฎ
 @OGAsianGuy
 @InfluenceCircuitTV
 @HOAStories68
