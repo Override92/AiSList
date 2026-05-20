@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10603
+! Total Channels: 10602
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9897,7 +9897,6 @@
 @DocTalksYT
 @GlobalAffairsDebate
 @gerygotkin8847
-@ramC-y3r
 @AlexKrainerOfficial
 @MacroDecoded07
 @currencyinsider_786
