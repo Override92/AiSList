@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10608
+! Total Channels: 10607
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8625,7 +8625,6 @@
 @KitsuneAIMusic
 @RichardWykoffTradingMethods
 @animalsrescue9621
-@CelestialRunwayAI
 @DreamAIASMR234
 @ZestLens25
 @AnnaMazurWiadomo%C5%9Bci
