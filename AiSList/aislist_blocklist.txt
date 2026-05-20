@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10451
+! Total Channels: 10452
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10467,3 +10467,4 @@
 @itssniks
 @crazycooker-t9e
 @TheFallOfNations
+@thisisJazzCo
