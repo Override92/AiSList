@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10598
+! Total Channels: 10596
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5226,7 +5226,6 @@
 @simplefinance00
 @FinanceCompass111
 @ADragonNaturally
-@Aimusictrendsforlive
 @VionixMusic12
 @novabeatsrecord
 @hakimthanh
@@ -5236,7 +5235,6 @@
 @WarrenBuffetsquad
 @TheUnfoldedEra
 @ToonFanatic
-@Survivalzone12
 @GrunerDaumenn
 @TheRevengeRecipe
 @TheEconomicArchive00
