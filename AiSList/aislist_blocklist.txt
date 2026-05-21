@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10612
+! Total Channels: 10608
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4885,7 +4885,6 @@
 @Jack_AT
 @BuffetKnowledgeHub
 @AIforGood
-@PrinciplesofMoney-h7g
 @TheFinanceGuyOfficial
 @SilverAIWealth
 @Vreviewdotinfo
@@ -6467,7 +6466,6 @@
 @historyempiresog
 @EchoesofTruth-q2b
 @Willnews-k8r
-@CombatTechZone
 @CanadaForever-c4r
 @CanadaHousingInfo
 @WaggleAid
@@ -6762,7 +6760,6 @@
 @TheHOADiaries-z9s
 @FreedomTales-g9n
 @HOASTORIESUS-14
-@MediaTano
 @vidaloka4230
 @habiburrehman8474
 @thenwhathappened38
@@ -6791,7 +6788,6 @@
 @NotiFlash-v8p
 @GeoGlobal360
 @PuntodeConflicto1
-@JackSo-g1t
 @KwantowyOdkrywca
 @GlobalEconomyexplained
 @revengetalessd
