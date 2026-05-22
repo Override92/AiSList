@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10717
+! Total Channels: 10716
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9389,7 +9389,6 @@
 @thetrendwhisper199x
 @elitebinaryhub
 @professorpolicyinsights
-@earthescapestv
 @ZeroGenProcess
 @JapaneseClassicSoundscapes
 @GrowthAnimation
