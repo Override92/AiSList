@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10798
+! Total Channels: 10795
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2397,7 +2397,6 @@
 @NextGenAI-k7b
 @SilentLedger1
 @catsstoryal
-@catcuteanimal056
 @animalcatai-u1v
 @funnycatanimalsshow
 @dailyfunwithkittens
@@ -3805,7 +3804,6 @@
 @LaVerdaddeCarlos-e5r
 @VenganzaCorporativa0
 @REDDITSECRETOS-y3e
-@Kookee-ze1ro
 @bi-o-LE-ta
 @ConflictosFamiliares-68
 @HistoriasdeAntonio
@@ -9694,7 +9692,6 @@
 @tartariahistorian
 @BlackboxDE
 @FAQ-Manuals
-@lainguy8609
 @elianarosa2168
 @currencyag
 @NiftyHustler
