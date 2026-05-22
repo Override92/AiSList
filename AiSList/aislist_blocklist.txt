@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10714
+! Total Channels: 10711
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6646,7 +6646,6 @@
 @HoaTalesYoutubeStories
 @hoarevengestories-o2d
 @HOA_Madness_YT
-@HOADramaStoriess
 @BrightReality-v8g1v
 @HOANightmares-n1w
 @Karen_DiariesYT
@@ -6701,7 +6700,6 @@
 @WhatStayed-r9j
 @shadows_of_the_frontline
 @admin_sacredembergospel
-@aiasmrbrain
 @wspanialedwory
 @kosmirex
 @earnsecretpro
@@ -10484,7 +10482,6 @@
 @The_Economy_Report
 @TheAsianReport-ttt
 @TheGeopoliticsReport-x1l
-@ThePrimeReport12
 @visualreport1
 @AGTears
 @AGTStars-x1d
