@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10724
+! Total Channels: 10719
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8141,7 +8141,6 @@
 @SKMTweetExpert
 @ProfessorJiangEconomy
 @viralvidv
-@pawrescuestories-n8c
 @LittleSoulStories-s8g
 @Blaze_Pop_Music
 @YtAhmedSain
@@ -8646,7 +8645,6 @@
 @MUSIC-AND-SONGS-ai
 @BruceLee.TheDragonsLegacy
 @bruceleelegacyusa
-@AlertWireNews2
 @PoliticalSignalDesk
 @StrategicReport-SR
 @cosmiclawsexplainer
@@ -10432,7 +10430,6 @@
 @DaliosWorld
 @RayDalioHub2
 @Charlie_invest
-@GoldSilverSignals
 @SilverGuruJohn
 @GoldSilverDaily-s9x
 @Thesilverscenario
@@ -10490,8 +10487,6 @@
 @RedLineReport-p9e
 @RedLineReport99
 @REDLINEREPORTS-x3w
-@SANTheDailyReport
-@SovereignReport-t5s
 @The_Economy_Report
 @TheAsianReport-ttt
 @TheGeopoliticsReport-x1l
