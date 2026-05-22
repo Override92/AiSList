@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10725
+! Total Channels: 10720
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2285,7 +2285,6 @@
 @crystal_slice_asmr
 @spi-nal
 @prismslice_asmr
-@glasssliceasmr0007
 @crystalaismr
 @crystalvibeofficial
 @crystalfruitasmr-l6d
@@ -5605,7 +5604,6 @@
 @JesterEngine
 @Neural_Lens_Music
 @DecodeDiaries1m
-@themarketmechanic
 @arwaskitchenofficial
 @our_pup
 @sakoondill-x4m
@@ -9539,7 +9537,6 @@
 @The-Value-Compass
 @VivraAI
 @World-Explained-Hub
-@Legacy-of-Capital
 @Value-Empire
 @CrisisinPerception
 @BeforeYouRegretIt-l2u
@@ -9981,7 +9978,6 @@
 @theinstinctinvestor
 @RETAILMORTIS
 @updatefanpage
-@AlbertaSpeak
 @FrontlineReport-b5z
 @hardware-radar
 @AIInsiderTalk
@@ -10435,7 +10431,6 @@
 @BuffettHorizon
 @WarrenBuffett_Blueprint
 @ProBuffetHQ
-@DalioDecoded
 @DaliosWorld
 @RayDalioHub2
 @Charlie_invest
