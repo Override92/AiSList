@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10720
+! Total Channels: 10719
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4232,7 +4232,6 @@
 @ElP%C3%BAlpitoNacional
 @ZonadeImpacto2
 @WolffNoticias
-@CarlosMorenoYTT
 @RichardWolffHoy
 @noticiasescalantes
 @HollywoodenVoz
