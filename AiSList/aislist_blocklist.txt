@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10723
+! Total Channels: 10722
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3271,7 +3271,6 @@
 @SwatPower
 @SimpleThingsHistories
 @ValhallaDrums
-@TimeyKids
 @BrightMindFunTime
 @Smallkid-s4y
 @SweetPebble
