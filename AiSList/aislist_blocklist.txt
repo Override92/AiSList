@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10911
+! Total Channels: 10906
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4201,7 +4201,6 @@
 @yikesproduction
 @hemavathishetty3423
 @Avispaceloeb
-@GlobalBrief78
 @DCDailyBrief
 @NARCIFIC-t6h
 @USAuthorityNews
@@ -5223,7 +5222,6 @@
 @TheRevengeRecipe
 @TheEconomicArchive00
 @truthreports24
-@buffetfinancial
 @polvopolvora
 @DigitalPersons
 @CapitalUnplugged
@@ -5977,7 +5975,6 @@
 @bruceleediaries
 @BruceLeeTheDragonsChronicles
 @mindofeynman
-@richardfeynman67
 @FeynmanReborn
 @feynmanarchives
 @EinsteinClarifies
@@ -9858,7 +9855,6 @@
 @ProfJiangDoctrine
 @RioMarksFinance
 @WarDispatch-t8x
-@DocTalksYT
 @GlobalAffairsDebate
 @gerygotkin8847
 @AlexKrainerOfficial
@@ -10687,7 +10683,6 @@
 @RedlineUSNewsvideos
 @WarReportandHub
 @BenHodgesInsightes
-@statereporthd
 @dream.surfer69
 @RaptoCo
 @WastelandRaccoonUSA
