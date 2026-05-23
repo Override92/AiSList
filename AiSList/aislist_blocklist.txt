@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10907
+! Total Channels: 10902
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -7047,7 +7047,6 @@
 @wibumaingu
 @aamirfoundation.1
 @heyvideoeditor
-@thedispatchwire
 @militaryengineer1
 @amitraveli
 @richardlnvestsus
@@ -9885,7 +9884,6 @@
 @rapidalertnews
 @Buried_History_with_Jonathan
 @BenHodgesReports
-@BENHODGESREPORT-h5l
 @BenHodgesUpdates
 @BenHodgesCentral
 @FinanceDeciphered
@@ -9898,9 +9896,7 @@
 @SoftTideASMR
 @AtlasClassifiedOfficial
 @FurRiffStudio
-@Compounding-Wealth-9
 @Timeless-Investing-q
-@IntelligentCapital-2
 @Money-Lessons-9
 @Value-Voyager
 @MoonwaveLoFi-j3m
@@ -9921,7 +9917,6 @@
 @PeterInvests-us7
 @MajidLabs
 @DocuNix
-@TheOmaha-Ledger
 @WorkZone-s3w
 @WorldPolitics-r1z
 @MUSKRECORSD
