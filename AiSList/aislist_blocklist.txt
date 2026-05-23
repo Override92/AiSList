@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10883
+! Total Channels: 10884
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10899,3 +10899,4 @@
 @DustyTrailTales-y5z
 @battlefield.history
 @wildamericadocs
+@GeorgesHistory-t3p
