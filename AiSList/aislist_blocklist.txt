@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10898
+! Total Channels: 10894
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9576,7 +9576,6 @@
 @ancienteditions
 @ChroniquesduMondeAncien
 @FragmentsdHistoire-h5x
-@mayshintaakeumala8577
 @RumiHunterStorie
 @CityFall-k6b
 @SEEstes3
@@ -9713,7 +9712,6 @@
 @traiciondesangre09
 @empathuniverse-b9p
 @johnwillermegamed
-@globalreports-q5g
 @globalgospelvibes-f1r
 @wwiiuntold-02
 @seniorhub-z7i
@@ -10477,7 +10475,6 @@
 @realtalknachrichten
 @AtlasFinance1
 @Banthefinancialhistorian2
-@Bilvafinance
 @Bobfinance-US
 @BobyFinance
 @BroomFinance
@@ -10511,7 +10508,6 @@
 @scifihfychronicles
 @Cosmic_Sketchlab
 @NorthBorderBriefYt
-@ParliamentPunches
 @PowerTrendPolitics
 @SpeedyScienceShortsS
 @FactoFauna25
