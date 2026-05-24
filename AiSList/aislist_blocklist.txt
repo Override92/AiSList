@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 10898
+! Total Channels: 10894
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8228,7 +8228,6 @@
 @sillyme6906
 @S_A_F_Production
 @FruitLoveTheory
-@silvermarketuncovered
 @ModernWisdomTales
 @weselmekanik
 @story_universe_M
@@ -8426,7 +8425,6 @@
 @caffe-lune
 @haretaro-animesongs
 @CinemaAfterHours-b
-@Quiet-Compounding-q
 @AISponge3
 @US.NewsReport
 @ShadowCamping-y3p
@@ -8671,7 +8669,6 @@
 @tapesgmod
 @TechVisionUSAOfficial
 @shivsahu6939
-@WealthSecretsHQ-s8m
 @HuldraoftheNorth
 @SpiritoftheVillage
 @WhiskeyLead-y6o
@@ -9382,7 +9379,6 @@
 @HOACore
 @AncientWhispersYT-p3s
 @Dailyarsenal-k6u
-@103YearsofWisdom
 @MarkDouglasWisdomFans
 @HardMoneyBrief
 @RainlightFilms
