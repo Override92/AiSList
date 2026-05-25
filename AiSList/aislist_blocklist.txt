@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11162
+! Total Channels: 11163
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11178,3 +11178,4 @@
 @CanadianWeatherAlert
 @CanPulse360
 @Chatty_Historian
+@ChosenRevenge
