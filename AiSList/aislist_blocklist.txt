@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11184
+! Total Channels: 11185
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11200,3 +11200,4 @@
 @FaithForge-t2v
 @Famousbrandhistory
 @FiatHistory
+@ForbiddenEmberOfficial
