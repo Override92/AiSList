@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11242
+! Total Channels: 11243
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11258,3 +11258,4 @@
 @CapitolUncutUSA
 @USCanada-q4p
 @RevengeWithLucie9
+@IronRootSurvival
