@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11051
+! Total Channels: 11052
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11067,3 +11067,4 @@
 @ElfaeLune
 @yrp_ch
 @fictionalfilmsai
+@promptrevolution
