@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11115
+! Total Channels: 11116
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11131,3 +11131,4 @@
 @HistoryAIVids
 @TheStreetsOfAi
 @CelticRealms
+@GlamAI_Zone
