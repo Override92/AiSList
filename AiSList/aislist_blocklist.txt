@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11021
+! Total Channels: 11022
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11037,3 +11037,4 @@
 @InterestingFactsClub
 @LibraryofThoth
 @LostAmericanMemories
+@MakeriumOfficial
