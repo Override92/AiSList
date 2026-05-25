@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11109
+! Total Channels: 11110
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11125,3 +11125,4 @@
 @nova_ai_films9090
 @BharatArora
 @stryderHD
+@Gossip.Goblin
