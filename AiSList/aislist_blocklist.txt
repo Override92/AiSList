@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11153
+! Total Channels: 11154
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11169,3 +11169,4 @@
 @BlushRomanceDrama
 @braincient
 @Brainexq
+@BrainwaveWorkspace
