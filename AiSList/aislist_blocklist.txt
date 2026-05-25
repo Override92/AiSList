@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11034
+! Total Channels: 11035
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11050,3 +11050,4 @@
 @secretoriginsofficial
 @The_Lying_Pie
 @The_Modern_King
+@ThelazydetectiveYT
