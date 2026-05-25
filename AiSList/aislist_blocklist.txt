@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11028
+! Total Channels: 11029
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11044,3 +11044,4 @@
 @MoonlightNovel
 @Programming_Flow
 @RetrofuturaAI
+@RevengeBrokenTrustUS
