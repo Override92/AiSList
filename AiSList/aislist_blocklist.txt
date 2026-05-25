@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11151
+! Total Channels: 11152
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11167,3 +11167,4 @@
 @BilgeRatsYT
 @BloodRoseChronicles
 @BlushRomanceDrama
+@braincient
