@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11269
+! Total Channels: 11270
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11285,3 +11285,4 @@
 @MidnightheartSecrets
 @FantasyRemaster
 @TheStillNorthFilms
+@SoundPulse-mv6jk
