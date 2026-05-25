@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11160
+! Total Channels: 11161
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11176,3 +11176,4 @@
 @CanadasInsider
 @CanadianCounter
 @CanadianWeatherAlert
+@CanPulse360
