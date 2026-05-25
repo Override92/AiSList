@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11253
+! Total Channels: 11254
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11269,3 +11269,4 @@
 @MrRetired-y2b
 @StrategicFrontNews-1
 @WesternLoveNovels-u2f
+@WorldTruthExposed
