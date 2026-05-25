@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11023
+! Total Channels: 11024
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11039,3 +11039,4 @@
 @LostAmericanMemories
 @MakeriumOfficial
 @MasseyFergusonFarm-o6o
+@MaxAfterburnerusa
