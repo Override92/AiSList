@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11096
+! Total Channels: 11097
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11112,3 +11112,4 @@
 @ClockworkDimensions
 @NotNetflixBut
 @MianjiVeggieStudio
+@RishiRoy-k3l
