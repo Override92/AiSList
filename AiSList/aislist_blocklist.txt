@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11223
+! Total Channels: 11224
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11239,3 +11239,4 @@
 @SciFiGalaxy-h9n
 @ScottRitterUpdates
 @brave-paw-chronicles
+@TalesUnfoldedd
