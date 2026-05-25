@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11272
+! Total Channels: 11267
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3833,7 +3833,6 @@
 @StrongSeniors365
 @BioWellnessZone
 @HealthBite-1M
-@CrownmarkVector
 @CarVerse
 @noorFatima-z5m8j
 @RevlineMedia-t9b
@@ -5501,7 +5500,6 @@
 @DaddyStories-88
 @66nature
 @ShiningTalesofLife
-@FluffyAnimalTales
 @HerMissionStories7
 @AfricanSoulNarratives
 @GlobalExploreNetwork
@@ -6109,7 +6107,6 @@
 @FinanceMeetsForce
 @tajemniceancestralne
 @AtTanzeelQuran
-@RetirePathCanada
 @TheCanadaChronicles
 @CanadaPensionNewsBulletin
 @RachelMaddowFanHub
@@ -6618,7 +6615,6 @@
 @PhysicsByFenyman
 @EnvisagePhysics
 @TheFeynmanEquation
-@PhysicsVisions
 @FeynmanExplainsPhysics-w5o
 @PlumbingTheCosmos-r8k
 @TheHustlePhilosophy
@@ -9867,7 +9863,6 @@
 @Industara
 @RebuildX9
 @AntWarsusa
-@rapidalertnews
 @Buried_History_with_Jonathan
 @BenHodgesReports
 @BenHodgesUpdates
