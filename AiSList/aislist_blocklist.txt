@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11195
+! Total Channels: 11196
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11211,3 +11211,4 @@
 @hereticmp4
 @HightechzonebyMAHEER
 @HistorianNobodyAskedFor
+@HistoryJourno
