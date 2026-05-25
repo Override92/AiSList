@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11045
+! Total Channels: 11046
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11061,3 +11061,4 @@
 @Void_DriftFM
 @AmberLoungeBGM
 @primalpredatorx
+@DimensionalDiary-g2b
