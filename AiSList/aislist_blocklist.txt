@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11181
+! Total Channels: 11182
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11197,3 +11197,4 @@
 @ElvisPresleyBehindtheLegend
 @Emet315
 @EnjoyJazzYT
+@FaithForge-t2v
