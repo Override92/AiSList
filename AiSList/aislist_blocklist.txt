@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11076
+! Total Channels: 11077
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11092,3 +11092,4 @@
 @WorldsBeyond-AI
 @Echoes-past
 @thestorygate-q8d
+@FelineAIStudio
