@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11260
+! Total Channels: 11261
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11276,3 +11276,4 @@
 @DAILYSTORMNEWS
 @northamericanewshub
 @ArcanumMedia
+@HiddenDesires-d3o
