@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11340
+! Total Channels: 11341
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11356,3 +11356,4 @@
 @backdoormonkeys
 @primalstickman
 @FarhanAli-j8f8i
+@tarobhaiprince
