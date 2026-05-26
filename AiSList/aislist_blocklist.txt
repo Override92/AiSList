@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11287
+! Total Channels: 11288
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11303,3 +11303,4 @@
 @Hidden_in_History-o7m
 @BuilttoRotYT
 @robbig4134
+@OnyxHouse-b8u
