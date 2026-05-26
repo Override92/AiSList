@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11293
+! Total Channels: 11292
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10428,7 +10428,6 @@
 @LateNightReport-u6m
 @NewYorkReports1
 @NordReport
-@PrimeReports-m5n
 @rapidreportmedia
 @RedLineReport-p9e
 @RedLineReport99
