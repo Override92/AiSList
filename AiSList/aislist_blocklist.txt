@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11339
+! Total Channels: 11340
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11355,3 +11355,4 @@
 @夢見-年内300人目標
 @africantalesbychinma-e3k
 @starchasemedia
+@goldenaiaeon
