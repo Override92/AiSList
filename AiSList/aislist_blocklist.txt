@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11280
+! Total Channels: 11277
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5561,7 +5561,6 @@
 @Official_CapitalRewind
 @oneminutefinance
 @InvestKnow
-@DaliosFramework
 @TalkTickersPodcast
 @EcnoVerse
 @WealthifyYt0
@@ -9399,7 +9398,6 @@
 @tiffytotstv
 @bosanovalounge
 @mbreports-n4n
-@navyhubreal
 @archiwahistori
 @laverdadoculta-r9u
 @newstousa
@@ -9704,7 +9702,6 @@
 @qteclips
 @samrayreoung-kakada
 @justicetrend-n8b
-@hiddenframework-v9b
 @drama.remix2m
 @aelwynmusic
 @behindtheeconomy-h6z
