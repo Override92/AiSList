@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11297
+! Total Channels: 11298
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11313,3 +11313,4 @@
 @Noor_E_Hidayat-786-p
 @AustinInvest
 @MidnightSecrets-f3s
+@Forever-Tales-z1v
