@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11283
+! Total Channels: 11281
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8863,7 +8863,6 @@
 @ai_art5
 @auraa_asmr
 @islamictalks-b9f
-@tuanhanoilife
 @thesoulsofmusic
 @thehiddenheirtales
 @quietwealth-y5x
@@ -8873,7 +8872,6 @@
 @stylish_actress
 @jpmorganfinancehistory
 @tonyinvestigates
-@neurasongs
 @theclinthub
 @design_hustel_67
 @健康講人生
