@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11281
+! Total Channels: 11282
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11297,3 +11297,4 @@
 @blues_therapy
 @RustBluesRadio
 @TheInteractiveArchive
+@ChronoScripts
