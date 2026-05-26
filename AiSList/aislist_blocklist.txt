@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11295
+! Total Channels: 11293
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -811,7 +811,6 @@
 @vintagejazzno1
 @ayurdocnoush
 @aihindinutrition
-@animationtaleshub
 @catbeingcatx
 @chillchat-n3y
 @catplaytimeworld
@@ -1003,7 +1002,6 @@
 @cutekittenginger
 @gingercatstory-2811
 @mamacatdailytales
-@cattalesofficial-t2f
 @mamacatand-kittens
 @mamacatmoments-g4l
 @catmeowcares
