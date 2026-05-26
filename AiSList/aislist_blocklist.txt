@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11276
+! Total Channels: 11275
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -260,7 +260,6 @@
 @ElsieFisher-i3f
 @JellyJam-q4o
 @Laugh2cry
-@CutecatAI-Kakada
 @PakeezasCat
 @AIMeow-kitten
 @CatimationAI
