@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11316
+! Total Channels: 11317
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11332,3 +11332,4 @@
 @Food4Facts
 @learnlib
 @AncientWorldSleepDocs
+@FaunaFieldnotes
