@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11311
+! Total Channels: 11312
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11327,3 +11327,4 @@
 @WarZoneRadarNews
 @HQFamilyFiles
 @Itzquanta
+@TheCelebStory-official
