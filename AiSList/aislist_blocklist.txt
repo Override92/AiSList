@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11285
+! Total Channels: 11284
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6971,7 +6971,6 @@
 @ErasedCentury
 @miniverse-x1l
 @limencore
-@zorrodeoroclub
 @cosmiclogic.1
 @rachelmaddowreportss
 @truemenspeak
