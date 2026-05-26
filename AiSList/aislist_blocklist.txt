@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11289
+! Total Channels: 11286
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5068,7 +5068,6 @@
 @StoicSelf112
 @ThePsychemist
 @oxwilll
-@investireparatodoss
 @TradeEveryMinute
 @OnePercentFinance26
 @Economic_Edge_YT
@@ -8937,7 +8936,6 @@
 @Mananambience
 @CalebsConflictReport
 @TheMorningBellAI
-@Oracles-Lette
 @Overscaled
 @RichHabitsss
 @mrbyte-exp
@@ -9693,7 +9691,6 @@
 @midnightuncovered-g3h
 @sangreyarchivo0
 @traiciondesangre09
-@empathuniverse-b9p
 @johnwillermegamed
 @globalgospelvibes-f1r
 @wwiiuntold-02
