@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11341
+! Total Channels: 11340
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4990,7 +4990,6 @@
 @SilkRoadDiaries25
 @Narvik_Stories
 @VtipyaSmiech
-@BohaterowieWojny
 @SkarbWiedzy
 @OstatecznyWyrok
 @DzikiZach%C3%B3dHistorii
