@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11411
+! Total Channels: 11407
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9721,7 +9721,6 @@
 @wingsofwarr
 @ww2hidden101
 @BIBLESTORIES-g4d4o
-@Ideas-Behind-Power
 @TheMotionTheory
 @SeveredSoul-44
 @VoiceHouse-e1z
@@ -9729,7 +9728,6 @@
 @Anne-bloom
 @lunaitsme_official
 @DecodingTheDark
-@TheDreamMetropolis
 @FantasyartwithAI
 @UsNexTech
 @PenguinAITech
@@ -9777,7 +9775,6 @@
 @incredhistory
 @OutfoxApocalypse
 @GrindnGroove
-@CosmicHippoSounds
 @OurForgottenWorld
 @FugazyFilmsAI
 @AncientMemoriaHistory
@@ -10739,7 +10736,6 @@
 @alphamindset-f6v
 @ethansenginetips
 @thepropheticwatch-3.5m
-@ChillBestSong
 @BritishWarArmory
 @ToolsofWar-TV
 @BritishWarplanes
