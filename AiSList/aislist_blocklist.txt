@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11390
+! Total Channels: 11391
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11406,3 +11406,4 @@
 @TajemnicaPrzesz%C5%82o%C5%9Bci
 @SliceOfScience
 @SusskindPhysicsLab
+@TheUniverseWithSusskind0
