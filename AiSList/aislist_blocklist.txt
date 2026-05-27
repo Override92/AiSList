@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11348
+! Total Channels: 11344
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4873,7 +4873,6 @@
 @BNGQUEENC
 @WeisheitdesKapitals
 @thefoodshow587
-@fidastock
 @HERO_HAVUC
 @HerocamAI
 @tunz_tube
@@ -5210,7 +5209,6 @@
 @TheEconomicArchive00
 @truthreports24
 @polvopolvora
-@DigitalPersons
 @CapitalUnplugged
 @FrontlineUSAX
 @CurrencyofCivilization
@@ -6564,7 +6562,6 @@
 @RubyReports
 @WarfareTalks
 @HardwarePulse-v9u
-@Valtaris
 @DanielSatoNews
 @NavyClash
 @JackNewsUSA
@@ -9395,7 +9392,6 @@
 @jiangsinfiltro
 @catsstoryk8s
 @mojeebalrouh
-@amstudio6s
 @birthdaypartymusicofficial
 @frankys_nostalgie_tv
 @drmarcusreed
