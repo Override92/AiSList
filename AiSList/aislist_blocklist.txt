@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11378
+! Total Channels: 11379
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11394,3 +11394,4 @@
 @SangAuto
 @BabciaWyja%C5%9Bnia
 @SielskaBanda
+@TheOneMrAbyss
