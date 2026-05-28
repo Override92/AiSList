@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11403
+! Total Channels: 11402
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8459,7 +8459,6 @@
 @SanchezWyja%C5%9Bnia
 @Mrrecappedofficial
 @SPACE_LABb
-@MonsterXStudio
 @actorscutyoutube
 @MichaelJacksonLifeStories
 @TheUnforgettable07
