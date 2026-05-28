@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11399
+! Total Channels: 11396
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4038,7 +4038,6 @@
 @AlexaCruz-d1w
 @HistoriaGrandiosa
 @PalaciosMalditos
-@historiasobreruedass
 @escandaloenlasociedad
 @Hijos_del_Poder
 @ApellidosMalditos
@@ -4114,7 +4113,6 @@
 @HistoriadeHispania-d3s
 @ElHistoriadorConsciente
 @LoQueSomos-es
-@Celebrityvibeus
 @Ruta-Narrada
 @H%C3%A9roesInmortales-2
 @AmoresdeHonorEterno
@@ -11279,7 +11277,6 @@
 @CitrusEchoDrama
 @CorporateReckoningStories
 @MargoReddit
-@RedditNarration-z7p
 @SheKnewEverything
 @RealUntoldDadStories
 @JordansRevengeDramaine
