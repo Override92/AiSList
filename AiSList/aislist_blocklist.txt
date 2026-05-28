@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11397
+! Total Channels: 11398
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3499,7 +3499,6 @@
 @HistoryVersez
 @The.Sultanate.channel
 @pastuncoveredhere
-@ComfyHistory101
 @TheUnchartedMysteries
 @UnchartedEarthYT
 @SleepyTimeHistoryYT
@@ -3564,7 +3563,6 @@
 @TheUntoldEmpire-t7e
 @FinanceEconomistt
 @FINACEWAR
-@FinalCurrency
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
 @MissileDiscovery
@@ -11413,3 +11411,6 @@
 @dad.alonestories
 @tsn7914
 @jmcshorts-c8y
+@professorjohnexplains
+@shortdang-n1n
+@tasnimnewsagency205
