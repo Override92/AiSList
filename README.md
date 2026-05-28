@@ -33,12 +33,12 @@ Don't forget to set your username in the settings.
 |------|-------------|---------------|
 | 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 1929 |
 | 🥈 2 | [@www2](https://github.com/www2) | 1876 |
-| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 353 |
+| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 394 |
 | 4 | [@Oflogon](https://github.com/Oflogon) | 342 |
-| 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 283 |
-| 6 | [@tomjas1963](https://github.com/tomjas1963) | 223 |
+| 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
+| 6 | [@tomjas1963](https://github.com/tomjas1963) | 226 |
 | 7 | [@magikarp](https://github.com/magikarp) | 217 |
-| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 191 |
+| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 192 |
 | 9 | [@Kasumi](https://github.com/Kasumi) | 179 |
 | 10 | [@pingwin](https://github.com/pingwin) | 134 |
 
