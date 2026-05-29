@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11407
+! Total Channels: 11402
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5050,7 +5050,6 @@
 @LivingwithWisdom6070
 @TheNamTapes
 @StoicPro
-@StoicSelf112
 @ThePsychemist
 @oxwilll
 @TradeEveryMinute
@@ -5140,7 +5139,6 @@
 @MetalMindFinance
 @MrAG_Asian_Guy
 @Sleepy-Scribe-q4i
-@TrueMarketLens
 @JohnAGSilverInvestor
 @FinancialUpdates7
 @MarketAura-d4n
@@ -5414,7 +5412,6 @@
 @HoaStories-f9d
 @KarenFallout-w5e2i
 @sufyanofficial-b6t
-@KarenExpuesta
 @HiddenTaleYT
 @TalesThatTouch-2
 @dollarlogic17
@@ -6816,7 +6813,6 @@
 @THEDELISTED
 @MetalPrompt
 @BriefingDeck
-@DalyBrief
 @IronLensBodycam
 @canadatomorrow-1
 @maplemarketbrief
@@ -6894,7 +6890,6 @@
 @mrvlogsentertainment1
 @ogjohnag2.00
 @connectioninsights
-@thechronolithfiles
 @poweroverhistory
 @sleepwise_official
 @thepawpsychology
