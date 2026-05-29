@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11403
+! Total Channels: 11399
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3093,7 +3093,6 @@
 @WhisperAnimalsTales
 @DreadMemoir
 @BodycamFiles-1
-@TheVeteransStory
 @ILivedToTell-qx
 @MeaningfulLifeStoriesTV
 @legendarynhls
@@ -3232,7 +3231,6 @@
 @GlobalStoryX
 @StoriesDreams-o3y
 @TacticalPursuits-h7e
-@wildweststorytelling
 @cowboycampfirechronicles1
 @SeagalStories
 @HeartEchoStories-YT
@@ -10581,7 +10579,6 @@
 @HiddenModeYT
 @SimpleWomenStory-e8b
 @CanadaCurrent-z4q
-@RedlineUSNewsvideos
 @WarReportandHub
 @BenHodgesInsightes
 @dream.surfer69
@@ -11022,7 +11019,6 @@
 @CrystalMoonStudio
 @Bennyssai
 @PageTurnerTrailers
-@AI-ESR
 @AIStoryGardenbd
 @Bowaha
 @Anime.A.I.
