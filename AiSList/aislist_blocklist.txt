@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11439
+! Total Channels: 11440
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11455,3 +11455,4 @@
 @Sidewalksymphony-g1b
 @StageGenius
 @magictalentus
+@TalentArenaShow
