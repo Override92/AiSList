@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11458
+! Total Channels: 11454
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6448,7 +6448,6 @@
 @ShadowPioneers-j9q
 @WW2_Diaries_US
 @WWIIAcademy
-@profjiangxueqinreport21
 @Alexis_memesyt
 @TalkofAfrica360
 @PhilippineDefenseUpdate
@@ -8275,7 +8274,6 @@
 @Cr7Versex
 @user-e5h1q
 @BeyondDiscoveries
-@Daliolab
 @Jennysfolksandtales
 @Talesbyonyii
 @Africanfolktalesbykm
@@ -9848,7 +9846,6 @@
 @WW2Savage
 @iNews_Sverige_info
 @InterestingHistoryLore
-@OGJHONAG3
 @MarketMeridian-j6v
 @CapitalCycles-1
 @RetroGamerLofi
@@ -10411,7 +10408,6 @@
 @StrategicEconomy
 @Viraleconomicsoffical
 @WealthBeforeWealth
-@WorldEconomyUnfold
 @BLACKMARKET_FILES
 @MarketSecretsNow
 @Marketsir
