@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11422
+! Total Channels: 11423
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11438,3 +11438,4 @@
 @CreativeTVArt_Decor
 @Warfare_Decoded
 @DalioDecoded-f1c
+@BlindspotFiles
