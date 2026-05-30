@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11454
+! Total Channels: 11452
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5691,7 +5691,6 @@
 @DenisWestpfahl
 @FinanceDeepDive
 @JordiVisserLabs
-@MoneyMastery-b9e
 @JohnAGInvest
 @MofizReact
 @RevengeDailyUs
@@ -5839,7 +5838,6 @@
 @QuietConfessionsYT
 @HouseholdRevenge
 @HeartfeltBetrayals
-@GrimRevenge-q5x
 @RiseAfterBetrayal
 @luckycoincidences
 @PiecesStoriesLove
