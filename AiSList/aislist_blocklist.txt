@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11447
+! Total Channels: 11444
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -692,7 +692,6 @@
 @bravestorychannel
 @rescuetales38
 @catsvideo-c7x
-@puppystoriestv
 @heroanimals001
 @catandpuppyrescuetails
 @veggiefun89
@@ -8446,10 +8445,8 @@
 @Mi%C4%99dzygalaktycznySzept
 @donnel-i8bit
 @Proton-z1y
-@OGALEXAG-v3y
 @Astro_EngIIneer
 @GlobalCrisisNews-e7u
-@gulfpulsenews
 @KosmicznyAlarm
 @TheHollowPast
 @BUPSSTORY
