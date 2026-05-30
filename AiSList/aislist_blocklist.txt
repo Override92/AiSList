@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11449
+! Total Channels: 11447
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6214,7 +6214,6 @@
 @expedientemexicomx
 @misssamantha_ph
 @capitalpivot
-@freedomfeedusa
 @bosknll
 @softstepsasmr-yt
 @markkollarretirementexpert
@@ -8361,7 +8360,6 @@
 @MindNest01
 @EmaluneASMR
 @HankMusicRoad
-@TranceMood2026
 @caffe-lune
 @haretaro-animesongs
 @CinemaAfterHours-b
