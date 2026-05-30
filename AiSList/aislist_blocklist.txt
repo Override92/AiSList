@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11452
+! Total Channels: 11451
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8031,7 +8031,6 @@
 @TazannaBMG
 @TinyCreatureVillage
 @naturalsounds-tk6ex
-@Conflict.Atlas007
 @HardwareFirewall
 @Hyalbertog-q2x
 @WorldFinance2
