@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11445
+! Total Channels: 11443
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3276,7 +3276,6 @@
 @HappyFeetMelodies
 @jaydonehistory
 @resurrectedhistory10mv
-@Mythical.History
 @SleepyHistory-n9k
 @HistoryUncovered-q2k
 @VoxHistoria21
@@ -3456,7 +3455,6 @@
 @Echoesofwar999
 @IconicUSATales
 @HenrysStories
-@Life-ChangingTrueStories
 @SilentBossStories
 @graceslovestories
 @PlotTwisttoPower
