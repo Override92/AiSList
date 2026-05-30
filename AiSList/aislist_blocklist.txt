@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11452
+! Total Channels: 11449
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5235,7 +5235,6 @@
 @garrettstages
 @Behind_the_Markets
 @Sovereign-Alpha
-@awakenfrequenc
 @HighQuality-AI
 @YetiAF
 @MindOverMoney5-p2n
@@ -7068,7 +7067,6 @@
 @AlphaKingTimelessStorytelling
 @Miketales1
 @StillHuman-3ic
-@PoliticalRegime
 @renjianjiushi0888
 @%E5%BF%83%E8%81%B2%E6%96%B0%E8%AA%9E
 @%E5%AE%89%E5%A5%BD%E4%BA%BA%E7%94%9F
@@ -10062,7 +10060,6 @@
 @explosionoflaughter.56
 @chengai-q4x
 @24kontur24
-@honesttalks11
 @mustacheballads
 @the-currency-007
 @beenaexplainsmoney
