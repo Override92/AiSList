@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11443
+! Total Channels: 11441
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3846,7 +3846,6 @@
 @SafeCapital-u3r
 @LiesBurnSlowly
 @JusticeZoneTV
-@BlackPowerTruth
 @CopsCamVault
 @BrotherJamesStories
 @TheRecord_yt7
@@ -3870,7 +3869,6 @@
 @camelliashiddenstories
 @RevengeCoffee09
 @SweetPaybackUS
-@RevegeOlus
 @Hijodeoscarwilde
 @RevengeTitanX205
 @Tale-Teller198
