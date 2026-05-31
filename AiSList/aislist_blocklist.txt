@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11496
+! Total Channels: 11495
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4013,7 +4013,6 @@
 @TimelessLoveStories-q1b
 @linasromantasycollection
 @SoulStories-c8y
-@PlayFramePlus
 @BookFlickShare
 @QC-FamilyStory
 @AlexsRevengeDramaine
