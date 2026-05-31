@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11507
+! Total Channels: 11502
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5744,7 +5744,6 @@
 @CleanRevenge9900
 @RevengeRowe
 @CurtainFallsTV
-@Vlastories
 @DailyRedditReadingsofficial
 @FamilyTalesbyDany
 @TalesBeneathSkin1
@@ -5807,11 +5806,9 @@
 @RevengeInferno
 @EbonyEchoesstories
 @QuietConfessionsYT
-@HouseholdRevenge
 @HeartfeltBetrayals
 @RiseAfterBetrayal
 @luckycoincidences
-@PiecesStoriesLove
 @The-People-Storiess
 @SoftPowerStories98
 @netflixromanticstory
@@ -5869,7 +5866,6 @@
 @PolicyProfits-b4h
 @SecretDiary1-u2u
 @OGJohnAGHub2
-@Marketlogic-v4b
 @Kenzo51214
 @DailyFinance-q9e
 @OGJOHNAG1990
@@ -6043,7 +6039,6 @@
 @tajemniceancestralne
 @AtTanzeelQuran
 @TheCanadaChronicles
-@CanadaPensionNewsBulletin
 @RachelMaddowFanHub
 @MenOver50Vitality
 @TheCapitaltalk-g2y
