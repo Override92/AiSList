@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11423
+! Total Channels: 11422
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -10154,7 +10154,6 @@
 @BruceLee-EpicRecords
 @canadanostalgiakitchen
 @CanineMind-o8x
-@CelticSoul72
 @ChloeVSHistory
 @DoctorLaura-e1w1o
 @EarthFreshChannel
