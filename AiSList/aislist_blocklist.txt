@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11437
+! Total Channels: 11432
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4384,7 +4384,6 @@
 @NolanzoAnimationtv
 @goldsilverpronews
 @GoldSilverMarketWatch
-@JohnAGMarkets
 @JohnAG-x8g
 @RogersGoldSilver
 @WolffExplained
@@ -4413,7 +4412,6 @@
 @HistoriasAgridulces
 @venganzafamiliar68
 @ElGiroInesperado
-@Historiascotidianas-t7r
 @HistoriasDelPresidente
 @Detr%C3%A1sdelpoderBukele
 @TallerdeRecuerdos
@@ -4477,7 +4475,6 @@
 @draemiliasuarez
 @lagrimasdehierro
 @psicologia.oculta1
-@historiabelica-1
 @mexiconipon
 @tartaroiceberg
 @masalladelashistoriasbibli-o7r
@@ -4566,7 +4563,6 @@
 @Primoyang-l4b
 @CrisisLens-k9s
 @EditorialNews-j5z
-@FinanceUncovered22
 @TheSilentEconomy-e9e
 @capitalHistorian-j8r
 @ThriveWithDr.Jocelyn
@@ -4575,7 +4571,6 @@
 @readyandsteady
 @JulianWeber-t3g
 @FinancialBuild
-@AshenRevenge
 @WorldlyWisdomLab
 @EconomicChronicles
 @PotenciaMasculinaDraJocelyn
