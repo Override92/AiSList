@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11498
+! Total Channels: 11496
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6168,7 +6168,6 @@
 @DigitalStory-j2j
 @Sigondrong-w8h
 @MochiPlanetAI
-@BrainrotLoopAI
 @MelodyMusic68
 @frontlinewarstoriesww
 @secretoses
@@ -9715,7 +9714,6 @@
 @Stevenvenexplanation
 @Dr.AnikaMehta
 @DrCarolWhitfield
-@globalpowershift1
 @angel222g
 @TheEasygoingAnimals
 @optimal_focus_music
