@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11494
+! Total Channels: 11490
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5626,7 +5626,6 @@
 @HerVoiceHerRevenge
 @legin3
 @cheatingtaleslab
-@TurningTablesStories
 @SteelBrotherhoodYT
 @IsleofAerlinn
 @RadioRuach
@@ -10506,7 +10505,6 @@
 @SentinelGrid26
 @Recessionwarnings
 @techpulseresport
-@GeoSignal-o1v
 @RootsofSurvival.1
 @BuriedSurvivalSecrets
 @UntoldLegacyofBruceLee
@@ -10955,7 +10953,6 @@
 @NeverHappilyEverAfter
 @CineEdgeDiaries
 @DivineFaithHub-r8s
-@LuxMindAIStudio
 @AnotherMe1998
 @CrystalMoonStudio
 @Bennyssai
@@ -11487,7 +11484,6 @@
 @AIVoicesMusic-ua
 @Kraken89Music
 @FlowalMusic
-@souland_characters
 @kazura70swingneck
 @Juliaaaa1212
 @paulvincetrancehouse
