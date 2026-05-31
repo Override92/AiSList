@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11421
+! Total Channels: 11417
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5446,14 +5446,12 @@
 @BoothNo.7
 @LivingStoriesago
 @DaddyStories-88
-@66nature
 @ShiningTalesofLife
 @HerMissionStories7
 @AfricanSoulNarratives
 @GlobalExploreNetwork
 @afrokoreanscripts
 @beyondlifetales
-@KarmaAgainstRacism
 @OASISOFPASSIONS
 @FrontierRescueStories
 @ESA_Mafia_Stories
@@ -6699,7 +6697,6 @@
 @KwantowyOdkrywca
 @GlobalEconomyexplained
 @revengetalessd
-@MandysRevengeStory
 @TrucLe-s7y
 @AshokaNiro
 @GwiazdnaTarczaHFY-k6v
@@ -9322,7 +9319,6 @@
 @laverdadoculta-r9u
 @newstousa
 @motgocnhinkhac2026
-@jiangsinfiltro
 @catsstoryk8s
 @mojeebalrouh
 @birthdaypartymusicofficial
