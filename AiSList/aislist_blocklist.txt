@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11417
+! Total Channels: 11416
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9310,13 +9310,11 @@
 @NavaRhythmRecord
 @honeybunbun_123
 @ailover-s7k
-@kaluputiknew-t8y
 @tasawergaming
 @slightly_dark_56
 @tiffytotstv
 @bosanovalounge
 @archiwahistori
-@laverdadoculta-r9u
 @newstousa
 @motgocnhinkhac2026
 @catsstoryk8s
@@ -11433,3 +11431,4 @@
 @vlogvideos-10
 @heysara122
 @thepulsefootball
+@hotseatheadlines
