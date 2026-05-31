@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11427
+! Total Channels: 11432
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11443,3 +11443,8 @@
 @VeoFrameAI
 @AIMovies-patchess
 @ChaseAIStudio
+@AGONHISTORY
+@AIIVOICECOVER
+@TheOracleGuy_AI
+@AISmartStudio
+@RandomTopicsOfficial
