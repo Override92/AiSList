@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11413
+! Total Channels: 11412
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -2950,7 +2950,6 @@
 @dolluxe_zm
 @cutecat-tv_1
 @purranime
-@viralcatcartoonsai
 @skaspiali
 @aicatanimatedshort32
 @aianimationcartoonworld-b1c
