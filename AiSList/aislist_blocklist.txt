@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11427
+! Total Channels: 11423
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5304,7 +5304,6 @@
 @HOATales-h2u
 @HOAVictims
 @HOAGoneWild
-@HOAServed
 @WronglyJudged
 @RahiTrove
 @AuthorityTalesYT
@@ -5317,7 +5316,6 @@
 @RevengeFarmvsKaren
 @HOAStoryEntertainment
 @TheFrontDoorClips
-@HOAOverplayed
 @HOANonsense
 @HOADramaStories-t7o
 @thehoastories-i9z
@@ -9982,7 +9980,6 @@
 @synthwaveanddragons
 @Epic_Ascension_Music
 @JohnAG00.2
-@TheMoneyTruth-YT
 @TheMungerExperience
 @ScarredInvestor
 @historiashfyespanol-1
@@ -10154,7 +10151,6 @@
 @Archiveplus1
 @Arqueofatos
 @BackBeforeHQ
-@BreakingNorthAmerica
 @BruceLee-EpicRecords
 @canadanostalgiakitchen
 @CanineMind-o8x
