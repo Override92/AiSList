@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11500
+! Total Channels: 11498
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -1353,7 +1353,6 @@
 @ai.storypk
 @toddlersstoryworld
 @amit_offical649
-@aistoryhub-l3i
 @animationshort478
 @cartoonzila-l3j
 @junaidshaikh8918z
@@ -6096,7 +6095,6 @@
 @BABYKIDSTV-z8r
 @SystemGeld
 @iReportage
-@Thesilverdrosser
 @TheBullionBossOfficial
 @MarketingbyVijay
 @ThePowerOfYou1
@@ -6147,7 +6145,6 @@
 @SynthMageYT
 @LostContine
 @theeconomicalarm
-@AIActorsLife
 @sakurashorts2026
 @SoftHarborRadio
 @Matshubaba
@@ -11516,3 +11513,4 @@
 @CosmicVideoAI
 @ArmoryAtlas-11
 @Cozy_Jazz_Tunes
+@worlddecode_360
