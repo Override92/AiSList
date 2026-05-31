@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11449
+! Total Channels: 11450
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11465,3 +11465,4 @@
 @MirrorverseAI
 @HeraldofHelios
 @SpeersCodling
+@TerraFactor
