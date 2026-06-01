@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 559
+! Total Channels: 560
 
 ! Entries:
 @CinebotComedy
@@ -581,3 +581,4 @@
 @dalewilsonAI
 @manuelneff1983
 @mamtaherland
+@LearnwithLEESI
