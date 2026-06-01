@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11551
+! Total Channels: 11547
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3776,7 +3776,6 @@
 @FantaSceneMusic
 @Stardust-Sounds1
 @RelatosDeHerald
-@AlasDespu%C3%A9sdelDolor12
 @MiSuspiro
 @LaVerdaddeCarlos-e5r
 @VenganzaCorporativa0
@@ -4241,7 +4240,6 @@
 @sabiduriadejung
 @luincelticmusic
 @detrasdelmercadofinanzas
-@alasdespuesdeldolor12
 @exploradorcuantico
 @imaginalafisica-e5f
 @fisicapensamientosdefeynman
@@ -10324,7 +10322,6 @@
 @BehindGlobalEconomy
 @Economicbreakdown1
 @EconomicCrises101
-@EconomyGuy07
 @EconomyUnlocked07
 @History_meets_Economy
 @OrdinaryEconomics
@@ -10351,7 +10348,6 @@
 @LoneRiderChronicles-CM
 @KH_HN4
 @LovingDadStories
-@GregoryMurphy245
 @CrownApron-t8l
 @DeepTruth96
 @musestories3
