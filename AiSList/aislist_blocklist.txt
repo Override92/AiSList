@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11554
+! Total Channels: 11552
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -9001,7 +9001,6 @@
 @MonkeyBlocks-US
 @SignalBrust
 @Mr.DudeExplained
-@ZrockPH
 @Plotberg
 @TheRedRegime
 @RoyalFrontierr
@@ -10275,7 +10274,6 @@
 @WilliamH.McRavenBrief
 @WorldBriefLive
 @WorldBriefOff
-@CapitalReport07
 @CapitolNewsReports-e6s
 @DanielBrooksReport-u6z
 @DerHardwareReportDE
