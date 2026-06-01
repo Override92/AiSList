@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11506
+! Total Channels: 11507
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11522,3 +11522,4 @@
 @NOIRVIBES-k3o
 @JustaSip-b2w
 @TomsJazzLounge
+@SepiaFoxJazz
