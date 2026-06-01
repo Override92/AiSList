@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11635
+! Total Channels: 11640
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11651,3 +11651,8 @@
 @HFYUniverse-p8u
 @FeuergeistHFY
 @tinyrealmshistory
+@Neon_Aliens
+@scifi.diaries
+@SciFiMysteries
+@SC-iFiFutureWar-x6w
+@NeonAlieni
