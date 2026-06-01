@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11615
+! Total Channels: 11610
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5166,7 +5166,6 @@
 @GrunerDaumenn
 @TheRevengeRecipe
 @TheEconomicArchive00
-@truthreports24
 @polvopolvora
 @CapitalUnplugged
 @FrontlineUSAX
@@ -7812,7 +7811,6 @@
 @ClintEastwoodUntoldLegend
 @MrNightwood2477
 @donsutahadventure5594
-@SemeTRiiXHD
 @whatwhyhow-rw9
 @JesusMiracles-e6i
 @jasonlouv
@@ -8105,7 +8103,6 @@
 @JuliaCC-r
 @MySissyWorld
 @LiyanaFemme
-@SILVERMARKETALERT
 @Socialsurge01
 @ProfessorJiangGlobalCuration
 @warnomics-342
@@ -8158,7 +8155,6 @@
 @PawsEveryDay-z7f
 @AiChunes
 @ShrekLOL68
-@coreinsights2
 @cartooncharacter-p1g
 @lowtechgrandma
 @BananaFinancial
@@ -8407,7 +8403,6 @@
 @thepowerofhopeSE
 @afrokoreannarratives
 @AfrokoreanCrossroads
-@MrPetersFamily2
 @LarasBlack-KoreanLoveStories
 @YoruTheSecond
 @SniperValor
