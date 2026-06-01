@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11605
+! Total Channels: 11610
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11621,3 +11621,8 @@
 @VelvetSurrealAIArt
 @Serrevia
 @Ulqen
+@BaharAIArt
+@RazNava
+@NTTAI-i2g
+@EtherealAISong
+@ALPHATESTERGLOBAL
