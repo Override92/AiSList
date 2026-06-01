@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11537
+! Total Channels: 11538
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11553,3 +11553,4 @@
 @ClaudetteAI
 @SergeiKunc-d1s
 @PeculiarTownStories
+@TheUnusualTown
