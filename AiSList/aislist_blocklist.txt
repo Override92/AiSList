@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11660
+! Total Channels: 11656
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3416,7 +3416,6 @@
 @HFYPrimitiveEarth
 @GalacticZenHFY
 @scifispace34
-@HUMAN_SALVAGE
 @BlazeWardHFY
 @BruceLeeTheHiddenLegacy
 @BruceLeeSupernova
@@ -3470,9 +3469,7 @@
 @Happy-Love-Stories
 @zoltekex1640
 @Mafia-Syndicate6368
-@CrimsonMafiaTaless
 @TouchingBossStories
-@MafiaLoveCinematic
 @ScarlettMafiaStories
 @VeronicaNarration
 @WhispersBeforeSleepyt0
@@ -3886,7 +3883,6 @@
 @BlackFreedom2
 @TheRiversideTavern
 @thefolkdices
-@LucasHerreraVozdeHistorias
 @JusticiaVoz
 @StoryMania-b1u
 @UmeshYaduwanshi-e9l
