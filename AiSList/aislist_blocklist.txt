@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11499
+! Total Channels: 11500
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11515,3 +11515,4 @@
 @WarSage-yt
 @LofiFantasy.Isekai
 @FlashMoment21
+@RedCarpetGhosts
