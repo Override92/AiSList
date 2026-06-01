@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11545
+! Total Channels: 11546
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11561,3 +11561,4 @@
 @SurrealWorld-j7m
 @BuddyisChaos
 @srknoffical
+@wakeningdreams
