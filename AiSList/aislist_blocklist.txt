@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11512
+! Total Channels: 11513
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11528,3 +11528,4 @@
 @Rovix-w4z
 @CartoonsKidMania
 @MiddleEarthUnfolded
+@AncientLoreLofi
