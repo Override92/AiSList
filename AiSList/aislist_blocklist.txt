@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11523
+! Total Channels: 11524
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11539,3 +11539,4 @@
 @bumilalasvisualpoems
 @AtlasAIDream
 @LettersFromTheHeartStudio
+@EtherealAIStudio-d2l
