@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11572
+! Total Channels: 11577
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11588,3 +11588,8 @@
 @ShowMakerStudio
 @songfairytales
 @Eckaz21
+@saintstudioaifilms
+@MysticStudio777
+@olga_aigc
+@elemetamin
+@MermaidRealm
