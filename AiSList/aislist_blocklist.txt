@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11542
+! Total Channels: 11547
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11558,3 +11558,8 @@
 @DarcyBlair
 @ZephyrCozyWorlds
 @offscriptdocumentaries
+@InspiredTV-d4p
+@TheChroniclesofTolkien
+@Ministryoffilms
+@abandonedfilms
+@AiofEuphoria
