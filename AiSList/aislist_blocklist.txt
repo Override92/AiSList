@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11792
+! Total Channels: 11797
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11808,3 +11808,8 @@
 @Sleep.and.History
 @InterestingHistoryDaily
 @OfficialBoringHistory
+@WhisperingHistory29
+@EmmaExplainsEverything
+@skylight215
+@softstatic00
+@LailaMajnunOfficial
