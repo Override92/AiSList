@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11664
+! Total Channels: 11665
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11680,3 +11680,4 @@
 @TheKeeper-j9x
 @OhinoyiStories
 @essies_storiess
+@FolkTalesByFayoke
