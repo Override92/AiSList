@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11832
+! Total Channels: 11837
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11848,3 +11848,8 @@
 @DivineHarmony-l8g
 @Coremusicnepal
 @AI_M-U-S-I-C_AI
+@Unrealmelodies
+@baimstdio
+@ZopaAI
+@NepaWaveAI
+@ai_music_official
