@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11653
+! Total Channels: 11648
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -4262,14 +4262,12 @@
 @SaludMilagrosa
 @Drcardenas25
 @Dr.MateoCastillo
-@daniestory
 @revengestorieswitholivia
 @truelifechronicles-d9o
 @ZooPhenomena
 @Royal.Unfiltered
 @TheReelLineup
 @mungerslessons23
-@jakestroy
 @AmorVitalTV
 @MujeresdeLuzyAmor
 @C%C3%B3digoChiaraviglio
@@ -4333,7 +4331,6 @@
 @WhatChanges
 @MARKETHISTORY-k7p
 @METALMARKETINTELLIGENCE
-@SILVERGOLDTALK
 @EconomicTruth2
 @Prosper_Path_1
 @BoringCurrencyLive
@@ -4394,7 +4391,6 @@
 @KinaHistorias
 @HistoriasAgridulces
 @venganzafamiliar68
-@ElGiroInesperado
 @HistoriasDelPresidente
 @Detr%C3%A1sdelpoderBukele
 @TallerdeRecuerdos
@@ -4550,7 +4546,6 @@
 @ThriveWithDr.Jocelyn
 @SaludMasculina50Plus
 @ThePr00cess
-@readyandsteady
 @JulianWeber-t3g
 @FinancialBuild
 @WorldlyWisdomLab
