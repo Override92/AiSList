@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11659
+! Total Channels: 11660
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11675,3 +11675,4 @@
 @SankofaTales
 @QueerFolktale
 @Worfaistudio
+@AfricanFolkloreHub-j3k
