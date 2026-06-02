@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11861
+! Total Channels: 11857
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -3094,7 +3094,6 @@
 @BarrelStandard
 @Darknessfromai
 @JoshGeoLive
-@InvisibleTrillions
 @MacroCurrencySignal
 @j4aqu1n
 @ghoulexplains
@@ -5537,7 +5536,6 @@
 @tonytechInsights78
 @ReferCoinLab
 @TheSilentEconomy-1
-@financegamezone
 @IraqiDinarNewsline12
 @VerySeriousFinance
 @alianabella-f3g
@@ -5594,7 +5592,6 @@
 @BarbaraClark-h2f
 @Revantrastories
 @GaryStories04
-@TOPRevengeStories-10
 @VoidKingsHFY
 @revengewithdad
 @HerVoiceHerRevenge
@@ -10611,7 +10608,6 @@
 @HFYMANIA
 @Sci-fi-child
 @Fictionalize1
-@HFYRevenant
 @TheLastSignalSciFiStories
 @3amdarkstories1
 @ClostomyDestruction
