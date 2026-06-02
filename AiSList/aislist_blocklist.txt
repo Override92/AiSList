@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11817
+! Total Channels: 11822
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11833,3 +11833,8 @@
 @CoverSongAi-l3i
 @LofiDrift-f5u
 @AIDreamscapesStudioTV
+@HeartSoundMF
+@AISongMama
+@heartfeltopm
+@leuleth
+@ai.music.matrix
