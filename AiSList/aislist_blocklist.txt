@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11782
+! Total Channels: 11787
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11798,3 +11798,8 @@
 @SleepyHistorianP
 @MultiverseExplorer-2k01
 @Ancienthistorian78
+@ForgottenWisdom26
+@SleepyScienceReal
+@TheForgottenEmpire-v5o
+@TrueCrimeStoryFiles-u5s
+@Mysteryhistoryforsleep
