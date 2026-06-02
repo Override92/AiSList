@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11827
+! Total Channels: 11832
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11843,3 +11843,8 @@
 @RiftTunes
 @Oderatech
 @MMMUSICAICOVER
+@NepAI.Melody.Studio
+@ailanbeats677
+@DivineHarmony-l8g
+@Coremusicnepal
+@AI_M-U-S-I-C_AI
