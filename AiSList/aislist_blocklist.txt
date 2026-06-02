@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11858
+! Total Channels: 11853
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5661,7 +5661,6 @@
 @CheaterRevengeStories
 @MyBetrayalFamily
 @RevengewithZara-g7w
-@HerTrueStory-z1d
 @BloodLegacyByReddit
 @RevengeTruthBomb
 @KForKindness-w2z
@@ -5749,7 +5748,6 @@
 @cat_telltales1
 @TrueRevengeGlory
 @SingleDadStories10
-@theartofsilentrevenge
 @MothersRevenge
 @StoriesofVengeance
 @BrokenByBlood
@@ -5757,7 +5755,6 @@
 @motors2569
 @hoppyshortss
 @MT-FamilyDrama
-@Unbrokensilentstories
 @crownmindstories
 @RevengeDark9
 @RevengeCrown-q3k
@@ -5783,7 +5780,6 @@
 @The-People-Storiess
 @SoftPowerStories98
 @netflixromanticstory
-@WhatWasNeverSaid-p8e
 @MaryannChioma-i7w
 @UnravelingRevenge
 @RevengeNarrativeStories
@@ -10958,7 +10954,6 @@
 @CanadianCounter
 @CanadianWeatherAlert
 @CanPulse360
-@Chatty_Historian
 @ChosenRevenge
 @ConflictKnows
 @ConflictZone3
