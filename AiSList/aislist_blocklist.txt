@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11649
+! Total Channels: 11645
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5058,7 +5058,6 @@
 @trueww2
 @WorldWarLegendsYT
 @WW2LostArk
-@TheOldWarSniperChronicles
 @WWIIBattlefront
 @WW2HiddenFiles-c5x
 @WIIWarStories
@@ -5289,7 +5288,6 @@
 @HOAOverlordsExposed55
 @RealHoaStorytime-p6u
 @HOAStori
-@RevengeFarmvsKaren
 @HOAStoryEntertainment
 @TheFrontDoorClips
 @HOANonsense
@@ -5406,7 +5404,6 @@
 @EchoesofDesire-1
 @Eternalgaze-26
 @SpiritsoftheRedLand
-@CheatedHeart-YT
 @Karmabuzz
 @Corporate_Vendetta
 @SWEETFEELINGS8
@@ -10071,7 +10068,6 @@
 @giantindustry-h6y
 @nvbodycam
 @zagadkivselennoi
-@WILDSOUL26
 @WalterOnMotors
 @VikingsLife
 @UnderLens11
