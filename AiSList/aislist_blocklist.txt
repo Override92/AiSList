@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11854
+! Total Channels: 11849
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6272,7 +6272,6 @@
 @user-bo4en9vd8l
 @GwendolynsStories
 @AriasLoveLore
-@BlackRifleStories
 @InfiniteHeartYT
 @Storytellersheart
 @SpiritUpliftStory
@@ -6747,7 +6746,6 @@
 @historiasdolobiancoo
 @RodzinneLekcje
 @Historiekt%C3%B3rychnieopowiedzia%C5%82a
-@heroicmind-r8v
 @StockCapital-g2c
 @FutureProofSurvival
 @SkyStrikeAnalytica
@@ -6828,7 +6826,6 @@
 @ClimaRescue
 @HealingMoments-v5x
 @Arctic-Pulse-07
-@EchoesofYakutia-tf6
 @SuperRescue-n3s
 @endure-earth
 @WildCatRescue
@@ -6848,7 +6845,6 @@
 @WildSurvivalStrong
 @MeaningfulFilms0330
 @FrostVigil
-@EconomyFail
 @ForumsAnimated
 @kexing-ai
 @FeastofLegends
@@ -9747,7 +9743,6 @@
 @InsideBuffettMind
 @RichFutureIndia
 @MoneyCollapse-f8w
-@OGJohnAGLab.k
 @esshorts20
 @Factoryflow-NE
 @InsideFactory1.0
