@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11857
+! Total Channels: 11852
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -5812,7 +5812,6 @@
 @HOADramaStories1
 @Hoaconfidential2.0
 @NeighborWarsYT
-@HOAHunter
 @TheCheater2209
 @AmericanMarketDesk
 @GlobalizingEconomy
@@ -6094,7 +6093,6 @@
 @UnderstandThroughAI
 @iqtuber
 @EvidenceExposedTV
-@THE-POLITIX1
 @Finanzix24
 @MoneyMentorHub-y8k
 @FinancialOrigins4k
@@ -9653,12 +9651,9 @@
 @ProfJiangDoctrine
 @RioMarksFinance
 @WarDispatch-t8x
-@GlobalAffairsDebate
 @gerygotkin8847
 @AlexKrainerOfficial
-@MacroDecoded07
 @currencyinsider_786
-@Stevenvenexplanation
 @Dr.AnikaMehta
 @DrCarolWhitfield
 @angel222g
