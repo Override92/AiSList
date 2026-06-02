@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11696
+! Total Channels: 11699
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -11712,3 +11712,6 @@
 @EchoesofCourage12
 @EnduringHistory
 @epicgameremixes
+@EternalRome33
+@hiddenfamilyrevenge-n8n
+@HistoryArchiveVault
