@@ -14,9 +14,8 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11844
+! Total Channels: 11839
 ! Entries:
-@DarkRomancMafia
 @ChickofHonor-o6d
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10213,13 +10212,11 @@
 @LateNightReport-u6m
 @NewYorkReports1
 @NordReport
-@rapidreportmedia
 @RedLineReport-p9e
 @RedLineReport99
 @REDLINEREPORTS-x3w
 @The_Economy_Report
 @TheAsianReport-ttt
-@TheGeopoliticsReport-x1l
 @visualreport1
 @AGTears
 @AGTStars-x1d
@@ -10664,7 +10661,6 @@
 @ai_loveneet
 @heymrdjay
 @valentinasooofficial
-@vexarv
 @observervlog
 @tinytoonshindi-z7z
 @深海幻像
@@ -11076,7 +11072,6 @@
 @StoicMercer
 @StoicSoulForge-US
 @gorzilla.x
-@canadabriefoff
 @the_secretsofthebible
 @cnz-v1s
 @elregristrosellado
