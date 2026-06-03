@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11839
+! Total Channels: 11834
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7767,7 +7767,6 @@
 @werewolfden
 @HistoryOfForgottenSouls
 @nextmovierecap
-@DarkCovenant7
 @TrailCamUnfiltered
 @highway-tales
 @Dust_and_Destiny
@@ -7900,7 +7899,6 @@
 @relaxingredditstories888
 @oracoesnoturnaspelapazebencaos
 @cosminex
-@dvltstock
 @hoagonetoofar
 @anishkumargaming321
 @worldyta
@@ -9144,7 +9142,6 @@
 @moderndefenseglobal
 @eyepatrol_yt
 @mediaairecords
-@economyglobal-y4t
 @thesilentsrtength
 @cosmosdepths
 @karmafailed
@@ -10277,7 +10274,6 @@
 @DeepTruth96
 @musestories3
 @ElvarStories9
-@LoveUnfolded_365
 @LOLOTICAStories
 @MaisonStories
 @anuskysa
@@ -10476,7 +10472,6 @@
 @thehoa_file-s
 @TheTechLedgerOfficial
 @HFYTells
-@OldFarmerStoriess
 @Jasons_TalesHFY
 @hfywarzone-x6v
 @HFYEmpireSaga
