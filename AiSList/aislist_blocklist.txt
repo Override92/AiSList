@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11837
+! Total Channels: 11832
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8096,7 +8096,6 @@
 @therealtalk319
 @dreamyslowlife
 @wlobus
-@andrewwealthlab
 @darkcrimearchives79
 @antnestlegends
 @bannedvaultcamping
@@ -8530,7 +8529,6 @@
 @LifeScriptsStories
 @CourtSense-CS
 @DiplomaticNewsJudge
-@Courtdrama74
 @BeatStories-US
 @SharedStoryToday
 @JudgeCaprioPerspective
@@ -8575,7 +8573,6 @@
 @colonyclashzone
 @borderwardesk
 @sanchezwyjasnia
-@insiderbriefnews
 @miedzygalaktycznyszept
 @gigantic_industry
 @MEGAMANUFACTURING-j6f
@@ -9804,7 +9801,6 @@
 @systemfaults
 @oldpoplist99
 @truthrushmedia
-@ずんだもん291
 @CozyJazzMusic-YT
 @combatcore_Official
 @crownwiredaily
@@ -10503,7 +10499,6 @@
 @AIDramaShortWin
 @AllNewClassics
 @juna-afrokorean
-@bunlovestories
 @Deepfeelingstories
 @StoriesAfterMidnight-x1g
 @SPIRITFIRE_TV
