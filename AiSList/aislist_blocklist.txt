@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11846
+! Total Channels: 11841
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -8227,8 +8227,6 @@
 @Anadolucovers
 @gyzem-muzik
 @YaBoyleOlsaydi2
-@GlobalMoneWars
-@MichaelNews-z1i
 @royalscandalfiles
 @F1Perspective
 @boxf1
@@ -8451,7 +8449,6 @@
 @Hiddenchronicles11
 @WHISPERSOFLOSTTIME
 @povfinancialUS
-@EconomyBreakdown07
 @DialoguesWithScience
 @WW3GlobalWatch
 @MUSIC-AND-SONGS-ai
@@ -8796,7 +8793,6 @@
 @SeasonedVengeance
 @VerdictVoices-s3e
 @BeyondColor9
-@Worldbriefdaily-u9o
 @asmraitist
 @Shenanigans_AI
 @aitingletube
@@ -8965,7 +8961,6 @@
 @RedCashew-z9f
 @mpelembe
 @KRB_761
-@Singledadkindnessstories
 @Thelastprimus-world
 @GroupEnglishNZ
 @ArcanePotter
