@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11839
+! Total Channels: 11834
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10194,7 +10194,6 @@
 @PowerBench123
 @ReasonOverRituals
 @BlackoutBriefing-b1j
-@Brief_InsightOfficial
 @BriefKnows
 @Canada-Daily-Brief
 @GlobalFinanceBrief-j7y
@@ -10203,7 +10202,6 @@
 @thomaskellerbrief
 @WilliamH.McRavenBrief
 @WorldBriefLive
-@WorldBriefOff
 @CapitolNewsReports-e6s
 @DanielBrooksReport-u6z
 @EconomicSignalReport
@@ -10217,7 +10215,6 @@
 @REDLINEREPORTS-x3w
 @The_Economy_Report
 @TheAsianReport-ttt
-@visualreport1
 @AGTears
 @AGTStars-x1d
 @ai-slop-channel
@@ -10252,12 +10249,10 @@
 @BehindGlobalEconomy
 @Economicbreakdown1
 @EconomicCrises101
-@EconomyUnlocked07
 @History_meets_Economy
 @OrdinaryEconomics
 @Rolexeconomics
 @StoicEconomist
-@StrategicEconomy
 @Viraleconomicsoffical
 @WealthBeforeWealth
 @BLACKMARKET_FILES
