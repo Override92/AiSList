@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11849
+! Total Channels: 11844
 ! Entries:
 @DarkRomancMafia
 @ChickofHonor-o6d
@@ -6949,7 +6949,6 @@
 @ArcticSurvival-tv
 @FarmerTales_YT
 @AmericanRewindChannel
-@CrimsonVengeance-s1d
 @Triumphantstories0
 @StoryTellerBKK
 @FatalFilesyoutube
@@ -7079,7 +7078,6 @@
 @calderonbridger
 @twiz27
 @howtothomasyt
-@TheAmericanPoliticalDesk
 @SmartSeniorNutrition
 @WilliamLiLab-83k
 @MensHealthHub365
@@ -7976,7 +7974,6 @@
 @Processzonevideos
 @SKMTweetExpert
 @ProfessorJiangEconomy
-@viralvidv
 @LittleSoulStories-s8g
 @Blaze_Pop_Music
 @YtAhmedSain
@@ -8029,9 +8026,7 @@
 @platygoof_lab
 @war_chronicles-d6e
 @hottakesbyaxel
-@druckenomics
 @naturevibes-b1l
-@drmairamalikofficial
 @silvermereaudio
 @familyrevengefiles-s5p
 @richard_wolff
