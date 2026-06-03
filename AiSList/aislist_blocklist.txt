@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11832
+! Total Channels: 11828
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -522,7 +522,6 @@
 @mamacatfamilyfun
 @hearttouchaistories
 @mamacatstories574
-@mamascatstory
 @mamacatfamily-ts
 @mamacatkittens-95
 @mamacatdailylife
@@ -8574,7 +8573,6 @@
 @borderwardesk
 @sanchezwyjasnia
 @miedzygalaktycznyszept
-@gigantic_industry
 @MEGAMANUFACTURING-j6f
 @thenewsroomglobal
 @GodCares777
@@ -9139,7 +9137,6 @@
 @moderndefenseglobal
 @eyepatrol_yt
 @mediaairecords
-@thesilentsrtength
 @cosmosdepths
 @karmafailed
 @hoastoryhub-q4h
@@ -11557,7 +11554,6 @@
 @ArtificialQuotient01
 @emmanueladewuyiofficial
 @NOVATECH971
-@Smart-processing
 @FromRuintoRoyal1
 @FactoryReborn.m5
 @TerrilliumV
