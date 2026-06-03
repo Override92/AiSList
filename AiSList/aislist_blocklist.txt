@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11828
+! Total Channels: 11830
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11844,3 +11844,5 @@
 @t_tv-1
 @movieparodyai8286
 @rdxmagicworld
+@kingdomofpredatorstv
+@ellah-p3r
