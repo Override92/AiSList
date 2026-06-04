@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11804
+! Total Channels: 11799
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9598,7 +9598,6 @@
 @morgarreacts
 @TempelDerStille-De
 @BreakingAmerica-w4o
-@ProfJiangDoctrine
 @RioMarksFinance
 @WarDispatch-t8x
 @gerygotkin8847
@@ -10957,7 +10956,6 @@
 @ForgottenDiscoveries2026
 @DoctorSusanMiller
 @Canadainsider-k5q
-@NorthernMacro
 @FollowingChrist-6886
 @CapitolUncutUSA
 @USCanada-q4p
@@ -10970,7 +10968,6 @@
 @dailyvital-x9y
 @UpdatedIntel
 @MrRetired-y2b
-@StrategicFrontNews-1
 @WesternLoveNovels-u2f
 @WorldTruthExposed
 @STATEANALYSE
@@ -11008,7 +11005,6 @@
 @HFYSci-FiTerravicta
 @HFYStories-stories
 @AIKilledTheArtist
-@aimilitarywars
 @aisleepheaven
 @AIStudyHub.18197
 @AIVision-h5t
@@ -11019,7 +11015,6 @@
 @Pacifierpolitic
 @PoliticalDecrypt-o4f
 @HumanDecode-g6s
-@Druckenomics-3M
 @DruckenmillerGuide
 @StoicMercer
 @StoicSoulForge-US
