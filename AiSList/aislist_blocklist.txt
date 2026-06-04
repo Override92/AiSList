@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11826
+! Total Channels: 11825
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9942,7 +9942,6 @@
 @PremiumBrainrotOfficial
 @best-aiorg
 @drcharledrew
-@darkfileofficialyt
 @Too-Late-Wisdom-Henry-84
 @HerHiddenTruth-Story
 @DomainfilmsA.I
