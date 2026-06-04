@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11815
+! Total Channels: 11814
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -2982,7 +2982,6 @@
 @FrejordTales
 @SarahBoxStories
 @ShortStory-y6e
-@4channy-l5t
 @novelreelpicks
 @Ajanimalking
 @RedditTales-s4h
