@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11831
+! Total Channels: 11826
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4372,7 +4372,6 @@
 @JuecesReales
 @recuerdosdepadres
 @RecuerdosdeCarmenYT
-@ElMundodelAbuelo_fz7
 @RelatosDeGerald
 @VocesdelHogarUSA
 @RelatosDeInfidelidades-68
@@ -4928,7 +4927,6 @@
 @SilkRoadDiaries25
 @Narvik_Stories
 @VtipyaSmiech
-@SkarbWiedzy
 @OstatecznyWyrok
 @DzikiZach%C3%B3dHistorii
 @KowbojskaMi%C5%82o%C5%9B%C4%87
@@ -4973,7 +4971,6 @@
 @stoicthinkers1
 @ElderlyPrimeHealth
 @The.World.Revolution
-@PsyMind_Decode
 @WWIIMemoryVault
 @StoicMen2
 @PsycheShift09
@@ -5201,7 +5198,6 @@
 @DreamRides7
 @THAutoReviews
 @OverdriveTV-g2m
-@rkautoreviews-j5e
 @RealTalkWithTime
 @rizzler.clipz.67
 @weirdailab
@@ -5416,7 +5412,6 @@
 @AfricanSoulNarratives
 @GlobalExploreNetwork
 @afrokoreanscripts
-@beyondlifetales
 @OASISOFPASSIONS
 @FrontierRescueStories
 @ESA_Mafia_Stories
