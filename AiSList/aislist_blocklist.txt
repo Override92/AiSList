@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11830
+! Total Channels: 11825
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3467,7 +3467,6 @@
 @zoltekex1640
 @Mafia-Syndicate6368
 @TouchingBossStories
-@ScarlettMafiaStories
 @VeronicaNarration
 @WhispersBeforeSleepyt0
 @ForbiddenSecretLoveChronicles
@@ -3526,7 +3525,6 @@
 @ThePhysicsParadox-c6n
 @WorldMetalMusicHub
 @TimeYetTold-o9u
-@TheCoinFinancials
 @MintlyWise
 @Aditi_Aadia
 @FiatFilesCurrency
@@ -3785,7 +3783,6 @@
 @F%C3%ADsicaPensamientosdeFeynman
 @CienciaNocturnaa
 @MysteriesoftheUniverse00
-@OficinadeHallazgosOcultos
 @Error_199_es
 @ZonaX_spain
 @Diadelaluna_Terror
@@ -3999,7 +3996,6 @@
 @SoulfulRomance-Channel
 @MysticLoveStories
 @MyPassionDiaries
-@MafiaBossWhisper
 @TimelessLoveStories-q1b
 @linasromantasycollection
 @SoulStories-c8y
@@ -4162,7 +4158,6 @@
 @DCDailyBrief
 @NARCIFIC-t6h
 @USAuthorityNews
-@melapelas9047
 @noticias1-c4h
 @FinanceCapitalYT
 @NarkogReports
