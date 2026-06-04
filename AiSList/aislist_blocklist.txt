@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11814
+! Total Channels: 11809
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1981,7 +1981,6 @@
 @Soryxo
 @SmartMindTech-h6k
 @timelineofww2-x5e
-@patton-x4w
 @TimelineofWar-e4
 @HiddenFrontHistoryy
 @Since1939s
@@ -2876,7 +2875,6 @@
 @miaumiaushorts-x3e
 @meovmeowcats-u1h
 @meowmeow_stoory
-@meowmeow-0-h9l
 @catmeow-u4n
 @cutecats_246
 @funnycat-ai
@@ -5437,7 +5435,6 @@
 @BibleTruthDeliverance
 @KarenTrueStores0
 @untolddiarise_official
-@HimaruChan-oj8ph
 @channel2-d3i
 @TheInvestingplaybook
 @Finance_Fault
@@ -5450,7 +5447,6 @@
 @EconomicandPolitic
 @RecapandExplained
 @EndlessEconomies
-@CurrencyMatters
 @HappysaBanna
 @UKHousingReality
 @HiddenFinanceTruths
@@ -11679,7 +11675,6 @@
 @HOAUntoldTruths
 @Jeanne-AIASMR
 @jellystepsasmr8386
-@karenstorieslab
 @TheHOAChronicles-c2y
 @TheHOAFiles12
 @TheHOAHub0
