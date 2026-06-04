@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11809
+! Total Channels: 11804
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5558,7 +5558,6 @@
 @BlakeStoriesYT
 @RevengeEpisodes_1
 @NeverTooOldChannel
-@CarolineRestelli-j7g
 @ShelleDiaryStories-z5b
 @Inside-House-of-Secrets
 @STORIESGRANDMA70X
@@ -5801,7 +5800,6 @@
 @FactLine9t
 @USMarketDaily07
 @FinIQAI
-@WALLSTREETSQUIRREL
 @GlobalMonetaryWatch
 @SciTech-Explained
 @financepro5
@@ -5819,7 +5817,6 @@
 @OGJOHNAG1990
 @ourjohnag
 @JohnAGVault
-@Dollarstormofficial
 @YourJohnAGInvestments
 @BoringCurrencyInsights
 @MrJohnAG-l3e
@@ -10887,7 +10884,6 @@
 @CanadianWeatherAlert
 @CanPulse360
 @ChosenRevenge
-@ConflictKnows
 @ConflictZone3
 @CrownofAsh-09
 @Cryptic_ChroniclesYT
@@ -11206,7 +11202,6 @@
 @captiveconfessions
 @wealthlogik
 @froloy
-@GlobalPulseReport5
 @DominionBriefDB
 @DirtyRoadSymphony
 @minatr000
