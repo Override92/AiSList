@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11825
+! Total Channels: 11821
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6534,7 +6534,6 @@
 @HOAChroniclesUncovered
 @HOAPatrolYT
 @TheHOAUnleashed
-@HOATALES-22
 @HOALoudPower
 @MyNightScience
 @FutureStoriesbyAI
@@ -6619,7 +6618,6 @@
 @DeepBibleStories
 @ThePoweroftheWord-Official
 @MarketArchitectCapitalResearch
-@BuffettMindset-v7z
 @StoriesOfTheImperium
 @how-it-scales
 @CosmHush
@@ -6719,7 +6717,6 @@
 @MapleMarketbrief-e2z
 @GlobalDiscoveryDocumentary
 @Ayyan-h7p
-@EliteGenCrafts
 @VantageLedgerYT
 @MoleHunt25
 @DailyReports7
@@ -6732,7 +6729,6 @@
 @TheCloudXBerry
 @LabofDub
 @historiasdolobiancoo
-@RodzinneLekcje
 @Historiekt%C3%B3rychnieopowiedzia%C5%82a
 @StockCapital-g2c
 @FutureProofSurvival
