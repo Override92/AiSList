@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11819
+! Total Channels: 11815
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -80,7 +80,6 @@
 @Mews_Flash
 @Meow09i8i
 @MeowKitten007
-@TheCatMeowMedia
 @LoventoFilms
 @FunnyMeow-q1j
 @meowworldcat-c9m
@@ -6767,7 +6766,6 @@
 @untoldfact_s
 @hlstories-u5j
 @karmaechostories-c8e
-@truthpulsenews4
 @onelastthingl0
 @jonexplainsfinance
 @orcbondsaga
@@ -9863,7 +9861,6 @@
 @lbiskiss3
 @eltronoylagloria
 @kozmio
-@manisha9570
 @veelog-f7o
 @dieuanhmb888
 @thegranddossierus
@@ -10612,7 +10609,6 @@
 @VelvetNoir-l1h
 @Shadowedtalesbylola
 @StillHumanStories-7
-@TheSilentBoss-i5l
 @Kiraslovestories
 @K9ofCourage
 @KindredEchoStories7py
