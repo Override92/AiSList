@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11786
+! Total Channels: 11791
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11802,3 +11802,8 @@
 @themacroatlas
 @exoticexpat1
 @daydreamertalesart
+@MettleUK
+@BAPStories
+@BenHodges_Reports
+@BritishWarArchive
+@Bikers_LastRide
