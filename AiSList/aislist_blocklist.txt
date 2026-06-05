@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11962
+! Total Channels: 11966
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11978,3 +11978,7 @@
 @TechGeniusHub-AI
 @AaronIndigo
 @BotShelf
+@artofficialintelligence
+@johnjanuary7249
+@MindSplice5045
+@TheAITeaserLab
