@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12002
+! Total Channels: 12000
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -438,7 +438,6 @@
 @Nico_and_Luna
 @Afraid2Sleep
 @AI_ESteem
-@Ai_Verse-099
 @Ai4K-x7x
 @AIAssemblyLine
 @AIDeutschland
@@ -8851,7 +8850,6 @@
 @Processory-l7g
 @FactoryProcessAI50
 @IndustrialInsiderGlobal
-@SmartFactoryExplained
 @Behindprocess07
 @Rowmaxo
 @GlobalFactoryProcess1000
