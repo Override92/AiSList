@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12008
+! Total Channels: 12004
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6800,7 +6800,6 @@
 @Arctic-Pulse-07
 @SuperRescue-n3s
 @endure-earth
-@WildCatRescue
 @frozenlivestv
 @NextGenGigaFactory
 @WildReliefTV1
@@ -9310,7 +9309,6 @@
 @AI_Music_Aria
 @mindsetshift2026
 @TheExplainerBoss
-@Margaret_Elaine
 @DJ-AsikAI
 @MiniH%C3%A9rosIA
 @%E9%A2%A8%E8%BB%8A%E5%8B%95%E6%BC%AB%E7%A4%BE
@@ -9411,7 +9409,6 @@
 @TrackingOceanGiants
 @SolusAICinema
 @AItrailercinema
-@ahmedalbyaly-p4j
 @TheBeatlesStoriess
 @UnheardVoicesGLOBAL22
 @SmartAIDIGI
@@ -10200,7 +10197,6 @@
 @Viraleconomicsoffical
 @WealthBeforeWealth
 @BLACKMARKET_FILES
-@MarketSecretsNow
 @Marketsir
 @metalsandmarkets
 @MoneyMarket-t5y
