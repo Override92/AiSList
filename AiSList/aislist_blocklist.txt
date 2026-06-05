@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11846
+! Total Channels: 11851
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11862,3 +11862,8 @@
 @BianCoreMusic
 @metalmelodisvibes
 @NgerockAI
+@SHIFT85
+@essenciaaura
+@Mocaladyy
+@MidnightHighways
+@bathedinflame
