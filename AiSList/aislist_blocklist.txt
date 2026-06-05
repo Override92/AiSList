@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11935
+! Total Channels: 11940
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11951,3 +11951,8 @@
 @supercatai68
 @Mind_rott
 @StoriesbyBee
+@starwarstakestales
+@AIISTHENEWGENERATION
+@heroorantihero
+@AiReads-y1j
+@CineNova_AI-e6g
