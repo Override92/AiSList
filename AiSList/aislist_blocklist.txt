@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11822
+! Total Channels: 11827
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11838,3 +11838,8 @@
 @GenreFlipMusic
 @vortexia7
 @whatifsound-22
+@MelodyCraftChannel
+@AstigRadio-x5w
+@theragaprojekt
+@AI_Re_Sound
+@SunziqMusicCover
