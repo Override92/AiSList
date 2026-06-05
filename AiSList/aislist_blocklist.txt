@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11791
+! Total Channels: 11786
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8714,7 +8714,6 @@
 @DrNaritaEliteMen
 @TrueVietnamDocs
 @Physics_With_William
-@CandidusVox
 @KhmerHomeFood168
 @Animalegos
 @KindLens-g1c
@@ -8780,7 +8779,6 @@
 @realmarkethistory
 @drainesramirez1
 @oracion_de_medianoche
-@gospelmessage586
 @syotudio
 @CleverSpacesGirl
 @sAISMRofficial
@@ -9462,7 +9460,6 @@
 @itzneonvxx
 @dilkashai
 @midnightuncovered-g3h
-@sangreyarchivo0
 @traiciondesangre09
 @johnwillermegamed
 @globalgospelvibes-f1r
@@ -10193,11 +10190,9 @@
 @BroomFinance
 @CanadianFinancewithDavid
 @DefensiveFinanceHistorian
-@economymeetfinance_24
 @ElitistFinance
 @faithandthefinances
 @AlphaEconomey
-@BehindGlobalEconomy
 @Economicbreakdown1
 @EconomicCrises101
 @History_meets_Economy
