@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11920
+! Total Channels: 11925
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11936,3 +11936,8 @@
 @AnnFindAll
 @SmirkzyStudio
 @Fishy.Ai.Animations
+@AIZenStudios
+@MoneyDegree
+@KorpiAI
+@MockTuneAI
+@MTALab12
