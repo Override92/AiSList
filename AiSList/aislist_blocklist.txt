@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11930
+! Total Channels: 11935
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11946,3 +11946,8 @@
 @Sahuritos
 @memeland-v7k
 @dostpappu
+@VHSFMMemory
+@BlimpyPig
+@supercatai68
+@Mind_rott
+@StoriesbyBee
