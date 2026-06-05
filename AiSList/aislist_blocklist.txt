@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12006
+! Total Channels: 12008
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12022,3 +12022,5 @@
 @EnglishStorieswithNora124
 @Redditconfessions-A3d
 @RevengeActivated
+@wootechvlog
+@FinancePulse-w1x
