@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11827
+! Total Channels: 11832
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11843,3 +11843,8 @@
 @theragaprojekt
 @AI_Re_Sound
 @SunziqMusicCover
+@voxxaimusic
+@echomuvic
+@RockverseAI
+@J3ssn3ss_Records
+@TwistedF8band
