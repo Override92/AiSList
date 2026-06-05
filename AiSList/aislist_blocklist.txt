@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11837
+! Total Channels: 11842
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11853,3 +11853,8 @@
 @BEGALAB
 @MusicDubara
 @DieselCountry7
+@DrunkenIrishBard
+@FakeMusicLab
+@Aivibe35
+@KANTOVIBEPH
+@Robot_Jams
