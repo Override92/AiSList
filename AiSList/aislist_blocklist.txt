@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11981
+! Total Channels: 11986
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11997,3 +11997,8 @@
 @CatastrophesReconstitu%C3%A9es
 @policecamrevealed
 @KCSeriesNetwork
+@NebulaProphecy
+@archivesdelhistoire
+@mapleeaglenews
+@NightScrollreddit-v6n
+@ScoralStories
