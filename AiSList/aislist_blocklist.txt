@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11996
+! Total Channels: 12001
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12012,3 +12012,8 @@
 @SofiaNeverforgives
 @AlexsRevengeDramainee
 @TalesofHearts-p9g
+@StrategicWatchtower
+@ApexLegendsDrama
+@Urban_emotion
+@UnheardStories-b9o
+@StoryPulse-x5f
