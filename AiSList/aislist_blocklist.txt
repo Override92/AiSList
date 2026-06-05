@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11905
+! Total Channels: 11910
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11921,3 +11921,8 @@
 @SuperEpicStudios
 @WeGoTunes
 @MoonwellMelodiesMusic
+@KingLaughtrackAIFunnies
+@sovibes_glitch_memes
+@aibaby-s1n
+@DontGrowThisAi
+@ReenuSahu-wx3ho
