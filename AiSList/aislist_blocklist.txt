@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12001
+! Total Channels: 12006
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12017,3 +12017,8 @@
 @Urban_emotion
 @UnheardStories-b9o
 @StoryPulse-x5f
+@TheLastRevenge-f9v
+@ShockingTrueCrimeSaga
+@EnglishStorieswithNora124
+@Redditconfessions-A3d
+@RevengeActivated
