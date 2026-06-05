@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12003
+! Total Channels: 12002
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9757,7 +9757,6 @@
 @coco_love_music
 @baladasinolvidables-o6w
 @mwtalkk
-@마트맵
 @bambiememes
 @navydebrief
 @EpicOrchestralFan
