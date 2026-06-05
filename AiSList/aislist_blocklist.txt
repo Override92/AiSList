@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11925
+! Total Channels: 11930
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11941,3 +11941,8 @@
 @KorpiAI
 @MockTuneAI
 @MTALab12
+@ReachMora
+@YourBrainRoom
+@Sahuritos
+@memeland-v7k
+@dostpappu
