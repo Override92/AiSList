@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11800
+! Total Channels: 11795
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6811,7 +6811,6 @@
 @Encountersworld
 @Unspoken.animalstories
 @Frozen_Heartt
-@ArcticGrandma8
 @ArcticKyunney
 @RescuePath-6868
 @WildSurvivalStrong
@@ -6941,7 +6940,6 @@
 @BritishNostalgia1
 @Bodycamfactory-yt
 @BlackKarmaTV1
-@TopJourneyTV
 @FactoryHub0.1
 @leofarmus
 @LWTWildlife
@@ -6962,7 +6960,6 @@
 @%E5%AE%89%E5%A5%BD%E4%BA%BA%E7%94%9F
 @CheatingLabs-i4b
 @HerFamilyStory
-@RevengeBureau
 @SilentThunderRiders
 @RevengeSignal12467
 @Blackceotales
@@ -7074,12 +7071,10 @@
 @HealthTipsEveryday-i7f
 @Dr.KarimSant%C3%A9Moderne
 @doctorbecker
-@MargaretReflexions
 @Doctors.Orderss
 @cecilymarrow
 @MichaelHarrisAnalysis
 @AlanPolitics
-@ProfJiangAcademy-123
 @Faith_Spotlight
 @PowerfulMind-o7q
 @BibleFiles365
