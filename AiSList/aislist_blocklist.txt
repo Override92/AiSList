@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11986
+! Total Channels: 11991
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12002,3 +12002,8 @@
 @mapleeaglenews
 @NightScrollreddit-v6n
 @ScoralStories
+@VelvetStories9
+@BeyondBeingDad
+@jamiestorie
+@MundoManhwaEspa%C3%B1ol
+@macroinveters
