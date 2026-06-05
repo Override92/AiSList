@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11856
+! Total Channels: 11861
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11872,3 +11872,8 @@
 @FyreAblaze
 @TwistedF8covers
 @pulsehave
+@RakistaReimagined
+@Kro.nl2000
+@Ezra-369
+@DeGrasseMindset
+@epicaudition
