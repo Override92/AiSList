@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11981
+! Total Channels: 11980
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9034,7 +9034,6 @@
 @BodycamIncidentReports-c8k
 @GRMDRK41
 @WhiskerPaw-h2x
-@science.revolution
 @DoonCinema
 @RelaxingAIASMR
 @netramai
