@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11915
+! Total Channels: 11920
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11931,3 +11931,8 @@
 @funnyaislopvideos
 @top100real
 @BrrRotAmazeOfficial
+@iShowDiscoveries
+@Brainrot_Zone27
+@AnnFindAll
+@SmirkzyStudio
+@Fishy.Ai.Animations
