@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11795
+! Total Channels: 11790
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7651,7 +7651,6 @@
 @Kittys-sweet-BGM
 @IntotheDreamLofiMusic
 @WanderHarmonics
-@Leaf-Chill
 @SRH-z2m
 @SmoothBrewJazz-h1w
 @Moonizikai
@@ -7765,7 +7764,6 @@
 @PradawneDzieje
 @UkryteOdkrycia
 @WielkaStopaprawdaczymit
-@ArchiwumHistorii-g3c
 @Praecz
 @FLAGSQUIZ
 @BruceSpringsteenEsp
@@ -7793,7 +7791,6 @@
 @BibliaNaZawsze
 @PassadoExpandido
 @Mindofbrucelee
-@StrefaSamopoznania
 @TheNashvilleShuffle
 @TomaszKaminski78
 @Korze%C5%84Umys%C5%82u
@@ -7911,7 +7908,6 @@
 @Hyalbertog-q2x
 @WorldFinance2
 @IbrahimTraoreUnfolding
-@IbrahimTraoreOrigin
 @WarGrid-z
 @MarketMindset-e3b
 @GlobalContest
@@ -7964,7 +7960,6 @@
 @RodzicielskieInspiracjePL
 @LepszeHity
 @zAgatkaMusic
-@KeaganDurrant
 @mikemoney4u
 @thepsychology-t8e
 @nextlevel-you-101
