@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11976
+! Total Channels: 11981
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11992,3 +11992,8 @@
 @PawsofValor-o8m
 @Aitv0786
 @CartoonsAi27
+@OmegaMidnightTales
+@MiracleAiHub
+@KLCaird
+@CatastrophesReconstitu%C3%A9es
+@policecamrevealed
