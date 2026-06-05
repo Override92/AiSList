@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11874
+! Total Channels: 11876
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11890,3 +11890,5 @@
 @Britishly_A.I
 @cyberGiraff
 @sicifi_child159
+@TVOutOfContext
+@DRAMIONE_Entertainment
