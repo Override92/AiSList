@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11842
+! Total Channels: 11846
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11858,3 +11858,7 @@
 @Aivibe35
 @KANTOVIBEPH
 @Robot_Jams
+@Rock_Neverdie
+@BianCoreMusic
+@metalmelodisvibes
+@NgerockAI
