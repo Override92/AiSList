@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11832
+! Total Channels: 11837
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11848,3 +11848,8 @@
 @RockverseAI
 @J3ssn3ss_Records
 @TwistedF8band
+@MythicalVinyl
+@rockworship94
+@BEGALAB
+@MusicDubara
+@DieselCountry7
