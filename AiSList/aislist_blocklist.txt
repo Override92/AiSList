@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11851
+! Total Channels: 11856
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11867,3 +11867,8 @@
 @Mocaladyy
 @MidnightHighways
 @bathedinflame
+@Synthartik
+@MarscifyEcho
+@FyreAblaze
+@TwistedF8covers
+@pulsehave
