@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11992
+! Total Channels: 11989
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1577,9 +1577,7 @@
 @asmrprovibes
 @littlegirlomama
 @famcharmasmr
-@kittysphere-z5k
 @calmstudio-z8n
-@productionprocesse
 @ainextgenfactory
 @allgenfactory
 @rhythmoffactory
@@ -9195,7 +9193,6 @@
 @TheChosenVibration
 @ChosenOnesDivineMiracles
 @RichardLawson-z1r
-@ChosenLightCalling777
 @ArchangelMichaelUSA
 @empaths-e2f
 @RogueHeartLegends
