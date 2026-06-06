@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11988
+! Total Channels: 11986
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5066,7 +5066,6 @@
 @KENZO-OFFICAL19
 @RayDalio-n1n
 @jeremynewberger
-@Nightfallsstudio90
 @DoorbellMomentsdaily
 @BlockBull-01
 @AthenaQuant
@@ -11996,7 +11995,6 @@
 @rebrainmoments
 @naturalbeauty-t2v
 @atrorium
-@justsilvern
 @mathinvests
 @conceptburstyt
 @truecrimeexplorer-k2m
