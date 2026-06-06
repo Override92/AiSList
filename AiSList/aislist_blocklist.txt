@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11994
+! Total Channels: 11992
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6621,7 +6621,6 @@
 @zemstazkasia
 @diplomatspast
 @calosciowezdrowiemezczyzn
-@animationpink
 @Worldnomics-Asianguy
 @historieukryte10
 @MocneKocieHistorie
@@ -9255,7 +9254,6 @@
 @ThePolygonDreamer
 @--N4R1
 @moneywarexposed1
-@FeynmanBeyondIntuition
 @CelebZone-y5b
 @BullionTruth
 @StsauveurSheryll
