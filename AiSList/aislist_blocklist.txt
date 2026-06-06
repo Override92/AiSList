@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11986
+! Total Channels: 11988
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -2950,7 +2950,7 @@
 @ThePixelPawsAI
 @RedditMorty
 @DailyRedditTales-t8r
-@RedditConfessions5
+@aeronomicshq
 @PadaTales
 @K4CHANs
 @redditstoryTrail123
@@ -12002,3 +12002,5 @@
 @truecrimeexplorer-k2m
 @rupeshlabel
 @thestickroartv
+@untoldlegacyofbrucelee1x
+@aivm-music
