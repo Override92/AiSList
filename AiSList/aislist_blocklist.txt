@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11990
+! Total Channels: 11986
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1831,7 +1831,6 @@
 @TheRealTruthCanada
 @WW2RealBattlesExplained
 @Beyondthelens-r3v
-@TechReport-v8f
 @SurvivalHistory11
 @FuriousGarageYT
 @AmericasWarfactories
@@ -2016,7 +2015,6 @@
 @ww2tales15
 @worldwar2legends
 @battlegroundchronicleswwii
-@ww2historyinsights
 @warodyssey
 @ww2history-263
 @ww2archives1939
@@ -2027,12 +2025,10 @@
 @archivesofconflict
 @ww2.legacy
 @ww2historytrack
-@ww2recap13
 @ww2battlefieldtales
 @decodedww2
 @ww2storiesz
 @ww2dust
-@eisenhowerwwiifiles
 @ww2frontlinefiles-j2p
 @thehiddenfront-ww2
 @bitesizeww2
