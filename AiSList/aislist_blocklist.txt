@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12000
+! Total Channels: 11995
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4593,7 +4593,6 @@
 @Inerturium
 @LiminalStages
 @WeveSeenThisBefore
-@BoringDollar
 @IanOchiengAI
 @USEconomyBrief-123
 @theuntoldempire_official1
@@ -4745,7 +4744,6 @@
 @redsilence-v8o
 @MyAICareer
 @ImaginePhysics2.0
-@susskindperspective
 @2ILOVE12
 @TheArtofInvesting-SamZell
 @KarenBoundaries
@@ -4787,7 +4785,6 @@
 @EconInsiderofficial
 @Wealth_Chain
 @Jack_AT
-@BuffetKnowledgeHub
 @AIforGood
 @TheFinanceGuyOfficial
 @SilverAIWealth
@@ -4798,7 +4795,6 @@
 @BNGQUEENC
 @WeisheitdesKapitals
 @thefoodshow587
-@HERO_HAVUC
 @HerocamAI
 @tunz_tube
 @TheCurrencyWarning
@@ -4922,7 +4918,6 @@
 @SingAlongRhymes-y7w
 @SuperKidsRhymes-s9r
 @rhymerealkids
-@WealthLab-r6e
 @VoidOfFears
 @TheTwistedDream
 @TeenStorySchool
