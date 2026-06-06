@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11998
+! Total Channels: 11994
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6299,7 +6299,6 @@
 @WaggleAid
 @BlackjusticefilesTv
 @Dr.ElenaCruzHealth
-@capitalbreakdown011
 @GrandmaSecretVibes
 @WideLensMedia-p4r
 @oliver111-g1k
@@ -6423,7 +6422,6 @@
 @Unfolded_Finance
 @RubyReports
 @HardwarePulse-v9u
-@DanielSatoNews
 @NavyClash
 @JackNewsUSA
 @SoldiersofValor
@@ -9807,7 +9805,6 @@
 @AGCryptoDaily
 @synthwaveanddragons
 @Epic_Ascension_Music
-@JohnAG00.2
 @TheMungerExperience
 @ScarredInvestor
 @historiashfyespanol-1
@@ -9990,7 +9987,6 @@
 @HardwareReportsByAD
 @HardXTechReport
 @HistoriaPrime1212
-@jameswallace3918
 @Judge_Reacts
 @KevinRetires
 @MasterPOVs
