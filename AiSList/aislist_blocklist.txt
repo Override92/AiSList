@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11987
+! Total Channels: 11988
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12003,3 +12003,4 @@
 @turkayworks
 @pt5films
 @CRNealJD
+@dragosoundscapes
