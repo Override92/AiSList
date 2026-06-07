@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11993
+! Total Channels: 11994
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12009,3 +12009,4 @@
 @Cyan_Waves
 @DuskRouteRadio
 @AncientStreets
+@VoxMysterious
