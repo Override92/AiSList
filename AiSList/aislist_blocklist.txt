@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11996
+! Total Channels: 11997
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12012,3 +12012,4 @@
 @VoxMysterious
 @TheFeynmanEffect-0r4
 @SilentLightsRadio
+@Global_Encounters_yt
