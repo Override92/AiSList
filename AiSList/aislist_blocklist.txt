@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11979
+! Total Channels: 11981
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11995,3 +11995,5 @@
 @anime-creation_14
 @iberianliving1
 @doctoralexromanov
+@historychronicles96
+@fxrejaul
