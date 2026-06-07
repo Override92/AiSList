@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11986
+! Total Channels: 11985
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8175,7 +8175,6 @@
 @thecurrencycode-k8i
 @FederalReport-p1i
 @PreciousMetalsMind
-@WorldAffairsToday26
 @DigitalCompassCrypto
 @UnitedStateNews-h6e
 @kenzofinance
