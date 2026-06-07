@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11983
+! Total Channels: 11979
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7322,7 +7322,6 @@
 @newtype-beats
 @simoulix
 @aislumber
-@darkmusicds
 @automatedsounds
 @shadowmanjaxson
 @abyssaimusic
@@ -8372,7 +8371,6 @@
 @FlugrechtHilfe
 @HiddenDignity
 @TheStorysScape
-@PowerLineExposed
 @TheMoneyEchoes
 @k_pop_lovers-d4m
 @Hiddenchronicles11
@@ -10112,7 +10110,6 @@
 @LateNightReport-u6m
 @NewYorkReports1
 @NordReport
-@RedLineReport-p9e
 @RedLineReport99
 @REDLINEREPORTS-x3w
 @The_Economy_Report
@@ -10129,7 +10126,6 @@
 @AIDailyNews-s9h
 @AIDJsoul
 @ailofimelody
-@aimusicmii
 @AINexLayer
 @AIPaperSlop
 @AiShivam099
