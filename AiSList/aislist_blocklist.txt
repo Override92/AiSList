@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11984
+! Total Channels: 11983
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10091,7 +10091,6 @@
 @PeterZaczek
 @aimusiclaw
 @SeoulFlowAI
-@Tokai_no_Kirameki_JP_City_Pop
 @linuxaistudio
 @NightPsalms-h5v
 @PowerBench123
