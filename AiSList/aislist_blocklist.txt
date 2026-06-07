@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11988
+! Total Channels: 11984
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5498,7 +5498,6 @@
 @TheSilentEconomy-1
 @IraqiDinarNewsline12
 @VerySeriousFinance
-@alianabella-f3g
 @GlobalMarketPerspective
 @kingmovieai
 @Explains121
@@ -5797,7 +5796,6 @@
 @JohnAGVault
 @YourJohnAGInvestments
 @BoringCurrencyInsights
-@MrJohnAG-l3e
 @CrystalMindAudio
 @MacroShieldMethod
 @JohnAGDaily
@@ -9647,7 +9645,6 @@
 @%E8%81%B0%E6%98%8E%E7%9A%84%E6%8A%95%E8%B3%87%E8%80%85
 @InsideBuffettMind
 @RichFutureIndia
-@MoneyCollapse-f8w
 @esshorts20
 @Factoryflow-NE
 @InsideFactory1.0
@@ -10952,7 +10949,6 @@
 @aisleepheaven
 @AIStudyHub.18197
 @AIVision-h5t
-@RachelDailyBrief-m2g
 @AnimatedGeopoliticss
 @BreakingPoliticsUSA
 @GeopolitikKlartext
