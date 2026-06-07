@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11985
+! Total Channels: 11984
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8309,7 +8309,6 @@
 @maxadmarketing
 @red-forge
 @duckkeynes
-@ai_hub_0109
 @ww2untoldsecrets
 @monkeyking143e
 @lhistoriendespieces
