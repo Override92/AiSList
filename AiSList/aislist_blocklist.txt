@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11984
+! Total Channels: 11981
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8200,13 +8200,11 @@
 @AISponge3
 @US.NewsReport
 @ShadowCamping-y3p
-@kia.ai.studio
 @valhalla-drums
 @TheSharpDressedGent
 @TheProductCritiques
 @PaintowyNauczyciel
 @justmemoryvision
-@HarringtonnReports
 @tinybloopandmimi
 @tidcartoon67
 @englishedenus
@@ -8214,7 +8212,6 @@
 @dailydoseshow1
 @redditexposed_x
 @sablal1212
-@bibledaysyt
 @syedahkampov
 @iftikhar.hussa9
 @futureworld-tech
