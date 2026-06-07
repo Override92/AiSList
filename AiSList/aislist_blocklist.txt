@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11984
+! Total Channels: 11986
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12000,3 +12000,5 @@
 @aivm-music
 @twinklestar-n6t
 @anime-creation_14
+@iberianliving1
+@doctoralexromanov
