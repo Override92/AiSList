@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11990
+! Total Channels: 11991
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12006,3 +12006,4 @@
 @dragosoundscapes
 @Bytableus
 @Zyykronsound
+@Cyan_Waves
