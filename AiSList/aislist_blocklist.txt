@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11997
+! Total Channels: 11994
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -248,7 +248,6 @@
 @MiniVerseAI1
 @goody_ai
 @Todd_AI_Animal
-@Catanimation818
 @catztvfishtank
 @aishorttime
 @AprilAI.Channel
@@ -794,7 +793,6 @@
 @historyneedtoknow705
 @Historyvisit
 @90sNeonSoul
-@AnimalDoesWhatDaily
 @ChillCityPop
 @Geopopeverydayscience
 @angelina-49
@@ -9089,7 +9087,6 @@
 @ankitkumar_.009rd
 @lasichi
 @regretsicarried
-@szepthistoriii
 @incrediblemind13
 @torahmadesimple
 @piensanciencia
