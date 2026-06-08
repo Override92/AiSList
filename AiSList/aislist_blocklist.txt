@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11993
+! Total Channels: 11988
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5162,7 +5162,6 @@
 @AutoLine-c2z
 @RevNation-d1d
 @Productionpulseofficial
-@RevRadar-u9y
 @CarXpress-d9e
 @DreamRides7
 @THAutoReviews
@@ -5207,7 +5206,6 @@
 @SamuraiGirl-official
 @MindsetMechanics-c9k
 @SaudadeArcade
-@BriefUpdate
 @DraftScience
 @DailyTruthReport-g4x
 @UncoverTruthx
@@ -5275,7 +5273,6 @@
 @norgemilitar
 @opowiesciokarze
 @crking41
-@dallioprinciples
 @filosochocos
 @thecosmicperspective-x5r
 @cactusninjastories
@@ -6426,7 +6423,6 @@
 @YourJohnRO
 @RogersPreciousMetalsInsights
 @ProfitMindset-r6h
-@TheJohnAGShow
 @QuietMoneyJohnAG
 @MacroCurrency
 @KyricFinancial
@@ -11004,7 +11000,6 @@
 @africantalesbychinma-e3k
 @starchasemedia
 @goldenaiaeon
-@midnightpsalmsbible
 @backdoormonkeys
 @primalstickman
 @FarhanAli-j8f8i
