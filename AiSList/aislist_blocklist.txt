@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11995
+! Total Channels: 11990
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3503,7 +3503,6 @@
 @ThePeacefulWatcher
 @SunoKidsChannel
 @EpicToonKids
-@MindToActionChannel
 @JungThoughts
 @ThePhysicsParadox-c6n
 @WorldMetalMusicHub
@@ -3548,7 +3547,6 @@
 @PatriotBattlefront01
 @BuffettMoneyMentality
 @boardroombillions
-@TheInvestorsTruth-h1
 @WW2Echoes09
 @TODAYSTORIES6t
 @WarRecalled
@@ -9102,7 +9100,6 @@
 @AncientWhispersYT-p3s
 @Dailyarsenal-k6u
 @MarkDouglasWisdomFans
-@HardMoneyBrief
 @RainlightFilms
 @LeonKennedyASMR
 @SONICA_TOKYO
@@ -10975,7 +10972,6 @@
 @JordansRevengeDramaine
 @RevengeStoriesHub-r9c
 @FinalRevengeChronicles
-@TechGuardianPro
 @WarZoneRadarNews
 @HQFamilyFiles
 @Itzquanta
@@ -11730,7 +11726,6 @@
 @rdxmagicworld
 @kingdomofpredatorstv
 @ellah-p3r
-@seniormoneyreport
 @rebrainmoment
 @bngfotball
 @themindtrapstories
