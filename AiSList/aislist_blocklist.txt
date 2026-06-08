@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11990
+! Total Channels: 11992
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12006,3 +12006,5 @@
 @Global_Encounters_yt
 @jkcricketarena
 @ai-sunil-2001
+@historiadocumentadayt
+@lsinforma
