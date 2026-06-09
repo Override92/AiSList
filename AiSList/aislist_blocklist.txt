@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11985
+! Total Channels: 11981
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7686,7 +7686,6 @@
 @CryptidLogs
 @WesternRomance-wildwest
 @GodsMessageJoy
-@werewolfden
 @HistoryOfForgottenSouls
 @nextmovierecap
 @TrailCamUnfiltered
@@ -8747,7 +8746,6 @@
 @SmartCents-w6z
 @monitoresmonster4352
 @RelaxationASMR7
-@SatisfyHubASMR888
 @BimoOfficialTV
 @TaktykiPrzetrwaniaRetro
 @RaportWojskowy
@@ -9042,7 +9040,6 @@
 @karmafailed
 @hoastoryhub-q4h
 @slowianska-dusza-ks
-@warfaredecode
 @restorefusion
 @모구랩
 @learnstoryenglish-k3x
@@ -11918,7 +11915,6 @@
 @jamiestorie
 @MundoManhwaEspa%C3%B1ol
 @macroinveters
-@VengeanceHub-m9b6m
 @SnapRevengeStories
 @SofiaNeverforgives
 @AlexsRevengeDramainee
