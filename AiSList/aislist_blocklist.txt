@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11986
+! Total Channels: 11985
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8213,7 +8213,6 @@
 @cartoonvibe2.0-o8p
 @primediscoveries-n4v
 @RichardDavis-d4e
-@MilitaryMatchesHQ
 @ApexPsychologyYT
 @CheetahRecaps
 @imnotarobotytb
