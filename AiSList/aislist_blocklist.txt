@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11993
+! Total Channels: 11989
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5946,7 +5946,6 @@
 @kenny-c4g7e
 @CanadaGlobalEconomics
 @SophieBennett0
-@FinanceMeetsForce
 @tajemniceancestralne
 @AtTanzeelQuran
 @TheCanadaChronicles
@@ -6807,7 +6806,6 @@
 @napoleonmindset-r
 @swietekody_pol
 @historiabezlitosci
-@billionairethinking-q1o
 @explainitfast.111
 @worldpanicnews
 @smartmoneywithalex
@@ -7314,7 +7312,6 @@
 @automatedsounds
 @shadowmanjaxson
 @abyssaimusic
-@aimusicflow9
 @djrflame
 @lanser9407
 @steup478
@@ -10834,7 +10831,6 @@
 @InnovationUncovered
 @IronAcre
 @itsthedollarlab
-@KenzoVault
 @kevinolearyfanclips
 @Kilowow-h9k
 @KindnessCornerStories
