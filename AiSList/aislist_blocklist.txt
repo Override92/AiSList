@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11989
+! Total Channels: 11985
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4656,7 +4656,6 @@
 @CapitalCollapseHistory
 @QuincyinvestW
 @WolffAn%C3%A1lisisGlobal
-@DiariodeEconom%C3%ADa
 @FinoraTV
 @IndependentEconomicAnalyst
 @FeynmansMindset031
@@ -5285,7 +5284,6 @@
 @syorldinvestsus
 @newonenooneee
 @wolffanalisisglobal
-@diariodeeconomia
 @datosestrategicos
 @skeletonsociety04
 @fisicasinfronteras
@@ -9053,7 +9051,6 @@
 @niezwykly-umysl
 @piotrcienwronski
 @tysiacletniehistorie
-@boneverse-14ry
 @0.ultimate
 @tweast-786
 @woollyhearts
@@ -10162,7 +10159,6 @@
 @AramaicPrayer
 @Archlang
 @Audioviser
-@AwakeningCipher
 @BackyardBirdMind
 @BattlefieldBreakdown-w
 @BenHodgesAnalysis
