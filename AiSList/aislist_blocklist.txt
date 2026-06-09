@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11995
+! Total Channels: 11990
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8071,7 +8071,6 @@
 @JohnBoringCurrency
 @FilmsRecapped
 @Let-Me-Tell
-@TheMacroPrinciples
 @BeforeHistory-Official
 @ReSongPROJECT
 @EinsteinOdkrywa
@@ -8375,7 +8374,6 @@
 @JohnRichertsonMedia
 @WarCurrent
 @jiangxueqinbriefing
-@GlobalFlashpoint-2
 @TheTippingPoint-f3y
 @EconomicsKingdom
 @TheSomberSea
@@ -8860,7 +8858,6 @@
 @GlobeEXPL
 @BuriedFix
 @DailyNewsFrontline
-@CivicPolitique-5
 @RedCashew-z9f
 @mpelembe
 @KRB_761
@@ -10050,7 +10047,6 @@
 @Historics-wars
 @OldworldwisdomUSA
 @JohnAGCo
-@JohnAGEconomicFiles
 @JohnAGReminders-o3t
 @JohnAGSays
 @JohnAGUnfiltered
@@ -10083,7 +10079,6 @@
 @WorldBriefLive
 @CapitolNewsReports-e6s
 @DanielBrooksReport-u6z
-@EconomicSignalReport
 @EthanColeReport
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
