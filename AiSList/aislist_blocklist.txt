@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11976
+! Total Channels: 11973
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5018,7 +5018,6 @@
 @S%C5%82ynnepliki
 @InvestiCore-v9o
 @FinSightCapital
-@CapitalFinance-f3c
 @TheGoldenAgeInsight
 @SavageReviewsOfficial
 @YourTechGuruOfficial
@@ -6409,7 +6408,6 @@
 @YourJohnRO
 @RogersPreciousMetalsInsights
 @ProfitMindset-r6h
-@QuietMoneyJohnAG
 @MacroCurrency
 @KyricFinancial
 @real-john-ag
@@ -6417,7 +6415,6 @@
 @PulsePointReport-d6e
 @TheAsianGuy-JohnAG
 @Johnnagg
-@TheFeynmanPhysics-3.5M
 @ThriveTribe-c3v
 @richardphysicss
 @PhysicsasToldbyRichardFeynman
