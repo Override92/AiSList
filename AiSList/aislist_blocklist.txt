@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11968
+! Total Channels: 11967
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10427,7 +10427,6 @@
 @AIOverlords
 @TheThreeEyedRaven
 @CyberTupiniquim
-@learn-knowyourhistory
 @INTERASTRAE
 @MamaBeos
 @bradclarkAI
@@ -10442,7 +10441,6 @@
 @LegaciesoftheMultiverse
 @chronosreenact
 @EpicMovieAIChannel
-@j2i_movies
 @Mr.Ravenhurst
 @BesterBattlegrounds
 @VictorianelleArt
@@ -11984,3 +11982,4 @@
 @streamer-files
 @ruta-al-ingles
 @seniorhealthandfitness-e7i
+@humanityexplained-b2z
