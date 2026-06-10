@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11973
+! Total Channels: 11971
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6593,8 +6593,6 @@
 @NowoczesnaArmia-g3c
 @andrzejoodkrywca
 @AIEvolutionVisions
-@UdayanKishore
-@AIVERSE404
 @AncientSurvivalChronicles1
 @The.ancientworld
 @whatiflabsoficial
