@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11977
+! Total Channels: 11976
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5335,7 +5335,6 @@
 @UKRealityReport
 @historybuub
 @USFinancialReality24
-@MyStories-CM
 @VeiledDreamsStories
 @FlipStories9999
 @WealthFreedomPath
