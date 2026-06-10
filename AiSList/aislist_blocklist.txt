@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11967
+! Total Channels: 11963
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1124,7 +1124,6 @@
 @planet_ai423
 @critterpopworld
 @blopaianimal
-@virtual_pets
 @zootopicai
 @srtanimals
 @cutelittleworld-d
@@ -10473,7 +10472,6 @@
 @healthexposed-165
 @TimeLens-j7t
 @Divine.Tales3
-@TalesByWave
 @VelvetNoir-l1h
 @Shadowedtalesbylola
 @StillHumanStories-7
@@ -11548,7 +11546,6 @@
 @FRUITY_ISLAND
 @FruitSlashASMR
 @FinanceDadi
-@FinanceHistoryChannel1
 @financelecture123
 @FinanceLoreYT
 @FinanceOrbit786
@@ -11683,7 +11680,6 @@
 @bngfotball
 @themindtrapstories
 @datamons
-@themacroatlas
 @exoticexpat1
 @daydreamertalesart
 @MettleUK
