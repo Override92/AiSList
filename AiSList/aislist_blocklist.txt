@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11980
+! Total Channels: 11979
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3870,7 +3870,6 @@
 @viral_texts
 @HagenbaughPoteet
 @AfroKoreanLove-l4d
-@niasromancecollection
 @PreciousGoldOfficial
 @MrAlexyStories
 @StoryFlowDiaries
