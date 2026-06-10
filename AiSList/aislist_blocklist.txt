@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11978
+! Total Channels: 11980
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11994,3 +11994,5 @@
 @johneconomic-h1k
 @elregistrosellado
 @worldcupanthem
+@fulltime_yt7
+@financematrix-09
