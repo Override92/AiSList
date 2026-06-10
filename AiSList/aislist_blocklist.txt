@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11971
+! Total Channels: 11968
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -48,7 +48,6 @@
 @ByteKings
 @1Sea_AI
 @Numb-Zhang
-@TinyHeartsStories
 @Diapernaut
 @HFYCodeX0
 @BraveBeak1
@@ -9197,9 +9196,7 @@
 @CelebZone-y5b
 @BullionTruth
 @StsauveurSheryll
-@SimpleCurrency2.0
 @The-Compound-Effect-1
-@Lessons-fromOmaha
 @Investors-Compass-1
 @SmartMoney-Journal
 @ValueInvestor-Lab
