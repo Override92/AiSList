@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11958
+! Total Channels: 11957
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3206,7 +3206,6 @@
 @SAGEstories3
 @RealUndercoverStories
 @JohnWayneForgottenLegends
-@PawsofHope-9m
 @royalchampion7
 @GrimMedievalTales
 @VoiceBeyondColor
@@ -10676,7 +10675,7 @@
 @DivineFaithHub-r8s
 @AnotherMe1998
 @CrystalMoonStudio
-@Bennyssai
+@morganbenny-28
 @PageTurnerTrailers
 @AIStoryGardenbd
 @Bowaha
