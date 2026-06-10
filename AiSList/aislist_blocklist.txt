@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11982
+! Total Channels: 11978
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -690,7 +690,6 @@
 @catandpuppyrescuetails
 @veggiefun89
 @story_snapaz
-@pawheroes14
 @bravepets-h6f
 @rescuebykindness
 @bravecatss
@@ -749,7 +748,6 @@
 @savethebaby-p4u
 @thechoicelabtv
 @savebabyai
-@rabbitsavebaby
 @pawmedian
 @pawstory-ng6pp
 @cuteanimalplanetchannel
@@ -3525,7 +3523,6 @@
 @MoneyArchive-Official
 @TheUntoldEmpire-t7e
 @FinanceEconomistt
-@FINACEWAR
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
 @MissileDiscovery
@@ -3792,7 +3789,6 @@
 @AutoReview-fe1
 @autonextlevel
 @MotivationalHub-d3k
-@CapitalReveal
 @EchoesfromPyongyang-911
 @SemillasAncestrales2000
 @Explica2-dos
