@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11975
+! Total Channels: 11976
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11991,3 +11991,4 @@
 @fulltime_yt7
 @financematrix-09
 @streamer-files
+@ruta-al-ingles
