@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11959
+! Total Channels: 11955
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8082,7 +8082,6 @@
 @ColdReason
 @CanadaValor
 @Petecossaboon
-@Dr.Blackheadz
 @oldvegaslegendsyt
 @secretlifehacks-n5v
 @darkhistory-ai-s
@@ -9629,7 +9628,6 @@
 @NIEMOŻEBYĆ_POL
 @hardwaregri
 @The49thParallel-m2e
-@CrockettPrimeyt
 @POVrank
 @Maiden_Whispers
 @elohimsongsworship
@@ -10838,7 +10836,6 @@
 @Boss.Revenge.Stories
 @DAILYSTORMNEWS
 @northamericanewshub
-@ArcanumMedia
 @HiddenDesires-d3o
 @UnconventionalLoveStories8
 @LoversEcho23
@@ -11647,7 +11644,6 @@
 @noupulse1
 @hearttouchstories-a1a
 @jamescalloway-yt
-@dylanreports
 @revengequeen3
 @professor_explained
 @thedoctrineco
