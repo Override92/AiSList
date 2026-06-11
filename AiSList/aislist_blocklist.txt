@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11954
+! Total Channels: 11956
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6082,7 +6082,7 @@
 @HiddenJusticeArchives
 @2ndAmendmentInsights
 @OGJohnOG
-@jonagbuy261
+@david-_eacock_xtra_m
 @Boring-Jon
 @PaladinApp
 @boxcont
@@ -11970,3 +11970,5 @@
 @seniorhealthandfitness-e7i
 @humanityexplained-b2z
 @thinklikeanimal
+@asmrsheraz
+@faithwarriors-d9o
