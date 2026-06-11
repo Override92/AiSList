@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11949
+! Total Channels: 11948
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -214,7 +214,6 @@
 @ASMR_AI_STUDIO-X
 @AiDreamAsmrai
 @tususuASMR
-@ASMRFantasyVibes
 @youtubeshortsasmr
 @WhisperDreamsASMR-no1
 @ASMRAIbyClara
