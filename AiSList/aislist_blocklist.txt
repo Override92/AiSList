@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11960
+! Total Channels: 11959
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7867,7 +7867,6 @@
 @DailyProcess-v1s
 @Processzonevideos
 @SKMTweetExpert
-@ProfessorJiangEconomy
 @LittleSoulStories-s8g
 @Blaze_Pop_Music
 @YtAhmedSain
