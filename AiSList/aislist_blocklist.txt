@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11956
+! Total Channels: 11959
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11972,3 +11972,6 @@
 @thinklikeanimal
 @asmrsheraz
 @faithwarriors-d9o
+@hooperhooperz
+@poppinlab
+@synthwaveheroes
