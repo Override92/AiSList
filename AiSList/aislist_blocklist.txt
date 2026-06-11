@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11954
+! Total Channels: 11953
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9778,7 +9778,6 @@
 @chengai-q4x
 @24kontur24
 @the-currency-007
-@beenaexplainsmoney
 @famechronicles75
 @tinkrreviewsguides
 @themilitaryintel1
