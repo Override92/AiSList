@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11926
+! Total Channels: 11923
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1794,7 +1794,6 @@
 @CanadiansAtWar
 @TheStoryKeeper4k
 @Since1945s
-@IconicReplies
 @SecretsofWWII-8
 @ColdWarInsightss
 @lume-channel
@@ -5597,7 +5596,6 @@
 @KarmasRevenge.0
 @calmstories12
 @bruceleestoriess
-@leylaozetler
 @lafuriadelabueloo
 @slynnepliki
 @johnagexposed
@@ -11594,7 +11592,6 @@
 @AIVisionaryStudio-h7z
 @AIvisionero
 @KevinFinanceK
-@KevinMartin450-m1d
 @TheHiddenEconomy2.0
 @SilentMercy-c3e
 @mercyisromancetales
