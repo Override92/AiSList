@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11934
+! Total Channels: 11930
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4287,7 +4287,6 @@
 @HistoFund2025
 @M%C3%A9todoWarrenBuffett
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
-@AlertaBeneficiosUSA
 @ConstructorVisionario
 @modomillonarioesp
 @FinanzasAburridasTV
@@ -4466,7 +4465,6 @@
 @KoryoKeeper
 @LaLeLoBard
 @JazzHazeYT
-@GlobalWatchHQ
 @AiFantasyWorldi
 @ree_ree0513
 @ai.mariaa
@@ -4627,7 +4625,6 @@
 @marketpulsedaily68
 @TwoNationHistory
 @stories4361
-@theeconomicmind1
 @QuincyinvestW
 @FinoraTV
 @IndependentEconomicAnalyst
@@ -10132,7 +10129,6 @@
 @terminalfault
 @historyshift.channel
 @PivotPointHistory01
-@caveman.lore16
 @celticsoulambience
 @miloexplorer
 @feynmaninfinite
