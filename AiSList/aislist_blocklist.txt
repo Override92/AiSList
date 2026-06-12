@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11930
+! Total Channels: 11929
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5020,7 +5020,6 @@
 @KNmoneytalks
 @MetalMindFinance
 @MrAG_Asian_Guy
-@Sleepy-Scribe-q4i
 @JohnAGSilverInvestor
 @FinancialUpdates7
 @MarketAura-d4n
