@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11944
+! Total Channels: 11939
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3360,7 +3360,6 @@
 @Worldwar2docs
 @Vanished-z6b
 @FOBStories
-@TheHistoryofWar11
 @KingdomChroniclesUS
 @EchoTales-i6n
 @StoryUnfolds-s
@@ -3514,7 +3513,6 @@
 @SilverSignalRoom
 @MoneyArchive-Official
 @TheUntoldEmpire-t7e
-@FinanceEconomistt
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
 @MissileDiscovery
@@ -3544,7 +3542,6 @@
 @TheHiddenEconomyTV
 @Macrosignallive
 @FinanceSaga-u6f
-@macrohub12
 @CapitalKeyy
 @Financial-reviews
 @FinanceFrontierLab-t2c
@@ -3607,7 +3604,6 @@
 @DepthPsychologyHub
 @psychologyscholar
 @PsychLens25
-@Buffettunfiltered
 @unboringfinance_official
 @JhonFeeds
 @Dolorpintadoyt
@@ -9656,7 +9652,6 @@
 @mwtalkk
 @bambiememes
 @EpicOrchestralFan
-@genzysheru
 @mythical-history
 @life-changingstories-t5j
 @genewealthtv
