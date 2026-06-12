@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11939
+! Total Channels: 11937
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3819,7 +3819,6 @@
 @RevengeCoffee09
 @SweetPaybackUS
 @Hijodeoscarwilde
-@RevengeTitanX205
 @Tale-Teller198
 @IceRevenge25
 @RevengeZoneReddit1
@@ -3869,7 +3868,6 @@
 @Revengebytruth83
 @Renacimiento_Oscuro
 @AKDesperterInterior
-@SilentDiscipline-d7x
 @Psicolog%C3%ADa.Oculta1
 @MonaEnigmaEng
 @BeyondThePorchStories
