@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11928
+! Total Channels: 11927
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3911,7 +3911,6 @@
 @ProudVeteranStories
 @304WivesClub
 @VeteranTruths-911
-@silenttruthstales
 @thefarmerstruth
 @ColdRevenge-j5z
 @DanaLoritti
@@ -5238,7 +5237,6 @@
 @norgemilitar
 @opowiesciokarze
 @crking41
-@filosochocos
 @thecosmicperspective-x5r
 @cactusninjastories
 @patrigomezzz
@@ -11944,3 +11942,4 @@
 @nightscrollhealth
 @cecilovestories
 @skystories-g2n
+@rurallawstories214
