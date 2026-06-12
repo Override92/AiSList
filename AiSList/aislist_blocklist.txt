@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11927
+! Total Channels: 11923
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5277,7 +5277,6 @@
 @KarenFallout-w5e2i
 @sufyanofficial-b6t
 @HiddenTaleYT
-@TalesThatTouch-2
 @dollarlogic17
 @yourjonag
 @HeavenTestimoniess
@@ -5350,7 +5349,6 @@
 @hiddensignalsfficial
 @forensicmacro
 @Healovaai
-@MetalKpop
 @psy_dubby
 @FinoreaOfficial
 @TruthBehindEconomics
@@ -9327,7 +9325,6 @@
 @Inside.Mega.Factory
 @AllFactoryItems
 @VertexProcess
-@Howproductaremade
 @FactoryProcessHub-x1r
 @InsideFactoryWalls
 @FactoryUnfolded
@@ -10555,7 +10552,6 @@
 @ChilZorro
 @AiMoneyMine
 @hazeltalkshistory
-@rewiredwealth2
 @mymystories
 @massmanifesto
 @hindiarchivesdoc
