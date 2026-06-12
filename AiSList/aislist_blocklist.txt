@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11924
+! Total Channels: 11926
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11940,3 +11940,5 @@
 @beautyforfuel
 @kaifyyhighlights
 @thehistoryvaultchannel1
+@uivm-music
+@newsfootball365
