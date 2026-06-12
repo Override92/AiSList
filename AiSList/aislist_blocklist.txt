@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11929
+! Total Channels: 11928
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5063,7 +5063,6 @@
 @FinanceCompass111
 @ADragonNaturally
 @VionixMusic12
-@novabeatsrecord
 @hakimthanh
 @CoverNusantara
 @RiRiEd-i8r
