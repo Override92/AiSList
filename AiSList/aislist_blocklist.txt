@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11919
+! Total Channels: 11918
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8056,7 +8056,6 @@
 @theepicmetalviolincovers-p4
 @whiskeyroadradio
 @ilovedyouineverylife
-@feynmanexplainsphysics516m
 @eleanorvancehealth
 @shadowofwesteros
 @sekretypodmaska
