@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11920
+! Total Channels: 11919
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8827,7 +8827,6 @@
 @tekingame
 @diy_finance_hacks
 @thesilverrabbi
-@drdavidfoster
 @rexdayoutube
 @letters.to.myself_in
 @жизнь-х3п
