@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11918
+! Total Channels: 11919
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11934,3 +11934,4 @@
 @goalzonegootball
 @fugazyfilmsanimation
 @dailyslate01
+@zoomersriset
