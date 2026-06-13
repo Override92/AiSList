@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11912
+! Total Channels: 11908
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7921,7 +7921,6 @@
 @Socialsurge01
 @ProfessorJiangGlobalCuration
 @warnomics-342
-@ProfessorJiangMindset
 @echotronu
 @epicaiofficial
 @AI_DREAM_ASMRR
@@ -8860,7 +8859,6 @@
 @RootsofFaith-SK
 @RockOfAgesWorship
 @ThePatientCapital-2
-@OgJohnAg-n3g
 @XBoosstt
 @AdeptusAnthemicus
 @SmartFactory26
@@ -9810,7 +9808,6 @@
 @YourAIGuy09
 @todatalkseconomy26
 @Ryanstorycorner
-@Cr%C3%B3nicasProhibidas2
 @WolfAccumulate
 @fruitloveisland012
 @FruitLoveIslandAiSeries
@@ -10091,7 +10088,6 @@
 @cinema-novascope
 @reddomation
 @Revenge_Recall
-@cronicasprohibidas2
 @DestinySpace
 @rangeroftherealms
 @ChinaPuzzle-zyq
