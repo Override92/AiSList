@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11921
+! Total Channels: 11918
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5225,7 +5225,6 @@
 @billionairelifestyle0813
 @WeAreJazz
 @AdamBriefing
-@legendarycricketer
 @PastFutureSounds
 @techpulse_uk
 @NarrativeStories0
@@ -11060,7 +11059,6 @@
 @KwantFizyka
 @HistorieZakazanejMi%C5%82o%C5%9Bci
 @Kolobokrodilsa
-@WealthMind-h3u
 @carnytrudi
 @EchoesOfZionRoots
 @babciawyjasnia
@@ -11919,7 +11917,6 @@
 @hooperhooperz
 @poppinlab
 @synthwaveheroes
-@vidalongevacientifica
 @shadowofhumanity
 @nightscrollhealth
 @cecilovestories
