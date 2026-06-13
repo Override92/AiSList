@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11911
+! Total Channels: 11910
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9345,7 +9345,6 @@
 @wiseprep12345
 @profshinmarkets
 @updateswithjudgenapolitano
-@tsn1994
 @mr.tuzg
 @feynmanuntold
 @tomandcabbage
