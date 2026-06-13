@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11916
+! Total Channels: 11911
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3980,7 +3980,6 @@
 @M%C3%A1sAll%C3%A1delasHistoriasB%C3%ADbli-o7r
 @VIDAESTOICATGN
 @Audiolibrosdealtonivel
-@PausayReflexi%C3%B3n1122
 @PSYCOart-E
 @DrRicardoVeller
 @ConsejosdeSaludsinEdad
@@ -4398,7 +4397,6 @@
 @mexiconipon
 @tartaroiceberg
 @masalladelashistoriasbibli-o7r
-@pausayreflexion1122
 @Loomee0
 @EcoEconomico
 @StoryMint-s2j
@@ -10037,7 +10035,6 @@
 @AlphaEconomey
 @Economicbreakdown1
 @EconomicCrises101
-@History_meets_Economy
 @OrdinaryEconomics
 @Rolexeconomics
 @StoicEconomist
@@ -10064,7 +10061,6 @@
 @musestories3
 @ElvarStories9
 @LOLOTICAStories
-@MaisonStories
 @anuskysa
 @Humanity-Tales1
 @JordanJoaquin-f8o
@@ -11751,7 +11747,6 @@
 @ReachMora
 @YourBrainRoom
 @Sahuritos
-@memeland-v7k
 @dostpappu
 @VHSFMMemory
 @BlimpyPig
