@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11923
+! Total Channels: 11921
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6779,7 +6779,6 @@
 @bkcrypto-l2e
 @warhournews
 @lilyoddlyasmr
-@imwisetech
 @behindhoastories
 @fendtfarmerstories
 @historiasderedditparadormir88
@@ -7009,7 +7008,6 @@
 @ourworld-estv
 @sleekcapital
 @imvjkohli
-@povclippedtalk
 @historiasdeabuelayt
 @thejesusway-k1s
 @mistforestofsouls
