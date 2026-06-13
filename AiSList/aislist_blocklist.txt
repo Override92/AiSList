@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11925
+! Total Channels: 11921
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5600,7 +5600,6 @@
 @johnagexposed
 @dziennikisredniowieczne
 @klubgentlemanow
-@revengecorner100
 @joinfitpro2
 @RevengeDiariesUS123
 @RevengeFury9
@@ -5909,7 +5908,6 @@
 @WarfareUnclassified
 @GalaxyVault-s2o3n
 @SaraQureshi-e6b
-@economicshadows
 @MoneyUntoldEX
 @FiscalWarfare
 @HerHealth60
@@ -10782,7 +10780,6 @@
 @RevengeWithLucie9
 @The1dollarSolution
 @CaughtintheStory
-@%E9%9B%A8%E9%9B%A8%E6%8A%93
 @KevinRetiresCA
 @dailyvital-x9y
 @UpdatedIntel
@@ -10922,7 +10919,6 @@
 @ShelfLogic
 @nadeemmughal06
 @ecosmiticos
-@雨雨抓
 @wisetechnexus
 @SmallThings-sc
 @HuntForge-2026
