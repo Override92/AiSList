@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11919
+! Total Channels: 11916
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7806,7 +7806,6 @@
 @Hyalbertog-q2x
 @WorldFinance2
 @IbrahimTraoreUnfolding
-@WarGrid-z
 @MarketMindset-e3b
 @GlobalContest
 @moneybrainusa
@@ -9048,7 +9047,6 @@
 @sportsheavenus
 @NavaRhythmRecord
 @honeybunbun_123
-@ailover-s7k
 @tasawergaming
 @slightly_dark_56
 @tiffytotstv
@@ -10225,7 +10223,6 @@
 @skeleton_hub-01
 @tokai_no_kirameki_jpneocitypop
 @derhardwarereport
-@capitalwatch-d3u
 @miiworks
 @Faith.Unmasked
 @MrHarrisEdu
