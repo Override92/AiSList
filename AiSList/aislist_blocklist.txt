@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11906
+! Total Channels: 11901
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -2144,7 +2144,6 @@
 @multivibes01
 @shivi.vlogs-09a
 @vairal-28
-@smartcritterfun
 @gamma_yt1
 @cattyonrock
 @ai.cartoon-y5b
@@ -3005,7 +3004,6 @@
 @RogerRoger5555
 @Unbelievabletruestories1
 @SachsGlobalAnalysis
-@theboringcurrency
 @NOCTIVISS
 @DrLauraMWhitfieldMD
 @WW2Files7
@@ -6434,7 +6432,6 @@
 @ElowenStarfell
 @CrashWarChronicles
 @TimeTravelerNotes4TW
-@ClearFrame-p1q
 @BehindTheTechx
 @oldamericastorys
 @BibleWisdomOfficial
@@ -10178,7 +10175,6 @@
 @SimpleWomenStory-e8b
 @CanadaCurrent-z4q
 @WarReportandHub
-@BenHodgesInsightes
 @dream.surfer69
 @RaptoCo
 @FalloutSquirrel
@@ -10397,7 +10393,6 @@
 @Shadowedtalesbylola
 @StillHumanStories-7
 @Kiraslovestories
-@K9ofCourage
 @KindredEchoStories7py
 @Afrotales1
 @TalesbyJazmyn
