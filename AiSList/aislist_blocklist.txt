@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11909
+! Total Channels: 11910
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11925,3 +11925,4 @@
 @thefootballdimensions
 @mindshiftpsychologynm
 @prashantmagicalyt
+@theshantycompass
