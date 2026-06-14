@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11910
+! Total Channels: 11905
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4207,7 +4207,6 @@
 @ZooPhenomena
 @Royal.Unfiltered
 @TheReelLineup
-@mungerslessons23
 @AmorVitalTV
 @MujeresdeLuzyAmor
 @C%C3%B3digoChiaraviglio
@@ -4215,7 +4214,6 @@
 @AlmaFemenina-h7g
 @amorpuro1
 @sacatufuegointerior
-@TheRelentlessVoice-c6e
 @UNIVERSONATURAL-y1v
 @renacerfemenino-nilda
 @EspacioFemeninoNilda
@@ -4499,7 +4497,6 @@
 @FutureSpark786
 @MoneyOdysseyOfficial
 @tcjplayer
-@Kevinomics2M
 @Thefinancefiles4u
 @KevinHendrawanInvesting
 @financemachinery
@@ -6341,7 +6338,6 @@
 @unknownUSpolitics
 @AliRehman-j8o
 @TalesFromWWII
-@TrueNorthDispatch
 @joycebuyers6260
 @CurrencyMatrix
 @Unfolded_Finance
@@ -9676,7 +9672,6 @@
 @synthwaveanddragons
 @Epic_Ascension_Music
 @TheMungerExperience
-@ScarredInvestor
 @historiashfyespanol-1
 @catversecinema
 @lbiskiss3
