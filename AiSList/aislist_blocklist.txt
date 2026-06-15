@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12001
+! Total Channels: 12006
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12017,3 +12017,8 @@
 @HistoricsRetold
 @Bellas-Romance-Library
 @YorynAuthor
+@CatAIFilmsGo
+@Createwithmimi-d9j
+@AIDanielMedia
+@InspireStoriesSpace
+@FearToonzTV
