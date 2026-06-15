@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12011
+! Total Channels: 12016
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12027,3 +12027,8 @@
 @TheGoodwoman1
 @DokkaebiTalesUS
 @Korea-Seolhwa
+@rosangarden
+@MoonlightinKorea-Dana
+@KoreanFolktaleRadio
+@talesfromthefarshore
+@KoreanHistoryTalesKR
