@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12063
+! Total Channels: 12068
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12079,3 +12079,8 @@
 @lampheart.studio
 @CanadaTomorrow-y
 @artofficialelegance
+@Sal_Aurek
+@DarkMajestyOrchestra
+@NocturneSanctum-m5g
+@sileoworld
+@VO2MaxTracks
