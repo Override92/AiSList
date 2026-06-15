@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12016
+! Total Channels: 12021
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12032,3 +12032,8 @@
 @KoreanFolktaleRadio
 @talesfromthefarshore
 @KoreanHistoryTalesKR
+@%EC%86%8C%EB%9E%98%EC%95%BC%EB%8B%B4
+@HistorySleepyTimeYT
+@CelestialMagician
+@8KFairyTales
+@Magicalfairytales1-j3r
