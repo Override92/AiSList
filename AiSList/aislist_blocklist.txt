@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12096
+! Total Channels: 12101
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12112,3 +12112,8 @@
 @DreamyASMR-x7e
 @aichakkara
 @entnow1w1
+@BrokenEconomy_Official
+@SpaceEconomy-Explained
+@hiddeneconomy22
+@TheEconomicHistorian-01
+@TheEconomicHype
