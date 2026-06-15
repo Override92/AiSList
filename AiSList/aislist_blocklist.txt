@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11931
+! Total Channels: 11936
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11947,3 +11947,8 @@
 @BRAZEESONGS-LOVEE
 @PerfectHarmonyz_Fan-Page
 @BeesSymphony
+@GoldenMelodyRecords
+@NimbleMind-x7y
+@AlmusiXx
+@NeonTherapymusic
+@BinaryBeatsTunes
