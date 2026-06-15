@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11905
+! Total Channels: 11907
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11921,3 +11921,5 @@
 @mindsetstory1
 @diedunkleaktee
 @skmreactionwale
+@africanfolktalesbykm
+@ageofcapital6m
