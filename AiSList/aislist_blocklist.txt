@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12043
+! Total Channels: 12048
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12059,3 +12059,8 @@
 @HitPawEdimakorOfficial
 @AImaskman
 @aipipline
+@AutomatewithAftab
+@canadastands
+@NextGenXFactory
+@PassionEgypteAntique
+@TheAutomatedDaily
