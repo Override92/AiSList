@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12103
+! Total Channels: 12102
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -889,7 +889,6 @@
 @catstory-t8j
 @whiskerwarss
 @katilionaire
-@meowfamilyt
 @catpawsworld
 @mycatpets
 @kindcat12.12
