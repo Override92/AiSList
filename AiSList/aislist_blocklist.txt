@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12090
+! Total Channels: 12095
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12106,3 +12106,8 @@
 @FinanceGriffin
 @WarStoriesInspiredbyBillyWaugh
 @KawaiiBassHolic
+@EleanorMR
+@luxetnoxinvictus
+@mostinworld
+@RogueCellPictures
+@DreamyASMR-x7e
