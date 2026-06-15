@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11997
+! Total Channels: 12001
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12013,3 +12013,7 @@
 @WildWestStory-u4n
 @ChristusDominusStudios
 @MarcusStories123
+@JanesAlphaRomanceStories
+@HistoricsRetold
+@Bellas-Romance-Library
+@YorynAuthor
