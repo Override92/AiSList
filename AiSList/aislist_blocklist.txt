@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11992
+! Total Channels: 11997
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12008,3 +12008,8 @@
 @ShadowRomanceTales
 @InfiniteWarzone
 @TrueCowboyStories
+@WildWestNight
+@Ballads_of_the_Wild_West
+@WildWestStory-u4n
+@ChristusDominusStudios
+@MarcusStories123
