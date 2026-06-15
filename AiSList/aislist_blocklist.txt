@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11962
+! Total Channels: 11967
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11978,3 +11978,8 @@
 @Singularityme
 @HIBIKImusic-n3p
 @EuroHeartbeat
+@AEROCITY-e9z
+@retronostalgiamusic
+@RetroFrequencyFM
+@yosuwuu
+@VIBE_MOTORS
