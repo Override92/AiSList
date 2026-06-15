@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11906
+! Total Channels: 11911
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11922,3 +11922,8 @@
 @90plusonefootball
 @agenticorange
 @artificial_stupidity_off
+@vectrotv0
+@BlackRifleStories
+@HISTRYStudios
+@thatday-z3i
+@WakePoint-l7j
