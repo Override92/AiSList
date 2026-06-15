@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11941
+! Total Channels: 11946
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11957,3 +11957,8 @@
 @LunaTunes-i3p
 @COREBALLADS
 @SongDistrict-l4w
+@AUDIOCORENOIR
+@playbackrhythm4you
+@NeuralSoundwave-o8j
+@SoundNest-muzik
+@DirtRoadSessions-Ytc
