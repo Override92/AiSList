@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11908
+! Total Channels: 11904
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9208,7 +9208,6 @@
 @Ideas-Behind-Power
 @Aghapy23
 @RichFactoryStories
-@FutureFactoryAI-riad
 @CyberSensations-x4l
 @BritishNonsense
 @JWBrokenVeteran1
@@ -10010,7 +10009,6 @@
 @DefensiveFinanceHistorian
 @ElitistFinance
 @faithandthefinances
-@AlphaEconomey
 @Economicbreakdown1
 @EconomicCrises101
 @OrdinaryEconomics
@@ -10027,7 +10025,6 @@
 @TheMarketContinuum
 @scifihfychronicles
 @Cosmic_Sketchlab
-@NorthBorderBriefYt
 @SpeedyScienceShortsS
 @FactoFauna25
 @CrisisCommand
@@ -10191,7 +10188,6 @@
 @WW2VictoryDiaries
 @imfranzyt
 @midnightmysteryfiles01
-@mephimhoangu86
 @skeleton_hub-01
 @tokai_no_kirameki_jpneocitypop
 @derhardwarereport
