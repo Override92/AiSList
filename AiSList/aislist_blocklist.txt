@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12102
+! Total Channels: 12103
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12118,3 +12118,4 @@
 @TheEconomicHistorian-01
 @TheEconomicHype
 @rowanunderwood
+@worldcup20_26cup
