@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11907
+! Total Channels: 11903
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6806,7 +6806,6 @@
 @notsuitguy
 @profjiang123
 @fabiendekosmos
-@TheShelterProject181
 @ArcticSurvival-tv
 @FarmerTales_YT
 @AmericanRewindChannel
@@ -7235,7 +7234,6 @@
 @exporterrormusic
 @thefoolsqueenmetal
 @yic17gaming
-@newtype-beats
 @simoulix
 @aislumber
 @automatedsounds
@@ -9453,7 +9451,6 @@
 @AntWarsusa
 @Buried_History_with_Jonathan
 @BenHodgesReports
-@BenHodgesUpdates
 @BenHodgesCentral
 @FinanceDeciphered
 @Historygraphy11
@@ -9466,7 +9463,6 @@
 @AtlasClassifiedOfficial
 @FurRiffStudio
 @Timeless-Investing-q
-@Money-Lessons-9
 @Value-Voyager
 @MoonwaveLoFi-j3m
 @Objectionai
