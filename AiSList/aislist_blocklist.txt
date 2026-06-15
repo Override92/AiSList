@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12085
+! Total Channels: 12090
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12101,3 +12101,8 @@
 @DanFanimals
 @SiliconSoulBallads
 @Elderion_us
+@factrocityshorts
+@unVEIL-SeeS
+@FinanceGriffin
+@WarStoriesInspiredbyBillyWaugh
+@KawaiiBassHolic
