@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 11987
+! Total Channels: 11992
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12003,3 +12003,8 @@
 @WorkoutBGMtLab
 @SteelHorizonBand
 @%E3%83%A2%E3%83%8A%E3%82%AB%E3%81%AE%E9%9F%B3%E6%A5%BD%E5%AE%A4
+@TheAvalune
+@Wisest-Quotes
+@ShadowRomanceTales
+@InfiniteWarzone
+@TrueCowboyStories
