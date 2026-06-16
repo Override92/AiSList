@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12101
+! Total Channels: 12100
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9620,7 +9620,6 @@
 @InsideFactoryRuns
 @Health_FocusHub
 @HowStuffRuns-m5s
-@IndianMegaFactory
 @MuhammadIrfan-b8d1o
 @factoryvids24
 @gulfwatch-666
