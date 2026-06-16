@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12097
+! Total Channels: 12093
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4743,7 +4743,6 @@
 @FineMetalsOfficial
 @SamodzielnyInwestor
 @business_outlook
-@SmartCurrencySignals
 @NOBLEBUILLIONNEWS.0
 @RichDuckInvests
 @HarrysStealthWealth
@@ -5254,7 +5253,6 @@
 @TheHOAAudit
 @KarenDrama-p8h
 @Suethehoa
-@HoaStories-f9d
 @KarenFallout-w5e2i
 @sufyanofficial-b6t
 @HiddenTaleYT
@@ -6280,7 +6278,6 @@
 @EternalProphecyFilms
 @WarpathChronicles
 @HistoryBlends
-@CrownandConquestYT
 @onemileextra
 @HOAKarenDiaries-z3i
 @NeighborhoodConflicts
@@ -9116,7 +9113,6 @@
 @--N4R1
 @moneywarexposed1
 @CelebZone-y5b
-@BullionTruth
 @StsauveurSheryll
 @The-Compound-Effect-1
 @Investors-Compass-1
