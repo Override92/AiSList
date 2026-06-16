@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12099
+! Total Channels: 12096
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3627,7 +3627,6 @@
 @C%C3%B3digoMental-d4l
 @Sabidur%C3%ADadeJung
 @EthaanWalker
-@El-Perezoso-Explica
 @HumanidadPrimero
 @Zen_Vibes_Station
 @Voces-Africanas
@@ -4354,7 +4353,6 @@
 @MateusAugustohistorias
 @Detr%C3%A1sdelSacrificioMaterno
 @VenganzaFr%C3%ADa-g4q
-@AntesdelSilencio
 @Lecciones_Ocultas
 @VocesDella
 @PalabrasNarradas
@@ -4530,7 +4528,6 @@
 @suenos_de_mar
 @curiobitsdaily
 @lifeofthemilo
-@guntactix
 @MarketDecode-n3j
 @15MinuteInvestor
 @littletrumpcartoons
