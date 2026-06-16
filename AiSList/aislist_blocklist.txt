@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12102
+! Total Channels: 12099
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3454,7 +3454,6 @@
 @ForgetfulHistorian
 @MajesticAIStudio
 @Timeportalss
-@DustandGloryYT
 @Next-LevelTech-p3p
 @WhatifAnime5
 @TheBoring.Historian
@@ -8302,7 +8301,6 @@
 @stimmederwahrheit-a
 @thecanadian-report
 @eatatyourownriskyt
-@dailynewsanalysis-v2
 @plotcorn-official
 @annamazurwiadomosci
 @zycie_po_70-tce
@@ -8731,7 +8729,6 @@
 @MeowStoryWorldOfficial101
 @Druckenmillerblueprints
 @TheForensicFinancialLedger
-@JohnAGExplainsEconomics
 @rainice409
 @DahiJalebiAI
 @ProfitoryHub
