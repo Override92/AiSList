@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12098
+! Total Channels: 12097
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5231,7 +5231,6 @@
 @syorldinvestsus
 @newonenooneee
 @datosestrategicos
-@skeletonsociety04
 @fisicasinfronteras
 @watekpomyslu
 @复仇合集
