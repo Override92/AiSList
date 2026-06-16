@@ -31,14 +31,14 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@www2](https://github.com/www2) | 1958 |
-| 🥈 2 | [@FedupOfAI](https://github.com/FedupOfAI) | 1954 |
-| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 894 |
+| 🥇 1 | [@www2](https://github.com/www2) | 1973 |
+| 🥈 2 | [@FedupOfAI](https://github.com/FedupOfAI) | 1959 |
+| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 948 |
 | 4 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 6 | [@tomjas1963](https://github.com/tomjas1963) | 232 |
+| 6 | [@tomjas1963](https://github.com/tomjas1963) | 236 |
 | 7 | [@magikarp](https://github.com/magikarp) | 217 |
-| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 212 |
+| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 213 |
 | 9 | [@Kasumi](https://github.com/Kasumi) | 179 |
 | 10 | [@pingwin](https://github.com/pingwin) | 135 |
 
