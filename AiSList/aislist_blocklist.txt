@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12084
+! Total Channels: 12083
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9281,7 +9281,6 @@
 @johnwillermegamed
 @globalgospelvibes-f1r
 @wwiiuntold-02
-@seniorhub-z7i
 @bodycamonrecord
 @штучниихіт
 @miniherosia
