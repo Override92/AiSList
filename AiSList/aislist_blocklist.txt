@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12165
+! Total Channels: 12170
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12181,3 +12181,8 @@
 @yaniv.storyboard
 @SoniqAura9s
 @echodistrict_u2a
+@Simbu_Music
+@NoiseIn_Silence
+@Dominic_Sound
+@EchoesofRhythm-OA
+@MidnightTunes-p2f
