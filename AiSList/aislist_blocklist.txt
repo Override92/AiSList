@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12088
+! Total Channels: 12086
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7444,7 +7444,6 @@
 @RagaVerseAI
 @CATGIRLAI-v3k
 @humal_music
-@AdiluhungNusantara-k6z
 @PrismTapes
 @AtelierMonstrum
 @KIZUKU_MUSIC
@@ -10902,7 +10901,6 @@
 @Mia-Romance
 @Lisasromancelibrary4-y4o
 @MarysRomanceLibrary
-@ArielleRomanceStories
 @KarenWerewolfRomanceCollection
 @AmiraRomancelibrary
 @INTIMATEROMANCESTORIES
