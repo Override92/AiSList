@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12081
+! Total Channels: 12078
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7884,7 +7884,6 @@
 @Themysteriousworldofprehistori
 @AIAbigailAdams
 @JuliaCC-r
-@MySissyWorld
 @LiyanaFemme
 @Socialsurge01
 @ProfessorJiangGlobalCuration
@@ -9970,7 +9969,6 @@
 @AIPaperSlop
 @AiShivam099
 @DeutschlandSeniorenFokus
-@TheLostEconomics
 @ProfessorJamesWalker
 @realtalknachrichten
 @AtlasFinance1
@@ -11724,7 +11722,6 @@
 @AIDreamsForever
 @SmartFunAI
 @Haru-s6i8h
-@PulseWireUSA-A
 @ZoomDrives0
 @Asphaltguardians-m3x
 @PawsofValor-o8m
