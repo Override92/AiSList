@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12083
+! Total Channels: 12081
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7602,7 +7602,6 @@
 @TrailCamUnfiltered
 @highway-tales
 @Dust_and_Destiny
-@ClintEastwoodUntoldLegend
 @MrNightwood2477
 @donsutahadventure5594
 @whatwhyhow-rw9
@@ -10765,7 +10764,6 @@
 @StoicSoulForge-US
 @gorzilla.x
 @the_secretsofthebible
-@cnz-v1s
 @elregristrosellado
 @sabzinagritales
 @digital.soulclub
