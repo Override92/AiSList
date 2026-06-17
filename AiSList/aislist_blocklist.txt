@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12090
+! Total Channels: 12088
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5975,7 +5975,6 @@
 @agarchive-n5m
 @SORAISREALISTIC
 @builttofail2233
-@RulexxBeats
 @Wspania%C5%82eDwory
 @MedievalWarriors
 @LegacyMotoring
@@ -10714,7 +10713,6 @@
 @Canadainsider-k5q
 @FollowingChrist-6886
 @CapitolUncutUSA
-@USCanada-q4p
 @RevengeWithLucie9
 @The1dollarSolution
 @CaughtintheStory
