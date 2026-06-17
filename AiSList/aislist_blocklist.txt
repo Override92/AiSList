@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12087
+! Total Channels: 12088
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12103,3 +12103,4 @@
 @bigrigfiles
 @risehorizon-x6d
 @manhwapast
+@cdlgeneralknowledge
