@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12092
+! Total Channels: 12090
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1374,7 +1374,6 @@
 @lucymeowqt
 @themeowmagichub
 @apcatmeow
-@meowversestudio-a1a
 @meowandmootv
 @the-meowmint
 @meowpaplo
@@ -1428,7 +1427,7 @@
 @cow-ai-videos
 @cowaivideo-h8l
 @ai_shorts_pr
-@tales_of_jo.y
+@phantasm_realms
 @mrdipoktantidancer
 @ai_shorts7_nvg
 @rolandocristiano-h3y
@@ -5871,7 +5870,6 @@
 @MrMythology123
 @SagaLensFilms
 @WojenneHistorie1939
-@AktaHistoryczne1
 @MilGearExplainer
 @kenny-c4g7e
 @CanadaGlobalEconomics
