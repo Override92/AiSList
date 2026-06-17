@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12107
+! Total Channels: 12112
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12123,3 +12123,8 @@
 @OldiesvibeAi
 @fresh_music_0
 @SOUNDIASM
+@Devbbm
+@daudmurmu6766
+@Dhenjiedeepmind
+@NimoraBeatzRecords
+@TampogiMusicChannel
