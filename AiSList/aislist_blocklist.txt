@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12078
+! Total Channels: 12080
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12094,3 +12094,5 @@
 @밤의음악실-w3m
 @モナカの音楽室
 @truemilitaryshow
+@소래야담
+@megaproduccion7353
