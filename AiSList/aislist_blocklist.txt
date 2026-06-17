@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12121
+! Total Channels: 12126
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12137,3 +12137,8 @@
 @GoalBeatWorld
 @K-AIMusic-ACK
 @shauryakamal
+@LunaEnyaCollection
+@AI_MusicLyrics
+@ZYRO12-x8c
+@Bahamusicstudi143
+@Infinitemusicai-ykb
