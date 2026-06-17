@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12160
+! Total Channels: 12165
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12176,3 +12176,8 @@
 @RomArtemius
 @HarmonysoundsAI
 @SMmusicstudio04
+@DJmahnoor
+@amarlunkar
+@yaniv.storyboard
+@SoniqAura9s
+@echodistrict_u2a
