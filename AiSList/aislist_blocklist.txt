@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12078
+! Total Channels: 12076
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9756,7 +9756,6 @@
 @phucson7864
 @captain-chimp-pov
 @MUSMUSICRECORDS
-@EpicMoviesAIStudio
 @DECODED-u6x
 @YourAIGuy09
 @todatalkseconomy26
@@ -11188,7 +11187,6 @@
 @borednerdai
 @AIFantasy94
 @seraphrealms
-@Rdxgmi
 @ginovisuals
 @ShowMakerStudio
 @songfairytales
