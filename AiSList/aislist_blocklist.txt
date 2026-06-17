@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12087
+! Total Channels: 12085
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9445,7 +9445,6 @@
 @ASMRAiLabs
 @Smokysdreamlab
 @MakemeASMRAI
-@XavierOutside
 @sz-asmr-lab
 @fluxfoamasmr
 @DreamyAIxASMR
@@ -11126,7 +11125,6 @@
 @BlackCatJazzClub
 @EasyHoursLounge
 @Rovix-w4z
-@CartoonsKidMania
 @MiddleEarthUnfolded
 @AncientLoreLofi
 @AIWITHUS_06
