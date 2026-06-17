@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12145
+! Total Channels: 12150
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12161,3 +12161,8 @@
 @AISongsIndia1
 @louisarivera-ns3
 @CraveTunes
+@Ai_vibes-h
+@Ve_loura
+@Velora-xlx
+@NBKAIStudio
+@AITandooriBeats
