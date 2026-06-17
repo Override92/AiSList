@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12083
+! Total Channels: 12082
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8931,7 +8931,6 @@
 @cosmosdepths
 @karmafailed
 @hoastoryhub-q4h
-@slowianska-dusza-ks
 @restorefusion
 @모구랩
 @learnstoryenglish-k3x
