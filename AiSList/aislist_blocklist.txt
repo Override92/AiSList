@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12150
+! Total Channels: 12155
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12166,3 +12166,8 @@
 @Velora-xlx
 @NBKAIStudio
 @AITandooriBeats
+@lexopulse
+@Solacetunez
+@AifutureHits-p8q
+@TunesBooth
+@ironbeatz_official
