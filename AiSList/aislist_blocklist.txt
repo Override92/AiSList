@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12328
+! Total Channels: 12324
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5511,7 +5511,6 @@
 @DenisWestpfahl
 @FinanceDeepDive
 @JordiVisserLabs
-@JohnAGInvest
 @MofizReact
 @RevengeDailyUs
 @DramaUnfolded88
@@ -9841,7 +9840,6 @@
 @TinasRomanceLibrary
 @pixelsmovements.official
 @KobiMusic-Software
-@finthriv
 @feynman-quotes
 @MethodeFeynman
 @TheFeynmanMethod-k4o
@@ -9880,7 +9878,6 @@
 @OldThingsFactory
 @Oneandonlyfactory
 @SamsFoodFactory
-@BlacklineMetalFactory
 @obshchiyg
 @itssniks
 @crazycooker-t9e
@@ -11389,7 +11386,6 @@
 @FuncerASMR
 @FRUITY_ISLAND
 @FruitSlashASMR
-@FinanceDadi
 @financelecture123
 @FinanceLoreYT
 @FinanceOrbit786
