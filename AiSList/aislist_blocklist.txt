@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12172
+! Total Channels: 12177
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12188,3 +12188,8 @@
 @Campfiretunes-t4c
 @AIDilKiAwaazAIDilKiAwaaz
 @Toon_Beats-e6c
+@AurixTunes
+@RiseWaveStudio
+@RioTubeAze
+@ChymanN-mua
+@ObitoTV-j3n
