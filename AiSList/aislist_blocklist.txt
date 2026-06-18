@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12187
+! Total Channels: 12192
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12203,3 +12203,8 @@
 @LangitAminor
 @pengagum_sunyi
 @METALJPAI
+@ROCK.IN.AI.J
+@AiMetalCover_28
+@hudanzmusicchenel
+@isikalmusic
+@legendsreimagined13
