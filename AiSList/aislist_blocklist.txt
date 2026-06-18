@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12215
+! Total Channels: 12219
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12231,3 +12231,7 @@
 @populermusicchannel
 @soundline44
 @Aihatdoc
+@rockandsoulofficial
+@Aura.Vault.Official
+@AI%E3%82%BD%E3%83%B3%E3%82%B0%E8%A3%BD%E4%BD%9C%E6%89%80
+@Ai.Music.Erim.1
