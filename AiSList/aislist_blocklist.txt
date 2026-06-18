@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12236
+! Total Channels: 12241
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12252,3 +12252,8 @@
 @sunohitsph
 @RaestaOfficialCover
 @JH-anku
+@RapcoreReborn
+@RockByte-x3t
+@%E3%81%8A%E3%81%AB%E3%81%8A%E3%82%93-h2r
+@AIMusicGlobalMusic
+@Toniharofficial
