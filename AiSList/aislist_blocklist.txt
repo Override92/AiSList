@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12325
+! Total Channels: 12328
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12341,3 +12341,6 @@
 @FocusStationMusic
 @Flow365studio
 @relaxnight90
+@VelvetFrequencyLuxeLoops
+@nordicdreamhaven
+@MusicPlanet-AI
