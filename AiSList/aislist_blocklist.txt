@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12320
+! Total Channels: 12325
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12336,3 +12336,8 @@
 @HaveaGoodDay24I7
 @AuraSound.z
 @HazeProtocolFM
+@DeepLuxeRoom
+@AbyssPulse-10
+@FocusStationMusic
+@Flow365studio
+@relaxnight90
