@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12305
+! Total Channels: 12310
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12321,3 +12321,8 @@
 @LeoOfficeRevenge
 @rRevengeStorie
 @SweetTelltalesofficial
+@FranksOfficeRevenge
+@CrimsonVerdict-v9z
+@RedditStall
+@VionelleSmooth-u2k
+@MelodicHouse-i7y
