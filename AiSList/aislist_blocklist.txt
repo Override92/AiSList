@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12170
+! Total Channels: 12166
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4260,7 +4260,6 @@
 @EconomicTruth2
 @Prosper_Path_1
 @BoringCurrencyLive
-@OGJohnFinanceAG
 @JohnAG-j8k
 @financialjohn
 @JohnAGFinance
@@ -4420,7 +4419,6 @@
 @Buffetts.Rules.of.Wealth
 @OmahaAfterDark
 @thesilentcompounder
-@BuffetPOV
 @ELMETODOMUNGERESP
 @FinanzasenlaTerceraEdad
 @mentesdeomaha
@@ -5086,7 +5084,6 @@
 @SmirkzyOfficial
 @BelfortFinancier
 @HistoryofEconomicShifts
-@garrettstages
 @Behind_the_Markets
 @Sovereign-Alpha
 @HighQuality-AI
@@ -6642,7 +6639,6 @@
 @wieczorneopowiesci
 @zmieniajaceprzeznaczenie
 @desivlog-9y
-@cocobunnyrhymes10
 @mrvlogsentertainment1
 @ogjohnag2.00
 @connectioninsights
