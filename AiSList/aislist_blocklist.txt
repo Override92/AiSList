@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12177
+! Total Channels: 12182
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12193,3 +12193,8 @@
 @RioTubeAze
 @ChymanN-mua
 @ObitoTV-j3n
+@aiv-series
+@KompasFearsome
+@mahiraj008
+@hyottokoai
+@ProjectCovMusic
