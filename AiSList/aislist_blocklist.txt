@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12182
+! Total Channels: 12187
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12198,3 +12198,8 @@
 @mahiraj008
 @hyottokoai
 @ProjectCovMusic
+@ROCKTUNEE
+@aisongfoge
+@LangitAminor
+@pengagum_sunyi
+@METALJPAI
