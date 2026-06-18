@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 579
+! Total Channels: 580
 
 ! Entries:
 @CinebotComedy
@@ -601,3 +601,4 @@
 @KingTimAiStudio1
 @Learnify_Tech
 @DailyDoseNeuroSama
+@MovieRecapNL
