@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12224
+! Total Channels: 12226
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12240,3 +12240,5 @@
 @AI%E9%9F%B3%E6%A5%BD%E5%AE%9F%E9%A8%93%E5%AE%A4-x9h
 @DomJPz-t4p
 @roblop_experience
+@takumi_2026
+@neptuneai-x4l
