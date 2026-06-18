@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12231
+! Total Channels: 12236
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12247,3 +12247,8 @@
 @soundtripaicover
 @NepaliAIRemake26
 @Dags07
+@AIBluesNepal
+@indorockai
+@sunohitsph
+@RaestaOfficialCover
+@JH-anku
