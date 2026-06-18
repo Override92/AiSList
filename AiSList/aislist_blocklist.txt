@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12271
+! Total Channels: 12275
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12287,3 +12287,7 @@
 @AIForIdiotslol
 @berrybites-05
 @CLOUD_AIASMR
+@MultiverseMayhem444
+@JuliaFrostfield
+@ATraversHistoire
+@H%C3%A9rosetGuerresOubli%C3%A9s
