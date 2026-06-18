@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12290
+! Total Channels: 12295
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12306,3 +12306,8 @@
 @cheatsandchancers
 @StoriesbRevenge1
 @ForbiddenloveStories-b6z
+@dailystory68
+@QueenModetales
+@ThriveWithDr.Jocelyn-f7p
+@LoveTruth03
+@HiddenTales-y4k
