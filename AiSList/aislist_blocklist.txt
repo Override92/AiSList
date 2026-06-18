@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12241
+! Total Channels: 12246
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12257,3 +12257,8 @@
 @%E3%81%8A%E3%81%AB%E3%81%8A%E3%82%93-h2r
 @AIMusicGlobalMusic
 @Toniharofficial
+@SoundAIIndonesia
+@kjelloso-AI
+@CoverofAnatolian
+@mahirulofisounds
+@cocovers_ia
