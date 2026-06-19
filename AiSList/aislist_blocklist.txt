@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12324
+! Total Channels: 12323
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5560,7 +5560,6 @@
 @crime_secretss
 @africantalesbyneto
 @AriaRevengereal
-@MindSparkStories10m
 @TheOldFireTales
 @KarmasRevenge.0
 @calmstories12
