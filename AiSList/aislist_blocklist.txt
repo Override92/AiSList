@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12323
+! Total Channels: 12319
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5609,7 +5609,6 @@
 @SophiasSoftStories
 @TrueLifeEdge-y6o
 @SimpleRedditReadings
-@DearMama-khm
 @revengeshift
 @TruePayback-j4h
 @lendingacaringhand
@@ -5937,7 +5936,6 @@
 @Bernard_Films
 @ABOKAI
 @BHSCDreamCircuit
-@onlycars21
 @ElizabethDavis-k3g
 @BackshiftGarage
 @NoelPoloTV_en
@@ -10558,7 +10556,6 @@
 @RKAScope
 @ZEROAISTUDIO
 @ai4films
-@nova_ai_films9090
 @BharatArora
 @stryderHD
 @Gossip.Goblin
@@ -10914,7 +10911,6 @@
 @captiveconfessions
 @wealthlogik
 @froloy
-@DominionBriefDB
 @DirtyRoadSymphony
 @MiraChan-x92d
 @LegendsbytheFire-j6b
