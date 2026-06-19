@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12325
+! Total Channels: 12323
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -323,12 +323,10 @@
 @TheSleepyAstronomer101
 @vessiehistory
 @bennettwaisbren
-@AIDIGICHAOS
 @animalsjourney_96
 @fun-with-a.i.
 @VivoGatoo
 @dailyDoseofAIslop
-@FeeliMals
 @mogingerstudios
 @AIJesusStory
 @simpleaichannel4
