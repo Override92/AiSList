@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12325
+! Total Channels: 12326
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12341,3 +12341,4 @@
 @MachiavelliBezCenzury
 @Lofi_REWIND
 @SunnyE_Vtuber
+@TheQuietYears-m3z
