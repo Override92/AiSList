@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12326
+! Total Channels: 12325
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9107,7 +9107,6 @@
 @DJ-AsikAI
 @MiniH%C3%A9rosIA
 @%E9%A2%A8%E8%BB%8A%E5%8B%95%E6%BC%AB%E7%A4%BE
-@Kind_in_the_Cold
 @TieuCuongXuyenKhong
 @ChillwithTaiki
 @Arshannetwork
