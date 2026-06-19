@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12330
+! Total Channels: 12329
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8455,7 +8455,6 @@
 @GuardiansOfTheCrowns
 @iHistobridge
 @simple95t
-@ContinuumArchive
 @AmazingHistory1_en
 @IronLoreHistory
 @TinyTimeTales-c4e
