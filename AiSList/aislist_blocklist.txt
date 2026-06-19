@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12327
+! Total Channels: 12326
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8211,7 +8211,6 @@
 @animalsrescue9621
 @DreamAIASMR234
 @ZestLens25
-@AnnaMazurWiadomo%C5%9Bci
 @historiasmarcantes-l1b
 @dr.mariakw
 @DoktorAndrzejJaworski
