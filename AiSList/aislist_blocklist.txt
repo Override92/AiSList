@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12321
+! Total Channels: 12317
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4410,7 +4410,6 @@
 @archivocriminal-es
 @anghoang4475
 @sirazhar-j6g
-@RedAura-v3p
 @user-ls8cj5cw9g
 @LensHistory
 @marketalarm55
@@ -6668,7 +6667,6 @@
 @endure-earth
 @frozenlivestv
 @NextGenGigaFactory
-@WildReliefTV1
 @ZeroDegreeChronicles
 @NordicGrounds
 @SleepyScrolls12
@@ -9383,7 +9381,6 @@
 @BreakingAmerica-w4o
 @RioMarksFinance
 @WarDispatch-t8x
-@gerygotkin8847
 @AlexKrainerOfficial
 @currencyinsider_786
 @Dr.AnikaMehta
@@ -10716,7 +10713,6 @@
 @FullProcessRevealed
 @HerSecretHeart-l5h
 @industriesprocess
-@buildprocesslab
 @EngineeredTheFactoryProcess
 @NextGenProcessLab0
 @appliedlabs7
