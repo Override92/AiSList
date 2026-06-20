@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12361
+! Total Channels: 12362
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12377,3 +12377,4 @@
 @WesternSoulStories-v3e
 @WhispersofthePrairie-n4u
 @LegendsWeLost-w9t
+@RealCowboyStories
