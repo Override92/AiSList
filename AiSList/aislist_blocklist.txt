@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12333
+! Total Channels: 12334
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12349,3 +12349,4 @@
 @ALifeBefore
 @torque-s9q
 @AutoPrimesUSA
+@GMCCentral
