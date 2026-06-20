@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12361
+! Total Channels: 12357
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6565,7 +6565,6 @@
 @MapleMarketbrief-e2z
 @GlobalDiscoveryDocumentary
 @Ayyan-h7p
-@VantageLedgerYT
 @MoleHunt25
 @DailyReports7
 @warandwealth-x5k
@@ -9576,7 +9575,6 @@
 @Biovision2.0
 @AgriTechSmart
 @SurvivalLostVault
-@TheNewFront1
 @Golden_LifeHealth
 @InsidetheWorks-j3c
 @CosmosDustTalks
@@ -9661,7 +9659,6 @@
 @pawpromisemoments
 @secretosdefabricas
 @therussiachinaeconomy
-@globalbriefupdate-f9p
 @LipsLies
 @NewUkrainMusic
 @Historim
@@ -9768,7 +9765,6 @@
 @Ground_Zero_Channel
 @Hardware_Fallout
 @HardwareReportsByAD
-@HardXTechReport
 @HistoriaPrime1212
 @Judge_Reacts
 @KevinRetires
