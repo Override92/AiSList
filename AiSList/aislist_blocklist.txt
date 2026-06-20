@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12363
+! Total Channels: 12364
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12379,3 +12379,4 @@
 @LegendsWeLost-w9t
 @RealCowboyStories
 @supaponwachina
+@WhispersoftheFrontier-i9o
