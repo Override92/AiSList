@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12366
+! Total Channels: 12362
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1064,7 +1064,6 @@
 @penguinpegy
 @cuteanimalsai-y6i
 @snowbaby-sb
-@pingu-paws
 @funnyshort1a
 @aianimalssworld
 @gaylemccormick-r9g8v
@@ -3694,7 +3693,6 @@
 @ZodiacWhisperTarot
 @Galaxy_Astrology
 @ZodiacSecretsRevealed-v5e
-@AstrologyAlchemy-s7x
 @Zodiacsingtoday
 @ZodiacAndBeyond
 @RachelToday-24
@@ -9545,7 +9543,6 @@
 @StormChant
 @TheDarkOutlaws
 @NightSpaceToSleep
-@hiderplanet
 @TopTechBestTop
 @beyondunknown7759
 @HOWMADE-n7b
@@ -11818,7 +11815,6 @@
 @seniorwellness60yt
 @thefootballdimensions
 @mindshiftpsychologynm
-@prashantmagicalyt
 @theshantycompass
 @heartofcountrystories
 @monkeylogiclab
