@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12356
+! Total Channels: 12357
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12372,3 +12372,4 @@
 @TheHiddenDuchess
 @NobleRomance-j9k
 @FronteradeLeyendas
+@DustJade
