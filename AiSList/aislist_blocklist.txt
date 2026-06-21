@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12483
+! Total Channels: 12479
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4957,7 +4957,6 @@
 @WW2WingsStories
 @StressRelief-l2p
 @WealthWise-i1q
-@S%C5%82ynnepliki
 @InvestiCore-v9o
 @FinSightCapital
 @TheGoldenAgeInsight
@@ -5554,7 +5553,6 @@
 @calmstories12
 @bruceleestoriess
 @lafuriadelabueloo
-@slynnepliki
 @johnagexposed
 @dziennikisredniowieczne
 @klubgentlemanow
@@ -8433,7 +8431,6 @@
 @gatesofimagination
 @TheBraveHoof
 @StructuralBrief
-@GuardiansOfTheCrowns
 @iHistobridge
 @simple95t
 @AmazingHistory1_en
@@ -11555,7 +11552,6 @@
 @DeGrasseMindset
 @epicaudition
 @Neural-Awakening
-@CanadaStorytime
 @BestWesternLoveStories
 @AncientFarmersValley
 @SilentDadLore
