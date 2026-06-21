@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12383
+! Total Channels: 12388
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12399,3 +12399,8 @@
 @TinyBaby-ASMR
 @qafruityasmr
 @MeltyLoopASMR
+@aiasmr-dv6zu
+@MeltyAIASMR
+@fruitloveisland-ai
+@fruitloveislande
+@Precyai
