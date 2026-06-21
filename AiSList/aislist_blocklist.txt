@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12444
+! Total Channels: 12449
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12460,3 +12460,8 @@
 @PetLochaStudios
 @AIrtVids
 @AIDOJOtom
+@gen.ai.master
+@AinimationsCaveman
+@AxionAIStudio
+@AiByTony
+@AlexanderOvdiy
