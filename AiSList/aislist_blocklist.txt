@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12370
+! Total Channels: 12366
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -78,7 +78,6 @@
 @K5CatMeow
 @Mews_Flash
 @Meow09i8i
-@MeowKitten007
 @LoventoFilms
 @FunnyMeow-q1j
 @meowworldcat-c9m
@@ -6732,7 +6731,6 @@
 @heyvideoeditor
 @militaryengineer1
 @amitraveli
-@richardlnvestsus
 @aikahani-e8e
 @healthyfood-l2b
 @tuconsejeronocturno
@@ -7948,7 +7946,6 @@
 @EinsteinOdkrywa
 @KosmosBezGranic
 @Releven_Music
-@VistulaToday
 @SekretyPodMask%C4%85
 @PromienieMi%C5%82osierdzia
 @megaprojects9649_pl
@@ -9492,7 +9489,6 @@
 @ZacznijDziś
 @BiciaDuszy
 @NIEMOŻEBYĆ_POL
-@hardwaregri
 @The49thParallel-m2e
 @POVrank
 @Maiden_Whispers
