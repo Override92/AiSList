@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12475
+! Total Channels: 12474
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -993,7 +993,6 @@
 @meowhallo79
 @meowcat201
 @gingermeow4u
-@sweetndcutemeow
 @meowmamaslife
 @babyshome_hindi1
 @tinymeows8
