@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12465
+! Total Channels: 12464
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1653,7 +1653,6 @@
 @airescue-k1t
 @gyanhub2026
 @aiwillsend
-@aivistaar-u4r
 @aistoriesworld07
 @hydraulic_crash_channel
 @allstoryhub-01
@@ -11366,7 +11365,6 @@
 @TunedByTommo
 @A.I.BandaSL
 @EthioVibesOfficial
-@airockss
 @Ethernatunes
 @Yallternativebootsandbeats
 @TimelessTonesAI
@@ -12481,3 +12479,4 @@
 @lifewithroutine-l2u
 @tasteofkarmaa
 @domjpz-ai
+@heartfeltofficial80
