@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12471
+! Total Channels: 12468
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4249,7 +4249,6 @@
 @BoringCurrencyLive
 @JohnAG-j8k
 @financialjohn
-@JohnAGFinance
 @HistoFund2025
 @M%C3%A9todoWarrenBuffett
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
@@ -4265,7 +4264,6 @@
 @ExploradoresdeHistoria-h5n
 @Dra.MarinaL%C3%B3pez
 @Dra.Luc%C3%ADaSoria-K111
-@PergaminoHistorico
 @LaClaveDivina-o6b
 @Oraci%C3%B3nInspirada
 @Ense%C3%B1anzasB%C3%ADblicasProfundas
@@ -11458,7 +11456,6 @@
 @rdxmagicworld
 @kingdomofpredatorstv
 @ellah-p3r
-@rebrainmoment
 @bngfotball
 @themindtrapstories
 @datamons
