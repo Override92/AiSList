@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12478
+! Total Channels: 12476
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8908,7 +8908,6 @@
 @funnycoppov
 @eldr.mayorsano
 @ワンちゃんマン2
-@evidenceremains
 @zet-xiiii
 @lostlenoir5
 @hoadarkfiless
@@ -11621,7 +11620,6 @@
 @Mind_rott
 @StoriesbyBee
 @starwarstakestales
-@AIISTHENEWGENERATION
 @heroorantihero
 @AiReads-y1j
 @CineNova_AI-e6g
