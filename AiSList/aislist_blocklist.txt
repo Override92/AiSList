@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12476
+! Total Channels: 12475
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10932,7 +10932,6 @@
 @futurefactory-riad
 @tragicguy
 @slowianskaduszaprzodkow
-@thenoface19
 @heysara122
 @thepulsefootball
 @hotseatheadlines
