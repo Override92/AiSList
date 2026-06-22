@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12472
+! Total Channels: 12471
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -3548,7 +3548,6 @@
 @profesortodoo
 @Dato-Visual
 @evolutionstudiosai
-@animyne.1
 @elitedemocracyanalysis
 @goodthinkinghabits
 @MedievalWay
