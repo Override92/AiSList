@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12464
+! Total Channels: 12462
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5037,7 +5037,6 @@
 @DeepDiveGlobal9
 @SmartCapital-g3w
 @LuminoxTerritory
-@PowertoProfits
 @JusticeClashAmerica
 @InsideAmericanJustice
 @SecretValorStories
@@ -5283,7 +5282,6 @@
 @HerMissionStories7
 @AfricanSoulNarratives
 @GlobalExploreNetwork
-@afrokoreanscripts
 @OASISOFPASSIONS
 @FrontierRescueStories
 @ESA_Mafia_Stories
