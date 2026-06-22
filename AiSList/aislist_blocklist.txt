@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12467
+! Total Channels: 12464
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5001,7 +5001,6 @@
 @WebsterOfficial2
 @StockAIinsights
 @ValueInSilence
-@datalovermonsters
 @DeannAnimation
 @marketflux8
 @BruxTwins3T9REALRICH
@@ -5072,7 +5071,6 @@
 @KlubGentleman%C3%B3w
 @ThewealthConscriany
 @FiscalFreedomForum
-@Millionaireshiddeninvestments
 @Brainrot-Funs
 @robloxrottedbrain
 @duck_mememe
@@ -9561,7 +9559,6 @@
 @Golden_LifeHealth
 @InsidetheWorks-j3c
 @CosmosDustTalks
-@imansiraj-tm3wp
 @TLCDRAMALIVE
 @RevolverRoomStudio
 @ForbiddenVault7
