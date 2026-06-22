@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12474
+! Total Channels: 12472
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -1070,7 +1070,6 @@
 @pinguzitos
 @cutepetshorts-u9t
 @pawsomepanic
-@gingercatquest
 @aiwavers
 @amazing-7077
 @penguinbaby-86
@@ -2383,7 +2382,6 @@
 @simplesocialvideo-14
 @cute_funny_cat99
 @okaiok0011
-@toonimals1
 @itsto-t7n
 @catvideo334
 @jeetanimation9
