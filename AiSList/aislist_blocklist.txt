@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12469
+! Total Channels: 12471
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12485,3 +12485,5 @@
 @futureflowfactory247
 @mindstory-d5n
 @saqlainstechworld2
+@dominancenoble
+@bluesidehistory1
