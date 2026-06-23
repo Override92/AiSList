@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12468
+! Total Channels: 12467
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8942,7 +8942,6 @@
 @tiffytotstv
 @bosanovalounge
 @archiwahistori
-@motgocnhinkhac2026
 @catsstoryk8s
 @mojeebalrouh
 @birthdaypartymusicofficial
