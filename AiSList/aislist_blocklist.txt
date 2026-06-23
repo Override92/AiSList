@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12470
+! Total Channels: 12468
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -9229,7 +9229,6 @@
 @famewirehq
 @wiseprep12345
 @profshinmarkets
-@updateswithjudgenapolitano
 @mr.tuzg
 @feynmanuntold
 @tomandcabbage
@@ -11508,7 +11507,6 @@
 @RakistaReimagined
 @Kro.nl2000
 @Ezra-369
-@DeGrasseMindset
 @epicaudition
 @Neural-Awakening
 @BestWesternLoveStories
