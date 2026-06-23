@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12475
+! Total Channels: 12472
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5638,7 +5638,6 @@
 @HOADisaster
 @HOAMoment
 @HOAKarenStories-f7q
-@GrimLine-d4d
 @Lastbreath33-z
 @TheReadersYT
 @hoaissues
@@ -6583,7 +6582,6 @@
 @MormonDeepDive
 @MindBlowingF
 @BeyondTrueWonders
-@Hardwarefiles
 @finova24
 @HistoriaBezLito%C5%9Bci
 @beyondtheveil2222
@@ -6781,7 +6779,6 @@
 @Luckyuuwfih
 @AlphaKingTimelessStorytelling
 @Miketales1
-@StillHuman-3ic
 @renjianjiushi0888
 @%E5%BF%83%E8%81%B2%E6%96%B0%E8%AA%9E
 @%E5%AE%89%E5%A5%BD%E4%BA%BA%E7%94%9F
