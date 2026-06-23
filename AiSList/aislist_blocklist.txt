@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12473
+! Total Channels: 12470
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8537,7 +8537,6 @@
 @FATHERSGENTLEREVENGE
 @HerHarshTruth
 @HeartlineStories-p8l
-@RevengePlan-e9r
 @Gregory-m2u
 @SugarRevengeUS
 @WarandMemory-w8z
@@ -8684,7 +8683,6 @@
 @BhooBhookidz
 @TacticalHour
 @LegiBluesMelodies
-@GlobeEXPL
 @BuriedFix
 @DailyNewsFrontline
 @RedCashew-z9f
@@ -11720,7 +11718,6 @@
 @heartlandcountryfm
 @skullsfactory1
 @calm-flowbeats
-@ghibliistudio-k3p
 @groupenglishanimalfacts
 @fifa2026_diario
 @johneconomic-h1k
