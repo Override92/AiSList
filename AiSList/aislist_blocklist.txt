@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12470
+! Total Channels: 12472
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12486,3 +12486,5 @@
 @yalilidesertbeats
 @retirewisebulletin
 @khmervillagelife168
+@aitalkative-h1f
+@moonlightmelodylounge-h5o
