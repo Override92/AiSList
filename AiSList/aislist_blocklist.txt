@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12474
+! Total Channels: 12475
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12490,3 +12490,4 @@
 @offmode0
 @builtfromz
 @GoblinDownInk
+@rainyseasidecabin
