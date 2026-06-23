@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12467
+! Total Channels: 12464
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -8782,7 +8782,6 @@
 @Animal-Rescue-Alliance
 @FluffyFlash-p8c
 @SURVIVAL3656
-@rescuecover
 @nguyenhuuhai-l8l
 @AnimatedStoryWorldChannel
 @thabestvfx
@@ -9480,7 +9479,6 @@
 @CutZen_off
 @LTDesign97
 @DHC-ASMR-Studio
-@Noeva16
 @CineMood777
 @rednotejazz
 @jubayerscabin
@@ -11639,7 +11637,6 @@
 @SofiaNeverforgives
 @AlexsRevengeDramainee
 @TalesofHearts-p9g
-@StrategicWatchtower
 @ApexLegendsDrama
 @Urban_emotion
 @UnheardStories-b9o
