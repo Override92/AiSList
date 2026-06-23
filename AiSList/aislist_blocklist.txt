@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12464
+! Total Channels: 12462
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10033,7 +10033,6 @@
 @FinanceExpl
 @AdamsVersesReloaded
 @AiyanaLoveTales
-@ameliaslovetales
 @AmericaPawarshow
 @AnnTales-yt
 @CRITICShow-1
@@ -10049,7 +10048,6 @@
 @Recessionwarnings
 @RootsofSurvival.1
 @BuriedSurvivalSecrets
-@UntoldLegacyofBruceLee
 @TheArchiveofWhispers
 @dadsrawrevenge
 @TheGlobalLens123
