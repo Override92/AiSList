@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12472
+! Total Channels: 12471
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -11436,7 +11436,6 @@
 @themindtrapstories
 @datamons
 @exoticexpat1
-@daydreamertalesart
 @MettleUK
 @BAPStories
 @BenHodges_Reports
