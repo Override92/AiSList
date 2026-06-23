@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12461
+! Total Channels: 12460
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5412,7 +5412,6 @@
 @SoapOperaInsider
 @HumbleRevenge
 @HerJustice-t7p
-@Africantalebyene
 @Requestedreads
 @Jaggystoriesandtales
 @GrandmaTrueStories
@@ -5565,7 +5564,6 @@
 @VendettaTales-m3e
 @SoulTales-07
 @CasefileRevenge
-@voiceofemma
 @Revengemountian
 @SilentVerdict-h1l
 @MidnightCosmos-z2s
@@ -12477,3 +12475,4 @@
 @heartfeltofficial80
 @rehanaligopang123
 @charles-vs-the-past
+@charleybournetruecrime12
