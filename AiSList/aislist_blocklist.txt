@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12460
+! Total Channels: 12459
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -4342,7 +4342,6 @@
 @EcosDeLaVida-ml
 @HistoriasdeMatilda
 @HistoriasqueAbrigan335
-@RelatosyHistoriasdelCorazon
 @RelatosDram%C3%A1ticos66
 @aivideo_14yal
 @ironarchivesusa
