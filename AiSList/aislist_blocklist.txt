@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12466
+! Total Channels: 12462
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -297,7 +297,6 @@
 @Magiclight-Ai
 @EAGLEFANCLUB3
 @MeowMemoirs97
-@MeowFictioncat
 @AIPalette-CuteCreatures
 @LilyVideoAi
 @Transformationthroughai
@@ -3317,7 +3316,6 @@
 @theforcearchives66
 @SingleDad-m9w
 @Revengemidnight
-@InfinityBox-e6x
 @DailySpark-b9u
 @globalnewsofficial143
 @BruceLeeEncounters
@@ -7832,7 +7830,6 @@
 @JuliaCC-r
 @LiyanaFemme
 @Socialsurge01
-@ProfessorJiangGlobalCuration
 @warnomics-342
 @echotronu
 @epicaiofficial
@@ -7855,7 +7852,6 @@
 @carcraft-f1j
 @cartoon_animation_video-u6h
 @iconicnewzealand
-@frontlinebriefingyt
 @basstories
 @boringmoneyus
 @theinnerpeace-f7o
