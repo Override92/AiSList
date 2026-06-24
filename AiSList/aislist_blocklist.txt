@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12462
+! Total Channels: 12461
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -10328,7 +10328,6 @@
 @AlbumMusicAI
 @StoriesBeyondHuman
 @ai_eternal_chapters
-@Tiny-Ai-tales-r7p
 @AIgniteStory
 @HFYTales
 @BedtimeMagicTalesbyRand
