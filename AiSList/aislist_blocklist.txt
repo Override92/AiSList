@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12460
+! Total Channels: 12459
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5214,7 +5214,6 @@
 @sufyanofficial-b6t
 @HiddenTaleYT
 @dollarlogic17
-@yourjonag
 @HeavenTestimoniess
 @RedSignal0t
 @UBFinanceTruth
