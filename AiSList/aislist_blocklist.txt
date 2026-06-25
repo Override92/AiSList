@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12528
+! Total Channels: 12533
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12544,3 +12544,8 @@
 @MillenniaChronicles
 @MarFluxMusic
 @TheQuietLibraryofficial
+@POV_Trailers
+@HFY_Universe
+@faisalbashirhere
+@FaiYamNarrator
+@NIa-tale-r4q
