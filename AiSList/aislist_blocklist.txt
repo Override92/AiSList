@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12499
+! Total Channels: 12504
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12515,3 +12515,8 @@
 @BabiesCatFamily
 @HFYSciFiPulse
 @StellarStoriesHFY
+@HFY980-g5v
+@HumanityFudge
+@AIGalaxyTales
+@SilentTruthHFY
+@hfyflicks
