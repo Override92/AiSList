@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12553
+! Total Channels: 12548
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -6676,7 +6676,6 @@
 @malvaAI
 @HardwareInsider
 @HYPNTECHNO
-@profjiangbriefing
 @rawrustrestore
 @seniorrevengestories
 @futurewithlove-c6k
@@ -7616,7 +7615,6 @@
 @AvenWyrdOfficial
 @BlackHoleProjectOfficial
 @world_melody
-@profjiangsimplified
 @ElectroSwingVibes
 @ElectroSwingGroove
 @RestorationAll-In
@@ -7760,7 +7758,6 @@
 @SeamlessSystem
 @USA-factory-5M
 @factorymmisssion
-@Evergreen-Capital-Voice
 @Berkshire-Mind-5
 @Wiadomo%C5%9BcizFrontu
 @StrefaFrontu
@@ -9789,7 +9786,6 @@
 @TheFallOfNations
 @thisisJazzCo
 @TheHistorianProfessor
-@Prof.Jiangupdates
 @MoneyLegends90
 @WarrenBuffett_Blueprint
 @ProBuffetHQ
@@ -10628,7 +10624,6 @@
 @HFYSci-FiTerravicta
 @HFYStories-stories
 @AIKilledTheArtist
-@aisleepheaven
 @AIStudyHub.18197
 @AIVision-h5t
 @AnimatedGeopoliticss
