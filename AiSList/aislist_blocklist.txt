@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12474
+! Total Channels: 12479
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12490,3 +12490,8 @@
 @Elcuervorecuerda
 @TubiDaorLore
 @ChroniclesofDuneJihad
+@MiniFlicksAI
+@Vagabond-in-the-Rain
+@shavashchannel
+@TerranProtocol
+@HFYTalesDaily
