@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12459
+! Total Channels: 12458
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5705,7 +5705,6 @@
 @LearnWithFeynman
 @PhysicsbyFeynman-j7c
 @The_Feynman_Way
-@PurePhysicsLearning
 @TheCuriousPhysicist-l3n
 @FeynmanLegacy
 @RichardFeynmanMindset-i2l
