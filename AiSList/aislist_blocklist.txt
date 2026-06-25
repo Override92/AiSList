@@ -14,9 +14,8 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12549
+! Total Channels: 12544
 ! Entries:
-@ChickofHonor-o6d
 @ChickofHonor-l
 @ChickofHonor-3i
 @ChickofHonor-w8v
@@ -8651,7 +8650,6 @@
 @Plotberg
 @TheRedRegime
 @RoyalFrontierr
-@USAReportFiles
 @FlorksHabit
 @BhooBhookidz
 @TacticalHour
@@ -8662,7 +8660,6 @@
 @mpelembe
 @KRB_761
 @Thelastprimus-world
-@GroupEnglishNZ
 @ArcanePotter
 @WildWestTalesOfLove512
 @CanadaWarLegacy
@@ -9822,7 +9819,6 @@
 @TheTrueBrief-p6w
 @thomaskellerbrief
 @WilliamH.McRavenBrief
-@WorldBriefLive
 @CapitolNewsReports-e6s
 @DanielBrooksReport-u6z
 @EthanColeReport
@@ -9831,7 +9827,6 @@
 @NewYorkReports1
 @NordReport
 @RedLineReport99
-@REDLINEREPORTS-x3w
 @The_Economy_Report
 @TheAsianReport-ttt
 @AGTears
