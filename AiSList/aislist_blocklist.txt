@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12538
+! Total Channels: 12543
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12554,3 +12554,8 @@
 @EarnWithAi-u8r
 @AfricanFolktalesbyTere
 @filmfashally
+@folktalebydee1
+@ShowtimeFolktales
+@Diojastories
+@drive79
+@50sCinema
