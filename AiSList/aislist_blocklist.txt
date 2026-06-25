@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12460
+! Total Channels: 12455
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -5855,7 +5855,6 @@
 @BrainRotLegends-u08
 @dayten_yt
 @Angelowiplays
-@Psyfluence
 @yoitsme1234.5
 @Brainrotsssss-p6w
 @Dear_human101
@@ -5866,7 +5865,6 @@
 @BrainrotStoriesz
 @RockandMetals9
 @Vincent_Rowland
-@ProfJiangMedia
 @Storyteller-j5d
 @FredinFocus
 @TheMessiah_jesus
@@ -6040,7 +6038,6 @@
 @JesusDevotee
 @RichMindMelody
 @SystemicLedger1
-@TheWealthSentinel
 @AudiobookWealthMindset
 @DivineWealthVibes
 @MoneyMeaning2025
@@ -9365,7 +9362,6 @@
 @WorkZone-s3w
 @WorldPolitics-r1z
 @MUSKRECORSD
-@lifewithmusk-y1l
 @SzeptPL
 @Iubire%C3%AEnVestulS%C4%83lbatic
 @SzeptPami%C4%99tniki
@@ -10561,7 +10557,6 @@
 @KnowTechGlobal
 @lawrencecunningham6859
 @LazyChillHistory
-@leafmodo
 @MVPStoriesSG
 @MyBetrayalDiaries
 @NotTodayKaren-m4s
