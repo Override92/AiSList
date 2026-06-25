@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12489
+! Total Channels: 12494
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12505,3 +12505,8 @@
 @plunderexe
 @The_Meow_Niverse
 @MegaCatCut
+@HiddenTerraVaultCP
+@AethernalAI
+@rumibembem
+@KATLOVEAI
+@Kapandascat
