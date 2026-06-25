@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12543
+! Total Channels: 12548
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12559,3 +12559,8 @@
 @Diojastories
 @drive79
 @50sCinema
+@RickytheRackoon
+@ElectricSheepAIDreams
+@IndustraIQ
+@ancientearthrhythms
+@NeuralProtocol-p2l
