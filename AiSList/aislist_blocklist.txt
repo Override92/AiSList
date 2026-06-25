@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12533
+! Total Channels: 12538
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12549,3 +12549,8 @@
 @faisalbashirhere
 @FaiYamNarrator
 @NIa-tale-r4q
+@SheDreams_AI
+@Graceful-storiez
+@EarnWithAi-u8r
+@AfricanFolktalesbyTere
+@filmfashally
