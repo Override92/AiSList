@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12552
+! Total Channels: 12548
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -7870,7 +7870,6 @@
 @FactoryMatrix
 @NeoGenWorkflow91
 @aurora.heaven18
-@FreedomInsight01
 @FeynmanMethod-d5p
 @HowWealthGrows
 @MoneyMonkeyhub
@@ -8179,7 +8178,6 @@
 @MUSIC-AND-SONGS-ai
 @BruceLee.TheDragonsLegacy
 @bruceleelegacyusa
-@PoliticalSignalDesk
 @StrategicReport-SR
 @cosmiclawsexplainer
 @DreamloopRadio
@@ -8189,7 +8187,6 @@
 @maddownavy2026usa
 @JohnRichertsonMedia
 @WarCurrent
-@jiangxueqinbriefing
 @TheTippingPoint-f3y
 @EconomicsKingdom
 @TheSomberSea
@@ -8644,7 +8641,6 @@
 @CreativeAI-05
 @asmrvideoes-s5r
 @Rockidofficial
-@ProfessorJiangTalking
 @ROTTENAGES
 @WalterAIArt
 @only_msq
