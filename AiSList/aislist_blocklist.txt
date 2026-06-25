@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12548
+! Total Channels: 12553
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12564,3 +12564,8 @@
 @IndustraIQ
 @ancientearthrhythms
 @NeuralProtocol-p2l
+@AuraBeat_Music
+@DivineEchoNasheed
+@erasedrepublic
+@SilentWisdom-py
+@nostalgictunesstudio
