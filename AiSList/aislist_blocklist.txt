@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12523
+! Total Channels: 12528
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12539,3 +12539,8 @@
 @HT-HiddenTreasures
 @JoyJolly_TV
 @VillageTalesAI-k7q
+@TJ_Astralis
+@RockStation80s
+@MillenniaChronicles
+@MarFluxMusic
+@TheQuietLibraryofficial
