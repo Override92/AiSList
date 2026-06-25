@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12479
+! Total Channels: 12484
 ! Entries:
 @ChickofHonor-o6d
 @ChickofHonor-l
@@ -12495,3 +12495,8 @@
 @shavashchannel
 @TerranProtocol
 @HFYTalesDaily
+@InfiniteWarChronicles
+@DarknovaProtocol
+@universestorytime
+@HFYNovaStories_69
+@MaelstromTales-y3m
