@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12543
+! Total Channels: 12540
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8231,7 +8231,6 @@
 @LegacyofRichStories
 @SumerianSecrets-s2u
 @PaintedThrone
-@rb_animation98
 @TheRisingMindTales-l4q
 @ProjectOceanuso
 @JapaneseCarSecrets
@@ -10234,7 +10233,6 @@
 @heymrdjay
 @valentinasooofficial
 @observervlog
-@tinytoonshindi-z7z
 @深海幻像
 @mitcheallglobalruth
 @%E5%A4%A2%E8%A6%8B-%E5%B9%B4%E5%86%85300%E4%BA%BA%E7%9B%AE%E6%A8%99
@@ -10623,7 +10621,6 @@
 @StoicSoulForge-US
 @gorzilla.x
 @the_secretsofthebible
-@elregristrosellado
 @sabzinagritales
 @digital.soulclub
 @blues_therapy
