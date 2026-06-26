@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12540
+! Total Channels: 12535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3752,7 +3752,6 @@
 @Dr.JavierMart%C3%ADnez-b3w
 @DraEmiliaSu%C3%A1rez
 @SafeCapital-u3r
-@LiesBurnSlowly
 @JusticeZoneTV
 @CopsCamVault
 @BrotherJamesStories
@@ -3764,7 +3763,6 @@
 @HOATALES-u6z
 @HOAcase
 @The.Hidden.ChapterYT
-@JusticeRevealed-us
 @RacismMatters-f4o
 @HiddenPowerStories-f7o
 @Unsaid-Stories99
@@ -4384,10 +4382,8 @@
 @warrenbuffetinvest
 @Buffetts.Rules.of.Wealth
 @OmahaAfterDark
-@thesilentcompounder
 @ELMETODOMUNGERESP
 @FinanzasenlaTerceraEdad
-@mentesdeomaha
 @seguramente.zurich
 @Ense%C3%B1anzasdeRayDalio
 @MundoDinerovideos
@@ -4419,7 +4415,6 @@
 @DR.NERITA
 @MensHealthOver50-60
 @HeartToWolff
-@MrCityView4
 @nextgenwarr
 @NORGEMILIT%C3%84R
 @deluxebyluk
