@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12544
+! Total Channels: 12541
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10066,7 +10066,6 @@
 @HFYTells
 @Jasons_TalesHFY
 @hfywarzone-x6v
-@HFYEmpireSaga
 @HFYHORIZONZXON
 @HFYUniverse
 @offtherecord.channel
@@ -11481,7 +11480,6 @@
 @DRAMIONE_Entertainment
 @ai_altered
 @ArtificialLoLs1
-@GiddyAi
 @AIHarmony-k4x
 @ForeverForeverx2
 @ArtificialIrrelevances
@@ -11581,7 +11579,6 @@
 @MiracleAiHub
 @KLCaird
 @CatastrophesReconstitu%C3%A9es
-@policecamrevealed
 @KCSeriesNetwork
 @NebulaProphecy
 @archivesdelhistoire
