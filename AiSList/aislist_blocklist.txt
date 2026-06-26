@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12540
+! Total Channels: 12536
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3322,7 +3322,6 @@
 @SleepOnSpace
 @CrownyDagger
 @EpicOldWestStories
-@TheShadowsStories
 @The_Miner-h5h
 @motormafiaa
 @Black.Soul.Stories
@@ -3365,7 +3364,6 @@
 @BreathofMemories-f2r
 @SEALTheShepherdk9
 @StateOfValor1
-@StoriesMeaning
 @BlackStories-tv
 @FilesofJustice-3
 @DontForgetMe-q3i
@@ -3403,7 +3401,6 @@
 @LEGOLifeMachines
 @Blundera33
 @SciFiSignal360
-@DestinyStories-z8k
 @Happy-Love-Stories
 @zoltekex1640
 @Mafia-Syndicate6368
@@ -3481,7 +3478,6 @@
 @The_Smart_Retirement
 @SilverSignalRoom
 @MoneyArchive-Official
-@TheUntoldEmpire-t7e
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
 @MissileDiscovery
