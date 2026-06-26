@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12540
+! Total Channels: 12539
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -193,7 +193,6 @@
 @animaxx3d-animation
 @XilaAi
 @AzASMR-00
-@Dream4SMR
 @DreamASMR-g1c
 @DreamASMRAI
 @DreamASMR-AI
