@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12538
+! Total Channels: 12533
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2797,7 +2797,6 @@
 @ai_cat_funny_307
 @ai_funny_catworld
 @aicatvideo-i2g
-@aicatsvideo-s
 @cuteanimals-l1z
 @funnycatai-j
 @devendraaicreation
@@ -4420,7 +4419,6 @@
 @deluxebyluk
 @Primoyang-l4b
 @CrisisLens-k9s
-@EditorialNews-j5z
 @TheSilentEconomy-e9e
 @capitalHistorian-j8r
 @ThriveWithDr.Jocelyn
@@ -4525,7 +4523,6 @@
 @worldpocketcoins
 @StoriediCuoriCoraggiosi
 @OLDCOINSTV-k7h
-@Love-LifeLine-k1d
 @ToonzPik
 @Techlume-o3z
 @dividendosnews3519
@@ -10776,7 +10773,6 @@
 @worldversemusic
 @agelessebonyover50
 @almostmetal
-@wealthlogik
 @froloy
 @DirtyRoadSymphony
 @MiraChan-x92d
@@ -12154,7 +12150,6 @@
 @LoveTruth03
 @HiddenTales-y4k
 @UnderthePorchlight-i5f
-@DalyTruthNews
 @shadoweddesires
 @TheMarkWisdom_Fan
 @revengevault-rv
