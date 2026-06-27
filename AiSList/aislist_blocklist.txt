@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12533
+! Total Channels: 12534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12549,3 +12549,4 @@
 @senior-money-watch
 @goalverse013
 @pixelwaveco
+@north-signal-news
