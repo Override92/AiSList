@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12549
+! Total Channels: 12545
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5678,7 +5678,6 @@
 @Mathproven
 @bruceleediaries
 @BruceLeeTheDragonsChronicles
-@professorstrategos
 @FeynmanReborn
 @feynmanarchives
 @EinsteinClarifies
@@ -10521,7 +10520,6 @@
 @Kilowow-h9k
 @KindnessCornerStories
 @KnowTechGlobal
-@lawrencecunningham6859
 @LazyChillHistory
 @MVPStoriesSG
 @MyBetrayalDiaries
@@ -11677,7 +11675,6 @@
 @newsfootball365
 @secret_ledgers
 @thegardenpantry
-@jungianwisdom-e4n
 @goalzonegootball
 @fugazyfilmsanimation
 @dailyslate01
@@ -12351,7 +12348,6 @@
 @SmartWebpreneur
 @CreatorLabs.1
 @theautotubeacademy
-@LinesToDesignsAIFilms
 @AiZeesh
 @cybercatnap
 @tecpathum
