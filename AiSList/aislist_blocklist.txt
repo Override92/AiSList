@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12553
+! Total Channels: 12548
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1913,7 +1913,6 @@
 @meowstories001
 @alpha_kidsai
 @ai_sujoy-w7y
-@ai.shorts_top
 @poorpuppyshort-w7j
 @kitty-t3s4p
 @rathorcomedy7
@@ -3898,7 +3897,6 @@
 @UltimoFrenteYT
 @UnseenBraverySagas
 @roxysalpharomance
-@storiesthatseeyou
 @billionaireceostories-h7y
 @NarrativeStreamTV
 @legendsoflove2
@@ -4681,7 +4679,6 @@
 @WeisheitdesKapitals
 @thefoodshow587
 @HerocamAI
-@tunz_tube
 @TheCurrencyWarning
 @GOLDSILVERINSIGHTS-r4e
 @TheHiddenEconomyTV-h8f
@@ -4831,7 +4828,6 @@
 @GeorgiaWiseAdvice
 @WWII-Unseen-Stories
 @LoveBeyondThePorch
-@WisdomPuppy
 @TheHiddenBobDylanStories
 @WisdomThroughTime99
 @stoicthinkers1
@@ -9986,7 +9982,6 @@
 @SeniorsLife-p6m
 @HiddenModeYT
 @SimpleWomenStory-e8b
-@CanadaCurrent-z4q
 @WarReportandHub
 @dream.surfer69
 @RaptoCo
