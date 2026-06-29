@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12565
+! Total Channels: 12570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12581,3 +12581,8 @@
 @PROCESS247DC
 @TheLeadingWolfProduction
 @UltimateSatisfyUS
+@Whisperingrealmsmusic
+@WhatIfCinemaAI
+@JoJoaiVisualzone
+@AIYums
+@EditMinds
