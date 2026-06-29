@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12584
+! Total Channels: 12587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12600,3 +12600,6 @@
 @TurnWiser
 @AbyssArchive-v9f
 @Tools.for.Fools.official
+@KyryloVolkov
+@ThoughtChunks
+@cassette.visuals
