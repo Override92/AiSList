@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12593
+! Total Channels: 12588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6592,7 +6592,6 @@
 @ClimaRescue
 @HealingMoments-v5x
 @Arctic-Pulse-07
-@SuperRescue-n3s
 @endure-earth
 @frozenlivestv
 @NextGenGigaFactory
@@ -9819,7 +9818,6 @@
 @AIPaperSlop
 @AiShivam099
 @DeutschlandSeniorenFokus
-@ProfessorJamesWalker
 @realtalknachrichten
 @AtlasFinance1
 @Banthefinancialhistorian2
@@ -11342,7 +11340,6 @@
 @hearttouchstories-a1a
 @jamescalloway-yt
 @revengequeen3
-@professor_explained
 @thedoctrineco
 @fruitsplitasmr
 @loremotionai
@@ -12451,7 +12448,6 @@
 @realpiratehistory
 @ImagineHistoryVlog
 @plunderexe
-@The_Meow_Niverse
 @MegaCatCut
 @HiddenTerraVaultCP
 @AethernalAI
@@ -12542,7 +12538,6 @@
 @nikhilrajput0142
 @lovedeathnanoverse
 @footballlovers-c4r
-@rescue_nation_usa
 @africantalesbysj
 @topideiasefusoesai
 @storybytere
