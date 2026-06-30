@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12590
+! Total Channels: 12585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7745,7 +7745,6 @@
 @WickedAI
 @behindukpolitics
 @williamelcuentacuentos
-@hechosdescubiertos
 @richardhallowaycryptids
 @cafeharmonyjazz
 @platygoof_lab
@@ -7810,7 +7809,6 @@
 @carcraft-f1j
 @cartoon_animation_video-u6h
 @iconicnewzealand
-@basstories
 @boringmoneyus
 @theinnerpeace-f7o
 @therealtalk319
@@ -9417,7 +9415,6 @@
 @BellyAsmr-z2u
 @AI.madame.english
 @Fruitfulaii
-@CutZen_off
 @LTDesign97
 @DHC-ASMR-Studio
 @CineMood777
@@ -9856,7 +9853,6 @@
 @ElvarStories9
 @LOLOTICAStories
 @anuskysa
-@Humanity-Tales1
 @JordanJoaquin-f8o
 @QuietDadStories
 @PhoenixEchoes3
@@ -11540,7 +11536,6 @@
 @Haru-s6i8h
 @ZoomDrives0
 @Asphaltguardians-m3x
-@PawsofValor-o8m
 @Aitv0786
 @CartoonsAi27
 @OmegaMidnightTales
