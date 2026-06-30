@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12587
+! Total Channels: 12582
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4810,7 +4810,6 @@
 @WARLOGICS-8888
 @UntoldWarTruths
 @WW2-y3r
-@WW2Elite
 @CostOfFreedomYT
 @Tales1940
 @ww2-dates
@@ -8029,7 +8028,6 @@
 @ReformedThinking-c3o
 @the_Ai_verdict
 @militarylegoai
-@RedPointMedia333
 @Origin_labs
 @zzz_tokyo
 @SanchezWyja%C5%9Bnia
@@ -9429,7 +9427,6 @@
 @crownwiredaily
 @coco_love_music
 @baladasinolvidables-o6w
-@mwtalkk
 @bambiememes
 @EpicOrchestralFan
 @mythical-history
@@ -11877,7 +11874,6 @@
 @RogueCellPictures
 @DreamyASMR-x7e
 @aichakkara
-@entnow1w1
 @BrokenEconomy_Official
 @SpaceEconomy-Explained
 @hiddeneconomy22
@@ -12180,7 +12176,6 @@
 @LogikaBisnisID
 @wildromanceen
 @baobabtracks
-@easternnick
 @walterblak0
 @chroniq_studio_38
 @footballingz
