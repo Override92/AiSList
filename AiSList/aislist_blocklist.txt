@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12583
+! Total Channels: 12579
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4056,7 +4056,6 @@
 @DCDailyBrief
 @NARCIFIC-t6h
 @USAuthorityNews
-@noticias1-c4h
 @FinanceCapitalYT
 @NarkogReports
 @PuntodeQuiebrealMinuto
@@ -4939,7 +4938,6 @@
 @MrAG_Asian_Guy
 @JohnAGSilverInvestor
 @FinancialUpdates7
-@MarketAura-d4n
 @cashyandledger-l8m
 @KENZO-OFFICAL19
 @RayDalio-n1n
@@ -4993,7 +4991,6 @@
 @FrontlineUSAX
 @CurrencyofCivilization
 @optionandstory
-@EliteBoardroom
 @FinancialArchivist_1
 @MutualFundMantra-0012
 @TheWealthArchitect-US
@@ -6234,7 +6231,6 @@
 @SimplebutSurprising
 @KolaDepth
 @unknownUSpolitics
-@AliRehman-j8o
 @TalesFromWWII
 @joycebuyers6260
 @CurrencyMatrix
