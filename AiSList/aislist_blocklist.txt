@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12579
+! Total Channels: 12580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12595,3 +12595,4 @@
 @backdoorceleb
 @retrovibes389
 @projetoextremopt
+@thelonggoodnight
