@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12584
+! Total Channels: 12585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12600,3 +12600,4 @@
 @silentrevenge15
 @TatoSports
 @VeloixFiles
+@ThrottlePsychology
