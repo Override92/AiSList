@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12594
+! Total Channels: 12589
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4351,7 +4351,6 @@
 @StefanInvestiert
 @prosperidadjudia8
 @Jud%C3%ADoMillonario
-@MaquiavelodelPoder
 @Mindplot01111
 @PowerMindsetA
 @MachiavellianStoicism
@@ -5796,7 +5795,6 @@
 @FeynmanExplains-v3t
 @WarfareUnclassified
 @GalaxyVault-s2o3n
-@SaraQureshi-e6b
 @MoneyUntoldEX
 @FiscalWarfare
 @HerHealth60
@@ -9197,7 +9195,6 @@
 @FactoryInsightDocs
 @IntergalacticWildlife
 @OldMoneyDocumentaries
-@DarkBibleMovie
 @FunKidsPlay-u7e
 @sideralisworks
 @IAREALLIFE
@@ -10476,7 +10473,6 @@
 @furithappened
 @GALAXYIF
 @GeeklyHistory1
-@globalinsightnetwork1
 @GodMyHelpAlways
 @hereticmp4
 @HightechzonebyMAHEER
@@ -10495,7 +10491,6 @@
 @MyBetrayalDiaries
 @NotTodayKaren-m4s
 @officialwealthexplainer
-@PolitxScope
 @PROCESSMOTION9
 @RealTimeConflict
 @RedditChronicles-p3q
