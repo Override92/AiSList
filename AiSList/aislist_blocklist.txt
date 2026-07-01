@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12589
+! Total Channels: 12590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12605,3 +12605,4 @@
 @AsianAncestry
 @PhantomGB
 @fansdrWilliamLI
+@BruceLeeUntoldLegacy-x8y
