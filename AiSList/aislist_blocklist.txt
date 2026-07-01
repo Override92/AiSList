@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12581
+! Total Channels: 12579
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11992,7 +11992,6 @@
 @roastingpodcast
 @RhythmDistrict-s8g
 @Campfiretunes-t4c
-@AIDilKiAwaazAIDilKiAwaaz
 @Toon_Beats-e6c
 @AurixTunes
 @RiseWaveStudio
@@ -12018,7 +12017,6 @@
 @ArslanMcHunson
 @kROCKi1
 @ai-girlsband
-@AILife38
 @cod_music88
 @slimacovers
 @ummagumma671
