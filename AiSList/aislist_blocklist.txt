@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12584
+! Total Channels: 12579
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3303,7 +3303,6 @@
 @SingleDad-m9w
 @Revengemidnight
 @DailySpark-b9u
-@globalnewsofficial143
 @BruceLeeEncounters
 @hoch-01
 @TheSilentTruth-i7i
@@ -3379,7 +3378,6 @@
 @PlotTwisttoPower
 @HFYZenith
 @EpicSpaceChronicles
-@StarbreakersHFY
 @HFYRecorder
 @TheLastOnesStanding-k3v
 @TheCouncilsFear
@@ -3587,7 +3585,6 @@
 @YokoiKenjiPsicolog%C3%ADa
 @C%C3%B3digoMental-d4l
 @Sabidur%C3%ADadeJung
-@EthaanWalker
 @HumanidadPrimero
 @Zen_Vibes_Station
 @Voces-Africanas
@@ -3879,7 +3876,6 @@
 @TheTaleTrove102
 @Quiet_Betrayals
 @storiestheyoungignore
-@End.Racism.1
 @JusticeWatchTV-j2e
 @FarmLifeTrueStories
 @SoloDadStories-zz
@@ -12185,7 +12181,6 @@
 @LegendsWeLost-w9t
 @RealCowboyStories
 @supaponwachina
-@WhispersoftheFrontier-i9o
 @someeguy28
 @tonyrobbinswisdomroast
 @music_potions1
