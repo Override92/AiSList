@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12594
+! Total Channels: 12590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3870,7 +3870,6 @@
 @RevengeSpark-YT
 @MexicoNip%C3%B3n
 @ExploringPrehistory
-@T%C3%A1rtaroiceberg
 @ElArchivoTartario
 @memoriaprohibida19
 @TechinaTeacup2
@@ -4329,7 +4328,6 @@
 @lagrimasdehierro
 @psicologia.oculta1
 @mexiconipon
-@tartaroiceberg
 @masalladelashistoriasbibli-o7r
 @Loomee0
 @EcoEconomico
@@ -9777,7 +9775,6 @@
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
 @NewYorkReports1
-@NordReport
 @RedLineReport99
 @The_Economy_Report
 @TheAsianReport-ttt
@@ -9798,7 +9795,6 @@
 @AiShivam099
 @DeutschlandSeniorenFokus
 @realtalknachrichten
-@AtlasFinance1
 @Banthefinancialhistorian2
 @Bobfinance-US
 @BobyFinance
