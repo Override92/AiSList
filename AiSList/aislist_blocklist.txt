@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12591
+! Total Channels: 12588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8033,7 +8033,6 @@
 @donnel-i8bit
 @Proton-z1y
 @Astro_EngIIneer
-@GlobalCrisisNews-e7u
 @KosmicznyAlarm
 @TheHollowPast
 @BUPSSTORY
@@ -9014,7 +9013,6 @@
 @NanoKitchenAI
 @AfricanAIKitchen
 @KitchenAI-010
-@VVSmartkitchenAi
 @CatKitchenai-o6k
 @KitchenAi-u6o
 @kitchenAi04
@@ -11328,7 +11326,6 @@
 @exoticexpat1
 @MettleUK
 @BAPStories
-@BenHodges_Reports
 @BritishWarArchive
 @Bikers_LastRide
 @DustWarWW2
