@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12592
+! Total Channels: 12590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7746,7 +7746,6 @@
 @korzenumyslu
 @wiejskieopowiesci-l1p
 @demonhunterseries
-@horror_animasi
 @3mad-stories
 @A-ZMovieFacts
 @MoonFactsTv
@@ -7806,7 +7805,6 @@
 @scaredketchup
 @Wyobra%C5%BAsobiewszech%C5%9Bwiat
 @YourGlobalEye
-@AlexHillFinance
 @Sci-FiPulse
 @OdbudowaneHistoriawAI-BR
 @RekonstrukcjaHistoryczna
