@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12594
+! Total Channels: 12593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10715,7 +10715,6 @@
 @ClassicRomance-k8j
 @AfroKoreanRomanceTV
 @huntershelton19
-@feynmanexplainsphysics5m
 @rhetthollow
 @ww2fallenseries
 @dad.alonestories
