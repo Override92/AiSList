@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12577
+! Total Channels: 12573
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3881,7 +3881,6 @@
 @SoloDadStories-zz
 @Unlimited.Stories
 @UltimoFrenteYT
-@UnseenBraverySagas
 @roxysalpharomance
 @billionaireceostories-h7y
 @NarrativeStreamTV
@@ -4045,7 +4044,6 @@
 @hemavathishetty3423
 @DCDailyBrief
 @NARCIFIC-t6h
-@USAuthorityNews
 @FinanceCapitalYT
 @NarkogReports
 @PuntodeQuiebrealMinuto
@@ -4064,7 +4062,6 @@
 @EverGreenHomeLiving
 @evergreengardeningadvice
 @SaladePoder
-@RichardWolffVoice
 @ElP%C3%BAlpitoNacional
 @ZonadeImpacto2
 @WolffNoticias
@@ -4323,7 +4320,6 @@
 @masalladelashistoriasbibli-o7r
 @Loomee0
 @EcoEconomico
-@StoryMint-s2j
 @FinanceExplained1
 @CurrencySecrets
 @FinanceThroughTime-i9p
