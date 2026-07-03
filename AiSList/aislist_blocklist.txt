@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12556
+! Total Channels: 12555
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9290,7 +9290,6 @@
 @FrontlineReport-b5z
 @hardware-radar
 @AIInsiderTalk
-@Dr.VitalityAfter60-m2r
 @wealthoryai
 @%E8%81%B0%E6%98%8E%E7%9A%84%E6%8A%95%E8%B3%87%E8%80%85
 @InsideBuffettMind
