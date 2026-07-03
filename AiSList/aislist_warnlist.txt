@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 585
+! Total Channels: 586
 
 ! Entries:
 @CinebotComedy
@@ -607,3 +607,4 @@
 @artlist_io
 @thekingcharlestv
 @JoshuaOguamanam
+@SocialClubOfficial
