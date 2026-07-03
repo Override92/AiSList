@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12594
+! Total Channels: 12599
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12610,3 +12610,8 @@
 @Cats_Lifeeee_2.0
 @ForeverRootedMusic
 @taleswithmobo-84
+@AfricanTalesCinematic
+@Sukhendaszdas
+@AfricanTalesStudios1
+@AfricaAitales
+@LuxeWavezRecords
