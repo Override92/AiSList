@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12562
+! Total Channels: 12560
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5267,7 +5267,6 @@
 @HoryzontxZdarze%C5%84
 @FreshHealth_Facts
 @motivationcomplex
-@Official_CapitalRewind
 @oneminutefinance
 @InvestKnow
 @TalkTickersPodcast
@@ -5291,7 +5290,6 @@
 @Neural_Lens_Music
 @DecodeDiaries1m
 @arwaskitchenofficial
-@our_pup
 @sakoondill-x4m
 @mrsadhnaai
 @punchjapan
