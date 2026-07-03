@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12684
+! Total Channels: 12689
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12700,3 +12700,8 @@
 @PureTingles_ASMR
 @MagicSlimeAi
 @AIASMRFlow
+@ReallyAi2026
+@SensoryFruitASMR
+@Fruitbabies26
+@SACHIN.Y72119
+@FruityAIASMR1
