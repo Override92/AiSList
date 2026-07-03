@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12559
+! Total Channels: 12556
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1207,7 +1207,6 @@
 @aimeowcutecat
 @aicat-x8s
 @adventuresofcats-ai
-@ai.ollecram
 @catai2011
 @cutecatai80
 @catcutecat1122
@@ -5781,7 +5780,6 @@
 @AiDreamerOfficial
 @Sprunkimusic-v3u
 @Shivangmini
-@memefluffy
 @TOROT_TOROT
 @CappuccinoEdw
 @minderanimasi
@@ -10492,7 +10490,6 @@
 @Moonlitdesires-w6i
 @maru6s
 @waqaskhokher-m3y
-@kind-j8p
 @ForeverYours-s3d
 @SilentLoveWorks
 @TheStorytellingPodcast1328
