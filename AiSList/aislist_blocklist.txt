@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12604
+! Total Channels: 12609
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12620,3 +12620,8 @@
 @seraphinasromance
 @chocopeve
 @OmegaCrownTales-z2u
+@TheAlphaCode-j7i
+@AlphaKingdomStories-r7u
+@KL025-h2g
+@Kionisalpha-rom
+@EllaRomanceBoard
