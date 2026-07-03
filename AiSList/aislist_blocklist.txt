@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12624
+! Total Channels: 12629
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12640,3 +12640,8 @@
 @Naomiloveromance
 @Korean-Mafiaworld
 @storiesbyjoyy
+@Afro-SeoulTV01
+@Afrokchron
+@AfriSeoulCupid
+@afrok-popstories
+@AfroKoreanLoveTalesHub
