@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12574
+! Total Channels: 12573
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11532,7 +11532,6 @@
 @gentlelifestories
 @rebrainmoments
 @naturalbeauty-t2v
-@atrorium
 @mathinvests
 @conceptburstyt
 @truecrimeexplorer-k2m
