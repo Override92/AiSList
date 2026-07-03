@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12699
+! Total Channels: 12704
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12715,3 +12715,8 @@
 @UntilYouFeelSatisfied
 @AI.FruitBabies
 @tinyfruitbaby19
+@ScrollixAI
+@CozyPopAI
+@mandmsmommy05
+@karansharma06
+@Fruit-Burst
