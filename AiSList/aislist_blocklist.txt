@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12570
+! Total Channels: 12569
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1530,7 +1530,6 @@
 @catfillm
 @meowcat09-c3n
 @prettyaikittens
-@factorybeyondprocess
 @processasmrfactory
 @satisfyingfactoryasmr
 @process-h2t
