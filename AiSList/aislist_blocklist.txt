@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12572
+! Total Channels: 12577
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12588,3 +12588,8 @@
 @HFYfilms
 @WildPrairieStories-o4e
 @QuietCowboyStori
+@WildWestChroniclesStories-d9f
+@CowboyIronheart
+@FrontierDustTales
+@TheStoryworld-b7f
+@WILDWESTAIRECORDS
