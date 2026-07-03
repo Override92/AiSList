@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12566
+! Total Channels: 12567
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9450,7 +9450,6 @@
 @lbiskiss3
 @eltronoylagloria
 @kozmio
-@veelog-f7o
 @dieuanhmb888
 @thegranddossierus
 @sulimankhanvlogs001
@@ -12582,3 +12581,5 @@
 @blackpyramidpl
 @darksaint-theoutlawofthestorm
 @wonderfulantony
+@ancestralwisdom-i4o
+@mindfulstories-v2l
