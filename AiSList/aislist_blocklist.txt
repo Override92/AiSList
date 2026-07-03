@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12564
+! Total Channels: 12562
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -692,7 +692,6 @@
 @rio_5uai0
 @viral7ai
 @riomovie1130
-@asaction100k
 @airippleshorts1
 @monkey_baby-s6q
 @leosgoodness
@@ -11523,7 +11522,6 @@
 @rupeshlabel
 @thestickroartv
 @untoldlegacyofbrucelee1x
-@aivm-music
 @twinklestar-n6t
 @anime-creation_14
 @iberianliving1
