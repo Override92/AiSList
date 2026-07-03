@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12714
+! Total Channels: 12716
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12730,3 +12730,5 @@
 @JacksonCrystalASMR
 @RisaafASMR461
 @ZuzuPikuPlanet
+@BabyBerrystudio-p3i
+@AI-ASAMR13
