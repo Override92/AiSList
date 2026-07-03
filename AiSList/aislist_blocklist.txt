@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12716
+! Total Channels: 12714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6651,7 +6651,6 @@
 @FarmerTales_YT
 @AmericanRewindChannel
 @Triumphantstories0
-@StoryTellerBKK
 @FatalFilesyoutube
 @MidnightArchive-y7p
 @HiddenCamEvidence
@@ -6687,7 +6686,6 @@
 @renjianjiushi0888
 @%E5%BF%83%E8%81%B2%E6%96%B0%E8%AA%9E
 @%E5%AE%89%E5%A5%BD%E4%BA%BA%E7%94%9F
-@CheatingLabs-i4b
 @HerFamilyStory
 @SilentThunderRiders
 @RevengeSignal12467
