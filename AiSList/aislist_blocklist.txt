@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12614
+! Total Channels: 12619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12630,3 +12630,8 @@
 @AIAnimeVisuals
 @PapaZapp
 @Photoarchive-24
+@TheDukesDiaries
+@AfroKdramaStories1
+@afrokoreanromancestoriess
+@CrimsonSeoulStories-o7l
+@SamsDiaries-AK
