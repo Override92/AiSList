@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12573
+! Total Channels: 12571
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4937,7 +4937,6 @@
 @DeepFocusGroove-e2w
 @PAISATRACKER
 @Introvert-invest
-@WEX-INVEST-11
 @ZenoFinance01
 @BrandonInvests
 @ProfessorBrainEXPLAINS
@@ -4988,7 +4987,6 @@
 @BrainRehabs
 @brainrotzon
 @MangoAnimationMeme
-@MemesRandomnes
 @Rabbitteooooooooooooo
 @bukakameme
 @MemeMachiine
