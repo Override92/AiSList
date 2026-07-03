@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12659
+! Total Channels: 12664
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12675,3 +12675,8 @@
 @SinhalaAIMusicPro
 @NeonBeatz-l9k
 @VidMuseAI
+@NyxiaAIMusic
+@vision_synk_flow
+@DropTheoryHQ
+@TheVibeLab01
+@synthdub_reggae
