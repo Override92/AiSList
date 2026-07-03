@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12561
+! Total Channels: 12559
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5819,7 +5819,6 @@
 @Peaktoon
 @OtnielThigpen-l5e1f
 @AIfilm-i6o
-@KpopFunToon
 @SumedhaSenadheera
 @mort.animation
 @Bernard_Films
@@ -9192,7 +9191,6 @@
 @OutfoxApocalypse
 @GrindnGroove
 @OurForgottenWorld
-@FugazyFilmsAI
 @AncientMemoriaHistory
 @Danisifihub
 @AbsolutelyChillMusic
