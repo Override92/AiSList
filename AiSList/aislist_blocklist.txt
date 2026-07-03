@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12644
+! Total Channels: 12649
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12660,3 +12660,8 @@
 @Hiddenlovestories-e1b
 @SeoulOfAfrica
 @elizadiariestv
+@SherylsDreamVerseAI
+@aisonicstudio-q5
+@Ai.Music.Videos
+@AiSongMan
+@GrooveHavens001
