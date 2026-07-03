@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12566
+! Total Channels: 12565
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2197,7 +2197,6 @@
 @aishorts-i5k
 @aishortstv-u7w
 @thisvideoai
-@aishortvideo69
 @aizone2222
 @aishort-only
 @aestheticai-k9c
