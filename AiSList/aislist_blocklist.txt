@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12578
+! Total Channels: 12577
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4204,7 +4204,6 @@
 @SimpleCurrencyYT
 @WhatChanges
 @MARKETHISTORY-k7p
-@METALMARKETINTELLIGENCE
 @EconomicTruth2
 @Prosper_Path_1
 @BoringCurrencyLive
