@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12679
+! Total Channels: 12684
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12695,3 +12695,8 @@
 @Chromatbeats
 @HuexLabs
 @americo9999
+@FourDollarCyclone
+@greenloungerecords
+@PureTingles_ASMR
+@MagicSlimeAi
+@AIASMRFlow
