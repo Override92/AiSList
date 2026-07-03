@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12564
+! Total Channels: 12563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9922,7 +9922,6 @@
 @SeniorsLife-p6m
 @HiddenModeYT
 @SimpleWomenStory-e8b
-@WarReportandHub
 @dream.surfer69
 @RaptoCo
 @FalloutSquirrel
