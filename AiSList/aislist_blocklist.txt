@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12569
+! Total Channels: 12568
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11185,7 +11185,6 @@
 @QuickLearnAIMakesYouSmarte-f7q
 @InfinityLoop-w5z
 @ArchitekturSchatten
-@AlteeGeschichte
 @droga_do_madrosci
 @StructureX2050
 @EHTX7
