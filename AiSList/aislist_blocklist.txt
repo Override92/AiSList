@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12560
+! Total Channels: 12561
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5550,7 +5550,7 @@
 @netflixromanticstory
 @MaryannChioma-i7w
 @UnravelingRevenge
-@RevengeNarrativeStories
+@karmicverdictvault
 @RevengeWithLyra
 @RevengeWithIris
 @AvaRevenge96
@@ -12576,3 +12576,4 @@
 @symphonyforge13
 @jesterforyou-q5x
 @ashtonwilsonx
+@simplephysicsdailyyt
