@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12669
+! Total Channels: 12674
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12685,3 +12685,8 @@
 @VeraMusic04
 @KaifRamzee
 @shulmanator
+@GenZHabeshaMusic
+@VyomMotion
+@PieterDorst
+@DualGoatUniverse
+@SoloRecordsHQ
