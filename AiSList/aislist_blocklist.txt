@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12609
+! Total Channels: 12614
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12625,3 +12625,8 @@
 @KL025-h2g
 @Kionisalpha-rom
 @EllaRomanceBoard
+@LeilaSkm
+@VelvetBLLore
+@AIAnimeVisuals
+@PapaZapp
+@Photoarchive-24
