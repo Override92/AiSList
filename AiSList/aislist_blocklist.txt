@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12639
+! Total Channels: 12644
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12655,3 +12655,8 @@
 @Mimisromancediary
 @AfrokoreanEstories
 @underworldstories001
+@SeoulfulMelaninTales
+@STORYWEAVE_r
+@Hiddenlovestories-e1b
+@SeoulOfAfrica
+@elizadiariestv
