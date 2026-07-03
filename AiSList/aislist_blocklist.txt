@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12664
+! Total Channels: 12669
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12680,3 +12680,8 @@
 @DropTheoryHQ
 @TheVibeLab01
 @synthdub_reggae
+@NeoCraftStudio
+@onemoreshot-ai
+@VeraMusic04
+@KaifRamzee
+@shulmanator
