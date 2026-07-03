@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12674
+! Total Channels: 12679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12690,3 +12690,8 @@
 @PieterDorst
 @DualGoatUniverse
 @SoloRecordsHQ
+@AleksLied
+@astrovah
+@Chromatbeats
+@HuexLabs
+@americo9999
