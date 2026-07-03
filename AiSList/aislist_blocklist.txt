@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12649
+! Total Channels: 12654
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12665,3 +12665,8 @@
 @Ai.Music.Videos
 @AiSongMan
 @GrooveHavens001
+@AutomationXpertz
+@VisionOfFury
+@steviepeaveyfilms
+@fAIkout
+@Dreamboxmusic24
