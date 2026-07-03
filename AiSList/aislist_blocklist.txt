@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12571
+! Total Channels: 12568
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4500,7 +4500,6 @@
 @Techlume-o3z
 @dividendosnews3519
 @OTTOONLY
-@InnerSky-c2h
 @WorldHistoryTales2
 @TheSilverCrisis5
 @TheCollapseFiles-l2t
@@ -5053,7 +5052,6 @@
 @BrainrotDrop
 @SKYArtAi
 @misteripek
-@lazyninja3
 @mat-siems-production
 @doodleclarity
 @HTThing
@@ -5093,7 +5091,6 @@
 @AuthorityTalesYT
 @EchoSoulStories-u6w
 @HOAKarenDrama-g3o
-@TheHOAStories-d2d
 @HOAOverlordsExposed55
 @RealHoaStorytime-p6u
 @HOAStori
