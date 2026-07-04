@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12835
+! Total Channels: 12837
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12851,3 +12851,5 @@
 @UNIFlowinLab
 @VOLTAGE_WORKS
 @quantumcoast
+@cozystorynook-g3p
+@tinytales-d5u
