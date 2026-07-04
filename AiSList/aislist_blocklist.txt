@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12749
+! Total Channels: 12746
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8383,7 +8383,6 @@
 @MoneyMind336
 @AIProgrammingHardware
 @MegaFactoryDiscovery
-@AiFactory-d2z
 @RoyalHush-i9s
 @Mananambience
 @CalebsConflictReport
@@ -8413,7 +8412,6 @@
 @HerHarshTruth
 @HeartlineStories-p8l
 @Gregory-m2u
-@SugarRevengeUS
 @WarandMemory-w8z
 @FrankSinatra-TheUntoldLegacy
 @WW2Eraa
@@ -8429,7 +8427,6 @@
 @oldtymz
 @kevinadvises
 @estrategiamillonaria-z1y
-@aicartoonfactory-yt
 @realmarkethistory
 @drainesramirez1
 @oracion_de_medianoche
