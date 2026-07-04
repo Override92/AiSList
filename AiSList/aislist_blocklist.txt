@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12746
+! Total Channels: 12747
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12762,3 +12762,4 @@
 @APodcastRunByAI
 @gigavora
 @piotrzaczek-voiceai
+@whispertales-i8g
