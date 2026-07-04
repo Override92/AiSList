@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12753
+! Total Channels: 12751
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8006,7 +8006,6 @@
 @nexorafiled
 @orctaleforge
 @ellegadodelacreacion
-@catcarediaries
 @blackfacetrader
 @moviehub_plus
 @maxadmarketing
@@ -9443,7 +9442,6 @@
 @chippyspielberg
 @zacznijdzis
 @niemozebyc_pol
-@asmrwithkm
 @sadboy-h4b4i
 @aisavi-z1b
 @Insightout-x4h
