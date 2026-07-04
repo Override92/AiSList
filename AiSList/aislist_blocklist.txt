@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12833
+! Total Channels: 12835
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12849,3 +12849,5 @@
 @NaviaStudio
 @ParentingRaw
 @QuantumFrequenciesDJ
+@UNIFlowinLab
+@VOLTAGE_WORKS
