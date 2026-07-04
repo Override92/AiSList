@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12838
+! Total Channels: 12837
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3372,7 +3372,6 @@
 @EpicSpaceChronicles
 @HFYRecorder
 @TheLastOnesStanding-k3v
-@TheCouncilsFear
 @HealingMafiaRomance
 @EmpireRomance76_US
 @FatesGentleHands
