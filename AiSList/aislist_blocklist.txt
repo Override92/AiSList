@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12803
+! Total Channels: 12808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12819,3 +12819,8 @@
 @TTRPGX
 @flyingrattlesnakes
 @psycho-sight
+@GhibliCookingDayss
+@HealingAnimeASMR
+@GhibliNotebookASMR
+@TriadST1
+@AwesomeTalesByBee
