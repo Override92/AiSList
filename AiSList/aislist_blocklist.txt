@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12828
+! Total Channels: 12833
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12844,3 +12844,8 @@
 @UntoldMajesty
 @AIBIBLEMOVIES
 @SynthStringLab
+@TheAvoidantMystery
+@AshAndGraceRadio
+@NaviaStudio
+@ParentingRaw
+@QuantumFrequenciesDJ
