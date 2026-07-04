@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12749
+! Total Channels: 12754
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12765,3 +12765,8 @@
 @PapaKitty22_US
 @AiAmazingdialogue
 @CatMindy
+@catvideodailybd
+@MeowPaPa-e8d
+@MeowgicMind-01
+@AICatLife888
+@meowcatvision
