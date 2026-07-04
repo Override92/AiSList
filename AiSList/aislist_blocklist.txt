@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12747
+! Total Channels: 12743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4700,7 +4700,6 @@
 @GalacticWitness
 @briangreene-q4x
 @RavComm
-@GwiezdnaPodr%C3%B3%C5%BCSciFi
 @DziennikZemsty
 @Pre-CodeCinema
 @mattinvestsUS
@@ -5297,7 +5296,6 @@
 @ashik-43
 @thebloodlaws
 @gamer-ps5pro
-@gwiezdnapodrozscifi
 @dzikizachodhistorii
 @kowbojskamilosc
 @jesusmysavior-p3m
@@ -6492,7 +6490,6 @@
 @MindBlowingF
 @BeyondTrueWonders
 @finova24
-@HistoriaBezLito%C5%9Bci
 @beyondtheveil2222
 @doyouknow-x7x
 @loverumi-2q
@@ -6580,7 +6577,6 @@
 @historiektorychnieopowiedziala
 @napoleonmindset-r
 @swietekody_pol
-@historiabezlitosci
 @explainitfast.111
 @worldpanicnews
 @smartmoneywithalex
