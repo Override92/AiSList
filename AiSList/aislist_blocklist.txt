@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12748
+! Total Channels: 12753
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12764,3 +12764,8 @@
 @joypixai
 @ParkzMedia
 @podcastwithpets
+@thedogbonepodcast
+@QuickRush8
+@FunDogFactsYT
+@Lordpecalon
+@Echoes-Fantasy
