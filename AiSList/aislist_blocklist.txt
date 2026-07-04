@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12823
+! Total Channels: 12828
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12839,3 +12839,8 @@
 @SteelCenturiess
 @AncientIndy
 @Azophiel
+@hannesh1860
+@AnthemNations
+@UntoldMajesty
+@AIBIBLEMOVIES
+@SynthStringLab
