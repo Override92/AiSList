@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12763
+! Total Channels: 12768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12779,3 +12779,8 @@
 @SINGULARITYVOICEAICoverArrange
 @Lucas_Opinion
 @DataIndependence
+@MacroSignal-inc
+@AutoContentAPI
+@TOKYOECHOSOUNDS
+@shenharmony2798
+@SacredSummaries7
