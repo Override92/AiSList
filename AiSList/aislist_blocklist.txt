@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12757
+! Total Channels: 12753
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7639,7 +7639,6 @@
 @Productionprocess-c7o
 @DailyProcess-v1s
 @Processzonevideos
-@SKMTweetExpert
 @LittleSoulStories-s8g
 @Blaze_Pop_Music
 @YtAhmedSain
@@ -7789,7 +7788,6 @@
 @queenpregnantAI
 @darkmatter1996
 @Retrovivals
-@Europe-Informed-Connected
 @wondeezyyy
 @japanesechilllounge
 @SunoAiX
@@ -7797,7 +7795,6 @@
 @TeslaCentralHD
 @circleoflifetimes
 @InkofthePast
-@ThePatelToday
 @NexionNews
 @SagaLoreAI
 @mythsandmagicmusic
@@ -8021,7 +8018,6 @@
 @drandrzejwisniewski
 @wyobrazsobiewszechswiat
 @piotrwegielek
-@sobatrebahan-i5p
 @Bigscaleprocess
 @ScaleHub-i5z
 @xD_Process
