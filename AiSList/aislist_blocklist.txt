@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12714
+! Total Channels: 12719
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12730,3 +12730,8 @@
 @SoftyASMRSA
 @TwinoAndTwina
 @ZiglooCartoons-o4r
+@SIMONWill-j2x8r
+@Purrverse-US
+@aigr0w
+@AISPARK-q8k
+@LittleStoriesAI
