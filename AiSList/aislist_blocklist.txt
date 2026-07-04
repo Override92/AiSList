@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12761
+! Total Channels: 12760
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10127,7 +10127,6 @@
 @SaraDailyEnglish25
 @Icytransformation66
 @krishnabhaktishorts02
-@heymrdjay
 @valentinasooofficial
 @observervlog
 @深海幻像
