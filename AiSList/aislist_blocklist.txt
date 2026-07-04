@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12760
+! Total Channels: 12759
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7368,7 +7368,6 @@
 @IntotheDreamLofiMusic
 @WanderHarmonics
 @SRH-z2m
-@SmoothBrewJazz-h1w
 @Moonizikai
 @soundscapeswithdarrensurrey
 @PeacefulNatureRelaxingMusic
