@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12763
+! Total Channels: 12761
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10599,7 +10599,6 @@
 @SmallThings-sc
 @HuntForge-2026
 @TimberCraft231
-@Selimtell
 @IshtiaqKhan-c6n
 @MUSIC_OF_LIFE_EDO
 @DoesAnyoneFancyAPint
@@ -10621,7 +10620,6 @@
 @InnerJoyStories
 @EverydayBuddhism2
 @mysleepytiger
-@PopToonity
 @SangAuto
 @BabciaWyja%C5%9Bnia
 @SielskaBanda
