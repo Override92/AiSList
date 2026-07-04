@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12837
+! Total Channels: 12834
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3771,7 +3771,6 @@
 @BlackFreedom2
 @TheRiversideTavern
 @thefolkdices
-@JusticiaVoz
 @StoryMania-b1u
 @UmeshYaduwanshi-e9l
 @UnitedWar-x6o
@@ -9247,7 +9246,6 @@
 @EchaKroniki
 @RodzinnyRewan%C5%BC
 @Opowie%C5%9Bci%C5%BCyciowe
-@%C5%9Awie%C5%BCehistorieo%C5%BCyciu
 @ExcelsiorLife0
 @HiddenHistoryArchives-11
 @WW2Savage
@@ -9460,7 +9458,6 @@
 @chlodnazemsta
 @rodzinnyrewanz
 @opowiescizyciowe
-@swiezehistorieozyciu
 @聰明的投資者
 @theniftyhustle
 @voltones
