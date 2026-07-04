@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12759
+! Total Channels: 12763
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12775,3 +12775,7 @@
 @AliCatAI1
 @MonsieurGinger
 @PodcastButNoClue
+@WhoLetThePawsOut
+@riseofconquerors
+@ai-pawcast
+@APodcastRunByAI
