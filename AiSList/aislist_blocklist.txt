@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12750
+! Total Channels: 12749
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8330,7 +8330,6 @@
 @simple-physix
 @softwavisounds
 @stylish_actress
-@jpmorganfinancehistory
 @tonyinvestigates
 @theclinthub
 @design_hustel_67
@@ -10836,7 +10835,6 @@
 @cobybylo
 @historiezakazanejmilosci
 @LoFiFiLoMusic
-@RANIELlo-fi
 @WarSage-yt
 @LofiFantasy.Isekai
 @FlashMoment21
@@ -12766,3 +12764,4 @@
 @ai-pawcast
 @APodcastRunByAI
 @gigavora
+@piotrzaczek-voiceai
