@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12836
+! Total Channels: 12835
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5892,7 +5892,6 @@
 @ZeroToLuxuryTV
 @HiddenJusticeArchives
 @2ndAmendmentInsights
-@OGJohnOG
 @david-_eacock_xtra_m
 @Boring-Jon
 @PaladinApp
@@ -12038,7 +12037,7 @@
 @VelvetFrequencyLuxeLoops
 @nordicdreamhaven
 @MusicPlanet-AI
-@moniqueimoveiscaucaia
+@moniquecamara.imoveis
 @dr.galeel
 @hypnmusic
 @rpgtracks
