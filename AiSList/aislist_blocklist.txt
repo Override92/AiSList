@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12833
+! Total Channels: 12832
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10462,7 +10462,6 @@
 @industriesprocess
 @EngineeredTheFactoryProcess
 @NextGenProcessLab0
-@appliedlabs7
 @HFY-Reddit-01
 @HFYGalacticGrit
 @HFYStoriesToday
