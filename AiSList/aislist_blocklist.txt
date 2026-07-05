@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12840
+! Total Channels: 12835
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -148,7 +148,6 @@
 @ToonFlickAI.01
 @Furrr_Ai
 @furrAI-lovers
-@AllScienceForKids
 @BGFilmsEntertainment
 @lo-fi-rock-metal
 @FunKidsMusiczh1
@@ -2922,7 +2921,6 @@
 @Unpeeled-b3w
 @Sleeping_Tales
 @Nivraaaa
-@sleeplessaccounts
 @PawsPrejudice-fora
 @SlopFarm2
 @theslopfarm
@@ -3966,7 +3964,6 @@
 @LoQueSomos-es
 @Ruta-Narrada
 @H%C3%A9roesInmortales-2
-@AmoresdeHonorEterno
 @CUENTOSSDEPASI%C3%93N
 @LeccionesdeVida11
 @AlmaMexicanaYT
@@ -5468,7 +5465,6 @@
 @RevengeDiariesUS123
 @RevengeFury9
 @RevengeNickelus
-@RevengeSaga111
 @WarmFamilyTalesLB
 @revengeflex-k1g
 @RevengeThinking
@@ -10246,7 +10242,6 @@
 @ThelazydetectiveYT
 @theprimaltruth
 @WallaceAnimation
-@Weirdium-31
 @WheelsHistory
 @wowtveng66
 @NoirCatLounge-sgt
