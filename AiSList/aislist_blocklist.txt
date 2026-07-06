@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12825
+! Total Channels: 12827
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12841,3 +12841,5 @@
 @はなび_hanabiplaylist
 @behindtheincident-6k
 @deepdeptt
+@pcsense21
+@thequietledgereconomies
