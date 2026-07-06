@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12830
+! Total Channels: 12829
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8448,7 +8448,6 @@
 @PolskiHistorie
 @JamesGraham-i1b
 @asdekTop
-@Coonasmy%C5%9Bl%C4%85
 @fatos_biblicos1
 @DoktorAndrzejNowicki
 @Dr.Pawe%C5%82SeniorHealth
