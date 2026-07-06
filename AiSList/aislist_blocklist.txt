@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12823
+! Total Channels: 12821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -964,7 +964,6 @@
 @jiyu.ai.editing
 @cutekittenginger
 @gingercatstory-2811
-@mamacatdailytales
 @mamacatand-kittens
 @mamacatmoments-g4l
 @catmeowcares
@@ -9964,7 +9963,6 @@
 @mythbykia
 @kinzaman
 @CourtroomTwelve
-@ddofunn
 @alphamindset-f6v
 @ethansenginetips
 @thepropheticwatch-3.5m
