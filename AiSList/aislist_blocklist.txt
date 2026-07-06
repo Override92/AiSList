@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12831
+! Total Channels: 12830
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8649,7 +8649,6 @@
 @CawsofDeathMusic
 @BitwiseExplained1
 @deviceterra
-@FutureFlowFactory-b6u
 @Infinity3DWorld-r5j
 @factoryflow102
 @ProcessCor
