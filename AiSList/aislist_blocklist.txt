@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12827
+! Total Channels: 12826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -428,7 +428,6 @@
 @airevolutionx_es
 @airevolutionx_fr
 @airevolutionx_pt
-@AlanJam-o2l
 @aliaboutine
 @DistantAI
 @epicaifilms2024
