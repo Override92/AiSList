@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12828
+! Total Channels: 12827
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7908,7 +7908,6 @@
 @oanhha-i5g
 @人生智者
 @sciezka_wewnetrzna
-@as17kingraj
 @wiadomoscizfrontu
 @暮色迴響777
 @市井風雲錄
