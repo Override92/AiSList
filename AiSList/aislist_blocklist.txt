@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12830
+! Total Channels: 12828
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7711,7 +7711,6 @@
 @AI_DREAM_ASMRR
 @drAndrzejWi%C5%9Bniewski
 @HistoriaPancerna
-@AiWebtoonz
 @sillyme6906
 @S_A_F_Production
 @FruitLoveTheory
@@ -8669,7 +8668,6 @@
 @StaryHistoryk
 @JasnaStronaTajemnice
 @TheChosenGuardian01
-@CreatorsMessageToday
 @Somnara-j3s
 @Strategic-World-View
 @nocturneechoesviolin
