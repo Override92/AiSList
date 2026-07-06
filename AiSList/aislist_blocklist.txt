@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12837
+! Total Channels: 12836
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7495,7 +7495,6 @@
 @WiejskieOpowie%C5%9Bci-l1p
 @JAZZ1930s
 @UltimateStudiosOfficial
-@a25trailers
 @Moviesteasers1
 @NeyoNene-l6i
 @bbtv28
