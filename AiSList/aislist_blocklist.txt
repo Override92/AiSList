@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12827
+! Total Channels: 12825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8420,7 +8420,6 @@
 @VerbalShowdown
 @TheShadowWork
 @petniyi35
-@anatolyas
 @MonkeySproutTV
 @glennabaya700
 @smile_kek
@@ -10938,7 +10937,6 @@
 @Beh-e786
 @InsideFactoryProcess-y5x
 @HoofCareHubpro
-@hamzaiftikhar7353
 @DigitalNook-17
 @mindwave.studio
 @HFYUniverse-p8u
