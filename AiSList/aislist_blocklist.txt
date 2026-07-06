@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12826
+! Total Channels: 12823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -445,11 +445,9 @@
 @lazydays-yurunichijyou
 @MeowsicChannel
 @BossNekoCooking
-@GingyAndMom
 @MarurinnoMainichi
 @DreamyMeowAI
 @GaborSzilvasi
-@theunrealrealms
 @researchriderinfo
 @dreamyydooodles
 @cutecat-h5j
@@ -11779,7 +11777,6 @@
 @eigi_and_ai
 @OldiesvibeAi
 @SOUNDIASM
-@Devbbm
 @daudmurmu6766
 @Dhenjiedeepmind
 @NimoraBeatzRecords
