@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12829
+! Total Channels: 12828
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8550,7 +8550,6 @@
 @gloswolnosciofficial
 @bliznyidyzury
 @silyzbrojne-d3f
-@coonasmysla
 @futurebroke77
 @dr.pawelseniorhealth
 @rozwiazaniaprzetrwania
