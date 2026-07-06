@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12832
+! Total Channels: 12829
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3962,7 +3962,6 @@
 @ElHistoriadorConsciente
 @LoQueSomos-es
 @Ruta-Narrada
-@H%C3%A9roesInmortales-2
 @CUENTOSSDEPASI%C3%93N
 @LeccionesdeVida11
 @AlmaMexicanaYT
@@ -4704,7 +4703,6 @@
 @givemeromance
 @johan_andi
 @kilometroceroo
-@heroesinmortales-2
 @cuentossdepasion
 @sabiduriajudiaeterna
 @conductajudia
@@ -8378,7 +8376,6 @@
 @LoveDadStories
 @RevengeAftermath-u5z
 @VoicesofUncleTom
-@LifeStories.us33
 @Silkanstvengeance
 @SeasonedVengeance
 @VerdictVoices-s3e
