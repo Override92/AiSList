@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12836
+! Total Channels: 12833
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8076,7 +8076,6 @@
 @TheTippingPoint-f3y
 @EconomicsKingdom
 @TheSomberSea
-@AnatoneRecords
 @therelicarchive
 @chinchan21
 @autorecenzje
@@ -9646,14 +9645,12 @@
 @MoneyLegends90
 @WarrenBuffett_Blueprint
 @ProBuffetHQ
-@DaliosWorld
 @RayDalioHub2
 @Charlie_invest
 @SilverGuruJohn
 @GoldSilverDaily-s9x
 @Thesilverscenario
 @Historics-wars
-@OldworldwisdomUSA
 @JohnAGCo
 @JohnAGReminders-o3t
 @JohnAGSays
