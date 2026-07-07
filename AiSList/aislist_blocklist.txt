@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12818
+! Total Channels: 12817
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4603,7 +4603,6 @@
 @FoxholeChronicles
 @HistorySalvage_WW2
 @LastWordsYouTube
-@WW2DocumentaryHub
 @WW2ChroniclesWithAndrew
 @VoiceofWar0
 @WW2ForgottenVoices-q5m
