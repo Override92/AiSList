@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12800
+! Total Channels: 12797
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3004,7 +3004,6 @@
 @BlackTalesStories
 @WhisperAnimalsTales
 @DreadMemoir
-@BodycamFiles-1
 @ILivedToTell-qx
 @MeaningfulLifeStoriesTV
 @legendarynhls
@@ -3097,7 +3096,6 @@
 @TheMewment
 @catsinsider
 @PurrfectFacts-USA
-@ShelfTruth
 @CatKudos
 @CatDossier
 @thecuriouscatt
@@ -12439,7 +12437,6 @@
 @GenAIFilims
 @TheHeartListensStories
 @GingerrTaless
-@THiddenTruthStory
 @VelvetSyndicate
 @thekarmanarrator1
 @jagdambamusicstudo
