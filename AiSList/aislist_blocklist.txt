@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12865
+! Total Channels: 12870
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12881,3 +12881,8 @@
 @TRALALELO-v4b
 @sleepy_christians
 @SweetFateDrama
+@PaleHistorian
+@DragonscaleEN
+@Oscar-Theater
+@MiniShortDrama-e7z
+@GentleHorseDrama
