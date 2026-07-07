@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12800
+! Total Channels: 12805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12816,3 +12816,8 @@
 @ViralMindFeed
 @CherryBloom-d3x
 @parasol_ai
+@yellowmedusa
+@artframe_films
+@ovideoio
+@PromptCity
+@ACROSSWORLDSAI
