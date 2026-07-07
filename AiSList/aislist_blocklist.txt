@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12812
+! Total Channels: 12808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6047,7 +6047,6 @@
 @Willnews-k8r
 @CanadaForever-c4r
 @CanadaHousingInfo
-@WaggleAid
 @BlackjusticefilesTv
 @Dr.ElenaCruzHealth
 @GrandmaSecretVibes
@@ -9520,7 +9519,6 @@
 @EliYoderSecrets
 @ExtreemeMachines
 @fantasyimages
-@GlobeLifeExplorer
 @GodsLoveUnending
 @Gregorian-Chants
 @Ground_Zero_Channel
@@ -12057,7 +12055,6 @@
 @tonyrobbinswisdomroast
 @music_potions1
 @road.heritage
-@aihealthvideo0786
 @nguon_cam_xuc
 @aiソング製作所
 @angibaker-artistslegacy
@@ -12468,7 +12465,6 @@
 @wonderfulantony
 @ancestralwisdom-i4o
 @mindfulstories-v2l
-@chandmiya786-f
 @symphonyforge13
 @jesterforyou-q5x
 @ashtonwilsonx
