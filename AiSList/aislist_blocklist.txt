@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12821
+! Total Channels: 12820
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4051,7 +4051,6 @@
 @MiguelSerranoyt
 @FanFight-b7m
 @DramayVenganza-h5h
-@RevengewithPapa
 @MinhB%C3%A9oL%C6%B0%C6%A1ng
 @secretsmileex
 @RevengeFamilyTales
@@ -4289,7 +4288,6 @@
 @HistoriasqueAbrigan335
 @RelatosDram%C3%A1ticos66
 @aivideo_14yal
-@ironarchivesusa
 @hulku_jiiii
 @dr.javiermartinez-b3w
 @draemiliasuarez
@@ -12837,3 +12835,4 @@
 @clippievirals
 @cozy_jazz_cafe-5
 @filipfranzentutorials
+@ladespensasecreta
