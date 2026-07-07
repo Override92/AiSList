@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12817
+! Total Channels: 12813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4628,7 +4628,6 @@
 @GizzyTech
 @SimpleFinanceTom
 @MarbleZoid_world
-@WeisheitdesKapitals
 @thefoodshow587
 @HerocamAI
 @TheCurrencyWarning
@@ -4885,7 +4884,6 @@
 @ThePastOfWar
 @HistoryforSleep-4U
 @WW2History-Hub
-@WW2Storyforge
 @WW2WarTales-q7k
 @InsightJohnAG
 @KNmoneytalks
@@ -4968,7 +4966,6 @@
 @githubtrendfeed
 @FinanceMeeting
 @TheWealthForecast
-@Successstrategies-v8t
 @WHATJUSTHAPPENED-YT
 @MoneyGuideUk
 @PoliticsUnfiltered0
@@ -9957,7 +9954,6 @@
 @mythbykia
 @kinzaman
 @CourtroomTwelve
-@alphamindset-f6v
 @ethansenginetips
 @thepropheticwatch-3.5m
 @BritishWarArmory
