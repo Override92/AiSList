@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12887
+! Total Channels: 12886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12466,7 +12466,6 @@
 @BlessingAdemStudio
 @LuxurytalesIs
 @TALESOFMOONLIGHT_STORIESAI
-@Tinaofiliafricanstories
 @Thelastscifichild
 @HumanFrontier-d5s
 @HFYfilms
