@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12870
+! Total Channels: 12875
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12886,3 +12886,8 @@
 @Oscar-Theater
 @MiniShortDrama-e7z
 @GentleHorseDrama
+@Backyard-Bounty-l9k
+@M-Drama-i5g
+@alphadramavideos
+@PhoenixShorts-wo
+@ZaraPrescottShow
