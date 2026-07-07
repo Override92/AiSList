@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12810
+! Total Channels: 12815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12826,3 +12826,8 @@
 @ai_reborn_music
 @Teaser-Holic
 @Clipchanneltime
+@TheGhostFrame
+@houseofvalekeep
+@VidArtAI
+@huangugu2257
+@Horace-Music
