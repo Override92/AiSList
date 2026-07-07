@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12850
+! Total Channels: 12855
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12866,3 +12866,8 @@
 @GLOBALMONEY-j8g
 @pastcompass
 @JiangGeopolitics00
+@VoltiqueLabs
+@fallenhifi
+@fahadjhujh2
+@dr-josephine-phelps
+@The49thDecoded
