@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12797
+! Total Channels: 12796
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5213,7 +5213,6 @@
 @Finance_Fault
 @lightsoninvest
 @FinanceCurrency-n8s
-@NeoFinnAnimation
 @metalandmacro
 @SilentLedgerHQ
 @FinanceDailySilverUpdates
