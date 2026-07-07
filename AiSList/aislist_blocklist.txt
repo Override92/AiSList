@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12797
+! Total Channels: 12796
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5600,7 +5600,6 @@
 @feynmanarchives
 @EinsteinClarifies
 @FeynmansBlackboard
-@CosmicWisdom93
 @macrofold
 @BeyondPhysics-i7o
 @prayer_faith
