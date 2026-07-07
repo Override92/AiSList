@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12820
+! Total Channels: 12818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4418,7 +4418,6 @@
 @FinTalk-f2z
 @StockInvestmentEmpire
 @nonbindingfinance
-@JimRohnSpeaks-w8w
 @JohnAG2
 @thegrowthpathmotivation
 @theCryptoFiles-h5d
@@ -10513,7 +10512,6 @@
 @africantalesbychinma-e3k
 @starchasemedia
 @goldenaiaeon
-@primalstickman
 @FarhanAli-j8f8i
 @tarobhaiprince
 @HomeGPT1
