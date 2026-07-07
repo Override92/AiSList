@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12822
+! Total Channels: 12821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3925,7 +3925,6 @@
 @Comingfromtheheart6
 @StoryofEmotions888
 @SpaceTales-p8c
-@Hardware_Report
 @MillionaireBreakthrough
 @Silkenvengeance
 @QuietStories-real
