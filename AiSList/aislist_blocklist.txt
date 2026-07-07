@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12805
+! Total Channels: 12802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -107,7 +107,6 @@
 @RosendoProhaska
 @skillman1507
 @ai_kartoons
-@Titanamazing
 @Animalartlab
 @KhanOfficialTK
 @funntastic_AI
@@ -10023,7 +10022,6 @@
 @GoldfishRevenge
 @By_LoA
 @thearchiveinbetween
-@fatherrevengebyalex
 @RunwayUpdates-u7h
 @HiddenPrincess-g8e
 @TheOfficeDiaries26
@@ -11473,7 +11471,6 @@
 @financematrix-09
 @streamer-files
 @ruta-al-ingles
-@humanityexplained-b2z
 @thinklikeanimal
 @asmrsheraz
 @faithwarriors-d9o
