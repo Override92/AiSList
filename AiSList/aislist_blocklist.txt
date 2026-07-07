@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12805
+! Total Channels: 12810
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12821,3 +12821,8 @@
 @ovideoio
 @PromptCity
 @ACROSSWORLDSAI
+@plotdropperai
+@booksinframes
+@ai_reborn_music
+@Teaser-Holic
+@Clipchanneltime
