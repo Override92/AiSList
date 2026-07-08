@@ -31,9 +31,9 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@www2](https://github.com/www2) | 1996 |
-| 🥈 2 | [@FedupOfAI](https://github.com/FedupOfAI) | 1990 |
-| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 1568 |
+| 🥇 1 | [@FedupOfAI](https://github.com/FedupOfAI) | 2033 |
+| 🥈 2 | [@www2](https://github.com/www2) | 2009 |
+| 🥉 3 | [@crazypillx](https://github.com/crazypillx) | 1605 |
 | 4 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 5 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
 | 6 | [@tomjas1963](https://github.com/tomjas1963) | 236 |
