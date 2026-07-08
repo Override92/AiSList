@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12884
+! Total Channels: 12886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12900,3 +12900,5 @@
 @L_MoneyStories
 @actionanimevideo
 @doctoralexytt
+@hw358chilloutbgm
+@tinyworld_escue
