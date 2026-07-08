@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12885
+! Total Channels: 12884
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7645,7 +7645,6 @@
 @silvermereaudio
 @familyrevengefiles-s5p
 @richard_wolff
-@viral.insight-t5x
 @wildfixanimalrescue
 @storyverseai78
 @swiatbiografii
@@ -9608,7 +9607,6 @@
 @Thesilverscenario
 @Historics-wars
 @JohnAGCo
-@JohnAGReminders-o3t
 @JohnAGSays
 @JohnAGUnfiltered
 @johnharrishyt
@@ -12901,3 +12899,4 @@
 @doctoralexytt
 @hw358chilloutbgm
 @tinyworld_escue
+@akshlearns
