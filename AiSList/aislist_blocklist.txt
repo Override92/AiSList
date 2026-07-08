@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12886
+! Total Channels: 12885
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10753,7 +10753,6 @@
 @worlddecode_360
 @주식_타이밍
 @brielleromancestories
-@afterdarkrandb
 @cobybylo
 @historiezakazanejmilosci
 @LoFiFiLoMusic
