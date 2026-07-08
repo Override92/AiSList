@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12884
+! Total Channels: 12883
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11366,7 +11366,6 @@
 @VelvetStories9
 @BeyondBeingDad
 @jamiestorie
-@MundoManhwaEspa%C3%B1ol
 @macroinveters
 @SnapRevengeStories
 @SofiaNeverforgives
