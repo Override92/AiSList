@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12883
+! Total Channels: 12879
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7660,7 +7660,6 @@
 @2zaq0
 @Echonyra
 @Waqarera
-@MrWonderful-r6n
 @capitalcollapse-v2j
 @taptech-shoaib
 @LHistoriendesPi%C3%A8ces
@@ -8141,7 +8140,6 @@
 @wiliiamshakespear
 @world-true-crime-stories
 @colonyclashzone
-@borderwardesk
 @sanchezwyjasnia
 @miedzygalaktycznyszept
 @MEGAMANUFACTURING-j6f
@@ -8865,7 +8863,6 @@
 @%E9%A2%A8%E8%BB%8A%E5%8B%95%E6%BC%AB%E7%A4%BE
 @TieuCuongXuyenKhong
 @ChillwithTaiki
-@Arshannetwork
 @NolanHayesBrief
 @VividReport
 @verumthemysteries
@@ -11663,7 +11660,6 @@
 @glellcmv
 @TheTeslaBreakdown
 @sonofthedeadsun-ai
-@carrytime4757
 @SongsoftheRealms
 @StillSpace_Sound
 @Billionairelnvestment
