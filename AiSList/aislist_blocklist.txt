@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12885
+! Total Channels: 12882
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8231,7 +8231,6 @@
 @CatClub5
 @gatesofimagination
 @TheBraveHoof
-@StructuralBrief
 @iHistobridge
 @simple95t
 @AmazingHistory1_en
@@ -8474,7 +8473,6 @@
 @baiband
 @Cutting-g7i
 @ZenithASMRAI
-@AIASMR-e3r
 @sweerbabyai
 @Chefwhisper
 @CreativeAI-05
@@ -9016,7 +9014,6 @@
 @thermalrootcause
 @bibliyamusic
 @celestialrunwaystudio
-@currentworldstrategy
 @neurasonics
 @qteclips
 @samrayreoung-kakada
