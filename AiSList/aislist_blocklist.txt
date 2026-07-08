@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12888
+! Total Channels: 12884
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5111,7 +5111,6 @@
 @Love_TalesYT
 @DelicateHeartTales
 @MrShawnsStories
-@KaysSweetLove
 @TalesThatTouch-1
 @TouchingTalesV
 @HOAfreezone
@@ -6561,7 +6560,6 @@
 @HardwareInsider
 @rawrustrestore
 @seniorrevengestories
-@futurewithlove-c6k
 @johnogstrategy
 @jamunasq
 @bkcrypto-l2e
@@ -6677,7 +6675,6 @@
 @crocaze
 @TheBibleStoriesYT
 @RestWithChristYt
-@KazmiSye-j8m
 @DrJakeTaylor
 @DrMichaelKent-m2d
 @Dr.ThomasSeniorHealthTips
@@ -11980,7 +11977,6 @@
 @MachiavelliBezCenzury
 @Lofi_REWIND
 @SunnyE_Vtuber
-@TheQuietYears-m3z
 @VaultOfMystery-g2o
 @AwakenedFrequencyArchives
 @SealedConfessions-h8r
