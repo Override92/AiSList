@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12879
+! Total Channels: 12878
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11791,7 +11791,6 @@
 @MidnightTunes-p2f
 @SonicMind12
 @alliedhonor
-@공은둥글어
 @chu5minecraft2026
 @fifafan009
 @cyrenofc
