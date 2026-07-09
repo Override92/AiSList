@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12866
+! Total Channels: 12861
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4868,7 +4868,6 @@
 @HistoryforSleep-4U
 @WW2History-Hub
 @WW2WarTales-q7k
-@InsightJohnAG
 @KNmoneytalks
 @MetalMindFinance
 @MrAG_Asian_Guy
@@ -4915,7 +4914,6 @@
 @CoverNusantara
 @RiRiEd-i8r
 @gregsaunderstoza6927
-@WarrenBuffetsquad
 @TheUnfoldedEra
 @ToonFanatic
 @GrunerDaumenn
@@ -6147,7 +6145,6 @@
 @RubyReports
 @HardwarePulse-v9u
 @NavyClash
-@JackNewsUSA
 @SoldiersofValor
 @official2amthoughts
 @KindredAnimalTales
@@ -6363,7 +6360,6 @@
 @parasgupta2013
 @WiseAnalytical
 @MidnightSignal_AI_4u
-@NextTechPuls
 @USPresidentialGamers
 @UnbuiltWorld2
 @RedFrontierNews4
@@ -10939,7 +10935,6 @@
 @AlienTalesofHumanity
 @GlobalCultureAI
 @DancerCoverFlow
-@AIIRelaxingMusic
 @lonecolonist1
 @auralionrealm
 @GrandTheater-GY
