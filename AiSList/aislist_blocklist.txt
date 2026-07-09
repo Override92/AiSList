@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12870
+! Total Channels: 12866
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3767,7 +3767,6 @@
 @FogRevenge
 @RittHeppding
 @viral_texts
-@HagenbaughPoteet
 @AfroKoreanLove-l4d
 @MrAlexyStories
 @StoryFlowDiaries
@@ -3792,7 +3791,6 @@
 @IngenierosdelInfierno
 @MotoresdelPasado-v6h
 @BaruchSpinozaElPulidordeLentes
-@BreakingNewsReport-l8p
 @Revenge54252
 @SleepOnScience
 @Millionaire_Romance_us
@@ -3805,7 +3803,6 @@
 @severalstoriess
 @LightStories-S3
 @ElNarradorMinimalista
-@MyStoriesbyLena
 @WrittenbyRowan
 @polanela2262
 @Forever_StoriesYT
@@ -10093,7 +10090,6 @@
 @AIgniteStory
 @HFYTales
 @BedtimeMagicTalesbyRand
-@R-Musicmedia
 @OddDudeExplained
 @LoveAndLogic-v1
 @RoyalAI
