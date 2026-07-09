@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12863
+! Total Channels: 12858
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1570,7 +1570,6 @@
 @productionmanufacturingprocess
 @factoryprocess-2
 @insidetheassembly999
-@insideindustrialzone
 @precisionlinetv
 @futurefactory-x1w
 @processinside-official
@@ -11080,7 +11079,6 @@
 @AIDreamscapesStudioTV
 @HeartSoundMF
 @AISongMama
-@heartfeltopm
 @leuleth
 @ai.music.matrix
 @Neurobeatsounds-d6s
@@ -11823,7 +11821,6 @@
 @AI%E3%82%BD%E3%83%B3%E3%82%B0%E8%A3%BD%E4%BD%9C%E6%89%80
 @Ai.Music.Erim.1
 @AIRI-AIJapaneseRock
-@AI%E9%9F%B3%E6%A5%BD%E5%AE%9F%E9%A8%93%E5%AE%A4-x9h
 @roblop_experience
 @takumi_2026
 @neptuneai-x4l
@@ -11995,7 +11992,6 @@
 @nguon_cam_xuc
 @aiソング製作所
 @angibaker-artistslegacy
-@ai音楽実験室-x9h
 @おにおん-h2r
 @bodycamhiddenfiles
 @herosetguerresoublies
@@ -12729,7 +12725,6 @@
 @thehiddenmeaninghq
 @littlestorypages-c9i
 @quietstories-n3k
-@profjiangxueqin1
 @vnkvofficial
 @comfortdramastoriess
 @superpower_divide
