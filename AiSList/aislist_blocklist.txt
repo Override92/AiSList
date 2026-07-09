@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12873
+! Total Channels: 12870
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3111,7 +3111,6 @@
 @ExtremeSurvivalStories
 @ChronoFallOfficial
 @EconomicShift
-@theunseenfrontier-e6k
 @TutorialsWithJames
 @Thecharlesrivera
 @BeProductiveOfficial
@@ -10459,7 +10458,6 @@
 @PartTimeExplainer
 @Prehistoric.stories-w3i
 @PsalmsofZion7
-@thepondmind
 @VitMaxScience
 @MindMeldCreations-xj2px
 @WhatHeForgot
@@ -10559,7 +10557,6 @@
 @tsn7914
 @jmcshorts-c8y
 @professorjohnexplains
-@shortdang-n1n
 @tasnimnewsagency205
 @realrelationshipmotivation
 @thetouchingwisdom
