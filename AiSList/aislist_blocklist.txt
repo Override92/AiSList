@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12860
+! Total Channels: 12859
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10352,8 +10352,6 @@
 @UpdatedIntel
 @MrRetired-y2b
 @WesternLoveNovels-u2f
-@WorldTruthExposed
-@STATEANALYSE
 @Boss.Revenge.Stories
 @DAILYSTORMNEWS
 @northamericanewshub
@@ -12876,3 +12874,4 @@
 @tyhealthylivingdaily
 @silentwaters-tv-edu
 @foxy_space
+@geodecryptage-k5v
