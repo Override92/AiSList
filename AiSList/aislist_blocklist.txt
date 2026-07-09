@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12874
+! Total Channels: 12873
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3472,7 +3472,7 @@
 @Financial-reviews
 @FinanceFrontierLab-t2c
 @WarandSecretFiles
-@FrozenSecrets-u9j
+@precisionx-l8k
 @THE-EmpireCycles
 @China-Silver-Alert
 @TheWealthContinuum
@@ -11975,7 +11975,6 @@
 @chriscrystalaiart
 @kickzor
 @lostworld888
-@historiansarchivetv
 @ALifeBefore
 @torque-s9q
 @AutoPrimesUSA
