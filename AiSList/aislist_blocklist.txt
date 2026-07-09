@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12863
+! Total Channels: 12864
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4858,7 +4858,6 @@
 @frutiger-xp
 @Ash.AI.muzika
 @BigFootBoyzVlog
-@Strongminset-nvh
 @victoryzone12
 @Silent-Stoic
 @WarPOVwithMike
@@ -12879,3 +12878,5 @@
 @deepworkschannel
 @mentemaestra-h5f
 @professorjakemorrison
+@pizarramental-m3v
+@roberthaleoldways
