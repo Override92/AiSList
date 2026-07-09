@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12861
+! Total Channels: 12863
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12877,3 +12877,5 @@
 @roberthaleoldways
 @neurodisciplinabl
 @crashwarchronicles
+@ancientlivesforsleep
+@雨の隠れ家
