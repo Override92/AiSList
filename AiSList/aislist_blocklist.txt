@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12866
+! Total Channels: 12864
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3869,7 +3869,6 @@
 @RevengewithTruth
 @DeepRevengeStories
 @HistoriaGrandiosa
-@PalaciosMalditos
 @escandaloenlasociedad
 @Hijos_del_Poder
 @ApellidosMalditos
@@ -10081,7 +10080,6 @@
 @BaichuanAIComics
 @UntoldTruthTales
 @AIvideotales
-@Bluesidetales
 @africaamaze
 @aisocietytutorials
 @AlbumMusicAI
