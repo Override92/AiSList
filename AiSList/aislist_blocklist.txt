@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12865
+! Total Channels: 12862
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3969,7 +3969,6 @@
 @TodoIAOfficial
 @theflickchannel
 @intueas
-@LimitlessMotivation-f3r
 @InvertHub-l7g
 @PSYCORE-28
 @ense%C3%B1anzajudia-b5z
@@ -4315,7 +4314,6 @@
 @marketalarm55
 @IndexSense
 @warrenbuffetinvest
-@Buffetts.Rules.of.Wealth
 @OmahaAfterDark
 @ELMETODOMUNGERESP
 @FinanzasenlaTerceraEdad
@@ -11429,7 +11427,6 @@
 @fulltime_yt7
 @financematrix-09
 @streamer-files
-@ruta-al-ingles
 @thinklikeanimal
 @asmrsheraz
 @faithwarriors-d9o
