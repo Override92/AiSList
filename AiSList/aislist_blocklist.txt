@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12856
+! Total Channels: 12853
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8250,7 +8250,6 @@
 @thesoulsofmusic
 @thehiddenheirtales
 @quietwealth-y5x
-@letableaunoirdefeynman
 @simple-physix
 @softwavisounds
 @stylish_actress
@@ -9343,7 +9342,6 @@
 @VIETAIMUSICCOVER
 @AI_lithic
 @PurrLantern
-@MotoElite-z6h
 @chippyspielberg
 @zacznijdzis
 @niemozebyc_pol
@@ -12569,7 +12567,6 @@
 @AISPARK-q8k
 @LittleStoriesAI
 @VegetablesStoryAi
-@ObjectTales-m5i
 @MiniMind.AI_77
 @MR_ARUN_5
 @TheStoryBug
