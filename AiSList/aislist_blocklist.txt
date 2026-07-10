@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12853
+! Total Channels: 12850
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8342,7 +8342,6 @@
 @aismrglow
 @AiHustleHouse
 @zrodlo_madrosci1
-@cozyvillage-g8s
 @economybackstage
 @theshadowonthehighseas
 @oldtymz
@@ -8469,7 +8468,6 @@
 @FlorksHabit
 @BhooBhookidz
 @TacticalHour
-@LegiBluesMelodies
 @BuriedFix
 @DailyNewsFrontline
 @RedCashew-z9f
@@ -8478,7 +8476,6 @@
 @Thelastprimus-world
 @ArcanePotter
 @WildWestTalesOfLove512
-@CanadaWarLegacy
 @Brown_House
 @Think-Like-Buffett-9
 @Oracle-Capital-9
