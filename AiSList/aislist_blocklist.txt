@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12849
+! Total Channels: 12847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11122,7 +11122,6 @@
 @meowmasti-y5k
 @ascension-toons
 @militaryhistoryforsleep
-@zoas-g5n
 @t_tv-1
 @movieparodyai8286
 @rdxmagicworld
@@ -12645,7 +12644,6 @@
 @shirazirashi
 @JMHexMusic
 @STEMinMotionbyGaurav
-@CatholicExorcistInsights
 @ThinkinPhysics1
 @EverBellStories
 @UnderstendCats
