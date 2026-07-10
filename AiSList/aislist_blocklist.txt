@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12861
+! Total Channels: 12858
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12559,7 +12559,6 @@
 @AIchoiceASMRofficial
 @JacksonCrystalASMR
 @RisaafASMR461
-@ZuzuPikuPlanet
 @BabyBerrystudio-p3i
 @AI-ASAMR13
 @fruitybabies3d
@@ -12804,7 +12803,6 @@
 @WatsaFramework
 @CloakedHistory1
 @IrsanRanditiya-i5w
-@NewsPolityx
 @GLOBALMONEY-j8g
 @pastcompass
 @JiangGeopolitics00
@@ -12838,7 +12836,6 @@
 @THEINFIDELITYCODE
 @zitusmp
 @self_improvement-p1
-@TheIntelligentInvestor-r8d
 @GreenOrcChronicless
 @TARUNN_ND
 @FinalEcho-q7h
