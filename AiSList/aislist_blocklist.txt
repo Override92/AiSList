@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12858
+! Total Channels: 12856
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7747,7 +7747,6 @@
 @LostCivilizationsNordic
 @360newsroomnews
 @afkar_dz
-@BenefitsUpdateToday
 @Cr7Versex
 @user-e5h1q
 @BeyondDiscoveries
@@ -9585,7 +9584,6 @@
 @JohnAGSays
 @JohnAGUnfiltered
 @johnharrishyt
-@JohnMarketBrief
 @JohnWayneArrived
 @MrJohnBriefing
 @TheJohnAGBack
