@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12863
+! Total Channels: 12862
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6485,7 +6485,6 @@
 @Arctic-Pulse-07
 @endure-earth
 @frozenlivestv
-@NextGenGigaFactory
 @NordicGrounds
 @SleepyScrolls12
 @animolita
