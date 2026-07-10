@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12850
+! Total Channels: 12848
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9655,7 +9655,6 @@
 @Cosmic_Sketchlab
 @SpeedyScienceShortsS
 @FactoFauna25
-@CrisisCommand
 @PamHealing
 @LoneRiderChronicles-CM
 @LovingDadStories
@@ -12254,7 +12253,6 @@
 @scienceanduniverse-15m
 @curiosiumchannel
 @khanxgaming-f6r
-@profjyan
 @ww2honorr
 @ltdstudio
 @mh_finance_38
