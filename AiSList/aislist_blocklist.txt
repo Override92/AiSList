@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12840
+! Total Channels: 12836
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1528,7 +1528,6 @@
 @smartfruitasmroffical
 @asmrprovibes
 @littlegirlomama
-@famcharmasmr
 @calmstudio-z8n
 @ainextgenfactory
 @allgenfactory
@@ -6280,7 +6279,6 @@
 @Jakwczoraj
 @ZaKulisamii
 @cool_techplus2753
-@WarfareShadows
 @Charlies-zay
 @TheHOAInsider-f2u
 @TheHOADiaries-z9s
@@ -10985,7 +10983,6 @@
 @Jeanne-AIASMR
 @TheHOAChronicles-c2y
 @TheHOAFiles12
-@TheHOAHub0
 @TheHOAStories1213
 @TheHOATapes-d8g
 @TheWealthBlueprint-p1h
@@ -11638,7 +11635,6 @@
 @councilstales
 @news_drishti
 @neoviralclipss
-@afnetworkc-6byt
 @derstillezeugee
 @fruitano
 @bigrigfiles
