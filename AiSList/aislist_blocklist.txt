@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12821
+! Total Channels: 12820
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12757,7 +12757,6 @@
 @WatsaFramework
 @CloakedHistory1
 @IrsanRanditiya-i5w
-@GLOBALMONEY-j8g
 @pastcompass
 @JiangGeopolitics00
 @VoltiqueLabs
