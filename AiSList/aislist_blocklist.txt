@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12839
+! Total Channels: 12838
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9304,7 +9304,6 @@
 @Theeconomyarchive
 @FastTrackNews01
 @FRUTINOVELASTH
-@AGCryptoDaily
 @synthwaveanddragons
 @Epic_Ascension_Music
 @TheMungerExperience
