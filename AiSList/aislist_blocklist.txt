@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12826
+! Total Channels: 12821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5271,7 +5271,6 @@
 @Nerdtown-e5m
 @W.A.RMedia
 @MarketAcme
-@DailyCapitolNews-v4f
 @zancrow376
 @thelostexorians
 @t-h-e-other-side
@@ -9097,7 +9096,6 @@
 @WildSoulRescue-1
 @Industara
 @RebuildX9
-@AntWarsusa
 @Buried_History_with_Jonathan
 @BenHodgesReports
 @BenHodgesCentral
@@ -9783,7 +9781,6 @@
 @TheVirtualArtDesk
 @MangaDubTGTF
 @kapantobat7091
-@CatVerse-s8y
 @Dr.EmilyWaterly
 @WW2VictoryDiaries
 @imfranzyt
@@ -11839,7 +11836,6 @@
 @FactVerse-t2t
 @softeraser-m7h
 @HanxAIx
-@damdarpromo
 @OverWheelsYT
 @behindthedossier
 @LEGALEXPOSUR3
@@ -11956,7 +11952,6 @@
 @bodycamhiddenfiles
 @herosetguerresoublies
 @thewisdomarchives93
-@minddecodedyt-f5
 @healthytoday1.m
 @themafiabride-j1u
 @a25productionz
