@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12827
+! Total Channels: 12826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3109,7 +3109,6 @@
 @ChillCafeMusic
 @DoctorSaulWhitman
 @TheHealthReset-u3i
-@MasteringYourHealth1
 @TheOldGuardWatch
 @ValorChronicles44
 @VeteransValor
