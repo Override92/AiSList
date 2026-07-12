@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12821
+! Total Channels: 12817
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6417,7 +6417,6 @@
 @PradawneEcha
 @MormonDeepDive
 @MindBlowingF
-@BeyondTrueWonders
 @finova24
 @beyondtheveil2222
 @doyouknow-x7x
@@ -7531,7 +7530,6 @@
 @TazannaBMG
 @TinyCreatureVillage
 @naturalsounds-tk6ex
-@HardwareFirewall
 @Hyalbertog-q2x
 @WorldFinance2
 @IbrahimTraoreUnfolding
@@ -12366,7 +12364,6 @@
 @Africanfolktalesbychizi
 @BlessingAdemStudio
 @LuxurytalesIs
-@TALESOFMOONLIGHT_STORIESAI
 @Thelastscifichild
 @HumanFrontier-d5s
 @HFYfilms
@@ -12748,7 +12745,6 @@
 @GlobalFracture-r1b
 @CarterBrooksDaily_news
 @NorthLineReportt
-@Canada41-x9v
 @GeoWatchtowerr
 @G%C3%A9oD%C3%A9cryptage-k5v
 @VelvetMafiaHearts
