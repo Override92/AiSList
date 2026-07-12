@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13109
+! Total Channels: 13106
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2409,7 +2409,6 @@
 @SocialismExplained
 @PandaAIDuniya
 @Mr.Twist.2077
-@K.PawsAI
 @AiPaws-Brand
 @PopLabAI
 @AIPawss
@@ -3167,7 +3166,6 @@
 @resurrectedhistory10mv
 @SleepyHistory-n9k
 @HistoryUncovered-q2k
-@VoxHistoria21
 @PhilosophicalCafe
 @HiddenCanvasTales
 @True-Terra
@@ -13062,7 +13060,6 @@
 @schwwaaa
 @Tlivor
 @Artifexclips47
-@K-Anime.Midnight
 @timelineeats
 @RomanceDigest-r8o
 @CrimsonMate
