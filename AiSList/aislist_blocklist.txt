@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12893
+! Total Channels: 12894
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12909,3 +12909,4 @@
 @MidnightPromiseStories
 @CourtSecrets-e7m
 @DukeRoyalStories
+@silentspeaksstories
