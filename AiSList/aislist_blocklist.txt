@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12906
+! Total Channels: 12907
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12922,3 +12922,4 @@
 @k_randommusic
 @truecrimeguy92
 @xmspidey
+@DailyTopFive-c4w
