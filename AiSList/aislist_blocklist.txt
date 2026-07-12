@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13091
+! Total Channels: 13092
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13107,3 +13107,4 @@
 @MedievalHistoryGuy
 @sleepylanguage
 @documentaryjar
+@TheBattleHistorian
