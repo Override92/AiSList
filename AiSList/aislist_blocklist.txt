@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12815
+! Total Channels: 12816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12831,3 +12831,4 @@
 @ecos.del.evangelio-r3i
 @thereidtrack
 @sunnyinshanghai
+@psyshade-hld
