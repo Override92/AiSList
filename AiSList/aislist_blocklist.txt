@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13037
+! Total Channels: 13038
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13053,3 +13053,4 @@
 @theorys_shrouded_mystery
 @ROYAL_EXECUTIONERS
 @TheRedactedCentury
+@Bookimo7
