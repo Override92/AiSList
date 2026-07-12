@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12989
+! Total Channels: 12990
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13005,3 +13005,4 @@
 @TheDalyTruthNews
 @The_Animal_Central
 @RainbowMaleIdentity
+@StoryXChannel
