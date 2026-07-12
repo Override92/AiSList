@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12817
+! Total Channels: 12815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7707,7 +7707,6 @@
 @TeslaCentralHD
 @circleoflifetimes
 @InkofthePast
-@NexionNews
 @SagaLoreAI
 @mythsandmagicmusic
 @Thehistoryhook5
@@ -7915,7 +7914,6 @@
 @orctaleforge
 @ellegadodelacreacion
 @blackfacetrader
-@moviehub_plus
 @maxadmarketing
 @red-forge
 @duckkeynes
