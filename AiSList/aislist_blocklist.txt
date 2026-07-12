@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12948
+! Total Channels: 12949
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12964,3 +12964,4 @@
 @user_65710
 @PlayingWithPink
 @WSenpai_
+@VelvetSyndicateTV
