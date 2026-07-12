@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12842
+! Total Channels: 12843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12858,3 +12858,4 @@
 @Matt_Reconstructs_History
 @Chrono-Crunch
 @Vae-Victis-h9e
+@HistoryQuestChannel
