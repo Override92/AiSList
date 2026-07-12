@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12838
+! Total Channels: 12839
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12854,3 +12854,4 @@
 @LuwengelaMartis-s2g
 @mrcurioussyt
 @LinuxPowerAI
+@LostGrandeurUK
