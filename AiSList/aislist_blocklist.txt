@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12816
+! Total Channels: 12815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9576,7 +9576,6 @@
 @HardwareBrief-1
 @TheTrueBrief-p6w
 @thomaskellerbrief
-@WilliamH.McRavenBrief
 @CapitolNewsReports-e6s
 @DanielBrooksReport-u6z
 @EthanColeReport
