@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 594
+! Total Channels: 595
 
 ! Entries:
 @CinebotComedy
@@ -616,3 +616,4 @@
 @TrailsofSteel
 @LaGrotteSilencieuse
 @Simplify364
+@tripinsight.travel
