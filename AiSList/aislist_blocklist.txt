@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12813
+! Total Channels: 12814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12829,3 +12829,4 @@
 @sabiduriadesanagustin
 @thoughtspur
 @pomodorowithppopo
+@the_secretsofthebibleai
