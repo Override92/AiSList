@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12820
+! Total Channels: 12819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9541,7 +9541,6 @@
 @SamsFoodFactory
 @obshchiyg
 @itssniks
-@crazycooker-t9e
 @TheFallOfNations
 @thisisJazzCo
 @TheHistorianProfessor
