@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12932
+! Total Channels: 12933
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12948,3 +12948,4 @@
 @CivilizationsExplained01
 @Grimhistoryofficial
 @memoriesreanimated
+@ShadowedHistory0011
