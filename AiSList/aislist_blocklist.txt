@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13095
+! Total Channels: 13096
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13111,3 +13111,4 @@
 @anjelicabaker1435
 @FOMOFinance-l4n
 @socaltrunkshow
+@medievalmotionchannel
