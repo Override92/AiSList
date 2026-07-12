@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12841
+! Total Channels: 12842
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12857,3 +12857,4 @@
 @LostGrandeurUK
 @Matt_Reconstructs_History
 @Chrono-Crunch
+@Vae-Victis-h9e
