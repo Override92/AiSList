@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12824
+! Total Channels: 12825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12840,3 +12840,4 @@
 @FolkSongsOfficial
 @Men-Without-Borders
 @TickerTapeTalk
+@Historicalabsurdities
