@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12959
+! Total Channels: 12960
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12975,3 +12975,4 @@
 @StreamerHighlights01
 @HistorySecretsUSA
 @etmojo.217
+@MuzikWorld232
