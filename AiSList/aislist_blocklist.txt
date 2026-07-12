@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13033
+! Total Channels: 13034
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13049,3 +13049,4 @@
 @HumanSurvivalProtocol
 @BetrayedandAwakened
 @BloodChronicles
+@ThroneboundChronicles
