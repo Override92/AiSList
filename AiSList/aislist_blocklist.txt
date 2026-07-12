@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12814
+! Total Channels: 12813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4204,7 +4204,6 @@
 @HistoriasAgridulces
 @venganzafamiliar68
 @HistoriasDelPresidente
-@Detr%C3%A1sdelpoderBukele
 @TallerdeRecuerdos
 @ReflexionesVidaTV
 @JavierHistoriasAudio
