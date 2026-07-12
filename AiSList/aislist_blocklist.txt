@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12820
+! Total Channels: 12821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12836,3 +12836,4 @@
 @PeachiWorld67
 @BeyondtheState-h6v
 @Backto80sRadio
+@goldenoldies68686
