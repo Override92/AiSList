@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13087
+! Total Channels: 13088
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13103,3 +13103,4 @@
 @Thinkinoutloudpod1
 @TheImperialLedgerArchives
 @WhatToPlayVague
+@ClinjoAE
