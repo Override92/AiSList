@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13013
+! Total Channels: 13014
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13029,3 +13029,4 @@
 @DarkHeartsStorieshome
 @OldWestSecrets
 @AfroSeoulvalvetdiaries
+@afrokoreanchronicles12
