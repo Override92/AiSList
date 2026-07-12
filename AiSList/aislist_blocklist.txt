@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12815
+! Total Channels: 12811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3596,7 +3596,6 @@
 @Dr.JavierSerrano
 @DrFernandoManochi
 @VerdadesSilenciosas-q1o
-@GabrielPsicolog%C3%ADaMotivacional
 @MindMirrorEspa%C3%B1ol
 @RelatosqueConmueven1
 @GabrielRol%C3%B3nMotivacion-e6f
@@ -4693,7 +4692,6 @@
 @oracioninspirada
 @ensenanzasbiblicasprofundas
 @caminodeoracion-v1l
-@detrasdelpoderbukele
 @caminoalexitosantandreu-z1d
 @comprenderlafisicaconfeynman
 @elpreciodelatraicion-n1i
@@ -8548,7 +8546,6 @@
 @TimelessSoulSecrets
 @CayceBeyond
 @NextLevelTravel-e6r
-@TheMorbidPOV
 @1001STONED
 @ClickSceneTV
 @EndlessDreamSound
@@ -9394,7 +9391,6 @@
 @TheScreenfire
 @WhatsOnHollywood
 @CocsmicDust
-@Wileanimations
 @vintagestarvault
 @BRIGHTSIDEOFFICIAL
 @MTFTransformation.stories
