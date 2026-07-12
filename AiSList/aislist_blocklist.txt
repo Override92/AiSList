@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12848
+! Total Channels: 12849
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12864,3 +12864,4 @@
 @doodletv.shorts
 @Synth.Vibe_AI
 @LuckyCat-x6y
+@AIDOUGA-k1f
