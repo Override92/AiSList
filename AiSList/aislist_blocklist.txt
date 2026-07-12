@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12815
+! Total Channels: 12814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4061,7 +4061,6 @@
 @dravaleriamorenourologa
 @dra.isabelacortes-e3z
 @cuerpoenarmonia-q8p
-@gabrielpsicologiamotivacional
 @mindmirrorespanol
 @gabrielrolonmotivacion-e6f
 @dra.dlbadomenech
