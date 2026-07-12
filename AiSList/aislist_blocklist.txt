@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13111
+! Total Channels: 13109
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1067,7 +1067,6 @@
 @giggle-gang-kids
 @tungtungtv-u1v
 @furryflufftales
-@cute.fluffy1
 @ladypengy
 @purrfectcats-s3h
 @bunnyworldstories
@@ -11678,7 +11677,6 @@
 @Adinatinshsh
 @Aevora-xl
 @RoshuAImusic
-@louisarivera-ns3
 @CraveTunes
 @Ai_vibes-h
 @Ve_loura
