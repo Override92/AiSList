@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13030
+! Total Channels: 13031
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13046,3 +13046,4 @@
 @YourWesterosGuy1
 @DariusNarrator
 @SecondKoreanStories.2k
+@HumanSurvivalProtocol
