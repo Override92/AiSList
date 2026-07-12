@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12867
+! Total Channels: 12868
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12883,3 +12883,4 @@
 @UntoldWhys
 @SwapnalokaOfficial
 @vanishedworldsrevealed
+@BritishManors
