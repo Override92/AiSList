@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12965
+! Total Channels: 12966
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12981,3 +12981,4 @@
 @Twitchclips-fun
 @BooThings-t2l
 @SecurityCamera-u2w
+@owencloses
