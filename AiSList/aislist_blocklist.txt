@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13057
+! Total Channels: 13058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13073,3 +13073,4 @@
 @DarkTaleAudio
 @PrismVerseBL
 @TheMoonmarkedLegacy
+@LunaGLHeat
