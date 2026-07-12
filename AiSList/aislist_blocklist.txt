@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13039
+! Total Channels: 13040
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13055,3 +13055,4 @@
 @TheRedactedCentury
 @Bookimo7
 @greglegYT
+@ManiaComics12
