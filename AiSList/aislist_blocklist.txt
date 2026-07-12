@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12974
+! Total Channels: 12975
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12990,3 +12990,4 @@
 @Brixenx
 @ZapRanked
 @Prefect_Storm
+@mineongaming43
