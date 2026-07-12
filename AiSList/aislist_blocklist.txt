@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12957
+! Total Channels: 12958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12973,3 +12973,4 @@
 @Stellar_clipzz
 @biblestorieswith_hannah
 @StreamerHighlights01
+@HistorySecretsUSA
