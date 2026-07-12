@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13051
+! Total Channels: 13052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13067,3 +13067,4 @@
 @K-Anime.Midnight
 @timelineeats
 @RomanceDigest-r8o
+@CrimsonMate
