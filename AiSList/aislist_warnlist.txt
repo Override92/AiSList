@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 589
+! Total Channels: 590
 
 ! Entries:
 @CinebotComedy
@@ -611,3 +611,4 @@
 @KolejOneNews
 @Disownedhistorian
 @AudiotaleEnglish
+@HiddenEpocha
