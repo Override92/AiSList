@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12999
+! Total Channels: 13000
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13015,3 +13015,4 @@
 @PsalmsoftheRose
 @MafiaBoss-e4f
 @SteelResolve212
+@WarBreedHFY
