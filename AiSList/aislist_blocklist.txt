@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 12867
+! Total Channels: 12863
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7680,7 +7680,6 @@
 @Zeroq-vids
 @LisaInvest
 @PiotrWęgiełek
-@SmartCatLife1
 @DailyProcess5.0
 @CaptainDiscover
 @FactoryInsiderYT
@@ -8001,7 +8000,6 @@
 @autorecenzje
 @storieswithmandy
 @stimmederwahrheit-a
-@thecanadian-report
 @eatatyourownriskyt
 @plotcorn-official
 @zycie_po_70-tce
@@ -9393,7 +9391,6 @@
 @CocsmicDust
 @vintagestarvault
 @BRIGHTSIDEOFFICIAL
-@MTFTransformation.stories
 @space.revolution
 @bodyrestart50
 @phucson7864
@@ -12880,6 +12877,5 @@
 @LaunchX00X
 @WhatIfText
 @GeeksLabTV
-@SavageSpeciesOnline
 @thepostapocalypse
 @Trilloncore
