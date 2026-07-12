@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13040
+! Total Channels: 13041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13056,3 +13056,4 @@
 @Bookimo7
 @greglegYT
 @ManiaComics12
+@NoxCantabile
