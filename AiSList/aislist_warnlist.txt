@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 596
+! Total Channels: 597
 
 ! Entries:
 @CinebotComedy
@@ -618,3 +618,4 @@
 @Simplify364
 @tripinsight.travel
 @TripInsightTVemPortuguês
+@RealCrusadesHistory
