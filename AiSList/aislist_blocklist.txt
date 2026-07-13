@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13217
+! Total Channels: 13218
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13233,3 +13233,4 @@
 @etherealsagednb
 @talesofaetherwood
 @TheDwarfsRest
+@Elaria-Celtic
