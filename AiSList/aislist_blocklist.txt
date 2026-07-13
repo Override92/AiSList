@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13235
+! Total Channels: 13236
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13251,3 +13251,4 @@
 @FoodyBan
 @V%C4%83nH%E1%BB%A3iL%C3%AA-b5g
 @AmishPantry
+@LoneStarShadows
