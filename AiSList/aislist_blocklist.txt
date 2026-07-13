@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13103
+! Total Channels: 13105
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13119,3 +13119,5 @@
 @hindinurseryhhymes
 @stickcomedytime
 @nationfilmsstudio
+@thomasdaltonn
+@marshalltr-t
