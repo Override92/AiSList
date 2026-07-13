@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13139
+! Total Channels: 13140
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13155,3 +13155,4 @@
 @BabyFoodAi-b1z
 @PablolaughsTV
 @Stickology75
+@GrimdarkAnimations
