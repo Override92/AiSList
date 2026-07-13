@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13185
+! Total Channels: 13186
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13201,3 +13201,4 @@
 @GermanWarWeapons-s4n
 @History_Grip_DE
 @AnimalMind-h5v
+@MaxFlashback
