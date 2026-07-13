@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13339
+! Total Channels: 13340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13355,3 +13355,4 @@
 @Midtech3
 @plan%C3%A8temerveille
 @Enseignements_islamiques
+@EtreDeLumiereOfficiel
