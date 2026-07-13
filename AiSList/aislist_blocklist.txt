@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13109
+! Total Channels: 13110
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13125,3 +13125,4 @@
 @HistoryBytemain
 @StatewideWeaponsUSA
 @AmericanWarFacts
+@ArmyWings-e2g
