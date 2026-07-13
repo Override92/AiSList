@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13258
+! Total Channels: 13254
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6113,7 +6113,6 @@
 @CurrencyMatrix
 @Unfolded_Finance
 @RubyReports
-@HardwarePulse-v9u
 @NavyClash
 @SoldiersofValor
 @official2amthoughts
@@ -8744,7 +8743,6 @@
 @elamistan
 @CINEMATICCODEX-k5w
 @AIAnimationHub-d3i
-@AIStyles-p8t
 @Tcorporation1
 @GhostTheboy1
 @SleepyHistoryTales-h4b
@@ -9280,7 +9278,6 @@
 @kozmio
 @dieuanhmb888
 @thegranddossierus
-@mindbraindecode
 @daliomindsett
 @travelwithshaidanwar
 @jacobamishsecrets
@@ -11774,7 +11771,6 @@
 @GroovevaultHQ
 @Threesixtysongs
 @LicbeAIMedia
-@allaboutpolice_bodycam
 @storiainfabbrica
 @LennyInTech
 @RyloArt
