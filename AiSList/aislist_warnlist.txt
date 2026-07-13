@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 618
+! Total Channels: 617
 
 ! Entries:
 @CinebotComedy
@@ -399,7 +399,6 @@
 @VideoGamesExplainer369
 @RhyElliot
 @patienceiskey05
-@formstate
 @indoorgardenweb001
 @foyersound
 @FunBotan
