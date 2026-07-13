@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13114
+! Total Channels: 13115
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13130,3 +13130,4 @@
 @WartimeMilitaryPodcast
 @missilezoneofficial
 @marcomonja-m6v
+@TheForbiddenVault-tv
