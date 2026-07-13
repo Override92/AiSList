@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13228
+! Total Channels: 13229
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13244,3 +13244,4 @@
 @EchoesoftheLoneWarrior
 @MastersOfTheRiff
 @SoftNightWorld
+@BardicCanvas
