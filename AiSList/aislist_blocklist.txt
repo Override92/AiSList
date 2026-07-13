@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13227
+! Total Channels: 13228
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13243,3 +13243,4 @@
 @WAFUUUU_JapaneseBeats
 @EchoesoftheLoneWarrior
 @MastersOfTheRiff
+@SoftNightWorld
