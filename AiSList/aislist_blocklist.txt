@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13210
+! Total Channels: 13211
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13226,3 +13226,4 @@
 @EmeraldHollow_Bun
 @TheOldVellumMedievalMusic
 @OtterSounds-FantasyAmbience
+@CelticJourneyBGM
