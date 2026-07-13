@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13322
+! Total Channels: 13320
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5182,7 +5182,6 @@
 @baegkyu
 @FinanceTFZMedia
 @BubbleTechInfo
-@CourtRoomChaosHD
 @CycleOfAbundance
 @YouTubeIncomeGuru
 @CWIN_NEWS75
@@ -11804,7 +11803,6 @@
 @OverWheelsYT
 @behindthedossier
 @LEGALEXPOSUR3
-@Snap-Psychology
 @cheatsandchancers
 @StoriesbRevenge1
 @ForbiddenloveStories-b6z
