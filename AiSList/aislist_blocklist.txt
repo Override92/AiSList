@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13206
+! Total Channels: 13207
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13222,3 +13222,4 @@
 @mentor3_cut
 @HFYStoryVault-01
 @LotusEchoMix
+@MedievalEchoesMusic
