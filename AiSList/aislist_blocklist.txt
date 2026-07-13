@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13104
+! Total Channels: 13103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3931,7 +3931,6 @@
 @Sabidur%C3%ADaJud%C3%ADaEterna
 @raicesdeljudaismo
 @caminocabalistico
-@RabinoDeRiqueza
 @vinoduikey6126
 @secretojudio7
 @conductajud%C3%ADa
