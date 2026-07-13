@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13191
+! Total Channels: 13192
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13207,3 +13207,4 @@
 @geopoliticalabyssreport
 @speedyroblox-k6g
 @bassglyph
+@TheDefenseVault
