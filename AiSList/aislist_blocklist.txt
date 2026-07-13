@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13105
+! Total Channels: 13101
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4965,7 +4965,6 @@
 @SinbadRescue
 @Pixel_tm_
 @TralaleloSahur
-@ZombieenoOrangenooGreenoo
 @HiddenLifeStories2025
 @TheDregoEffect
 @BrainRotRecords-Official
@@ -8934,7 +8933,6 @@
 @InsideFactoryWalls
 @FactoryUnfolded
 @MictaProcess
-@AgriTechInside
 @k_s_vaja_gaming
 @itzneonvxx
 @dilkashai
@@ -9260,7 +9258,6 @@
 @FactoryProductionProcess-g1x
 @Biovision2.0
 @AgriTechSmart
-@SurvivalLostVault
 @Golden_LifeHealth
 @InsidetheWorks-j3c
 @CosmosDustTalks
@@ -11380,7 +11377,6 @@
 @thegeonetwork1
 @seniorwellness60yt
 @thefootballdimensions
-@mindshiftpsychologynm
 @theshantycompass
 @heartofcountrystories
 @monkeylogiclab
