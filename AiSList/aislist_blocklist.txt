@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13232
+! Total Channels: 13233
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13248,3 +13248,4 @@
 @BonusStageBeats
 @ForestOfLightChannel
 @GuillermoCuevaMusic
+@FoodyBan
