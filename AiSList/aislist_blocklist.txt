@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13123
+! Total Channels: 13124
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13139,3 +13139,4 @@
 @Nexus
 @uspeak-14oct
 @yellowheros
+@ManufacturingWorldOfficial
