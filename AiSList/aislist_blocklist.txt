@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13386
+! Total Channels: 13387
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13402,3 +13402,4 @@
 @CrossroadsRecordsGlobal
 @Teaser-Universe
 @Ai-studio80
+@GlobalAiCartoon-b
