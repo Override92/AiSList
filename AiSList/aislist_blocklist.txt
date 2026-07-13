@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13249
+! Total Channels: 13250
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13265,3 +13265,4 @@
 @thetexasretiree
 @crisisearth2
 @TexasGround-r4r
+@GeographyExploredHD
