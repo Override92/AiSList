@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13176
+! Total Channels: 13177
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13192,3 +13192,4 @@
 @s.o.u.l.s.o.u.n.d.s
 @VietnamUnheard
 @StreamVaultChannel
+@ThangLongThanh
