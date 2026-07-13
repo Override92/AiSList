@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13378
+! Total Channels: 13379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13394,3 +13394,4 @@
 @CopX360
 @CatastropheWatch20
 @ShopiGuide
+@Foxf298
