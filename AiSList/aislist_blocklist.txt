@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13152
+! Total Channels: 13153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13168,3 +13168,4 @@
 @Apocalypseanime
 @bestlifemovietrailers
 @Otaku_explainer-143
+@WondersofHumanity-tv
