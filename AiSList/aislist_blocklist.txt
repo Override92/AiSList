@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13240
+! Total Channels: 13241
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13256,3 +13256,4 @@
 @ConsumerExposed-ghz
 @TexasReality360
 @offmapamerica
+@CoordinateX-v8r
