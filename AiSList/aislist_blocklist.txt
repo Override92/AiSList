@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13223
+! Total Channels: 13224
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13239,3 +13239,4 @@
 @AnimaSignal
 @Hollow_Reaches
 @noumena-exe
+@MedievalLegends-g1y
