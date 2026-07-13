@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13195
+! Total Channels: 13196
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13211,3 +13211,4 @@
 @GlobalConflictBrief-l6j
 @savedata.mp3
 @Globalconflictwatch-k4u
+@koyuchi_ShamisenBeats
