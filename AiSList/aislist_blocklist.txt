@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13277
+! Total Channels: 13278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13293,3 +13293,4 @@
 @PinkPantherlounge
 @RelaxationSlowMusic84
 @HistorianSleepy
+@LanternwoodMusic
