@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13183
+! Total Channels: 13184
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13199,3 +13199,4 @@
 @BuffettGlobalInsights
 @WorldBrief-03
 @GermanWarWeapons-s4n
+@History_Grip_DE
