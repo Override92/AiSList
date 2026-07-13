@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13148
+! Total Channels: 13149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13164,3 +13164,4 @@
 @HDSWildlife
 @asailorswife1997
 @HeavenDefyAnime
+@DSSTUDIOSCINEMATICUNIVERSE2.0
