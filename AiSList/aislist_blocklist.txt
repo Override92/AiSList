@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13268
+! Total Channels: 13269
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13284,3 +13284,4 @@
 @%E7%94%B0%E8%88%8E%E3%81%AE%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B
 @Foodbrandsexposed
 @timesofindia
+@EasySoulFunk
