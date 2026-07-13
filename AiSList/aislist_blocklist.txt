@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13202
+! Total Channels: 13203
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13218,3 +13218,4 @@
 @MyMythicRealmChronicles
 @ClassicMedievalRoom
 @MedievalOak
+@RelaxingCelticMusic-r9d
