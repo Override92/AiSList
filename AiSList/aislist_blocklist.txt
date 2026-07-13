@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13359
+! Total Channels: 13360
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13375,3 +13375,4 @@
 @LATESTNEWSBLASTER
 @NOCAMERASTUDIO
 @WW2Declassified-s6b
+@DeepToneSoul
