@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 610
+! Total Channels: 611
 
 ! Entries:
 @CinebotComedy
@@ -632,3 +632,4 @@
 @cameyeofficial
 @Afaes11
 @MythicCozy
+@AllZayTV
