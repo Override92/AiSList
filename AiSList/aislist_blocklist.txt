@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13120
+! Total Channels: 13121
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13136,3 +13136,4 @@
 @NicheNotFound
 @Sfi-fiPrincess
 @HANRecaps95
+@Nexus
