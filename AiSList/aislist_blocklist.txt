@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13346
+! Total Channels: 13347
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13362,3 +13362,4 @@
 @clubmagienoir
 @No.14VinylShop
 @scafk
+@mcumrinal
