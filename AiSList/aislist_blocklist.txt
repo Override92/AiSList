@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13351
+! Total Channels: 13352
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13367,3 +13367,4 @@
 @pause_maybe
 @TeaserCon
 @foxstarmedianetwork
+@PlayXtra
