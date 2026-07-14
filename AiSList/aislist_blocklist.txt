@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13930
+! Total Channels: 13931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13946,3 +13946,4 @@
 @SoundVerse-g6j
 @neuralbeats.audioAi
 @StormCrownMusic
+@NeuralSounds-v4b
