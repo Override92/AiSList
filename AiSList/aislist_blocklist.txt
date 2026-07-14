@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13772
+! Total Channels: 13773
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13788,3 +13788,4 @@
 @ChubbyCheekCinema
 @AmeliaDoesAI
 @PeddammaVsChittiRobo
+@hyper_sports_fifa
