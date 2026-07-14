@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 676
+! Total Channels: 677
 
 ! Entries:
 @CinebotComedy
@@ -698,3 +698,4 @@
 @Nick-On-Gaming
 @GreentextGems1
 @bozuse
+@60SecHistoryOfficial
