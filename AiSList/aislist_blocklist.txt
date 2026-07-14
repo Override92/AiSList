@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13961
+! Total Channels: 13962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13977,3 +13977,4 @@
 @Auriidym
 @Bittune1
 @HitWaveMusic-c2u
+@officialneuralsoundlab
