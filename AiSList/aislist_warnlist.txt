@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 693
+! Total Channels: 694
 
 ! Entries:
 @CinebotComedy
@@ -715,3 +715,4 @@
 @KARMALANDD
 @AumSum
 @AumSumsScience
+@AumSumsLab
