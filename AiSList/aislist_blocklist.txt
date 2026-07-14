@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13859
+! Total Channels: 13860
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13875,3 +13875,4 @@
 @CatLoafClub
 @K.kirashima
 @Aicartoon248
+@HrishikeshRoyOfficial
