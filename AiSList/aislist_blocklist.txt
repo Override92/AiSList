@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13552
+! Total Channels: 13553
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13568,3 +13568,4 @@
 @smaiworldofficial
 @CineverseAI007
 @PrimeAIMovies
+@starplusai
