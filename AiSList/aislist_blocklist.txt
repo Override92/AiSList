@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13706
+! Total Channels: 13707
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13722,3 +13722,4 @@
 @theailearning
 @SugiShogun
 @MangaExplainer-1M
+@鬼画桃符的好吃鬼-1
