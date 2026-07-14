@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13989
+! Total Channels: 13990
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14005,3 +14005,4 @@
 @Burning_Bass
 @EchoForge-b4t
 @NexifyTunes
+@CourtroomLessons
