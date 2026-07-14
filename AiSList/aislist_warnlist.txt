@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 644
+! Total Channels: 643
 
 ! Entries:
 @CinebotComedy
@@ -660,7 +660,6 @@
 @7-ElevenZ
 @DetroittIron
 @UnfilteredCelebss
-@WiseFrog-x7l
 @mao_steps
 @REFORMEDTRUTHSERMONS89
 @aakararam1212
