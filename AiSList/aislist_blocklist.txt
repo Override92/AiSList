@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13431
+! Total Channels: 13430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6776,7 +6776,7 @@
 @puchill-h5u
 @chillbook-22
 @keepitcosy
-@healingwoman358chilloutbgm
+@healingwoman358_jazzbar
 @chilltunesradio
 @lofi_bloomroom
 @yoonymusicplaylist
@@ -12127,7 +12127,6 @@
 @Africanstoryverse-234
 @africafolktalez
 @Aspiration1213
-@AfricanTalesbyJulibangs
 @EchoesofstoriesByF.K-u3r
 @THEIRONQUILLS
 @Rwanda-Tales
