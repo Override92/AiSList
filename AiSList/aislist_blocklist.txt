@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13982
+! Total Channels: 13983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13998,3 +13998,4 @@
 @Holyaltarfanmademusic
 @NIGHTFALLPHONK-y2m
 @TunesTribe-l8b
+@HitWaveSounds
