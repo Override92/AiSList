@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13659
+! Total Channels: 13660
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13675,3 +13675,4 @@
 @ronrogers
 @boristanev6693
 @USRecap
+@thecelticecho
