@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13938
+! Total Channels: 13939
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13954,3 +13954,4 @@
 @DriftWave-i5
 @ECHOTVReal
 @Vowel20beats
+@ElysiumRecord-o1z
