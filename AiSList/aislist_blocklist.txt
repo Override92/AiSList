@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14140
+! Total Channels: 14141
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14156,3 +14156,4 @@
 @TheIronFront-j3t
 @BenHodgesInsights
 @bobandshumin6828
+@WarfistTV
