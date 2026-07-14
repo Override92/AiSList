@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13899
+! Total Channels: 13900
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13915,3 +13915,4 @@
 @ActuallySimple_TV
 @SIouch
 @doctormyro
+@SolaceStudioTunes
