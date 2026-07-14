@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14094
+! Total Channels: 14095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14110,3 +14110,4 @@
 @Zeusdecodes
 @J.C.Howard-b6w
 @QuizBright05
+@Gamiestour-Channel
