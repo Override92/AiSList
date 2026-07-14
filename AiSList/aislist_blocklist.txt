@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13430
+! Total Channels: 13427
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6785,7 +6785,6 @@
 @moonlit-beats
 @melodix_music
 @room-waves
-@galacticgroovestation
 @lofigrizzly
 @treeminvibes
 @sakurabeats.1980
@@ -10445,7 +10444,6 @@
 @SusskindPhysicsLab
 @TheUniverseWithSusskind0
 @LittleJesusSongs-q9j
-@The_Feynman_Principle
 @BLromancetales
 @MoonlightRomanceLibrary
 @Mia-Romance
@@ -12366,7 +12364,6 @@
 @KL025-h2g
 @Kionisalpha-rom
 @EllaRomanceBoard
-@LeilaSkm
 @VelvetBLLore
 @AIAnimeVisuals
 @PapaZapp
