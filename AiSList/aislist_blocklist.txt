@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13910
+! Total Channels: 13911
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13926,3 +13926,4 @@
 @SadSphere
 @LyricLabNation
 @WavelandBeats
+@Thaph_lion
