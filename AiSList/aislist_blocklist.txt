@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13968
+! Total Channels: 13969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13984,3 +13984,4 @@
 @TheNeural_Note
 @BeatNovamusic-j
 @aifaithrecords
+@voxelresonance
