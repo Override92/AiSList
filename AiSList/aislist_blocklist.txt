@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14089
+! Total Channels: 14090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14105,3 +14105,4 @@
 @FrontlineVinyls
 @NoRushJazz7
 @JazzMeowlody-h7r
+@ShortStorysVerse
