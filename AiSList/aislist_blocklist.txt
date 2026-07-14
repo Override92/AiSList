@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13895
+! Total Channels: 13896
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13911,3 +13911,4 @@
 @ALMOVIETRAILERS
 @DoorbellArchives
 @JustTalkz-Avus
+@AiMovieTrailers
