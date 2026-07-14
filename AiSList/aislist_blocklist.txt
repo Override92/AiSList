@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13925
+! Total Channels: 13926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13941,3 +13941,4 @@
 @TuringTunesHub
 @BeatBot-vi
 @sensationalsound247
+@VerseMerge
