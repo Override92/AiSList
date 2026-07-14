@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14064
+! Total Channels: 14065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14080,3 +14080,4 @@
 @LiebeundPsychologie
 @DustData
 @revenira
+@MoralResistance
