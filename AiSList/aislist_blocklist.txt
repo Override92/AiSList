@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13701
+! Total Channels: 13702
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13717,3 +13717,4 @@
 @smartvisionwilliam
 @DawnAnimeClub
 @Comparative_Reviews
+@RichardYuBusiness
