@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13436
+! Total Channels: 13435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1336,7 +1336,6 @@
 @meowtales-g4x
 @meow__vids_0
 @animatedshortai
-@funcartoonfunny
 @meowtalestv1
 @aicats-ee2eg
 @lucymeowqt
