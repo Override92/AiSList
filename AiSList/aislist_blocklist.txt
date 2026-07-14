@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14024
+! Total Channels: 14025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14040,3 +14040,4 @@
 @eliharperofficial
 @sonicalgorithm
 @mysalsad12
+@AnomalyRecords_xyz
