@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13940
+! Total Channels: 13937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8394,7 +8394,6 @@
 @TheForensicFinancialLedger
 @rainice409
 @DahiJalebiAI
-@ProfitoryHub
 @AbyssEngineSounds
 @NeverlandSymphonicMetal
 @AIBubble-World
@@ -8786,7 +8785,6 @@
 @HOWITSMADE-q8v
 @NathalieGottmann
 @AI_Music_Aria
-@mindsetshift2026
 @TheExplainerBoss
 @DJ-AsikAI
 @MiniH%C3%A9rosIA
@@ -9509,7 +9507,6 @@
 @thisisJazzCo
 @TheHistorianProfessor
 @MoneyLegends90
-@WarrenBuffett_Blueprint
 @ProBuffetHQ
 @RayDalioHub2
 @Charlie_invest
