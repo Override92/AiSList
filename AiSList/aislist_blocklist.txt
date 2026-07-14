@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13696
+! Total Channels: 13697
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13712,3 +13712,4 @@
 @Mrvoid-Ai
 @AIinsighthub001
 @gdatylervfx
+@DavidRock-The-MTB-Guide
