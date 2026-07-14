@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13490
+! Total Channels: 13491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13506,3 +13506,4 @@
 @cant_go_back
 @DalioBoardroom
 @ChillNightMelody6886
+@FrenchHouze
