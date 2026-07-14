@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14165
+! Total Channels: 14166
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14181,3 +14181,4 @@
 @WilkersonDeclassified
 @P%C3%A2melaMessias-p5s
 @MadeInHistory
+@MiddleEarthUpdates
