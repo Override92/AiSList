@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13875
+! Total Channels: 13876
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13891,3 +13891,4 @@
 @SPAWNYYY-m3p
 @ludovitnastisin
 @dailytechupdate_ai
+@TheNextGenApps
