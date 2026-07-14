@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14117
+! Total Channels: 14118
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14133,3 +14133,4 @@
 @TalesfromtheSuburbs
 @TalesofHOADrama
 @Mr.LucianStoriesYT
+@us-cbcnewnow
