@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13918
+! Total Channels: 13919
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13934,3 +13934,4 @@
 @SparkHiveHQ
 @AIVillageAi
 @SoulNarrativemusic
+@sonicmix_ob
