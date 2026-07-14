@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13721
+! Total Channels: 13722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13737,3 +13737,4 @@
 @TimeTravel007-o7m
 @AIChroniclesEchoesoftheLos
 @StormFables
+@TheHistoryShortsai
