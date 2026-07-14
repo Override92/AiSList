@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13564
+! Total Channels: 13565
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13580,3 +13580,4 @@
 @Rozzzaicreativity
 @MarvelAI8
 @DailyAIslop1
+@AI.CinemaUniverse
