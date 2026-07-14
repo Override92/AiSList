@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14054
+! Total Channels: 14055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14070,3 +14070,4 @@
 @the_rising_guy
 @ChristianNerdYT
 @DanKorshunov
+@TheClassical2023
