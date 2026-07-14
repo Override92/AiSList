@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14140
+! Total Channels: 14138
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8914,7 +8914,6 @@
 @TitanChord
 @VOXPlus11
 @mrpsychologytalks001
-@Inside.Mega.Factory
 @AllFactoryItems
 @VertexProcess
 @FactoryProcessHub-x1r
@@ -11400,7 +11399,6 @@
 @BRAZEESONGS-LOVEE
 @PerfectHarmonyz_Fan-Page
 @BeesSymphony
-@GoldenMelodyRecords
 @NimbleMind-x7y
 @AlmusiXx
 @NeonTherapymusic
