@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13450
+! Total Channels: 13451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13466,3 +13466,4 @@
 @LilysStories-i7l
 @OldiesRockMemoriesHits86
 @EchoMusic26
+@OldiesLegend
