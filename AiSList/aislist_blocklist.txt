@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13685
+! Total Channels: 13686
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13701,3 +13701,4 @@
 @EconomyRewindHistory
 @FrontierLens-f2b
 @AmericaPending
+@TexasTownExplorer
