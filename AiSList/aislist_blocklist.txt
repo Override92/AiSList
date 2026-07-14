@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14028
+! Total Channels: 14029
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14044,3 +14044,4 @@
 @CloutBot
 @Zionvibe-1
 @vongsucac
+@TrueSubStories
