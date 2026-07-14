@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13617
+! Total Channels: 13618
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13633,3 +13633,4 @@
 @EducationinEnglish-e3n
 @TrailerOfTheMovieAI
 @CRAZYAI-t3e
+@AI_Trailers_YT
