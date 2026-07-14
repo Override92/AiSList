@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13626
+! Total Channels: 13627
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13642,3 +13642,4 @@
 @creater_Ankit-r8r
 @MarvelAIHistory-j9x
 @investigatemoney
+@Tech_History_Channel
