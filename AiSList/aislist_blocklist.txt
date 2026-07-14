@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13477
+! Total Channels: 13478
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13493,3 +13493,4 @@
 @SakuraChillzz
 @SAKURARONIN44
 @JAPAN20TH
+@TokyoChillLab-tAx
