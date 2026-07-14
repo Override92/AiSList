@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14005
+! Total Channels: 14006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14021,3 +14021,4 @@
 @NewSciTech
 @AQUA_VENOM23
 @thesaurux
+@ReggaedAway
