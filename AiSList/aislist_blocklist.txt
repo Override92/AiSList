@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13665
+! Total Channels: 13666
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13681,3 +13681,4 @@
 @MajorPandemic
 @fxrejaulasmr
 @AsadTechEdge
+@JiangPointInsights
