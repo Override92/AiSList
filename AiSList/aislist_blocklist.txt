@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13906
+! Total Channels: 13907
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13922,3 +13922,4 @@
 @ItsSonicTransit
 @Aura-x-o3r
 @faridxmusic
+@NexToneCSM
