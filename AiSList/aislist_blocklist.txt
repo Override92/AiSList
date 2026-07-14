@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14055
+! Total Channels: 14056
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14071,3 +14071,4 @@
 @ChristianNerdYT
 @DanKorshunov
 @TheClassical2023
+@WWEFightTalks
