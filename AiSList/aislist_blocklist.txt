@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13676
+! Total Channels: 13677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13692,3 +13692,4 @@
 @OctoLabYT
 @cailonbina1
 @DeathDecoDeD
+@CourtsAndCrimes
