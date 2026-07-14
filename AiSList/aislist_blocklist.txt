@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13432
+! Total Channels: 13431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11330,7 +11330,6 @@
 @revupworld
 @talebyene
 @cosmiospace
-@pastbeforeus
 @heartlandcountryfm
 @skullsfactory1
 @calm-flowbeats
