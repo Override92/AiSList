@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13592
+! Total Channels: 13593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13608,3 +13608,4 @@
 @AIMiniWorlds
 @AITinyASMR
 @whispering_ghibli
+@MiniCrewAI-n3t
