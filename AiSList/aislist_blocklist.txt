@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14039
+! Total Channels: 14040
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14055,3 +14055,4 @@
 @InsideEuropeToday
 @unity5332
 @GistofHistory-3107
+@legendarystories_yt
