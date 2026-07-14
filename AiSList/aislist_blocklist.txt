@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13457
+! Total Channels: 13458
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13473,3 +13473,4 @@
 @NeoncoreFM
 @thefunkyverse24
 @eidenxii
+@PopFlixEnt
