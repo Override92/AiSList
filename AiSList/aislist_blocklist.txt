@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14153
+! Total Channels: 14154
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14169,3 +14169,4 @@
 @HiddenVerseZ
 @FLESHANDERROR
 @ZenitySynthwave
+@GooseTailStories
