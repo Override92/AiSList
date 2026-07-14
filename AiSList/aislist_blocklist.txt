@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13636
+! Total Channels: 13637
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13652,3 +13652,4 @@
 @Parentitude
 @BackyardProof
 @TheArchiveofBuilds
+@RuralAmericanSurvivalWisdom
