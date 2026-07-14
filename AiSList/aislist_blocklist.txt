@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13442
+! Total Channels: 13443
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13458,3 +13458,4 @@
 @fangedphenomenon
 @astrasyncc
 @ForgeoftheMountainKing
+@FierceJustice01
