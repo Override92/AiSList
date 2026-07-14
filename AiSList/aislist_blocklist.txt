@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13459
+! Total Channels: 13460
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13475,3 +13475,4 @@
 @eidenxii
 @PopFlixEnt
 @dannabee
+@derlegionarpolski
