@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14001
+! Total Channels: 14002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14017,3 +14017,4 @@
 @thevictimspeak
 @AllenDobrovolsky
 @BattlePulse-t1c
+@CyberFalconHQ
