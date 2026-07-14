@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 13630
+! Total Channels: 13628
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8162,7 +8162,6 @@
 @Silver_Trends
 @Investing-with-Buffett
 @BuriedCenturyYT
-@FalloutRaccoonJRUSA
 @CatClub5
 @gatesofimagination
 @TheBraveHoof
@@ -10648,7 +10647,6 @@
 @historiezakazanejmilosci
 @LoFiFiLoMusic
 @WarSage-yt
-@LofiFantasy.Isekai
 @FlashMoment21
 @RedCarpetGhosts
 @saitoraflow
