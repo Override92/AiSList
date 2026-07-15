@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14356
+! Total Channels: 14357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14372,3 +14372,4 @@
 @DarkAcademiaPiano-x1e
 @ZenSamuraiMeditations
 @CalmWorkStudio-Go
+@TheSilentCitadelSounds
