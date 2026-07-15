@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14366
+! Total Channels: 14367
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14382,3 +14382,4 @@
 @RollinSoundRelax
 @CinematicSoulChannel
 @afterthehuntstories
+@ElderMelodies
