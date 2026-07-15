@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14394
+! Total Channels: 14395
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14410,3 +14410,4 @@
 @BGM_Official_Studio3
 @AmberCoastLounge
 @OneHourSomewhere
+@Quiet_Baroque_Manor1999
