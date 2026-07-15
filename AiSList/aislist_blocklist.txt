@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14335
+! Total Channels: 14336
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14351,3 +14351,4 @@
 @ElenaReed-f5k
 @SurfboardDeepChillout
 @parischansondreams
+@freshmusicfrontier
