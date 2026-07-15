@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14343
+! Total Channels: 14344
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14359,3 +14359,4 @@
 @JazzThroughWindow
 @TimelessAdagios
 @MooncatCaf%C3%A9-4t
+@YachtClubRadiof9i
