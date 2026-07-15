@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14708
+! Total Channels: 14709
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14724,3 +14724,4 @@
 @AntonChillMix
 @LunaVincentMusic
 @80sSynthpopHits
+@RetroSync80s
