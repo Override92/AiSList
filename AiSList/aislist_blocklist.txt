@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14699
+! Total Channels: 14700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14715,3 +14715,4 @@
 @BaroqueElegance
 @VieAncienneCaf%C3%A9
 @thepariclub
+@WorldCupTime26
