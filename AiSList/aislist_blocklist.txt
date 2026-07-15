@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14219
+! Total Channels: 14220
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14235,3 +14235,4 @@
 @DailySoundVoyage
 @AuraX-Music
 @phantom-9696
+@thebestofvocaltrancemix
