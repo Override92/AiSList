@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14402
+! Total Channels: 14403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14418,3 +14418,4 @@
 @terra_peregrine
 @MellowDay555
 @GentleZenMelodies
+@DeQuinceyNelson
