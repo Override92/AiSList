@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14679
+! Total Channels: 14680
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14695,3 +14695,4 @@
 @Big_StarWorldTV
 @AICinematicWorld-i5p
 @MemeNovaTV
+@Lumina.Chronicles
