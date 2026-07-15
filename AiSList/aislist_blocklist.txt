@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14531
+! Total Channels: 14532
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14547,3 +14547,4 @@
 @SoraAIRanks-i8t
 @NoNichePasha
 @Ronaldocutzzzz
+@KoreanStoryCorner
