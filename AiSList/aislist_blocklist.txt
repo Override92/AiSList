@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14338
+! Total Channels: 14339
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14354,3 +14354,4 @@
 @freshmusicfrontier
 @TheChamberStage
 @VelvetLoungeCat
+@MJazzLounge
