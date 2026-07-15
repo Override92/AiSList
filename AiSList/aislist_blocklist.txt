@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14526
+! Total Channels: 14527
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14542,3 +14542,4 @@
 @Sylphera
 @BetterLiving00
 @RealRobinTV
+@ElectroGalaxyTech
