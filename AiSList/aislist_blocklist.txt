@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14267
+! Total Channels: 14268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14283,3 +14283,4 @@
 @MedievalMagic-Ambience
 @AbyssalLibrary
 @nyxOffc
+@cozybeanjazz
