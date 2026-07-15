@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14303
+! Total Channels: 14304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14319,3 +14319,4 @@
 @amberandoakmusic
 @NeonTokyoLounge
 @LeCafeParis-j4u
+@deepchilloutlounge8
