@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14372
+! Total Channels: 14368
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4874,7 +4874,6 @@
 @GrunerDaumenn
 @TheRevengeRecipe
 @TheEconomicArchive00
-@polvopolvora
 @CapitalUnplugged
 @FrontlineUSAX
 @CurrencyofCivilization
@@ -11664,7 +11663,6 @@
 @mahiraj008
 @hyottokoai
 @ProjectCovMusic
-@ROCKTUNEE
 @aisongfoge
 @LangitAminor
 @pengagum_sunyi
@@ -12231,7 +12229,6 @@
 @backdoorceleb
 @retrovibes389
 @projetoextremopt
-@thelonggoodnight
 @manishmusicproduction83
 @silentrevenge15
 @TatoSports
@@ -13118,7 +13115,6 @@
 @EpicComicRecaps
 @SandyCinematicUniverse
 @KnowledgeHubtv
-@WTFDoorbell
 @AIMAGINEDMOVIES-fg1ts
 @msai_music
 @mensincensa
