@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14751
+! Total Channels: 14750
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1736,7 +1736,6 @@
 @criancasinteligentes
 @AmericanFrontierChannel
 @ANZAC_War_Tales
-@scythe140k
 @soupenterprises2025
 @AustraliasHiddenWar
 @SheReadsAnon
@@ -1951,7 +1950,6 @@
 @wwiichronicles-r2l
 @ww2in
 @worldwar-2.0
-@ww2tales15
 @battlegroundchronicleswwii
 @ww2archives1939
 @voicesofwar22
@@ -14767,3 +14765,4 @@
 @MyliRome0
 @mj24basa
 @Neuraviax
+@voiceofsarah-d1d
