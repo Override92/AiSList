@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14314
+! Total Channels: 14315
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14330,3 +14330,4 @@
 @histoireenminutes2026
 @ChilloutDelMar
 @goldenhourcinemaradio
+@TomandJazz-s3x
