@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14210
+! Total Channels: 14211
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14226,3 +14226,4 @@
 @ProgressSystemx
 @spacenews-i2l
 @AgricultureFlow
+@vocafusion
