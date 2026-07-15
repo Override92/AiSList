@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14310
+! Total Channels: 14311
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14326,3 +14326,4 @@
 @signalbrief-j4y
 @mistxplainer
 @TranquillCabinAmbience
+@GoldenRoastJazzClub
