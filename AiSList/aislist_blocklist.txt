@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14576
+! Total Channels: 14577
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14592,3 +14592,4 @@
 @TaleTinker1
 @aivideogenerator_official
 @SunRise-l8m
+@JustWatchNow.1
