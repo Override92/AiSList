@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14717
+! Total Channels: 14718
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14733,3 +14733,4 @@
 @NeoonRewind
 @ElectroSwingBeat
 @SunriseCalmStudio2003
+@VintageOldiesRoom
