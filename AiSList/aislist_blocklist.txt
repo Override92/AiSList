@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14558
+! Total Channels: 14559
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14574,3 +14574,4 @@
 @CraftVerse-YT
 @chenPin_cheeku
 @finnshark7952
+@KidsFuntv09
