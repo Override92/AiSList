@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14454
+! Total Channels: 14455
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14470,3 +14470,4 @@
 @ferrycorsten
 @notquiterock02
 @DeepEpoch-c3c
+@ThePriceExplainer
