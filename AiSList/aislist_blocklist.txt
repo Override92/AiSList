@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14750
+! Total Channels: 14747
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2056,7 +2056,6 @@
 @rbcatlover
 @scrollcatlover-e1o
 @bobo_panda
-@catcartoon-1n
 @animalcutes-p9s
 @tuktuktv-x3z9i
 @cuteversestudio-v3k
@@ -13132,7 +13131,6 @@
 @EngineeringFailuresTales
 @DayriLopera
 @BuffettGlobalInsights
-@WorldBrief-03
 @GermanWarWeapons-s4n
 @History_Grip_DE
 @AnimalMind-h5v
@@ -14446,7 +14444,6 @@
 @SnoopyJazzLounge-h6k
 @ParisCaf%C3%A9Musette
 @RainLeafSounds-q6v
-@UCjyU_f6AoBpdaIeyjq_gTdQ
 @KyleKabasares_PhD
 @Aiflashbacks-0
 @herbieherbs
