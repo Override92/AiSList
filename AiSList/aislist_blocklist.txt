@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14385
+! Total Channels: 14386
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14401,3 +14401,4 @@
 @NOIRBOLDEN
 @leisure_dept
 @theMoonlightSessions
+@CozyJazzCourtyardMusic
