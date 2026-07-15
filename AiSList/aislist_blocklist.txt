@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14205
+! Total Channels: 14206
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14221,3 +14221,4 @@
 @TheOddityDigest
 @FIFAAnthemZone
 @NGfinance01
+@worldcup.explainer
