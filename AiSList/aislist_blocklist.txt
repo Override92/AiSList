@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14210
+! Total Channels: 14209
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3935,7 +3935,6 @@
 @SusurrosdelAlma_ES
 @MenteTransformadora88
 @As%C3%ADSomosES
-@PulsodelOro-l8m
 @CosmoMillonario
 @Ra%C3%ADcesOlvidadas1
 @DeepHarvestGarden
