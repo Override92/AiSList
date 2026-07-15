@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14533
+! Total Channels: 14534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14549,3 +14549,4 @@
 @Ronaldocutzzzz
 @KoreanStoryCorner
 @AiymOtepova
+@ZeashanAnimation-l3k
