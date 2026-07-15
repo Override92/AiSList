@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14323
+! Total Channels: 14324
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14339,3 +14339,4 @@
 @cozycupmelodies-o2k
 @Blue_Note_Jazz
 @PsychePrismm
+@GoldenVinyl
