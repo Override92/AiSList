@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14527
+! Total Channels: 14528
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14543,3 +14543,4 @@
 @BetterLiving00
 @RealRobinTV
 @ElectroGalaxyTech
+@EyesOfTheFallenn
