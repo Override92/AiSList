@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14207
+! Total Channels: 14202
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4309,7 +4309,6 @@
 @DR.NORAHAYES-v4v
 @DR.NERITA
 @MensHealthOver50-60
-@HeartToWolff
 @nextgenwarr
 @NORGEMILIT%C3%84R
 @deluxebyluk
@@ -4328,7 +4327,6 @@
 @DrMarianaSeniorWellness
 @drramani-x8e
 @Dr.jocelyn
-@backdoorhiphop
 @TheShadowLedger-e2q
 @AnoshaYoutube
 @OGJohnAG2.0-g9z
@@ -4523,7 +4521,6 @@
 @ConfirmadoAhora
 @ЗелёныйГектар
 @DignityStories
-@FederalInsightMedia
 @redsilence-v8o
 @MyAICareer
 @ImaginePhysics2.0
@@ -4535,8 +4532,6 @@
 @VANTAAISTUDIO
 @1MillionWithin5Years
 @AliciaInvestsUS
-@The.Silent.Investor-d9z
-@wisetInvestor
 @MartikFinance
 @VanillaInvestor
 @ThinkLikeJimRohn
