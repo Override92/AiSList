@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14234
+! Total Channels: 14235
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14250,3 +14250,4 @@
 @DJ_Ray_I
 @LumaBeatsStreet
 @TranceNova1
+@FantasyShortsFC
