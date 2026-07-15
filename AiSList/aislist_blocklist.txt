@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14266
+! Total Channels: 14267
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14282,3 +14282,4 @@
 @TheDarkCountrySound
 @MedievalMagic-Ambience
 @AbyssalLibrary
+@nyxOffc
