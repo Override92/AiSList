@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14181
+! Total Channels: 14179
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10362,7 +10362,6 @@
 @PsalmsofZion7
 @VitMaxScience
 @MindMeldCreations-xj2px
-@WhatHeForgot
 @charlesmayer-c4c
 @GhostTheOldWolf
 @historicalfacts-f8n
@@ -11848,7 +11847,6 @@
 @gingyfamily
 @chriscrystalaiart
 @kickzor
-@lostworld888
 @ALifeBefore
 @torque-s9q
 @AutoPrimesUSA
