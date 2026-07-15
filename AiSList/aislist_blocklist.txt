@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14429
+! Total Channels: 14430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14445,3 +14445,4 @@
 @WhiskerJazz
 @Arabic.Harmony
 @Music_of_the_Valley
+@SnoopyJazzLounge-h6k
