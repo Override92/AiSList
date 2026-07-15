@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14204
+! Total Channels: 14201
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3568,7 +3568,6 @@
 @jackrebornhistory
 @mr.pintukumar18
 @amliyat-w5p
-@trueminds-o5r
 @history.and.mysteryy
 @cozy_cat_mom
 @PawsAIStorie
@@ -3966,7 +3965,6 @@
 @CorazonDFeYT
 @Elhumanodetr%C3%A1sdell%C3%ADder
 @MexicoNewsDaily-d4h
-@RichardWolfOffical
 @groundsreality
 @LaBibliaRevela
 @cartasdesdeelm%C3%A1sall%C3%A1
@@ -4002,7 +4000,6 @@
 @EverGreenHomeLiving
 @evergreengardeningadvice
 @ElP%C3%BAlpitoNacional
-@WolffNoticias
 @RichardWolffHoy
 @noticiasescalantes
 @HollywoodenVoz
