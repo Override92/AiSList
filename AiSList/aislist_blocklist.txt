@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14184
+! Total Channels: 14180
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -859,7 +859,6 @@
 @mindasmr-t2s
 @bedswhisper
 @prismasmr.1
-@catshort-v9t
 @meostoryshorts
 @meowstories3d
 @felinefables3
@@ -11549,7 +11548,6 @@
 @FinanceGriffin
 @WarStoriesInspiredbyBillyWaugh
 @KawaiiBassHolic
-@EleanorMR
 @luxetnoxinvictus
 @mostinworld
 @RogueCellPictures
@@ -14181,7 +14179,6 @@
 @WilkersonDeclassified
 @P%C3%A2melaMessias-p5s
 @MadeInHistory
-@MiddleEarthUpdates
 @COFFRE-FORTDESURVIEINTERDIT
 @USTORY_fr
 @psyrithm
@@ -14191,7 +14188,6 @@
 @quietobvious
 @Feline_Fanatics
 @MenPsychologySimplified
-@SimpleStuffHQ
 @MythWorldStory
 @communication-Tube
 @TheOneringTv
