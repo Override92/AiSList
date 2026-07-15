@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14295
+! Total Channels: 14296
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14311,3 +14311,4 @@
 @BlackFedoraClub
 @ICYFOG
 @forestcafejazz
+@SufiDervish-n4h
