@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14264
+! Total Channels: 14265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14280,3 +14280,4 @@
 @FootballfromAbove
 @soj-lofi
 @TheDarkCountrySound
+@MedievalMagic-Ambience
