@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14242
+! Total Channels: 14237
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4572,7 +4572,6 @@
 @thefoodshow587
 @HerocamAI
 @TheCurrencyWarning
-@GOLDSILVERINSIGHTS-r4e
 @TheHiddenEconomyTV-h8f
 @MotherFolktales
 @FineMetalsOfficial
@@ -4903,7 +4902,6 @@
 @githubtrendfeed
 @FinanceMeeting
 @TheWealthForecast
-@WHATJUSTHAPPENED-YT
 @MoneyGuideUk
 @PoliticsUnfiltered0
 @SmirkzyOfficial
@@ -4924,7 +4922,6 @@
 @RevNation-d1d
 @Productionpulseofficial
 @CarXpress-d9e
-@DreamRides7
 @THAutoReviews
 @OverdriveTV-g2m
 @RealTalkWithTime
@@ -9242,7 +9239,6 @@
 @FRUTINOVELASTH
 @synthwaveanddragons
 @Epic_Ascension_Music
-@TheMungerExperience
 @historiashfyespanol-1
 @catversecinema
 @lbiskiss3
@@ -14257,4 +14253,3 @@
 @AutonomiBulgaria
 @TruckCulture
 @startingmachine
-@madscilectures
