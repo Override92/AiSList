@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14348
+! Total Channels: 14349
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14364,3 +14364,4 @@
 @HollywoodViceYT
 @THEEMERALDTRAIL
 @womb-harmony
+@SculptedPeace
