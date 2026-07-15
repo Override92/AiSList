@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14467
+! Total Channels: 14468
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14483,3 +14483,4 @@
 @Hardware-YT
 @SDarkwaveBloom
 @EchoDerAltenZivilisationen
+@Chronik_der_Schatten
