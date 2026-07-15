@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14723
+! Total Channels: 14724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14739,3 +14739,4 @@
 @Static_DustHQ
 @MonkeyExplains1999
 @AmbientWorldRadio
+@TheSolaceHarp
