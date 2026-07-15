@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14399
+! Total Channels: 14400
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14415,3 +14415,4 @@
 @deep-forest-medidation
 @CoastalJazzCaf%C3%A93
 @MedievalHearth
+@terra_peregrine
