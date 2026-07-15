@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14422
+! Total Channels: 14423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14438,3 +14438,4 @@
 @midnightinnewyork1
 @MidnightRoomJazz
 @Echowistj7t
+@NENUJAZZ
