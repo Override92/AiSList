@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14370
+! Total Channels: 14371
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14386,3 +14386,4 @@
 @WorkwaveMusic-k6q
 @Kyoto%E9%9B%85
 @EchoRealmsHQ
+@quietude_ambient
