@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14277
+! Total Channels: 14278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14293,3 +14293,4 @@
 @Top-5-Choice
 @CHANGES_CRIMINALS
 @safeplaceinhere
+@MonkeyExplains1999
