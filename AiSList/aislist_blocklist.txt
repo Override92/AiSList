@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14368
+! Total Channels: 14369
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14384,3 +14384,4 @@
 @afterthehuntstories
 @ElderMelodies
 @WorkwaveMusic-k6q
+@Kyoto%E9%9B%85
