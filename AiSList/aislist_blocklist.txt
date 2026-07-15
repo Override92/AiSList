@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14505
+! Total Channels: 14506
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14521,3 +14521,4 @@
 @Daily.Dose.Ring.Doorbell
 @FailRanks-central
 @Vinto.Ranking
+@dailyslopx
