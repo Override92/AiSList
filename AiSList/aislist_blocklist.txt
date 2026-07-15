@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14210
+! Total Channels: 14206
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3999,7 +3999,6 @@
 @EverGreenHomeLiving
 @evergreengardeningadvice
 @ElP%C3%BAlpitoNacional
-@RichardWolffHoy
 @noticiasescalantes
 @HollywoodenVoz
 @trandbox-y7g
@@ -4089,7 +4088,6 @@
 @C%C3%B3digoDeMujeres
 @Despierta_TuConsciencia
 @AmorConsciente-v4q
-@mujeresoberanas
 @CosmiSer
 @PoderdelHombre77
 @mysteriamentis2025
@@ -4122,7 +4120,6 @@
 @TheTruthBehindtheHeadlines
 @mente-x-d4w
 @EstoicismoOscuro
-@menteviva-h8c
 @meyouNight
 @TheBuildingPoint
 @BravePawsAI
@@ -4180,7 +4177,6 @@
 @VocesdelHogarUSA
 @RelatosDeInfidelidades-68
 @MemoriasdePatricia
-@HistoriasdeFlorencio
 @SabiduriadelAbueloTV
 @BODAHistorias
 @KinaHistorias
