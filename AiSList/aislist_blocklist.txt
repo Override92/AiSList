@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14711
+! Total Channels: 14712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14727,3 +14727,4 @@
 @RetroSync80s
 @RedoubtWarHistory
 @AmberVinyl-b3h
+@TheSereneSound-95
