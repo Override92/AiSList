@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14201
+! Total Channels: 14202
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14217,3 +14217,4 @@
 @JapaneseAircraftChronicles
 @ex_ea_es
 @benefitpostyt
+@FIDO-o5b
