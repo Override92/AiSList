@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14262
+! Total Channels: 14263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14278,3 +14278,4 @@
 @LoungeMusicChannel
 @TodaysOfficialz
 @FootballfromAbove
+@soj-lofi
