@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14848
+! Total Channels: 14849
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14864,3 +14864,4 @@
 @Aioldskoolrap
 @GoldenEraBeats-2
 @BlueCounty-Music
+@MarshalSoundLab
