@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14853
+! Total Channels: 14854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14869,3 +14869,4 @@
 @Sould_Night
 @RealBeatz-t2k
 @Chronic.Remix1
+@LegacyRapVault
