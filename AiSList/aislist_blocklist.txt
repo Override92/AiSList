@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14926
+! Total Channels: 14927
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14942,3 +14942,4 @@
 @Aura_Beatss
 @D2TalentsUS
 @martin-mafia
+@PaperHandProd
