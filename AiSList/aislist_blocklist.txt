@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14881
+! Total Channels: 14882
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14897,3 +14897,4 @@
 @AIBeats_V1
 @yeagerfandom6275
 @megaplay
+@banditosbeats
