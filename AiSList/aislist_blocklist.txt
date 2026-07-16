@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14873
+! Total Channels: 14874
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14889,3 +14889,4 @@
 @ChizzyMusic-r1k
 @emdafaoldschoolmusic
 @KingXOfXPop
+@RapMusicHDTV
