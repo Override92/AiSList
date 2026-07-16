@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15032
+! Total Channels: 15033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15048,3 +15048,4 @@
 @lunara_music-u6i
 @VOCALOID-Haruka
 @AniSonRememberAI
+@KINGAMVsOFFICIAL
