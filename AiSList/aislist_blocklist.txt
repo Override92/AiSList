@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14919
+! Total Channels: 14920
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14935,3 +14935,4 @@
 @TheAIAftermathMusic
 @SwirveMixes
 @SoulfulStudioss
+@ScopeRemix
