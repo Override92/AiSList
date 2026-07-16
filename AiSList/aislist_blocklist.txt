@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14884
+! Total Channels: 14885
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14900,3 +14900,4 @@
 @banditosbeats
 @Ragg-ai
 @blackcrown-h5q
+@Crazyanimations-v2y
