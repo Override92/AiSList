@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14856
+! Total Channels: 14852
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10392,7 +10392,6 @@
 @WerewolfBound
 @KsiazkaW3Minuty
 @TheUtimateTreks
-@POVUnlockedyt
 @TAYGlobePL
 @animeclipstalk
 @TajemnicaPrzesz%C5%82o%C5%9Bci
@@ -12104,7 +12103,6 @@
 @drive79
 @50sCinema
 @RickytheRackoon
-@ElectricSheepAIDreams
 @IndustraIQ
 @ancientearthrhythms
 @NeuralProtocol-p2l
@@ -14804,7 +14802,6 @@
 @kapitalverse
 @lunaqueen-91
 @duvetasmr
-@DreamRem%C4%B1x0
 @byte_tune
 @AmpRiff
 @ngamcuocsongquanhta
@@ -14857,7 +14854,6 @@
 @onlineflow7045
 @Dexmusic-b3m
 @STARVIBEZENTERTAINMENT
-@RebornAs50sSoul
 @Shade45SXM
 @intromuz-ok8in
 @GangstaFlw
