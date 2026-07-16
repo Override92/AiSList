@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15054
+! Total Channels: 15055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15070,3 +15070,4 @@
 @ANIME_GHA
 @AshrayMinj
 @animationcartoon-t8h
+@african-tales-by-zanel
