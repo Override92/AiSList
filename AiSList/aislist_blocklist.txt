@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15034
+! Total Channels: 15035
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15050,3 +15050,4 @@
 @AniSonRememberAI
 @KINGAMVsOFFICIAL
 @%E6%94%BE%E8%AA%B2%E5%BE%8C%E8%BB%BD%E9%9F%B3%E9%83%A8
+@YORIMICHI-Playlist
