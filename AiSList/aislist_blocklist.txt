@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14912
+! Total Channels: 14913
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14928,3 +14928,4 @@
 @ReSoulNation86
 @startrak1312
 @rCentMusic
+@mixnova_official
