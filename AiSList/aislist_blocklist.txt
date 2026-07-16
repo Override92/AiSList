@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15051
+! Total Channels: 15052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15067,3 +15067,4 @@
 @Creativitycutz
 @Coca-Cola
 @LBKZ-DailyDrama
+@ANIME_GHA
