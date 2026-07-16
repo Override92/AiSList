@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15064
+! Total Channels: 15065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15080,3 +15080,4 @@
 @SumbaganayTV
 @MR.Jimmy-72
 @bonaIdeaPro
+@Curiosity-r7s
