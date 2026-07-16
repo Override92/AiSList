@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14815
+! Total Channels: 14816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14831,3 +14831,4 @@
 @hoasu2025
 @RomanticLatinPop
 @Re-SoulLegends
+@LGMUSSound
