@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14968
+! Total Channels: 14969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14984,3 +14984,4 @@
 @eintelligencein
 @AITeaching.Network
 @FaizanAmjedOfficial
+@K-Manga_Universe
