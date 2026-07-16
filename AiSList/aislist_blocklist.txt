@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14756
+! Total Channels: 14752
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3014,7 +3014,6 @@
 @OldSchoolCanada
 @heavymachinegun-h6b
 @CGTioMusic
-@TheFeynmanLab
 @TheFatCatReport
 @tvstarsbiography
 @EuropaWillRise
@@ -3121,7 +3120,6 @@
 @RealUndercoverStories
 @JohnWayneForgottenLegends
 @royalchampion7
-@GrimMedievalTales
 @VoiceBeyondColor
 @WatchersoftheTomb
 @BlackTalesSecrets
@@ -11743,7 +11741,6 @@
 @berrybites-05
 @CLOUD_AIASMR
 @MultiverseMayhem444
-@JuliaFrostfield
 @ATraversHistoire
 @H%C3%A9rosetGuerresOubli%C3%A9s
 @Felixy_AI
@@ -13241,7 +13238,6 @@
 @AICinematicUniverse93
 @minifood-o6h
 @KittufoodAI
-@Tinyfoodaiworld
 @TinyChefsMiniKitchen
 @MiniCookAIOfficial
 @AIMiniatureFoodVideo
