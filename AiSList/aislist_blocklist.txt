@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14790
+! Total Channels: 14791
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14806,3 +14806,4 @@
 @duvetasmr
 @DreamRem%C4%B1x0
 @byte_tune
+@AmpRiff
