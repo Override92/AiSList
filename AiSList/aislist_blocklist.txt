@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14924
+! Total Channels: 14925
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14940,3 +14940,4 @@
 @shiftybrentgroup
 @RDGFLIX
 @Aura_Beatss
+@D2TalentsUS
