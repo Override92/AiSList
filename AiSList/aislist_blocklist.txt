@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14802
+! Total Channels: 14803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14818,3 +14818,4 @@
 @TheAlgoRhythmOrchestra
 @Beast_Withinn
 @TURKO777Official
+@JournalsOfArt
