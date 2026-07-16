@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15066
+! Total Channels: 15062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8509,7 +8509,6 @@
 @AnimalHeroes33
 @oazamuzyki
 @sciezkiPrzepowiedni7678
-@StrażnicyDuszy
 @Niezwykły-umysł
 @PiotrCieńWroński
 @TajemniceZSRR
@@ -8562,7 +8561,6 @@
 @restorefusion
 @둥근인생이여라
 @learnstoryenglish-k3x
-@straznicyduszy
 @niezwykly-umysl
 @piotrcienwronski
 @tysiacletniehistorie
@@ -8789,7 +8787,6 @@
 @AiKitchen-h1i
 @CrazyAikitchen
 @premakemovies
-@TheWealthGuy-z6q
 @GregorianChantsRecovered
 @sacramana
 @Ideas-Behind-Power
@@ -13711,7 +13708,6 @@
 @snminikitchen81
 @aworldof_fantasy
 @adeebamudassar757
-@ChubbyCheekCinema
 @AmeliaDoesAI
 @PeddammaVsChittiRobo
 @hyper_sports_fifa
