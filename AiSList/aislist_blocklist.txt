@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15005
+! Total Channels: 15006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15021,3 +15021,4 @@
 @FUJISOUNDS118
 @Otoneko335JukeBox
 @TukkerX
+@tg-comic
