@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15012
+! Total Channels: 15013
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15028,3 +15028,4 @@
 @Browser_Explained
 @LivesBeforeOurs
 @TheEternalFireside
+@TheLoreforge-d5p
