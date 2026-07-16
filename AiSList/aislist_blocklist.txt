@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15008
+! Total Channels: 15009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15024,3 +15024,4 @@
 @tg-comic
 @HealWiseDaily-y6o
 @Tarihlojii
+@ValkyriesWrath8
