@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14860
+! Total Channels: 14861
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14876,3 +14876,4 @@
 @neo-r9p
 @GoldenEraWaves-i2d
 @noxeram
+@ADRIXOFFICIAL-c9f
