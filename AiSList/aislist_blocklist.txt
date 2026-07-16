@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14963
+! Total Channels: 14965
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14979,3 +14979,5 @@
 @hikari_verse-x5r
 @theaicoversJAPAN
 @afterimage_music
+@tajemnicaswiataujawniona
+@thesurvivaledgeyt
