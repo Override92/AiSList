@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14968
+! Total Channels: 14963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7512,7 +7512,6 @@
 @junglewizards
 @SecretsofWorldWarII-e2w
 @Danielreedshow
-@TheBriefCritic
 @Ścieżka_Wewnętrzna
 @FeynmanPOV
 @FinancialHistorianIndex
@@ -9471,7 +9470,6 @@
 @MoneyLegends90
 @ProBuffetHQ
 @RayDalioHub2
-@Charlie_invest
 @SilverGuruJohn
 @GoldSilverDaily-s9x
 @Thesilverscenario
@@ -13394,7 +13392,6 @@
 @FierceJustice01
 @DADSVENGEANCE-i1g
 @LoveCoupleTales1
-@WhenDarknessAwakens
 @CalmStrength-1
 @LilysStories-i7l
 @OldiesRockMemoriesHits86
@@ -14910,7 +14907,6 @@
 @OldSchoolJamsUnlimited
 @FrantzMood
 @OldSchoolStudio
-@dambit
 @PoweroftheDollarAI
 @realistkixng4990
 @SoundDynasty-c9z
@@ -14947,7 +14943,6 @@
 @RawLeaksTV
 @HipHopsVault
 @MiddleEastMETAL
-@Reimagineddd
 @LUCKYJOESPH80
 @stevie.knight
 @PrinceHammahEqz
