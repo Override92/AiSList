@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14933
+! Total Channels: 14934
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14949,3 +14949,4 @@
 @MiddleEastMETAL
 @Reimagineddd
 @LUCKYJOESPH80
+@stevie.knight
