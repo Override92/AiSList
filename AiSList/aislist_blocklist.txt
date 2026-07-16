@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15053
+! Total Channels: 15054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15069,3 +15069,4 @@
 @LBKZ-DailyDrama
 @ANIME_GHA
 @AshrayMinj
+@animationcartoon-t8h
