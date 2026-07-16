@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14944
+! Total Channels: 14945
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14960,3 +14960,4 @@
 @SoulOnVinyl
 @SoundWaveSongs
 @Seme-s
+@WarvoxStudio
