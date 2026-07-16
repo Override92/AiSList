@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14942
+! Total Channels: 14943
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14958,3 +14958,4 @@
 @SmokeyBasement
 @Shockwavee92
 @SoulOnVinyl
+@SoundWaveSongs
