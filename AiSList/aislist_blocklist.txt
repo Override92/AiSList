@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14763
+! Total Channels: 14767
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14779,3 +14779,7 @@
 @AiCrowdOfficials
 @FILM6ai
 @NovaTrailerStudio
+@GamesReimaginedYT
+@affiliatepathai
+@FutureMovieUnivers
+@4KSAGAEDITZ2.0
