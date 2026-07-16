@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14930
+! Total Channels: 14931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14946,3 +14946,4 @@
 @VelvetTheatreAi
 @RawLeaksTV
 @HipHopsVault
+@MiddleEastMETAL
