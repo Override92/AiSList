@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15039
+! Total Channels: 15035
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7552,7 +7552,6 @@
 @naturevibes-b1l
 @silvermereaudio
 @familyrevengefiles-s5p
-@richard_wolff
 @wildfixanimalrescue
 @storyverseai78
 @swiatbiografii
@@ -11851,7 +11850,6 @@
 @healthytoday1.m
 @themafiabride-j1u
 @a25productionz
-@peterreynolds-reports
 @もふまるん
 @insciaitrend
 @Mochi-Melty
@@ -11941,7 +11939,6 @@
 @AiZeesh
 @cybercatnap
 @tecpathum
-@CrocoPuzzle
 @aarkaydesign13
 @AITammudutelugu
 @yakusho
@@ -13432,7 +13429,6 @@
 @BehindthePriceTags
 @Gloom_Station
 @cant_go_back
-@DalioBoardroom
 @ChillNightMelody6886
 @FrenchHouze
 @break.horizon
