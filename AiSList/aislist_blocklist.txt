@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14789
+! Total Channels: 14788
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12436,7 +12436,6 @@
 @Shiuli-Aistories
 @FruitlixStudio
 @AnumaiTech
-@TalkingSabziyan786
 @PURRINGAI01
 @GingerKittenStory-NBmedia
 @myYellowMeow
