@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14793
+! Total Channels: 14794
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14809,3 +14809,4 @@
 @DreamFrameBattles
 @TechDuoo
 @Ricky_Oscar
+@kapitalverse
