@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14820
+! Total Channels: 14821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14836,3 +14836,4 @@
 @hellowest-coast
 @FRESHMUSIC-r5d
 @Borg8472LU
+@MidnightRapFM
