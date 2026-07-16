@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14976
+! Total Channels: 14977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14992,3 +14992,4 @@
 @minirescue_0.2
 @RestrictedGround
 @TheN3xtLevel
+@viewtechid
