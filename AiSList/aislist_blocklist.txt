@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14849
+! Total Channels: 14850
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14865,3 +14865,4 @@
 @GoldenEraBeats-2
 @BlueCounty-Music
 @MarshalSoundLab
+@Westcoastchanel
