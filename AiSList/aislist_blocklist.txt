@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14817
+! Total Channels: 14818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14833,3 +14833,4 @@
 @Re-SoulLegends
 @LGMUSSound
 @EchoesofPac
+@hellowest-coast
