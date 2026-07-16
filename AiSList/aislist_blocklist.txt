@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14822
+! Total Channels: 14823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14838,3 +14838,4 @@
 @Borg8472LU
 @MidnightRapFM
 @SELINAS-OFFICIAL
+@PrimeBeatRhythm
