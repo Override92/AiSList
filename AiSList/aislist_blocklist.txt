@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15016
+! Total Channels: 15017
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15032,3 +15032,4 @@
 @PhoenixValkyries
 @CITYPOP198X-z
 @VEILTUNE
+@EpicPokeMusic
