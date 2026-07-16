@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14807
+! Total Channels: 14808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14823,3 +14823,4 @@
 @CineDrama-88
 @G-FunkFrequency-j5h
 @eltorky147
+@MelodyHub_001
