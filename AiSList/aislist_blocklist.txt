@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 14834
+! Total Channels: 14835
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14850,3 +14850,4 @@
 @EchoRemasters
 @WestCoastFinestMusic
 @RewindStudio-i8d
+@GoldenFunkAvenue
