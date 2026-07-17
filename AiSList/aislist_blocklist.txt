@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15386
+! Total Channels: 15387
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15402,3 +15402,4 @@
 @LofiNightBeats-e5j
 @OuterRimHaulersUnionRadio
 @BrainFlowBeats02
+@DieDeutscheChronik
