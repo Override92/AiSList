@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15389
+! Total Channels: 15390
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15405,3 +15405,4 @@
 @DieDeutscheChronik
 @purenostalgieyt
 @ChordSequenceStudio
+@medievalhorizonsmusic
