@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15247
+! Total Channels: 15248
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15265,3 +15265,4 @@
 @Audiohorizon-10
 @sadoart2026
 @Pete_Rob
+@AuraMelodiesOnly
