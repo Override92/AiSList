@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15293
+! Total Channels: 15294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15309,3 +15309,4 @@
 @SonovelleHouse
 @MuzikBot-fm
 @BEATBYTE001
+@hossons
