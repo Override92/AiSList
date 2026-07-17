@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15331
+! Total Channels: 15332
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15347,3 +15347,4 @@
 @Gunaa_v
 @voicesoftheagesmusic
 @aramaicmarianchants
+@AramaicLight
