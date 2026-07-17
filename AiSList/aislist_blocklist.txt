@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15066
+! Total Channels: 15064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9897,7 +9897,6 @@
 @valentinasooofficial
 @observervlog
 @深海幻像
-@mitcheallglobalruth
 @%E5%A4%A2%E8%A6%8B-%E5%B9%B4%E5%86%85300%E4%BA%BA%E7%9B%AE%E6%A8%99
 @BerryHappyAI
 @TheMoontimeStudio
@@ -12745,7 +12744,6 @@
 @Vae-Victis-h9e
 @HistoryQuestChannel
 @CevoFilms
-@TiemposMedievales
 @doodletv.shorts
 @Synth.Vibe_AI
 @LuckyCat-x6y
