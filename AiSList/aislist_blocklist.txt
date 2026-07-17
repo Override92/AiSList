@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15421
+! Total Channels: 15422
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6035,7 +6035,6 @@
 @WatchAncestral
 @HistoryUnfilteredTV
 @SwordsandShadowsHistory1
-@JaneAnthony-v3u
 @VesperaNoctis
 @TheQuietConquest
 @LOmbredesEmpires
@@ -15437,3 +15436,5 @@
 @FAMENOOK-d6x
 @FuriFuwa
 @chollayo
+@legoutdelaprovince
+@savoirscaches94
