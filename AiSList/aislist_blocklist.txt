@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15469
+! Total Channels: 15470
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15485,3 +15485,4 @@
 @Anime_Story_VF
 @AICinematisctories
 @aiuniverse41
+@AICinemaVerse-s5g
