@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15095
+! Total Channels: 15096
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15111,3 +15111,4 @@
 @HeartbeatsHardChoices
 @EmergencyLegends-m8y
 @acidvelvetjazz
+@valorinscrubs
