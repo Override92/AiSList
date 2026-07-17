@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15267
+! Total Channels: 15268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11808,7 +11808,6 @@
 @RealCowboyStories
 @supaponwachina
 @someeguy28
-@tonyrobbinswisdomroast
 @music_potions1
 @road.heritage
 @nguon_cam_xuc
