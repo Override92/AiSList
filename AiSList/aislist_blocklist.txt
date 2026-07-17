@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15401
+! Total Channels: 15402
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15417,3 +15417,4 @@
 @NSM-US
 @WorkEase-c3h
 @CoreShining
+@DeepChillMusicMix
