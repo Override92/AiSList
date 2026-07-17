@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15419
+! Total Channels: 15420
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15435,3 +15435,4 @@
 @lovesportsmovie
 @TheFalloutLeo
 @FAMENOOK-d6x
+@FuriFuwa
