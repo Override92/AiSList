@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15081
+! Total Channels: 15082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15097,3 +15097,4 @@
 @yosoyespiritual
 @weattherange
 @TraumzielederWelt
+@TVSpiegelYT
