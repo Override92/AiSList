@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15277
+! Total Channels: 15278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15293,3 +15293,4 @@
 @Yongbn-p5b
 @TuduTachAiOfficial
 @TimelessEcho-u1x
+@PukhtoonBeats
