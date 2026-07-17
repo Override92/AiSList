@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15158
+! Total Channels: 15147
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4607,7 +4607,6 @@
 @21levelpl
 @thatiskarma
 @givemeromance
-@johan_andi
 @kilometroceroo
 @cuentossdepasion
 @sabiduriajudiaeterna
@@ -12748,7 +12747,6 @@
 @thepostapocalypse
 @Trilloncore
 @Cloud6-e7q
-@UntoldWhys
 @SwapnalokaOfficial
 @vanishedworldsrevealed
 @BritishManors
@@ -12816,7 +12814,6 @@
 @Grimhistoryofficial
 @memoriesreanimated
 @ShadowedHistory0011
-@SleepyOldWorld
 @Past_Historia
 @DianesWardrobe
 @TeloPintoFacil
@@ -13169,7 +13166,6 @@
 @EasySoulFunk
 @deeparchive-music
 @SuccessfulLife-v5x
-@lofinightcalm
 @lofinightcalm
 @architectureofsileo
 @PinkPantherlounge
@@ -13568,7 +13564,6 @@
 @beyondexplorer-s3r8y
 @LifeHub-z2h
 @trucksunitedyt
-@Seenbyothers-r1e
 @ronrogers
 @boristanev6693
 @USRecap
@@ -13980,7 +13975,6 @@
 @revenira
 @MoralResistance
 @Artssupremo
-@Artssupremo
 @BorderlineWonders
 @ITellComic
 @lyrafizz
@@ -14262,7 +14256,6 @@
 @ChilloutDelMar
 @goldenhourcinemaradio
 @TomandJazz-s3x
-@relaxingjazzbgm79
 @MellowCoMusic
 @MidnightBluesLounge9
 @histoire-vivante-c4k
@@ -14408,7 +14401,6 @@
 @katastrophen.offiziell
 @VerborgeneEpochen
 @Verlorene_Urspr%C3%BCnge
-@Zeitfl%C3%BCstern0
 @Zeitfl%C3%BCstern0
 @brycecarneviller
 @Geheimnisse_der_UdSSR
@@ -14588,7 +14580,6 @@
 @TinyTales1307
 @Tinyaitales6165
 @MiniVerseKitchen-p7c
-@tinytalesclips-ai
 @AbdulRashed-w4e
 @TinyTailsAIOfficial
 @minimasterchefs-208
@@ -14671,7 +14662,6 @@
 @wcnter8582
 @DesertBongoDreams
 @Static_DustHQ
-@MonkeyExplains1999
 @AmbientWorldRadio
 @TheSolaceHarp
 @NocturneCello
@@ -14916,7 +14906,6 @@
 @SoulOnVinyl
 @SoundWaveSongs
 @Seme-s
-@WarvoxStudio
 @WarvoxStudio
 @lunara_music_official
 @cng2799
