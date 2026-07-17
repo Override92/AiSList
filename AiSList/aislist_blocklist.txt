@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15367
+! Total Channels: 15368
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15383,3 +15383,4 @@
 @RumbaGuitarSpirit16
 @SoulRnBStudio
 @JazzAyoLounge
+@Playaudiothesmoothjazzchannel
