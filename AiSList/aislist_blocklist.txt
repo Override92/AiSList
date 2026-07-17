@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15166
+! Total Channels: 15170
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15184,3 +15184,7 @@
 @LumeMatrix
 @sachinofficial-m
 @Goyart.studio
+@NextUSAScene
+@CR8Vmedia
+@VisionCraftAIVCA
+@JetStyle-pl
