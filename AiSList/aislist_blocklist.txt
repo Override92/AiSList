@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15339
+! Total Channels: 15340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15355,3 +15355,4 @@
 @MasterOfChants
 @aramaicsoul
 @povestidecredinta.rugaciune
+@TheHiddenGodOfficial
