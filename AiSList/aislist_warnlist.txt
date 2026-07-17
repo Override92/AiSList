@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 731
+! Total Channels: 732
 
 ! Entries:
 @CinebotComedy
@@ -753,3 +753,4 @@
 @RealUnseenStories
 @SatisfyingLawnSL
 @aswatchsports
+@PokeyENG
