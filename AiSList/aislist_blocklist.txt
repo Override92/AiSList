@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15112
+! Total Channels: 15113
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15128,3 +15128,4 @@
 @SilentValorStories67-lmh
 @ConvalesceStories
 @SealVeterans-o1v
+@HISTORICALLOVESTORIES-r6v
