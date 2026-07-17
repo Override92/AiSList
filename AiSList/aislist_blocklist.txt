@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15427
+! Total Channels: 15428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8674,7 +8674,6 @@
 @AIAnimationHub-d3i
 @Tcorporation1
 @GhostTheboy1
-@SleepyHistoryTales-h4b
 @KrasnovMusic
 @CodeDevHQ
 @ReflexionesAncestrales
@@ -15443,3 +15442,5 @@
 @Echonest30
 @MiniChefItalia
 @AiAnimalscooking
+@сигналкратко
+@healingjourney-l2x
