@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15104
+! Total Channels: 15105
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15120,3 +15120,4 @@
 @HospitalHeartStories
 @NurseValorTales
 @MidnightCarePulse
+@EchoNurseStories
