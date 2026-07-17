@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15431
+! Total Channels: 15432
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15447,3 +15447,4 @@
 @MangaAIUniverse
 @aiclipzforyou
 @CopsLucAi
+@Soravideospov
