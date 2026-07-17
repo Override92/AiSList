@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15136
+! Total Channels: 15137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15152,3 +15152,4 @@
 @HOAHammer-t2p
 @EchoedVoices-b1u
 @HOADramaHQ
+@HOAStoryVault-s1u
