@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15059
+! Total Channels: 15058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -302,7 +302,6 @@
 @FluffyBox715
 @BauhhVv
 @funnycatvideodaily
-@DAANI-p4c
 @Goldenkitten8
 @Aimewmind00
 @thesupernaughtykitten
