@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15092
+! Total Channels: 15093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15108,3 +15108,4 @@
 @SEALDogFury
 @FirstResponderChronicles
 @UntoldWesternTales-q7c
+@HeartbeatsHardChoices
