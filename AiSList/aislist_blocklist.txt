@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15362
+! Total Channels: 15363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15378,3 +15378,4 @@
 @Xudethroughtime
 @Nameless_Ronin
 @blacklampjazz
+@CosmicStill-89
