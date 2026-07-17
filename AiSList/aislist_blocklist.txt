@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15370
+! Total Channels: 15371
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15386,3 +15386,4 @@
 @Playaudiothesmoothjazzchannel
 @YRlounge
 @bluenotejazz2
+@ZenDJRandom
