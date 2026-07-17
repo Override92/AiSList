@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15326
+! Total Channels: 15327
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15342,3 +15342,4 @@
 @PartyStudioChannel
 @atulaisong
 @germanautor
+@KeraniHembromOfficial
