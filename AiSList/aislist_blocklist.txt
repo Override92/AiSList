@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15361
+! Total Channels: 15362
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15377,3 +15377,4 @@
 @scene-explainer
 @Xudethroughtime
 @Nameless_Ronin
+@blacklampjazz
