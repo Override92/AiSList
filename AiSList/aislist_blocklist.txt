@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15085
+! Total Channels: 15086
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15101,3 +15101,4 @@
 @Epicy-k3y
 @Newmusicmader
 @YourMoneyWhatIf
+@heavymetaljukebox
