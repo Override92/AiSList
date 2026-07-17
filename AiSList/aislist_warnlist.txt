@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 733
+! Total Channels: 734
 
 ! Entries:
 @CinebotComedy
@@ -755,3 +755,4 @@
 @aswatchsports
 @PokeyENG
 @Speedexplained-r7b
+@drjohnpodcast1
