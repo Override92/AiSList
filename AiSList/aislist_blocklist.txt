@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15231
+! Total Channels: 15232
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15249,3 +15249,4 @@
 @Sadie-Winters-ai
 @EddieDaltonMusic
 @Nem-Novaeramusical
+@simoappsstore
