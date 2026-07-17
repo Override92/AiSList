@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15376
+! Total Channels: 15377
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15392,3 +15392,4 @@
 @Ukcarlegends
 @BabciaKrysiaPL
 @Rizz-Me-Up-lol
+@ClassicCarSecretsTV
