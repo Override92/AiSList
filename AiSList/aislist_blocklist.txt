@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15150
+! Total Channels: 15149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10267,7 +10267,6 @@
 @OnyxHouse-b8u
 @deepworkarchive
 @HongleMoneyOilWar
-@GeldVerstehen_7
 @empireimplosions
 @ProfessorJiangFiles
 @Smart-x9g
