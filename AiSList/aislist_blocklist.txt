@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15454
+! Total Channels: 15455
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15470,3 +15470,4 @@
 @VisualGospelAI
 @TheBibleSeminary
 @TheAIGospelProject-n4v
+@sport.ai.daily3
