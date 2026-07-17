@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15476
+! Total Channels: 15477
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15492,3 +15492,4 @@
 @the_aimarvel
 @AiCOMBO-1
 @Marvelxdca
+@AIVU_tv
