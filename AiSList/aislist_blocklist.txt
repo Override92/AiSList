@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15289
+! Total Channels: 15290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15305,3 +15305,4 @@
 @AstroSounds01
 @EchoNoirRecords
 @missannu222
+@AiSpark-h2c
