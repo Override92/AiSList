@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15176
+! Total Channels: 15177
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15192,3 +15192,4 @@
 @Iron_man_ai
 @halarabwastaken
 @ScaleWithStories
+@JaceElton
