@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15064
+! Total Channels: 15060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4076,7 +4076,6 @@
 @EspacioFemeninoNilda
 @ReinasLibres
 @Modo%C3%89xito12
-@ei_mr
 @C%C3%B3digoDeMujeres
 @Despierta_TuConsciencia
 @AmorConsciente-v4q
@@ -7829,7 +7828,6 @@
 @SekretIstnienia
 @WarfareInsightReport
 @Mi%C4%99dzygalaktycznySzept
-@donnel-i8bit
 @Proton-z1y
 @Astro_EngIIneer
 @KosmicznyAlarm
@@ -7949,7 +7947,6 @@
 @dra.annawojcik
 @midasチ
 @herenciadeldespertar
-@wealth_wisdomyt
 @theexplainer223
 @jinifam
 @MarketPrognosticator
@@ -7987,7 +7984,6 @@
 @leoknight4842
 @Kartik-q4q6h
 @JudgesClapback
-@JudgeDrama79
 @LegacyLines-d4t
 @CaprioVoices
 @Hectacon
