@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15297
+! Total Channels: 15298
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15313,3 +15313,4 @@
 @CipherTunes
 @technovideossuman3208
 @AI_Music_channel2024
+@HindiBassHubAI
