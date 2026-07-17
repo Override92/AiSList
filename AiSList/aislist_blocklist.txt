@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15065
+! Total Channels: 15060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11197,7 +11197,6 @@
 @KCSeriesNetwork
 @NebulaProphecy
 @archivesdelhistoire
-@mapleeaglenews
 @nightscrollrevengestories
 @ScoralStories
 @VelvetStories9
@@ -11285,7 +11284,6 @@
 @hooperhooperz
 @poppinlab
 @synthwaveheroes
-@nightscrollrevengetales
 @cecilovestories
 @skystories-g2n
 @rurallawstories214
@@ -11343,7 +11341,6 @@
 @EchoBeats-Tv
 @Rehobothsoundtv-j1j
 @DreamwaveTunes_Studio
-@BRAZEESONGS-LOVEE
 @PerfectHarmonyz_Fan-Page
 @BeesSymphony
 @NimbleMind-x7y
@@ -12482,7 +12479,6 @@
 @brozicodes
 @DaveAInara
 @AI_SatisfyingRealm
-@AlphabetABCShowVideos
 @nanoTalkTV_Eng
 @AIclutch001
 @LimoOfficialMusic
@@ -13909,7 +13905,6 @@
 @aifaithrecords
 @voxelresonance
 @robbinsremix
-@TheBeatForgeOfc
 @thevibehaven-d5y
 @BitTuneMusic
 @VentusZone
