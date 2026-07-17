@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15395
+! Total Channels: 15396
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15411,3 +15411,4 @@
 @AmericanLegacy-v4j
 @BLUE-07-OG
 @elitetrancemusic
+@ChromeAngelsMusic
