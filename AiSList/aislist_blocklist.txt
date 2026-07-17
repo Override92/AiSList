@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15449
+! Total Channels: 15450
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15465,3 +15465,4 @@
 @JesusBYS
 @SleepBibleMovies
 @LovesJesusVideos
+@BibleJoyKids02
