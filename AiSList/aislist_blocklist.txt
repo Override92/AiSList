@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15343
+! Total Channels: 15344
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15359,3 +15359,4 @@
 @eliforgottenways
 @Gaming-Byte
 @AmericasGlory1
+@koreandramaost6909
