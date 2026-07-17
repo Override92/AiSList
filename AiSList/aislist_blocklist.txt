@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15090
+! Total Channels: 15091
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15106,3 +15106,4 @@
 @DanielHooverMennonite
 @ColdTea19s-usa
 @SEALDogFury
+@FirstResponderChronicles
