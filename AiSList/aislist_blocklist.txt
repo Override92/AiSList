@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15393
+! Total Channels: 15394
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15409,3 +15409,4 @@
 @HOLLOWFALLEN
 @StellaMarisVR
 @AmericanLegacy-v4j
+@BLUE-07-OG
