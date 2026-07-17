@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15062
+! Total Channels: 15059
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -340,7 +340,6 @@
 @MeowMotionAi25
 @MeowMotion-t4x
 @Catsmotiom
-@hackerdsvlogs-pl4et
 @MeowMotionStories
 @MeowMotion-610
 @Meow.Motion-00
@@ -7985,7 +7984,6 @@
 @Kartik-q4q6h
 @JudgesClapback
 @LegacyLines-d4t
-@CaprioVoices
 @Hectacon
 @5TheBias
 @LawJusticeStories
@@ -12944,7 +12942,6 @@
 @Tlivor
 @Artifexclips47
 @timelineeats
-@RomanceDigest-r8o
 @CrimsonMate
 @DestinySwitch-x1o
 @ElaroviaStories-f8s
