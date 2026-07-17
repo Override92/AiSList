@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15221
+! Total Channels: 15222
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15239,3 +15239,4 @@
 @SomberTalesAI
 @SmoothRecordsDigital
 @NurdaSound
+@LearnAIDecoded
