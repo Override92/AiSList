@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15254
+! Total Channels: 15255
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15272,3 +15272,4 @@
 @IsakMus
 @NepaliMusichHub
 @7by7musicstyle
+@nordicbars
