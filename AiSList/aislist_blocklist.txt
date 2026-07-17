@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15066
+! Total Channels: 15065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11193,7 +11193,6 @@
 @CartoonsAi27
 @OmegaMidnightTales
 @MiracleAiHub
-@KLCaird
 @CatastrophesReconstitu%C3%A9es
 @KCSeriesNetwork
 @NebulaProphecy
