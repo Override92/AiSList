@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15154
+! Total Channels: 15155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15170,3 +15170,4 @@
 @AI_music_Studio_labo
 @himanchu.jp_ongaku
 @animeaicoverlabo
+@fake-music-show
