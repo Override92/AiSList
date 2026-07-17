@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15414
+! Total Channels: 15415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15430,3 +15430,4 @@
 @EyeCatching_Tech
 @GeekPsyche
 @realnorthernempire
+@autocamperexplorer90
