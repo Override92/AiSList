@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15400
+! Total Channels: 15401
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15416,3 +15416,4 @@
 @ButlerInTheFreezer
 @NSM-US
 @WorkEase-c3h
+@CoreShining
