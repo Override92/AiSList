@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15175
+! Total Channels: 15176
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15191,3 +15191,4 @@
 @SauravThakur-p7q
 @Iron_man_ai
 @halarabwastaken
+@ScaleWithStories
