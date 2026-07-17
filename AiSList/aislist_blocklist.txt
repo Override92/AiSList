@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15209
+! Total Channels: 15210
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15227,3 +15227,4 @@
 @JavedAbshar3131
 @AyatAlkitabhariini
 @FunkyMonkey-99
+@PashtoInstruments
