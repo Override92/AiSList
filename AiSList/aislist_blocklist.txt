@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15500
+! Total Channels: 15501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15516,3 +15516,4 @@
 @EpicRoadRewinds
 @StudioTK-2026
 @Magic_Soul_AI
+@isekaiplanet
