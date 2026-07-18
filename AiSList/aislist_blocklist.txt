@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15478
+! Total Channels: 15480
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9385,7 +9385,7 @@
 @TheBibleSeen
 @TheBlueprintVault_WW2
 @theforbiddentent
-@TheHardwareIndex
+@thewarbrief-0
 @TheMelodyArcade
 @Dalioframework
 @SovereignMind-1122
@@ -15494,3 +15494,5 @@
 @legendsofjazz6868
 @mooncatcafe-4t
 @kyoto雅
+@coastaljazzcafe3
+@pariscafemusette
