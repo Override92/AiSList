@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15925
+! Total Channels: 15926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15941,3 +15941,4 @@
 @SuperTheater-q3t
 @HoneyBlissFilms
 @African_Folklore_Tales
+@SovereignShortDrama
