@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15549
+! Total Channels: 15550
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15565,3 +15565,4 @@
 @AfterDarkTalesbyBun
 @HeartWingStories
 @theancientgroit
+@RootsOfWisdom-z8t
