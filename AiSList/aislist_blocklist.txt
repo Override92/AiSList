@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15804
+! Total Channels: 15805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15820,3 +15820,4 @@
 @ZenBambooMelodies
 @AncientChineseMusic68
 @TopTraditionalChineseMusic-l8y
+@ZenChineseMusic29
