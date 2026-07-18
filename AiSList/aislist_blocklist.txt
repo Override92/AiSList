@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15981
+! Total Channels: 15982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15997,3 +15997,4 @@
 @The-War-3-Signal
 @auriculardiscovery
 @CalmKeysCafe88
+@SoldiersofAlmighty
