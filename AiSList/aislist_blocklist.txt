@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15978
+! Total Channels: 15979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15994,3 +15994,4 @@
 @nickinvestsUS
 @Meshachstories
 @GMUpdate1
+@The-War-3-Signal
