@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15582
+! Total Channels: 15583
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15598,3 +15598,4 @@
 @GmgCartoonNetwork
 @AfricanDiariesZone
 @VadelaStoryVerse
+@FOLKTALESVAULT-TV
