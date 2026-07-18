@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15589
+! Total Channels: 15590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15605,3 +15605,4 @@
 @NightTales-y5i
 @WHENAFRICAWEPTFACTOR
 @Talelensdrama
+@WhisperingStarsTales
