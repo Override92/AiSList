@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15856
+! Total Channels: 15857
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15872,3 +15872,4 @@
 @ShortDrama_Time
 @ManhwaReview-eg5vr
 @SparkShortDrama
+@MoralLessonStories
