@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15672
+! Total Channels: 15673
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15688,3 +15688,4 @@
 @LifeStoryLounge-l9m
 @ForktalesWithElla
 @MedievalMelodies88
+@DailyAfricanNollywood
