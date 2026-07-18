@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16035
+! Total Channels: 16036
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16051,3 +16051,4 @@
 @SoftRevenge.us88
 @Dads_Cold_Revengeus
 @JaxsRevengeDomain
+@SassyRevenge.uss22
