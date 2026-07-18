@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15984
+! Total Channels: 15985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16000,3 +16000,4 @@
 @SoldiersofAlmighty
 @TulipRevenge.uss22
 @RetrosSurvivalTactics
+@FolktalesbyVanny
