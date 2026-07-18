@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15505
+! Total Channels: 15506
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15521,3 +15521,4 @@
 @AIDJ-t3t
 @MidnightVerse-j9x
 @Talesbyalysia
+@AfricanDigitalChronicles
