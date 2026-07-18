@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15523
+! Total Channels: 15524
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15539,3 +15539,4 @@
 @TalesbyTimmy
 @ZinaEpicTales
 @AnimationStoriesbyShey
+@SmartSindaraandFriends
