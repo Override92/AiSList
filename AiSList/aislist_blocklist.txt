@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16063
+! Total Channels: 16064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16079,3 +16079,4 @@
 @TalesAtDawn
 @Talesbythatigalaqueen
 @Aivlog19
+@Africantaless
