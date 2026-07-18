@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15764
+! Total Channels: 15765
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15780,3 +15780,4 @@
 @AKSStudios.A
 @WHISKORAMOVIES
 @emmanuelstales
+@TaleNovaAfrica
