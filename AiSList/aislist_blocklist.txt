@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15665
+! Total Channels: 15666
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15681,3 +15681,4 @@
 @Moonlighttalesbydoubled
 @AMOS33-r6m
 @jamjamtales
+@afrotalescinema
