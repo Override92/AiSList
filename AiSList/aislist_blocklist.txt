@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15927
+! Total Channels: 15928
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15943,3 +15943,4 @@
 @African_Folklore_Tales
 @SovereignShortDrama
 @mansentvus
+@PickMeManhwa
