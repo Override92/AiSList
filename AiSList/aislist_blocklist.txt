@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15817
+! Total Channels: 15818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15833,3 +15833,4 @@
 @GrandpaTaleLoomTV
 @Mymoralwonderland
 @FolktalesBySaju
+@MediacollapseYT
