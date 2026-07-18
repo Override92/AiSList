@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15820
+! Total Channels: 15821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15836,3 +15836,4 @@
 @MediacollapseYT
 @howitsmadefactories
 @BeyondFacts
+@megawealthcraft
