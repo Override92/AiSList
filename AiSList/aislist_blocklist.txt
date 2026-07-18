@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15975
+! Total Channels: 15976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15991,3 +15991,4 @@
 @TheGreenBlueprint_TGB
 @TheNot-So-DistantPast
 @TheSopranoFiles
+@nickinvestsUS
