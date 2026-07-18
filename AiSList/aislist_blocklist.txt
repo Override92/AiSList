@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15699
+! Total Channels: 15700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15715,3 +15715,4 @@
 @MoonlightandProverbsAfricanTal
 @timelesstalesbychi
 @AlakaztraWorld
+@Omasfolktalestory
