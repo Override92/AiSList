@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15892
+! Total Channels: 15893
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15908,3 +15908,4 @@
 @WorldStoriesBank
 @sivmahaprabhu
 @MiniDramaLab
+@ShineQueenDrama
