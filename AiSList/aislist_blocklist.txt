@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15977
+! Total Channels: 15978
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15993,3 +15993,4 @@
 @TheSopranoFiles
 @nickinvestsUS
 @Meshachstories
+@GMUpdate1
