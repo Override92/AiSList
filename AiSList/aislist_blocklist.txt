@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16026
+! Total Channels: 16027
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16042,3 +16042,4 @@
 @czzone-b4d
 @JumpSprinkle
 @IndigoEmeryStory
+@UrbanKingTheater
