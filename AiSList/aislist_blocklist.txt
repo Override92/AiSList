@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16087
+! Total Channels: 16088
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16103,3 +16103,4 @@
 @GroveOfStillness
 @CozyAmbientAlchemy
 @FocusAmbience-l5e
+@GameTimeUSA-1
