@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15871
+! Total Channels: 15872
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15887,3 +15887,4 @@
 @FlareMiniDrama
 @NaNaDramaNO1
 @ivietellsourstory
+@RosebudDrama
