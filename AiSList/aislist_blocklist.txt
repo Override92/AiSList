@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15902
+! Total Channels: 15903
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15918,3 +15918,4 @@
 @%E5%B1%B1%E6%B5%B7A049
 @CupidCutsDrama
 @ManhwaSenpai99
+@Pinnacle_Drama
