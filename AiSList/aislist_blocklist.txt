@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15894
+! Total Channels: 15895
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15910,3 +15910,4 @@
 @MiniDramaLab
 @ShineQueenDrama
 @CrownedDramaHub
+@CruelLoveDrama
