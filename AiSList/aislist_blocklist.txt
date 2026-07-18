@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15519
+! Total Channels: 15520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15535,3 +15535,4 @@
 @HOCTales
 @ChubbyandLekpa
 @africanfolktalestv-b8x
+@SafariStoryNetwork
