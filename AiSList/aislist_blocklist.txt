@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15574
+! Total Channels: 15575
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15590,3 +15590,4 @@
 @MiniLegendsAcademy
 @AmakaStoriesyt
 @echoesofwisdomoficiel
+@UntiltheTruthAwakens
