@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15650
+! Total Channels: 15651
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15666,3 +15666,4 @@
 @AfricanFolktalesTVbyProsper
 @Talesbymourice
 @velvethavenofficials
+@BrokenPledgeTales
