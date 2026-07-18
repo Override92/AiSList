@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15922
+! Total Channels: 15923
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15938,3 +15938,4 @@
 @GoldenShortDrama
 @Sweetlovemelody
 @OopsDrama-q8f
+@SuperTheater-q3t
