@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15909
+! Total Channels: 15910
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15925,3 +15925,4 @@
 @FastDrama-r7q
 @BriskdanDrama
 @BudiDrama8888
+@BoomDrama-m5m
