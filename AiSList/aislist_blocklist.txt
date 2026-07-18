@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16050
+! Total Channels: 16051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16066,3 +16066,4 @@
 @RemmyRetro
 @RedLabYT
 @AkatsukiAoi_virtualsinger
+@Aivlogszoo
