@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15851
+! Total Channels: 15852
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15867,3 +15867,4 @@
 @MoonRabbitWhispers
 @SweetEscapeDrama
 @CheeseTrap-xm
+@HeartbeatTheater-ID
