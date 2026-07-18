@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15577
+! Total Channels: 15578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15593,3 +15593,4 @@
 @UntiltheTruthAwakens
 @Midnightempire-v9h
 @maahenewaa
+@BrokenOathTales-m3r
