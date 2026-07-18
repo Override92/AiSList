@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 15579
+! Total Channels: 15580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15595,3 +15595,4 @@
 @maahenewaa
 @BrokenOathTales-m3r
 @ostatnigatunek
+@GmgCartoonNetwork
