@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16257
+! Total Channels: 16258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16273,3 +16273,4 @@
 @SolarVoidSpotify
 @ReactionFacts-0
 @joyleyler7955
+@10HManhwaRecap
