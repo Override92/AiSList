@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16154
+! Total Channels: 16155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16170,3 +16170,4 @@
 @InvisibleUniverse9
 @FlashDiscoveriesofficial
 @ArihantOnlineAcademy
+@ThatsHistoryChannel
