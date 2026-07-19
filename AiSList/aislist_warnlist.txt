@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 757
+! Total Channels: 758
 
 ! Entries:
 @CinebotComedy
@@ -779,3 +779,4 @@
 @FantasyMeditations
 @COREPRESS-j8r
 @Twoja-Diagnoza
+@WorldWarDeclassified
