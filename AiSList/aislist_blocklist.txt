@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16604
+! Total Channels: 16603
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7786,7 +7786,6 @@
 @StoicPsychologist
 @VintageAussieCars
 @IRONFROSTREQUIEM
-@乔恩biubiubiu
 @FogVisionFilms
 @Alexfinance99
 @TheMoneyContradiction
