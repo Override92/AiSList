@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16800
+! Total Channels: 16809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16816,3 +16816,12 @@
 @disconnected_001.mp3
 @The_Silent_TeamTST
 @FrameSyncc
+@Chill_cucumber
+@hugluk
+@TheShakedownArchives
+@MysticSwampSounds
+@HiFiExposed
+@AncientForestMelodies
+@HonestHiFi
+@LaughLearnAIStories
+@GlamGoals
