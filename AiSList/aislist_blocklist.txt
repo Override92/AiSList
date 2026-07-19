@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16330
+! Total Channels: 16331
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16346,3 +16346,4 @@
 @Beyond_Kindness
 @DadFamilyStories
 @StoicGraves
+@RealFamilySecretsHQ
