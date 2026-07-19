@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16540
+! Total Channels: 16550
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16556,3 +16556,13 @@
 @MarvelfunAi
 @FUTUREFILMS_AI
 @GALA-msc
+@Mr.AI_Cinematics
+@Infinite_AI_official
+@Pawsclouds
+@Silent-Legendss
+@chillherefm
+@KisaragiRecords
+@jazzgak
+@Archotechna
+@GatesofVortalania
+@AiMarvel-dec2025
