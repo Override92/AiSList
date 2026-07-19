@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16635
+! Total Channels: 16645
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16651,3 +16651,13 @@
 @DaddyCarson01
 @MarvelFactsAI
 @TheAllbudget
+@MarvelsAI-d1y
+@AyanKhan-kx3uo
+@MARVELAISTUDIO44
+@NaibaKhan-k3m
+@MelodyOfHeavenOfficial
+@SundaystarMarak
+@ABillionAmen
+@voice_of_jose
+@Obscurience
+@HazardousHDTV
