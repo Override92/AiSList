@@ -31,16 +31,16 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 2091 |
-| 🥈 2 | [@www2](https://github.com/www2) | 2082 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 2444 |
+| 🥈 2 | [@www2](https://github.com/www2) | 2104 |
 | 🥉 3 | [@FedupOfAI](https://github.com/FedupOfAI) | 2039 |
-| 4 | [@Thibaultmol](https://github.com/Thibaultmol) | 654 |
+| 4 | [@Thibaultmol](https://github.com/Thibaultmol) | 665 |
 | 5 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 6 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 7 | [@tomjas1963](https://github.com/tomjas1963) | 248 |
-| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 218 |
+| 7 | [@tomjas1963](https://github.com/tomjas1963) | 249 |
+| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 226 |
 | 9 | [@magikarp](https://github.com/magikarp) | 217 |
-| 10 | [@Kasumi](https://github.com/Kasumi) | 183 |
+| 10 | [@Kasumi](https://github.com/Kasumi) | 185 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
