@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16753
+! Total Channels: 16763
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16769,3 +16769,13 @@
 @OverdoseofSilent
 @VelvetChill666
 @thewhiteroom221
+@codewizardnb
+@heavymachinegun2
+@MyCareersFeed
+@sinopias
+@LosCorridosMexicanos2026
+@A.MeloFi
+@lofikeepyousafe
+@80sChartsUntold
+@shieldcart
+@EDriveNachrichtenDE
