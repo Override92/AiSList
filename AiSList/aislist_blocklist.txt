@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16402
+! Total Channels: 16412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16418,3 +16418,13 @@
 @EchoesOfTheAncestorsHQ
 @Africanstoryhaven-t6h
 @Folktale_Afr
+@Amytech-z3t
+@StorygloMedia
+@EchoesfromtheBaobabTree
+@afrojazzhorizon
+@EchoesUndertheMoon
+@laughplug254
+@AfriLoreVault-6
+@TalesByMoonlight-w3y
+@danielTaleFlow
+@Ember-i2g
