@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16134
+! Total Channels: 16135
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16150,3 +16150,4 @@
 @storivo-1
 @AussieLawExplained
 @MafiaPassionStories-r8p
+@BeyondSeoulStories26
