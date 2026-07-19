@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16162
+! Total Channels: 16163
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16178,3 +16178,4 @@
 @YieldlessHFY
 @DystopianHfyStories
 @SilenceoftheEarth
+@ScifiExplorers1
