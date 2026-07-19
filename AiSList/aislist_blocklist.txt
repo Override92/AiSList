@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16279
+! Total Channels: 16280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16295,3 +16295,4 @@
 @lostsignal.mp3
 @coff1xy
 @LowPolyDreams64
+@Boot_Sequence-p7k
