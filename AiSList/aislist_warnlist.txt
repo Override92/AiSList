@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 798
+! Total Channels: 799
 
 ! Entries:
 @CinebotComedy
@@ -820,3 +820,4 @@
 @PopIPotion
 @NoahMiller1
 @Brainosophic
+@Engiskill
