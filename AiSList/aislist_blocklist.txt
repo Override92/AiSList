@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16373
+! Total Channels: 16383
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16389,3 +16389,13 @@
 @andizoelli
 @barbariisater
 @VelmoraCave
+@ibadatfxpro
+@Ikonyc1
+@wolfout.traders
+@FinanceDecoded-c6e
+@AICodeKing
+@peterparker-7907
+@MoneyPulse-n7g
+@DepthFemaleLove
+@NexaOS
+@UnrealTrueCrime
