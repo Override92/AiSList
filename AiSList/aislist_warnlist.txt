@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 788
+! Total Channels: 789
 
 ! Entries:
 @CinebotComedy
@@ -810,3 +810,4 @@
 @selcukcelebi
 @ANNAURA.%E0%A7%8E
 @Chachachacod
+@SubtextInsider
