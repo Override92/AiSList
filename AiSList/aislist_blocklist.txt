@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16264
+! Total Channels: 16265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16280,3 +16280,4 @@
 @HeroesOfArpygia
 @LiveWeatherReport-l9z
 @HiddenGenome11
+@HeroCityRadio
