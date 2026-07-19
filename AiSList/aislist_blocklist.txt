@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16189
+! Total Channels: 16190
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16205,3 +16205,4 @@
 @kirchnershipman
 @LumosManhwaRecap
 @LC666ManhwaRecap
+@TransmigrationTales
