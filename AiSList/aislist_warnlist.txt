@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 778
+! Total Channels: 777
 
 ! Entries:
 @CinebotComedy
@@ -636,7 +636,6 @@
 @Chroniques.dupassé
 @dj58-koba
 @fireplacevideosandmore
-@happikochannel
 @RelaxMusicBGMCHANNEL
 @itsmagnii
 @piano_books
