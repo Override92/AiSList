@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16322
+! Total Channels: 16323
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16338,3 +16338,4 @@
 @TalesoftheSoil11
 @MFFarmStories
 @TheModernIntelligentFarmer
+@SnoopyJazzLounge
