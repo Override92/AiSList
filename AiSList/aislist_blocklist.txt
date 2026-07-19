@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16128
+! Total Channels: 16129
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16144,3 +16144,4 @@
 @MySketchNote
 @LisasAfricanMysteries
 @yorubadunkatv
+@go88sale
