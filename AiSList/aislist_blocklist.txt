@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16187
+! Total Channels: 16188
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16203,3 +16203,4 @@
 @Timbertimetv
 @AussieProductsUncovered
 @kirchnershipman
+@LumosManhwaRecap
