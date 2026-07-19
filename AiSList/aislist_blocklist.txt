@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16723
+! Total Channels: 16726
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16739,3 +16739,6 @@
 @TheStoicLogic-m7h
 @Mr_Stoic7_7
 @MLB%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E9%80%9F%E5%A0%B1
+@EmoshisLiveOfficial
+@Brain-Unfold-p7c
+@HurmakR
