@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16732
+! Total Channels: 16738
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16748,3 +16748,9 @@
 @Oblivion_Radio
 @InfinityEDM615
 @TheRestingBard
+@AriaNightcore
+@Deep-Space-Music
+@NowhereTravellers
+@gothicvibe001
+@SLVMLORD
+@mistsofserenity
