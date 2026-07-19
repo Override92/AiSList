@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 791
+! Total Channels: 792
 
 ! Entries:
 @CinebotComedy
@@ -813,3 +813,4 @@
 @SubtextInsider
 @SomeGuyWhoKnowsStuff
 @AthLetesLoungeTV
+@ClipRotter
