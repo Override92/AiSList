@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16700
+! Total Channels: 16701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16716,3 +16716,4 @@
 @DWH-d
 @Everdreamcastle
 @ArcaneDeer
+@LevelUpBeats-s9m
