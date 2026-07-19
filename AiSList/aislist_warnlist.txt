@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 759
+! Total Channels: 760
 
 ! Entries:
 @CinebotComedy
@@ -781,3 +781,4 @@
 @Twoja-Diagnoza
 @WorldWarDeclassified
 @LiveLeaked2
+@CourtroomReckoning1
