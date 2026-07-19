@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16655
+! Total Channels: 16658
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16671,3 +16671,6 @@
 @AiCinematicUniverse-o6w
 @MarianGraceMusic-z1y
 @AICinematicUniverseYT-t2g
+@TimelessGarageASMR
+@RestorationReborn
+@JazzwithChrist
