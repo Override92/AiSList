@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16167
+! Total Channels: 16168
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16183,3 +16183,4 @@
 @AlphaMaxDrama
 @Burning_Drama
 @lockedRecap
+@DramaAnim%C3%A9-p3u
