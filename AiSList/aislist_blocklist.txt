@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16560
+! Total Channels: 16570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16576,3 +16576,13 @@
 @MarvelAiTales
 @tolkienreflections
 @CarboniteDreams0
+@GI%C3%81PLAC%C3%80-j8k
+@CrownAndCodex
+@JesusSaysToday-x6v
+@TrueBibleStoriesDaily
+@EntombedDoc
+@HistoryUnleashedOfficial
+@zantro4you
+@duuuudy
+@OldeWorldMelodies
+@JesusMessage-f6n
