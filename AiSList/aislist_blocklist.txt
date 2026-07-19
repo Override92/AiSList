@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16609
+! Total Channels: 16619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16625,3 +16625,13 @@
 @YansenaMao
 @JesusChristfollowyt
 @DailyBreadChroniclesDBC
+@EpicTalesoftheBible
+@jesuswords-w7e
+@GodSignalToday
+@PENIELPUAH
+@ConflictCelestial
+@MourningMuse-k3y
+@CountryRockGospel-f5y
+@JesusWalksWithUsOfficial
+@DivineWarStories
+@WarriorsofChristCinematic
