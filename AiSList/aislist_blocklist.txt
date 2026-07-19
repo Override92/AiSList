@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16687
+! Total Channels: 16692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16703,3 +16703,8 @@
 @weisstdunochdamals
 @derkommandantde
 @Stylish60plus
+@zweiterfr%C3%BChling2
+@DieHighSocietyAkten
+@DubaiGeheimnisse1
+@RetroAnimeBytes
+@FrischeErnte
