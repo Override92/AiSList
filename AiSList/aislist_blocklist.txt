@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16550
+! Total Channels: 16560
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16566,3 +16566,13 @@
 @Archotechna
 @GatesofVortalania
 @AiMarvel-dec2025
+@ComeWithMe-x2c
+@AiMarvelCreation-k7l
+@MusicCans-007
+@MiratsCulinaryJourney
+@PatienceAsuquo-v7e
+@ManiMajhi_2.B
+@aimarveldc
+@MarvelAiTales
+@tolkienreflections
+@CarboniteDreams0
