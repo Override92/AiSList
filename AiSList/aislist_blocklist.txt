@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16502
+! Total Channels: 16510
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16518,3 +16518,11 @@
 @GlitchComedy-p2t
 @Visibleanyon
 @Ayvoraofficial
+@chippatents
+@Chimera2025
+@Createwithai-R2K
+@VORTEXAI081
+@Kling_ai
+@MeatingAI
+@TheAICube
+@PrefloAI
