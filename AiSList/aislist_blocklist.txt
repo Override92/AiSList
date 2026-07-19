@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16693
+! Total Channels: 16700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16709,3 +16709,10 @@
 @RetroAnimeBytes
 @FrischeErnte
 @banshinjpop
+@protogenusband
+@JaiMelodieslabs
+@EtherealNorse
+@WesternAmbient
+@DWH-d
+@Everdreamcastle
+@ArcaneDeer
