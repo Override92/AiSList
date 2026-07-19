@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16448
+! Total Channels: 16458
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16464,3 +16464,13 @@
 @Narrator-r8o
 @luchys_Storytime
 @storyteller-c7k
+@TheRealAfricanFolktales
+@SarahFranklin-h9n5x
+@StoryVerseTv-99
+@TheDailyFingerChallenge
+@caamfolktales
+@AdexStoryEmpire
+@JQAnimationsOfficial
+@BIGVIBEZENT
+@Emma8-w4k
+@gechytech
