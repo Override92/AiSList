@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16591
+! Total Channels: 16594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16607,3 +16607,6 @@
 @SHIBAMAISHORT
 @ArtInAijesus
 @TheJapaneseWorkshop
+@HazyMoodFM
+@TavernGirl
+@SpringsofSerenity
