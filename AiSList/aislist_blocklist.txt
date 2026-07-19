@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16089
+! Total Channels: 16090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16105,3 +16105,4 @@
 @FocusAmbience-l5e
 @GameTimeUSA-1
 @KeilsGarage
+@ClassicRideRevival
