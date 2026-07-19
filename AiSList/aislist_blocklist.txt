@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16832
+! Total Channels: 16833
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16848,3 +16848,4 @@
 @晚燈書敘
 @有道养生
 @南師智慧講堂
+@MiniFoodFactor
