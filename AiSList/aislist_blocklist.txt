@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16325
+! Total Channels: 16326
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16341,3 +16341,4 @@
 @SnoopyJazzLounge
 @MuMuRADIO
 @Eisen_werk
+@HiddenLoveSecrets-l7d
