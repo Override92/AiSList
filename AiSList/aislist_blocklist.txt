@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17250
+! Total Channels: 17260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17266,3 +17266,13 @@
 @tinyfoodheroes-e
 @TinyChefKitchen1
 @MiniFoodMagic10
+@MiniTinyTasty
+@TinyFoodFactory-09
+@Songbychaudhary
+@MiniatureMagicKitchen12
+@MiniFoodFactory-q1z
+@SyyyRecaps
+@Tiny.FoodFactory
+@SmallPlateStudio
+@TinyTasteStudio-e6w
+@TinyFoodBuilders-o5y
