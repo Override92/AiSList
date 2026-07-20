@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16846
+! Total Channels: 16841
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4776,7 +4776,6 @@
 @InvestiCore-v9o
 @FinSightCapital
 @TheGoldenAgeInsight
-@SavageReviewsOfficial
 @YourTechGuruOfficial
 @ZenkaiDBSYT
 @frutiger-xp
@@ -4949,7 +4948,6 @@
 @tuyetngao5518
 @HOARafiq
 @TheHOALogs
-@karenfilesus
 @nightstories3
 @TheHoatales-t4e
 @blackTale-1
@@ -14145,7 +14143,6 @@
 @wowdaylife
 @LymaEv2e
 @speedsoundtv
-@DJ_Ray_I
 @LumaBeatsStreet
 @TranceNova1
 @FantasyShortsFC
@@ -15345,7 +15342,6 @@
 @TariqKhan-ms4le
 @Nowit-b9k
 @SeniorsImmigration
-@World-Order-Brief
 @Tybeyondtech
 @ThePerfectNib
 @TheMerryTavern
@@ -15363,7 +15359,6 @@
 @SoulRnBStudio
 @JazzAyoLounge
 @Playaudiothesmoothjazzchannel
-@YRlounge
 @bluenotejazz2
 @ZenDJRandom
 @PolishPiff
