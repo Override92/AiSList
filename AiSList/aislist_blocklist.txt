@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17278
+! Total Channels: 17288
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17294,3 +17294,13 @@
 @jackpot-n7o
 @Hindi-UrduStories
 @comicstudios09
+@DogeshCinematicUniverse
+@BengkelLasEndikSteel
+@JimiCinematicUniverse
+@VickysCinematicUniverse
+@CatCinematicUniverse-r2t
+@Marvelous-r1j6u
+@GiggleGalaxy4-kids
+@editswithravi
+@cinematic.universe470
+@HistoricalCinematicUniverse
