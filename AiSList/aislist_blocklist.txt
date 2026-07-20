@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17165
+! Total Channels: 17174
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17181,3 +17181,12 @@
 @TechRiddle_yt
 @georgeslifelessons-t3p
 @%E5%BF%83%E5%8A%A8AI%E5%89%A7%E5%9C%BA
+@gaintheory2026
+@JasperNatalie-j6w
+@ExplainiaChannel
+@Ancientaches
+@DreamChasingDrama
+@ZZ-AIGC01
+@SamiqExplains
+@GAME_PULCE
+@OrigynX
