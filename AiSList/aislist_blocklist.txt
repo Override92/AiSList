@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16842
+! Total Channels: 16840
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8670,7 +8670,6 @@
 @The-Value-Compass
 @VivraAI
 @World-Explained-Hub
-@Value-Empire
 @CrisisinPerception
 @BeforeYouRegretIt-l2u
 @Noor-c3x4d
@@ -8693,7 +8692,6 @@
 @BerkshireMindset
 @Smart-Money-Blueprint-1
 @Wealth-Philosophy
-@BusinessWisdom-Hub
 @Synthetic-Sage-1
 @TheFeynmanScience
 @MagicKittenHouse
