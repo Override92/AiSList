@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16847
+! Total Channels: 16849
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16863,3 +16863,5 @@
 @Wisdom_Vault_v0
 @洗心禪語
 @曾老說智慧
+@crunchyfactory
+@economyandwarfare
