@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17361
+! Total Channels: 17367
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17377,3 +17377,9 @@
 @TinyTales-r3g
 @AlienZombieMovies
 @ValorDrama
+@FaeForestBGM
+@TirathBhao
+@BeyondtheWs
+@podcast12-o1t
+@Unknownnexus
+@DoorbellWildlifee
