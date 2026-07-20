@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17081
+! Total Channels: 17091
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17097,3 +17097,13 @@
 @BibleHiddenTruths
 @owlclandestine
 @TheDivineInterpreter
+@The_Lore_Labyrinth
+@MysticalIlluminator
+@TalesbyWandia
+@Dr.Elena.Harris
+@Semi24-w3w
+@massiveinside
+@InsidethePlant-g4d
+@Spinoza.philosophy
+@WesterosLore01
+@SecretList-q3q
