@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17130
+! Total Channels: 17140
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17146,3 +17146,13 @@
 @TheLyranPath
 @ARCWisdom_7
 @HealingAngel_7
+@ChosenLight888
+@ArchangelMichaelWisdom-f9y
+@angelmessagesnow
+@PrayerswithArchangelMichae-e4m
+@god_ambassador
+@ChosenAnointedSoul
+@HealingAngelHope777
+@GodsChosenVoice-z7v
+@GuidingFlame7
+@GuidingWhisper-h4s
