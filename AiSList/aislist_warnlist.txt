@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 835
+! Total Channels: 836
 
 ! Entries:
 @CinebotComedy
@@ -857,3 +857,4 @@
 @Acrosstheglobechannel
 @HardResetOff
 @Jud1cium
+@AviationExplained4you
