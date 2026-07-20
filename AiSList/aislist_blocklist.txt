@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17458
+! Total Channels: 17453
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1595,7 +1595,6 @@
 @wildrescueal
 @njstoryofficial
 @animalrescuemoments-g1s
-@rescuestories007
 @wild-relief
 @dogtotherescue
 @ricoshortsai
@@ -2728,7 +2727,6 @@
 @anima-411
 @aianimalkingdom31
 @catdeeth08
-@admiringcamera-sp2kx
 @aizone-03f
 @aisimplestory0708
 @ai_cat_funny_307
@@ -6204,7 +6202,6 @@
 @thenwhathappened38
 @RENTENAKTUELLDE-w8j
 @ForbiddenCamping
-@Meowgroove1
 @BlushNotes
 @chamoon-u2t
 @HOAFilesYT
@@ -11580,7 +11577,6 @@
 @melindalounge
 @roastingpodcast
 @RhythmDistrict-s8g
-@Campfiretunes-t4c
 @Toon_Beats-e6c
 @AurixTunes
 @RiseWaveStudio
@@ -15392,7 +15388,6 @@
 @KHRUSHCHEVKA24
 @HoopsCrown
 @AncientFolkMelodies
-@ultimatevisiongadgets7764
 @echosofthalvara
 @The_TechTrends
 @TechExplorer_07
