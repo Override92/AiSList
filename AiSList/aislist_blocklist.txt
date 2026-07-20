@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17335
+! Total Channels: 17336
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17351,3 +17351,4 @@
 @HollywoodArchivesID
 @WorksWiseAging
 @ElderlyHealthCareOfficial
+@UniversalLegendPro
