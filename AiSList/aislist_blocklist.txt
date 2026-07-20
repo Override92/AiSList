@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17506
+! Total Channels: 17507
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10475,7 +10475,6 @@
 @Umanoterapia
 @FrozenHuntDiaries
 @ArtisticAi2
-@maxedai
 @AnotherUniverseAI
 @BangAndezChanel
 @horizonmotionpictures
@@ -17522,3 +17521,5 @@
 @thefinancemechanism
 @HoneyBunny25299
 @TIMEVERSEx0002
+@toolstack-ai-ai
+@thesixtyclub
