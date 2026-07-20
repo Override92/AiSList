@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16880
+! Total Channels: 16890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16896,3 +16896,13 @@
 @CapObservatory
 @NewanimationYt-i2u
 @EverSoulful
+@smartbchannel
+@Athlorise
+@FarmFakten
+@SceneShotsmini
+@SiliconUnmasked
+@TalkingRealMoney
+@NotThatLongAgo
+@TheBadlyExplainer
+@HistoryWalls-k7k
+@CryptoMillionairesHD
