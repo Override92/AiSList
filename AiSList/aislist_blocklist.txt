@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17174
+! Total Channels: 17181
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17190,3 +17190,10 @@
 @SamiqExplains
 @GAME_PULCE
 @OrigynX
+@JoeExplainsEverything
+@garagetruthh
+@Bygone-j4h
+@Ruin1888
+@Thinkink187-o3j
+@StickyAnimals
+@AncientPuzzles1
