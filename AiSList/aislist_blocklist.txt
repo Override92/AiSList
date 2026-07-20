@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17023
+! Total Channels: 17033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17039,3 +17039,13 @@
 @shoppingsuccessmore3336
 @witzmonolog121
 @Duzuai
+@Knabogit
+@NanXyz9
+@PodsliceAi
+@LuckyDuckyParadise
+@E-sportians
+@ImtiazShishir360
+@TheSilentBillion
+@HelmetZoneYT
+@CapitalTheoryOff
+@Value_Addon
