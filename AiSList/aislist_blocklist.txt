@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17482
+! Total Channels: 17492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17498,3 +17498,13 @@
 @SaniyasTinyKitchen
 @TinyFoodUniverse4ever
 @AI_WorldClips
+@Doorbell.diariess
+@AHPrompt
+@ASTRAVERSE_V1
+@biskopnusantara
+@WildlandsCinematicUniverse
+@nmndhania
+@18CenturyRomanticMovieTrailers
+@LiveActionCartoonTrailers
+@60SecTrailer
+@MAICU05
