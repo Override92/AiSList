@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17101
+! Total Channels: 17111
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17117,3 +17117,13 @@
 @scripture_everyday365
 @CreepCrypt-rv4xx
 @HiddenHeroesOfFaith
+@LoFiVanSoul
+@ProphecyUpdateVideos
+@ScottRitterFiles
+@MindShiftMotivation-r3j
+@Psycho-RestorationStoicism
+@Honestvoices4
+@TheGrandfatherofWealth
+@LIFETALES-l9z
+@BibleIntensity1
+@bible_driven
