@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17501
+! Total Channels: 17503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17517,3 +17517,5 @@
 @Doorbelltapes
 @TheDoorbell-e3m
 @Jamie-kq1rz
+@Orlestra
+@BrandMeter
