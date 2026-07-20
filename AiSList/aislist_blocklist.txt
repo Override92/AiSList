@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17288
+! Total Channels: 17298
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17304,3 +17304,13 @@
 @editswithravi
 @cinematic.universe470
 @HistoricalCinematicUniverse
+@IMStudio4U
+@CinematicUniverse-b9e
+@HulkCinematicUniverse
+@rahuldedha07
+@CIPHER_UNIT
+@ExplainerReem
+@hoffcinematicuniverse
+@RobletoJosef
+@stickly92
+@SanatanCinematicUniverse0
