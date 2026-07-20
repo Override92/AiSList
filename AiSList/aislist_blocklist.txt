@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17298
+! Total Channels: 17308
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17314,3 +17314,13 @@
 @RobletoJosef
 @stickly92
 @SanatanCinematicUniverse0
+@2AMHypothesis
+@CinematicWave-v9r
+@hridayamverse
+@officialcineuniverse
+@SPCinematicUniverse
+@Bright-Psycho
+@caf%C3%A9conestoicismo
+@AurenHQ
+@Genstyk
+@Germancarssecrets
