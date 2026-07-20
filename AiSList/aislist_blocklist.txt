@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17159
+! Total Channels: 17163
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17175,3 +17175,7 @@
 @MacProTexts-l6w
 @IndustrialWorld-f4j
 @Magicmatess
+@NexForgeTv.Official
+@DARKSOUND_1
+@ChillNotesTokyo
+@TechRiddle_yt
