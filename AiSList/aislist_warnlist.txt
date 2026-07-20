@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 831
+! Total Channels: 832
 
 ! Entries:
 @CinebotComedy
@@ -853,3 +853,4 @@
 @RockOrigins.x
 @TheDarkHorizonYT
 @Create.Art_786
+@TheWorldHistoryChannel
