@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17347
+! Total Channels: 17357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17363,3 +17363,13 @@
 @DjTrivux
 @AI_Film_Forge
 @tinydream_kitchen03
+@PlotPops-l3c
+@Life_in_koreya
+@ShanhayStudio
+@ChineseBL
+@TheGhibliEchoes
+@TrueRealms01
+@FantasyAIVerse
+@AtmaArc
+@Nivazdramazz
+@StarisleAnime
