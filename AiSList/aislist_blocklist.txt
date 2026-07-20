@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17111
+! Total Channels: 17121
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17127,3 +17127,13 @@
 @LIFETALES-l9z
 @BibleIntensity1
 @bible_driven
+@KurtCobainTheHiddenLegacy
+@BibleWisdom1431
+@CosmicDream01
+@GracelyInspired
+@godourredeemer
+@JesusDailyBlessings
+@GodOurRefuge
+@FortifyinChrist
+@the.faithfulbuilder
+@shortjesusprayers
