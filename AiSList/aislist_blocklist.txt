@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17357
+! Total Channels: 17361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17373,3 +17373,7 @@
 @AtmaArc
 @Nivazdramazz
 @StarisleAnime
+@ComebackKingStudios
+@TinyTales-r3g
+@AlienZombieMovies
+@ValorDrama
