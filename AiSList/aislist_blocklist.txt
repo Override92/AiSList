@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17448
+! Total Channels: 17451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17464,3 +17464,6 @@
 @ASKLinux
 @EvoGrid
 @Golf-Equipment-Reviews
+@jheckplays6992
+@swinggolfology
+@Golfclaps
