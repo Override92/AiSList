@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 809
+! Total Channels: 810
 
 ! Entries:
 @CinebotComedy
@@ -831,3 +831,4 @@
 @BetweenusandtheMachine
 @RespiratoryTherapyZone
 @NeueZeitDE
+@CrisisDeskMedia
