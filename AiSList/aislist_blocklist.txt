@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17149
+! Total Channels: 17159
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17165,3 +17165,13 @@
 @Dr.ThomasExplains
 @TheUKTable
 @%E5%8A%87%E6%8A%93%E9%A6%AC
+@Galaxy_shortdrama
+@HistoryInsideWW2
+@SacredMystery-z8e
+@UsefulHistoryTidbits
+@30MinRecap
+@NovaSymph
+@LiminalSpaceMuzic
+@MacProTexts-l6w
+@IndustrialWorld-f4j
+@Magicmatess
