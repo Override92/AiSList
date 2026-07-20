@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 16849
+! Total Channels: 16844
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4104,7 +4104,6 @@
 @AlmaSerena-p3k
 @jonAGfinance
 @PropertyGorilla
-@SimpleCurrencyYT
 @WhatChanges
 @MARKETHISTORY-k7p
 @EconomicTruth2
@@ -4112,7 +4111,6 @@
 @BoringCurrencyLive
 @JohnAG-j8k
 @financialjohn
-@HistoFund2025
 @M%C3%A9todoWarrenBuffett
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
 @ConstructorVisionario
@@ -4381,7 +4379,6 @@
 @7plaineconomics
 @DarkMacroByJohnAG
 @PoderyMercado
-@SignalsbyJohnAG
 @ENSE%C3%91ANZASCONRAYDALIO
 @BriefingRoomm
 @WealthWiseAcademy-v8
@@ -15271,7 +15268,6 @@
 @Mustafaaimusicbg
 @RelicTunes
 @AnandTuduAiMusicHub
-@GunaPro-j6c
 @AiNagpuriOfficial
 @Yongbn-p5b
 @TuduTachAiOfficial
@@ -15285,7 +15281,6 @@
 @MotiveSoul-w9q
 @fuegobeats12
 @LoveDiaries-g4c
-@AstroSounds01
 @EchoNoirRecords
 @missannu222
 @AiSpark-h2c
