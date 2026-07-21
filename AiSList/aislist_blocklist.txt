@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17648
+! Total Channels: 17653
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17664,3 +17664,8 @@
 @GODREVEALED-7
 @Unbeviewlable
 @abrahams_wisdom
+@LostBibleSecrets
+@ChosenOnesRisingTV
+@BiblicalFacts-1
+@RiseoftheChosen777
+@WisdomInGraceUS
