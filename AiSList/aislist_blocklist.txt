@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17619
+! Total Channels: 17629
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17635,3 +17635,13 @@
 @tezaurlautaresc
 @cantecedesprit
 @formatiacreanga
+@Mk_king_0072
+@Souljoy-q12x
+@starwarschroniclesanimations
+@Alvaro_1912
+@Juke__11
+@prismstories
+@Lost_Holocrons
+@Tales-Of-Star-Wars
+@StarTap-1-u7g
+@USANewsInsider-i3s
