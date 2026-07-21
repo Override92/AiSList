@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17530
+! Total Channels: 17536
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17546,3 +17546,9 @@
 @AIshortvideo_7770
 @AIVerseHindi-11m
 @EpicMarvel-l9v
+@MarvelHeroes1010
+@airilistic
+@TinyChefFactory-y8q
+@MinicookverseAI
+@kareempodcast2
+@PodcastDanillers
