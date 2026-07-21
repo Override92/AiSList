@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17624
+! Total Channels: 17619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3557,7 +3557,6 @@
 @Dr.JavierSerrano
 @DrFernandoManochi
 @VerdadesSilenciosas-q1o
-@MindMirrorEspa%C3%B1ol
 @RelatosqueConmueven1
 @GabrielRol%C3%B3nMotivacion-e6f
 @dra.dlbadom%C3%A9nech
@@ -4015,7 +4014,6 @@
 @dravaleriamorenourologa
 @dra.isabelacortes-e3z
 @cuerpoenarmonia-q8p
-@mindmirrorespanol
 @gabrielrolonmotivacion-e6f
 @dra.dlbadomenech
 @dra.isabel_martinez
@@ -7816,7 +7814,6 @@
 @orctaleforge
 @ellegadodelacreacion
 @blackfacetrader
-@maxadmarketing
 @red-forge
 @ww2untoldsecrets
 @monkeyking143e
@@ -11785,7 +11782,6 @@
 @aisurreal1
 @Asmrforeveryone-afe
 @FoodInside-z6s
-@aitoolsbites
 @ReallyAi2026-m2h
 @SajidAliYTWala
 @TinyworldAsmr-m2f
@@ -12296,7 +12292,6 @@
 @AIASMRFlow
 @ReallyAi2026
 @SensoryFruitASMR
-@Fruitbabies26
 @SACHIN.Y72119
 @FruityAIASMR1
 @Tarasa.7001
