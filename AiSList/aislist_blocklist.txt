@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17535
+! Total Channels: 17534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14807,7 +14807,6 @@
 @PoweroftheDollarAI
 @realistkixng4990
 @SoundDynasty-c9z
-@SonicForgeAi
 @mynt.studio
 @rapcodde
 @TheeAiRemix
