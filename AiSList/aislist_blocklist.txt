@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17541
+! Total Channels: 17536
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11914,7 +11914,6 @@
 @RichBeatsAI
 @MusicVibesOfficial387
 @MakimonTune
-@countrymusicStudo
 @CalmaWave-f7m
 @PrimalGraph12
 @systmsexplained8185
@@ -15783,7 +15782,6 @@
 @TheQuietLores
 @ThatWhichHides
 @AfricanFolktalesKikuyuLege-m2j
-@oceancraftrevival
 @zamansizseslerTV
 @littleafricantales1
 @Skyfolktales
@@ -15865,7 +15863,6 @@
 @WorldStoriesBank
 @sivmahaprabhu
 @MiniDramaLab
-@ShineQueenDrama
 @CrownedDramaHub
 @CruelLoveDrama
 @BeamDrama
@@ -15894,7 +15891,6 @@
 @AfricanfolktaleswithFlo
 @GoldenShortDrama
 @Sweetlovemelody
-@OopsDrama-q8f
 @SuperTheater-q3t
 @HoneyBlissFilms
 @African_Folklore_Tales
@@ -15965,7 +15961,6 @@
 @financegurugrocery
 @NajibDigital6
 @AfricanTalesbyme-o3n
-@ambient-witch
 @focus_flow99
 @Factory__Secret-p4o
 @FactorySecret2025
