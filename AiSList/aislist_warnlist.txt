@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 839
+! Total Channels: 840
 
 ! Entries:
 @CinebotComedy
@@ -861,3 +861,4 @@
 @CrimsonDrama10
 @RoamingRamble
 @Engine_Vault16
+@TheDecoderCrime
