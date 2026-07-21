@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17536
+! Total Channels: 17537
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5406,7 +5406,6 @@
 @HeartfeltBetrayals
 @RiseAfterBetrayal
 @luckycoincidences
-@The-People-Storiess
 @SoftPowerStories98
 @netflixromanticstory
 @MaryannChioma-i7w
@@ -17552,3 +17551,5 @@
 @MinicookverseAI
 @kareempodcast2
 @PodcastDanillers
+@gistwithib
+@carlsagancosmostv
