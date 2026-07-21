@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17536
+! Total Channels: 17535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12325,7 +12325,7 @@
 @BabyBerrystudio-p3i
 @AI-ASAMR13
 @fruitybabies3d
-@tiny_nom_noms
+@funnymoments-g4c
 @SoftyASMRSA
 @TwinoAndTwina
 @ZiglooCartoons-o4r
@@ -12598,7 +12598,6 @@
 @L_MoneyStories
 @actionanimevideo
 @doctoralexytt
-@hw358chilloutbgm
 @tinyworld_escue
 @akshlearns
 @gingerkitty-s7p
