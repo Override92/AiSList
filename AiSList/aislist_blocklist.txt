@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17590
+! Total Channels: 17599
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17606,3 +17606,12 @@
 @DoorBellYT-AI
 @FunnyAIDoorbellMoments
 @AI.Doorbells
+@the_AI_Doorbell
+@CrazyDoorbellAI
+@HDslop
+@witagentai
+@BellBitsAI
+@Ringdorbellai
+@Doorbelldrama-a
+@Doorbell_Meows
+@SightBin
