@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17536
+! Total Channels: 17538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17552,3 +17552,5 @@
 @gistwithib
 @carlsagancosmostv
 @kevinolearymarketupdate
+@Midnight_Noir_0
+@gguanmusci
