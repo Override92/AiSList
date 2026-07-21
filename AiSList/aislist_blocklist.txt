@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17520
+! Total Channels: 17530
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17536,3 +17536,13 @@
 @MIDNIGHTEMPIREROCKBAND
 @AM_Digital_AI
 @AIUnpluggedindian
+@Aicr-u7w
+@marvalaishorts
+@AIStoryHindi-y5j
+@AIAnimatedStory-r5w
+@TalvoraXStudio
+@Indian_Cinematic_Universe
+@AIASMR-i5v
+@AIshortvideo_7770
+@AIVerseHindi-11m
+@EpicMarvel-l9v
