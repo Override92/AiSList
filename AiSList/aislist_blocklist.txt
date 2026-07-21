@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17509
+! Total Channels: 17520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17526,3 +17526,13 @@
 @bhaktiytaman_yog
 @semir-at
 @CaseXplain
+@DarkFrenchJazzRoom
+@NoirAudioSociety-i
+@BlueEmberJazz-r4i
+@SoulLuxe-s3b
+@JazzPassport
+@thewanderingjazz
+@nightstaticbeats
+@MIDNIGHTEMPIREROCKBAND
+@AM_Digital_AI
+@AIUnpluggedindian
