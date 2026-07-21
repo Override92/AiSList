@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17536
+! Total Channels: 17535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12309,7 +12309,6 @@
 @SFamilyShows
 @neuronest010
 @UntilYouFeelSatisfied
-@AI.FruitBabies
 @ScrollixAI
 @CozyPopAI
 @mandmsmommy05
