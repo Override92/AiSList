@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17696
+! Total Channels: 17691
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -241,7 +241,6 @@
 @goody_ai
 @Todd_AI_Animal
 @catztvfishtank
-@aishorttime
 @AprilAI.Channel
 @SuperGoodCat
 @KittenNarrative
@@ -16513,7 +16512,6 @@
 @northkoreadecoded
 @DreamClinicOfficial
 @DreamwovenTales-x2m
-@TheWorldAroundUs_07
 @LightofChrist-1111
 @AISTORYVERSE-u1h
 @MyYouTubeofBibleStories
@@ -16529,7 +16527,6 @@
 @AD369-n4w
 @SHIBAMAISHORT
 @ArtInAijesus
-@TheJapaneseWorkshop
 @HazyMoodFM
 @TavernGirl
 @SpringsofSerenity
@@ -16661,10 +16658,8 @@
 @ExistenceFold
 @elivaniavicisiti5103
 @TheStoicLogic-m7h
-@Mr_Stoic7_7
 @MLB%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E9%80%9F%E5%A0%B1
 @EmoshisLiveOfficial
-@Brain-Unfold-p7c
 @HurmakR
 @Genetic_Journeys
 @ScreenSecretsexplore
