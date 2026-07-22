@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17682
+! Total Channels: 17685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17698,3 +17698,6 @@
 @mayhongtv25
 @輝き劇場
 @心願劇社
+@dildil-t5k
+@nomdelachaine-t8o
+@endline-s
