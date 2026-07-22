@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17697
+! Total Channels: 17692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16681,7 +16681,6 @@
 @Lofiradiochillstation
 @SimpleButCurious
 @SonataCarmesi
-@SlowDaysJournal
 @FocusFlowMusic-l5c
 @therightswatcher
 @OverdoseofSilent
@@ -16690,8 +16689,6 @@
 @codewizardnb
 @heavymachinegun2
 @MyCareersFeed
-@sinopias
-@LosCorridosMexicanos2026
 @A.MeloFi
 @lofikeepyousafe
 @80sChartsUntold
@@ -16772,11 +16769,9 @@
 @DAGOLDENTOOTH
 @MichaelJacksonTheUntoldLegacy
 @vibe_anatomy
-@blackcatlounge01
 @LeezyanFinance
 @skipmatthrews5955
 @ThesisAndWealth
-@ApexNewsHub
 @SimpleMindTruths
 @awakened_in_silence
 @Wisdom_Vault_v0
