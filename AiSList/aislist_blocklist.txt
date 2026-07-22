@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17684
+! Total Channels: 17687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17700,3 +17700,6 @@
 @bruceleelegacyfanfiction
 @magneticjazzclub
 @dramaanime-p3u
+@mayhongtv25
+@輝き劇場
+@心願劇社
