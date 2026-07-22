@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17687
+! Total Channels: 17689
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17703,3 +17703,5 @@
 @cynthiastorytime001
 @decoded_investigation
 @debussy-1
+@daily_funny_reaction
+@giaplaca-j8k
