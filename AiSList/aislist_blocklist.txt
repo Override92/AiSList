@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17685
+! Total Channels: 17687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7533,7 +7533,6 @@
 @RedAlertMarkets
 @FinanceInMinutes
 @thesalehhamed
-@WrathofEmpires
 @QuotesWisdomOfficial
 @Skywalker_Stories
 @Themysteriousworldofprehistori
@@ -17701,3 +17700,6 @@
 @dildil-t5k
 @nomdelachaine-t8o
 @endline-s
+@cynthiastorytime001
+@decoded_investigation
+@debussy-1
