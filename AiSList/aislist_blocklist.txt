@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17689
+! Total Channels: 17688
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4285,7 +4285,6 @@
 @DrMarianaSeniorWellness
 @drramani-x8e
 @Dr.jocelyn
-@TheShadowLedger-e2q
 @AnoshaYoutube
 @OGJohnAG2.0-g9z
 @AxelineOfficial
