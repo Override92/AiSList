@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17695
+! Total Channels: 17692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8504,7 +8504,6 @@
 @moderndefenseglobal
 @eyepatrol_yt
 @mediaairecords
-@cosmosdepths
 @karmafailed
 @hoastoryhub-q4h
 @restorefusion
@@ -8528,7 +8527,6 @@
 @oliveshorts-yt
 @whatreallyhappened-xx
 @lasichi
-@regretsicarried
 @torahmadesimple
 @piensanciencia
 @thetrendwhisper199x
@@ -11391,7 +11389,6 @@
 @Discipline-q-n8u
 @PersianCalmMusic
 @PsychoLogic1072
-@%C5%BBycieKobietyJako
 @Psycho_Logika_1
 @BetweenPowerPassion
 @AnimeVillianious
