@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17679
+! Total Channels: 17678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8904,7 +8904,6 @@
 @Pixel_Room_bgm
 @historyrevived-official
 @Tim_Reborn_History
-@WondersEarth-e2i
 @incredhistory
 @OutfoxApocalypse
 @GrindnGroove
@@ -8942,7 +8941,6 @@
 @EchoesSoundLab
 @TokyoJazzNight
 @wowreborn
-@WildSoulRescue-1
 @Industara
 @RebuildX9
 @Buried_History_with_Jonathan
@@ -17695,3 +17693,4 @@
 @ar_channel2724
 @echoeswisdomztv
 @bubbleblissasmr01
+@pocketbalmfolktales
