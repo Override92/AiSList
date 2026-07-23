@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17677
+! Total Channels: 17679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17693,3 +17693,5 @@
 @短剧-ai
 @刷剧漫-b4f
 @thetinyvillage8
+@cafeconestoicismo
+@cute_ai_videos_for_all
