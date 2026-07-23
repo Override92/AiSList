@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17681
+! Total Channels: 17676
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16985,7 +16985,6 @@
 @GUNSSAVVY
 @Rewind.1960s
 @HiddenHomesteadEN
-@NamHaoDoan
 @channeltelos
 @TheInnerGospel
 @WeRemember-gv6oq
@@ -17006,7 +17005,6 @@
 @The_Lore_Labyrinth
 @MysticalIlluminator
 @TalesbyWandia
-@Dr.Elena.Harris
 @Semi24-w3w
 @massiveinside
 @InsidethePlant-g4d
@@ -17029,10 +17027,8 @@
 @MindShiftMotivation-r3j
 @Psycho-RestorationStoicism
 @Honestvoices4
-@TheGrandfatherofWealth
 @LIFETALES-l9z
 @BibleIntensity1
-@bible_driven
 @KurtCobainTheHiddenLegacy
 @BibleWisdom1431
 @CosmicDream01
@@ -17045,7 +17041,6 @@
 @shortjesusprayers
 @GuardianAngelBlessings
 @ThinkEnglishAcademy
-@c.slewissermons
 @ArchangelMichaelPrayersHub
 @angelmessagesjoy
 @VoiceoftheChosen-q7c
