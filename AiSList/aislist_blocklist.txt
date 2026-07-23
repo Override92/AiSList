@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17676
+! Total Channels: 17678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17692,3 +17692,5 @@
 @rosielgermin
 @358いろは
 @ෆzarah-leecutieෆ
+@劇痴迷
+@心动ai剧场
