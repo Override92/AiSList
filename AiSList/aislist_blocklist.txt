@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17686
+! Total Channels: 17681
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16925,7 +16925,6 @@
 @CarlCastillo417
 @TenderReason
 @PulseExpose
-@WarArchivesNetwork
 @thezenwaychannel
 @BibleAwakening-6
 @CR7Show-YT
@@ -16938,7 +16937,6 @@
 @LofiSignalFM
 @ForgottenAmericanMemo
 @VintageExpose1
-@CanadaBrief-news
 @TheOriginCodeOfLetters
 @MidnightVengeance-t7g
 @IconsofMetal1
@@ -16963,8 +16961,6 @@
 @USPowerAnalysis
 @VintageIndustries-g2e
 @BuyingAdvice42
-@GlobalVoltage
-@andrewcolereport
 @The_RainingRoom
 @FLOATINGADRIFTMUSIC
 @Storie.Milionarie
@@ -16983,7 +16979,6 @@
 @RevengeTiesT
 @Sunshine-z7h5l
 @LuxurySecret-772
-@TheHiddenBible-j2n
 @Hyper_Wook
 @TheStateExplorer-z4j
 @InsideWarStories
