@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17673
+! Total Channels: 17672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12509,7 +12509,6 @@
 @CarterBrooksDaily_news
 @NorthLineReportt
 @G%C3%A9oD%C3%A9cryptage-k5v
-@VelvetMafiaHearts
 @CreditSmartCanada
 @WatsaFramework
 @CloakedHistory1
