@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17686
+! Total Channels: 17681
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10132,7 +10132,6 @@
 @TheSealedRoom
 @PureEconomy
 @NinjaEconomicCollapse
-@Risingeconomy
 @BannedCampeing
 @OptimalHealthLab-e4w
 @SeniorInsight60
@@ -13192,7 +13191,6 @@
 @Teaser-Universe
 @Ai-studio80
 @GlobalAiCartoon-b
-@Mohdwahid-s5u
 @Ailife-2-z
 @StoryAi0.7-f6i
 @MoneyLens-c8i
@@ -14619,7 +14617,6 @@
 @CreativeAIIndia
 @AiCrowdOfficials
 @FILM6ai
-@NovaTrailerStudio
 @GamesReimaginedYT
 @affiliatepathai
 @FutureMovieUnivers
@@ -14630,7 +14627,6 @@
 @TimeLoomAI00
 @MissBeastAI
 @Scifiexperience
-@the_time_log
 @MiniBattlesYT
 @aiviloger-g4y
 @MysteryAIMan
@@ -15808,7 +15804,6 @@
 @africantalesbysheerah
 @folktalesorafrican
 @WorldStoriesBank
-@sivmahaprabhu
 @MiniDramaLab
 @CrownedDramaHub
 @CruelLoveDrama
