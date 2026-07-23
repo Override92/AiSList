@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17693
+! Total Channels: 17688
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6082,7 +6082,6 @@
 @RationalFrontier-h4y
 @HOAstories880
 @HoaTalesYoutubeStories
-@hoarevengestories-o2d
 @HOA_Madness_YT
 @BrightReality-v8g1v
 @HOANightmares-n1w
@@ -6340,7 +6339,6 @@
 @wieczorneopowiesci
 @zmieniajaceprzeznaczenie
 @desivlog-9y
-@mrvlogsentertainment1
 @ogjohnag2.00
 @connectioninsights
 @poweroverhistory
@@ -8637,7 +8635,6 @@
 @KrasnovMusic
 @CodeDevHQ
 @ReflexionesAncestrales
-@The-Value-Compass
 @VivraAI
 @World-Explained-Hub
 @CrisisinPerception
@@ -14205,7 +14202,6 @@
 @Golden_50s_Melody
 @healingtime6868
 @YamatoZenRelaxing
-@CinemaProtocol-m2x
 @DarkAcademiaPiano-x1e
 @ZenSamuraiMeditations
 @CalmWorkStudio-Go
@@ -16811,7 +16807,6 @@
 @heiseilover
 @HeavenLightYT
 @yunicornaiPiMPrivateAuditor
-@kryptoscode888
 @aiopenzen
 @tenembaum.mookie
 @the-REALM-X
