@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17681
+! Total Channels: 17679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5716,7 +5716,6 @@
 @qiaxai
 @Eleot-p3d
 @trippletung-i6o
-@SigmaRot_SigmaRot
 @FUNNYHOP-j9y
 @freshstart-z9l
 @DigitalStory-j2j
@@ -8874,7 +8873,6 @@
 @AIAA-Lab
 @CaseDismissedShorts
 @FactoryInsightDocs
-@IntergalacticWildlife
 @OldMoneyDocumentaries
 @FunKidsPlay-u7e
 @sideralisworks
@@ -14611,7 +14609,7 @@
 @flyght_skool
 @ArcaneTrailersofficial
 @Wealthaimind
-@AIMovieLab096
+@storytoons096
 @ViceGTAClips
 @CodePilotxStudios
 @CreativeAIIndia
