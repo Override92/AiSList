@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17693
+! Total Channels: 17692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6190,7 +6190,6 @@
 @HOAFilesYT
 @OpticExpedition
 @TheFutureTecOfficial
-@DrDavidYoggiMotivationSpeech
 @HOAJusticeVault
 @DeepBibleStories
 @ThePoweroftheWord-Official
