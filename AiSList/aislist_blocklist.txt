@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17678
+! Total Channels: 17673
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4212,10 +4212,8 @@
 @finanziellehintergr%C3%BCnde
 @MillionaireRabbi
 @secretosdelariquezajudia
-@Riqueza_Judia
 @RabbiBoazTheTorahLifeStrateg
 @kapitalenth%C3%BCllt
-@StefanInvestiert
 @prosperidadjudia8
 @Jud%C3%ADoMillonario
 @Mindplot01111
@@ -12510,7 +12508,6 @@
 @GlobalFracture-r1b
 @CarterBrooksDaily_news
 @NorthLineReportt
-@GeoWatchtowerr
 @G%C3%A9oD%C3%A9cryptage-k5v
 @VelvetMafiaHearts
 @CreditSmartCanada
@@ -12520,7 +12517,6 @@
 @pastcompass
 @VoltiqueLabs
 @fallenhifi
-@fahadjhujh2
 @dr-josephine-phelps
 @The49thDecoded
 @CanadaPoliticalWire
@@ -12545,7 +12541,6 @@
 @FrolicFactory06
 @intimateconfessionscheating
 @THEINFIDELITYCODE
-@zitusmp
 @self_improvement-p1
 @GreenOrcChronicless
 @TARUNN_ND
