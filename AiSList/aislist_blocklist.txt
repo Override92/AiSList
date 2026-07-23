@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17683
+! Total Channels: 17684
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17699,3 +17699,4 @@
 @sugoiyoohtani伝説
 @heartverseai-o2w
 @buriedtexas-z6f
+@uncoveredstories-i3w
