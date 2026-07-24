@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17672
+! Total Channels: 17669
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8155,7 +8155,6 @@
 @AIProgrammingHardware
 @MegaFactoryDiscovery
 @RoyalHush-i9s
-@Mananambience
 @CalebsConflictReport
 @TheMorningBellAI
 @Overscaled
@@ -8301,7 +8300,6 @@
 @Chefwhisper
 @CreativeAI-05
 @asmrvideoes-s5r
-@Rockidofficial
 @ROTTENAGES
 @WalterAIArt
 @only_msq
@@ -10512,7 +10510,6 @@
 @BlackCatJazzClub
 @EasyHoursLounge
 @Rovix-w4z
-@MiddleEarthUnfolded
 @AncientLoreLofi
 @AIWITHUS_06
 @oddlyaistudio
