@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17670
+! Total Channels: 17672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11987,7 +11987,6 @@
 @SilentWisdom-py
 @nostalgictunesstudio
 @visaimmigrationusa
-@curiosiumchannel
 @khanxgaming-f6r
 @ww2honorr
 @mh_finance_38
@@ -17686,3 +17685,6 @@
 @karenvideolab
 @edwinovengua123ise
 @발로차기
+@nowfifa-c2t
+@doaflipceo
+@hollywood_ai_studios
