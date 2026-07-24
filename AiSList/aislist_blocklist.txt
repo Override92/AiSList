@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17801
+! Total Channels: 17811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17817,3 +17817,13 @@
 @marfathemusic
 @JockedEuls
 @Dreamix_AI
+@GaborMakes
+@SuperstarSportsWorld.
+@217-Info24
+@TrustedTop5Picks
+@top5pickschannel
+@SmartE-Shop
+@TrustedTechPicks
+@Top5-Best-Picks
+@ComparedTools
+@artemispov
