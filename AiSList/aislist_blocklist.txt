@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17787
+! Total Channels: 17794
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17803,3 +17803,10 @@
 @TheTimelessJukebox
 @LazyBluesGuitar
 @50sRockandRoll
+@EchoesBluesVault
+@amricanarocknroll
+@AdlyRockabilly
+@QuantumFringe
+@NiniNazriRockabilly
+@JohnnyBlasePiano
+@hiddenorigins53
