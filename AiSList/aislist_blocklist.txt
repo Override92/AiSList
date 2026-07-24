@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17709
+! Total Channels: 17719
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17725,3 +17725,13 @@
 @BURNINBRIDGESAiMusic
 @RusticRoadCountry
 @bonsai-effect
+@theafterhoursplaylist
+@JazzSepia6868
+@JazzPeanuts
+@TheExpensivePart
+@TechUnfilteredleaks
+@RhythmRebels-x9i
+@froobii
+@beono_sound
+@MythsUnraveled-s5f
+@Tunesmix-q6f
