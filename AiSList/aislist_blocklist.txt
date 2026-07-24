@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17750
+! Total Channels: 17757
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17766,3 +17766,10 @@
 @donaleemusic
 @darkdreamers01
 @TheDarkBadge
+@TheForgottenTowns
+@beyondimagination777
+@hypekage
+@ParallelCourt
+@EchoTribunal
+@%E9%87%8E%E7%90%83%E3%81%AE%E5%A4%A2
+@Human-Codee
