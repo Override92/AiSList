@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17667
+! Total Channels: 17662
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8733,7 +8733,6 @@
 @VeloraStarlight
 @VisionCity7
 @TheDreamMetropolis
-@xadrezdocapital
 @MusicFilm1
 @ArenaAI-g4e
 @SuperHeroAIKH
@@ -13635,7 +13634,6 @@
 @aloneboytinku78
 @AIPromptHub-m2e
 @promptaisharefun
-@AKVlogs1544
 @AiRuinedReality
 @MyCatsx1
 @ShambhaviUGC
@@ -13796,7 +13794,6 @@
 @AudioLux-n5q
 @SkyInsightsAviationHub
 @velvettunes-j9n
-@PulseGlobal-u3n
 @VibeSynth-01
 @CuriousBrainLabofficial
 @SonantTunes
@@ -17587,11 +17584,9 @@
 @chosenones04
 @ChoseninGrace
 @GODISROARING
-@DarkJokerMindset
 @ChosenSpiritualAwakening-c7r
 @DeepAfroSleepMusic
 @neu-youtube
-@Floppojan
 @deepsignal1
 @behindthe_market
 @bruceleelegacyfanfiction
