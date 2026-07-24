@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17759
+! Total Channels: 17764
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17775,3 +17775,8 @@
 @Human-Codee
 @pattonrescript
 @TheStrategicWest
+@blackcanvasafrica
+@NocturnalRecords-1
+@marsmarsm
+@VictorianLife
+@codexloreus
