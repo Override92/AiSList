@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17794
+! Total Channels: 17793
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11871,7 +11871,6 @@
 @khmervillagelife168
 @moonlightmelodylounge-h5o
 @mundomanhwa-c5p
-@wellness.chef.senior
 @lu.lueffects
 @psicologiadelamaturez
 @biblemadesimple-nvh
