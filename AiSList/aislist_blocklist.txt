@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17740
+! Total Channels: 17735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12603,7 +12603,6 @@
 @Matt_Reconstructs_History
 @Chrono-Crunch
 @Vae-Victis-h9e
-@HistoryQuestChannel
 @CevoFilms
 @doodletv.shorts
 @Synth.Vibe_AI
@@ -13927,7 +13926,6 @@
 @oneworldaffairs
 @SeniorSavingSecrets
 @WatchMakerrs
-@TheThorneUniverse12
 @astrawayhello
 @PixelWaveSnes
 @canalelrelator
@@ -16093,7 +16091,6 @@
 @aiCatstory-j6y
 @CATAI-x1v
 @Catcooking89
-@CatTales_AI5
 @yourchefcatAI
 @CozyCatKitchenASMR
 @TheAICatKitchen
@@ -16258,7 +16255,6 @@
 @th3escape
 @FootballAftershock
 @MrSmakShorts
-@pentagontalk2
 @WarGrid-a
 @Prime_Insights_Media
 @XRP4
@@ -16283,7 +16279,6 @@
 @AfriLoreVault-6
 @TalesByMoonlight-w3y
 @danielTaleFlow
-@Ember-i2g
 @AFRICANANCIENTLESSON
 @LunaTales-k6g
 @Sisi-tomi
