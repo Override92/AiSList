@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17669
+! Total Channels: 17664
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9410,7 +9410,6 @@
 @TheTrueBrief-p6w
 @thomaskellerbrief
 @CapitolNewsReports-e6s
-@DanielBrooksReport-u6z
 @EthanColeReport
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
@@ -11875,7 +11874,6 @@
 @yalilidesertbeats
 @retirewisebulletin
 @khmervillagelife168
-@aitalkative-h1f
 @moonlightmelodylounge-h5o
 @mundomanhwa-c5p
 @wellness.chef.senior
@@ -13420,7 +13418,6 @@
 @forevernow.mp3
 @shelefftt
 @regencylovestories-en
-@brooksworldbrief-u6z
 @riadnoir
 @OldiesJazzLounge
 @FrenchJazzJournal
@@ -17545,7 +17542,6 @@
 @Lost_Holocrons
 @Tales-Of-Star-Wars
 @StarTap-1-u7g
-@USANewsInsider-i3s
 @TechTriangleOfficial
 @worldfamestories
 @MissingNumber
@@ -17561,7 +17557,6 @@
 @SmileMan1111
 @MissJenny15
 @Latestcar34
-@WarBriefsReport
 @GODREVEALED-7
 @Unbeviewlable
 @abrahams_wisdom
