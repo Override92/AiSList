@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17658
+! Total Channels: 17659
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17674,3 +17674,4 @@
 @neuralsoundwave-fan_inspired
 @moviedramaexplanation
 @novastorydrama
+@sroopsexplicadora
