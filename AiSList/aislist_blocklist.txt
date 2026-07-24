@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17661
+! Total Channels: 17659
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12392,7 +12392,6 @@
 @rebornmachinesal
 @CarsReborn
 @WarDevices
-@AeroAssemblyTV
 @RiseewithMind
 @FlintbornHumanStories
 @SteelCenturiess
@@ -13833,7 +13832,6 @@
 @NavySecrets-q6t
 @StoriesBehindEverything-j6g
 @RMF-1B
-@bikestuffhere
 @DarkHollywoodActors
 @the_rising_guy
 @ChristianNerdYT
