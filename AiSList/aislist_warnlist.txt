@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 846
+! Total Channels: 847
 
 ! Entries:
 @CinebotComedy
@@ -868,3 +868,4 @@
 @RareOldEngines
 @TheGeoAnimal
 @nfsmotorsport
+@Detailtron
