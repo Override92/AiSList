@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17871
+! Total Channels: 17881
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17887,3 +17887,13 @@
 @ThinkScienceHD
 @SilasMercerYT
 @Tajnykapita%C5%82
+@WarsztatMentalny
+@SekretyMajstra
+@FitiCiekawi
+@MovieRecast
+@RumourJuice
+@PCControlLab
+@aestheticlofimusic1
+@Admiralprise
+@RipienoSpace
+@Solarcadia
