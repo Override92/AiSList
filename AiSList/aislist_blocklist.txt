@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17830
+! Total Channels: 17837
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17846,3 +17846,10 @@
 @FactoPedia-99
 @brainbiting101
 @Arlo_Tales
+@crashteamlawyers
+@SonicaaYT
+@ChaimaChaima-c1n
+@SleepSyncOfficial
+@AITADramaDaily5
+@kingqorane8
+@LaughLoop-m6l
