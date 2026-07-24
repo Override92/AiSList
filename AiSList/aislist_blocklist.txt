@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17691
+! Total Channels: 17698
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17707,3 +17707,10 @@
 @DoodleFacts-b3p
 @ItsTheHollywoodPulse
 @returntosimple
+@HenryCapitalYT
+@majorleague.lab89
+@Ageless_Alpha
+@PsychologyReveal96
+@cosmicdrifter-unvrs
+@Svetogor-mix
+@COSSACKSua
