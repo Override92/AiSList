@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17886
+! Total Channels: 17891
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17902,3 +17902,8 @@
 @Revenant_465
 @trenchcrusademusic
 @MMTelevisions-s9z
+@tilerisofficial
+@DailyBriefsMediaYT
+@meridian_ytube
+@dr.Tomaszkowalski
+@Niespe%C5%82nionaMi%C5%82o%C5%9B%C4%87
