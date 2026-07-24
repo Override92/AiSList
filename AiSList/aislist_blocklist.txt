@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17757
+! Total Channels: 17759
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17773,3 +17773,5 @@
 @EchoTribunal
 @%E9%87%8E%E7%90%83%E3%81%AE%E5%A4%A2
 @Human-Codee
+@pattonrescript
+@TheStrategicWest
