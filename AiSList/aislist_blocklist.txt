@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17775
+! Total Channels: 17780
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17791,3 +17791,8 @@
 @bestriverrelaxing
 @SusanCCornish
 @SuccessBlueprint-r5y
+@funnyverz
+@FarFlight
+@Soul70smusic888
+@EtherWaveMusic-w8v
+@SoulChronicleRadio
