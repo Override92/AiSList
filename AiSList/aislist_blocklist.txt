@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17673
+! Total Channels: 17675
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17689,3 +17689,5 @@
 @1초컷픽
 @somedumbbchannel
 @inspiringstories24h
+@teddymusic-j4r_fan_made
+@sertanejo_por_ia
