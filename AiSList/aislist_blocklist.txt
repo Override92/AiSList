@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17705
+! Total Channels: 17709
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17721,3 +17721,7 @@
 @mersospace
 @rainyroomsounds
 @DesertBeats1
+@novivibes.youtube
+@BURNINBRIDGESAiMusic
+@RusticRoadCountry
+@bonsai-effect
