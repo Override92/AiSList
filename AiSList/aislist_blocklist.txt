@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17901
+! Total Channels: 17910
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17917,3 +17917,12 @@
 @SzeptRodzic%C3%B3w
 @universedocumentary131
 @UpadekPolskiej%C5%BBywno%C5%9Bci
+@WiseNotesDaily
+@Dzia%C5%82kowe_Patenty
+@Opowie%C5%9Bcispodserca
+@Polskie_gwiazdy
+@AlifeUntoldYT
+@Cie%C5%84Reflektor%C3%B3w
+@WW2Memories_y
+@LivesatWW2
+@deeptimedetective
