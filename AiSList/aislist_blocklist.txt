@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18031
+! Total Channels: 18041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18047,3 +18047,13 @@
 @KarisFolktales
 @ErictheStoryteller
 @olivesblueprint
+@Moonfairy1707
+@Shadowsongs28
+@VargleifTheViking
+@Skaldhildr
+@FutureMusic-j8i
+@CharacterRealLife
+@AIProductivityHacks2026
+@HistoryOfSCP
+@UCT3_oOXiINlEmP2KT68aCsw
+@ERRDAYDRIP
