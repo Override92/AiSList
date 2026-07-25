@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17975
+! Total Channels: 17985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17991,3 +17991,13 @@
 @deleteddef
 @Quantumvoice2
 @legacylooprip
+@kemetsaga
+@WildborneHQ
+@LearnBright
+@MythicalDreamz
+@worldsoflegend
+@The_OB_Music
+@sandsofeternity23
+@PharaohsNightmare
+@PastProof-pp
+@UnsolvedChronicles-w6j
