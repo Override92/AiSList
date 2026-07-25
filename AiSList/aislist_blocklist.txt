@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18041
+! Total Channels: 18051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18057,3 +18057,13 @@
 @HistoryOfSCP
 @UCT3_oOXiINlEmP2KT68aCsw
 @ERRDAYDRIP
+@Chill_girl_Vibes_bgm
+@NightFlowStories-e5
+@kingdomsatdusk
+@AcademyofAncientMyths
+@officialdeepunknown
+@SadHistorySleepy
+@NightFarer-z7k
+@A_tale_a_day
+@legendsnight-c9p
+@HistoryTheAIScrolls
