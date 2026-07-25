@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17926
+! Total Channels: 17930
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17942,3 +17942,7 @@
 @TheLuxuryMeltdown
 @Ship-Yard
 @LoveandLiesDadStories21
+@MIRAGEPHANTOMJP
+@ThreadSpillRedditStory
+@Inspiraci%C3%B3nCat%C3%B3lica-e3f
+@TaleHub-m8j
