@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17974
+! Total Channels: 17975
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17990,3 +17990,4 @@
 @HistoryRecapOfficial9091
 @deleteddef
 @Quantumvoice2
+@legacylooprip
