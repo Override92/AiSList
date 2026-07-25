@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18073
+! Total Channels: 18083
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18089,3 +18089,13 @@
 @AIAfterparty25
 @therunheim
 @FastExplainUSA
+@FJORDHEART_MUSIC
+@MidnightMythologist
+@RavenbornChants
+@TattooVibesMusic
+@ValhallaRagnarok
+@SagaForge-j4b
+@Wiking19
+@SynthRealityOfficia
+@RavennaStorm-t1z
+@northwakevikingduet
