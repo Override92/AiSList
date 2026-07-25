@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18124
+! Total Channels: 18134
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18140,3 +18140,13 @@
 @Rahexmusic
 @Jadewolfsoundscapes
 @BeyondInfiniteVeil
+@CelticSoulsMusic
+@ArmyofBagpipes
+@ValhallaEchoes-c9b
+@CelticTavernAmbience
+@YeetTheBeat161
+@MythicWoodsMusic
+@ValhallaNightsVK
+@Velkorynth
+@norseharmonies
+@spacemanbob-o8g
