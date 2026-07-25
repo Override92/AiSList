@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18005
+! Total Channels: 18015
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18021,3 +18021,13 @@
 @TheSleepingAlmanac
 @HistoryBeyondTimee
 @WorldofSounds-Vany
+@DivineMythosTV
+@MonstersMysteriesUnveiled
+@LuckyGirl-r9n
+@JesusaloneTV-b1e
+@snoozingthroughhistory
+@realmbattlestudio
+@luckystorieshub-o5g
+@TheGrokGuy
+@MythologyAnthems
+@AncientAfricanFolktales-l3y
