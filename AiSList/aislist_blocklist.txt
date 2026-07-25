@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17959
+! Total Channels: 17960
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17975,3 +17975,4 @@
 @GodsAndMythsUS
 @SundownHistorian
 @MrWebtasticOfficial
+@Julia2026-i3w
