@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17983
+! Total Channels: 17982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4673,7 +4673,6 @@
 @AbideWithin
 @whatifexplainedtv999
 @Stoicgoldentribe
-@stories-worthtelling
 @Female-Psyche-US
 @stoic-philosophy-en
 @DapperDads2025
@@ -9110,7 +9109,6 @@
 @informehardware
 @Theeconomyarchive
 @FastTrackNews01
-@FRUTINOVELASTH
 @synthwaveanddragons
 @Epic_Ascension_Music
 @historiashfyespanol-1
@@ -17999,3 +17997,4 @@
 @mythpaws
 @IronMoviesHD
 @livingmythology1405
+@draliahmadqamarji
