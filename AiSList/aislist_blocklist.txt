@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18134
+! Total Channels: 18144
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18150,3 +18150,13 @@
 @Velkorynth
 @norseharmonies
 @spacemanbob-o8g
+@S.V.M.PRODUCTION-r7r
+@Vargvegr
+@Lluctyrson
+@VoicesofMyth-t8f
+@FrostbornEcho
+@doiton.g
+@StillSanctuary-ch
+@FloSch_the_OldSchoolGeek
+@Vikingsrealm
+@Africanaidramastories
