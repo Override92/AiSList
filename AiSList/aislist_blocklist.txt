@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18015
+! Total Channels: 18025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18031,3 +18031,13 @@
 @TheGrokGuy
 @MythologyAnthems
 @AncientAfricanFolktales-l3y
+@kwachistales
+@AfricanTalesByNina
+@Folktalesstories22
+@AdaezeDrama
+@fystory237
+@NostalgicZimbo
+@clettahstudios
+@ChidinmaFrank
+@JessyDelight-g1f
+@aritessien4506
