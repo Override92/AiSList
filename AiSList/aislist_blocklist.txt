@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17911
+! Total Channels: 17906
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -973,7 +973,6 @@
 @goldenwoofhub
 @memecatstory
 @happykitten01da
-@cute-kitty-cat
 @funnycat599
 @cutecatsofyoutube1964
 @aicatstory-y1h
@@ -2323,7 +2322,6 @@
 @cartoonstudioai-b2j
 @tooncraze_cartoon
 @clawvercomedy9
-@randomcartoongroup
 @saifulaistudio-p4i
 @vairal-u5h
 @cartoonzonerm
@@ -8523,7 +8521,6 @@
 @linuxaibyadnan
 @otterLOFI-j7v
 @PalaceTruths
-@Prof.JiangSignals
 @HistoryRecreated-f9v
 @HistoryByComics
 @HouseofLunaire
@@ -14920,7 +14917,6 @@
 @ZenithPursuits
 @%E6%B4%97%E5%BF%83%E7%A6%AA%E8%AA%9E
 @%E6%9B%BE%E8%80%81%E8%AA%AA%E6%99%BA%E6%85%A7
-@PoliticalWorldNews-r2t
 @CORNELLJULEE
 @禪心之道
 @嘉誠Talk論
@@ -14941,7 +14937,6 @@
 @ColdTea19s-usa
 @SEALDogFury
 @FirstResponderChronicles
-@UntoldWesternTales-q7c
 @HeartbeatsHardChoices
 @EmergencyLegends-m8y
 @acidvelvetjazz
