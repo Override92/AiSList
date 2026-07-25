@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18144
+! Total Channels: 18148
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18160,3 +18160,7 @@
 @FloSch_the_OldSchoolGeek
 @Vikingsrealm
 @Africanaidramastories
+@AIAnimebyTGAMES
+@kidzwidzai
+@The_Factual_Ai
+@SinaiOfYeTales
