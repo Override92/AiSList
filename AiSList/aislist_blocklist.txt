@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17946
+! Total Channels: 17950
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17962,3 +17962,7 @@
 @GibertoShultz
 @%ED%95%98%EB%8A%90%EB%8B%98-r9b
 @Hero1-b7v9l
+@TheDarkMythArchive
+@History-Rest
+@OneSmallQuestion
+@mythsandmadness
