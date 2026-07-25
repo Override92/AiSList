@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18083
+! Total Channels: 18084
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18099,3 +18099,4 @@
 @SynthRealityOfficia
 @RavennaStorm-t1z
 @northwakevikingduet
+@Alternatepop
