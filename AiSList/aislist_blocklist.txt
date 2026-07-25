@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17939
+! Total Channels: 17934
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2532,7 +2532,6 @@
 @aicatfamily-p6e
 @catcute413
 @aikitten-0
-@ai_cat-op
 @aistoryhungama
 @ai_family_1
 @aianimalstories5
@@ -2991,7 +2990,6 @@
 @TheShipLine
 @ThePatelReport
 @Black_LegacyTv
-@SoldierSignal2
 @WarshipsRemembered
 @ToldUntold
 @LoreinSeconds
@@ -4255,7 +4253,6 @@
 @poliwoodanimation
 @SeniorVitalitywithDrMariana
 @DR.NORAHAYES-v4v
-@DR.NERITA
 @MensHealthOver50-60
 @nextgenwarr
 @NORGEMILIT%C3%84R
@@ -4275,7 +4272,6 @@
 @DrMarianaSeniorWellness
 @drramani-x8e
 @Dr.jocelyn
-@AnoshaYoutube
 @OGJohnAG2.0-g9z
 @AxelineOfficial
 @RykerDean445
@@ -11970,7 +11966,6 @@
 @musicrecords-k7v
 @chillmoments69
 @prayforpurpose-s
-@xtheglobalnetwork
 @tsi4455
 @aureonmusi
 @senior-money-watch
