@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17949
+! Total Channels: 17959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17965,3 +17965,13 @@
 @History-Rest
 @OneSmallQuestion
 @mythsandmadness
+@ProfessorWildfang
+@Onceuponamythh
+@BeeCurious777
+@IronandRuin
+@MythosChroniclesStories
+@MythicalTalesHaven
+@The_Grand_Tapestry_of_Belief
+@GodsAndMythsUS
+@SundownHistorian
+@MrWebtasticOfficial
