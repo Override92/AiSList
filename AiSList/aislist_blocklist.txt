@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17980
+! Total Channels: 17983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17996,3 +17996,6 @@
 @FableForgeAnimation
 @TheOAHistory
 @Digital-Age-Mythology
+@mythpaws
+@IronMoviesHD
+@livingmythology1405
