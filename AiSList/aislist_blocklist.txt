@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17909
+! Total Channels: 17919
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17925,3 +17925,13 @@
 @transportedyt
 @lorenzoarens
 @charlotteravenscroft
+@AikoKarate
+@aikosdiaryofficial
+@RootedGrace99
+@PastExplained-r6v
+@LetSteveExplain
+@OverrideHFY
+@TitanVerseHFY
+@Hfydystopian_crazy
+@HFYReckoning
+@HFYTitan-i1s
