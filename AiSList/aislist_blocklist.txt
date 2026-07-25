@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17979
+! Total Channels: 17974
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9277,7 +9277,6 @@
 @SundayClassics-m1s
 @SystemDecoded-f9h
 @xrpdailynews-h2k
-@рублеваяимперия
 @nextleveldiscovery2.0
 @golden80svibesnva
 @beyondmilitary
@@ -10753,7 +10752,6 @@
 @TheWealthBlueprint-p1h
 @TheWealthPrinciple26
 @JellyBed_ASMR
-@HubASMR-n8o
 @FuncerASMR
 @FRUITY_ISLAND
 @FruitSlashASMR
@@ -14085,7 +14083,6 @@
 @RelaxMusic-s8y
 @HavanaAfterDusk2788
 @latenightjazz6868
-@signalbrief-j4y
 @mistxplainer
 @TranquillCabinAmbience
 @GoldenRoastJazzClub
@@ -14103,7 +14100,6 @@
 @GoldenVinyl
 @vinyl.tropical
 @OffDutyCatJazz
-@VintageJazzlaty68
 @goldenmelody99
 @PureRelax
 @ZenbyBren
@@ -15319,7 +15315,6 @@
 @Marvelxdca
 @AIVU_tv
 @dieuanhkinhnghiemlode_1
-@legendsofjazz6868
 @mooncatcafe-4t
 @kyoto雅
 @coastaljazzcafe3
