@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17938
+! Total Channels: 17939
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4094,7 +4094,6 @@
 @WolffEcon%C3%B3micoAn%C3%A1lisisFan1
 @ConstructorVisionario
 @modomillonarioesp
-@FinanzasAburridasTV
 @AudiolibrosDelSaber
 @capitalhist%C3%B3ricoo
 @expedienteabierto-g4y
@@ -17954,3 +17953,5 @@
 @%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%A5%D1%80%D0%B8%D0%BA
 @WhatIfDance
 @Moralread
+@littledreamversekids
+@pulsodeloro
