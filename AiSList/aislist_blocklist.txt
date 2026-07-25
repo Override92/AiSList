@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18071
+! Total Channels: 18073
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18087,3 +18087,5 @@
 @AetherFilms-c8c
 @H3ll-btz99
 @AIAfterparty25
+@therunheim
+@FastExplainUSA
