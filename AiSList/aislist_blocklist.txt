@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18084
+! Total Channels: 18094
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18100,3 +18100,13 @@
 @RavennaStorm-t1z
 @northwakevikingduet
 @Alternatepop
+@TalesofAlandria
+@NightshadeAnthem
+@unchainedEcho-UE
+@ValhallaDominion
+@VIKINGMUSICA-y8c
+@EarthlingLior
+@Rustung25
+@jernblod
+@MortoryYT
+@DailyZen-w4o
