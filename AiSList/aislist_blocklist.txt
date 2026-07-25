@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17995
+! Total Channels: 18005
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18011,3 +18011,13 @@
 @Mythical-Storyteller1
 @OfficialVaralaruVerse
 @MythicChronos
+@TeefaTiny
+@Neter-kemet
+@EchoesofEter
+@Aliraza_1150
+@BMSoltai
+@Mythstoldme
+@MythicOriginsOfficial
+@TheSleepingAlmanac
+@HistoryBeyondTimee
+@WorldofSounds-Vany
