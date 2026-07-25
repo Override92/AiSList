@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 17985
+! Total Channels: 17995
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18001,3 +18001,13 @@
 @PharaohsNightmare
 @PastProof-pp
 @UnsolvedChronicles-w6j
+@HistoryUnlocked55-r4v
+@AllExplaineddaily
+@AncientDigitalAI
+@ageborne
+@thecatmythos
+@OriginExplorer-u3g
+@PovKingHistory
+@Mythical-Storyteller1
+@OfficialVaralaruVerse
+@MythicChronos
