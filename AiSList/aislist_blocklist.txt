@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18051
+! Total Channels: 18061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18067,3 +18067,13 @@
 @A_tale_a_day
 @legendsnight-c9p
 @HistoryTheAIScrolls
+@StarFlowerMyth
+@KahaniKalyugKi-l9p
+@AncientEmpireChronicles
+@StoryForge_Unlimited
+@Archive_Melody
+@HellenicScoreTalesOfficial
+@AIuniversehindi-f8h
+@CrazyAIShorts-o5x
+@AgniVerseAI
+@Meofunny1
