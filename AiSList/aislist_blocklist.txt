@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18151
+! Total Channels: 18152
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18167,3 +18167,4 @@
 @LostFrontier-r7b
 @ApidusLife
 @HeftyLLM
+@JapaneseAutoSecrets
