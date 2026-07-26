@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18305
+! Total Channels: 18315
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18321,3 +18321,13 @@
 @TheCelticMaiden1
 @AlasandersAIMusicVault
 @TheSoundAlchemistAI
+@aicashking
+@history1to1
+@GodsAndMonstersmyths
+@mythiclorebound
+@NordicWarEchoes
+@VIKING-VIBE
+@Eirenvale-BGM
+@JanerithDemonQueen
+@talesofilliora
+@EchoesoftheOldWorldyt
