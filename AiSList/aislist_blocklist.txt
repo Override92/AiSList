@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18184
+! Total Channels: 18194
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18200,3 +18200,13 @@
 @maqamstudio01
 @MixNovae
 @DJ-AICOVERMA
+@MelodyFactory-t7s
+@ability-ghtv-official
+@soundbeatzmusic
+@rootedinshona
+@AfroSoundLab-d6x6c
+@MaskandiVibes-p8o
+@CityRhumba
+@FlavourBEntertainment
+@rugwemedia
+@AfroVibeNation-j7z
