@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18345
+! Total Channels: 18355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18361,3 +18361,13 @@
 @machidamusic
 @OurTimemachine1972
 @OldSoul-NewVibe
+@J-POPisMetal
+@MakeUpJ-POP
+@yuhya-dayo
+@aineo69
+@resound_tokyo
+@VOCALOIDRIOT
+@AI-RecoLab
+@AI-YamadaStudio
+@AICashForge-c3u
+@Explorewith_Vidhi
