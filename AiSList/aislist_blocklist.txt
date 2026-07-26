@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18240
+! Total Channels: 18250
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18256,3 +18256,13 @@
 @TheSecretScoreLegacy
 @reddit_twist0
 @mercybiomedia
+@EdwardResurrectsHistory
+@Bodha-Origins
+@HistoryDecode6
+@TheDrowsyArchive-c
+@DreamwellNights
+@SquirrelPablo
+@TheHauntedQuill7008
+@BizflowAI-IO
+@WhatIfBetrayal
+@MostInfluentialGameGameIcons
