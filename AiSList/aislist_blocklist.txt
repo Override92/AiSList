@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18265
+! Total Channels: 18275
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18281,3 +18281,13 @@
 @ThesAIntlab
 @AfricanIgboAIStories
 @AiDigitalZone-e6v
+@DreamMorphAI_Stories
+@Everydayaik.0
+@monroe_ai
+@BigfootJungleGuyz
+@Jumpcutstories12
+@cats.planet_ai
+@AnimeAiGalaxy-r
+@Monkeyvlogar_ai
+@Aivideos_channel
+@OllieandPoco
