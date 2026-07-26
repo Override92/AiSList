@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18260
+! Total Channels: 18265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18276,3 +18276,8 @@
 @Greatsoundz-p5x
 @FlowStateTokyo_Music
 @BaobabRootsCollective
+@African_Rhythm_Journeys
+@MindCraftAI78
+@ThesAIntlab
+@AfricanIgboAIStories
+@AiDigitalZone-e6v
