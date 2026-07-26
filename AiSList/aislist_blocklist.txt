@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18161
+! Total Channels: 18160
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10054,7 +10054,6 @@
 @Famousbrandhistory
 @FiatHistory
 @ForbiddenEmberOfficial
-@foxyhistory
 @fruitstory03
 @furithappened
 @GALAXYIF
