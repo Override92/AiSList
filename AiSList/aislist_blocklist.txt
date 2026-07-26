@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18335
+! Total Channels: 18345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18351,3 +18351,13 @@
 @D.H-ha
 @JapanSong%E6%AD%8C%E3%82%B9%E3%82%AD
 @Eternal-AI-Smphony
+@LuminaEcholeaders
+@zip-sama
+@AI_RandJalues
+@NeoAIMusicLab
+@poormanz_AI
+@SUNNYDAYMUSIC0621
+@Prism-AI-mk2
+@machidamusic
+@OurTimemachine1972
+@OldSoul-NewVibe
