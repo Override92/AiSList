@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18411
+! Total Channels: 18421
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18427,3 +18427,13 @@
 @RisasenCortoOficial
 @SCPUnlocked
 @nynphie
+@MetalusPrime
+@ByteRivo
+@DeepCoreBuildsDaily
+@FrauenVitalab50
+@NobleStorybook
+@NobleLoveStories-u2k
+@Schattenlegenden-t6o
+@costofcommand
+@MafiaLegenden
+@Soul-Whisperer-MiniMelodies
