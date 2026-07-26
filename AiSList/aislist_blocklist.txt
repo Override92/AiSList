@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18157
+! Total Channels: 18164
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18173,3 +18173,10 @@
 @PlayOwnAi
 @nigerianhorror
 @vivago_ai
+@themorphverse_9
+@HiddenTheoryai-i1q
+@SolemnHourOfficial
+@HistoryhouseChannel
+@RelaxingBoringHistoryForSleep
+@Davido1vevo
+@AfricanaVoices8
