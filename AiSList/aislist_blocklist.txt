@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18295
+! Total Channels: 18305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18311,3 +18311,13 @@
 @aImagix_studioss
 @Ai_Fi
 @AdaobisafricanFolktales
+@SourabhMamar
+@bowlofai
+@Stone_Shamrock
+@SaharaEchoMusic
+@FlowSoundChill
+@ragabotai
+@MedievalTavernTunes
+@TheCelticMaiden1
+@AlasandersAIMusicVault
+@TheSoundAlchemistAI
