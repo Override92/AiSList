@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18165
+! Total Channels: 18160
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9545,7 +9545,6 @@
 @VitalityProtocol-v3s
 @TheLostBlueprint-q5u
 @RuvenHigo
-@HashtnagarGLOBALNEWS
 @SentinelGrid26
 @Recessionwarnings
 @RootsofSurvival.1
@@ -10035,7 +10034,6 @@
 @CanadianWeatherAlert
 @CanPulse360
 @ChosenRevenge
-@ConflictZone3
 @CrownofAsh-09
 @Cryptic_ChroniclesYT
 @CuriousBritain
@@ -14418,7 +14416,6 @@
 @NanoChef-q8b
 @TinyChefAI01
 @Tiny_ChefAI
-@TinyFoodBuilders-u7d
 @TinyTableAI
 @miniasmrKitchen-o8e
 @AICUTEKICHEN
@@ -17136,7 +17133,6 @@
 @SanatanUniverse-g3n
 @Surjocinematicuniverse-w6j
 @AnimalUniverse-v2z
-@TinyBuilders-h4c
 @whatif_universe573
 @iamJatinSehrawat
 @RealWorld-RealStories
@@ -17353,7 +17349,6 @@
 @TalvoraXStudio
 @Indian_Cinematic_Universe
 @AIASMR-i5v
-@AIshortvideo_7770
 @AIVerseHindi-11m
 @EpicMarvel-l9v
 @MarvelHeroes1010
