@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18155
+! Total Channels: 18156
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18171,3 +18171,4 @@
 @enestoryworld
 @jagabanmovie_recap
 @PlayOwnAi
+@nigerianhorror
