@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18160
+! Total Channels: 18155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5575,7 +5575,6 @@
 @SagaLensFilms
 @WojenneHistorie1939
 @MilGearExplainer
-@kenny-c4g7e
 @CanadaGlobalEconomics
 @SophieBennett0
 @tajemniceancestralne
@@ -10067,7 +10066,6 @@
 @InnovationUncovered
 @IronAcre
 @itsthedollarlab
-@kevinolearyfanclips
 @Kilowow-h9k
 @KindnessCornerStories
 @KnowTechGlobal
@@ -15406,7 +15404,6 @@
 @FolktalesHausa
 @logsecreto
 @MiniLegendsAcademy
-@AmakaStoriesyt
 @echoesofwisdomoficiel
 @UntiltheTruthAwakens
 @Midnightempire-v9h
@@ -15423,7 +15420,6 @@
 @NightTales-y5i
 @WHENAFRICAWEPTFACTOR
 @Talelensdrama
-@WhisperingStarsTales
 @Homeofstories-p6d
 @Timexyfolktale
 @vunted
@@ -17358,7 +17354,6 @@
 @PodcastDanillers
 @gistwithib
 @carlsagancosmostv
-@kevinolearymarketupdate
 @Midnight_Noir_0
 @gguanmusci
 @markzack1
