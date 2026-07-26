@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18393
+! Total Channels: 18392
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9195,7 +9195,6 @@
 @Machine-View-yt
 @TheAlPulse-c2f
 @AIMachMusic
-@asian-guy-official
 @anusa2k
 @tinyjoytoyland
 @motivationstoic-h9n
