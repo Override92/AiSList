@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18375
+! Total Channels: 18378
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18391,3 +18391,6 @@
 @VanishedHistoryYT
 @built.with.ai.period
 @LetMeCookExplained
+@worldclassstories
+@candyappl3ai
+@TheBrainRotBob
