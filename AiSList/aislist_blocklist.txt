@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18421
+! Total Channels: 18431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18437,3 +18437,13 @@
 @costofcommand
 @MafiaLegenden
 @Soul-Whisperer-MiniMelodies
+@ColdFamilyJustice-h2z
+@FathersFinalJustice-n7z
+@Kuon9812
+@AfterDarkBluesLounge
+@MidnightChicagoBlues-p5x
+@IndigoScenery
+@PenguinShortDrama
+@aistorystudio-usa
+@AI-DramaReel
+@suisui-h2x
