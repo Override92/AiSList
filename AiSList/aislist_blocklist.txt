@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18194
+! Total Channels: 18204
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18210,3 +18210,13 @@
 @FlavourBEntertainment
 @rugwemedia
 @AfroVibeNation-j7z
+@AfroIzzayBey
+@Malimusic_Center
+@djzitabeat
+@DiamondPulseStudios
+@cypux
+@Afrostarofficial
+@ZuluWave
+@LanternTalesforSleep
+@Long_Night_Tales
+@DreamyTimeHistory
