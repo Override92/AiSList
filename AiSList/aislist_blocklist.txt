@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18224
+! Total Channels: 18234
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18240,3 +18240,13 @@
 @TheBrassBanshees
 @EadaoinSongs
 @AILokMantra
+@SchroederLucysInspiration
+@Spiritual_guide17
+@TheRhythmOfEternity
+@Britzph
+@NativeSoulRomance
+@saharaecho-o1q
+@House_Of_Veils
+@AncestralEchoes6688
+@viematribalforge18
+@AjiphaMusic
