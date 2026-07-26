@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18204
+! Total Channels: 18214
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18220,3 +18220,13 @@
 @LanternTalesforSleep
 @Long_Night_Tales
 @DreamyTimeHistory
+@DriftThroughHistorySleep
+@NightWatchWithFrank
+@HistoryLullabySleep
+@WorldsBeforeMorning
+@SleepyHorror1
+@The_Last_Confession90s
+@SavannaPulse78
+@EchoeWaveRecords
+@UbuntuSacredVoices
+@SavannaBeatsPulse
