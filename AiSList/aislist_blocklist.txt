@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18456
+! Total Channels: 18451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8018,7 +8018,6 @@
 @VoxBotShow
 @ManufacturingAtlasOffices
 @Stikk8
-@AnimalHeroes-86
 @swiftprocess
 @MegaFactoryProcess
 @dragondrive360
@@ -14611,14 +14610,12 @@
 @EmNation-h5i
 @onlineflow7045
 @Dexmusic-b3m
-@STARVIBEZENTERTAINMENT
 @Shade45SXM
 @intromuz-ok8in
 @GangstaFlw
 @Aioldskoolrap
 @GoldenEraBeats-2
 @BlueCounty-Music
-@MarshalSoundLab
 @Westcoastchanel
 @Sould_Night
 @RealBeatz-t2k
@@ -14657,7 +14654,6 @@
 @futurecypher
 @musicblender7227
 @AshtonB-Music
-@NEXORAVIBES-g9e
 @EchoBeats-y2p
 @HollywoodRemixes
 @RapKingRecords
@@ -15936,7 +15932,6 @@
 @afrokdramastudio001
 @LawrenciaStories
 @MySketchNote
-@LisasAfricanMysteries
 @yorubadunkatv
 @EverTales-g4u
 @WhisperedMysteries1990
