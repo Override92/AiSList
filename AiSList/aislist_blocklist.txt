@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18436
+! Total Channels: 18435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12372,7 +12372,6 @@
 @ai_craft_ai
 @creditcardfox
 @presidentplaychess
-@claycurioustv
 @fathersweetrevenge
 @はなび_hanabiplaylist
 @behindtheincident-6k
