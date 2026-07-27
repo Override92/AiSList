@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18440
+! Total Channels: 18435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13623,7 +13623,6 @@
 @CloudWaveLyrics-j4g
 @EternalTunesAudio
 @Aura-x-o3r
-@faridxmusic
 @NexToneCSM
 @SadSphere
 @LyricLabNation
@@ -13641,7 +13640,6 @@
 @selenaxeminem
 @DreamlineAudioz
 @TuringTunesHub
-@BeatBot-vi
 @sensationalsound247
 @VerseMerge
 @AtlasRhythmRecords
@@ -13679,7 +13677,6 @@
 @CoreTunz
 @UrbanPopCentral
 @Auriidym
-@Bittune1
 @HitWaveMusic-c2u
 @officialneuralsoundlab
 @soundrav3
@@ -13696,7 +13693,6 @@
 @SmartRhythmAI4u
 @VortiqRecords
 @Reactifybeats
-@TunesTheory
 @TheMuse_Studio
 @Holyaltarfanmademusic
 @TunesTribe-l8b
@@ -13724,7 +13720,6 @@
 @ReggaedAway
 @NavyFutures
 @Sona_Tunes
-@AudioLux-n5q
 @SkyInsightsAviationHub
 @velvettunes-j9n
 @VibeSynth-01
