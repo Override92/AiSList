@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18452
+! Total Channels: 18447
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13869,7 +13869,6 @@
 @hypotheticalrankingyt
 @bryant837
 @k_random3
-@WilkersonDeclassified
 @P%C3%A2melaMessias-p5s
 @MadeInHistory
 @COFFRE-FORTDESURVIEINTERDIT
@@ -17656,7 +17655,6 @@
 @TheBurryFramework
 @%E7%94%B0%E4%B8%AD%E6%9C%AC%E8%88%97_%E5%88%B6%E4%BD%9C%E8%AA%B2
 @Exodusoul
-@ShadowGeoHQ
 @KhayalSound
 @donaleemusic
 @darkdreamers01
@@ -17709,8 +17707,6 @@
 @knights.of.the.revival
 @MichaelMassanelli
 @scordalus-studio
-@BackyardBirdsSecrets
-@marfathemusic
 @JockedEuls
 @Dreamix_AI
 @GaborMakes
@@ -17730,7 +17726,6 @@
 @jajajajaja-f5m
 @LeatherLies
 @TheBrandzAudit
-@theworkersplace
 @americagrows
 @wearorditch
 @Vane_Me_00
