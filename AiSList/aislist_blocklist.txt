@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18446
+! Total Channels: 18441
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4035,7 +4035,6 @@
 @renacerfemenino-nilda
 @EspacioFemeninoNilda
 @ReinasLibres
-@Modo%C3%89xito12
 @C%C3%B3digoDeMujeres
 @Despierta_TuConsciencia
 @AmorConsciente-v4q
@@ -9138,7 +9137,6 @@
 @24kontur24
 @famechronicles75
 @tinkrreviewsguides
-@themilitaryintel1
 @jumperstales
 @iubireinvestulsalbatic
 @szeptpamietniki
@@ -10905,7 +10903,6 @@
 @echomuvic
 @RockverseAI
 @J3ssn3ss_Records
-@TwistedF8band
 @MythicalVinyl
 @rockworship94
 @BEGALAB
@@ -13521,7 +13518,6 @@
 @AIstudioZtoon
 @sangiaistudio
 @ClicktheoryO
-@ai_cat_tv-09
 @MuhammadAdeel-j1d
 @PawPausReacts
 @TheWaterStudio
@@ -13626,7 +13622,6 @@
 @GenAudio-s
 @CloudWaveLyrics-j4g
 @EternalTunesAudio
-@ItsSonicTransit
 @Aura-x-o3r
 @faridxmusic
 @NexToneCSM
