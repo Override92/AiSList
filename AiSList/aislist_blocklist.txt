@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18569
+! Total Channels: 18579
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18585,3 +18585,13 @@
 @ChillQuestRPG
 @GhibliWonderland
 @BrightDestiny12
+@DecodedDailyUSA
+@prehistoricperiod-s1e
+@bapreviewphimmm
+@MysteriesOfMythology
+@VuaChuyenReview
+@odinwander
+@AcapellaJukebox
+@RootstersWorld
+@histoire-l7j
+@PalaceUncovered2
