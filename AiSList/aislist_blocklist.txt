@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18453
+! Total Channels: 18448
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17582,7 +17582,6 @@
 @ImmortalWarriorSoul
 @Biblicalexploits
 @ScriptureInHistory
-@roTaineleP%C4%83m%C3%A2ntului
 @Ysarka
 @QuickTrial
 @KarmaStrikesPorch
@@ -17603,7 +17602,6 @@
 @ItsTheHollywoodPulse
 @returntosimple
 @HenryCapitalYT
-@majorleague.lab89
 @Ageless_Alpha
 @PsychologyReveal96
 @cosmicdrifter-unvrs
@@ -17621,7 +17619,6 @@
 @RusticRoadCountry
 @bonsai-effect
 @theafterhoursplaylist
-@JazzSepia6868
 @JazzPeanuts
 @TheExpensivePart
 @TechUnfilteredleaks
@@ -17642,9 +17639,7 @@
 @ascensioncurios
 @JiangTheExplainer-e5d
 @ChanLore
-@PsychologyofHumanBehavior-i1i
 @goldencinemaclips
-@TheInvisibleUniverse1
 @Smartprocessfactory
 @Discover24hProduction
 @UltimateFactory-u7b
