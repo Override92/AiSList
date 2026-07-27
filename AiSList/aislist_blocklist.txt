@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18559
+! Total Channels: 18569
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18575,3 +18575,13 @@
 @HiddenLegendsofAmerica
 @CrimeJusticeFiles
 @overthinkers-tv
+@hoochietunes
+@ankaasound_a
+@MedievalSerenity-e1t
+@FuturisticSounds-o7
+@hiddenvibes68
+@SatisfyingJapan
+@aivanzzang
+@ChillQuestRPG
+@GhibliWonderland
+@BrightDestiny12
