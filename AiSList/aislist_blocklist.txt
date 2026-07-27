@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18449
+! Total Channels: 18451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18465,3 +18465,5 @@
 @野球の夢
 @norddeutscheharte
 @opowiescwojennasciencefiction
+@sladydawnejpolski
+@tajnykapital
