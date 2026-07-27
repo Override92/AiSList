@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18460
+! Total Channels: 18462
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18476,3 +18476,5 @@
 @dzialkowe_patenty
 @opowiescispodserca
 @cienreflektorow
+@zadziwiajacyswiatprzyrody1
+@ワンちゃんマン1
