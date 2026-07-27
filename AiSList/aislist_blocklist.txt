@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18539
+! Total Channels: 18549
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18555,3 +18555,13 @@
 @Ai_Alpha_1
 @TheResilientHomestead
 @astraleyevision
+@prayercourt
+@PikaLabsreal
+@CheepSkates-w4h
+@TrueCrimeClaude
+@TechnologyandGaming01
+@ShibuyaAfterRain1
+@GamingUnmaskedHQ
+@theanistory-b4p
+@playtenbox
+@CrashTestProducts
