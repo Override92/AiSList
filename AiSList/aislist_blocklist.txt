@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18435
+! Total Channels: 18430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8717,7 +8717,6 @@
 @Biblesecretsai
 @MarketFlowInsights
 @DailyDiscoveriesOff
-@FeynmanLegacy-e7k
 @AInimeAdventures
 @NTECH-kechuyen
 @TrackingOceanGiants
@@ -11018,7 +11017,6 @@
 @ShireSagas
 @TrailerForgeAI
 @BoyansRealmofMusic
-@ReallyQuickBooks
 @ThisSongDoesNotExist
 @mystic.dreamlands
 @lorenzobettoli1202
@@ -11173,12 +11171,10 @@
 @vocatunes
 @Rhythmciti
 @VelorionSound
-@CoolBreezeSound
 @Bittunenotes
 @NeuralMixStudio
 @lunartherapy_M
 @floqkly
-@EchoBeats-Tv
 @Rehobothsoundtv-j1j
 @DreamwaveTunes_Studio
 @PerfectHarmonyz_Fan-Page
@@ -12288,7 +12284,6 @@
 @shenharmony2798
 @SacredSummaries7
 @claymatters
-@Nyheterp%C3%A5svenska
 @ArchetypeOfPower
 @SynapticInvesting
 @brozicodes
