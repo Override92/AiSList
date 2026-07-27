@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18476
+! Total Channels: 18486
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18492,3 +18492,13 @@
 @Aurorasinclair-e9n
 @talkwonder
 @EvanInvestus
+@BritishSmallArms
+@usmarkettpulse
+@thecapitalstandard11
+@YourStreetWealth
+@BraveWorth
+@MachineSquadMS
+@EliteGun-n1o
+@BritishWarLegends
+@gunforge247
+@quynguyenvan3544
