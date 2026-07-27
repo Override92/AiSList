@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18456
+! Total Channels: 18451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7234,7 +7234,6 @@
 @donsutahadventure5594
 @whatwhyhow-rw9
 @JesusMiracles-e6i
-@jasonlouv
 @bigfootencounterstv
 @DogmanTalesYT
 @MilitaryVeteransArchives
@@ -11183,14 +11182,12 @@
 @NeonTherapymusic
 @BinaryBeatsTunes
 @SonicOrbit23
-@PixelTunesBeats
 @LunaTunes-i3p
 @COREBALLADS
 @SongDistrict-l4w
 @AUDIOCORENOIR
 @playbackrhythm4you
 @NeuralSoundwave-o8j
-@SoundNest-muzik
 @DirtRoadSessions-Ytc
 @DarkMen-01
 @FaithScript-y8l
@@ -13842,7 +13839,6 @@
 @Lumi%C3%A8redelInfo
 @ParcheminsCach%C3%A9s
 @IRONLEGACY-z5j
-@DefenseHorizon-i7o
 @TheInsiderBrief-p4d
 @TheIronFront-j3t
 @BenHodgesInsights
@@ -16220,7 +16216,6 @@
 @KambiTales
 @LampoftheHeart-x4b
 @MythicalRealities2026
-@Narrator-r8o
 @luchys_Storytime
 @storyteller-c7k
 @TheRealAfricanFolktales
