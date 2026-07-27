@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18435
+! Total Channels: 18436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18451,3 +18451,4 @@
 @cookingwithafaque
 @thegeneral-t9k
 @promiticker
+@super_ant_38
