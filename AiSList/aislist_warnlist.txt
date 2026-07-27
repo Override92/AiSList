@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 882
+! Total Channels: 883
 
 ! Entries:
 @CinebotComedy
@@ -904,3 +904,4 @@
 @BiotaArchive
 @FangPlusTail
 @SudoBitLogic
+@LasVegasDecoded
