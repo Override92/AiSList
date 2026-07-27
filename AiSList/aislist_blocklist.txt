@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18502
+! Total Channels: 18509
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18518,3 +18518,10 @@
 @DESTROYERSOUND-u3u
 @CatNapRecaps
 @lofi_metal
+@loficatpremium
+@Total_Glow
+@EveryMusicalDay
+@Void_Ambiencee
+@TheExplorer-i4x
+@YesterdaysAmericanLife
+@GoldenChapters-u5k
