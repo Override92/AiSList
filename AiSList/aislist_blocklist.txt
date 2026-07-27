@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18454
+! Total Channels: 18456
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18470,3 +18470,5 @@
 @HumanityUnleashed-US
 @SciFiFutureTales
 @TerranovexHFY
+@frontlinevector-t3o
+@ugandasuccesschannel
