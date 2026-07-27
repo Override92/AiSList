@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18454
+! Total Channels: 18449
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3543,7 +3543,6 @@
 @DrFernandoManochi
 @VerdadesSilenciosas-q1o
 @RelatosqueConmueven1
-@GabrielRol%C3%B3nMotivacion-e6f
 @dra.dlbadom%C3%A9nech
 @LaVozdelosAncestross
 @Dra.Isabel_Mart%C3%ADnez
@@ -3998,7 +3997,6 @@
 @dravaleriamorenourologa
 @dra.isabelacortes-e3z
 @cuerpoenarmonia-q8p
-@gabrielrolonmotivacion-e6f
 @dra.dlbadomenech
 @dra.isabel_martinez
 @libertadeconomicatv
@@ -4584,7 +4582,6 @@
 @cat_story-k8p
 @codigochiaraviglio
 @amorintegro
-@modoexito12
 @codigodemujeres
 @anahira-8
 @psicovision77
@@ -8049,7 +8046,6 @@
 @devMorphmedia
 @tracyzhu8515
 @NewsInsight-n8n
-@FinovaSystem
 @mistyrain1413
 @ManamisSwingBeats
 @MacroHistoryReal
@@ -9372,7 +9368,6 @@
 @Canada-Daily-Brief
 @GlobalFinanceBrief-j7y
 @HardwareBrief-1
-@TheTrueBrief-p6w
 @thomaskellerbrief
 @CapitolNewsReports-e6s
 @EthanColeReport
