@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18509
+! Total Channels: 18519
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18525,3 +18525,13 @@
 @TheExplorer-i4x
 @YesterdaysAmericanLife
 @GoldenChapters-u5k
+@PawsTunes
+@NappingOrange
+@Catnap_lofi
+@TheDailyGrindLofiCoffee
+@marbles-tone
+@SCENE-lofichillrelaxmusic-
+@CloudChasersMusic101
+@smallturtles
+@Mianbao69
+@loficafeteria
