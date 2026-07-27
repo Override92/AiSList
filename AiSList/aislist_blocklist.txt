@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18463
+! Total Channels: 18458
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -279,7 +279,6 @@
 @StoryArcPaws
 @MeowLaand
 @Catflix.taless
-@ai-meowplanet
 @Meow_Ai_Story
 @OrangeCat_799
 @MeowLifeTNMedia
@@ -340,7 +339,6 @@
 @Meow.Motion-00
 @MeowMotion531
 @AiMeowMotion11
-@Aistory3.A
 @KahaniAI-f7f
 @SherooRevenge
 @AITeluguCreations
@@ -12688,7 +12686,6 @@
 @annalouisegille-w2l
 @PsalmsoftheRose
 @MafiaBoss-e4f
-@SteelResolve212
 @WarBreedHFY
 @TheLostLedger0
 @forgotten-womens-history
@@ -17729,7 +17726,6 @@
 @americagrows
 @wearorditch
 @Vane_Me_00
-@Factory_Uncut
 @TRIWISE365
 @EXTREMEAGRICULTURE-999
 @techmap9
@@ -17794,7 +17790,6 @@
 @trenchcrusademusic
 @MMTelevisions-s9z
 @tilerisofficial
-@DailyBriefsMediaYT
 @meridian_ytube
 @dr.Tomaszkowalski
 @Niespe%C5%82nionaMi%C5%82o%C5%9B%C4%87
