@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18609
+! Total Channels: 18619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18625,3 +18625,13 @@
 @simplediscovery-p7o
 @ZerotoProduct360
 @MurtRGuitar
+@SmartGadgetsofficial-1
+@TheSillySmarts
+@sagas-series
+@FactoryTechToday
+@foodbiteking
+@BibleStoryCorner
+@misbuilt-us
+@TrendSplice-y7w
+@Gamewave-br
+@CosmicHistoria
