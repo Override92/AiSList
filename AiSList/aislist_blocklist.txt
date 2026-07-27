@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18519
+! Total Channels: 18529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18535,3 +18535,13 @@
 @smallturtles
 @Mianbao69
 @loficafeteria
+@DetectiveLofi.Official
+@LofiDudeMusic
+@BeatsBitesLondon
+@ChillChaosMusic
+@CookForYou-jp
+@Lofijunglebeats
+@ExposedBrandsUK
+@Techkrisna
+@Linuxlabaibygill
+@HoofXtrem
