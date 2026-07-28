@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18625
+! Total Channels: 18620
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4881,7 +4881,6 @@
 @SaudadeArcade
 @DraftScience
 @DailyTruthReport-g4x
-@UncoverTruthx
 @CrockettExposes
 @CuriousWick
 @Zikumikukids
@@ -9651,7 +9650,6 @@
 @kinzaman
 @CourtroomTwelve
 @ethansenginetips
-@thepropheticwatch-3.5m
 @BritishWarArmory
 @ToolsofWar-TV
 @BritishWarplanes
@@ -11940,7 +11938,6 @@
 @wowtoonhindig
 @dukesregret
 @upgowise1
-@thedailybrief-y5u
 @mercyhaven88
 @commentboy4
 @1vinn2
@@ -12485,7 +12482,6 @@
 @sagaforges
 @pueblosfantasma
 @wondersprout-j9m
-@thejungianbook
 @vietnamvet5555
 @ecos.del.evangelio-r3i
 @thereidtrack
@@ -16922,7 +16918,6 @@
 @DreamChasingDrama
 @ZZ-AIGC01
 @SamiqExplains
-@GAME_PULCE
 @OrigynX
 @JoeExplainsEverything
 @garagetruthh
