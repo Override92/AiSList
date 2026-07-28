@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18706
+! Total Channels: 18715
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18722,3 +18722,12 @@
 @BluesRockNation-r5z
 @kaiexplainsYT
 @AIFeedHQ
+@anime-music-zone
+@NightBlues4You
+@DamonsEcho
+@Cybercashcoach
+@RainforestRecon
+@LifesLesson4u
+@OutbreakSignal
+@hobbesp
+@JakeWildEx
