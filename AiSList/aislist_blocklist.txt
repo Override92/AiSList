@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18748
+! Total Channels: 18743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2806,7 +2806,6 @@
 @cataiart-y4m
 @dolluxe_zm
 @cutecat-tv_1
-@purranime
 @skaspiali
 @aicatanimatedshort32
 @aianimationcartoonworld-b1c
@@ -5443,7 +5442,6 @@
 @FeynmanReborn
 @feynmanarchives
 @EinsteinClarifies
-@FeynmansBlackboard
 @macrofold
 @BeyondPhysics-i7o
 @prayer_faith
@@ -9089,7 +9087,6 @@
 @eltronoylagloria
 @kozmio
 @dieuanhmb888
-@thegranddossierus
 @daliomindsett
 @travelwithshaidanwar
 @jacobamishsecrets
@@ -11334,7 +11331,6 @@
 @derstillezeugee
 @fruitano
 @bigrigfiles
-@risehorizon-x6d
 @manhwapast
 @cdlgeneralknowledge
 @xerrorshorts
@@ -14261,7 +14257,6 @@
 @Mind-N-Madness
 @Taurus_file
 @NewImagineStudio
-@TalkingWithPaws3
 @theXsmallLebowsky
 @Animalsmomentshorts
 @BaderAlasfour-y6z
