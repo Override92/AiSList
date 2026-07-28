@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18630
+! Total Channels: 18632
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18646,3 +18646,5 @@
 @shaizycoco
 @memenovaduck
 @fanpagepulsetunez-w4n
+@ByteKnow
+@akiyama-design
