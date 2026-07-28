@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18680
+! Total Channels: 18690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18696,3 +18696,13 @@
 @Chonkeyslittlefamily200
 @ChilCreation
 @AfricanAiStories1
+@mito.universe
+@CatskitchenR
+@aashutailgpt
+@quickai-f3q
+@AiNollywoodstories1
+@Aimonkeyoffical
+@AIWorldUnseen
+@aiworlds-mht
+@nyanrisa2
+@aicreation-d4v
