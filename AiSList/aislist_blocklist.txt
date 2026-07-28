@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18624
+! Total Channels: 18625
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18640,3 +18640,4 @@
 @mr.ajfact
 @aiknowsitall
 @terrasecrets26
+@cosmicprimetv
