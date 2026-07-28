@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18715
+! Total Channels: 18724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18731,3 +18731,12 @@
 @OutbreakSignal
 @hobbesp
 @JakeWildEx
+@MicroWild-l1t6u
+@InnovationProfessor
+@DustyRoadClassics
+@WildWestObese
+@CowboyInASuit
+@JusticeNeverSleeps-i9l
+@NebulaAudioUSA
+@InnaFrame
+@BoostLabAi123
