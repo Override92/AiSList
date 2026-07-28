@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18626
+! Total Channels: 18621
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -465,7 +465,6 @@
 @asmrcrispfruit
 @glasscutterasmr_1
 @glasscutbr
-@bestaiasmrsatisfying
 @starasmr-w6d
 @miu_ai_studio
 @ngbotsai
@@ -2422,7 +2421,6 @@
 @aicattoon-2002
 @cat_ai_8
 @catsstory-o7k
-@meowmoments-w9w
 @catadventures21
 @cutecatofmeovv
 @aicatstory-x1n
@@ -10337,7 +10335,6 @@
 @futurefactory-riad
 @tragicguy
 @slowianskaduszaprzodkow
-@heysara122
 @thepulsefootball
 @hotseatheadlines
 @RaeCinema
@@ -14916,7 +14913,6 @@
 @BriefWW2
 @kentapogo
 @fidaire
-@TheUnbuiltAtlas
 @goatshorts-i6k
 @ReJ-ROCKAICovers
 @WORLDSONGSREIMAGINED
@@ -15061,7 +15057,6 @@
 @euphoriabeatsgd
 @IndianLoveSymphony1
 @RootsRhymes-w6r
-@MotiveSoul-w9q
 @fuegobeats12
 @LoveDiaries-g4c
 @EchoNoirRecords
