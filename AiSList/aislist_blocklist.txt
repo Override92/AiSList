@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18747
+! Total Channels: 18746
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5814,7 +5814,6 @@
 @SilentTears-w5s
 @user-bo4en9vd8l
 @GwendolynsStories
-@AriasLoveLore
 @InfiniteHeartYT
 @Storytellersheart
 @SpiritUpliftStory
