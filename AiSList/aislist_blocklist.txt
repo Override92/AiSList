@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18753
+! Total Channels: 18748
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1382,7 +1382,6 @@
 @aimagicstory-f5t
 @poor_puppy_storyrk
 @greenmoment5
-@softpaws-stories
 @puppy_toon1
 @puppyemotionworld
 @pupmasti
@@ -9744,7 +9743,6 @@
 @TalesbyJazmyn
 @helenfairytales2023
 @Creat0rMusicChannel
-@SaraDailyEnglish25
 @Icytransformation66
 @krishnabhaktishorts02
 @valentinasooofficial
@@ -10222,7 +10220,6 @@
 @WerewolfBound
 @KsiazkaW3Minuty
 @TheUtimateTreks
-@TAYGlobePL
 @animeclipstalk
 @TajemnicaPrzesz%C5%82o%C5%9Bci
 @SliceOfScience
@@ -11936,7 +11933,6 @@
 @minimalist-wealthbuilder
 @3dsurrealhologramart
 @doublegopalfun
-@zerodegreechronicles
 @ChefMadd
 @soundplanet001
 @CaptureHistory-p8r
@@ -12402,7 +12398,6 @@
 @CarterBrooksDaily_news
 @NorthLineReportt
 @CreditSmartCanada
-@WatsaFramework
 @CloakedHistory1
 @IrsanRanditiya-i5w
 @pastcompass
