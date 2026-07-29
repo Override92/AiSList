@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18744
+! Total Channels: 18745
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18760,3 +18760,4 @@
 @rupert-7777
 @lonoconvencional
 @blueabysshq
+@japansong歌スキ
