@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18775
+! Total Channels: 18774
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9009,7 +9009,6 @@
 @ManBesideAi
 @ASMRCrystal
 @BellyAsmr-z2u
-@AI.madame.english
 @Fruitfulaii
 @LTDesign97
 @DHC-ASMR-Studio
