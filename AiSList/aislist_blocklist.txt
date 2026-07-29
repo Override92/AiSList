@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18750
+! Total Channels: 18752
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18766,3 +18766,5 @@
 @akov.official
 @aimusic倶楽部
 @須野高校軽音部
+@twistedafricanfolktaleafrhc
+@factwithmashwani
