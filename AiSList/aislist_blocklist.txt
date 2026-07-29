@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18773
+! Total Channels: 18768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8180,7 +8180,6 @@
 @Z%C5%82otyWiekPolski
 @GrandpaExplainsHistory
 @CourtofthePeople-l4c
-@G%C5%82osWolno%C5%9BciOfficial
 @SekretySzpitala1
 @WojennyObraz
 @BliznyiDy%C5%BCury
@@ -8284,7 +8283,6 @@
 @oldgold-studio
 @bogobjawiony
 @zlotywiekpolski
-@gloswolnosciofficial
 @bliznyidyzury
 @silyzbrojne-d3f
 @dr.pawelseniorhealth
@@ -8784,7 +8782,6 @@
 @marianatorresytt
 @49threport
 @brighttoylearning
-@johnagupdates-s5g
 @longevidad_maculina
 @dulsuccess
 @MacroLens-d2s
@@ -9341,7 +9338,6 @@
 @SeoulFlowAI
 @linuxaistudio
 @NightPsalms-h5v
-@PowerBench123
 @ReasonOverRituals
 @BlackoutBriefing-b1j
 @BriefKnows
@@ -14719,7 +14715,6 @@
 @CITYPOP198X-z
 @VEILTUNE
 @EpicPokeMusic
-@usaretires
 @AI_Verse_Music
 @J-POP-AI-MetalCover
 @AstridFrost-c2n
