@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18774
+! Total Channels: 18777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18790,3 +18790,6 @@
 @DiscoveryKnowledge76
 @ScienceSun-b4r
 @civilexplained-ce
+@theodorewalton-i2k
+@simpson_explains
+@humanoriginslabs
