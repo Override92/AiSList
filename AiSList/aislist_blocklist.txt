@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18764
+! Total Channels: 18767
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18780,3 +18780,6 @@
 @Dziennik_Hrabiny
 @EduardMiastaHistorii
 @FinNews_Now
+@kidsstories-h2m
+@officialmanufaktory
+@TheFactoran
