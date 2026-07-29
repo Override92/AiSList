@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18757
+! Total Channels: 18764
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18773,3 +18773,10 @@
 @HonoriZemsta
 @AIfilmPL
 @FarmToShopTV
+@GwenaelleLagarde-r6g
+@VMJEntertainment
+@quote_motivation_official
+@Ci%C4%99%C5%BCkie_Czasy
+@Dziennik_Hrabiny
+@EduardMiastaHistorii
+@FinNews_Now
