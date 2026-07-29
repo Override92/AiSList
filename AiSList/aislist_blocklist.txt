@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18777
+! Total Channels: 18775
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11327,7 +11327,6 @@
 @bigrigfiles
 @manhwapast
 @cdlgeneralknowledge
-@xerrorshorts
 @antversetv
 @밤의음악실-w3m
 @モナカの音楽室
@@ -12333,7 +12332,7 @@
 @ai-laughlab
 @pikupalanpur
 @urlove.hon3y786
-@ai_craft_ai
+@nature_reborn-1
 @creditcardfox
 @presidentplaychess
 @fathersweetrevenge
@@ -13270,7 +13269,6 @@
 @BabyBitesAI-c2z
 @aiLifestory02
 @MiniFoodAi
-@TinyVerseAI-12
 @AIMBW01
 @AIMiniWorlds
 @AITinyASMR
