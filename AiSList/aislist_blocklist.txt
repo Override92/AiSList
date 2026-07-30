@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19020
+! Total Channels: 19030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19036,3 +19036,13 @@
 @AuraVerse_Studios
 @Doorbell-c8k
 @BiscuitsKitchenAI
+@SagarSingh-q7e2m
+@LetTour360Travel
+@EmilysTimeVault
+@Mikotoons7
+@Cinematic_Univerx
+@PremVSHistory
+@RingDoorbellShenanigans
+@afterworldcinema
+@A.I.BoxOffice
+@LittleChefStories-26
