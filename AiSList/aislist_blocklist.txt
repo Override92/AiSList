@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19137
+! Total Channels: 19136
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4358,7 +4358,6 @@
 @PropheticColumns
 @PrimeNarrative-Official
 @RestfulWealth
-@TheAncientAnomalies
 @marketpulsedaily68
 @TwoNationHistory
 @stories4361
@@ -4483,7 +4482,6 @@
 @SimpleFinanceTom
 @MarbleZoid_world
 @HerocamAI
-@TheCurrencyWarning
 @TheHiddenEconomyTV-h8f
 @MotherFolktales
 @FineMetalsOfficial
@@ -19153,3 +19151,4 @@
 @PrajuritSilangDimensiAI
 @godsmoonlightmessage
 @relatosehistoriasdelcorazon
+@лихие_90-е
