@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19050
+! Total Channels: 19060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19066,3 +19066,13 @@
 @marvel_A.i0
 @MovieAiTrailers
 @Shortsmakerx0o
+@HiddenOrigins-h6w
+@UnbelievableTruths-v28
+@LocumIntegration
+@rajpootcinematicstudio
+@TinyVillageDollKitchenStories
+@Arnavcinematicuniverse
+@ZemzyZee
+@hybridlorecinema
+@DoorbellZoo-Ai
+@FunStory-i8r
