@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18827
+! Total Channels: 18822
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -289,7 +289,6 @@
 @LilyVideoAi
 @Transformationthroughai
 @MeowMagicLabmeowmagiclabgmail
-@kitten-ai.cat.786
 @kittyaistory6
 @smartpetvideoai
 @MeowverseAI-g9s
@@ -889,7 +888,6 @@
 @aicatshort2
 @aishorts-j6b
 @cataishorts0406
-@super-catverse
 @catsjoourney
 @thecatbonds
 @zupercats
@@ -2285,7 +2283,6 @@
 @funnycat-9
 @meowcreativeworld
 @cutiepiecatss
-@catmeow-f8q
 @cataivideos111
 @nirufunnyai
 @aimeowshort52
@@ -18454,9 +18451,7 @@
 @CRYPTOMOLOGY
 @AbandonedMotors
 @enemy_archives
-@tradgelegacy
 @EightysTapeNights
-@NEOFM-e7o
 @DESTROYERSOUND-u3u
 @CatNapRecaps
 @lofi_metal
