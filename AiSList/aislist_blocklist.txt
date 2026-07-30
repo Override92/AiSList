@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19080
+! Total Channels: 19090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19096,3 +19096,13 @@
 @DesiGlitchAI
 @CrazyAIChef
 @tinyfood_creations
+@Impossible-Museum
+@soradoorbell9
+@Ajpodcasts88
+@TheNighgDoorbellCamera
+@TimeTwistHub
+@Doorbellvidzz
+@AetherTrailers
+@ANIMETRAXX
+@TheSatisfyyLab
+@VFXby-AI
