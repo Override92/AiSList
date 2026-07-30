@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18856
+! Total Channels: 18866
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18872,3 +18872,13 @@
 @FusionMaster921
 @BlackPaperTV
 @MiniChefWorld.23
+@realisticAIstoriesFaraz
+@MiniDish_World
+@INSCITinyKitchen
+@TinyFoodWorld-k3m
+@minifoodieeee
+@tinyTinyfoodbabies
+@Yumeframes.global
+@Hamidpodcast
+@QYRAXA
+@AnsanityAI
