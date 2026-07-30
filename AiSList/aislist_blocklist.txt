@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18846
+! Total Channels: 18856
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18862,3 +18862,13 @@
 @CinematicUniverse-u8i
 @AnimeVerseWorld-y7o
 @Moonvail_luna
+@CINE_VERSE_AI
+@CinewinCinematics
+@marvelhulkure
+@MarvelFight-t4d
+@Marveleditz011
+@MARVEL_Editor_2025
+@AiMovieTrailerz
+@FusionMaster921
+@BlackPaperTV
+@MiniChefWorld.23
