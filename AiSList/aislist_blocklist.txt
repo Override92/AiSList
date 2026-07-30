@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19142
+! Total Channels: 19137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3397,7 +3397,6 @@
 @THE-EmpireCycles
 @China-Silver-Alert
 @TheWealthContinuum
-@marioexplainsthings
 @psychology_facts
 @Dark-mind-psychology24
 @DarkPsychologyCoded
@@ -3599,7 +3598,6 @@
 @SaludIntegral-n3d
 @StrongSeniors365
 @BioWellnessZone
-@HealthBite-1M
 @CarVerse
 @noorFatima-z5m8j
 @RevlineMedia-t9b
@@ -4484,7 +4482,6 @@
 @GizzyTech
 @SimpleFinanceTom
 @MarbleZoid_world
-@thefoodshow587
 @HerocamAI
 @TheCurrencyWarning
 @TheHiddenEconomyTV-h8f
@@ -18500,9 +18497,7 @@
 @irinmoss9010
 @PunktKrytyczny-d8t
 @OdkryteSekretyBushcraftuRetro
-@MondeSup%C3%A9rieur
 @HiddenLegendsofAmerica
-@CrimeJusticeFiles
 @overthinkers-tv
 @hoochietunes
 @ankaasound_a
