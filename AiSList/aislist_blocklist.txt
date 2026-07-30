@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18770
+! Total Channels: 18765
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7692,7 +7692,6 @@
 @CampingCodex
 @2446ization
 @PrimeYearsVitality
-@MakeThatChange_AI
 @Reploid-X9
 @SheerHDPV
 @o-sodox
@@ -8347,7 +8346,6 @@
 @AutoScope.1-s8s
 @TurboTailsQuest
 @NextGenProcessVault
-@theokingkong2024
 @GOLDFABLE
 @GroovyMascots66
 @HerStoicMind-c5o
@@ -13643,7 +13641,6 @@
 @TheMuse_Studio
 @Holyaltarfanmademusic
 @TunesTribe-l8b
-@HitWaveSounds
 @RapRevived
 @PulseLyricsVibe
 @Sofflowin
@@ -16112,7 +16109,6 @@
 @FootballAftershock
 @MrSmakShorts
 @WarGrid-a
-@Prime_Insights_Media
 @XRP4
 @Modtease
 @Quirktvv
@@ -17586,7 +17582,6 @@
 @esotericguardian
 @AmbienceDreamscape
 @EpicScroll-83
-@WarInsight360news
 @ascensioncurios
 @JiangTheExplainer-e5d
 @ChanLore
