@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18785
+! Total Channels: 18795
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18801,3 +18801,13 @@
 @pszcoder
 @ailaray.aiinfluencerelite
 @DelightMindAI
+@AIandChips
+@BlazeOfficiallYT
+@PHILIPDIBOSATV
+@livin_in_Japantv
+@theslopfeed
+@FlightDealHunter-o4k
+@HeAskedWhat
+@therealem0011
+@SmileAnimationWorld_9
+@Aiwander-7
