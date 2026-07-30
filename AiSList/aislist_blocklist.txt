@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18980
+! Total Channels: 18990
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18996,3 +18996,13 @@
 @AntiqraLegacy
 @flickerfilmai
 @AlexThroughTime-c8k
+@US.CINEMA
+@Miniaturefood20
+@Ultimatehealer
+@TheTbonesSlice
+@shri-krishna-podcast
+@SynopticWorlds
+@Ring-cam-ai1
+@Doorbellgonewildd
+@TheviarldoorAI
+@CinematicAiStories-i4
