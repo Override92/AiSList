@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18970
+! Total Channels: 18980
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18986,3 +18986,13 @@
 @a.i_worlds
 @FammaVSHistory
 @DesiMarvelCinematicUniverse
+@AICraftCinema-m5i
+@AurexTrailers
+@Ruleofthedead-ZombieWorld
+@miniaturefooddoll
+@LaughNoJutsuOfficial
+@TinyFoodFactoryAi
+@ItsDeepSleepPodcast
+@AntiqraLegacy
+@flickerfilmai
+@AlexThroughTime-c8k
