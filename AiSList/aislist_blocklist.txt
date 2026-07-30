@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18941
+! Total Channels: 18950
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18957,3 +18957,12 @@
 @srwcinematic
 @Yomstudio-c8f
 @Cinestoryuniverse
+@DogeshCU
+@PromptLabNow
+@MarioObiektyw
+@tinyfoodlab-i8f
+@Tiny-food-factory6
+@LostAndForgottenPlaces
+@LostCodexOfficial
+@TheMarvelLab-o6m
+@Marvalmitra-k10
