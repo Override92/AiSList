@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18805
+! Total Channels: 18815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18821,3 +18821,13 @@
 @Story-Verse-05
 @TheAILab-t8w
 @CravingsOfficial
+@tingtingtravels
+@The_NorthPoint
+@RoyalEmpireStories
+@LateNightArgument
+@TheAwkwardHourYT
+@ThaiXtremeHub
+@TheNightShiftPod-k6d
+@UKSpotlight-k4g
+@CrownInsight-w3o
+@zenvoratalk-r9b
