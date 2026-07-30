@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19140
+! Total Channels: 19135
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4487,7 +4487,6 @@
 @FineMetalsOfficial
 @SamodzielnyInwestor
 @business_outlook
-@NOBLEBUILLIONNEWS.0
 @RichDuckInvests
 @HarrysStealthWealth
 @wymazane
@@ -4731,8 +4730,6 @@
 @KNmoneytalks
 @MetalMindFinance
 @MrAG_Asian_Guy
-@JohnAGSilverInvestor
-@FinancialUpdates7
 @cashyandledger-l8m
 @KENZO-OFFICAL19
 @RayDalio-n1n
@@ -4744,7 +4741,6 @@
 @CryptocurrencyandWeb32025
 @HarringtonSilverReport
 @PropenomAIx
-@CigarBlues
 @PsyDubMusic
 @DeepFocusGroove-e2w
 @PAISATRACKER
@@ -15058,7 +15054,6 @@
 @eliforgottenways
 @Gaming-Byte
 @AmericasGlory1
-@koreandramaost6909
 @sproutmanproductions
 @VideoVault2024
 @Noxen00008
