@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19060
+! Total Channels: 19070
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19076,3 +19076,13 @@
 @hybridlorecinema
 @DoorbellZoo-Ai
 @FunStory-i8r
+@NeuralNonsense-x
+@VishuChaostudios
+@AuremTales
+@DoorbellVods
+@MARVELBTS-AI
+@TinyFoodTales-p2p
+@Tinytaleskitchen
+@EasyEnglishStories-v2d
+@Knowz7
+@TheBLVCKSHEEP-w7h
