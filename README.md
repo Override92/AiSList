@@ -37,8 +37,8 @@ Don't forget to set your username in the settings.
 | 4 | [@Thibaultmol](https://github.com/Thibaultmol) | 1298 |
 | 5 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 6 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 7 | [@tomjas1963](https://github.com/tomjas1963) | 266 |
-| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 257 |
+| 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 269 |
+| 8 | [@tomjas1963](https://github.com/tomjas1963) | 266 |
 | 9 | [@magikarp](https://github.com/magikarp) | 217 |
 | 10 | [@Kasumi](https://github.com/Kasumi) | 195 |
 
