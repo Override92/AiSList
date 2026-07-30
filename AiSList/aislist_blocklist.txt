@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 18815
+! Total Channels: 18823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18831,3 +18831,11 @@
 @UKSpotlight-k4g
 @CrownInsight-w3o
 @zenvoratalk-r9b
+@TheShockVerdict
+@FallenAmericaFM
+@SundayStoriesHQ
+@nathannarrator1
+@TheDimonAnalysis-i1v
+@AliAkbar-u9l1u
+@Blazzze1504
+@GoPhysify
