@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19135
+! Total Channels: 19130
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5827,7 +5827,6 @@
 @ExtraordinarystoriesHQ
 @lilywritesstuff
 @BandarApnaDost
-@TheFeynmanParadox-t5d
 @OJeitoFeynmandePensar
 @FeynmanThoughts-i4r
 @StorySalad
@@ -6137,7 +6136,6 @@
 @LogikaCia%C5%82a
 @%C5%9AladyKopyt
 @Hubble_plpl
-@NotiFlash-v8p
 @GeoGlobal360
 @PuntodeConflicto1
 @KwantowyOdkrywca
@@ -6215,7 +6213,6 @@
 @MetalPrompt
 @BriefingDeck
 @IronLensBodycam
-@canadatomorrow-1
 @maplemarketbrief
 @SurvivalCamping7
 @MapleMarketbrief-e2z
@@ -8479,7 +8476,6 @@
 @TheProductionLineTV
 @neodevicelabx
 @sportsheavenus
-@NavaRhythmRecord
 @honeybunbun_123
 @tasawergaming
 @slightly_dark_56
@@ -9220,7 +9216,6 @@
 @StringsofEternity
 @SundayClassics-m1s
 @SystemDecoded-f9h
-@xrpdailynews-h2k
 @nextleveldiscovery2.0
 @golden80svibesnva
 @beyondmilitary
