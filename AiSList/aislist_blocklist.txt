@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19223
+! Total Channels: 19225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19239,3 +19239,5 @@
 @tinyroast-g2d
 @cutedesigns8
 @veggietoons46
+@inews_magyarorszag_info
+@dr.adamwozniak
