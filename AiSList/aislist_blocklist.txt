@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19130
+! Total Channels: 19129
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10290,7 +10290,7 @@
 @tragicguy
 @slowianskaduszaprzodkow
 @thepulsefootball
-@hotseatheadlines
+@pingguy512
 @RaeCinema
 @ZynVisualArt
 @AITranceVault
@@ -11597,7 +11597,6 @@
 @someeguy28
 @music_potions1
 @road.heritage
-@nguon_cam_xuc
 @aiソング製作所
 @angibaker-artistslegacy
 @おにおん-h2r
