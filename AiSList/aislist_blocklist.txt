@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19196
+! Total Channels: 19206
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19212,3 +19212,13 @@
 @DoveFolkTV
 @GloAfroTales
 @yaami-e2z
+@PerfectMerakiystory
+@IGAFRICANSTORYS
+@TheAIPOVYT
+@mrfolktalesreal
+@Ayoafricafalktales
+@ChroniclesUntold_1
+@wisdomstoryroom
+@WhispersBeyondTime95
+@CineKrinoStudios
+@Voicesoftheancestor_s
