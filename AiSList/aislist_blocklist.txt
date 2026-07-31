@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19128
+! Total Channels: 19127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16620,7 +16620,6 @@
 @AceHoopszn
 @HugTimeSeason
 @ReddittNotes
-@RedditNotes_0
 @CrowandCandle.Mp3
 @ConfessCore369
 @grossplus1
@@ -16680,7 +16679,6 @@
 @satisfyingcleanvs
 @YumYumASMR1
 @EpicHeroCatsStudio
-@Zarah-LeeMentoor
 @PeacefulAnimalMoments01
 @ShrikantsAIVision
 @RIP_Omar9
@@ -19144,3 +19142,4 @@
 @orix-10
 @rebeccasuttonn
 @the_trendingtech
+@quantumuniversetv
