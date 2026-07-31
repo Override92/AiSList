@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19135
+! Total Channels: 19134
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4814,7 +4814,6 @@
 @KlubGentleman%C3%B3w
 @ThewealthConscriany
 @FiscalFreedomForum
-@Brainrot-Funs
 @robloxrottedbrain
 @duck_mememe
 @AutoLine-c2z
