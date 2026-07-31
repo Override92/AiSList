@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19223
+! Total Channels: 19222
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10334,7 +10334,6 @@
 @Newsique
 @Ecstatic_Cyberpunk_Dance
 @100-AI-t6y
-@AI-Fonia
 @AI-lig
 @tarasshebek8270
 @MariusFeat.TheAmazingAIMachine
