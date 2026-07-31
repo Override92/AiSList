@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19139
+! Total Channels: 19148
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19155,3 +19155,12 @@
 @Sandytales1
 @HiddenTalentStoreis
 @discrein
+@Unclewisdom1
+@DarbyStoriesTales
+@Africantalesstudios1821
+@Zhar.4real
+@AmbientDub
+@AcneVora
+@DramaPendekKuno
+@aicollection23
+@LunveilRomance
