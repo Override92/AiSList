@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19218
+! Total Channels: 19213
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8494,8 +8494,6 @@
 @HeartofPrayer63
 @NetWorthFinance-GNR
 @EconomyNavigator
-@AGJohnOGOfficial
-@NexusAG7
 @BoardroomPOV
 @ChaosCash-b6i
 @godhelpsofficial
@@ -10683,7 +10681,6 @@
 @FinancialDisclosures
 @financialoutline
 @EngineeredAiASMR
-@DollarSmart7
 @Deep_Sleep_ASMR_tw
 @deeprestcalm
 @DailyKarenStories
@@ -14394,7 +14391,6 @@
 @DigitalFloatsAcademy
 @MyliRome0
 @mj24basa
-@Neuraviax
 @voiceofsarah-d1d
 @Aicatstory8z
 @hearth.beyond
@@ -16705,7 +16701,6 @@
 @CelebScoop-p7d
 @SpiritDune
 @radiobotfi
-@DAILYE1-s3k
 @DramaGo-Go
 @shoppingsuccessmore3336
 @witzmonolog121
