@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19218
+! Total Channels: 19219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14256,7 +14256,6 @@
 @Mini_Tiny_KitchenTv
 @PrismAIStudio
 @TinyBiteStudio-o
-@TinyTasteStudio-d3l
 @minimarvels-g4t
 @tinykitchenbyanjali
 @MiniAiChef-y9x1r
@@ -19234,3 +19233,5 @@
 @SHORTS-ENTERTAINMENTai
 @Krishna-w9i6p
 @DreamLore-y26
+@ghummakadguide
+@ruraltalesbybormon
