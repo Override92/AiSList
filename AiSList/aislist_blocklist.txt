@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19193
+! Total Channels: 19195
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19209,3 +19209,5 @@
 @NennysMedia
 @AskTemmyBash
 @Blessingtales
+@DoveFolkTV
+@GloAfroTales
