@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19254
+! Total Channels: 19253
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8637,7 +8637,6 @@
 @PesnyaSoul
 @AINCMZone
 @Journeyinsidefactory
-@seedkeeper.y
 @The-Value-Oracle
 @VeloraStarlight
 @VisionCity7
