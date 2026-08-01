@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19259
+! Total Channels: 19254
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4256,7 +4256,6 @@
 @financemachinery
 @SimpleFinanceTips-US
 @CapitalCraft012
-@HistorieCodzienno%C5%9Bci-h2b
 @The_silent_truth_1
 @pawsin60s-v7e
 @WWIIhistory-i1r
@@ -8029,7 +8028,6 @@
 @溫馨講故事
 @人生放映室
 @深夜故事簿-q5w
-@老胡说说
 @neonxvikash534
 @BikeBlasters1
 @BikeBrand-q7d
@@ -13500,11 +13498,8 @@
 @ActuallySimple_TV
 @SIouch
 @doctormyro
-@SolaceStudioTunes
 @GenAudio-s
 @CloudWaveLyrics-j4g
-@EternalTunesAudio
-@Aura-x-o3r
 @NexToneCSM
 @SadSphere
 @LyricLabNation
