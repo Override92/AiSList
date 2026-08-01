@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19254
+! Total Channels: 19249
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8901,7 +8901,6 @@
 @FrontlineReport-b5z
 @hardware-radar
 @AIInsiderTalk
-@%E8%81%B0%E6%98%8E%E7%9A%84%E6%8A%95%E8%B3%87%E8%80%85
 @InsideBuffettMind
 @RichFutureIndia
 @esshorts20
@@ -9082,7 +9081,6 @@
 @chlodnazemsta
 @rodzinnyrewanz
 @opowiescizyciowe
-@聰明的投資者
 @theniftyhustle
 @voltones
 @pawpromisemoments
@@ -13542,7 +13540,6 @@
 @XenoTunes-b8l
 @Rapleaks100
 @BeatVora-j3l
-@RoyalJamz-e5m
 @NobleTunesBeats
 @AuvanoMusicYT
 @MorrisonMadeMusic
@@ -13558,7 +13555,6 @@
 @SynthVerse-l5n
 @LyriqTunes
 @TheNeural_Note
-@BeatNovamusic-j
 @aifaithrecords
 @voxelresonance
 @robbinsremix
@@ -14695,7 +14691,6 @@
 @foreignersreactyt
 @glos-wiary0
 @terraincognitasciencesoubliees
-@lumieredelinfo
 @parcheminscaches
 @amitfoodvlogsind
 @sonsofvalhalla-m3v
