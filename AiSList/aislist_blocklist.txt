@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19259
+! Total Channels: 19258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13257,7 +13257,6 @@
 @ERTHScience
 @EmailDesk
 @allaboutbikes1
-@wdrlokalzeitmordorte
 @comedyradio69
 @WallsofWar01
 @MARCMÁRQUEZNEWSIN9MIN
