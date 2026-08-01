@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19257
+! Total Channels: 19263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19273,3 +19273,9 @@
 @RevivalEngineLab
 @MiraShyamhub
 @FactoryFocus360
+@NextGenFactoryWorld
+@Advanced-TV001
+@Process_to_Product
+@NextGenFactorAI
+@TechDotSumit
+@Minikong91
