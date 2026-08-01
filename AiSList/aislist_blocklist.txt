@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19263
+! Total Channels: 19258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4531,7 +4531,6 @@
 @DziennikZemsty
 @Pre-CodeCinema
 @mattinvestsUS
-@officialjohnag
 @theuniversebeyondthevisible
 @21levelpl
 @thatiskarma
@@ -9065,7 +9064,6 @@
 @Insightout-x4h
 @YourSoulMirror
 @WEAPON-IN-HAND
-@historiecodziennosci-h2b
 @nexusmanualinvestidor
 @alexinvests-w6c
 @saluddebolsillo
@@ -9336,7 +9334,6 @@
 @Economicbreakdown1
 @EconomicCrises101
 @OrdinaryEconomics
-@Rolexeconomics
 @StoicEconomist
 @Viraleconomicsoffical
 @WealthBeforeWealth
@@ -13113,7 +13110,6 @@
 @ringandgiggle
 @Aibabypodcastusa-w4i
 @chouhan_saab.302
-@Aipodcast-i7h
 @Aipodcast_85
 @BabyAIPodcast1
 @KeshavDeshmukh-p4g
@@ -14601,7 +14597,6 @@
 @WeebZoneCentral
 @Mar-v4o8k
 @happyking143e
-@alfaaz-e-dil-i7h
 @echotalesai-y1c
 @aidadi-4
 @minirescue_0.2
