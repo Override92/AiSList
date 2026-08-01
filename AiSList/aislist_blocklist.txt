@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19226
+! Total Channels: 19221
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6353,7 +6353,6 @@
 @HardwareInsider
 @rawrustrestore
 @seniorrevengestories
-@johnogstrategy
 @jamunasq
 @bkcrypto-l2e
 @warhournews
@@ -6375,7 +6374,6 @@
 @szokujacefaktyiiwojny
 @oeilpublicdecrypt
 @mrpsychologyanalysi-r8o
-@PolicyUnfilteredTv
 @TheWorldArchivist
 @tarunwagh3293
 @LegionKrwi
@@ -9281,11 +9279,9 @@
 @MoneyLegends90
 @ProBuffetHQ
 @RayDalioHub2
-@SilverGuruJohn
 @GoldSilverDaily-s9x
 @Thesilverscenario
 @Historics-wars
-@JohnAGCo
 @JohnAGSays
 @JohnAGUnfiltered
 @johnharrishyt
@@ -14449,7 +14445,6 @@
 @JournalsOfArt
 @TygaTypeBeat-w9n
 @CineDrama-88
-@G-FunkFrequency-j5h
 @eltorky147
 @MelodyHub_001
 @nguoikevasach
