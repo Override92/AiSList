@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19216
+! Total Channels: 19215
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7720,7 +7720,6 @@
 @blackfacetrader
 @red-forge
 @ww2untoldsecrets
-@monkeyking143e
 @lhistoriendespieces
 @drandrzejwisniewski
 @wyobrazsobiewszechswiat
