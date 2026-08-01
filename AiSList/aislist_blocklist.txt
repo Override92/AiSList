@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19247
+! Total Channels: 19242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7467,7 +7467,6 @@
 @carcraft-f1j
 @cartoon_animation_video-u6h
 @iconicnewzealand
-@boringmoneyus
 @theinnerpeace-f7o
 @therealtalk319
 @dreamyslowlife
@@ -7664,7 +7663,6 @@
 @o-sodox
 @doctorpsyche
 @TreasurePulseOfficial
-@StoicPsychologist
 @VintageAussieCars
 @IRONFROSTREQUIEM
 @FogVisionFilms
@@ -7835,7 +7833,6 @@
 @BruceLeeLegacyUS
 @TheUntoldValor
 @LegacyofRichStories
-@SumerianSecrets-s2u
 @PaintedThrone
 @TheRisingMindTales-l4q
 @ProjectOceanuso
@@ -13714,7 +13711,6 @@
 @EldineDocs
 @Mr.DavidWilder
 @TerraIncognitaSciencesOubli%C3%A9es
-@Lumi%C3%A8redelInfo
 @ParcheminsCach%C3%A9s
 @IRONLEGACY-z5j
 @TheInsiderBrief-p4d
@@ -17484,7 +17480,6 @@
 @froobii
 @beono_sound
 @MythsUnraveled-s5f
-@Tunesmix-q6f
 @AshleyChapman-o9q
 @Chris_1088
 @SnoopyGentleLofi
