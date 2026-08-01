@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19253
+! Total Channels: 19254
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19269,3 +19269,4 @@
 @chatmajeeb
 @sexualsong
 @insidemakerlabtv
+@worldenglishhubtv
