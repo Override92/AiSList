@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19249
+! Total Channels: 19247
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7683,7 +7683,6 @@
 @TheUnforgettable07
 @Cinebreaks-d9p
 @Drewno13yt
-@ValkyrieWhisperofficial
 @ValkyrieHymns
 @DenysLVox
 @ValhallaEchoes-i2n
@@ -17505,7 +17504,6 @@
 @FactoryVerse-01
 @HDAgriTech
 @NEXTPROCESS-d6r
-@ProcessCrafter
 @veltrixforgeYT
 @FoodChainLab
 @preview41068
