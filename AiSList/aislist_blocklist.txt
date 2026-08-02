@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19240
+! Total Channels: 19235
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3108,7 +3108,6 @@
 @HiddenChefsClub
 @FunFlicker7
 @BoringHistorian-d5y
-@MYFutureTrends-v2u
 @ImaginethePhysics
 @TheTacticalPsychology
 @TheMoneyFilesChannel
@@ -11531,7 +11530,6 @@
 @sashaclinton2820
 @LilaromanceStories
 @Cinema_Fictions
-@ForbiddenUnderworld
 @THEVELVETSYNDICATE
 @RealLoveStoriesUnfiltered
 @DarkMafiaRomanceStories
@@ -18769,7 +18767,6 @@
 @MiniChefWorld.23
 @realisticAIstoriesFaraz
 @MiniDish_World
-@INSCITinyKitchen
 @TinyFoodWorld-k3m
 @minifoodieeee
 @tinyTinyfoodbabies
@@ -18912,7 +18909,6 @@
 @PulsarManhwa
 @Micro_Lens_POV
 @TrueStoryVisuals_Official
-@torypexplainer
 @Niraj_Cinematic_Universe
 @AiToolSpotlight
 @Doorbellvid-i4i
@@ -18921,7 +18917,6 @@
 @Alchemmmiy
 @viralfunnyclips46
 @TheToonGits
-@tinyfoodfaces
 @FrontStepFilms
 @CHRONO-v9qK
 @exi-stories
