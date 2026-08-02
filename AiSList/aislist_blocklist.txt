@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19247
+! Total Channels: 19255
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19263,3 +19263,11 @@
 @WilliamMasterofStories
 @QuantumTech
 @InsideFactoryxte
+@elevatedstatusHQ
+@RahasyaChakraa
+@InfinityHubEN
+@MachineEye
+@ExhaustTV93
+@IronAge-r8t
+@X.HUNTER
+@TodayMachine
