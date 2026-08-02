@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19241
+! Total Channels: 19236
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10492,7 +10492,6 @@
 @FactoryReborn.m5
 @TerrilliumV
 @RuinCraftLuxury
-@KidsWorldNSR
 @DripAlchemy
 @Beh-e786
 @InsideFactoryProcess-y5x
@@ -11191,7 +11190,6 @@
 @AImaskman
 @aipipline
 @AutomatewithAftab
-@canadastands
 @NextGenXFactory
 @PassionEgypteAntique
 @TheAutomatedDaily
@@ -11207,7 +11205,6 @@
 @Capital-Insight-u1f
 @SekretyFeynmana
 @lampheart.studio
-@CanadaTomorrow-y
 @artofficialelegance
 @Sal_Aurek
 @DarkMajestyOrchestra
@@ -12567,7 +12564,6 @@
 @isabella96146
 @g7t2y5vl-z2q
 @ai_tech_pro1
-@TheDalyTruthNews
 @The_Animal_Central
 @RainbowMaleIdentity
 @StoryXChannel
@@ -17615,7 +17611,6 @@
 @ZeitspringerDE
 @ClarkGaming-z2i
 @ra1nlabs
-@InspectorJamesofficial
 @%C5%9AladyDawnejPolski
 @TajemniceDnia
 @Ciekawe_fakty_o_owadach
