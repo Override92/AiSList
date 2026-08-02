@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19235
+! Total Channels: 19237
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19251,3 +19251,5 @@
 @红红漫剧
 @franciscovazquezyt
 @forgottenfrontiers22
+@veloursounds_1
+@spotkaniesredniowieczne
