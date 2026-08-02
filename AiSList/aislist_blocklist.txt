@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19279
+! Total Channels: 19280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8487,7 +8487,6 @@
 @ChosenOnesDivineMiracles
 @RichardLawson-z1r
 @ArchangelMichaelUSA
-@empaths-e2f
 @RogueHeartLegends
 @Mr.Silas1
 @DNAMystery-o1e
@@ -19295,3 +19294,5 @@
 @AIKakinHantei
 @WatchAIBuildThis
 @BeatboxX_X
+@cookingwithshallu-t5
+@djmelinda21
