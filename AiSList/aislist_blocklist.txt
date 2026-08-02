@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19235
+! Total Channels: 19239
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19251,3 +19251,7 @@
 @mostspenders
 @独嘉ai剧场
 @林辰星-m3s
+@蒼穹ai短劇
+@ai动漫频道
+@dearielledrama
+@红红漫剧
