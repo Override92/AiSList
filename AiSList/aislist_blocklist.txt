@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19322
+! Total Channels: 19332
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19338,3 +19338,13 @@
 @Helio432hz
 @Leearmar
 @OliversMelodicFelt
+@Carmoyoka
+@MythicTune
+@CilwerH
+@Tksound2
+@HillBassNation
+@tavernandtale
+@MTouch-SUNO
+@WebNesian
+@%D0%90%D1%80%D0%B4%D1%81%D1%82%D1%83%D0%B4%D0%B8
+@Binniecover
