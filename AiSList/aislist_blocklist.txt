@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19282
+! Total Channels: 19281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12887,7 +12887,6 @@
 @GadgetVerseg
 @Neuro-Brief
 @silinex
-@groove_salon
 @Professeur-Cosmos
 @skhiddenearth
 @PetWisdomDaily
