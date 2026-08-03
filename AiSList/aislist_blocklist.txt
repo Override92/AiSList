@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19275
+! Total Channels: 19274
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14019,7 +14019,6 @@
 @Scroll-Fried
 @victoranjeh
 @samverstv
-@Reality_Fighters
 @wethefightfans
 @best_of_ai-43
 @Ufcshorts-u9u
