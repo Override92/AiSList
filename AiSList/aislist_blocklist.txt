@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19352
+! Total Channels: 19357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19368,3 +19368,8 @@
 @HowardArt2323
 @HalfwayAIArtTown
 @SIRIUSJAPAN
+@SunoSpheree
+@cwjAi-Afro
+@Duniairama-q8j
+@Caribbean-Spirit
+@elumoire83
