@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19371
+! Total Channels: 19369
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6388,7 +6388,6 @@
 @HiddenCamEvidence
 @BlackChronicle-b2b
 @mindbaffled
-@IntoThePastStories
 @aminuteterror
 @grahamsfiles
 @AIDiscoveryOfficial
@@ -11954,7 +11953,6 @@
 @taleswithmobo-84
 @AfricanTalesCinematic
 @Sukhendaszdas
-@AfricanTalesStudios1
 @AfricaAitales
 @LuxeWavezRecords
 @HFYGalaticStories
