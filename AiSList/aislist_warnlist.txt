@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 897
+! Total Channels: 898
 
 ! Entries:
 @CinebotComedy
@@ -919,3 +919,4 @@
 @sitinjau_lauik-81
 @OtogiMusic
 @BLAHNO1
+@LeaderSpeeches
