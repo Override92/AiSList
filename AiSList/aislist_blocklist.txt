@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19282
+! Total Channels: 19285
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19298,3 +19298,6 @@
 @memenovafood
 @paulvince-trance
 @RavenAstrids
+@bedtimestories.forsleep
+@DesertSleepStories
+@CalmStoriesKindSongs
