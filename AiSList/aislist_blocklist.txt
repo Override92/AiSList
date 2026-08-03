@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19332
+! Total Channels: 19342
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19348,3 +19348,13 @@
 @WebNesian
 @%D0%90%D1%80%D0%B4%D1%81%D1%82%D1%83%D0%B4%D0%B8
 @Binniecover
+@RetroStudio-u1x
+@Jasonmurmuofficial
+@MSpurtymusic
+@BMAIA_ART
+@DriftlineRecords
+@Z.A641
+@Noh777v
+@AradaAIBeats
+@1950sdreamworld
+@Techno_Void
