@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19361
+! Total Channels: 19366
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19377,3 +19377,8 @@
 @Dr.Javier-Morales
 @VidaPlenaSeniorDrJoan
 @Optics_Armor
+@LegendsMelodies
+@GodIsChill
+@EncounterArchives1
+@TheSecret-c1f
+@ClassifiedOrigins-z9v
