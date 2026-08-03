@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19358
+! Total Channels: 19361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19374,3 +19374,6 @@
 @GrandStructures01
 @The-Age-of-Robots
 @cartoonmafiatech
+@Dr.Javier-Morales
+@VidaPlenaSeniorDrJoan
+@Optics_Armor
