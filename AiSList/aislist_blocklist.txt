@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19292
+! Total Channels: 19302
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19308,3 +19308,13 @@
 @setshockai
 @midnightmanila-j4u
 @clikbgames
+@ThescienceBunker
+@AIKonovalov
+@Einfach-Logisch
+@Africaswildlife-k7e
+@NEUVERT
+@BlackJusticeLens
+@Quiet_Hours_Ambient
+@JazzKissa1969
+@TsukiToSiphon
+@WestEndSounds
