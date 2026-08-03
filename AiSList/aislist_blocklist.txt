@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19298
+! Total Channels: 19293
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5424,7 +5424,6 @@
 @physicunfolded01
 @FeynmansWisdom
 @ssmusicusa
-@Physic-22
 @FeynmanLectureHall
 @FeynmanTechniquePK
 @ColdHumanPsychology
@@ -9970,7 +9969,6 @@
 @SciFiGalaxy-h9n
 @ScottRitterUpdates
 @brave-paw-chronicles
-@TalesUnfoldedd
 @TheSealedRoom
 @PureEconomy
 @NinjaEconomicCollapse
@@ -16708,13 +16706,11 @@
 @shortjesusprayers
 @GuardianAngelBlessings
 @ThinkEnglishAcademy
-@ArchangelMichaelPrayersHub
 @angelmessagesjoy
 @VoiceoftheChosen-q7c
 @TheLyranPath
 @ARCWisdom_7
 @HealingAngel_7
-@ChosenLight888
 @ArchangelMichaelWisdom-f9y
 @angelmessagesnow
 @PrayerswithArchangelMichae-e4m
@@ -19119,7 +19115,6 @@
 @GriotsofMotherland
 @Africatalesai-z6f
 @The.First.gods.official
-@CrystalQueenParadise
 @Glimmer-t9y
 @GentleWavesMusic421
 @AstralDimensions-Official
