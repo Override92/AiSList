@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19290
+! Total Channels: 19289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15233,7 +15233,6 @@
 @leilanstories
 @TALESBYGUDO10
 @talesbymamag8820
-@Jennyteller-n4i
 @TaleswithRose
 @DOPEFOLKLORES
 @DOPEFOLKTALES
@@ -15260,7 +15259,6 @@
 @TheWisdomTree-story
 @AncestralFiresideTales
 @TornHeartsTales
-@JamesHansford-m9e
 @Joxxstorytime
 @Moonlighttalesbydoubled
 @AMOS33-r6m
@@ -19306,3 +19304,4 @@
 @KingdomofJesus-m2w
 @abyssal_report
 @perpetualkingsdevotion
+@calebocheje
