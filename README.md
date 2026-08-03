@@ -36,8 +36,8 @@ Don't forget to set your username in the settings.
 | 🥉 3 | [@FedupOfAI](https://github.com/FedupOfAI) | 2044 |
 | 4 | [@Thibaultmol](https://github.com/Thibaultmol) | 1503 |
 | 5 | [@Oflogon](https://github.com/Oflogon) | 342 |
-| 6 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 270 |
+| 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 288 |
+| 7 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
 | 8 | [@tomjas1963](https://github.com/tomjas1963) | 269 |
 | 9 | [@magikarp](https://github.com/magikarp) | 217 |
 | 10 | [@Kasumi](https://github.com/Kasumi) | 195 |
