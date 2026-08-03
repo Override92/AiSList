@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19279
+! Total Channels: 19274
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3795,7 +3795,6 @@
 @DrRicardoVeller
 @ConsejosdeSaludsinEdad
 @SeniorStepstoHealth
-@SaludyVida60
 @Dr.DarienVoss
 @Dr.Castillo-j9x
 @LoliiDrama365
@@ -4283,7 +4282,6 @@
 @MarketDecode-n3j
 @15MinuteInvestor
 @littletrumpcartoons
-@saleemkhan-l8b3y
 @Inerturium
 @LiminalStages
 @WeveSeenThisBefore
@@ -5815,7 +5813,6 @@
 @lilywritesstuff
 @BandarApnaDost
 @OJeitoFeynmandePensar
-@FeynmanThoughts-i4r
 @StorySalad
 @EchoingHeartTalesLab
 @TheStruggleTales
@@ -10609,7 +10606,6 @@
 @HoaStories-q7j
 @HOASTORIES-y5l
 @HOAStories02
-@hoastories365-official
 @Hoastories66
 @HOAStories85
 @HOAstoriesEnglish
@@ -16483,7 +16479,6 @@
 @HiddenGardenHacks24h
 @404WL2
 @Ukryta-Warstwa
-@KarkadeYut
 @%C5%BBywa_Historia
 @ZagadkiNauki
 @MidoriTapes
