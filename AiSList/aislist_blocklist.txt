@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19356
+! Total Channels: 19353
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6231,7 +6231,6 @@
 @ProfesorOdWszystkiego
 @BIT_OWNIA
 @AISleepsatisfyasmr
-@tutobotX
 @PradawneEcha
 @MormonDeepDive
 @MindBlowingF
@@ -12288,7 +12287,6 @@
 @NorthLineReportt
 @CreditSmartCanada
 @CloakedHistory1
-@IrsanRanditiya-i5w
 @pastcompass
 @VoltiqueLabs
 @fallenhifi
@@ -15643,7 +15641,6 @@
 @AICreatorsArea
 @ai_bolt_ipublic
 @EverythingSquatch
-@MdSarif-s4o
 @My_Ballz_Smell2
 @AiVlogging-s5h
 @TalesAtDawn
