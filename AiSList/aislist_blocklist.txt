@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19357
+! Total Channels: 19356
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15526,7 +15526,6 @@
 @LauraTaylor-v3b
 @Meowlozy
 @Amythecutestoryteller
-@Imesstory
 @AfricanTales_ByAmara
 @RJsgarage-h7k
 @Mars.RogueRabbit
