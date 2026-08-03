@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19285
+! Total Channels: 19287
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19301,3 +19301,5 @@
 @bedtimestories.forsleep
 @DesertSleepStories
 @CalmStoriesKindSongs
+@Wealthafterwork-l1j
+@MaidandDuke
