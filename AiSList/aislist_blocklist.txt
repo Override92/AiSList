@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19390
+! Total Channels: 19395
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19406,3 +19406,8 @@
 @Fenaro.techno
 @MythosCronics
 @BrightBriefs-786
+@AiVideosHub2026official
+@dreamorashorts
+@forsakenquillore
+@Mystora-Flow
+@DrSadekAI
