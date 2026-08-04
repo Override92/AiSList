@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19407
+! Total Channels: 19402
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8299,7 +8299,6 @@
 @thabestvfx
 @WhatIfWildlife_31
 @OopsSparkie
-@TimelessSoulSecrets
 @CayceBeyond
 @NextLevelTravel-e6r
 @1001STONED
@@ -11044,7 +11043,6 @@
 @VelorionSound
 @Bittunenotes
 @NeuralMixStudio
-@lunartherapy_M
 @floqkly
 @Rehobothsoundtv-j1j
 @DreamwaveTunes_Studio
@@ -13448,7 +13446,6 @@
 @AIVillageAi
 @SoulNarrativemusic
 @sonicmix_ob
-@AudioVibes-x8c
 @selenaxeminem
 @DreamlineAudioz
 @TuringTunesHub
@@ -15765,7 +15762,6 @@
 @kreatif-s1n
 @InsightAI-12
 @catmeowai-03
-@AIKitchenCats
 @AiCats-k4y
 @happycookingcats
 @CatsCooking1
@@ -17239,7 +17235,6 @@
 @TheSilentCovenant777
 @TheChosenConflict777
 @LightofFaith-u2d
-@TheChosenSingularity777
 @bloodofjesusprotectionpowerful
 @GodsSaysToday-fb2en
 @chosenones04
