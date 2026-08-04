@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19401
+! Total Channels: 19403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19417,3 +19417,5 @@
 @StrayHavenCats-UN
 @HerCourageChronicles-p9j
 @lostlegacyfiles-llf
+@DianaroseBolivar-o4r
+@SalWhitakerCars
