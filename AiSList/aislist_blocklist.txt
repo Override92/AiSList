@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19364
+! Total Channels: 19363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8697,7 +8697,6 @@
 @neurasonics
 @qteclips
 @samrayreoung-kakada
-@justicetrend-n8b
 @drama.remix2m
 @aelwynmusic
 @behindtheeconomy-h6z
