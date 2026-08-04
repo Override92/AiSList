@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19446
+! Total Channels: 19450
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19462,3 +19462,7 @@
 @SoraX3D
 @GeoLogic-z5g
 @OldDadREVEN
+@RyderReader
+@4PawsMind
+@Krynn0007
+@MindBlownFactsDaily-m3x
