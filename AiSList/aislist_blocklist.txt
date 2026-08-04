@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19362
+! Total Channels: 19363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19378,3 +19378,4 @@
 @littletaco567_sab
 @insidediscovery9621
 @NerraNetwork
+@SoraStudioCaf%C3%A9
