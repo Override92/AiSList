@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19403
+! Total Channels: 19402
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7391,7 +7391,6 @@
 @WickedAI
 @behindukpolitics
 @williamelcuentacuentos
-@richardhallowaycryptids
 @cafeharmonyjazz
 @platygoof_lab
 @war_chronicles-d6e
@@ -18204,7 +18203,7 @@
 @EverWonder-n9g
 @RobertExplains-x1t
 @QuantumMeat
-@warcrypta
+@aitrocity
 @HistoryEndures-68
 @CosmicHeart-o4u
 @HumanFrontierStories
