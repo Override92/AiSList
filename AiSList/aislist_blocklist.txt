@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19430
+! Total Channels: 19432
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19446,3 +19446,5 @@
 @DaybreakJazzCo
 @AynaMusicStudio
 @FLStudioArabesk
+@RetroAnatolianPsyche
+@PsyLabb
