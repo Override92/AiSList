@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19431
+! Total Channels: 19434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19447,3 +19447,6 @@
 @FLStudioArabesk
 @RetroAnatolianPsyche
 @PsyLabb
+@moviestarrows
+@productivityonyt
+@Marquee-g2h
