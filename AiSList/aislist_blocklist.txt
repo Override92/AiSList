@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19432
+! Total Channels: 19431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -215,7 +215,6 @@
 @aicandream2025
 @AI.maginary0
 @DeepDreamAsmr
-@AInaturecabin
 @AiGenworld-b1g
 @NatureTrip3
 @God-Videos-AI
