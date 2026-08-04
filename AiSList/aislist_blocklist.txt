@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19364
+! Total Channels: 19363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6520,7 +6520,6 @@
 @DrBenWalkerOfficial
 @HealthTipsEveryday-i7f
 @Dr.KarimSant%C3%A9Moderne
-@doctorbecker
 @Doctors.Orderss
 @cecilymarrow
 @MichaelHarrisAnalysis
