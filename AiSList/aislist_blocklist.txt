@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19450
+! Total Channels: 19445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11166,7 +11166,6 @@
 @Sundaywith-Buffett
 @Insight-Relay
 @Capital-Insight-u1f
-@SekretyFeynmana
 @lampheart.studio
 @artofficialelegance
 @Sal_Aurek
@@ -11227,7 +11226,6 @@
 @GREditz
 @AIDancingAnimals
 @AITopMoments
-@cnjtv01
 @talesbyhoney33
 @Tinydreams10
 @BigWizMedia
@@ -11267,7 +11265,6 @@
 @Themusicmemories-13
 @AI_Zayan
 @ShiftAIAudio
-@Cosmicversebeats
 @RavensMourning
 @NarzaryMelodies
 @ArikeMusic
@@ -16183,7 +16180,6 @@
 @NaibaKhan-k3m
 @MelodyOfHeavenOfficial
 @SundaystarMarak
-@ABillionAmen
 @voice_of_jose
 @Obscurience
 @HazardousHDTV
@@ -17511,7 +17507,6 @@
 @AncientChinaAmbience
 @karenstorieslab11
 @PaladinHistoryDose
-@USCourtLawAlert
 @KittyTailss
 @letsreewind
 @MAGANEWSCENTRAL
