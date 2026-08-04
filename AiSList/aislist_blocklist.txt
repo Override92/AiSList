@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19402
+! Total Channels: 19401
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16222,7 +16222,6 @@
 @neonglitch3.0
 @LukasFinanzen
 @VehicleLifeGuide
-@saquibdeena2022
 @EngineScope256
 @HinterdemGlanz-f9d
 @DasGedachtnis
