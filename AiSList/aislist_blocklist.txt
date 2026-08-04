@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19385
+! Total Channels: 19380
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7004,7 +7004,6 @@
 @ai-agent-studio
 @NeoNostalgiaAI
 @VibeMTV
-@Mellowplug
 @HarmoniaAntiqua-r4r
 @RagaVerseAI
 @CATGIRLAI-v3k
@@ -8707,7 +8706,6 @@
 @feynmanuntold
 @tomandcabbage
 @ehsaasonkiduniya
-@imeshanovel
 @cattalesofficial2
 @life-with-lida
 @imjstories
@@ -10987,7 +10985,6 @@
 @revupworld
 @talebyene
 @cosmiospace
-@heartlandcountryfm
 @skullsfactory1
 @calm-flowbeats
 @groupenglishanimalfacts
@@ -13236,7 +13233,6 @@
 @NgocKim-lj9ht
 @TexasUnfiltered-x4e
 @ai.madamee
-@StackItCheap
 @FoodOrFraudexpose
 @TheHumanSide-i1z
 @Mrvoid-Ai
@@ -17220,7 +17216,6 @@
 @ShadowSymphonymusic
 @SmileMan1111
 @MissJenny15
-@Latestcar34
 @GODREVEALED-7
 @Unbeviewlable
 @abrahams_wisdom
