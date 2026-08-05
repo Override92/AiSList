@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19471
+! Total Channels: 19470
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3628,7 +3628,6 @@
 @camelliashiddenstories
 @SweetPaybackUS
 @Hijodeoscarwilde
-@Tale-Teller198
 @IceRevenge25
 @RevengeZoneReddit1
 @rewindjustic
