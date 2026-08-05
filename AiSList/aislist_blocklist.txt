@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19493
+! Total Channels: 19491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9147,7 +9147,6 @@
 @SundayClassics-m1s
 @SystemDecoded-f9h
 @nextleveldiscovery2.0
-@golden80svibesnva
 @beyondmilitary
 @BeyondtheVersesOFFICIAL
 @BigstarV8
@@ -16668,7 +16667,6 @@
 @gaintheory2026
 @JasperNatalie-j6w
 @ExplainiaChannel
-@Ancientaches
 @DreamChasingDrama
 @ZZ-AIGC01
 @SamiqExplains
