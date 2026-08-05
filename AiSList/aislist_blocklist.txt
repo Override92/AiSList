@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19470
+! Total Channels: 19472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19486,3 +19486,5 @@
 @Reddit-rina
 @historiaseniacolombiana
 @interstellarroute-h4j
+@peacefuldramatales-o1h
+@registros-ineditos
