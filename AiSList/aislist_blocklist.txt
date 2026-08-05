@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19495
+! Total Channels: 19490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62,7 +62,6 @@
 @paulandfriends7006
 @Starway-v5z
 @AmyyRoblox1
-@againrazvai
 @HEROISINSANOS-m9s
 @Funnymeow7.m
 @Funnymeow-m7k
@@ -3683,7 +3682,6 @@
 @MateriaFuncionalConsciente
 @Francolyy
 @gorillatechofficial
-@IngenierosdelInfierno
 @MotoresdelPasado-v6h
 @BaruchSpinozaElPulidordeLentes
 @Revenge54252
@@ -4508,7 +4506,6 @@
 @briangreene-q4x
 @RavComm
 @DziennikZemsty
-@Pre-CodeCinema
 @mattinvestsUS
 @theuniversebeyondthevisible
 @21levelpl
@@ -9588,7 +9585,6 @@
 @unmadetales
 @uncommonpast
 @ArthurRevivesthePast
-@Empireofrot0
 @BlackwoodHistory
 @Robertshistory74
 @ImpossibleBattless
@@ -9732,7 +9728,6 @@
 @AINostalgiaStudio
 @Modern-Life-Studio
 @AI_Dreamers
-@ChilZorro
 @AiMoneyMine
 @hazeltalkshistory
 @mymystories
