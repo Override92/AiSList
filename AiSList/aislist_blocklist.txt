@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19465
+! Total Channels: 19467
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19481,3 +19481,5 @@
 @JazmineLozano-r8g
 @TerminalCut
 @danielgrosso_web
+@silentstoryhaven-p4w
+@autoverse-i6b
