@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19474
+! Total Channels: 19475
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12300,7 +12300,6 @@
 @tinychefworldai1m
 @daisymeow1
 @deepworkschannel
-@mentemaestra-h5f
 @pizarramental-m3v
 @roberthaleoldways
 @neurodisciplinabl
@@ -19490,3 +19489,5 @@
 @registros-ineditos
 @mnslaw
 @guerreroinmortalnv
+@secretosdelmafioso
+@عزربحي
