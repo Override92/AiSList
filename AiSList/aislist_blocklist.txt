@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19447
+! Total Channels: 19442
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -483,11 +483,9 @@
 @mamacatfamilyfun
 @hearttouchaistories
 @mamacatstories574
-@mamacatfamily-ts
 @mamacatkittens-95
 @mamacatdailylife
 @animationai-v9y
-@aivideoto
 @aivideoshorts-f5u
 @animationwithai9
 @aianimatedvideo_to
@@ -797,7 +795,6 @@
 @aicatstory-y6k
 @aicat-story21
 @catstoryai-c8n
-@aistory-e8b
 @gingerkiten
 @zoozingstories
 @catvideosai-ai
@@ -11273,7 +11270,6 @@
 @Adinatinshsh
 @Aevora-xl
 @RoshuAImusic
-@CraveTunes
 @Ai_vibes-h
 @Ve_loura
 @Velora-xlx
@@ -12624,7 +12620,6 @@
 @PrimeGuardian-1
 @MSimplifiedx
 @SciFiAdventureX
-@TheBlueprintDaily-c6y
 @OneLoveStoryAI
 @ScienceFictionUPR
 @FantasyWorld-StudioX
