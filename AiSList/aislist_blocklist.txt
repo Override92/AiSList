@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19466
+! Total Channels: 19465
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3359,7 +3359,6 @@
 @chillfinancialhistorian
 @WarrenBuffettStrategy1
 @Michaelsaylorfanzone
-@EconomyMeetsWarfare
 @PatriotBattlefront01
 @BuffettMoneyMentality
 @boardroombillions
@@ -3413,7 +3412,7 @@
 @losEnigmasdelTiempo
 @Historia.Brutal
 @LasCronicasBelicas
-@DepthoftheSoulS
+@depthsofthesouls
 @PsychInsight-139
 @TheHFYChronicles1
 @HYF-FireintheVoid
