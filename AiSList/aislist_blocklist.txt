@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19484
+! Total Channels: 19483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4204,7 +4204,6 @@
 @ree_ree0513
 @ai.mariaa
 @ananimagic
-@BeforeTimeRunsOuttt
 @cozyjazzambience99
 @poliwoodanimation
 @SeniorVitalitywithDrMariana
