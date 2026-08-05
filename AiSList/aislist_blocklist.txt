@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19490
+! Total Channels: 19492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19506,3 +19506,5 @@
 @oversimplifiedfilms-7
 @marginiq
 @bestlifemovies
+@redditnotes1
+@zarahleementoorෆ
