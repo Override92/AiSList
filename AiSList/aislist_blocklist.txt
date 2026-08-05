@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19497
+! Total Channels: 19495
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12660,7 +12660,6 @@
 @RainyLofiAmbience
 @LittleLumosTube
 @MarvelAIFactory
-@HDSWildlife
 @asailorswife1997
 @HeavenDefyAnime
 @DSSTUDIOSCINEMATICUNIVERSE2.0
@@ -13841,7 +13840,6 @@
 @GoldenVinyl
 @vinyl.tropical
 @OffDutyCatJazz
-@goldenmelody99
 @PureRelax
 @ZenbyBren
 @daybyday.musicstudio
