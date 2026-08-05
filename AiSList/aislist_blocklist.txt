@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19467
+! Total Channels: 19471
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19483,3 +19483,7 @@
 @FunnyTunnelAi
 @Aitalesart
 @TarBynEnt
+@AIVisionstudioYT-HQ
+@Aetheron-d4t
+@JazmineLozano-r8g
+@TerminalCut
