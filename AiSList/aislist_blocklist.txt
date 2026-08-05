@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19471
+! Total Channels: 19466
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -935,7 +935,6 @@
 @sauvo9136
 @zigmeowmama
 @gingerkittendaily
-@meow-moms
 @mamacat18725
 @cutecatmom
 @meowrescuers
@@ -951,7 +950,6 @@
 @funnycat-j9u
 @fluffykittyworldforu
 @bytecattales
-@bordercollieai
 @domebomaxey
 @glow_viber
 @huubuu-e7p
@@ -14624,7 +14622,6 @@
 @CORNELLJULEE
 @禪心之道
 @嘉誠Talk論
-@李嘉誠處世錄
 @AFatherRevenge193
 @architecttony92
 @mimirswell
@@ -18243,7 +18240,6 @@
 @BraveWorth
 @MachineSquadMS
 @EliteGun-n1o
-@BritishWarLegends
 @gunforge247
 @quynguyenvan3544
 @RifleReady
@@ -18790,7 +18786,6 @@
 @AICraftCinema-m5i
 @AurexTrailers
 @Ruleofthedead-ZombieWorld
-@miniaturefooddoll
 @LaughNoJutsuOfficial
 @TinyFoodFactoryAi
 @ItsDeepSleepPodcast
