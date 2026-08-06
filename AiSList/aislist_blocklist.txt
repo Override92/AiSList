@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19610
+! Total Channels: 19620
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19626,3 +19626,13 @@
 @DilawnaKandila
 @WonderandLore
 @dark-street-chronicles
+@deep.soulblues
+@MoonlightMelodies-168k
+@GoldenEraBlueslovers
+@DustGrace-l9k
+@vintagesoulfire
+@Mississippi-Willie
+@DeepChicagoBlues-w9m
+@DarkBluesBroadcast
+@HalfHourBlues
+@FirewoodBlues
