@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19552
+! Total Channels: 19554
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19568,3 +19568,5 @@
 @lullabands
 @ZoroTales
 @Twistified-p2m
+@佐藤2022
+@ардстуди
