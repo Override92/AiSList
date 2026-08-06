@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19488
+! Total Channels: 19490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19504,3 +19504,5 @@
 @Varizzz
 @WakaRecap
 @the_firstdawn
+@solardreamjj
+@nighttech_off
