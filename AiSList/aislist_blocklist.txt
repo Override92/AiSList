@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19483
+! Total Channels: 19488
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19499,3 +19499,8 @@
 @theinsidefeed
 @oldhollywoodechoes01
 @JulianGoldieAI
+@SecondLifeStories-q3k
+@MillionaireDramaStories
+@Varizzz
+@WakaRecap
+@the_firstdawn
