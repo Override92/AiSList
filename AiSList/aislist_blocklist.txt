@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19659
+! Total Channels: 19669
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19675,3 +19675,13 @@
 @coleeconomics
 @FanfictionVault
 @GeoPF-j6d
+@FutureAlphaAIofficial
+@KennisKompass
+@TaleReader_0
+@TheImpactInvesting
+@PierreNiccas
+@MindwithinS-d1k
+@EarthCanvasStudio
+@Moto.Engine
+@RedditStoryJack-07
+@REVEAL-v
