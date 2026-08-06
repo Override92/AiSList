@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19490
+! Total Channels: 19492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2077,7 +2077,7 @@
 @funkymindai
 @funtoon8
 @aistories_and_adventures
-@krishpatel028
+@krishpatel123-ct
 @funzanimals
 @majestic_crafts
 @aivideocartoon20
@@ -19506,3 +19506,5 @@
 @blindajedivino1
 @chinaconsumerwatch
 @humandecode000
+@zenithxgamer99
+@fseries-h1p
