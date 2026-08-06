@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19630
+! Total Channels: 19639
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19646,3 +19646,12 @@
 @BlueSuitChicago
 @thejazzink
 @DeltaDustRecords
+@WhiskeyBluesBallads
+@elwoodbethep
+@LonelyGentlemanBlues
+@whiskeybluessessions
+@SmokyGuitar
+@mgakuwentonilola-ph
+@HighwayRootsMusic
+@FieldsofMelody
+@MgaKwentongPampatulog
