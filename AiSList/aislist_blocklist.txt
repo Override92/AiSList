@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19528
+! Total Channels: 19538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19544,3 +19544,13 @@
 @Music-Lab2026
 @TheFlaccidBeats
 @alienaioverlord
+@PixelPerfectionProductions
+@mystical_ai8
+@NeuralCoreAudio
+@SonaTess
+@VADARKOfficial
+@AIVideoMusicArt
+@attababyai
+@AfricanTalesByJokky1
+@StoriesBymea-l6v
+@TaleswithToria
