@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19558
+! Total Channels: 19557
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6406,7 +6406,7 @@
 @EmberVengeance
 @RevengeByFacts
 @Zoeslesson
-@DorathyElizabethYT
+@thephantomdon
 @LessonsFromLongLife
 @SeniorBookYT
 @DRrOBERT-p4t
@@ -11963,7 +11963,6 @@
 @NeonBeatz-l9k
 @VidMuseAI
 @NyxiaAIMusic
-@vision_synk_flow
 @DropTheoryHQ
 @TheVibeLab01
 @synthdub_reggae
