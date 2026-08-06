@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19580
+! Total Channels: 19590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19596,3 +19596,13 @@
 @PhilippineFolklore
 @QUIZMasterADAM09
 @MidnightTheoriesYT
+@mgakwentonilyca
+@oddmellow
+@knowing_jep
+@TheNightmaresTomeYT
+@Myth_Legends9
+@UrbanLegendsUnveiled2023
+@draggy-u7w
+@HimbingStoriesPH
+@UncoverFilipino
+@SuzanneCruz-m9d
