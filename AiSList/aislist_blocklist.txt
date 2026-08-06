@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19620
+! Total Channels: 19630
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19636,3 +19636,13 @@
 @DarkBluesBroadcast
 @HalfHourBlues
 @FirewoodBlues
+@moonfireblues
+@CreepyKwentobyAtarahandDos
+@SilentMind-t8w
+@thehauntedarchipelago
+@BlueSuitChicago1
+@FusionofSoul-w5i
+@MidnightChicagoBluesCH
+@BlueSuitChicago
+@thejazzink
+@DeltaDustRecords
