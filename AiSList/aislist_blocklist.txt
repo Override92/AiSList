@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19554
+! Total Channels: 19549
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5105,7 +5105,6 @@
 @zancrow376
 @thelostexorians
 @t-h-e-other-side
-@EmpireEconomic
 @BibleOrigins1
 @SoapOperaInsider
 @HumbleRevenge
@@ -15092,7 +15091,6 @@
 @jessicagarba
 @TalesOfAfricaStudio
 @BeyondtheBadge5
-@AfricanTalesBy_Zari
 @FolktalesHausa
 @logsecreto
 @MiniLegendsAcademy
@@ -15250,7 +15248,6 @@
 @Honesttipster241
 @dailydetour-101
 @StoryWeaver-OO
-@AfricanHeartbeats-i8d
 @Flarestoriesglobal
 @AnanseFriendsOfficialTV
 @Trinity_TheDoggedStoryteller
@@ -19250,7 +19247,6 @@
 @Binniecover
 @RetroStudio-u1x
 @Jasonmurmuofficial
-@MSpurtymusic
 @BMAIA_ART
 @DriftlineRecords
 @Z.A641
@@ -19264,7 +19260,6 @@
 @trumanwong3193
 @Celticfelt
 @SingHighlights
-@AetherborneAI
 @HowardArt2323
 @HalfwayAIArtTown
 @SIRIUSJAPAN
