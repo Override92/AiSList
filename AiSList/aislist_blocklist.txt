@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19600
+! Total Channels: 19610
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19616,3 +19616,13 @@
 @MagicTalesPH
 @Folklore_Shadows
 @TheSpookyTeller
+@MLTPOD
+@JustGimmeFacts
+@dreamtalesstudio101
+@innovatronixtv5025
+@jonasminivlog
+@KapeFace403
+@ChillingChapters25
+@DilawnaKandila
+@WonderandLore
+@dark-street-chronicles
