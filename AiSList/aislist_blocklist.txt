@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19570
+! Total Channels: 19580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19586,3 +19586,13 @@
 @weirdhistoryfood_de
 @TheVersedMastersofMusic
 @VantaCentral
+@AtlasofOldGods
+@SoulSparks202
+@filipinofolktalestagalog
+@oftheMystery
+@Alluring_T4les
+@M.R.deSamson
+@danumtales
+@PhilippineFolklore
+@QUIZMasterADAM09
+@MidnightTheoriesYT
