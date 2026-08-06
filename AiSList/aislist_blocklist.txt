@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19491
+! Total Channels: 19490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14229,7 +14229,6 @@
 @Celestial-Throne-Theater
 @thepromptAIworld
 @SanaAITales
-@UbaidKhan-p6z5y
 @FutureKwaai
 @realclipguy69
 @vision.craft_02
