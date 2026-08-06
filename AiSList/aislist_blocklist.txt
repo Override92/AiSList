@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19557
+! Total Channels: 19564
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19573,3 +19573,10 @@
 @TheDefenseSignal
 @MiddleEastStrikeReport
 @PrimeUpdate-c8c
+@SpellForgeStudio
+@BeyondHogwartsAI1
+@UnwrittenUniverseAI
+@UnwrittenMultiverseAI
+@VersusUN
+@AlternateUniverseAU
+@VisionTrailer2026
