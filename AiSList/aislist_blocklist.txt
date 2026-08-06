@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19649
+! Total Channels: 19659
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19665,3 +19665,13 @@
 @HistoricalSpark
 @JonelArroyo28
 @SeeUinHistory
+@oldphilippinesarchive
+@top-stories
+@WowInSecondsOfficial
+@rogerguerra1883
+@MythicWings-327
+@ParadoxPoints
+@CreepologyYT
+@coleeconomics
+@FanfictionVault
+@GeoPF-j6d
