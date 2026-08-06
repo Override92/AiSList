@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19492
+! Total Channels: 19487
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2672,7 +2672,6 @@
 @ayankidsfun
 @funcatfuncat
 @little.kattycat
-@kittecatshorts
 @babycat-e7i
 @aikittycrazze
 @kittycatventures
@@ -10542,7 +10541,6 @@
 @news_ai_flash
 @OldVeteranStories
 @PlaneCommand-ut5
-@RESStories99
 @WWIIRisingStories
 @ww2dispatchh
 @BookNerveaudio
@@ -12686,7 +12684,6 @@
 @Susundan
 @EngineeringFailuresTales
 @DayriLopera
-@BuffettGlobalInsights
 @GermanWarWeapons-s4n
 @History_Grip_DE
 @AnimalMind-h5v
@@ -16492,7 +16489,6 @@
 @QuilnexaHubASMR
 @AnotherRecaps
 @BedLoriaASMR
-@SatisfAIVision
 @ZENSMASHAI
 @GouravKumar-w3b
 @BabyViralTrend-520
@@ -18951,7 +18947,6 @@
 @Africanfolktalesbydaniel
 @ZinzyAIStories
 @Sandytales1
-@HiddenTalentStoreis
 @discrein
 @Unclewisdom1
 @DarbyStoriesTales
