@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19492
+! Total Channels: 19491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19031,7 +19031,6 @@
 @DivyAI-3
 @SHORTS-ENTERTAINMENTai
 @Krishna-w9i6p
-@DreamLore-y26
 @ghummakadguide
 @ruraltalesbybormon
 @HOADramaDiaries1
