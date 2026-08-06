@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19508
+! Total Channels: 19518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19524,3 +19524,13 @@
 @GolpoSphere_real
 @TheParallaxShift
 @DadsRevengeStoriesUS
+@Jonassch%C3%B6ler-san
+@thesowers-band
+@TheHFYZenith
+@ShadowThrone-m5z
+@HuemanInstrumentality
+@ShahkaarWorld
+@WowTv033
+@Creative_Jane27
+@ChadGrowOfficial
+@AlTricksYT
