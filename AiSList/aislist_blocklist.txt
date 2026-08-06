@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19538
+! Total Channels: 19547
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19554,3 +19554,12 @@
 @AfricanTalesByJokky1
 @StoriesBymea-l6v
 @TaleswithToria
+@brainyfolktalesbylucy
+@StoischeFestung
+@shamrocksandshenanigans-n7s
+@bezexa_istorii
+@CuriosityandFacts.
+@AILOGIC2023
+@CrossoverLoreAI
+@Neo_Gram
+@MaxTVx-s8c6v
