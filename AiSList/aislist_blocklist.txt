@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19696
+! Total Channels: 19691
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7407,7 +7407,6 @@
 @warnomics-342
 @echotronu
 @epicaiofficial
-@AI_DREAM_ASMRR
 @drAndrzejWi%C5%9Bniewski
 @HistoriaPancerna
 @sillyme6906
@@ -15805,9 +15804,7 @@
 @StoicGraves
 @RealFamilySecretsHQ
 @ForeverOnTheFrontier
-@EnglishPaybackDiary
 @englishstoryreadings
-@BusinessPresentationSkills
 @FrontAxis
 @HealthInsightPrism
 @Dadjourney.22
@@ -18118,7 +18115,6 @@
 @aitrocity
 @HistoryEndures-68
 @CosmicHeart-o4u
-@HumanFrontierStories
 @DeepSpaceTales-s8t
 @HFYAscension-z6i
 @SketchMind-y2u
@@ -18127,7 +18123,6 @@
 @HumanityUnleashed-US
 @SciFiFutureTales
 @TerranovexHFY
-@frontlinevector-t3o
 @ugandasuccesschannel
 @r_naar
 @timefulvideoart
