@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19658
+! Total Channels: 19668
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19674,3 +19674,13 @@
 @twistedf8official
 @mr.car.r.r
 @lumivorai2
+@CinematicCollisions
+@AIFilmsMagic
+@KAMS_AI
+@PinkyzBrain
+@FyndStudio
+@Fine-Tuned-Studios
+@VideoGenerator-AI
+@SyntheticThinker_exe
+@AIWorld-omg
+@Airewrite00
