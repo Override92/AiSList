@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19678
+! Total Channels: 19688
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19694,3 +19694,13 @@
 @EthioSynthAI
 @uzmp3ai
 @FAKEMUSICCC
+@Sinel45
+@MSeeDaly
+@AISTUDIO-c7s
+@aificovers
+@SoulRockChillVibes
+@january1stAI
+@echo_and_fade
+@asyl_sound
+@lee_hwang0827
+@satyabhaichannel7294
