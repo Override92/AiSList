@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19713
+! Total Channels: 19715
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19729,3 +19729,5 @@
 @franklinanderson-r6h
 @revengealleyyt
 @diplomaticjudge
+@psboxingclassics
+@заееулыбкои
