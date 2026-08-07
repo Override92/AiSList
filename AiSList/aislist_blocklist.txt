@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19699
+! Total Channels: 19696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13586,7 +13586,6 @@
 @EldineDocs
 @Mr.DavidWilder
 @TerraIncognitaSciencesOubli%C3%A9es
-@ParcheminsCach%C3%A9s
 @IRONLEGACY-z5j
 @TheInsiderBrief-p4d
 @TheIronFront-j3t
@@ -15714,7 +15713,6 @@
 @AiCats-30
 @Epicaicatt
 @AICatTales12
-@Aicatkitchen-o5b
 @AICatAmbersKitchen
 @AICatWorld12-h8e
 @nuwankumara1190
@@ -15735,7 +15733,6 @@
 @joyleyler7955
 @10HManhwaRecap
 @Luanneshackelford
-@Shoegaze-Vibes
 @TheSickScienceofHealth
 @HeroesOfArpygia
 @LiveWeatherReport-l9z
