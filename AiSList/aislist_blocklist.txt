@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19715
+! Total Channels: 19714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -422,7 +422,6 @@
 @Underworld-g1n
 @yuliya3k
 @purralleluniverse
-@StarAndManny
 @yurutone
 @puppy_sangchu
 @lazydays-yurunichijyou
