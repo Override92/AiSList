@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19666
+! Total Channels: 19667
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8063,7 +8063,6 @@
 @economybackstage
 @theshadowonthehighseas
 @oldtymz
-@kevinadvises
 @estrategiamillonaria-z1y
 @realmarkethistory
 @drainesramirez1
@@ -19682,3 +19681,5 @@
 @velvet-s5t8y
 @ghiblitales28
 @curvychic-i9d
+@sorastudiocafe
+@zephyrcozyworlds
