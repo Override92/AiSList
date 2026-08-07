@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19702
+! Total Channels: 19700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7740,7 +7740,6 @@
 @WW3GlobalWatch
 @MUSIC-AND-SONGS-ai
 @BruceLee.TheDragonsLegacy
-@bruceleelegacyusa
 @StrategicReport-SR
 @cosmiclawsexplainer
 @DreamloopRadio
@@ -13473,7 +13472,6 @@
 @PXNDOREMIX
 @DarkRemix.72
 @Raccoon_Music_Studio
-@timelessanimationz
 @sonicalgorithm
 @mysalsad12
 @AnomalyRecords_xyz
