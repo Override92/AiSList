@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19718
+! Total Channels: 19716
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7644,7 +7644,7 @@
 @CTRLALTRIFF
 @TechFrontier-AI
 @SekretIstnienia
-@WarfareInsightReport
+@geopoliticalsinsightreport
 @Mi%C4%99dzygalaktycznySzept
 @Proton-z1y
 @Astro_EngIIneer
@@ -10185,7 +10185,6 @@
 @tajemnicaprzeszlosci
 @islamlover-s7k
 @futurefactory-riad
-@tragicguy
 @slowianskaduszaprzodkow
 @thepulsefootball
 @pingguy512
@@ -17314,7 +17313,6 @@
 @JiangTheExplainer-e5d
 @ChanLore
 @goldencinemaclips
-@Smartprocessfactory
 @Discover24hProduction
 @UltimateFactory-u7b
 @process-g7y
