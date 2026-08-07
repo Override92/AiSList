@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19666
+! Total Channels: 19661
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8418,7 +8418,6 @@
 @slightly_dark_56
 @tiffytotstv
 @archiwahistori
-@catsstoryk8s
 @mojeebalrouh
 @birthdaypartymusicofficial
 @frankys_nostalgie_tv
@@ -9238,11 +9237,9 @@
 @GlobalFinanceBrief-j7y
 @HardwareBrief-1
 @thomaskellerbrief
-@CapitolNewsReports-e6s
 @EthanColeReport
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
-@NewYorkReports1
 @RedLineReport99
 @The_Economy_Report
 @TheAsianReport-ttt
@@ -11839,7 +11836,6 @@
 @diyprojectmix
 @knockusa0005
 @wellnessinsight-l7y
-@theuniversedecodedyt11
 @roadcamfiles
 @feedyourmind67
 @blackies-wake
@@ -19032,7 +19028,6 @@
 @farcasty
 @ciezkie_czasy
 @monkeycattales1
-@thefeynmanwayscience
 @adnksimuilation
 @Flickart-ai
 @RITUALSDEEPHOUSE
