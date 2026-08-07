@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19688
+! Total Channels: 19691
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19704,3 +19704,6 @@
 @asyl_sound
 @lee_hwang0827
 @satyabhaichannel7294
+@NagpuriMusicJunction
+@daydreamharmony16
+@AndraSoulAiMusic
