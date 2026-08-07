@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19716
+! Total Channels: 19715
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12424,7 +12424,6 @@
 @here_is_joy-z8z
 @simple-society
 @Stellar_clipzz
-@biblestorieswith_hannah
 @StreamerHighlights01
 @HistorySecretsUSA
 @etmojo.217
