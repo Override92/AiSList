@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19714
+! Total Channels: 19709
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13601,7 +13601,6 @@
 @CraftsCreations11
 @TheSci-FiNexus-t3c
 @ApexxTerra
-@NeuroMystic-new
 @SuccessGears
 @hypotheticalrankingyt
 @k_random3
@@ -15847,7 +15846,6 @@
 @th3escape
 @FootballAftershock
 @MrSmakShorts
-@WarGrid-a
 @XRP4
 @Modtease
 @Quirktvv
@@ -17402,7 +17400,6 @@
 @crashteamlawyers
 @SonicaaYT
 @SleepSyncOfficial
-@AITADramaDaily5
 @kingqorane8
 @LaughLoop-m6l
 @nocamfc
@@ -18103,7 +18100,6 @@
 @HistoryEndures-68
 @CosmicHeart-o4u
 @DeepSpaceTales-s8t
-@HFYAscension-z6i
 @SketchMind-y2u
 @TroubledLoveTales
 @TheZenithHFY
@@ -18483,7 +18479,6 @@
 @onliexplain
 @favourhomemadeideas
 @emberchillhouse
-@epictransformations-x9z
 @CozyNookAmbientStudio
 @KissaKohaku
 @TokyoCafeJazz-Jun-kissaTOKYO
