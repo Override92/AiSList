@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19668
+! Total Channels: 19678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19684,3 +19684,13 @@
 @SyntheticThinker_exe
 @AIWorld-omg
 @Airewrite00
+@real-ai-country
+@YUYAFilmLab
+@oromoaimusics
+@straikidss
+@New-Vibe30
+@NickelVerseMusic
+@SystemNeuralSynd675
+@EthioSynthAI
+@uzmp3ai
+@FAKEMUSICCC
