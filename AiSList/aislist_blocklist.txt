@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19830
+! Total Channels: 19825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59,7 +59,6 @@
 @axieadventures
 @FairyFrame-r24
 @burstwc
-@paulandfriends7006
 @Starway-v5z
 @AmyyRoblox1
 @HEROISINSANOS-m9s
@@ -4455,7 +4454,6 @@
 @LofiAilurophile-lq4oi
 @chillchilljournal
 @retrorhythm-on
-@Dr.Revela
 @TipoGris
 @PrimeFit-YT
 @SaludenPractica
@@ -4582,7 +4580,6 @@
 @TheHiddenBobDylanStories
 @WisdomThroughTime99
 @stoicthinkers1
-@ElderlyPrimeHealth
 @The.World.Revolution
 @WWIIMemoryVault
 @StoicMen2
@@ -6099,7 +6096,6 @@
 @subtelnarzeczywistosc
 @szeptslow
 @zemstazkasia
-@diplomatspast
 @calosciowezdrowiemezczyzn
 @Worldnomics-Asianguy
 @historieukryte10
@@ -12114,7 +12110,6 @@
 @kosmetykipodlupa
 @dadneverforgot-d2e
 @usamatheshadow
-@thehiddenmeaninghq
 @littlestorypages-c9i
 @quietstories-n3k
 @vnkvofficial
