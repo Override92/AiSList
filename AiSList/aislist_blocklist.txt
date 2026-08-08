@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19709
+! Total Channels: 19710
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3337,7 +3337,7 @@
 @WarAndMystery
 @The_Smart_Retirement
 @SilverSignalRoom
-@MoneyArchive-Official
+@globalinnovation-tv
 @BullionInsider-k4w
 @MoneyOnMyMind-z9k
 @MissileDiscovery
@@ -19725,3 +19725,4 @@
 @arabesk_duragi
 @mnthoi
 @aibataye
+@psycho__pulse1
