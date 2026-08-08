@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20008
+! Total Channels: 20003
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10524,7 +10524,6 @@
 @HoaStoriessLab
 @HOAStoriesUS
 @HOASTORYFiles0
-@HOAStruggle
 @HOAUncovered-US
 @HOAUntoldTruths
 @Jeanne-AIASMR
@@ -14001,7 +14000,6 @@
 @PawsOnAirxD
 @MeowEase
 @GatherRound-h6l
-@TaleTinker1
 @aivideogenerator_official
 @SunRise-l8m
 @JustWatchNow.1
@@ -14101,7 +14099,6 @@
 @AICashBen
 @Deepak-u7d2zu
 @NovaAI57
-@NeonLavigne
 @YaBoyyTony
 @AIMUSICHUB-u6g
 @westaibeats
@@ -17731,7 +17728,6 @@
 @dinovfx_1
 @tinyfoodworkers0
 @germandaily-e1t
-@neonlavigne-fan_inspired
 @enestoryworld
 @jagabanmovie_recap
 @PlayOwnAi
@@ -18849,7 +18845,6 @@
 @LockedBeatsmusic
 @Africanfolktalesbydaniel
 @ZinzyAIStories
-@Sandytales1
 @discrein
 @Unclewisdom1
 @DarbyStoriesTales
