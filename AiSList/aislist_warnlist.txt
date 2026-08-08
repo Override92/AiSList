@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 906
+! Total Channels: 907
 
 ! Entries:
 @CinebotComedy
@@ -928,3 +928,4 @@
 @7figurebossacademy
 @gloamrift
 @Sulltiss
+@HistoricalAttractions
