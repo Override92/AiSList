@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19699
+! Total Channels: 19694
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3571,7 +3571,6 @@
 @StrongSeniors365
 @BioWellnessZone
 @CarVerse
-@noorFatima-z5m8j
 @RevlineMedia-t9b
 @LuxuryCars-x9v
 @Next-GenCar
@@ -3666,7 +3665,6 @@
 @Psicolog%C3%ADa.Oculta1
 @MonaEnigmaEng
 @BeyondThePorchStories
-@xkidsoreckless-8030
 @Mafia.Romance.Stories
 @MEANINGLESSLIFE-b9f
 @Pensador-oscuroo
@@ -3770,7 +3768,6 @@
 @VIDAESTOICATGN
 @Audiolibrosdealtonivel
 @PSYCOart-E
-@DrRicardoVeller
 @ConsejosdeSaludsinEdad
 @SeniorStepstoHealth
 @Dr.DarienVoss
@@ -3839,7 +3836,6 @@
 @JungyelC%C3%B3digodelosTraumas
 @MrKhan-e5y9c
 @SusurrosdelAlma_ES
-@MenteTransformadora88
 @As%C3%ADSomosES
 @CosmoMillonario
 @Ra%C3%ADcesOlvidadas1
@@ -3968,7 +3964,6 @@
 @Hombres_con_Poder
 @Dr.FernandoM%C3%A9ndezsaludactiva
 @SaludMilagrosa
-@Drcardenas25
 @Dr.MateoCastillo
 @revengestorieswitholivia
 @truelifechronicles-d9o
