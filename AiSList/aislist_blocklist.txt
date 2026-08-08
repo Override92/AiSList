@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19930
+! Total Channels: 19936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19946,3 +19946,9 @@
 @cascadealopra
 @businesspartnerglobal
 @SvalaStunder
+@40K_Sound
+@MagicUncoveredYT
+@kitchenAI221
+@ShamanicPulse
+@RUMIRA-g5b
+@TheBusinessMonitor
