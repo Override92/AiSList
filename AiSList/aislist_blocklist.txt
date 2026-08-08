@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19887
+! Total Channels: 19893
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19903,3 +19903,9 @@
 @CanyonSoulStories
 @RedMesaTales
 @WildWestTales-x8p
+@JohnMartinez-s7f
+@EagleEyeApache
+@PrairieEcho-c5e
+@the_dublin_smashers
+@BackroadMelodies-g7t
+@ShamrocksBallads
