@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19704
+! Total Channels: 19699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3499,7 +3499,6 @@
 @DrLorenzoArens
 @CuerpoenArmon%C3%ADa-q8p
 @Dr.JavierSerrano
-@DrFernandoManochi
 @VerdadesSilenciosas-q1o
 @RelatosqueConmueven1
 @dra.dlbadom%C3%A9nech
@@ -3565,7 +3564,6 @@
 @lifeafter700
 @dravaleriamorenour%C3%B3loga
 @Dra.IsabelaCort%C3%A9s-e3z
-@Dr.FranciscoVazquez
 @Dr.MiguelCastillo
 @SaludconDatos1
 @signosdesalud
@@ -17173,7 +17171,6 @@
 @nature30000
 @skullify45
 @thequietgardens
-@saluddoradaconfernando
 @reddittalesangle
 @nextgenbusiness-26
 @쇼핑레이더-12
@@ -18278,7 +18275,6 @@
 @Moneymadesimpleeee
 @simplegyan123
 @FinStoryHindi
-@mensajesinspirados-e7f
 @moontimestudioai
 @bharatdesh786
 @inspiracioncatolica-e3f
@@ -19053,7 +19049,6 @@
 @ai动漫频道
 @dearielledrama
 @红红漫剧
-@franciscovazquezyt
 @forgottenfrontiers22
 @veloursounds_1
 @spotkaniesredniowieczne
