@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19936
+! Total Channels: 19945
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19952,3 +19952,12 @@
 @ShamanicPulse
 @RUMIRA-g5b
 @TheBusinessMonitor
+@TechnologyShortYotube
+@simplystunningfacts
+@kirudoc
+@explainerguy01
+@Beaver-Engineer
+@Hidden_MysteriesO2x
+@SmartArchive-YT
+@StrategicPulse33
+@kamechanTV-official
