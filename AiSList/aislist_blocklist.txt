@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19700
+! Total Channels: 19699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8937,7 +8937,6 @@
 @HowStuffRuns-m5s
 @MuhammadIrfan-b8d1o
 @factoryvids24
-@gulfwatch-666
 @HarvestMotion
 @SecretosDeF%C3%A1bricas
 @omega_entertainment-N
