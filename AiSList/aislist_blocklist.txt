@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19847
+! Total Channels: 19857
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19863,3 +19863,13 @@
 @TheMariaAI
 @aiTrends-channel
 @TheFiftiesClub
+@Boss2000
+@oliviasuna
+@GhibliAnimeAI
+@THETIMELESSSTORY-e8g
+@SoraCable
+@storylocation
+@CreativeAIAnimation407
+@StoryStudio_official
+@UrbanMyths-757
+@storytalkhub007
