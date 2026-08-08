@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19691
+! Total Channels: 19701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19707,3 +19707,13 @@
 @thenamelesslegend
 @theevolutionnetwork-d7n
 @catholicfilmsofc
+@Kanalbeschreibung
+@AlphaDestinyStories
+@HoanNguy%E1%BB%85n-h5v1e
+@AlphaKingChronicles-e6v
+@MoonlitEchoesStories-n1z
+@PrimeTimeDrama91
+@MoonboundLoveStories
+@AlphaDestinyStories-US
+@fatedalphamoon
+@MoonboundTales-n9
