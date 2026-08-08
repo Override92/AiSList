@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20009
+! Total Channels: 20008
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1538,7 +1538,6 @@
 @howitsmade-hn
 @massproduction91225
 @hiddenfactoryworld
-@primefactorysecrets
 @silentrestoration-00
 @production_secrets
 @factoryprocess-g5q
