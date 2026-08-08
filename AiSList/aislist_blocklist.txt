@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19710
+! Total Channels: 19709
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3289,7 +3289,7 @@
 @BarelyEvolved
 @ForgetfulHistorian
 @MajesticAIStudio
-@Timeportalss
+@danielgrossoweb1
 @Next-LevelTech-p3p
 @WhatifAnime5
 @boringhistoriantv
@@ -18845,7 +18845,6 @@
 @AI%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93
 @TheLeverageReport-s9k
 @RadiantDrama-q4c
-@CherryWineDrama
 @%E7%BA%A2%E7%BA%A2%E6%BC%AB%E5%89%A7
 @NoahDrama9
 @Bonzo-f3x
