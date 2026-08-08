@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19721
+! Total Channels: 19731
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19737,3 +19737,13 @@
 @BedtimeBiographies2
 @Evolude
 @Zixeny
+@WhisperedThoughts335
+@SofiaDesireStories
+@ALittleMaybe335
+@DarkRomanceStorytime-p3t
+@MafiaS.T
+@TheLastCapo
+@BossLoveStorylines
+@HeartStoryHub-m4c
+@MafiaLegacy-t5i
+@%EB%B0%98%ED%86%A0%EB%A7%89AI
