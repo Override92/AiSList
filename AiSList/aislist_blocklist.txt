@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19758
+! Total Channels: 19768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19774,3 +19774,13 @@
 @ClaimedbyFate
 @DadsSilentRevenge-w3f
 @MUSICKIJY
+@MidnightRomanceAudiobooks-z8o
+@Thequietfather32
+@TheCandlelitHistory
+@Alfred45-j6v
+@MafiaGIRLUS
+@AfterHoursOfficeJazz
+@TheLegacyofBruceLee
+@fedonevex_zolika
+@AnimalFlashTime
+@TheDailyNewsReport
