@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19811
+! Total Channels: 19819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19827,3 +19827,11 @@
 @cartoonorbit-1
 @DreamScaleStories
 @ZingoStories2
+@HeavenlyStoriesAI-q5x
+@TheOutlawedWest
+@TheBlackCapeGunslinger
+@FavoAleandro
+@SciFi_Verse
+@Sci-FiOrbitWars
+@Stories-of-Slavery
+@EbysHeart
