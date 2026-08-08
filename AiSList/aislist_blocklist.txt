@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19775
+! Total Channels: 19785
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19791,3 +19791,13 @@
 @TomTalksMoney2k
 @UltimateRevenge-u6n
 @BritishTruthReport
+@JamesWhitmoreYT
+@SeoulSilentCamp
+@PlatinumDiaries
+@%EC%9E%98%EC%9E%90%EC%83%98-b4m
+@EmmanBLDiary
+@AlphaTaleStories
+@RoyalLegacyChronicles-g5f
+@AinasLoveStoryLibrary
+@MoonlitFateStories
+@Cherrywhisperdrama
