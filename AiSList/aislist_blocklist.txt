@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19696
+! Total Channels: 19695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4676,7 +4676,7 @@
 @Ash.AI.muzika
 @BigFootBoyzVlog
 @victoryzone12
-@Silent-Stoic
+@silentstoic-2024
 @WarPOVwithMike
 @TheWWIIArchive-910
 @ALifeOnceLived
@@ -4856,7 +4856,6 @@
 @HOANonsense
 @HOADramaStories-t7o
 @thehoastories-i9z
-@MrHoaStories
 @nhungoc8614
 @LittleLife-Dipikaji
 @MarketRulesthatmakemoney
