@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19785
+! Total Channels: 19791
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19801,3 +19801,9 @@
 @AinasLoveStoryLibrary
 @MoonlitFateStories
 @Cherrywhisperdrama
+@DramaInsider-n6u
+@DramaShineTV
+@TheCachee
+@StarboundHFYCinema
+@HFYNexus-e9z
+@Boring-Stories-ForSleep
