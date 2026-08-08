@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20008
+! Total Channels: 20010
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20024,3 +20024,5 @@
 @MidnightChillStation-r1q
 @neonsoulradio-z5u
 @NCash
+@donaldsjazzloungee
+@wtfflix_ufc
