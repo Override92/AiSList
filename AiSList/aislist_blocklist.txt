@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19945
+! Total Channels: 19955
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19961,3 +19961,13 @@
 @SmartArchive-YT
 @StrategicPulse33
 @kamechanTV-official
+@Foodiscover
+@ChristsDiscipl3s
+@ComfyUIstudio
+@triviatidbits1224
+@akkadashur
+@dailyaramaicprayers
+@AramaicChantSacredEchoes
+@ForbiddenVaultHQ
+@mysteriesofAdonai
+@InAramaic
