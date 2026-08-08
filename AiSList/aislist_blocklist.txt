@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19695
+! Total Channels: 19693
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4940,7 +4940,6 @@
 @Investonomics
 @TheAppVerdict
 @UKRealityReport
-@historybuub
 @USFinancialReality24
 @VeiledDreamsStories
 @FlipStories9999
@@ -5805,7 +5804,6 @@
 @CanadaHousingInfo
 @BlackjusticefilesTv
 @Dr.ElenaCruzHealth
-@GrandmaSecretVibes
 @oliver111-g1k
 @HealthyAgingwithDr.ElenaCruz
 @DailyNewsMinutes0
