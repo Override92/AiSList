@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19827
+! Total Channels: 19832
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19843,3 +19843,8 @@
 @Faceless-Folklores
 @ai_tunnel
 @Schlachtanalyse
+@KTechVision-r8z
+@aishortsvideobyfaim
+@storybloomvideos
+@TechWithMajeed12
+@Surajtipseditor
