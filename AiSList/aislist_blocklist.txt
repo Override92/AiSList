@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20006
+! Total Channels: 20001
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15092,7 +15092,6 @@
 @AFRICANSTORYFIRE556
 @TheWisdomTree-story
 @AncestralFiresideTales
-@TornHeartsTales
 @Joxxstorytime
 @Moonlighttalesbydoubled
 @jamjamtales
@@ -17768,7 +17767,6 @@
 @SleepyHorror1
 @The_Last_Confession90s
 @SavannaPulse78
-@EchoeWaveRecords
 @UbuntuSacredVoices
 @SavannaBeatsPulse
 @JuniperMinuet
@@ -19407,11 +19405,8 @@
 @DadsRevengeStoriesUS
 @Jonassch%C3%B6ler-san
 @thesowers-band
-@TheHFYZenith
 @ShadowThrone-m5z
 @HuemanInstrumentality
-@ShahkaarWorld
-@WowTv033
 @Creative_Jane27
 @ChadGrowOfficial
 @AlTricksYT
