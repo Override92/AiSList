@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20178
+! Total Channels: 20187
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20194,3 +20194,12 @@
 @FolktalebyAKAY
 @HiddenJusticeTales-7u
 @ValorFortuneStories
+@Billionaire-Tales-i8e
+@Best-Novel777
+@EverEnrichStories-t7m
+@GoldenFolktaleStories
+@TheShade-02
+@DramaDonna-w1x
+@SilentSEAL-a1
+@OnyxDramaFilms
+@StoryVault-Originals
