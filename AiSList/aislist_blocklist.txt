@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20002
+! Total Channels: 20000
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16925,8 +16925,6 @@
 @gguanmusci
 @markzack1
 @africasforgottentales-m9e
-@talesbyesther-1
-@veggieverse096
 @greatindianbowl-n
 @marandiglobalwatch
 @mohsindigitaltv
