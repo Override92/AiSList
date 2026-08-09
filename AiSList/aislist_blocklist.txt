@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20014
+! Total Channels: 20012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10120,7 +10120,7 @@
 @EdnerdExplains
 @Fact.me1
 @DentroleFabbricheModerne
-@worldwidemanufacturing-h6u
+@riazjampuri
 @ProcessBehind-z8s
 @TheProcessUnfolded
 @SmartGenFactory
@@ -14230,7 +14230,6 @@
 @MidnightRapFM
 @SELINAS-OFFICIAL
 @PrimeBeatRhythm
-@teddymusic-j4r
 @JamNationOfficial
 @AIrythm-v9k
 @TechReviewBD
@@ -14297,7 +14296,6 @@
 @BABA_808
 @SameSound-2026
 @OldSchoolJamsUnlimited
-@FrantzMood
 @OldSchoolStudio
 @PoweroftheDollarAI
 @realistkixng4990
