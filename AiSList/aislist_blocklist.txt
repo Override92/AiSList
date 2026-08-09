@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20231
+! Total Channels: 20240
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20247,3 +20247,12 @@
 @SealHavenStories
 @NurseGraceJournal
 @MbuotidemEzeiloh-l3l
+@Annette.AnnieStoryHub
+@UnseenMindStories
+@TrueCrimeVaultCases
+@InvestigateAsia
+@failedfutr
+@StorytellingVibe12
+@Taleswithaffy
+@KindnessTaleStories1
+@Gracestudios.x
