@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20135
+! Total Channels: 20145
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20151,3 +20151,13 @@
 @QueenTales-s8o
 @Folktalesbykachi
 @TalesbyFavour7
+@NmasInnerVoice006
+@IfunanyaCinema
+@StoriesByMakky
+@GoodSoilStories
+@taleswithhaybee12
+@BingestoriesAnimations
+@YourWriterai
+@luminastories-s6w
+@MidnightTruthStoriesTv
+@storiesbybee0
