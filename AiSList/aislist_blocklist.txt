@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20197
+! Total Channels: 20206
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20213,3 +20213,12 @@
 @TacticalHonor-h4q
 @OrdinaryLegends287
 @MultiverseClash-c1e
+@TheoDuncan2363
+@SkyPhoenixStory
+@ZoraChroniclesAudio
+@BikersSoul1
+@SEALChronicles
+@BlackRoadRiders79
+@NobleBattalion
+@MidnightNurseNotes
+@hoymengheang8039
