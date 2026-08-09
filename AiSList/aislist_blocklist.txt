@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20153
+! Total Channels: 20162
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20169,3 +20169,12 @@
 @HafizaRukhsana-j7s
 @FolktalesbyZida
 @Thehiddenplot-1
+@HiddenVoices-b5y
+@blackstorytalestv
+@SoulfulTales-r1k
+@WhisperingStories-n6y
+@StoryLedgerUsa-f4l
+@UnfoldsStoryHT
+@HIDDEN_FORTUNE_STORIES
+@HeartwarmingTales-w1n
+@HiddenTruthStories8
