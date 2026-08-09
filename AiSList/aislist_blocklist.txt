@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19987
+! Total Channels: 19986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6481,12 +6481,10 @@
 @BibleFiles365
 @TheOrcChronicles
 @ElderCareWellness1
-@Dr.MayaVitalCore
 @MERCEDESSO-c5n
 @SeniorHealthLife60
 @DrThomasSeniorCare
 @SeniorWellnessGuide-f9j
-@inspiringtruestories24h
 @ChristianStronghold
 @ConnectWithGod777
 @BibleHidden101
@@ -20003,3 +20001,4 @@
 @nexusprimerealism
 @animalisle
 @jonasscholer-san
+@reporgramsubconscious
