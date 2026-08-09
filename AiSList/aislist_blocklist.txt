@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20011
+! Total Channels: 20006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10208,7 +10208,6 @@
 @AI-lig
 @tarasshebek8270
 @MariusFeat.TheAmazingAIMachine
-@vfxbabyshark
 @EmptyWordsProyect
 @DarkOrchardProductions
 @Kraken89Music
@@ -11588,7 +11587,6 @@
 @biblemadesimple-nvh
 @revealmode
 @dreamlandrhymesbyazhan
-@dailyautomationai90
 @manthann.45
 @innermindtruths
 @revealmodoyt
@@ -12628,7 +12626,6 @@
 @geopoliticalabyssreport
 @bassglyph
 @TheDefenseVault
-@GlobalConflictBrief-l6j
 @savedata.mp3
 @Globalconflictwatch-k4u
 @koyuchi_ShamisenBeats
@@ -14169,7 +14166,6 @@
 @planetemerveille
 @swiatzwierzat-q8j
 @saebyeokseorap_audio
-@daliomoney
 @flyght_skool
 @ArcaneTrailersofficial
 @Wealthaimind
@@ -15080,7 +15076,6 @@
 @CollyStories
 @TalesofAfricanWhispers
 @Dr.MahnoorMuntaz
-@ClassicTaleLibrary
 @BIAxXxFolktales
 @AfricanTalesByFloraB
 @AfricianFolkTales
