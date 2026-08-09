@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20116
+! Total Channels: 20126
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20132,3 +20132,13 @@
 @OnyiistoriesTv
 @taleswithani
 @ViannyCinematics
+@StorytimewithDr
+@Funke_videos
+@AuraTaleStudios
+@StorieswithHeart-o9w
+@Mr.EvermoreStories
+@JJGold_storytime
+@SURLEY_STORIES
+@OmaPresh-f9j
+@TisStories
+@AfricanSoulSecrets
