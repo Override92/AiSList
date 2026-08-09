@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20107
+! Total Channels: 20116
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20123,3 +20123,12 @@
 @Neche19Stories-1
 @Riatales1
 @Chris-stories1123
+@africamademovies
+@Zeriahunplugged
+@Taleswithmimi-AiStories
+@Imatales_stories
+@amydiaryaistories
+@JuliChristar_Visuals
+@OnyiistoriesTv
+@taleswithani
+@ViannyCinematics
