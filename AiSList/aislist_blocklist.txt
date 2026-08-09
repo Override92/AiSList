@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20064
+! Total Channels: 20074
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20080,3 +20080,13 @@
 @SponeTale
 @BlackBeltHonor
 @AFRICANECHOTALES-b5j
+@BlackDadLeagacy-22
+@THEGENTERTAIN
+@OPorquedasCoisassimples
+@StoryVerseChronicles5121
+@AfroKoreanArena
+@Harlemshiddenrulers
+@GiftJames-h9c
+@EMPIRETALES-o1l
+@UnderdogTwist
+@PlatinumPulseDocs
