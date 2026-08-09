@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20074
+! Total Channels: 20080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20090,3 +20090,9 @@
 @EMPIRETALES-o1l
 @UnderdogTwist
 @PlatinumPulseDocs
+@TheQuietVerdict-TQV
+@TundeAiStudio
+@TheMirrorofSelf
+@ufublesAlfred
+@EllasTaleStudio
+@wilzy001
