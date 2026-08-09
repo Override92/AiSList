@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20240
+! Total Channels: 20247
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20256,3 +20256,10 @@
 @Taleswithaffy
 @KindnessTaleStories1
 @Gracestudios.x
+@AaAa-pl2wg
+@PM-lucky016
+@SadiqCargo
+@FrontierBrides
+@Dearest_Listener
+@Hurumtales1
+@THEG_DRAMA
