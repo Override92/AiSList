@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20267
+! Total Channels: 20276
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20283,3 +20283,12 @@
 @QUEENROBLOXabc
 @RegretLoverTales
 @StoryVault-10X
+@STA-k8n
+@MilaStory12
+@STORYPLACE-i7j
+@EverlightStoriesTV
+@UnboundTales1
+@Tales_by_Grace
+@monicastales1
+@WornGoldTales
+@TalesbyZainab3
