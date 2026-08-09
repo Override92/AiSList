@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20014
+! Total Channels: 20013
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14992,7 +14992,6 @@
 @Ajntales
 @ZahrasFolktales
 @AfricanStorytelling-x5j
-@Folktalestoriesbynmeso
 @AfterDarkTalesbyBun
 @HeartWingStories
 @theancientgroit
@@ -15007,7 +15006,6 @@
 @TalesbyStarr
 @Toyinthecreator
 @Vinonline-np9jj
-@unveiledhistory-b6m
 @NyotaNightTales
 @TouchStories7
 @Isaacstories07
@@ -20030,3 +20028,4 @@
 @futureunlocked68
 @ikuy_bhhb
 @sarilingreggae
+@nexusprimerealism
