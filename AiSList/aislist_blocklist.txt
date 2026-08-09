@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20016
+! Total Channels: 20018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20032,3 +20032,5 @@
 @TheGnosticAwakening
 @historyspace-s2w
 @GoodOldDays2k25
+@ReserveArc
+@DubaiUnspoken
