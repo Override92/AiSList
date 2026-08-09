@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20036
+! Total Channels: 20045
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20052,3 +20052,12 @@
 @realrevengebytruth
 @MiaStoriesHN
 @VengeanceBound2801
+@UNEXPECTEDDESTINIES
+@HeartNest-US
+@Soulfulstories-s1d
+@ActsofValor-n5y
+@RoyalWhispersStories
+@CatsRevengeus
+@ENGLISHStories-i3r
+@MildJusticeStories
+@RedditDailyChronicles-m4s
