@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20215
+! Total Channels: 20222
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20231,3 +20231,10 @@
 @shadowproofstories
 @BlacktopNomad9
 @BikerLegendsChronicles
+@VelvetRetributionRevenge
+@BikerStoriesDaily
+@BravePawsStories-g9i
+@K9HonorStories
+@CowboyCottonwood
+@SEALDogLegends
+@BlackMichaelStories
