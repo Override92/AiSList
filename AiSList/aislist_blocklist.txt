@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20187
+! Total Channels: 20197
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20203,3 +20203,13 @@
 @SilentSEAL-a1
 @OnyxDramaFilms
 @StoryVault-Originals
+@EnayaAbdo-vw8tw
+@cistories.studio-s26
+@TrueheartStories-w9r
+@ShadowNavySEAL
+@taleswitdun
+@Wild.Horizons-o9g
+@BrotherMarcusStories-i1p
+@TacticalHonor-h4q
+@OrdinaryLegends287
+@MultiverseClash-c1e
