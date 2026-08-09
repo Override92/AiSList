@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20145
+! Total Channels: 20149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20161,3 +20161,7 @@
 @luminastories-s6w
 @MidnightTruthStoriesTv
 @storiesbybee0
+@SempiternalStories
+@SmithMathew-t7b
+@Skyrose_TV
+@TaleswithAnnie
