@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20080
+! Total Channels: 20089
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20096,3 +20096,12 @@
 @ufublesAlfred
 @EllasTaleStudio
 @wilzy001
+@dorcasgado
+@officialchistales
+@mandy_vibeshub
+@KobiStorylabofficial
+@Bellatv-q4o
+@Sophiadiaries-m4q
+@taleschronicles26
+@TalesByAzi
+@Scene_Epic
