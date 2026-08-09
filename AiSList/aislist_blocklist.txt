@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20173
+! Total Channels: 20178
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20189,3 +20189,8 @@
 @HumanFateStoriesbyYM
 @WindChronicless-03
 @manzarhussain9927
+@HeartVoiceStoriesByY99
+@KindnessHub2.0
+@FolktalebyAKAY
+@HiddenJusticeTales-7u
+@ValorFortuneStories
