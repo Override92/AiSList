@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20000
+! Total Channels: 19995
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15362,7 +15362,6 @@
 @RJsgarage-h7k
 @Mars.RogueRabbit
 @FreshDiscoveryb
-@AfricanTales_ByEnkay
 @Jungifilozofia
 @cuscen464
 @Noxium-e1d
@@ -19150,7 +19149,6 @@
 @SunoSpheree
 @cwjAi-Afro
 @Duniairama-q8j
-@Caribbean-Spirit
 @elumoire83
 @radharaniyoutub
 @americanhistorychronicles1700
@@ -19409,7 +19407,6 @@
 @ChadGrowOfficial
 @AlTricksYT
 @AiSavvy0
-@RagdollAICat
 @AIITHEMOVIE
 @INDIsynth
 @tartariarebornAI88
@@ -19424,10 +19421,8 @@
 @SonaTess
 @VADARKOfficial
 @AIVideoMusicArt
-@attababyai
 @AfricanTalesByJokky1
 @StoriesBymea-l6v
-@TaleswithToria
 @brainyfolktalesbylucy
 @StoischeFestung
 @shamrocksandshenanigans-n7s
