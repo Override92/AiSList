@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19992
+! Total Channels: 19987
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6166,7 +6166,6 @@
 @LabofDub
 @historiasdolobiancoo
 @Historiekt%C3%B3rychnieopowiedzia%C5%82a
-@StockCapital-g2c
 @FutureProofSurvival
 @SkyStrikeAnalytica
 @RedJustice-q7k
@@ -6481,7 +6480,6 @@
 @Faith_Spotlight
 @BibleFiles365
 @TheOrcChronicles
-@HealthModoTips
 @ElderCareWellness1
 @Dr.MayaVitalCore
 @MERCEDESSO-c5n
@@ -11937,7 +11935,6 @@
 @Tarasa.7001
 @OddlyFruits
 @FruityBabiesASMR0
-@AsmrHunt
 @SFamilyShows
 @neuronest010
 @UntilYouFeelSatisfied
@@ -15452,7 +15449,6 @@
 @VelvetThorn-u2p
 @Mr.AndersonStories-TV
 @FrozenRevenge-d3y
-@PoppyRevenge.us22
 @SpicebushRevenge
 @DADSILENTREVENGE-j9l
 @WolfTalesDaily
@@ -19153,7 +19149,6 @@
 @GrandStructures01
 @The-Age-of-Robots
 @cartoonmafiatech
-@Dr.Javier-Morales
 @VidaPlenaSeniorDrJoan
 @Optics_Armor
 @LegendsMelodies
