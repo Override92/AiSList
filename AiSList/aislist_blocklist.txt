@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20004
+! Total Channels: 20014
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20020,3 +20020,13 @@
 @PrestigeRevenge2
 @MiracleRevenge
 @SilentTearsStoriesUS
+@DeepDramaStories
+@SweetPayback_01
+@MulberryRevenge
+@TemptedHearts-p6f
+@HiddenShadows393
+@SecondTruth-f2x
+@Epicmedia14
+@RedditArchives-x4k
+@bryanshow7559
+@HeartsStory-n5k
