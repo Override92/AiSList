@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 19986
+! Total Channels: 19988
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20002,3 +20002,5 @@
 @animalisle
 @jonasscholer-san
 @reporgramsubconscious
+@healingwoman358_soulpopmusic
+@81metalrooster
