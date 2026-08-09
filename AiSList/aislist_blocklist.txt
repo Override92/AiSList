@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20252
+! Total Channels: 20258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20268,3 +20268,9 @@
 @StoryFrontier-w3u
 @SilentBadgesStories
 @NollyWood_Studio
+@Unforeseentales-o5m
+@victoriapeter6732
+@TimelessAndTales
+@MysteryTales-l6x
+@BittersweetTales-r8f
+@TaleNova-t5d
