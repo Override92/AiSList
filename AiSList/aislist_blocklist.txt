@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20162
+! Total Channels: 20167
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20178,3 +20178,8 @@
 @HIDDEN_FORTUNE_STORIES
 @HeartwarmingTales-w1n
 @HiddenTruthStories8
+@TheBillionairesChoice-US
+@PowerxxxRevealed
+@NeverJudgeStories-us
+@AfricanHiddenStorie-g1yAfrican
+@Unsaidtale
