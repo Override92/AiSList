@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20206
+! Total Channels: 20215
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20222,3 +20222,12 @@
 @NobleBattalion
 @MidnightNurseNotes
 @hoymengheang8039
+@BruceLeeMartialLegacy
+@HellsAngelsMercy-m1j
+@TheForgottenFootlines
+@BikerAngelsChronicles
+@SealVeteransChronicle
+@TheVeteranChronicles-x5h
+@shadowproofstories
+@BlacktopNomad9
+@BikerLegendsChronicles
