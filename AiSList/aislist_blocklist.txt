@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20019
+! Total Channels: 20016
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2984,7 +2984,6 @@
 @WartimeWhisperss
 @odd-verse
 @AgricultureInsightusa
-@BritainUncoveredX
 @GormtheOld25
 @QuietGuard
 @UnbreakableandArmed
@@ -9739,7 +9738,6 @@
 @fictionalfilmsai
 @promptrevolution
 @AIVisFilms
-@lesbianstories-b8c
 @BookMagic97
 @NeuralNova-k1o
 @LoomystAI
@@ -12683,7 +12681,6 @@
 @offmapamerica
 @CoordinateX-v8r
 @TheTexanLife
-@DylanGaage
 @RestrictedAreasAmerica
 @StateGeek
 @texasknows
