@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20303
+! Total Channels: 20312
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20319,3 +20319,12 @@
 @Story-hub993
 @StoriesbyAmara-c9u
 @thetruthcorneronline
+@FolktalesbyEbuka
+@Sci-FiTraveler
+@folktalesbykaliboy
+@KasiFolktales
+@CaricatureMultiverse
+@TalesbyCotton
+@ScholaTales-01
+@Kikisfolktales
+@CRYSTALHARTSTUDIOS
