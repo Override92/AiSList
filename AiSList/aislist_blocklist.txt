@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20285
+! Total Channels: 20284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7937,7 +7937,6 @@
 @quietwealth-y5x
 @simple-physix
 @softwavisounds
-@stylish_actress
 @tonyinvestigates
 @theclinthub
 @design_hustel_67
@@ -13032,7 +13031,6 @@
 @aasmausama
 @Animal-AILife
 @AiStoryfruits73
-@TinyAI_CEO
 @AIMARYLIFESTORY
 @AiLifeBangla
 @EducationinEnglish-e3n
@@ -14374,7 +14372,7 @@
 @TheN3xtLevel
 @viewtechid
 @DrPhoxotic
-@YTFarhan-l8b
+@qaahmedail-l8b
 @theparalleltruthofficial
 @MoneyExplain_US
 @GrowthHorizon-o6y
@@ -20301,3 +20299,4 @@
 @BlackQueenJusticeStories
 @Silent-Depths-b9j
 @julioguillermo7609
+@polyzcape
