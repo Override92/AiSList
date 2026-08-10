@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20403
+! Total Channels: 20402
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10411,7 +10411,6 @@
 @StyleMorphAI
 @WaveWarpStudio
 @roboblues
-@Heemotion_official
 @iwatipis
 @futurefmph
 @lalogial
@@ -12414,7 +12413,7 @@
 @AfroSeoulvalvetdiaries
 @afrokoreanchronicles12
 @LoveBoss-g7z
-@Afro-AsianSyndicateTales
+@shadowpromisestorie
 @Kindnesschronicles-x3y
 @SeoulHeartSecrets
 @DynastyofHanDesire
