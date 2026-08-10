@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20397
+! Total Channels: 20396
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11156,7 +11156,6 @@
 @AI_MusicLyrics
 @ZYRO12-x8c
 @Infinitemusicai-ykb
-@Dreamstatic26
 @BankaRenKura
 @Denzel_Washingclothes
 @AiCreatesNostalgia
