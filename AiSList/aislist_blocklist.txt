@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20339
+! Total Channels: 20348
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20355,3 +20355,12 @@
 @LanternandLegend
 @ClassifiedDecoded
 @AfricanFolktalesByMarv
+@TalesOfNigeria
+@rockid-r5b
+@BeyondTheChart-c
+@MarysPen
+@kimanirachie901
+@stories-tem
+@mirianofime8911
+@MothersTactics04-99
+@HumanityStories-t1e
