@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20424
+! Total Channels: 20419
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7494,7 +7494,6 @@
 @FinvestorData
 @sagee-v3tm
 @RedAlertReports
-@AttorneyTheodoreWalton-i2k
 @Tyronethebigblackcat
 @nyxawave
 @9to5Nemesis
@@ -13326,7 +13325,6 @@
 @AtlasRhythmRecords
 @SoundVerse-g6j
 @neuralbeats.audioAi
-@StormCrownMusic
 @NeuralSounds-v4b
 @NoteNova-o6t
 @Neural-eaz
@@ -13336,7 +13334,6 @@
 @goldenroots2
 @DriftWave-i5
 @ECHOTVReal
-@Vowel20beats
 @ElysiumRecord-o1z
 @GuilhermeNogueira-m6q
 @Ai_SunaMusic
@@ -17053,7 +17050,6 @@
 @TheSilentCovenant777
 @TheChosenConflict777
 @LightofFaith-u2d
-@bloodofjesusprotectionpowerful
 @GodsSaysToday-fb2en
 @chosenones04
 @ChoseninGrace
@@ -18929,7 +18925,6 @@
 @RahulHistoryVault
 @SeniorRemedies
 @PsychologyLearnma
-@ProfessorMarandiUpdates-f3j
 @TheArtificialHumour
 @ANCESTRALINTELLIGENCE-y7c
 @sonicrhythm-x6m
