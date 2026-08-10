@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20408
+! Total Channels: 20403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10633,7 +10633,6 @@
 @militaryhistoryforsleep
 @t_tv-1
 @movieparodyai8286
-@rdxmagicworld
 @kingdomofpredatorstv
 @ellah-p3r
 @bngfotball
@@ -18009,7 +18008,6 @@
 @next-process
 @田中本舗_制作課
 @野球の夢
-@norddeutscheharte
 @opowiescwojennasciencefiction
 @sladydawnejpolski
 @tajnykapital
@@ -19580,14 +19578,11 @@
 @TOPLIST1111
 @OldHush
 @JanWro%C5%84skCichaGranica
-@LudzkoscRzadzi
 @PsieLegendy
 @Nezlomn%C3%A9Lidstvo
-@StrefaZiemian
 @EchoLudzkiejPot%C4%99gi
 @GwiezdnaFlotaLudzko%C5%9Bci
 @Cz%C5%82owiekZ%C5%82amieKa%C5%BCd%C4%85Regu%C5%82%C4%99
-@NadNowaSci-Fi
 @CarChaser-313
 @TheAutoExplore1
 @AlexAutoRevews
