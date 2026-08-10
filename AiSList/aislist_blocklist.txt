@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20367
+! Total Channels: 20377
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20383,3 +20383,13 @@
 @NIMBLESTORIES-s2j
 @EbonyHeartTales
 @JayStoryHubAi
+@ECHOOFTALES123
+@NaijaNightmareVault
+@TheSilentVerdict68
+@ToldbyElders.1M
+@QuietFamilyRevenge-j1p
+@TellingStoriesOfRevenge
+@TheAmericanCourtroom
+@DadsFamilyStories
+@DadsVengeance-w3r
+@AFathersSilence
