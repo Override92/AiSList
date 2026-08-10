@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20408
+! Total Channels: 20403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10944,7 +10944,6 @@
 @ExclusiveRecordsStudios
 @BBN_FanMadeMusic
 @VelorionSound
-@Bittunenotes
 @NeuralMixStudio
 @floqkly
 @Rehobothsoundtv-j1j
@@ -10954,18 +10953,15 @@
 @NimbleMind-x7y
 @AlmusiXx
 @NeonTherapymusic
-@BinaryBeatsTunes
 @SonicOrbit23
 @LunaTunes-i3p
 @COREBALLADS
 @SongDistrict-l4w
-@AUDIOCORENOIR
 @playbackrhythm4you
 @DirtRoadSessions-Ytc
 @DarkMen-01
 @FaithScript-y8l
 @CountryWorshipRevival
-@onesoftsignal
 @Clembotron
 @story_animasi-t8j
 @its_peely
@@ -14456,7 +14452,6 @@
 @foreignersreactyt
 @glos-wiary0
 @terraincognitasciencesoubliees
-@parcheminscaches
 @amitfoodvlogsind
 @sonsofvalhalla-m3v
 @physiquesecrete
