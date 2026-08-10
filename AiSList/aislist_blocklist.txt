@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20417
+! Total Channels: 20412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10837,7 +10837,6 @@
 @AlexsRevengeDramainee
 @TalesofHearts-p9g
 @ApexLegendsDrama
-@UnheardStories-b9o
 @StoryPulse-x5f
 @TheLastRevenge-f9v
 @ShockingTrueCrimeSaga
@@ -10945,8 +10944,6 @@
 @SYNTECH46
 @ExclusiveRecordsStudios
 @BBN_FanMadeMusic
-@vocatunes
-@Rhythmciti
 @VelorionSound
 @Bittunenotes
 @NeuralMixStudio
@@ -13350,7 +13347,6 @@
 @Mildwavee
 @CoreTunz
 @UrbanPopCentral
-@Auriidym
 @HitWaveMusic-c2u
 @officialneuralsoundlab
 @SynthVerse-l5n
@@ -19576,7 +19572,6 @@
 @obcy_majki
 @Superhit-80
 @BernieBernie-vx3qv
-@RoyalArt-Authors
 @WEREXMUSIC
 @AIMusicByLek
 @musicihanproduction
