@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20292
+! Total Channels: 20291
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7481,7 +7481,6 @@
 @secretlifehacks-n5v
 @darkhistory-ai-s
 @dranwinglover
-@autozonepolska
 @corruptpov11
 @sofia_dominee
 @theepicmetalviolincovers-p4
