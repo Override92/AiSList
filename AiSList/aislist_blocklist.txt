@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20285
+! Total Channels: 20284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8617,7 +8617,6 @@
 @dilkashai
 @midnightuncovered-g3h
 @traiciondesangre09
-@johnwillermegamed
 @globalgospelvibes-f1r
 @wwiiuntold-02
 @bodycamonrecord
