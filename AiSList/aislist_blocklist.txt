@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20418
+! Total Channels: 20417
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8281,7 +8281,6 @@
 @nocturneechoesviolin
 @BrokenLegends-t8n
 @justsomeguystories
-@BrainRitual-x8y
 @TopHistory-c1f
 @ChillVibesMusic999
 @VectorNews24
