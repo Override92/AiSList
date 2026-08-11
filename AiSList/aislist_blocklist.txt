@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20393
+! Total Channels: 20388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3764,7 +3764,6 @@
 @ConsejosdeSaludsinEdad
 @SeniorStepstoHealth
 @Dr.DarienVoss
-@Dr.Castillo-j9x
 @LoliiDrama365
 @ImpressiveNarratives1
 @VerityStories-z7c
@@ -4291,7 +4290,6 @@
 @WorldHistoryTales2
 @TheSilverCrisis5
 @TheCollapseFiles-l2t
-@PowerWithinYou-i1u
 @PathofStillness-t6q
 @NEXTYOU-j3j
 @EconomicHistorianYt-f3e
@@ -8879,7 +8877,6 @@
 @bambiememes
 @EpicOrchestralFan
 @mythical-history
-@life-changingstories-t5j
 @genewealthtv
 @revengezone-s5e
 @TheForgeEmpire
@@ -11392,7 +11389,6 @@
 @CampfireCowboyStories-l3o
 @WesternSoulStories-v3e
 @LegendsWeLost-w9t
-@RealCowboyStories
 @supaponwachina
 @someeguy28
 @music_potions1
@@ -18715,7 +18711,6 @@
 @supremeFatedrama
 @%E8%92%BC%E7%A9%B9AI%E7%9F%AD%E5%8A%87
 @AI%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93
-@TheLeverageReport-s9k
 @RadiantDrama-q4c
 @%E7%BA%A2%E7%BA%A2%E6%BC%AB%E5%89%A7
 @NoahDrama9
