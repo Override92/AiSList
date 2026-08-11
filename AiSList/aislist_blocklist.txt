@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20448
+! Total Channels: 20447
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14805,7 +14805,6 @@
 @legoutdelaprovince
 @savoirscaches94
 @minidreamlet_ai
-@aifoodlab.26
 @Echonest30
 @MiniChefItalia
 @AiAnimalscooking
