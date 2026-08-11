@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20397
+! Total Channels: 20405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20413,3 +20413,11 @@
 @AIAnimeMangaStories
 @BoldEyes-k3z
 @godseekers_co
+@TheInvisibleLadderUS
+@TheDecisionRoomYT
+@TheArchetype2303
+@ZylosTales
+@Kweshfolktale2
+@TheFolkloreFactory
+@Jenniefolktale
+@SweetestAfricanfolktales
