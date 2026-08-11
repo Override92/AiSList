@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20388
+! Total Channels: 20387
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14710,7 +14710,6 @@
 @Vanlalpeka-oi1ll
 @Yo-YoIshanMusic
 @ByzantineExcubitors
-@PartyStudioChannel
 @atulaisong
 @germanautor
 @KeraniHembromOfficial
