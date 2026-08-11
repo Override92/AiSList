@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20423
+! Total Channels: 20433
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20439,3 +20439,13 @@
 @BurrerRecap
 @CrimsonStoryline
 @NoobManhwa-b5e
+@OtakuEx90730
+@MoneyLogicUSA
+@Vincent_Perez_80
+@TheoreticallyMedia
+@AmaraPictures
+@techisrail
+@Catstory-s9k
+@CowGow-1176
+@Croco_Beat
+@ForbiddenHumanOrigins02
