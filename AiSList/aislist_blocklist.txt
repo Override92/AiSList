@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20446
+! Total Channels: 20441
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19860,24 +19860,19 @@
 @MonkeyManhwaRecap-fw7su
 @MoneyInsights-s5x
 @Anastasiya-s3l
-@Themoreyouknow1319
 @TheBullRun-i4p
 @BillionaireGod-x9e
 @Recyclewaste5g
 @backtonew-x2x
-@MegaFoodFactory-s2j
 @EverydayTurningPoints-w8x
 @HiddenonEarth-yt
-@MorelliFit
 @CosmicNootropic
 @RoRoo321
 @flagnarb69
 @ButacaSalvaje2-nh1jg
-@JusticeScalesCrime
 @FiguringOutFantasy
 @LanternParenting
 @DrNerayaWolfe
-@MONEYSIGNALS-p9e
 @MegashipMedia
 @Ironstark05
 @GlobalDecipher
