@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20451
+! Total Channels: 20446
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19802,14 +19802,9 @@
 @CashFlowLab-TV
 @TheEtherealWisdom
 @Professor_Mass
-@MONEYANALYSE
 @UNIQUETIME_BD
-@zuomena
-@rcmediaofficiall
 @ChinaInsider-tv
-@FrontAmerica
 @Ancient_Signal000
-@FosterCentary
 @CollapseTheoryUS
 @SpaceXInsider247
 @Driftscape-l2l
