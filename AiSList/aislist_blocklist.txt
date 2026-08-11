@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20441
+! Total Channels: 20439
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13997,7 +13997,6 @@
 @MiniVerseKitchen-p7c
 @AbdulRashed-w4e
 @TinyTailsAIOfficial
-@minimasterchefs-208
 @morselovaai28
 @TimofeyAI3260
 @LAVENO1
@@ -18809,7 +18808,6 @@
 @Voicesoftheancestor_s
 @ajenetvofficial
 @GriotsofMotherland
-@Africatalesai-z6f
 @The.First.gods.official
 @Glimmer-t9y
 @GentleWavesMusic421
