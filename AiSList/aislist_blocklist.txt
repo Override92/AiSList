@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20414
+! Total Channels: 20423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20430,3 +20430,12 @@
 @Tastories-4u
 @talesbyify-r5i
 @talesntribes
+@Excesjoy_12
+@ChinnyStoriesTv
+@ViiveeStorytime
+@Storiesbyrachie
+@LAYOTELLS
+@Gave-k8y
+@BurrerRecap
+@CrimsonStoryline
+@NoobManhwa-b5e
