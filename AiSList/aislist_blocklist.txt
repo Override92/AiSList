@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20434
+! Total Channels: 20436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20450,3 +20450,5 @@
 @rebirthchroniclehub
 @ancienthuman09
 @thedailysparkprofessional26
+@bittergracestories
+@diybuildstudiotv
