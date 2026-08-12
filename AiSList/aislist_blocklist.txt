@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20439
+! Total Channels: 20434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1773,7 +1773,6 @@
 @shortzzz002
 @aianimationscenesiuy
 @aianimationoffcial
-@aianimation-cow
 @aishortmonkey1k
 @monkeyanimationai-g8
 @viraltoonai-h1d
@@ -2814,7 +2813,6 @@
 @Ajanimalking
 @RedditTales-s4h
 @Unpeeled-b3w
-@Sleeping_Tales
 @Nivraaaa
 @PawsPrejudice-fora
 @SlopFarm2
@@ -10551,7 +10549,6 @@
 @TunedByTommo
 @A.I.BandaSL
 @EthioVibesOfficial
-@Ethernatunes
 @Yallternativebootsandbeats
 @TimelessTonesAI
 @EtherealVistasOfficial
@@ -12577,7 +12574,6 @@
 @Inersense
 @geopoliticalabyssreport
 @bassglyph
-@TheDefenseVault
 @savedata.mp3
 @Globalconflictwatch-k4u
 @koyuchi_ShamisenBeats
@@ -19881,7 +19877,6 @@
 @ChasehughesPerspective
 @possible_mango
 @LoreLockdown1
-@MidnightChillStation-r1q
 @neonsoulradio-z5u
 @NCash
 @donaldsjazzloungee
