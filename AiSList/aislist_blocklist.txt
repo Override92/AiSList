@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20441
+! Total Channels: 20436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5323,7 +5323,6 @@
 @RickMoore95
 @Night-of-Evil
 @FinanceInfinity6829
-@MarketInsightRadar
 @PolicyProfits-b4h
 @SecretDiary1-u2u
 @OGJohnAGHub2
@@ -5335,7 +5334,6 @@
 @BoringCurrencyInsights
 @CrystalMindAudio
 @MacroShieldMethod
-@JohnAGDaily
 @UnsolvedEvidence1
 @Alpacinostories
 @WildRealityyy
@@ -6238,7 +6236,6 @@
 @WildSurvivalStrong
 @MeaningfulFilms0330
 @FrostVigil
-@ForumsAnimated
 @kexing-ai
 @FeastofLegends
 @EchoesofSilence-e7z
@@ -6373,7 +6370,6 @@
 @thephantomdon
 @LessonsFromLongLife
 @SeniorBookYT
-@DRrOBERT-p4t
 @TheBigFootRecord
 @FrontierTales-EN
 @amazingtruth6
@@ -19351,7 +19347,6 @@
 @TheHumanMind-y5g
 @TheDefenseSignal
 @MiddleEastStrikeReport
-@PrimeUpdate-c8c
 @SpellForgeStudio
 @BeyondHogwartsAI1
 @UnwrittenUniverseAI
