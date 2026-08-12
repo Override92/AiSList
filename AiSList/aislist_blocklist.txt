@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20436
+! Total Channels: 20437
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20452,3 +20452,4 @@
 @golpoversebangla123
 @footballstationyt
 @wakukitchenanime
+@enedramazone
