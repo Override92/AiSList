@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20436
+! Total Channels: 20435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12810,7 +12810,6 @@
 @hardware-b2n
 @miniasmr-x
 @itsmyself
-@CivilExplained-j2h
 @WagyuFury
 @USAClimateReports
 @MidnightFoxJazz54
