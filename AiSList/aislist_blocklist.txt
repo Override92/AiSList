@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20432
+! Total Channels: 20431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10918,7 +10918,6 @@
 @VelorionSound
 @NeuralMixStudio
 @floqkly
-@Rehobothsoundtv-j1j
 @DreamwaveTunes_Studio
 @PerfectHarmonyz_Fan-Page
 @BeesSymphony
@@ -10933,7 +10932,6 @@
 @DirtRoadSessions-Ytc
 @DarkMen-01
 @FaithScript-y8l
-@CountryWorshipRevival
 @Clembotron
 @story_animasi-t8j
 @its_peely
@@ -20448,3 +20446,4 @@
 @dastaantv12
 @zanelfilmsproduction
 @bloxlyda
+@goldhuntextra
