@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20430
+! Total Channels: 20425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6459,7 +6459,6 @@
 @SeniorFoodBlog
 @DrBenWalkerOfficial
 @HealthTipsEveryday-i7f
-@Dr.KarimSant%C3%A9Moderne
 @Doctors.Orderss
 @cecilymarrow
 @MichaelHarrisAnalysis
@@ -7644,7 +7643,6 @@
 @AIBubbleShop
 @%E4%BA%BA%E7%94%9F%E6%94%BE%E6%98%A0%E5%AE%A4
 @%E6%B7%B1%E5%A4%9C%E6%95%85%E4%BA%8B%E7%B0%BF-q5w
-@悬疑故事之小雨漫漫
 @MiestenKoodi
 @thehistorianarchive
 @zionikiAi
@@ -11989,7 +11987,6 @@
 @Adriannovoarodriguez
 @BoomBapSyndicate1
 @BrokenEcho-x3x
-@VikingarMusic
 @songsofvalhallamusic
 @jobcoversofficialmusic
 @JanKorslund
@@ -13058,7 +13055,6 @@
 @theailearning
 @SugiShogun
 @MangaExplainer-1M
-@鬼画桃符的好吃鬼-1
 @Tamilselvanofficial
 @MrWondersofficial
 @SetyaAIAgent
@@ -15861,7 +15857,6 @@
 @CarboniteDreams0
 @GI%C3%81PLAC%C3%80-j8k
 @CrownAndCodex
-@JesusSaysToday-x6v
 @TrueBibleStoriesDaily
 @EntombedDoc
 @HistoryUnleashedOfficial
