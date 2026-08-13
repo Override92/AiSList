@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20436
+! Total Channels: 20435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8615,7 +8615,6 @@
 @drama.remix2m
 @aelwynmusic
 @behindtheeconomy-h6z
-@famewirehq
 @wiseprep12345
 @profshinmarkets
 @mr.tung.95
