@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20432
+! Total Channels: 20430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15719,13 +15719,11 @@
 @AFRICANANCIENTLESSON
 @LunaTales-k6g
 @Sisi-tomi
-@Omanita67
 @NightfallVillage-q7f
 @KeepTravellingYAV
 @TheScriptedTales
 @FutureFrameTVOfficial
 @History_of_Old_America
-@GhostTigerLifeAdvisor
 @MomentsThatLinger-i2
 @user-v5g6i
 @MabelEntertainmentTV
