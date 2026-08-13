@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20423
+! Total Channels: 20421
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8300,7 +8300,6 @@
 @vibequeen-f9k
 @funnycoppov
 @eldr.mayorsano
-@ワンちゃんマン2
 @zet-xiiii
 @lostlenoir5
 @hoadarkfiless
@@ -9254,7 +9253,6 @@
 @WalterReconstructsHistory
 @DarkestTimesReconstructed
 @official_latency
-@kidneyhealthdoc
 @historyshift.channel
 @PivotPointHistory01
 @celticsoulambience
