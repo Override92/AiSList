@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20431
+! Total Channels: 20430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13103,7 +13103,6 @@
 @tariqpathanscienceacademy-7901
 @RahulTechnical6M
 @BelakangKelas
-@vlogsminiai
 @techwithniru
 @SnacklingzAi
 @brightmindcreatives
