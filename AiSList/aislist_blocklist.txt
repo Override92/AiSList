@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20435
+! Total Channels: 20436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12961,7 +12961,6 @@
 @AIMBW01
 @AIMiniWorlds
 @AITinyASMR
-@whispering_ghibli
 @Aigirlvideo-z7o
 @JANGALJOURNEYSTORYAI
 @viralaicreation2
@@ -20451,3 +20450,5 @@
 @diybuildstudiotv
 @thetelevisionbytes
 @mannypodcast-b5t
+@yorubaduntv001
+@crimson-nova-f8y
