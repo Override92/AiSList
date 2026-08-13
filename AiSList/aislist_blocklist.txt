@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20425
+! Total Channels: 20424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8089,7 +8089,6 @@
 @TheProductionLine4419
 @factorysecrets365
 @AffectiveCatMind-1996
-@MeowStoryWorldOfficial101
 @Druckenmillerblueprints
 @TheForensicFinancialLedger
 @rainice409
