@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20431
+! Total Channels: 20430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7192,7 +7192,6 @@
 @mechaniksecrets
 @theethnoai
 @TheCinemaRadio
-@JulianCapital
 @DarkHistory-r8q
 @PHOENIXTECH-y8p
 @No.music2026
