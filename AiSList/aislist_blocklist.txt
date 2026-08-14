@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20414
+! Total Channels: 20413
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4579,7 +4579,6 @@
 @QuietBearing
 @DoseOfHistory_0x
 @Nativetales-v2q
-@Civilwars0
 @OldWestLife_Official
 @AbideWithin
 @whatifexplainedtv999
