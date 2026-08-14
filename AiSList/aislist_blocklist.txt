@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20486
+! Total Channels: 20487
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20502,3 +20502,4 @@
 @SamuraiRelax-TraditionalJapane
 @vincent_perez_films
 @hoastorymoments
+@adventureawaitsshow
