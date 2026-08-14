@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20487
+! Total Channels: 20489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20503,3 +20503,5 @@
 @adventureawaitsshow
 @eedit_99k
 @lunaandmochi888
+@ThePistolArchives
+@TheSoldiersStory
