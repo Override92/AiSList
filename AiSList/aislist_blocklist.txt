@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20489
+! Total Channels: 20488
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9502,7 +9502,6 @@
 @thearchiveinbetween
 @RunwayUpdates-u7h
 @HiddenPrincess-g8e
-@TheOfficeDiaries26
 @OurL%C3%ACsh%C7%90
 @Fantasy-Origins
 @DustyTrailTales-y5z
