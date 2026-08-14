@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20412
+! Total Channels: 20407
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4670,7 +4670,6 @@
 @MrAG_Asian_Guy
 @cashyandledger-l8m
 @KENZO-OFFICAL19
-@RayDalio-n1n
 @jeremynewberger
 @DoorbellMomentsdaily
 @BlockBull-01
@@ -13518,7 +13517,6 @@
 @NGfinance01
 @worldcup.explainer
 @archinotes1
-@historyofstuff-i9w
 @spacenews-i2l
 @AgricultureFlow
 @vocafusion
@@ -14500,7 +14498,6 @@
 @LumeMatrix
 @sachinofficial-m
 @Goyart.studio
-@NextUSAScene
 @CR8Vmedia
 @VisionCraftAIVCA
 @JetStyle-pl
@@ -14675,7 +14672,6 @@
 @Noxen00008
 @TariqKhan-ms4le
 @Nowit-b9k
-@SeniorsImmigration
 @Tybeyondtech
 @ThePerfectNib
 @TheMerryTavern
@@ -20356,7 +20352,6 @@
 @TheoreticallyMedia
 @AmaraPictures
 @techisrail
-@Catstory-s9k
 @CowGow-1176
 @Croco_Beat
 @ForbiddenHumanOrigins02
