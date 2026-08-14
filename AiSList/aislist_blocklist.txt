@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20414
+! Total Channels: 20412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9021,7 +9021,6 @@
 @moderncapital-h3z
 @dominionsx
 @thecursedaltas
-@giantindustry-h6y
 @nvbodycam
 @zagadkivselennoi
 @WalterOnMotors
@@ -13487,7 +13486,6 @@
 @BreezeStationLofi
 @RelaxJazzCafe1990
 @roti.sounds
-@DDMK80
 @Mioneroraa
 @ember-playlist
 @rainmuselofi96
