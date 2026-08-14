@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 922
+! Total Channels: 921
 
 ! Entries:
 @CinebotComedy
@@ -650,7 +650,6 @@
 @ManofSuperHero
 @Line45_
 @SwitchTop
-@jackneel
 @darktalon-1
 @incrediblehidden
 @BEN-Moment368
