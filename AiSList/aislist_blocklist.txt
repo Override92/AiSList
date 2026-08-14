@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20487
+! Total Channels: 20486
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5999,7 +5999,6 @@
 @jimrohnmotivationvideos
 @thelasthonestadvice
 @wiredworldwithme
-@hybrid_explain
 @drlucasrichardshelth7
 @lasaladelanalisis
 @finanziellehintergrunde
