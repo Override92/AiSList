@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20480
+! Total Channels: 20490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20496,3 +20496,13 @@
 @ManhwaVerseStories
 @MAFIABOSSSTORY-y2g
 @Anastazia0_0
+@secretromance123
+@HFYChronicles-p5r
+@HumanityUnleashed102
+@HFYSolarArmada
+@ImperiumPAG
+@TheMoonlitInnStories
+@SHESHELEYANA
+@BardicSymphonyNS
+@LunarLore-v7m
+@lore2RPG
