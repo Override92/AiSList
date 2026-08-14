@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20416
+! Total Channels: 20412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9907,7 +9907,6 @@
 @TheInteractiveArchive
 @ChronoScripts
 @ToJestPL
-@werewolfvampirestories-us
 @Hidden_in_History-o7m
 @BuilttoRotYT
 @robbig4134
@@ -12157,7 +12156,6 @@
 @wondersproutsbalh
 @thewhittytwo
 @aitechoding
-@sagaforges
 @pueblosfantasma
 @wondersprout-j9m
 @vietnamvet5555
@@ -17971,7 +17969,6 @@
 @ashleywilderwrites
 @WiredDifferently-s4g
 @CRYPTOMOLOGY
-@AbandonedMotors
 @enemy_archives
 @EightysTapeNights
 @DESTROYERSOUND-u3u
@@ -18010,7 +18007,6 @@
 @TheResilientHomestead
 @astraleyevision
 @prayercourt
-@PikaLabsreal
 @CheepSkates-w4h
 @TrueCrimeClaude
 @TechnologyandGaming01
