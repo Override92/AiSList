@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20457
+! Total Channels: 20466
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20473,3 +20473,12 @@
 @spiritualsimran
 @NoirCrown_Studios
 @dramablend-tk
+@KROOVE_records
+@UncleHarrisonTales
+@DadsColdRevenge-t4z
+@Chidimma-u6c
+@kayladavisstudio
+@iqrasaiworld
+@Dramozia
+@Afrika_Tales
+@JohnJamede
