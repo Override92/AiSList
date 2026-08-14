@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20483
+! Total Channels: 20481
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13916,7 +13916,6 @@
 @neuralframes11
 @KidsToonverseYT
 @Aicokkingworld
-@IamNotArtist-e1s
 @Futureclip1086
 @PopframePicture
 @littleworldanimation1
@@ -13933,14 +13932,12 @@
 @morselovaai28
 @TimofeyAI3260
 @LAVENO1
-@NanoChef-q8b
 @TinyChefAI01
 @Tiny_ChefAI
 @AICUTEKICHEN
 @tinycheftales25
 @Tinyfoodmasters
 @MiniChefWorldAI
-@tinykitchen_ai
 @Aifoodkn
 @AiMiniChef21
 @tinycrave_ai
@@ -20499,3 +20496,4 @@
 @aloshiaෆ
 @miniaturekitchenstories-4
 @rankitstudios
+@starworldrobloxquiztv
