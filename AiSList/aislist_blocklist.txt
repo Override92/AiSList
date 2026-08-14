@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20417
+! Total Channels: 20427
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20433,3 +20433,13 @@
 @HistoricDive
 @emekaexplains
 @megamachineexplained
+@getdeskly
+@TheIExplainer
+@TheWiseFrogg
+@pushingwonders
+@StudySanctuary-k4z
+@AIMelodies-f8e
+@divisiveechoes
+@SymphonicPowerMetAI
+@FutureForgeSciFi
+@20CentLab
