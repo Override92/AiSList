@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20466
+! Total Channels: 20470
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20482,3 +20482,7 @@
 @Dramozia
 @Afrika_Tales
 @JohnJamede
+@brokenreel1
+@Hidden-Love-7
+@UntoldStories-t1q
+@LoveRevengeDrama-z8v
