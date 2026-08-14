@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20488
+! Total Channels: 20483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1550,7 +1550,6 @@
 @animalrescuest
 @ainimalrescue
 @untamedrescuesyt
-@sam_documentary
 @wildrescueal
 @njstoryofficial
 @animalrescuemoments-g1s
@@ -1588,7 +1587,6 @@
 @aiasmrvideos1
 @aiasmr-s5x
 @asmr-ai-8
-@user-qc8eq6it6v
 @artificial-ai_edite
 @moonhugai
 @aiaura_official-i2z
@@ -18080,7 +18078,6 @@
 @cosmicprimetv
 @faithandhealth1-u7l
 @aiflashversex
-@ayanshayankhawajaadventures
 @evuary
 @aibeauty11-vq9qb
 @runvyr
@@ -19528,7 +19525,6 @@
 @TheLastCapo
 @BossLoveStorylines
 @HeartStoryHub-m4c
-@MafiaLegacy-t5i
 @%EB%B0%98%ED%86%A0%EB%A7%89AI
 @%E8%BC%95%E8%BC%95%E6%95%85%E4%BA%8B
 @AI07-e7y
@@ -19546,7 +19542,6 @@
 @VISUALIZEAISERVICES
 @ShadowCrown-k4o
 @zyroverse.studio
-@EvelynsLoveStories
 @trinhmiuuu7805
 @AICyberRomance
 @MP_Novels
