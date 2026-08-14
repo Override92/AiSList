@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20470
+! Total Channels: 20480
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20486,3 +20486,13 @@
 @Hidden-Love-7
 @UntoldStories-t1q
 @LoveRevengeDrama-z8v
+@RavenOath26
+@EmpireNocturne
+@noxiras_production
+@UnderworldRomance-f2e
+@ArmysDreamEntertainment
+@ForbiddenMafia
+@mafiastories-68
+@ManhwaVerseStories
+@MAFIABOSSSTORY-y2g
+@Anastazia0_0
