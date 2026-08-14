@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20491
+! Total Channels: 20492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14730,7 +14730,6 @@
 @echosofthalvara
 @The_TechTrends
 @TechExplorer_07
-@EyeCatching_Tech
 @GeekPsyche
 @realnorthernempire
 @autocamperexplorer90
@@ -20507,3 +20506,5 @@
 @LunarLore-v7m
 @lore2RPG
 @SamuraiRelax-TraditionalJapane
+@vincent_perez_films
+@hoastorymoments
