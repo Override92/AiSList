@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20412
+! Total Channels: 20414
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20428,3 +20428,5 @@
 @thomasstoriesus
 @comfyhistory101
 @sleephistorian2026
+@jungpsychologyhub-f2q
+@adeelius
