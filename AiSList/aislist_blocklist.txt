@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20413
+! Total Channels: 20412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4640,7 +4640,6 @@
 @WW2-Legendss
 @trueww2
 @WorldWarLegendsYT
-@WW2LostArk
 @WWIIBattlefront
 @WW2HiddenFiles-c5x
 @WIIWarStories
@@ -4661,7 +4660,6 @@
 @silentstoic-2024
 @WarPOVwithMike
 @TheWWIIArchive-910
-@ALifeOnceLived
 @VietnamTales-i9j
 @ThePastOfWar
 @HistoryforSleep-4U
@@ -20429,3 +20427,4 @@
 @sleephistorian2026
 @jungpsychologyhub-f2q
 @adeelius
+@factoryword-v4j
