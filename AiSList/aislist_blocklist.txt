@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20477
+! Total Channels: 20472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2027,7 +2027,6 @@
 @jnkesiencetechnology-aishorts
 @multivibes01
 @shivi.vlogs-09a
-@vairal-28
 @gamma_yt1
 @cattyonrock
 @ai.cartoon-y5b
@@ -4980,7 +4979,6 @@
 @EndlessEconomies
 @HappysaBanna
 @UKHousingReality
-@AI_FinancialFreedom
 @baegkyu
 @FinanceTFZMedia
 @BubbleTechInfo
@@ -9080,7 +9078,6 @@
 @feynman-quotes
 @MethodeFeynman
 @TheFeynmanMethod-k4o
-@TheFeynmanPrism
 @verstehenwiefeynman
 @HFYCosmicTales
 @GoldenAgeHFY
@@ -10155,7 +10152,6 @@
 @HOAShieldYT
 @TruthFables
 @KarenKarmaStories
-@hoastories44
 @TargaryenKings
 @MFCinematicUniverse
 @echovistai
@@ -14832,7 +14828,6 @@
 @TheStoryAuraStudio
 @FolktaleKids
 @lovestoryDeessencetv
-@DestinedStories-qa
 @Thisisthestorycave
 @TeesTalesbyMoonlightt
 @ogojide
