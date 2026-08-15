@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20469
+! Total Channels: 20467
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15174,7 +15174,6 @@
 @BriskdanDrama
 @BudiDrama8888
 @BoomDrama-m5m
-@SugarFluffDrama
 @RevengeBrideDrama
 @BrownieDrama
 @StarBlastDrama
@@ -18947,7 +18946,6 @@
 @CharlesSurrealDreams
 @tw77studio
 @trumanwong3193
-@Celticfelt
 @SingHighlights
 @HowardArt2323
 @HalfwayAIArtTown
