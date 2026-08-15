@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20720
+! Total Channels: 20728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20736,3 +20736,11 @@
 @ImaginaryInk-wb9by
 @Srirudrasarees_nagole
 @OrcChronicles
+@sleeplessazerothian
+@Orclove-Chronicles
+@MJaved124-q1k
+@UnshakenWorthStories
+@HFYEdge
+@PetersOrcTales
+@HumansAmongOrcs
+@OrcGirlChronicles
