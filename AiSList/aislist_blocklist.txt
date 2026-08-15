@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20589
+! Total Channels: 20598
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20605,3 +20605,12 @@
 @MidnightHistorian1473
 @HistoryDriftofficial
 @dreamafterdark-f9h
+@SEKHER-z2q
+@SangitaSadh-m9g
+@the-sleepiest-historian
+@TellMeAHistoryToSleep
+@TheSleepLibraryYT
+@VelvetEpochStories
+@SleepyHistoryStories-l1h
+@TimeLostinHistory
+@QuietHistory-s6o
