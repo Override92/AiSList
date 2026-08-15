@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20477
+! Total Channels: 20478
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20493,3 +20493,4 @@
 @rankitstudios
 @starworldrobloxquiztv
 @rogerroger5555
+@jesushopestories
