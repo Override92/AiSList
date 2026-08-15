@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20516
+! Total Channels: 20526
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20532,3 +20532,13 @@
 @afghanmix1
 @Aih%C4%B1t2026
 @ONLYAISONGS-u2t
+@SurStormAI
+@chocoomilkiessbackup
+@musicazerbaijan1
+@superhit-90-00
+@Royalmelody20
+@aimusicnepal-pc
+@bollywood-l6c
+@Moonlit_Groove26
+@SunoVisionUZ
+@EchoAnthemOficial
