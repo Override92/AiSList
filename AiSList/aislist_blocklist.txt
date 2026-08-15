@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20735
+! Total Channels: 20730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5710,7 +5710,6 @@
 @GwendolynsStories
 @InfiniteHeartYT
 @Storytellersheart
-@SpiritUpliftStory
 @LoveBeyondColor-us
 @HerStoriesHerVoice
 @TheHiddenTales-k7o
@@ -6207,7 +6206,6 @@
 @NordicGrounds
 @SleepyScrolls12
 @animolita
-@Encountersworld
 @Unspoken.animalstories
 @Frozen_Heartt
 @ArcticKyunney
@@ -6221,7 +6219,6 @@
 @ErasedCentury
 @miniverse-x1l
 @limencore
-@cosmiclogic.1
 @truemenspeak
 @darkmindsecreats
 @aqsstories
@@ -7242,7 +7239,6 @@
 @EverydayRights_USA
 @ProfessorPowdertonTips1
 @WeaponHub-h9c
-@OutwardTruth-1
 @SoilSonata
 @FrontlineNightmares
 @POISONPOPCandy
@@ -12067,7 +12063,6 @@
 @pastcompass
 @VoltiqueLabs
 @fallenhifi
-@dr-josephine-phelps
 @The49thDecoded
 @Amelia.Revenge.Stories
 @BehindClosedDoorsStories-e3v
