@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20667
+! Total Channels: 20677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20683,3 +20683,13 @@
 @BlackPowerTruth
 @JusticeAfterDarkStories
 @MidnightshortstoriesMSS
+@Forgotten_narrator
+@OrcStories-z3m
+@OrcMarrowTales
+@FireheartOrcLoveStories
+@AegisofSol
+@OrcIronmist
+@2pmaistudio
+@orcstories
+@Orc-m1w
+@TheORCStories3
