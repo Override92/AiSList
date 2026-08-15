@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20687
+! Total Channels: 20695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20703,3 +20703,11 @@
 @AlienNightStories
 @LegacyofHumanityt
 @OrcEverAfterStories
+@OrcboundLegends
+@Gitostories
+@QuietWisdomTales-444
+@orcvieltales
+@shashiprabhasingh9474
+@OrcBridesSecret
+@OrcSeductionTales
+@osmartoonkidsstories
