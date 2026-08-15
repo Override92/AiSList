@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20477
+! Total Channels: 20487
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20493,3 +20493,13 @@
 @BlueDragonLofiBeats
 @agonestudioth
 @BurmaBlaze
+@marsalsiring
+@LLe-9999
+@shriandbabu9094
+@TaehyungTapes
+@Stbass12
+@AI.lyricsSongs
+@AddisZema1
+@jorus_90
+@Chaabi_vusion
+@CoverAI_77
