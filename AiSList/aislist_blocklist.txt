@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20634
+! Total Channels: 20644
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20650,3 +20650,13 @@
 @CaptivModernFolktales
 @WhisperedVillageTales
 @Aistoryverse-as
+@NovelStoryFMHindi
+@HeartandRevengeTales
+@Blackseoultales
+@LisaTales-b2z
+@Nightingalefolktales
+@MylasMovies-l3n
+@MoonFiretales-t2b
+@AiBeautyTales
+@VexaStories9
+@Alayotech
