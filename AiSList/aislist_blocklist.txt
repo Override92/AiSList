@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20734
+! Total Channels: 20733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9996,7 +9996,6 @@
 @AmiraRomancelibrary
 @INTIMATEROMANCESTORIES
 @MoonlitRomanceLibrary
-@TheLilyRomanceLibrary
 @LounaRomanceCollections
 @JoysWerewolfRomance
 @ZsRomance
