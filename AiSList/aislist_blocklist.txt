@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20471
+! Total Channels: 20472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20487,3 +20487,4 @@
 @africanaicinema
 @noerabroma
 @thesignallogic
+@footypulse-z7u
