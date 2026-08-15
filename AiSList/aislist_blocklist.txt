@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20644
+! Total Channels: 20652
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20660,3 +20660,11 @@
 @AiBeautyTales
 @VexaStories9
 @Alayotech
+@RoxanaReeves-l3v
+@Raw_Reality_Stories
+@QuietRevengeTV
+@MapleJusticeTales
+@Valorvengeance
+@EchoesofBlackVoices-w6e
+@TheLastDisrespect
+@LegacyTales3
