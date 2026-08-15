@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20652
+! Total Channels: 20661
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20668,3 +20668,12 @@
 @EchoesofBlackVoices-w6e
 @TheLastDisrespect
 @LegacyTales3
+@McLeanTheUntoldLife
+@RetributionTales-q4d
+@FatherAlone.1
+@X-SeriesLive
+@TruthChangedEverything
+@MarcusRDR
+@EverydayDadChronicles
+@CaineUncovers3
+@SkylinePowerStories
