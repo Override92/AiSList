@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20616
+! Total Channels: 20624
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20632,3 +20632,11 @@
 @HeartwarmingTales-q9v
 @playinterestingtv
 @Mr.PeterTales-TV
+@TrueTaleTime-k8k
+@Hilltalesstories
+@DreamLoveTales-q6n
+@RealBigSkilz
+@TwilightLoveTales
+@TheAvatarTales-m6x
+@TalesofLove-channel
+@AfricanTalesbyHope01
