@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20598
+! Total Channels: 20606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20614,3 +20614,11 @@
 @SleepyHistoryStories-l1h
 @TimeLostinHistory
 @QuietHistory-s6o
+@OddHistoryBites
+@FolktaleDynasty
+@VictoriaStoryverse
+@BanditStories9
+@VillageEchoStories
+@nickiperrystudio
+@AfricanTalesStudiosTV
+@Storybyhoni117
