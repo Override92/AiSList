@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20468
+! Total Channels: 20469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20484,3 +20484,4 @@
 @antidotebwoyke
 @aloocartoonworldofficial34
 @siravlogs-s3y
+@sofialoveaudiobooks
