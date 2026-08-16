@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20731
+! Total Channels: 20730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11570,7 +11570,6 @@
 @wilecreation
 @musicrecords-k7v
 @chillmoments69
-@prayforpurpose-s
 @tsi4455
 @aureonmusi
 @senior-money-watch
