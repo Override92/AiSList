@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20730
+! Total Channels: 20731
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14340,7 +14340,6 @@
 @%E6%9B%BE%E8%80%81%E8%AA%AA%E6%99%BA%E6%85%A7
 @CORNELLJULEE
 @禪心之道
-@嘉誠Talk論
 @AFatherRevenge193
 @architecttony92
 @mimirswell
@@ -20746,3 +20745,5 @@
 @deoksoon_label
 @秋水不染尘
 @thegoa-tt
+@lmckidstv
+@brandebe
