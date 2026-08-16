@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20725
+! Total Channels: 20726
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13044,7 +13044,7 @@
 @Miniaturesvideos
 @PushpamTech
 @ManishaRamani-g7e
-@sohamprajap
+@sohampraj
 @CartoonVerseAI-20
 @NavyaK-m6f
 @kinjalba_024
@@ -20741,3 +20741,4 @@
 @heroicanimalrescue-i8h
 @afaquekiduniyapk
 @rubyrainewood
+@snminirasoi81
