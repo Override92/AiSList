@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20727
+! Total Channels: 20722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8234,7 +8234,6 @@
 @Emrichshorts
 @larrytrustee
 @AstroSleepChannel13
-@FracturedPlanet1
 @PressureePoint
 @SilentFame2025
 @toldbylife0
@@ -10751,7 +10750,6 @@
 @VelvetStories9
 @BeyondBeingDad
 @jamiestorie
-@macroinveters
 @SnapRevengeStories
 @SofiaNeverforgives
 @AlexsRevengeDramainee
@@ -11936,7 +11934,6 @@
 @BoomBapSyndicate1
 @BrokenEcho-x3x
 @songsofvalhallamusic
-@jobcoversofficialmusic
 @JanKorslund
 @DannyCadillacRockabilly
 @polyvibzmusic
@@ -13365,7 +13362,6 @@
 @KarenHOAStories-z4t
 @Talesstories99-u5l
 @GoodStory8686
-@mr.allen-v7l
 @ToxicHOA
 @realhoawars
 @ShamStories-d7g
@@ -20091,7 +20087,6 @@
 @Talesbymoonlight-T
 @OfficialDorceyTouch
 @English247-q7y
-@VictorDoesAI
 @fametales-07
 @Dr.TamilleNorthern
 @Talesbyeni25
