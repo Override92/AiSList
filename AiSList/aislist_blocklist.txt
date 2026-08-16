@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20721
+! Total Channels: 20722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20737,3 +20737,4 @@
 @billionairestorieshub-x3
 @江戸昔話オーディオ
 @epokaludzka
+@realshootingzone
