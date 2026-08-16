@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20729
+! Total Channels: 20730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20745,3 +20745,4 @@
 @thesundayoutfit26
 @larasafrokoreanstories
 @ozeaneneas
+@bubblechatlegends
