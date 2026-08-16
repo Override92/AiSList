@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20731
+! Total Channels: 20729
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9131,7 +9131,6 @@
 @BriefKnows
 @Canada-Daily-Brief
 @GlobalFinanceBrief-j7y
-@HardwareBrief-1
 @thomaskellerbrief
 @EthanColeReport
 @FrontlineReportMedia-b4j
@@ -10212,7 +10211,6 @@
 @SergeiKunc-d1s
 @PeculiarTownStories
 @TheUnusualTown
-@adnkaiart
 @Rebecca-r1s
 @VillageAi-n1r
 @SurrealWorld-j7m
