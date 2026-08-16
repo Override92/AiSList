@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20728
+! Total Channels: 20727
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8174,7 +8174,6 @@
 @GroovyMascots66
 @HerStoicMind-c5o
 @rajeshkoradia2006
-@HeavyTechWorld3D
 @AnimalEvolutionaryTransformati
 @Animal-Rescue-Alliance
 @FluffyFlash-p8c
