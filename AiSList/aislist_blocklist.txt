@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20728
+! Total Channels: 20727
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17006,7 +17006,6 @@
 @Whisper-Of-Time
 @HistorysLeftovers
 @Hitocast
-@DoodleFacts-b3p
 @ItsTheHollywoodPulse
 @returntosimple
 @HenryCapitalYT
