@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20718
+! Total Channels: 20717
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11459,7 +11459,6 @@
 @moonlightmelodylounge-h5o
 @mundomanhwa-c5p
 @lu.lueffects
-@psicologiadelamaturez
 @biblemadesimple-nvh
 @revealmode
 @dreamlandrhymesbyazhan
