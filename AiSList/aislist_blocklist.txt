@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20723
+! Total Channels: 20718
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3509,7 +3509,6 @@
 @RachelToday-24
 @LaPalmaVisible
 @LibertadEcon%C3%B3micaTV
-@MysticCardJungle
 @RenderFaceAi
 @FantasyCeltic_Music
 @GGCi%C3%AAncia1
@@ -3814,7 +3813,6 @@
 @conductajud%C3%ADa
 @RabinoRevalaciones
 @JungyelC%C3%B3digodelosTraumas
-@MrKhan-e5y9c
 @SusurrosdelAlma_ES
 @As%C3%ADSomosES
 @CosmoMillonario
@@ -3872,7 +3870,6 @@
 @britishroyaltales-0110
 @historywithfitbotai
 @MysticVoyagee
-@WorldPrinciples-d2q
 @FinanceFault
 @IronandMemory
 @ForbiddenRootsOfficial
@@ -13449,7 +13446,6 @@
 @JapaneseAircraftChronicles
 @ex_ea_es
 @benefitpostyt
-@FIDO-o5b
 @cozysoulballads
 @ww2missingpages
 @FactoryVisionno1
@@ -19092,7 +19088,6 @@
 @Reddit-rina
 @historiaseniacolombiana
 @interstellarroute-h4j
-@peacefuldramatales-o1h
 @registros-ineditos
 @mnslaw
 @guerreroinmortalnv
