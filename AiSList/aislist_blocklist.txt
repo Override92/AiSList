@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20713
+! Total Channels: 20708
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17288,7 +17288,6 @@
 @draliahmadqamarji
 @HistoryRecapOfficial9091
 @deleteddef
-@Quantumvoice2
 @legacylooprip
 @kemetsaga
 @WildborneHQ
@@ -19421,8 +19420,6 @@
 @Stellar_Verdict
 @IronVerse_HFY
 @VoidCaptainHFY
-@HFYVoidforge
-@NovaHFY-s6e
 @HFYgalaxy68
 @ZafarVibesOfficial
 @SlumberInOldJapan
@@ -19469,7 +19466,6 @@
 @DadsSilentRevenge-w3f
 @MUSICKIJY
 @MidnightRomanceAudiobooks-z8o
-@Thequietfather32
 @TheCandlelitHistory
 @Alfred45-j6v
 @MafiaGIRLUS
@@ -19499,7 +19495,6 @@
 @DramaShineTV
 @TheCachee
 @StarboundHFYCinema
-@HFYNexus-e9z
 @Boring-Stories-ForSleep
 @KTNStory-f6b
 @SR-Story-Channel
