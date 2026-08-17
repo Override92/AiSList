@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20708
+! Total Channels: 20706
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11101,7 +11101,6 @@
 @fifafan009
 @cyrenofc
 @mmahonor
-@melindalounge
 @roastingpodcast
 @RhythmDistrict-s8g
 @Toon_Beats-e6c
@@ -12421,7 +12420,6 @@
 @jehanasker5310
 @AITinyWorld-111
 @aiworldpodcast
-@Minikitchen-t5
 @BabyFoodAi-b1z
 @PablolaughsTV
 @Stickology75
@@ -19531,7 +19529,7 @@
 @aiuseLife
 @AiPresidentChats
 @SmartKidsAi-98
-@XProAiOfficial
+@xprostudioofficial0
 @BibleStorytimeForChildren-1
 @Faceless-Folklores
 @ai_tunnel
