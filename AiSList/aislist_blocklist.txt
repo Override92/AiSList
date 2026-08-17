@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20701
+! Total Channels: 20700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13782,7 +13782,6 @@
 @Aimagicworldhq
 @RCspark-q7u
 @PeanutBrain-t9s
-@EpicAIStudio-f1f
 @OtterLandfun
 @TheWhiskerPodcast
 @dogpackapp
