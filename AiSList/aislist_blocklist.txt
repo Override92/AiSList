@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20729
+! Total Channels: 20724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10902,7 +10902,6 @@
 @ksautoadventures
 @AKAUTOUSA-l7k
 @MotorZenthx
-@AutoluxeX
 @AutoMatrix0
 @AreeshaAutoRadar
 @TheExpertDrive
@@ -15431,7 +15430,6 @@
 @AiCats-k4y
 @happycookingcats
 @CatsCooking1
-@%E5%BF%83%E9%A1%98%E5%8A%87%E7%A4%BE
 @aicatvideo-d8k
 @AiFoodCat
 @cataivideo4000
@@ -16886,7 +16884,6 @@
 @magneticjazzclub
 @dramaanime-p3u
 @mayhongtv25
-@心願劇社
 @dildil-t5k
 @nomdelachaine-t8o
 @endline-s
@@ -18321,7 +18318,6 @@
 @Cine_v3rse
 @AIMarvelSuperheroes
 @Citiesshock
-@ActionsPulseTrailers
 @FutureFilmTrailers2
 @Jokes-b7q
 @ayselbi%C3%A7er-k7b
@@ -19092,7 +19088,6 @@
 @JazmineLozano-r8g
 @TerminalCut
 @danielgrosso_web
-@silentstoryhaven-p4w
 @autoverse-i6b
 @domanic-tweets
 @redditor20
