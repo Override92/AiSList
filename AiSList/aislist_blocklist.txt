@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20724
+! Total Channels: 20723
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3825,7 +3825,6 @@
 @TodoIAOfficial
 @theflickchannel
 @intueas
-@InvertHub-l7g
 @PSYCORE-28
 @ense%C3%B1anzajudia-b5z
 @elcodigodegrinberg
