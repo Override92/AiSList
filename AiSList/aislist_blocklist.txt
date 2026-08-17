@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20717
+! Total Channels: 20712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4062,7 +4062,6 @@
 @Caminoal%C3%89xitoSantandreu-z1d
 @ArchivoNocturnoMX
 @LaFrecuenciaSagrada
-@Stayready-1
 @Comprenderlaf%C3%ADsicaconFeynman
 @verdadesdemamaypapa
 @ElPrecioDeLaTraici%C3%B3n-n1i
@@ -4786,7 +4785,6 @@
 @SaudadeArcade
 @DraftScience
 @DailyTruthReport-g4x
-@CrockettExposes
 @CuriousWick
 @Zikumikukids
 @liberty_narratives
@@ -4905,7 +4903,6 @@
 @TheAppVerdict
 @UKRealityReport
 @USFinancialReality24
-@VeiledDreamsStories
 @FlipStories9999
 @WealthFreedomPath
 @artshorts2720
@@ -5868,7 +5865,6 @@
 @SimplebutSurprising
 @KolaDepth
 @unknownUSpolitics
-@TalesFromWWII
 @CurrencyMatrix
 @Unfolded_Finance
 @RubyReports
@@ -20338,7 +20334,6 @@
 @getdeskly
 @TheIExplainer
 @TheWiseFrogg
-@pushingwonders
 @StudySanctuary-k4z
 @AIMelodies-f8e
 @divisiveechoes
