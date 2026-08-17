@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20702
+! Total Channels: 20701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18576,7 +18576,6 @@
 @LockedBeatsmusic
 @Africanfolktalesbydaniel
 @ZinzyAIStories
-@discrein
 @Unclewisdom1
 @DarbyStoriesTales
 @Africantalesstudios1821
