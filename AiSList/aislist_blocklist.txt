@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20716
+! Total Channels: 20717
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20251,7 +20251,6 @@
 @NoobManhwa-b5e
 @OtakuEx90730
 @MoneyLogicUSA
-@Vincent_Perez_80
 @TheoreticallyMedia
 @AmaraPictures
 @techisrail
@@ -20732,3 +20731,5 @@
 @kpop__core-h1x
 @globalwarzone-y6r
 @pashtify
+@luma_baby_vlog
+@stickmanexplains-t2r
