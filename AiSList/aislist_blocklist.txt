@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20702
+! Total Channels: 20697
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5354,7 +5354,6 @@
 @PhysicswithFeynman
 @masterpeace_clips
 @ThinklikeFeynman
-@RichardFeynmanOffical
 @FeynmanFlux
 @Feynman_Lab
 @TheFeynmanNotebook
@@ -8780,7 +8779,6 @@
 @ZacznijDziś
 @BiciaDuszy
 @NIEMOŻEBYĆ_POL
-@The49thParallel-m2e
 @POVrank
 @Maiden_Whispers
 @elohimsongsworship
@@ -13876,7 +13874,6 @@
 @AICUTEKICHEN
 @tinycheftales25
 @Tinyfoodmasters
-@MiniChefWorldAI
 @AiMiniChef21
 @tinycrave_ai
 @TinyAIKitchen-p8w
@@ -13973,7 +13970,6 @@
 @milczacekrolestwa
 @田舎のしあわせ
 @imfonia
-@themistikitchen
 @planetemerveille
 @swiatzwierzat-q8j
 @saebyeokseorap_audio
@@ -17450,7 +17446,6 @@
 @kidzwidzai
 @The_Factual_Ai
 @SinaiOfYeTales
-@LostFrontier-r7b
 @ApidusLife
 @HeftyLLM
 @JapaneseAutoSecrets
