@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20701
+! Total Channels: 20699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6391,7 +6391,6 @@
 @veridiondata
 @EngineHacks1
 @Phallyofficial1999
-@Loggs090
 @BoringRichh
 @ProfessorPortfolio
 @LostRecords22
@@ -11591,7 +11590,6 @@
 @AIFlicksOfficialTV
 @RPMRoyals
 @VelvetCatLounge
-@dangerousgame1
 @TechVexoraHub
 @PROCESS247DC
 @TheLeadingWolfProduction
