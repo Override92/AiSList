@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20696
+! Total Channels: 20699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20440,7 +20440,7 @@
 @santaliaivideo-2002
 @firdavs_qosimov
 @Fullmetalaicover
-@MelodyAzerbaijan1
+@tenqidaz
 @kiskukuri3
 @SanthalPargna-c6c
 @hembram_jsr
@@ -20712,3 +20712,6 @@
 @cliptalk-21
 @dashcamdeutschebg
 @whisperedestate
+@amharaforumtimesአማራ
+@aihit2026
+@melodyenglish1
