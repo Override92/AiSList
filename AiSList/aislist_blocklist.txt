@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20699
+! Total Channels: 20698
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17715,7 +17715,6 @@
 @jpoprebirth
 @DallasCoverStudio
 @J-POP_Quality
-@MotionFactoryAmbience
 @soulfulJ-POP
 @Aimusic%E5%80%B6%E6%A5%BD%E9%83%A8
 @DadReturns-k3s
