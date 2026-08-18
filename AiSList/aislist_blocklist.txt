@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20706
+! Total Channels: 20703
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10530,7 +10530,6 @@
 @TheYesterdayVault
 @politicalfallout10m
 @quizonaofficial
-@hearttouchstories-a1a
 @revengequeen3
 @thedoctrineco
 @loremotionai
@@ -14970,7 +14969,6 @@
 @AnkMediaSix
 @TalesbyEmma-y5x
 @talesbynifemi
-@NEWTIMESTORIES-m7t8g
 @Esmail-Edits
 @AfriTales-time
 @FlameLilyStudio
@@ -19127,7 +19125,6 @@
 @HominidOriginsAi
 @NagishiroInori_AI
 @NostalgicRadioYT
-@AnimalHybridAI
 @TheAIRequiem
 @SkyNet2.0_Home
 @willwavyproductions
