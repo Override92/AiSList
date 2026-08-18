@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20699
+! Total Channels: 20694
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11542,7 +11542,6 @@
 @AuraBeat_Music
 @DivineEchoNasheed
 @erasedrepublic
-@SilentWisdom-py
 @nostalgictunesstudio
 @visaimmigrationusa
 @khanxgaming-f6r
@@ -11665,7 +11664,6 @@
 @SpiralRecordsAI
 @alextavy_ai
 @EnginePulse1
-@AtlasFinancialPOV
 @GraceLitStories
 @HappyEndingTales-t4s
 @Sirichi-folktales
@@ -11764,7 +11762,6 @@
 @NeonBeatz-l9k
 @VidMuseAI
 @NyxiaAIMusic
-@DropTheoryHQ
 @TheVibeLab01
 @synthdub_reggae
 @NeoCraftStudio
@@ -18658,7 +18655,6 @@
 @SixtySecondsScience
 @deepfieldofficials
 @screenrest
-@droptheoryhq-fan_inspired
 @dreamersoundss
 @antonyoabdaylanofficial
 @farcasty
@@ -20466,7 +20462,6 @@
 @DigitalReverb03
 @AfterRockSong
 @harmotunes
-@ReplayedClassics
 @micanalMUSICALFAMILIAR
 @MentalHell-x7u
 @lyricvibe-c6z
