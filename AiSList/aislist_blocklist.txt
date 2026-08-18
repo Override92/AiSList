@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20698
+! Total Channels: 20696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17738,7 +17738,6 @@
 @MidnightChicagoBlues-p5x
 @IndigoScenery
 @PenguinShortDrama
-@aistorystudio-usa
 @AI-DramaReel
 @suisui-h2x
 @artificialradio
@@ -18121,7 +18120,6 @@
 @akov.official
 @aimusic倶楽部
 @須野高校軽音部
-@twistedafricanfolktaleafrhc
 @facttrenzy
 @sorayumeworld
 @deepperspective96
