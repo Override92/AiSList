@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20698
+! Total Channels: 20699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20714,3 +20714,4 @@
 @babasadiqhausanovela
 @cliptalk-21
 @dashcamdeutschebg
+@whisperedestate
