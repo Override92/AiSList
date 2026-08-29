@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20961
+! Total Channels: 20969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20977,3 +20977,11 @@
 @ReggaeFirewave
 @FactoryFusion70
 @SongWritePlay
+@LionheartReggae-DK
+@Aiartistprem1845
+@lightningStrike_ai
+@hulaalohaleah
+@Merrysai-c6s
+@OddlyZen-AI
+@TinyTalesAi-f6d
+@MidnightTailLounge
