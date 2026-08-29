@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20715
+! Total Channels: 20725
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20731,3 +20731,13 @@
 @DADSFINALWORD
 @HeartTalesUSA-f2j
 @VocalGameOrchestra
+@VirgilKeene
+@NowGospel-FanMade
+@HeavensAnthem-t4g
+@Globalfan-r4n
+@S0LACESOUND2
+@Sounmusicforjesusu
+@Babsi_79
+@Dr.Sackpreller
+@EchoDerSchuld
+@MemorySoundAI
