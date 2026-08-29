@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20842
+! Total Channels: 20852
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20858,3 +20858,13 @@
 @TheLastWitnessEN
 @TomsZeitreisen
 @Buzzbible
+@MegaProcessTV
+@OriginLine0
+@factoryreveled
+@FactoryInsightTV
+@FactoryBlaze-y1v
+@CoreProcess4.0
+@NavalSalvage
+@BlueProcess5.0
+@StatesideFactoryTrail
+@factorymade-l4e
