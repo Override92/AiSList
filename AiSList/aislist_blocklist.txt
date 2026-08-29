@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20911
+! Total Channels: 20920
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20927,3 +20927,12 @@
 @OliviaStoryUS
 @WhenMachinesDreamYT
 @NicksLedger
+@m_ai_academy
+@LastingWisdom-US
+@theaifilmmakingadvantage
+@Discovintageyt
+@masterrj99
+@DudePsychology
+@EberhardsGeheimnisse
+@GhostThroughTheWild
+@Psatodmusicalworld
