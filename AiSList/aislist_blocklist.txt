@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20813
+! Total Channels: 20823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20829,3 +20829,13 @@
 @TiinyTimProductions
 @RealStrangeAI
 @insectsaiart
+@FablePaws_animal
+@Ellenvfilms
+@AINomNom1
+@synthetickayfabe
+@SecretsdesVillagesdeFrance
+@Histoirebrulee
+@secondstage-n7n
+@TheDangerousAI
+@Sportsim_ai
+@theaijodi
