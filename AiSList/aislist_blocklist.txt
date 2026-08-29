@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20695
+! Total Channels: 20705
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20711,3 +20711,13 @@
 @labintales
 @BritishNavalHistory
 @ForgottenNavalHistory
+@AI_Reconstructor
+@woodcraft_id
+@NicheAmbiance
+@DoctorWhoTheTenderYears
+@RedheadinGlobalTrance
+@FamilySweetRevengeTales
+@northfieldtales
+@AuthorityMeetsReckoning
+@HOAEliteStories
+@thedailyhopestories-k3
