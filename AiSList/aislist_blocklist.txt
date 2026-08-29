@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20969
+! Total Channels: 20979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20985,3 +20985,13 @@
 @OddlyZen-AI
 @TinyTalesAi-f6d
 @MidnightTailLounge
+@Jesus-speaks-f8i
+@Jesus-d2i7j
+@TheBibleStories-Jesus
+@Bible-w8j
+@bible-unfiltered
+@ChristBeMagnified
+@bible-undefeated
+@bible-stickman
+@Bible-in-me
+@Bible-Energy
