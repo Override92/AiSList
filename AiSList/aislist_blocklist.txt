@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20862
+! Total Channels: 20872
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20878,3 +20878,13 @@
 @%C3%89gypteM%C3%A9connue
 @foreverfierce
 @SeaGreenAIMusic
+@VibesOfFantasy
+@Mo.Beats.Brothers
+@TheOrchestralVault
+@ChromaticCircusAI
+@StorytellersSoundtrack
+@OrchardOrigins
+@LinkenelBardo
+@rock-and-power
+@BareFacedCheekBFC
+@Theunbound01
