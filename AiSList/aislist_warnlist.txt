@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 924
+! Total Channels: 923
 
 ! Entries:
 @PapaMeat
@@ -945,4 +945,3 @@
 @MidnightOilProductions
 @TechnixKannadiga
 @phandonggiang
-@ZDFheute
