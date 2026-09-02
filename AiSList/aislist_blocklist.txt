@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21060
+! Total Channels: 21070
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21076,3 +21076,13 @@
 @celestialchronicles_official
 @ClementMishael
 @PeculiarHistory
+@lightbearernetwork
+@FaithFIX
+@Verse_Unbound
+@SignsWonders
+@MileHighVibz
+@WatchImagineThis
+@SacredWhisperr
+@CuriousPlus
+@truthforus1005
+@ppaton3553
