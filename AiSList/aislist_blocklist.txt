@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21021
+! Total Channels: 21030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21037,3 +21037,12 @@
 @Focusbibleverse
 @InspoTalesByShoaib
 @TheBibleSecrets-q9u
+@Jason_Abadi
+@SleepCodex999
+@LostArchiveofficial
+@insightfulworld3729
+@BibleStoriesUntoldTV
+@Darklavia
+@The5thKind
+@ReliefPlace
+@Forbiddenchronicles-1
