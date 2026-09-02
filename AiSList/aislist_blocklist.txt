@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21108
+! Total Channels: 21118
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21124,3 +21124,13 @@
 @TheNewPrayerChannel
 @theAlchemistTruths
 @talesofabard
+@RisenScarab
+@cipheredhistories
+@ShiversandStories-nc3pw
+@Horrortaining
+@fastfactoids2024
+@RealHorrorStoriesVX
+@JRECollection1
+@Chroniclesoftheword
+@innerkingdom1
+@Rowfishgo
