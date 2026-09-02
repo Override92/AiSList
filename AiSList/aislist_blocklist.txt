@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 20991
+! Total Channels: 21001
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21007,3 +21007,13 @@
 @GREATNARRATORS
 @CuriousFM90
 @TheTheologist-5
+@Toonexplainer_
+@TheLettersNeverSent
+@NaturesLostArchive
+@UgKnowsStoneAge
+@motech8117
+@JesseSpeaksYT
+@GraceForPurpose
+@TheSacredUnknown
+@BiblebyCandlelight
+@GodRevealedHere
