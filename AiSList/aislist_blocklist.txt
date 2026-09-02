@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21118
+! Total Channels: 21128
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21134,3 +21134,13 @@
 @Chroniclesoftheword
 @innerkingdom1
 @Rowfishgo
+@Familymedialabs
+@TheLiteralBible
+@prophecywatchers
+@ChristianStoriesCS
+@beforescroll67
+@HannahChronicles
+@LostLore1
+@ExitTheProgram444
+@mythosmotion
+@NinjaMomClips
