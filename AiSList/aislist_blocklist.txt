@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21030
+! Total Channels: 21040
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21046,3 +21046,13 @@
 @The5thKind
 @ReliefPlace
 @Forbiddenchronicles-1
+@HiddenHistory13-r9m
+@TwistedRealms1
+@YehovahsWord
+@secretofscriptures
+@Kazu-en
+@BibleHarbour
+@BeyondtheVeil-j6n
+@Faith-in60Seconds
+@Shadow_FilesX
+@kairosofficial7
