@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21156
+! Total Channels: 21165
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21172,3 +21172,12 @@
 @NighttimeWitness
 @IkhwanulMuslim-z4x
 @Repricedofficial
+@Scoper_360
+@forgottenamericanweapons
+@ForgottenAmericanSurvival
+@forgottenamericanskills
+@ArthurJReed
+@ForgottenAustralianSurvival
+@thecombatdiaries1
+@Darkopsstories0
+@LastDuckStanding
