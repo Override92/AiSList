@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21137
+! Total Channels: 21147
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21153,3 +21153,13 @@
 @RubyStory-v5u
 @ShontaCurll
 @JakeRetires
+@mamayevkurgan
+@UltimateMachinery9
+@main_street-c8l
+@CinemaCarsTV
+@theamericaweremember
+@HowItUsedToBe
+@SigmaTech_TV
+@NEXTTECHZONEi5
+@TechLifeTL
+@TheHiddenRecord-i4x
