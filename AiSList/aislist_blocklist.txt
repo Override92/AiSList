@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21011
+! Total Channels: 21021
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21027,3 +21027,13 @@
 @InfinityLogical
 @scriptureplaylist
 @RiseHigherForJesus
+@JudahsBibleAnimations
+@christvisionmessage9515
+@Faithmaybe
+@BibleHiddenMysteries
+@60secBible-d6z
+@GospelLightAfrica
+@BibleHavenStories
+@Focusbibleverse
+@InspoTalesByShoaib
+@TheBibleSecrets-q9u
