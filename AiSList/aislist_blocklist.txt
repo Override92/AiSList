@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21274
+! Total Channels: 21284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21290,3 +21290,13 @@
 @LoveDreamASMR1
 @Satisfyai_asmr
 @AIASMRDreamBeds
+@JUSTDREAMING-q2e
+@EverydayPhysicswithFeynman
+@The-Stack-ai
+@%E5%AD%94-h1p
+@Cube-Forge
+@BibleAIMovies-c1b
+@JesusVerse-i8l
+@sasvisuals
+@officialzenc
+@aizizuu
