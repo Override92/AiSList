@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21284
+! Total Channels: 21294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21300,3 +21300,13 @@
 @sasvisuals
 @officialzenc
 @aizizuu
+@X-Cinema-8
+@Ai_Motivation4u
+@isaacoliver7329
+@RTOAiAcademy
+@silentbroadcastlive
+@Ninjaotaku
+@OnePawWiser
+@Danskytech
+@SonicAnimationLab
+@EvilMcMelli
