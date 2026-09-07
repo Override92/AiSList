@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21481
+! Total Channels: 21491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21497,3 +21497,13 @@
 @HARRISONREVENGESTORIES
 @HeartVerdict
 @SamsDragonStories
+@CelebrityTalk100M
+@ZenithAIFilms
+@Pok%C3%A9monPark19
+@AD_Visuals_06
+@Zunibo_Kids_AI
+@UnboxForgeAI
+@VJAIcreationz
+@AutoVaultASMR
+@PatrickHistoryRemaker
+@aiVelvetRomance
