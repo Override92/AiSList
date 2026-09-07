@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21304
+! Total Channels: 21314
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21320,3 +21320,13 @@
 @ShredYard-official
 @TheRankTheyNeverSaw
 @OmarB-p1y
+@Fakten_%C3%BCber_Insekten
+@RestoredEgypt
+@KeioncitaFM
+@built.backwards
+@oniaplaylist
+@mr.whosetech
+@VanishedKnowledgeYT
+@CognitiveDen1
+@investale
+@PaulRavieProductions
