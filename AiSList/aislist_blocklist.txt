@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21504
+! Total Channels: 21514
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21520,3 +21520,13 @@
 @Popify-f7p
 @astrastudiosx
 @AnanasNewsTV
+@CLYPSTER-c4t
+@TheContextWindows
+@TheMeasuredHouseYT
+@%E3%83%88%E3%82%AB%E3%82%B2-m5c
+@QuiteRevenge-o4s
+@MG21AISTUDIO
+@ABHI_AI_STUDIO_S67
+@rahulgari231
+@MisterKing16888
+@com.figurado
