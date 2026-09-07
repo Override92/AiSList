@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21364
+! Total Channels: 21373
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21380,3 +21380,12 @@
 @GlossipTV7
 @TheWealthyFiles1
 @PuppyExplainsCars
+@WealthInSilenceOfficial
+@TheLastDay01
+@DannyVassallo
+@MarcoPoloExploresTime
+@desmondwatchinvestig50595
+@MichaelHughley-n3k
+@WatchRealist
+@BeyondBordersYTTV
+@BrandRadar2026
