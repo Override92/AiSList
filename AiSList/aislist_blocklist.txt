@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21234
+! Total Channels: 21244
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21250,3 +21250,13 @@
 @HEARTSTRINGMELODIESVIBES
 @Soulriftz
 @VibeLabYT1
+@InspirationJamz
+@OromoAIMusicOfficial
+@SynthMind-t8s
+@HeavenfallArchives
+@Haadixee
+@ai_song_bangla
+@LUMINASTUDIO3
+@CoverFlix-Ai
+@NeuralTunes001
+@MatiSurAI
