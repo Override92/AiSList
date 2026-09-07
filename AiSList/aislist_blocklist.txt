@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21373
+! Total Channels: 21378
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21389,3 +21389,8 @@
 @WatchRealist
 @BeyondBordersYTTV
 @BrandRadar2026
+@The_Money_Mindset_Co
+@forgottenincome
+@KenjiSatoCleaning
+@POVFinanceUS
+@Arden-b8e
