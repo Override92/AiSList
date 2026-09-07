@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21467
+! Total Channels: 21472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21483,3 +21483,8 @@
 @aetern_music
 @Psychfeelings
 @magecrypto420
+@AiyunMusic
+@TheOakenMug
+@hometowntavern
+@TavernPulse
+@Mirthhall
