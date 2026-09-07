@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21344
+! Total Channels: 21354
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21360,3 +21360,13 @@
 @GoldenerSchleier
 @BornWrongYT
 @StateToStateYT
+@whyitsuckstowork
+@Mr.DeanStories
+@LatestTrendsWithGemini
+@HOAEntitled
+@H4midSV
+@IvanJackson-l7b
+@ThomasHadleyWeapons
+@dossiers-publics
+@dollypartonarchives
+@tony98discovery
