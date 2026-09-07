@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21224
+! Total Channels: 21234
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21240,3 +21240,13 @@
 @IslamicKidsOficial
 @CyberSciAIStories
 @AI-Story-Houses
+@AIUNIVERSESTUDIO-97
+@Next_Episode-c
+@Mz_sohee
+@LovesVibeSounds
+@thefutureofaiworld
+@OneLoveFusion
+@AiSongChannel-j6m
+@HEARTSTRINGMELODIESVIBES
+@Soulriftz
+@VibeLabYT1
