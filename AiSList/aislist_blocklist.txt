@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21204
+! Total Channels: 21214
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21220,3 +21220,13 @@
 @mamatoldmestories2
 @CityHunterHFY
 @AdamaVision2025
+@SweetRomanceNight
+@LunasRomance
+@Playlist_VibesJK
+@Thewildweststories-h7f
+@FictionalTales-30
+@HerxHerlovestories
+@veil_of_fate
+@VillageFantasyWorld
+@storynovai2
+@AinzAnimation
