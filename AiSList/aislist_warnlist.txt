@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 946
+! Total Channels: 947
 
 ! Entries:
 @PapaMeat
@@ -968,3 +968,4 @@
 @petMeme44
 @Vocalspark
 @StaticSway
+@militaryhistorytalks
