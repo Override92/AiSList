@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21264
+! Total Channels: 21274
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21280,3 +21280,13 @@
 @daa____ruu
 @Lush_Sounds_ASMR
 @AIMistASMR-1
+@MONAASMR-j1z
+@mrtutuasmr
+@RefugeAndEmber
+@KiraAIASMR
+@ImpossibleASMR78
+@ASMRSinks
+@ASMRCottonCloud
+@LoveDreamASMR1
+@Satisfyai_asmr
+@AIASMRDreamBeds
