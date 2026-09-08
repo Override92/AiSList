@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21973
+! Total Channels: 21976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21989,3 +21989,6 @@
 @AhjinAnimeRecaps
 @ComfyTeaShojo2
 @chillpanic
+@Heliadem
+@justchoosesmart
+@RajPal-r7t7u
