@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21656
+! Total Channels: 21661
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21672,3 +21672,8 @@
 @NARCEO05
 @skycast123
 @Narcisight719
+@WillowAbbott-s3o
+@pynade
+@Oldstoic-4M
+@VANGUARD-95-OPS
+@The_Explainer3
