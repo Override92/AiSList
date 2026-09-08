@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21661
+! Total Channels: 21671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21677,3 +21677,13 @@
 @Oldstoic-4M
 @VANGUARD-95-OPS
 @The_Explainer3
+@HonestCarAudio
+@RSMusicZvanicna
+@thewaltharlan
+@the_cozycorner_32
+@SalmoraAI
+@AIAura-d6f
+@uspavibes
+@TinyTastyAI-l7s
+@cosytonez01
+@Arashi_20
