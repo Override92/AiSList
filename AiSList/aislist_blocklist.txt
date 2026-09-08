@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21703
+! Total Channels: 21713
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21719,3 +21719,13 @@
 @ColdCaseReopened01
 @TheSoldierDiaryCZ
 @DjPe%C3%A3oBeat
+@GlobalCurrent9463
+@StillnessandHistory
+@Courtiva
+@GoldenTrophyNews
+@PawsofCourage-s7d
+@TheAussieSovereigns
+@MiliSmartKitchen
+@The-Chupacabro
+@TalkingOptionCartoons-h2p
+@AstricusYT
