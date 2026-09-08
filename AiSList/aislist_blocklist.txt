@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21950
+! Total Channels: 21960
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21966,3 +21966,13 @@
 @NO1ShortDrama
 @Drama-Snap-k6s
 @MonarkAnime98
+@Nightfallversee
+@SaidoxAI
+@Impekable
+@ZonsAI-Universe
+@Deevidofficial
+@kakuunikkiya
+@SatyamTechInsights
+@GenExAI-n2l
+@AIBibleRender
+@Christine-Trends
