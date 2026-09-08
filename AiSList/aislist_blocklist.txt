@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21598
+! Total Channels: 21608
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21614,3 +21614,13 @@
 @AutoWissen123
 @LandSchicksale
 @TheCowboyStoryteller-p5n
+@VergesseneSchlachten-e3r
+@DadHeartStories
+@TrueFeelStories1
+@LocomotiveGeek
+@WildWestChronicles-m9i
+@madeonwallstreetUS
+@StarrySkyRomantic
+@JustanObservation
+@GenerationsExplained
+@DaftDriver
