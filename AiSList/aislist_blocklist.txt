@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21859
+! Total Channels: 21868
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21875,3 +21875,12 @@
 @ViralVision999
 @treelunagrow
 @HardGameRushYT
+@AIMagicTrees
+@AI-Naser
+@LongsongUbonRatchathani
+@iartworl
+@FunnyAisandip
+@BotanyAi
+@videofabb
+@MuhammadAhmadRaza-z1i
+@FutureMinds-n9w
