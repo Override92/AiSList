@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21934
+! Total Channels: 21943
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21950,3 +21950,12 @@
 @theaiunfolded
 @alexxelaa
 @Just-Curious-Channel
+@BizarreCompass
+@crumb.lore-yt
+@TheHiddenNarrativesHistory
+@eddysayshi
+@lilytales123
+@ManhwaRecapOriginals
+@Silengrow76
+@zentharaanime
+@syraxverse
