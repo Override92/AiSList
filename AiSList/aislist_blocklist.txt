@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21568
+! Total Channels: 21578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21584,3 +21584,13 @@
 @TheTrueAfricanHistory
 @rovansigurd
 @VintageCarInsider
+@HistorischerSchiffbau143
+@geheimehelden
+@RevengeSoldierTruth
+@RevengeSoldierStories
+@LegacyUnfold-o9e
+@AlexHeartfeltStories
+@nocap1062
+@StarEaterHFY
+@EmpireCircuit-j4p
+@PrincesaHFY
