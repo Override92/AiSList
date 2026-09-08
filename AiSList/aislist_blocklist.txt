@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21681
+! Total Channels: 21690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21697,3 +21697,12 @@
 @AIFoodBites786
 @aibyMae
 @AIFlavorLab-l3d
+@aiprompt007
+@bitecheck_1
+@BEASTFOODAI
+@BodyToonFactory
+@NaturalFrontiers_Channel
+@George.Graves
+@FlorianAzak
+@USAIS2026
+@AirPowerX-e5u
