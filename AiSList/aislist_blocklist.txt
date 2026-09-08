@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21960
+! Total Channels: 21969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21976,3 +21976,12 @@
 @GenExAI-n2l
 @AIBibleRender
 @Christine-Trends
+@ASecondofPeace
+@paulbryhanson
+@HardwareGridyt
+@cyberjungle
+@SinnersAndSaints-o1g
+@Yunowha
+@appTechHub786
+@PurpleAvengerUK
+@GakuRecaps
