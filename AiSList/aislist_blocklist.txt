@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21831
+! Total Channels: 21841
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21847,3 +21847,13 @@
 @curiousrefuge
 @PJAnimation01-j1r
 @KittyKittyoficial
+@apetcareguide
+@AmazingAnimeMan
+@PurrfectCareTales
+@DNARevaliation
+@TheHiddenCat-US
+@Growwfruit
+@Manhwa_StormX
+@SilentMonastery-g7c
+@hellopetcarevet
+@NarratedAfricanFolktales
