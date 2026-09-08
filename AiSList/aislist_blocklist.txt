@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21690
+! Total Channels: 21696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21706,3 +21706,9 @@
 @FlorianAzak
 @USAIS2026
 @AirPowerX-e5u
+@TheRealBorder
+@An%C3%A1lisisGlobal77
+@UnforgivingEarth4K
+@davescripted3796
+@KelpCurrent
+@WilderAmericaChannel
