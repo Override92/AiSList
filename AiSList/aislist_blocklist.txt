@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21734
+! Total Channels: 21740
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21750,3 +21750,9 @@
 @Seoul_K_POP
 @SchlummerPhysik
 @secretbobina
+@synchedbyathena
+@FashionCrisisUK
+@QuietlySharp-1
+@viljestudio
+@Doku-Deutschland
+@GeoEnvy-YouTube
