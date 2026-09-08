@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 21969
+! Total Channels: 21973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21985,3 +21985,7 @@
 @appTechHub786
 @PurpleAvengerUK
 @GakuRecaps
+@Kurova2
+@AhjinAnimeRecaps
+@ComfyTeaShojo2
+@chillpanic
