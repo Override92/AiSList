@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22326
+! Total Channels: 22328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22342,3 +22342,5 @@
 @historicdave1
 @Squintist
 @DearTimeChannel
+@Vietnamtales9
+@synthodysseyfm
