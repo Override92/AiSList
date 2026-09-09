@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22432
+! Total Channels: 22441
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22448,3 +22448,12 @@
 @RetroDolceStudio
 @AmoreBlu04
 @RivieraRecordsIT
+@CanzonidAmore1101
+@DolceRomance
+@ItaliaSerenade-22
+@TheForbiddenNights
+@LunadeAmoreRiviera
+@VintageItalyVibes
+@AmalfiRetroSongs
+@ItalianAmoreFilms
+@RadioAmoreRetroo
