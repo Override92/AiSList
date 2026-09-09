@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22135
+! Total Channels: 22137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22151,3 +22151,5 @@
 @AuthenticIgorotMusicVibes
 @Cozy_RainyRoom
 @EavesongRain
+@RainCozyCabin-w2c
+@StormHearthSounds
