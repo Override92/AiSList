@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22187
+! Total Channels: 22197
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22203,3 +22203,13 @@
 @GlobalSoundsAndCulture
 @RainWhispers-m8p
 @MelodiesOfHistory
+@oyed.d3175
+@SeasonalEscapeAmbience
+@MidnightRainSounds.838
+@AlHumaira99
+@RainyCabinAmbience55
+@cozybooksjazz
+@VelvetLoops-c2l
+@snowfall.winternight123
+@FallingLeavesRainxng
+@TheDaydreamRetreat
