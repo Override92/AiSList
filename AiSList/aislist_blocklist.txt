@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22355
+! Total Channels: 22363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22371,3 +22371,11 @@
 @Backstory_of_History
 @conhuir
 @ThePaybackDiaries123
+@UmarFarooq-x3e6l
+@DeepPersianFocus
+@lowkeyambient
+@StuffzRealm
+@SimplePsychologyTeam
+@Mimousic
+@MobilReport-v8w9t
+@MilitaryBlue-Official
