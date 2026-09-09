@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22345
+! Total Channels: 22355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22361,3 +22361,13 @@
 @kidnamedfinger-u7x
 @norman-explains
 @Prehistoric_Dude
+@Gosshuu
+@TheHardware_Dispatch
+@SimplyAStickman
+@InspireandThriveYT
+@BluntlyExplained
+@MentorPOV
+@SugarStories-yt
+@Backstory_of_History
+@conhuir
+@ThePaybackDiaries123
