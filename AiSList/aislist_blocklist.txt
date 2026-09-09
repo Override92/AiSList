@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22319
+! Total Channels: 22326
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22335,3 +22335,10 @@
 @TomAstroLab
 @CanadaWarTales
 @Dronescapes
+@Quiet_Pluto
+@Mr.Death.Official
+@EngineeringNightmare1
+@BuiltinAmericaYT
+@historicdave1
+@Squintist
+@DearTimeChannel
