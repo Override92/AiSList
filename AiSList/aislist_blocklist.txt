@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22105
+! Total Channels: 22115
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22121,3 +22121,13 @@
 @ayayatenkailocanosongs
 @missghiblilife
 @FutureRiderUS
+@SunsetWhispers90s
+@HanaGhibli
+@HorizonofSouls-u9s
+@AI-GeneratedMusic-jon
+@SurvivalGhibliWorld
+@SpiritLanternASMR
+@Clouds_And_Wind
+@GhibliNook-d2l
+@ClassicVaultGhibli
+@WhisperingVillage-r1m
