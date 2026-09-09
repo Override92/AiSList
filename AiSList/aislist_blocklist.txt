@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22307
+! Total Channels: 22313
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22323,3 +22323,9 @@
 @courtreviewusa
 @bytesizedexplainer
 @Thechillhistorian102
+@CasuallyFinance
+@OverTales02
+@ProfessorPrimalOfficial
+@PsychToonsHQ
+@Lumicus-yt
+@tony99.studios
