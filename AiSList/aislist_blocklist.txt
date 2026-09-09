@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22308
+! Total Channels: 22307
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21573,7 +21573,6 @@
 @PianoViz
 @ShredHub-n8e
 @ZipDaily-ZD
-@ThePaintProf
 @AtlasofEmpires1
 @HistoryDoc-e8v
 @thenilearchive
