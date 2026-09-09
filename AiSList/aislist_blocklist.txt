@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22396
+! Total Channels: 22406
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22412,3 +22412,13 @@
 @ancientoriginsexplained
 @Johns-Vault
 @ArmoryProfessor
+@YourAllyhere
+@Bilkytitanmusic
+@StreamFreeMusic
+@alpharise0305
+@ravie.zquinn
+@NEVRAINE
+@ABSOLVTEMUSIC
+@ww2warfaretales
+@deadmetalrevivals
+@DoReMi-Records
