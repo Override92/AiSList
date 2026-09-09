@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22115
+! Total Channels: 22125
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22131,3 +22131,13 @@
 @GhibliNook-d2l
 @ClassicVaultGhibli
 @WhisperingVillage-r1m
+@%E9%95%B7%E7%94%9F%E3%81%8D%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88TV
+@DriftHaven369
+@GhibliWhispersOfNature
+@quietghibli_life
+@Itzz_ishoo
+@cozymanorhome
+@KK88-u5w
+@igorotplaylist
+@SilentStrings-i7h
+@AndesDreamMelodies
