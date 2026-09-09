@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22125
+! Total Channels: 22135
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22141,3 +22141,13 @@
 @igorotplaylist
 @SilentStrings-i7h
 @AndesDreamMelodies
+@DreamyDarkAcademia
+@Rainy_CozyRoom
+@HarmonyAmbience686
+@StormMusic-d4s
+@innerrelaxationhealingmusic
+@traumscape
+@AmbientalPlanet
+@AuthenticIgorotMusicVibes
+@Cozy_RainyRoom
+@EavesongRain
