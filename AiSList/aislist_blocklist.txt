@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22372
+! Total Channels: 22379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22388,3 +22388,10 @@
 @RagnarVarkul
 @PathoHubb
 @InnerLensMind
+@SimpleConceptsExplained
+@TheIronRose2
+@thisizgabs
+@PartThatChangedAmericanHistory
+@SILENTREVENGESTORIES68
+@TrueSilentStories4real
+@AlexsRevengeOffice
