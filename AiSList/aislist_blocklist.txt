@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22231
+! Total Channels: 22241
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22247,3 +22247,13 @@
 @shadowmanhwa-recap
 @Whosanelabs
 @UnchartedDepths-v2n
+@HekaSenebAI
+@Warm_Homes
+@FantasyNightscapes
+@RDKMInstruRPGmentals-ur2rw
+@stressfree-AI-News
+@SinclairSimons-TheSilentFuture
+@Smart.TechStudio
+@AI_with_Kusum
+@InVideoOfficial
+@grsanctuary
