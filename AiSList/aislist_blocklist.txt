@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22211
+! Total Channels: 22221
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22227,3 +22227,13 @@
 @HighFalconMusic
 @christhope7
 @adwaarstudio
+@TheDreamWeaver-m6o
+@HeavenlyDepths
+@HOLYCINEMA-m5j
+@kingdomGlory-r4q
+@Mr.VelMash
+@Stories.of.Scripture
+@TheScripturalChronicles
+@HolyMotionStudio
+@HeavenlyAngelsSinging
+@noochanchantrarat5328
