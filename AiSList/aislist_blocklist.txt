@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22416
+! Total Channels: 22415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22431,4 +22431,3 @@
 @RetroRivieraVibes
 @Canzoni.Damore
 @calisthenics.bypaulina
-@SoAdorable-pet
