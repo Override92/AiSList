@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22197
+! Total Channels: 22201
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22213,3 +22213,7 @@
 @snowfall.winternight123
 @FallingLeavesRainxng
 @TheDaydreamRetreat
+@AutumnWhispers-x6s
+@RainyHouseAmbience-b4d
+@mysticrainworld
+@goldenhour-nt
