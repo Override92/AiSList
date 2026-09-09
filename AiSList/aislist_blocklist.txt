@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22174
+! Total Channels: 22177
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22190,3 +22190,6 @@
 @christianreimagine
 @RuangCeritaKita-y6b
 @MELODIESOFWORSHIP-i4f
+@lumynorofficial
+@Gadgetsinsider321
+@AppalachianSoulHymns
