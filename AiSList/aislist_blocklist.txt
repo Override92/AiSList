@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22441
+! Total Channels: 22451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22457,3 +22457,13 @@
 @AmalfiRetroSongs
 @ItalianAmoreFilms
 @RadioAmoreRetroo
+@AperitivoItalianRadio
+@GuitarrayMarMUSIC
+@ItalianVintageRomance
+@italianvintage
+@RetroDolceVitaStudio
+@MusicRivieraEterna
+@RetroHeartbreakRadio
+@WhisperofLace
+@StarsofParis
+@RetroRivieraDreams
