@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22250
+! Total Channels: 22252
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22266,3 +22266,5 @@
 @TITCreation
 @NatureStoryAI-p2n
 @ROOTARA_AI
+@Mohitxgaming99
+@TheCrackedFiles
