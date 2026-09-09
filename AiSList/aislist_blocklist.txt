@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22423
+! Total Channels: 22432
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22439,3 +22439,12 @@
 @ParisfromAfar
 @Lilychanson
 @ClaireDelacroixBistrotdeMinuit
+@PrometheanAction
+@AlessiaFontana-info
+@NostalgicRivieraFrames
+@TimelessItalia-13
+@FerdyReverie
+@RivieraAmoreFM
+@RetroDolceStudio
+@AmoreBlu04
+@RivieraRecordsIT
