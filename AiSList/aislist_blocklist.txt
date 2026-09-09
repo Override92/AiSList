@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22077
+! Total Channels: 22087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22093,3 +22093,13 @@
 @Holiday-Medley-2027
 @Hidden-Notes
 @VibesOfTheUniverse9
+@WorldFireplace
+@DNXLchillmusic
+@ImBlinky-B
+@Kalma-Lang-24
+@luluofficial22
+@CozyHaven36.9
+@mindverolake
+@Nestoria-5
+@silentparadise-l1f
+@hadiyaaaaaa
