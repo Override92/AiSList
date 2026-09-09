@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22415
+! Total Channels: 22423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22431,3 +22431,11 @@
 @RetroRivieraVibes
 @Canzoni.Damore
 @calisthenics.bypaulina
+@ItalianAtmosphereStudio
+@LaVoixdeParis-x9r
+@Italianvintage-Radio
+@Most_Dangerous
+@SophiaWiseEnergy
+@ParisfromAfar
+@Lilychanson
+@ClaireDelacroixBistrotdeMinuit
