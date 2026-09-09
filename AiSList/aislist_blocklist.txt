@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22451
+! Total Channels: 22460
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22467,3 +22467,12 @@
 @WhisperofLace
 @StarsofParis
 @RetroRivieraDreams
+@RetroRivieraStudio
+@VintageEuropeFilms
+@NostalgiaInMotion-k1e
+@DolceRivieraFilms
+@FlowStateAmbient-q5o
+@RetroAmoreStudio
+@TheVintageSerenade
+@musecraftcinema
+@BellaVitaMusic-w5m
