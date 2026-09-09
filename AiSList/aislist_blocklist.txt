@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22313
+! Total Channels: 22319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22329,3 +22329,9 @@
 @PsychToonsHQ
 @Lumicus-yt
 @tony99.studios
+@ThePaybackOffice
+@PrehistoricJoeYT
+@britain-no4zv9ey4b
+@TomAstroLab
+@CanadaWarTales
+@Dronescapes
