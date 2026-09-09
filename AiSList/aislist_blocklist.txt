@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22406
+! Total Channels: 22416
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22422,3 +22422,13 @@
 @ww2warfaretales
 @deadmetalrevivals
 @DoReMi-Records
+@RivieraVinyl
+@AmoreLuce_yt
+@LostFootageArchiveOfficial
+@HerzendesAdels
+@MelodiadItalia-i6v
+@VikJayne
+@RetroRivieraVibes
+@Canzoni.Damore
+@calisthenics.bypaulina
+@SoAdorable-pet
