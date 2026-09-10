@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22486
+! Total Channels: 22496
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22502,3 +22502,13 @@
 @MusicBeatsNeon
 @Hellenization-day
 @Italian1960s
+@JoelAIBibleTales
+@theAIchristianbible-dj3ir
+@Thebibleai-t6d
+@manabiblekathalu
+@biblemadeeasy2
+@AIBible-s3d
+@StoriesAiBible
+@AiBiblestories01
+@bibleaivisuals
+@BibleandBytes
