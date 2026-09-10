@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22554
+! Total Channels: 22564
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22570,3 +22570,13 @@
 @Jesus-international
 @EvidenceBibleAi
 @The_AI_Bible_Guy
+@InspirationabiblestoryAI
+@BibleExploreAI
+@BibleStoriesAi-e7v
+@Holy-Bible-ai
+@aibiblereport
+@AIBibleStoryPodcasts
+@BLACKAIBIBLE
+@BibleStoriesinBlack
+@THEAIBIBLEGLOWGLOBAL
+@KOREAAIBIBLE
