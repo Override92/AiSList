@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22968
+! Total Channels: 22978
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22984,3 +22984,13 @@
 @capitalize.oficial
 @DiscoverywithAmbrose
 @thenewglobalinsight
+@AuraiOfficial
+@novasteam-c9p
+@LoFiLoura
+@WhisperingSpirit-0
+@NostalziaM
+@DarkFrontierAnthems
+@EveryRomanceTales4-u
+@PMW_Archive
+@Yukibone-mmhz
+@Fenja-w8f
