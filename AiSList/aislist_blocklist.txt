@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23166
+! Total Channels: 23168
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23182,3 +23182,5 @@
 @resonanciadevoxel
 @bittunemusichouse
 @chrisstapletonandlaineywilson
+@ghiblisurvivallife1
+@puzzlegamesasmrqueen
