@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22583
+! Total Channels: 22578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10014,7 +10014,6 @@
 @EcoRebooorn
 @CreativeTVArt_Decor
 @Warfare_Decoded
-@DalioDecoded-f1c
 @BlindspotFiles
 @easylifeteen
 @EdnerdExplains
@@ -11828,7 +11827,6 @@
 @TigronixTechStudio
 @Shiuli-Aistories
 @FruitlixStudio
-@AnumaiTech
 @PURRINGAI01
 @GingerKittenStory-NBmedia
 @myYellowMeow
@@ -19265,7 +19263,6 @@
 @MythicWings-327
 @ParadoxPoints
 @CreepologyYT
-@coleeconomics
 @FanfictionVault
 @GeoPF-j6d
 @FutureAlphaAIofficial
@@ -19710,7 +19707,6 @@
 @NaturesVitalSecrets
 @Storiesbynight-US
 @SoulMomentsStory
-@DuchessAmeliaTales
 @CrimsonReckoningTales68
 @BuriedRanks
 @TheVeteranVault-w4y
@@ -19835,7 +19831,6 @@
 @Funke_videos
 @AuraTaleStudios
 @StorieswithHeart-o9w
-@Mr.EvermoreStories
 @JJGold_storytime
 @SURLEY_STORIES
 @OmaPresh-f9j
