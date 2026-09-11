@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22963
+! Total Channels: 22962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4075,7 +4075,6 @@
 @B%C3%B3vedaHistoriasdelasAbuelas
 @HistoriasdeQuienR%C3%ADe%C3%9Altimo
 @MateusAugustohistorias
-@Detr%C3%A1sdelSacrificioMaterno
 @VenganzaFr%C3%ADa-g4q
 @Lecciones_Ocultas
 @VocesDella
