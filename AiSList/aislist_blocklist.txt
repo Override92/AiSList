@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22951
+! Total Channels: 22955
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22967,3 +22967,7 @@
 @WEALTHHACK-h3p
 @ShrabaniNijhawan
 @LogicalMoney72
+@vanishedrooms
+@doctormarkleeofficial
+@ScienceTechnology-s7l
+@kenadeemaverick
