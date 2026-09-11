@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23069
+! Total Channels: 23079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23085,3 +23085,13 @@
 @neuro-music-lab
 @animalswild-l7d
 @WhyWomenLiveLongerThanMens
+@Prof.JiangFrancais
+@SomaticMediaLab
+@WorldofAfroHouse
+@TheMirageSociety
+@Keatans
+@veopunchlines
+@EclatdeSaphir
+@OrangotanTV
+@PimpaAI
+@teachme-daily
