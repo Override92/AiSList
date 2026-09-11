@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22577
+! Total Channels: 22578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9847,7 +9847,6 @@
 @DruckenmillerGuide
 @StoicMercer
 @StoicSoulForge-US
-@gorzilla.x
 @sabzinagritales
 @digital.soulclub
 @RustBluesRadio
@@ -18139,7 +18138,6 @@
 @DiscoveryKnowledge76
 @ScienceSun-b4r
 @civilexplained-ce
-@simpson_explains
 @humanoriginslabs
 @djentertainment121-f4o
 @solarbrief
@@ -22593,3 +22591,6 @@
 @aimasterman49
 @SoulStirringStories
 @주식을예술로
+@northtexasunexplained
+@castuniversee
+@finance.wood.creativity
