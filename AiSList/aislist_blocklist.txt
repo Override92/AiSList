@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22865
+! Total Channels: 22870
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22881,3 +22881,8 @@
 @shan-r2l
 @pepnaya
 @mariostories6
+@Useepy
+@valhallafury
+@Hornstromp3D
+@RittikaFunnyworld
+@CartoonWorldFF-22
