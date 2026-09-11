@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22939
+! Total Channels: 22942
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22955,3 +22955,6 @@
 @LonelinessLiminals
 @SoraAiCats
 @YAMMEZ
+@ai.rfloww
+@KatkatShortz
+@AaronWolfstone
