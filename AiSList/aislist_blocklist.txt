@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23135
+! Total Channels: 23140
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23151,3 +23151,8 @@
 @SuccessfulEntrepreneurR
 @UncoverHistory-p2u
 @carlinvestsUS
+@storiesbyonyeka
+@goldenmaskgerl
+@littlemelodytalestv
+@sub5ball
+@africantalesbykuru
