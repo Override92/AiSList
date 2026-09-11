@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22695
+! Total Channels: 22705
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22711,3 +22711,13 @@
 @ManpreetonMission
 @neostar99
 @manish-q2tr
+@ashu_ai_worlds
+@Jaxxor9
+@chris_quotehub
+@RyanCollinsAI
+@MrShajil-u7e
+@bttworld24
+@ReactsOP12
+@MRAIHACKER-p4c
+@bharatbaraiya5909
+@thisislife7786
