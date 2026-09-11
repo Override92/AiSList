@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23152
+! Total Channels: 23155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20029,7 +20029,7 @@
 @BeyondTheChart-c
 @MarysPen
 @kimanirachie901
-@stories-tem
+@temanirmiya5
 @mirianofime8911
 @MothersTactics04-99
 @HumanityStories-t1e
@@ -20053,7 +20053,7 @@
 @EbonyHeartTales
 @JayStoryHubAi
 @ECHOOFTALES123
-@NaijaNightmareVault
+@mfontales
 @TheSilentVerdict68
 @ToldbyElders.1M
 @QuietFamilyRevenge-j1p
@@ -23168,3 +23168,6 @@
 @animatetales192
 @BodySwapLab
 @aerisofficiel1
+@africansecrets_a
+@financeyard26
+@talesbymaliq
