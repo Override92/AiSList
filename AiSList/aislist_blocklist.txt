@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22575
+! Total Channels: 22580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22591,3 +22591,8 @@
 @builvo
 @maziemmanuelstories
 @nollo_lofi
+@nightingaleseries
+@luxoranoir
+@legend.era2
+@macaroff01
+@senjadoa93
