@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23006
+! Total Channels: 23016
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23022,3 +23022,13 @@
 @DeniS.-hy9my
 @funkybluesai
 @MOTORROCK-89
+@youromance_official
+@NIGHT-SYSTEM-STUDIO
+@VaporMachine
+@northzeroofficial
+@inked_intj
+@Mr.qatipi99
+@AIThings94
+@bernard_ai
+@AIWildTales-u8b
+@Akkp047
