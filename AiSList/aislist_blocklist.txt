@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23040
+! Total Channels: 23050
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23056,3 +23056,13 @@
 @AbsurdAILabs
 @SoraBrainrott
 @AlternativeRealityWorld
+@Hellbre%C3%A4kerMusic
+@rashabhbutani
+@MesaRatMusic
+@IronSignal_01
+@Justachillguyplsbro
+@mo2ive4
+@novalionessroots
+@Aesthetic_Arrest
+@SugarballSciFi
+@buffistuff
