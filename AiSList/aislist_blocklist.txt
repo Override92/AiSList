@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22815
+! Total Channels: 22825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22831,3 +22831,13 @@
 @successvictor8254
 @uzobar
 @pixel_visual
+@Aivlogverse-b8y
+@AIVerseStudio02
+@AIVOICESTUDIO-07
+@DuShunArtCorn
+@WonderLoopAI-g6c
+@TheTravelChapter-v1h
+@AISamVlogs
+@TheJilbab
+@ankitbhaiyavlog01
+@Harshat_kumar
