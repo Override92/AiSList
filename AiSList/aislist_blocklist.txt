@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22969
+! Total Channels: 22964
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10599,7 +10599,6 @@
 @MidnightHighways
 @bathedinflame
 @Synthartik
-@MarscifyEcho
 @FyreAblaze
 @TwistedF8covers
 @pulsehave
@@ -19874,7 +19873,6 @@
 @Billionaire-Tales-i8e
 @Best-Novel777
 @EverEnrichStories-t7m
-@GoldenFolktaleStories
 @TheShade-02
 @DramaDonna-w1x
 @SilentSEAL-a1
@@ -19940,7 +19938,6 @@
 @Dearest_Listener
 @Hurumtales1
 @THEG_DRAMA
-@TheyMockedtheVeteran
 @ai_shortdrama001
 @StoryFrontier-w3u
 @SilentBadgesStories
@@ -19950,7 +19947,6 @@
 @TimelessAndTales
 @MysteryTales-l6x
 @BittersweetTales-r8f
-@TaleNova-t5d
 @MysteryTales-y8i
 @TwilightTales-m1v
 @TalesOfLife_YT
@@ -19969,7 +19965,6 @@
 @monicastales1
 @WornGoldTales
 @TalesbyZainab3
-@ShadowlineTales-w7f
 @latestnewstvofficial
 @UchloadAfricanFolktales
 @Hiddentruthtale211
