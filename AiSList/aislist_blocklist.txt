@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23324
+! Total Channels: 23322
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15423,11 +15423,9 @@
 @DnB_Station
 @cenariska
 @velocitydnb-dnb
-@Colosootv
 @lostsignal.mp3
 @mmorycrd
 @LowPolyDreams64
-@Boot_Sequence-p7k
 @1C3BRE4KER
 @littlekittenfriends
 @Froggygaming16
@@ -15463,7 +15461,7 @@
 @Howtodrawanything-s4y
 @MJFarmStories
 @BritishFarmStories
-@TheIntelligentFarmerStories
+@farmersuntoldstories
 @CedarHollowStories-t6l
 @RawartbyRomero
 @TalesoftheSoil11
@@ -15472,7 +15470,6 @@
 @SnoopyJazzLounge
 @MuMuRADIO
 @Eisen_werk
-@HiddenLoveSecrets-l7d
 @Lifelinecorner
 @Beyond_Kindness
 @DadFamilyStories
@@ -23340,3 +23337,4 @@
 @simpleobjectsexplained
 @unsealthebible
 @footyroasttv
+@thebritishfarmchronicle
