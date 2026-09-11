@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23301
+! Total Channels: 23309
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23317,3 +23317,11 @@
 @TheDavidNews
 @HiddenHistory-v7i
 @TheMichaelNews
+@HitUpdates-k6l
+@olpergeopolitics
+@OrbitNexus-q5h
+@Wealtharo-t4u
+@lgx-g1l
+@Finance_Decoded-j5m
+@DefenseFact-d9d
+@%E8%83%96%E8%83%96%E7%9A%84%E6%90%9E%E7%AC%91%E7%94%9F%E6%B4%BB
