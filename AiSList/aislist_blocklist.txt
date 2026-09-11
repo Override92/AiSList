@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23017
+! Total Channels: 23018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10654,7 +10654,7 @@
 @top100real
 @BrrRotAmazeOfficial
 @iShowDiscoveries
-@Brainrot_Zone27
+@dhawanth27
 @AnnFindAll
 @SmirkzyStudio
 @Fishy.Ai.Animations
@@ -23033,3 +23033,4 @@
 @AIWildTales-u8b
 @Akkp047
 @HOORNAIN-z1g
+@itsfknjimmy
