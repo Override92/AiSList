@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22964
+! Total Channels: 22963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4506,7 +4506,7 @@
 @elpreciodelatraicion-n1i
 @bovedahistoriasdelasabuelas
 @historiasdequienrieultimo
-@detrasdelsacrificiomaterno
+@forbiddenvows-d6z
 @venganzafria-g4q
 @resilienciaycorazon
 @relatosdramaticos66
@@ -10594,7 +10594,6 @@
 @metalmelodisvibes
 @NgerockAI
 @SHIFT85
-@essenciaaura
 @Mocaladyy
 @MidnightHighways
 @bathedinflame
