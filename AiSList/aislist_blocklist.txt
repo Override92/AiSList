@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23322
+! Total Channels: 23324
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15433,7 +15433,7 @@
 @Froggygaming16
 @unkio
 @StreamRewinder
-@LMCK27
+@exotic_playss
 @remindmemp3
 @OcarinaofBass
 @AssopraaFitaLo-Fi
@@ -23338,3 +23338,5 @@
 @wiletoons2.0
 @sanctumjazzroom
 @simpleobjectsexplained
+@unsealthebible
+@footyroasttv
