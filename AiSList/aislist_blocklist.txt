@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22968
+! Total Channels: 22969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22984,3 +22984,4 @@
 @afterschoolgirlsband
 @nextrecapped
 @vaelerka
+@wildpasthq
