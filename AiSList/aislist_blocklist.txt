@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22978
+! Total Channels: 22988
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22994,3 +22994,13 @@
 @PMW_Archive
 @Yukibone-mmhz
 @Fenja-w8f
+@TriplelegShark
+@marvels_art5
+@thesoundluxe
+@AlRashidAIMusic
+@SymphonicTechnoSound
+@AsphaltGhost86
+@KoreSession
+@M%C3%BAsicaQueEdificaElAlma-o8x
+@Infiniteverse-s3i
+@Lyricshubb
