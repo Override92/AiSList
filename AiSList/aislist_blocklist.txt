@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22961
+! Total Channels: 22964
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22977,3 +22977,6 @@
 @MarketMindset-h7m
 @FantasyUniverse-z7p
 @FINANCESIGNALDIALY75
+@CapitalCurrent1
+@dnasecrets01
+@Bille_Finance
