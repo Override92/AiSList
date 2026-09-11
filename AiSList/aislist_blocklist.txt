@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23155
+! Total Channels: 23153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8431,7 +8431,6 @@
 @WakanEchoes
 @PorkysKitchenAI
 @imjust5taku
-@CustomerServiceBreakroom
 @kitchenaiapp
 @InfectedMansAIKitchen
 @NanoKitchenAI
@@ -14243,7 +14242,6 @@
 @ANIME_GHA
 @AshrayMinj
 @animationcartoon-t8h
-@african-tales-by-zanel
 @Billubhaiofficial
 @The_AI_Century
 @RainbowRascals-e4g
