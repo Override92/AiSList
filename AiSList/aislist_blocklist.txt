@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23168
+! Total Channels: 23166
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11899,7 +11899,6 @@
 @neonretroscapes
 @PrimeLuxuryHub
 @Rebuild2Life
-@futureflowprocess
 @rebornmachinesal
 @CarsReborn
 @WarDevices
@@ -11940,7 +11939,6 @@
 @nature_reborn-1
 @truecrimetoday-i8z
 @presidentplaychess
-@fathersweetrevenge
 @はなび_hanabiplaylist
 @behindtheincident-6k
 @pcsense21
