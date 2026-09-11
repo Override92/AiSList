@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22939
+! Total Channels: 22937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24,7 +24,6 @@
 @WadwalSaab-f1k1l
 @SuperCatLeague
 @MastersOfProphecy
-@funnymeow-p8s
 @funnymeow1
 @Funnymeow1-e3w
 @Funnymeow8
@@ -9114,7 +9113,7 @@
 @The_Economy_Report
 @explainit777
 @AGTears
-@jesswritesmanhwa
+@fitfemmeus-g5k
 @ai-slop-channel
 @AiMusicSunny
 @aiSheva
@@ -10197,7 +10196,6 @@
 @Mariaiart
 @ha-rin_arte
 @DarcyBlair
-@premaiart
 @offscriptdocumentaries
 @InspiredTV-d4p
 @TheChroniclesofTolkien
@@ -18132,7 +18130,6 @@
 @ScienceSun-b4r
 @civilexplained-ce
 @humanoriginslabs
-@djentertainment121-f4o
 @solarbrief
 @pkalyaniworld
 @rehobothsoundtv-j1jfanmade
@@ -22955,3 +22952,4 @@
 @africandramavault1
 @revengemall1
 @thecarvingstudio7
+@urvixbaby
