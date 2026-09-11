@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23319
+! Total Channels: 23321
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23335,3 +23335,5 @@
 @OutlawEcho-o8t
 @medievalconfessions
 @MelodyCultivator
+@The304AIMafia
+@DumpsterGrooves
