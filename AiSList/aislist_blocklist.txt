@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22968
+! Total Channels: 22967
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15519,7 +15519,6 @@
 @ケダチク-c6d
 @存在しない記憶0_0
 @ai音楽-c1b
-@放課後軽音部
 @aiちゅーん
 @polscycelebryci
 @GwenerVerse
