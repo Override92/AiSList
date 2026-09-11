@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23143
+! Total Channels: 23152
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23159,3 +23159,12 @@
 @baqafrost
 @realimaginarytalks
 @theholyvlogs
+@FutureMysteries1
+@DreamDrama-9
+@jinwoo-hka
+@imskaigenerated
+@Blitzrecapreal
+@suho-hka
+@animatetales192
+@BodySwapLab
+@aerisofficiel1
