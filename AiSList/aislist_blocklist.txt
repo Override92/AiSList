@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 22946
+! Total Channels: 22951
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22962,3 +22962,8 @@
 @WION
 @carcareuniversity
 @jrohnmindsetmastery
+@Veyronix-f8l
+@CrsStories-t2z
+@WEALTHHACK-h3p
+@ShrabaniNijhawan
+@LogicalMoney72
