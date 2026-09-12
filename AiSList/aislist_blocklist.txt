@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23322
+! Total Channels: 23323
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7524,13 +7524,13 @@
 @TheMoneyContradiction
 @ReformedThinking-c3o
 @the_Ai_verdict
-@militarylegoai
+@epicartai
 @Origin_labs
 @zzz_tokyo
 @SanchezWyja%C5%9Bnia
 @Mrrecappedofficial
 @SPACE_LABb
-@actorscutyoutube
+@800pgrooted
 @MichaelJacksonLifeStories
 @TheUnforgettable07
 @Cinebreaks-d9p
@@ -10844,7 +10844,6 @@
 @xadrikxaulxu
 @FreeiumVoices
 @liveb
-@Cyberpunk_Coding_Muzic
 @Singularityme
 @HIBIKImusic-n3p
 @EuroHeartbeat
@@ -23338,3 +23337,5 @@
 @rallytimenews
 @alphatester-ai-slop
 @crazy_kahaniya_yt
+@gspider9999
+@beonosound
