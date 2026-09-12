@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23419
+! Total Channels: 23423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23435,3 +23435,7 @@
 @shorts_runner647
 @AIQuestAcademy
 @yakbsh
+@Markaiguy
+@manhwarecap994
+@ArrowNexus-2005
+@BeastEvolutionAnime
