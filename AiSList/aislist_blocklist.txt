@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23326
+! Total Channels: 23325
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7698,7 +7698,6 @@
 @LawJusticeStories
 @LifeScriptsStories
 @CourtSense-CS
-@DiplomaticNewsJudge
 @BeatStories-US
 @SharedStoryToday
 @JudgeCaprioPerspective
@@ -13342,7 +13341,7 @@
 @PhysiqueSecr%C3%A8te
 @Ic%C3%B4nesdHier
 @FeynmanFR
-@Hanspolitik
+@marcbongartzclips
 @TheSci-FiNexus-t3c
 @ApexxTerra
 @SuccessGears
