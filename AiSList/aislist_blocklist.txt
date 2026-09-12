@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23423
+! Total Channels: 23428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23439,3 +23439,8 @@
 @manhwarecap994
 @ArrowNexus-2005
 @BeastEvolutionAnime
+@anirecapping
+@actormahidarji2349
+@AIJASMINEVIOG
+@UnderdogStory-y2o
+@PowerAIAnimation
