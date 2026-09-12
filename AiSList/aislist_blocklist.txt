@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23437
+! Total Channels: 23446
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23453,3 +23453,12 @@
 @misterfinanceyt
 @ManhwaMax9
 @LeosManhwa
+@RubysManhwa
+@PinpuMaxsub
+@PinpuCartoon
+@PinpuWebtoon
+@roadlawinsider
+@ahsanurdustudio7299
+@AstraVeyl
+@QuantumPulse11
+@Finance-07-f
