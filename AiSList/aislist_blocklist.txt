@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23327
+! Total Channels: 23328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17089,7 +17089,6 @@
 @MMTelevisions-s9z
 @tilerisofficial
 @meridian_ytube
-@dr.Tomaszkowalski
 @Niespe%C5%82nionaMi%C5%82o%C5%9B%C4%87
 @S%C5%82owaPrzesz%C5%82o%C5%9Bci
 @dr.AndrzejMajewski
@@ -23343,3 +23342,5 @@
 @elitejohns
 @animalsxx_31
 @theroomeffect101
+@goldenstoryus-b6d
+@sonofthedeadsun
