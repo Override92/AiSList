@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23467
+! Total Channels: 23466
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4509,7 +4509,6 @@
 @TheTwistedDream
 @TeenStorySchool
 @IndustrialDecayUSA
-@WW2VOICES-o9z
 @ECHOESOFWWII-q8s
 @war2Stories
 @EchoesofWar20th
@@ -11038,7 +11037,6 @@
 @chu5minecraft2026
 @fifafan009
 @cyrenofc
-@mmahonor
 @roastingpodcast
 @RhythmDistrict-s8g
 @Toon_Beats-e6c
@@ -17140,7 +17138,6 @@
 @MythicalTalesHaven
 @The_Grand_Tapestry_of_Belief
 @GodsAndMythsUS
-@SundownHistorian
 @MrWebtasticOfficial
 @Julia2026-i3w
 @WeirdPastStickman
@@ -23483,3 +23480,5 @@
 @QuantumBuzz-s3m
 @emotionalsupport90
 @brokenfamilybetrayals
+@warhistoryusa-e6v
+@mellowbloxasmr
