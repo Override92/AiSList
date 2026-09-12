@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23446
+! Total Channels: 23454
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23462,3 +23462,11 @@
 @AstraVeyl
 @QuantumPulse11
 @Finance-07-f
+@CalmPiratee
+@MrFinanceBrands
+@Olliee_Finance
+@AllAbout_YourMoney
+@MarIA_Animated
+@HardwareDetailss
+@smartpovguyYT
+@LowVolumeCapital
