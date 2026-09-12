@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23339
+! Total Channels: 23340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -378,7 +378,7 @@
 @AItopia-v5d
 @AItopiaLabs
 @Ai_Topia7
-@yourAICoachNow
+@experiencedmindai
 @AImagine_AImagine
 @Aimaginereal
 @AImagine-q8g
@@ -18639,7 +18639,7 @@
 @worldenglishhubtv
 @chronivox_yt_studio
 @doodlefactsyt
-@fafjjfawafjwafjww
+@elixirsus
 @智者talk論
 @story-verse85
 @blues-therapy
@@ -23355,3 +23355,4 @@
 @DeadEchoMetal
 @MidnightBourbonBlues-1
 @SoviaHere
+@animotiondreamverse
