@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23454
+! Total Channels: 23452
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3984,7 +3984,6 @@
 @PropertyGorilla
 @WhatChanges
 @MARKETHISTORY-k7p
-@EconomicTruth2
 @Prosper_Path_1
 @BoringCurrencyLive
 @JohnAG-j8k
@@ -4032,7 +4031,6 @@
 @SabiduriadelAbueloTV
 @BODAHistorias
 @KinaHistorias
-@HistoriasAgridulces
 @venganzafamiliar68
 @HistoriasDelPresidente
 @TallerdeRecuerdos
@@ -11908,7 +11906,7 @@
 @thequietledgereconomies
 @clippievirals
 @filipfranzentutorials
-@ladespensasecreta
+@clavemundial-22
 @faithawakens-d
 @vexorianhale
 @anoosh_animation
