@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23379
+! Total Channels: 23378
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3276,7 +3276,6 @@
 @nanabananainternational
 @funwithjamiemilliejaxx1830
 @happykidshabitat
-@SleepyAmericanHistory
 @lifelessons-g8e
 @TheJapaneseTown-jt6fy
 @lofi_cafe_s2
