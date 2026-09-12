@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23374
+! Total Channels: 23372
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3729,7 +3729,7 @@
 @RitosdeConciencia
 @neuroticoyt
 @Archivo-Santo
-@RutaInterestelar
+@interstellareroute
 @FundamentalTruth-f4y
 @MiDiarioBiblico-b2q
 @M%C3%A1sAll%C3%A1delasHistoriasB%C3%ADbli-o7r
@@ -3848,7 +3848,7 @@
 @hemavathishetty3423
 @DCDailyBrief
 @NARCIFIC-t6h
-@FinanceCapitalYT
+@quiztoastyt
 @NarkogReports
 @PuntodeQuiebrealMinuto
 @capitalconflict
@@ -9946,7 +9946,6 @@
 @dad.alonestories
 @jmcshorts-c8y
 @tasnimnewsagency205
-@thetouchingwisdom
 @LineCraft3.0
 @Bluewater_Films
 @OldWorldProof
@@ -16798,7 +16797,6 @@
 @thequietgardens
 @reddittalesangle
 @nextgenbusiness-26
-@쇼핑레이더-12
 @samediaandnewsus
 @theamazinggadgets-i5j
 @textuxtt
