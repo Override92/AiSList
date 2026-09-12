@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23506
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5733,7 +5733,7 @@
 @CanadaForever-c4r
 @CanadaHousingInfo
 @BlackjusticefilesTv
-@Dr.ElenaCruzHealth
+@maviratales
 @oliver111-g1k
 @HealthyAgingwithDr.ElenaCruz
 @DailyNewsMinutes0
@@ -20150,7 +20150,7 @@
 @factoryword-v4j
 @MONUMENTALvideos
 @CosmicCat2606
-@AmivaAi
+@vegetablesanimations
 @AbhinavNatureWorldYT
 @AiStoryVersee1
 @EntertainmentWorldh9g
@@ -20159,7 +20159,7 @@
 @emekaexplains
 @megamachineexplained
 @getdeskly
-@TheIExplainer
+@zoexplainer
 @TheWiseFrogg
 @StudySanctuary-k4z
 @AIMelodies-f8e
@@ -23522,3 +23522,5 @@
 @perioddramaa
 @asmrsufi-t5s
 @ancientfrequency2026
+@everlightproductionsunfold
+@shadowsofthek9
