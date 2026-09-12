@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23465
+! Total Channels: 23467
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4265,7 +4265,7 @@
 @PRINCEPTA-r3o
 @MacrovaultAU
 @ecofinUsa
-@zKeysoftheKingdom
+@hardmatter11
 @digitalchroniclez
 @AssetAlchemyz
 @ChillFinancialRewind
@@ -4374,7 +4374,7 @@
 @WW2ChroniclesWithAndrew
 @VoiceofWar0
 @WW2ForgottenVoices-q5m
-@VoicesOfWWII
+@ww2-insiders
 @DavesDividendLab
 @jamelshabasmr
 @CriticalLimitYT
@@ -23481,3 +23481,5 @@
 @Chanakya2858
 @Funnyfablestudio-i5e
 @QuantumBuzz-s3m
+@emotionalsupport90
+@brokenfamilybetrayals
