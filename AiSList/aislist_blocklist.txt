@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23330
+! Total Channels: 23331
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8219,7 +8219,6 @@
 @gmc-n7b
 @calebclips55
 @planetadescubierto01
-@historicalsecrets_1
 @exiledlunatales
 @southernbluesairadio
 @abundanceprosperitywealth-x1m
@@ -23346,3 +23345,5 @@
 @sonofthedeadsun
 @revengevanas
 @glowwithlele
+@jackdavis42
+@littlemonk8m
