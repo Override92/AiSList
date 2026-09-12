@@ -31,16 +31,16 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 3515 |
-| 🥈 2 | [@www2](https://github.com/www2) | 2338 |
-| 🥉 3 | [@FedupOfAI](https://github.com/FedupOfAI) | 2048 |
-| 4 | [@Thibaultmol](https://github.com/Thibaultmol) | 1569 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 3752 |
+| 🥈 2 | [@www2](https://github.com/www2) | 2456 |
+| 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2128 |
+| 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2065 |
 | 5 | [@Oflogon](https://github.com/Oflogon) | 342 |
-| 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 291 |
+| 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 302 |
 | 7 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
 | 8 | [@tomjas1963](https://github.com/tomjas1963) | 279 |
-| 9 | [@magikarp](https://github.com/magikarp) | 217 |
-| 10 | [@Kasumi](https://github.com/Kasumi) | 196 |
+| 9 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 221 |
+| 10 | [@magikarp](https://github.com/magikarp) | 217 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
