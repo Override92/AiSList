@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23374
+! Total Channels: 23376
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23390,3 +23390,5 @@
 @JisanFlow
 @BingoDanceBingo
 @babitavibe
+@ES-MUSiC-n8q
+@loromusic1
