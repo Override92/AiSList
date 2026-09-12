@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23483
+! Total Channels: 23491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23499,3 +23499,11 @@
 @MattyInvests
 @RichKit7
 @RedCrossedPaths
+@BeneaththeBridges
+@johnww2-t8d
+@Clipflippov
+@FinancialCrux
+@Planet_Brief1
+@soulverdict-w1r
+@SoulTales-r2y
+@CapitalCurrents-d5n
