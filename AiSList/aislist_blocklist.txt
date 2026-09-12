@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23372
+! Total Channels: 23371
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3608,7 +3608,6 @@
 @thefolkdices
 @StoryMania-b1u
 @UmeshYaduwanshi-e9l
-@UnitedWar-x6o
 @RevengeWithKiren
 @BehindStoriesYT
 @GraveFiles-b5i
@@ -9471,7 +9470,6 @@
 @HlSTORY.
 @povhistoryquest
 @TheSleeplessStoryofHistorian
-@Histarix
 @TrueTimeTales-h9r
 @MedievalHistoryChannel
 @sscgurutalks
@@ -10281,7 +10279,6 @@
 @roboblues
 @iwatipis
 @futurefmph
-@lalogial
 @factorygyaanofficial
 @karenstorien5x
 @MotorsCentralYT
@@ -23388,3 +23385,5 @@
 @therusticromance01
 @anshuyrr3654
 @procometric
+@blackstorieswithdrbilal
+@scriptureblueprint-45d
