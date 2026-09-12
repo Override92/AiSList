@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23370
+! Total Channels: 23365
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -660,7 +660,6 @@
 @leosgoodness
 @story_of_ai-h3k8u
 @momoboy-1
-@tikkuchicks
 @aivideotullar01
 @aiparentingclub
 @aibabyworld-n9l
@@ -3306,7 +3305,6 @@
 @MacroFinanceExplained
 @EngineeredMarkets
 @Sidney_Explains_Money
-@f123x-c6u
 @WarAndMystery
 @The_Smart_Retirement
 @SilverSignalRoom
@@ -17118,7 +17116,6 @@
 @ConflictAtlas3010
 @%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%A5%D1%80%D0%B8%D0%BA
 @WhatIfDance
-@Moralread
 @littledreamversekids
 @pulsodeloro
 @DuceGT
@@ -18240,7 +18237,6 @@
 @DoorbellMoments-m4q
 @srwcinematic
 @Yomstudio-c8f
-@Cinestoryuniverse
 @DogeshCU
 @PromptLabNow
 @MarioObiektyw
@@ -18929,7 +18925,6 @@
 @DingoDicaprio
 @Underdad-1
 @runbaremetal
-@FaizAiTunnel
 @ai_tunnel-u6l
 @AiTunnel-v9i
 @RedditTechDaily
