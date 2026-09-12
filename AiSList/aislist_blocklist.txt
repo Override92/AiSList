@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23352
+! Total Channels: 23347
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -477,7 +477,6 @@
 @mamacatfamilytnmedia
 @mamacatfamilyfun
 @hearttouchaistories
-@mamacatstories574
 @mamacatkittens-95
 @mamacatdailylife
 @animationai-v9y
@@ -7781,7 +7780,6 @@
 @ChillCityFM
 @YoraVisionStudioASMR
 @scribbleevidence
-@ASMR-AI-f7x
 @NaraAIyt
 @swetlanaAI
 @deamtruyen_stories
@@ -10204,7 +10202,6 @@
 @borednerdai
 @AIFantasy94
 @seraphrealms
-@ginovisuals
 @ShowMakerStudio
 @songfairytales
 @Eckaz21
@@ -15389,7 +15386,6 @@
 @ReactionFacts-0
 @joyleyler7955
 @10HManhwaRecap
-@Luanneshackelford
 @TheSickScienceofHealth
 @HeroesOfArpygia
 @LiveWeatherReport-l9z
@@ -19932,7 +19928,6 @@
 @FolktaleByLee-s3x
 @Talesbymoonlight-T
 @OfficialDorceyTouch
-@English247-q7y
 @fametales-07
 @Dr.TamilleNorthern
 @Talesbyeni25
