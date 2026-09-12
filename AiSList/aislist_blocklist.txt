@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23329
+! Total Channels: 23327
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8037,7 +8037,6 @@
 @HyperGenMechanics
 @ReMeshWorld92
 @TheProductionLine4419
-@factorysecrets365
 @AffectiveCatMind-1996
 @TheForensicFinancialLedger
 @rainice409
@@ -8094,7 +8093,6 @@
 @ministerioyeshua0
 @banterworld0
 @duchwmanifestacji
-@masoncanadianguy
 @finalpayback-h4c
 @tekingame
 @thesilverrabbi
