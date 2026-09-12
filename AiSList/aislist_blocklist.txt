@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23378
+! Total Channels: 23374
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3347,7 +3347,6 @@
 @China-Silver-Alert
 @TheWealthContinuum
 @psychology_facts
-@dark_mind_psychology1
 @DarkPsychologyCoded
 @Eclipsophy
 @UpgradeYourSelf_Knowledge
@@ -3398,7 +3397,6 @@
 @DepthPsychologyHub
 @psychologyscholar
 @PsychLens25
-@unboringfinance_official
 @JhonFeeds
 @Dolorpintadoyt
 @explicadorsencillo
@@ -3418,7 +3416,7 @@
 @Archivosww2-usa
 @HistoriaMilitarOculta
 @historiaparadormirencalma
-@RawMedieval-01
+@mervo01
 @SpaceTelescope248
 @Porqu%C3%A9sExtra%C3%B1os
 @TuMente-x8c
@@ -8782,7 +8780,6 @@
 @baladasinolvidables-o6w
 @EpicOrchestralFan
 @mythical-history
-@genewealthtv
 @revengezone-s5e
 @TheForgeEmpire
 @StormChant
@@ -18956,7 +18953,6 @@
 @Aetheron-d4t
 @JazmineLozano-r8g
 @TerminalCut
-@danielgrosso_web
 @autoverse-i6b
 @domanic-tweets
 @redditor20
