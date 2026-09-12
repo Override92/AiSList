@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23373
+! Total Channels: 23374
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14389,7 +14389,6 @@
 @JavedAbshar3131
 @AyatAlkitabhariini
 @FunkyMonkey-99
-@PashtoInstruments
 @aimusic220
 @ghazalakabul
 @tobatobajana
@@ -17877,7 +17876,7 @@
 @simplegyan123
 @FinStoryHindi
 @moontimestudioai
-@bharatdesh786
+@bhaaratdesh-100k
 @inspiracioncatolica-e3f
 @романхрик
 @cozystudio-beats
@@ -18953,7 +18952,7 @@
 @redditor20
 @TheLazyGeniusReal
 @Reddit-rina
-@historiaseniacolombiana
+@yulianarojas-123
 @interstellarroute-h4j
 @registros-ineditos
 @mnslaw
@@ -23389,3 +23388,5 @@
 @scriptureblueprint-45d
 @kwebbelkop
 @KwebbelkopAI2.0
+@godvibes-t3c
+@fromageandballball
