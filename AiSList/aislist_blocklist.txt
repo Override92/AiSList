@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23473
+! Total Channels: 23474
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23489,3 +23489,4 @@
 @ownersofficial1
 @PeakPsychologyYT-1
 @TheCapitalExplained
+@TheSurvivalMind-off
