@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23529
+! Total Channels: 23531
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14900,7 +14900,6 @@
 @Famousafricanfolktalesstories
 @Reamann95
 @BritainsSecretWar
-@Africafolk
 @AfricanFolktaleByJhay
 @AnanseWisdomTV
 @BombasticAfricanFolktales
@@ -23545,3 +23544,6 @@
 @ritussomnus
 @adamkhandigitaltv
 @themelvyr
+@elaramanhwa1
+@zippywiz_kids
+@romancydelocyrecap
