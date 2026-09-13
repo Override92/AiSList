@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23508
+! Total Channels: 23504
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1887,7 +1887,6 @@
 @ww2.legacy
 @ww2historytrack
 @ww2battlefieldtales
-@decodedww2
 @ww2storiesz
 @ww2dust
 @ww2frontlinefiles-j2p
@@ -2545,7 +2544,6 @@
 @funny_cat-1ai
 @ud_bilau
 @langcat
-@the-animation-123
 @wisdomandstory-tu3ny
 @cataistory04
 @catsaicartoon-s7s1r
@@ -9026,7 +9024,7 @@
 @ZennyCandyASMR
 @ModernFactory-r4q
 @ModernFactoryFlow68
-@ModernFactoryTour-w7f6k-e8s
+@graceenglishdaily
 @NewGenFactoryOfficial
 @OldThingsFactory
 @Oneandonlyfactory
@@ -11372,7 +11370,6 @@
 @lu.lueffects
 @biblemadesimple-nvh
 @revealmode
-@dreamlandrhymesbyazhan
 @manthann.45
 @innermindtruths
 @revealmodoyt
@@ -18486,7 +18483,6 @@
 @cielbleu-q7k
 @dora-u5e7y
 @mechatransformations
-@forgottendadarchives
 @tinyroast-g2d
 @cutedesigns8
 @veggietoons46
