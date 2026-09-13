@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23501
+! Total Channels: 23502
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2720,7 +2720,6 @@
 @aicatshorts38
 @aicartoonshorts-x5m
 @cutefunnycatdanc
-@cutecatdance-n3s
 @catfunnydance7860
 @cutecatdance-u8u
 @cutefunnyanimaldancewith
@@ -2781,7 +2780,7 @@
 @JackStoryWorld2
 @PredTalks095
 @LastRevenge-n4t
-@4ChanPost
+@beyondthinwalls
 @SamCassim-f9w
 @FrejordTales
 @SarahBoxStories
@@ -23517,3 +23516,5 @@
 @untoldwartales-1945
 @japan-ahead
 @behindthemachinese
+@キラキラハート-z7s
+@everlastingtales-d3v
