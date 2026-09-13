@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23505
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9016,7 +9016,7 @@
 @NeonNerveASMR
 @dreamlogic.ASMR.0
 @Slow_Pulse_ASMR
-@QuietFantasyASMR
+@staytunned2
 @ASMRGodOfFruit
 @ASMRRUSHdaily
 @TheRogerPhysics
@@ -19516,7 +19516,7 @@
 @project_x.e.r.a
 @pr26-vf5gn
 @walterrhodesyt
-@unrealisticthingsbyhassan
+@tuxnewsbyhassan
 @wisdomanddeen2026
 @Sean_Ta1k
 @TaboEminent
@@ -23521,3 +23521,6 @@
 @pashtoaivideo-r3g
 @varynstories
 @cpasilent
+@untoldwartales-1945
+@japan-ahead
+@behindthemachinese
