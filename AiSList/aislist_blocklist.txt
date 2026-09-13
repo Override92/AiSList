@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23516
+! Total Channels: 23513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12342,7 +12342,6 @@
 @HeavenDefyAnime
 @DSSTUDIOSCINEMATICUNIVERSE2.0
 @Apocalypseanime
-@bestlifemovietrailers
 @WondersofHumanity-tv
 @Strangers..
 @Infokini247
@@ -13466,7 +13465,6 @@
 @histoireenminutes2026
 @ChilloutDelMar
 @goldenhourcinemaradio
-@TomandJazz-s3x
 @MellowCoMusic
 @MidnightBluesLounge9
 @histoire-vivante-c4k
@@ -14605,7 +14603,6 @@
 @EpicAIUniverseHub
 @IAMAICOOL
 @HulkboyAizone
-@aicinema01-1m
 @Ai.Arai-Story
 @OfficialCineVerseAI-i9b
 @AHPAIU
