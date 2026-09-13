@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23502
+! Total Channels: 23500
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5268,7 +5268,6 @@
 @OGJOHNAG1990
 @ourjohnag
 @YourJohnAGInvestments
-@BoringCurrencyInsights
 @CrystalMindAudio
 @MacroShieldMethod
 @UnsolvedEvidence1
@@ -14666,7 +14665,6 @@
 @jessicagarba
 @TalesOfAfricaStudio
 @BeyondtheBadge5
-@FolktalesHausa
 @logsecreto
 @MiniLegendsAcademy
 @echoesofwisdomoficiel
@@ -16530,7 +16528,6 @@
 @airilistic
 @TinyChefFactory-y8q
 @MinicookverseAI
-@kareempodcast2
 @PodcastDanillers
 @carlsagancosmostv
 @Midnight_Noir_0
@@ -18908,7 +18905,7 @@
 @WakaRecap
 @the_firstdawn
 @solardreamjj
-@nighttech_off
+@thinktoostart
 @දැනමලෙකය01
 @A.I.VideoStudio
 @Sci-FiVault
@@ -23518,3 +23515,4 @@
 @zulumovies-j3t
 @dailyinsight92
 @masibellaafricanfolktales
+@storieshubbye
