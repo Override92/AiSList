@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23502
+! Total Channels: 23500
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9579,12 +9579,10 @@
 @AIVisFilms
 @BookMagic97
 @NeuralNova-k1o
-@LoomystAI
 @cine_retro_archive
 @CatverseStudi
 @ElenyaAI
 @FableCoreAI
-@SeriesVision
 @Reverie-n1w
 @AIBunnyOfficial
 @EmyTalesOfficial
@@ -11990,7 +11988,6 @@
 @thewhittytwo
 @aitechoding
 @wondersprout-j9m
-@vietnamvet5555
 @thereidtrack
 @sunnyinshanghai
 @global-war-briefyt
@@ -23518,3 +23515,4 @@
 @LifeAtEvery-Level
 @alexx.shortz
 @bodycamevidencehu
+@wadecooperpours
