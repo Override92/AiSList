@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23507
+! Total Channels: 23502
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2571,7 +2571,6 @@
 @citycatai
 @catstory-p9z
 @catstories-v3m
-@BabyPawsMoments-1
 @HuskyOps
 @AntioneOdo
 @mindlapse.official
@@ -2863,7 +2862,6 @@
 @DOCSTORIES-p9m
 @growforjustice
 @VoicesUnchained_1
-@WhisperedStories-US
 @TheBlackVoices
 @SecretInspirationalLetters
 @RevengeReturn-s3n
@@ -9203,7 +9201,6 @@
 @AiyanaLoveTales
 @AmericaPawarshow
 @AnnTales-yt
-@CRITICShow-1
 @The1DollarMiracle
 @FieldNote247
 @TheBuriedVault-g2x
@@ -16437,7 +16434,6 @@
 @VCUStudios
 @SoraDoorbellVideos-f9r
 @Aiinkitchen
-@AnimalDoorbell-Hero
 @minichefieai
 @AlternateCinema-b6j
 @TimeTalesDocs
@@ -16470,7 +16466,6 @@
 @DeRuinaaLujo
 @studioaimirage
 @GotowinawszystkoPL
-@ilmenoor-p6z5y
 @TinyFoodFactory2338
 @AITravelDiaries
 @Dr.Nowak26
