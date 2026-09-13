@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23515
+! Total Channels: 23514
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17156,7 +17156,6 @@
 @WildborneHQ
 @LearnBright
 @MythicalDreamz
-@worldsoflegend
 @The_OB_Music
 @sandsofeternity23
 @PharaohsNightmare
@@ -17213,7 +17212,7 @@
 @Skaldhildr
 @FutureMusic-j8i
 @CharacterRealLife
-@AIProductivityHacks2026
+@theaigrowthlabnet
 @HistoryOfSCP
 @UCT3_oOXiINlEmP2KT68aCsw
 @ERRDAYDRIP
