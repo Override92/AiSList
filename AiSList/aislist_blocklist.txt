@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23513
+! Total Channels: 23514
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17319,7 +17319,6 @@
 @SinaiOfYeTales
 @ApidusLife
 @HeftyLLM
-@JapaneseAutoSecrets
 @AIStoryWorld111
 @AIUniversalStories
 @valhallahits-ofc
@@ -23529,3 +23528,5 @@
 @axalegendz
 @thesecrettimeline-p9r
 @turnsoutexplained
+@gayamedia1
+@pov-explained-k
