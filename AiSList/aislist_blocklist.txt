@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23507
+! Total Channels: 23505
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1706,7 +1706,6 @@
 @SurvivalHistory11
 @FuriousGarageYT
 @AmericasWarfactories
-@WW2-ShadowForge
 @WW2Insight
 @ConfessedOutLoud
 @RedditUpdatesStorytime
@@ -1751,7 +1750,6 @@
 @aivideo9822
 @rolovstheworld
 @mutahharplayzz
-@aitoonroy
 @aicartoon1971
 @b.a.animation
 @bdtoonai
@@ -9171,7 +9169,7 @@
 @GriotbyKD_mythology
 @BilgeBound
 @ScriptureCodeofficial
-@PastWhispers-z2v
+@bloopz-h1z
 @sagaweavers
 @Ancientorium
 @AncientCityReconstruction
@@ -16465,7 +16463,6 @@
 @WomenMindSecrets
 @BumzleSounds
 @8bits007
-@the_mythicai
 @GunPark-x2y
 @HistoricWarfare-m8f
 @Linuxbyurooj
@@ -23523,3 +23520,4 @@
 @globalcinemadecode
 @pashtoaivideo-r3g
 @varynstories
+@cpasilent
