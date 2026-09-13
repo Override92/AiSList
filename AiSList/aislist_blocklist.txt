@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23520
+! Total Channels: 23516
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6087,7 +6087,6 @@
 @GlobalDiscoveryDocumentary
 @Ayyan-h7p
 @MoleHunt25
-@DailyReports7
 @warandwealth-x5k
 @themoneyyillusion
 @ClarkAnalysis
@@ -10314,7 +10313,6 @@
 @ArchivesofArda
 @istnovaa
 @AncientWarfareHistory
-@BritainMechanicDiary
 @CombatUnclassified
 @EchoesfromtheBattlefield1
 @EnduringHistory
@@ -11233,7 +11231,6 @@
 @music_potions1
 @road.heritage
 @aiソング製作所
-@angibaker-artistslegacy
 @おにおん-h2r
 @bodycamhiddenfiles
 @herosetguerresoublies
@@ -11357,7 +11354,6 @@
 @legadosocultos-w6k
 @muskrelationships
 @outlawfiles-tv
-@tasteofkarmaa
 @heartfeltofficial80
 @rehanaligopang123
 @charles-vs-the-past
