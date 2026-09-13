@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23514
+! Total Channels: 23511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14623,7 +14623,6 @@
 @verlorene_ursprunge
 @zeitflustern0
 @chubducket
-@freezerfan.store_0
 @laughwithvenkey
 @tinywonderstudio-d3l
 @anuanimation6165
@@ -17273,7 +17272,6 @@
 @Omni-Cat-Luna
 @KhushiParihar01
 @AdesuwaAistories
-@miniaturedoll_28
 @AICinemaCats
 @catvibesAIShorts92
 @IBBEJOE
@@ -18419,7 +18417,6 @@
 @LockedBeatsmusic
 @Africanfolktalesbydaniel
 @ZinzyAIStories
-@Unclewisdom1
 @DarbyStoriesTales
 @Africantalesstudios1821
 @Zhar.4real
