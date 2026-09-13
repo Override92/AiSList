@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23506
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14783,7 +14783,6 @@
 @africanstoryversehq
 @Motherlandtalesmedia
 @TalesbyKelly
-@calebojoneocheje3343
 @africanstoryway
 @AfricanTales.ForKids
 @JosephProsper-i6y
@@ -17295,7 +17294,7 @@
 @afrobeatmix-africanmusic
 @ZuluSpiritHaven
 @Afrochillhouse-c7s
-@Afroneststudio
+@blackcoffeeinspirestudio
 @adiascarter23
 @PARADISO0-w7p
 @UbuntuSoulOrchestra
@@ -23522,3 +23521,6 @@
 @chpibaatein-r5l
 @azu_biketv
 @talesbyvictoria-c9r
+@zacstack-com
+@realtalkwithoby
+@sirakidsofficial
