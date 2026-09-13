@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23509
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13769,7 +13769,6 @@
 @MiniVerseKitchen-p7c
 @AbdulRashed-w4e
 @TinyTailsAIOfficial
-@morselovaai28
 @TimofeyAI3260
 @LAVENO1
 @TinyChefAI01
@@ -17322,7 +17321,6 @@
 @hervor-galdra
 @LEMI4ik
 @stoicdre
-@RagnarokBeats9
 @lifewithann1016
 @dinovfx_1
 @tinyfoodworkers0
@@ -18464,7 +18462,7 @@
 @Blessingtales
 @DoveFolkTV
 @GloAfroTales
-@yaami-e2z
+@footballera-x3f
 @PerfectMerakiystory
 @IGAFRICANSTORYS
 @TheAIPOVYT
@@ -23525,3 +23523,4 @@
 @turnsoutexplained
 @gayamedia1
 @pov-explained-k
+@whopclipper-f5z
