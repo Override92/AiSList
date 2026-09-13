@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23507
+! Total Channels: 23506
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14696,7 +14696,6 @@
 @TheVillageGriot
 @Oyintalesnaija
 @Mama-Deep-Tales
-@KPStoryVault
 @AfricanFolktalebyZoya
 @Whispers-oftheAncients
 @AfricanHeartVault
@@ -14734,7 +14733,6 @@
 @Talesbymourice
 @velvethavenofficials
 @BrokenPledgeTales
-@lifestylewithskyler21
 @pixifolktales
 @AfricanTalesbyBams
 @OrleanStories
@@ -14765,7 +14763,7 @@
 @TalesbyLunchtime
 @CarlieBTales
 @WhenTheAncestorsWept
-@africanstreetstories01
+@streetstories4
 @TalesByNkiru
 @WealthlegendAfrican112
 @StoriesWithOge
@@ -14807,7 +14805,7 @@
 @OLASSTORIESS
 @AUNTIENKAY
 @AfricanTalesbyVictoria
-@Honesttipster241
+@nextgoaltips-b1b
 @dailydetour-101
 @StoryWeaver-OO
 @Flarestoriesglobal
@@ -23523,3 +23521,4 @@
 @kyucchientruong-z7h
 @chpibaatein-r5l
 @azu_biketv
+@talesbyvictoria-c9r
