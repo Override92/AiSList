@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23501
+! Total Channels: 23503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14634,7 +14634,6 @@
 @theancientafricafolktales
 @MoAfriTales
 @TheFolkteller
-@stefania_exe-l1t
 @TheStoryAuraStudio
 @FolktaleKids
 @lovestoryDeessencetv
@@ -23517,3 +23516,6 @@
 @familydramaonrecord
 @napkin-markets
 @revengstories24
+@zulumovies-j3t
+@dailyinsight92
+@masibellaafricanfolktales
