@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23500
+! Total Channels: 23502
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9847,7 +9847,6 @@
 @revenge_drama_story
 @hollywoodfonda
 @officialaibreakdown
-@ShelfLogic
 @nadeemmughal06
 @ecosmiticos
 @wisetechnexus
@@ -14620,7 +14619,7 @@
 @Africanmoonlightstories001
 @storiesbyricardor
 @AmakasFolktales_stories
-@SunlighttalesRachael
+@7christianstudio
 @AfricanFolktalesWithDee
 @HOCTales
 @africanfolktalestv-b8x
@@ -23516,3 +23515,6 @@
 @canonrender
 @maestosorealm
 @deepdownfeeling
+@sorryaalex
+@justpaintthefacts
+@familydramaonrecord
