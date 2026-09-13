@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23502
+! Total Channels: 23501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4975,7 +4975,6 @@
 @mrjkvloger1
 @exploringaustraliah
 @visionx4kpro
-@ashik-43
 @thebloodlaws
 @gamer-ps5pro
 @dzikizachodhistorii
@@ -5044,7 +5043,6 @@
 @ConfessionT
 @infidelitytaleslab
 @BarbaraClark-h2f
-@Revantrastories
 @GaryStories04
 @VoidKingsHFY
 @revengewithdad
@@ -11097,7 +11095,6 @@
 @FruityAIStories-q8f
 @POVLIFECH
 @MehakAiStudio
-@mindplat-09
 @Ai_pro_mind
 @AIForIdiotslol
 @berrybites-05
@@ -23518,3 +23515,5 @@
 @hrcartoons345
 @preciousalbumyt
 @justicehour3
+@petofact
+@dramaestate-j2z
