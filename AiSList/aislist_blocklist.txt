@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23655
+! Total Channels: 23650
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7784,7 +7784,6 @@
 @Home_Me
 @TwistedRSDStories
 @Menrevengetales
-@WildWestLoveChronicles5
 @SunsetRidersYT
 @FragileBonds
 @revengeclub0
@@ -8148,7 +8147,6 @@
 @toldbylife0
 @TheGodfatherSpeed
 @GOLDRUSHREPORTER
-@cuddlepenguin-d9u
 @aihungama-w
 @あたらくしあai_music
 @pragnanterklart
@@ -9026,7 +9024,6 @@
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
 @RedLineReport99
-@The_Economy_Report
 @explainit777
 @AGTears
 @fitfemmeus-g5k
@@ -9947,7 +9944,6 @@
 @EchoesOfZionRoots
 @babciawyjasnia
 @tajemnicaprzeszlosci
-@islamlover-s7k
 @futurefactory-riad
 @slowianskaduszaprzodkow
 @thepulsefootball
@@ -18414,7 +18410,6 @@
 @EverythingMustGoWRONG
 @latinomix7
 @SajidulHasan-s4v
-@SportsCC78
 @Jimrohnmotivationfans
 @Vancarter001
 @FunkCanvas
