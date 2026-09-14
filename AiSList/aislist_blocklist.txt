@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23674
+! Total Channels: 23669
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7165,7 +7165,6 @@
 @WorldFinance2
 @IbrahimTraoreUnfolding
 @MarketMindset-e3b
-@GlobalContest
 @moneybrainusa
 @SciFiHFYLegends
 @carolcs8246
@@ -7204,7 +7203,6 @@
 @AfricanDreamscapes-v7d
 @AiEnergySupercycle
 @sepialounge
-@Addiinvests
 @RodzicielskieInspiracjePL
 @LepszeHity
 @zAgatkaMusic
@@ -9014,7 +9012,6 @@
 @TheHistorianProfessor
 @MoneyLegends90
 @ProBuffetHQ
-@RayDalioHub2
 @Thesilverscenario
 @Historics-wars
 @JohnAGUnfiltered
@@ -10060,7 +10057,6 @@
 @주식_타이밍
 @brielleromancestories
 @cobybylo
-@historiezakazanejmilosci
 @LoFiFiLoMusic
 @WarSage-yt
 @FlashMoment21
@@ -12581,7 +12577,6 @@
 @fangedphenomenon
 @astrasyncc
 @ForgeoftheMountainKing
-@FierceJustice01
 @DADSVENGEANCE-i1g
 @LoveCoupleTales1
 @CalmStrength-1
