@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23658
+! Total Channels: 23653
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20518,8 +20518,6 @@
 @PanchhiPlanetAI
 @aicreatorabdullah
 @MasteringAItoolsazlagui
-@SecretAI-n6e
-@pushpa_ai_studio
 @2dcreatoryoutube
 @AiDreamBirds
 @RedStarFrog
@@ -20711,7 +20709,6 @@
 @SatisfyingAiUniverse
 @ShaddyAi09
 @QueenGlassASMR
-@Prismviewstudio
 @asmrLunai
 @AIASMRCUTTING-h2q
 @Creazy-Lab
@@ -20913,7 +20910,6 @@
 @RevengeShine-v8j
 @de_explainerr
 @ChibiChill_Studio
-@NighttimeWitness
 @IkhwanulMuslim-z4x
 @Repricedofficial
 @Scoper_360
@@ -21020,7 +21016,6 @@
 @yourwishAIASMR
 @MoguMogu_Haze
 @SparkleHopeAnimantion
-@SatisfiedAiASMR
 @daa____ruu
 @Lush_Sounds_ASMR
 @AIMistASMR-1
