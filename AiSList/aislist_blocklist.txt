@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23677
+! Total Channels: 23679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23693,3 +23693,5 @@
 @番茄影院
 @calumvelvetmelodies
 @hfystories-c6h
+@lifegoldenstories-h9z4k
+@makespacebatter-g8n
