@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23668
+! Total Channels: 23678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23684,3 +23684,13 @@
 @zakazany_archiv
 @plotzing12
 @viralvibeaixy
+@AuraIA_ASMR
+@VisualZen-ASMR
+@SatiFyAI-ASMR
+@SoothifyLab
+@BEAUTYOFAI90
+@aicuttingvideo06
+@trendy.aiasmr
+@AngelBunnyAI
+@MRMUSO_AI
+@AI-dream-machines
