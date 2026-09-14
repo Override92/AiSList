@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23661
+! Total Channels: 23663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23677,3 +23677,5 @@
 @政府55
 @nudnyvesmir
 @tajemstvikosmu-c
+@OpentheRecords
+@AnalogSoulFM
