@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23604
+! Total Channels: 23614
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23620,3 +23620,13 @@
 @InfinityPulse-b5b
 @ASMRAIGenius
 @SYNTHSOUNDSTV
+@FlowAIASMRR
+@WallenMusict-j9e
+@CloudCassetteMusic
+@TuneGPTsounds
+@OfficialAIASMRLab
+@Wildfact-v8b
+@JellySoundsMusic
+@ViralAIBabies
+@ChronoShift_Studios_official
+@MiniginniHub
