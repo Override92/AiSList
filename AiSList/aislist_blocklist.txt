@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23553
+! Total Channels: 23563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23569,3 +23569,13 @@
 @LastNightSessions
 @FagooRecords
 @Michuu-AIMusic
+@nurA_Asmr_desu
+@OddlyAIWorld
+@LucydLoopASMR
+@Veluna-Asmr
+@AI__ASMR-Lab-e
+@SUSHI_asmr08
+@BioImpactt
+@ASMRDreamLab-g3g
+@AIASMRRealms
+@PeachyNightASMR
