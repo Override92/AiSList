@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23695
+! Total Channels: 23697
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23711,3 +23711,5 @@
 @celebunfiltered7
 @vanzkiekoreatonz28
 @番茄影院
+@calumvelvetmelodies
+@hfystories-c6h
