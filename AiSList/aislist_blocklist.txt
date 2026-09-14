@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23696
+! Total Channels: 23695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6826,7 +6826,6 @@
 @funkonautsound
 @cosmicsagasoftheuniverse
 @lofiroomst
-@senjakala2185
 @peacefulpianotunes98
 @harmoniabliss22
 @relaxjazzbmg
