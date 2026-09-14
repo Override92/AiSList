@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23692
+! Total Channels: 23687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6863,7 +6863,6 @@
 @InEarMusicYT
 @StreetBeatFactory
 @CastleRhythmsM
-@CosmicEchoes-i9h
 @S-EUROBEAT
 @TechnoMusicEDM
 @SleepyKittyLofi-jk4qd
@@ -19493,7 +19492,6 @@
 @CheatingStories-Postcard
 @HerSecondAct-n8p
 @RageStories-n8d
-@BlindHonor
 @Gold-Novel
 @DedeyGanchinho
 @ScarsBetweenUs
@@ -19502,7 +19500,6 @@
 @AnnaStoryAnna
 @HiddenValorHQ
 @EndlessRevengeUSA
-@FamilyLessonsToday
 @TheCodeMechanicsOfficial
 @realrevengebytruth
 @MiaStoriesHN
@@ -19510,7 +19507,6 @@
 @UNEXPECTEDDESTINIES
 @HeartNest-US
 @Soulfulstories-s1d
-@ActsofValor-n5y
 @RoyalWhispersStories
 @CatsRevengeus
 @crownbeacon1
@@ -19533,7 +19529,6 @@
 @LegacyUntold-v6d
 @SponeTale
 @BlackBeltHonor
-@AFRICANECHOTALES-b5j
 @BlackDadLeagacy-22
 @THEGENTERTAIN
 @OPorquedasCoisassimples
