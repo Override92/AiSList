@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23530
+! Total Channels: 23528
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11867,7 +11867,6 @@
 @CherryBloom-d3x
 @parasol_ai
 @yellowmedusa
-@artframe_films
 @ovideoio
 @PromptCity
 @ACROSSWORLDSAI
@@ -11907,7 +11906,6 @@
 @CreditSmartCanada
 @CloakedHistory1
 @pastcompass
-@VoltiqueLabs
 @fallenhifi
 @The49thDecoded
 @Amelia.Revenge.Stories
@@ -16522,7 +16520,6 @@
 @山海a049
 @剧诱惑
 @heartbeatsignalstation
-@炽爱剧场
 @doctorwilliamexplains
 @imesafricanstories
 @mdsarif-920
@@ -18440,7 +18437,7 @@
 @newtimestorieshq
 @aicinema-y4e
 @SixtySecondsScience
-@deepfieldofficials
+@what-explained-official
 @screenrest
 @dreamersoundss
 @antonyoabdaylanofficial
@@ -23546,3 +23543,4 @@
 @kfail-meme827
 @vintagejazzradio24
 @secretosdelariquezadelabiblia
+@hoafunstories
