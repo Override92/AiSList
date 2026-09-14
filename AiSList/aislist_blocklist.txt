@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23682
+! Total Channels: 23677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19635,7 +19635,6 @@
 @KindnessHub2.0
 @FolktalebyAKAY
 @HiddenJusticeTales-7u
-@ValorFortuneStories
 @Billionaire-Tales-i8e
 @Best-Novel777
 @EverEnrichStories-t7m
@@ -19658,7 +19657,6 @@
 @SkyPhoenixStory
 @ZoraChroniclesAudio
 @BikersSoul1
-@SEALChronicles
 @BlackRoadRiders79
 @NobleBattalion
 @MidnightNurseNotes
@@ -19674,7 +19672,6 @@
 @BikerLegendsChronicles
 @VelvetRetributionRevenge
 @BikerStoriesDaily
-@BravePawsStories-g9i
 @K9HonorStories
 @CowboyCottonwood
 @SEALDogLegends
@@ -19682,7 +19679,6 @@
 @SEALWarriors-v6h
 @theguardianprotocol7786
 @WillysAnimalWildlifeStories
-@BaLaBala-g4g-q1w
 @BlackBeltValor
 @EmotionalJusticeVoices
 @SealHavenStories
@@ -19694,7 +19690,6 @@
 @InvestigateAsia
 @failedfutr
 @StorytellingVibe12
-@Taleswithaffy
 @KindnessTaleStories1
 @Gracestudios.x
 @AaAa-pl2wg
