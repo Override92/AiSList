@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23679
+! Total Channels: 23674
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12577,7 +12577,6 @@
 @silentroommusic01
 @NightinOsaka
 @NAMICHILLWAVE
-@WarsExplainedBadly
 @StoryVerseBL
 @fangedphenomenon
 @astrasyncc
@@ -19709,7 +19708,6 @@
 @MysteryTales-l6x
 @BittersweetTales-r8f
 @MysteryTales-y8i
-@TwilightTales-m1v
 @TalesOfLife_YT
 @HeartlineStories11-7
 @talesbylestin
@@ -19719,7 +19717,6 @@
 @StoryVault-10X
 @STA-k8n
 @MilaStory12
-@STORYPLACE-i7j
 @EverlightStoriesTV
 @UnboundTales1
 @Tales_by_Grace
@@ -19729,10 +19726,8 @@
 @latestnewstvofficial
 @UchloadAfricanFolktales
 @Hiddentruthtale211
-@1trieuluotxem
 @Africantalesbypopo
 @EcoVerse-b2e
-@BillionaireDestiny-n4s
 @RoyalVowTales
 @BillionaireRevengeStoriesN13
 @BrokenDadDiaries
