@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23697
+! Total Channels: 23692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13918,11 +13918,9 @@
 @GoldenEraBeats-2
 @BlueCounty-Music
 @Westcoastchanel
-@Sould_Night
 @Chronic.Remix1
 @LegacyRapVault
 @AIHipHopMix
-@RetroRapRecords
 @ShaghilAli
 @SoulLegendsHipHop
 @BeatDbox
@@ -13963,7 +13961,6 @@
 @SameSound-2026
 @OldSchoolJamsUnlimited
 @OldSchoolStudio
-@PoweroftheDollarAI
 @realistkixng4990
 @mynt.studio
 @rapcodde
@@ -14007,7 +14004,6 @@
 @Shockwavee92
 @SoulOnVinyl
 @SoundWaveSongs
-@Seme-s
 @WarvoxStudio
 @cng2799
 @TAYLORIZED
@@ -20366,7 +20362,6 @@
 @GalacticPrimeHFY
 @HumanityUnleashed-e6c
 @storylandofluna
-@OrcTalesYT
 @StoryVerse11-x1c
 @hammadhammad-r9d1c
 @movies.hub.orignal
