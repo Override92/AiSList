@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23670
+! Total Channels: 23665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7354,7 +7354,6 @@
 @LeoThearter888
 @Fyra-d1u
 @recapqin
-@BingeLemon-7
 @DailyManhwas232
 @Mr.CreepinessUncut
 @GodKingDrama
@@ -7394,15 +7393,12 @@
 @historyofsimplethings
 @НеочевидныеФакты
 @StoryChamberOfficial
-@HighlandHearthCelticPipes
 @CollapseLynx
 @DasKatzenuniversum
 @BlackWhiteAmerica
 @NotebookILM
-@thecurrencycode-k8i
 @FederalReport-p1i
 @PreciousMetalsMind
-@DigitalCompassCrypto
 @UnitedStateNews-h6e
 @kenzofinance
 @Melanskiareal
@@ -9953,7 +9949,6 @@
 @Cobyby%C5%82o
 @TajemniceW
 @KwantFizyka
-@HistorieZakazanejMi%C5%82o%C5%9Bci
 @Kolobokrodilsa
 @carnytrudi
 @EchoesOfZionRoots
