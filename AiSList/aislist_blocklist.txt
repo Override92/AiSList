@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23645
+! Total Channels: 23649
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6615,7 +6615,7 @@
 @mindafter143
 @크리에이터밤띠
 @oddminutestoriessl
-@saswada_editing
+@nedex12
 @bbcreators
 @typebeat-ai
 @celestialdiscord
@@ -23661,3 +23661,7 @@
 @MrWeirdAI
 @AI_SOUL_ASMR
 @SoftRill
+@plotglitch-en
+@abaddonia
+@쇼츠바이블
+@fintechiq320
