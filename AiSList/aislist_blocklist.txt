@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23534
+! Total Channels: 23529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8652,7 +8652,6 @@
 @RodzinnyRewan%C5%BC
 @Opowie%C5%9Bci%C5%BCyciowe
 @ExcelsiorLife0
-@HiddenHistoryArchives-11
 @WW2Savage
 @iNews_Sverige_info
 @InterestingHistoryLore
@@ -9731,11 +9730,9 @@
 @The1dollarSolution
 @CaughtintheStory
 @KevinRetiresCA
-@UpdatedIntel
 @MrRetired-y2b
 @WesternLoveNovels-u2f
 @Boss.Revenge.Stories
-@northamericanewshub
 @HiddenDesires-d3o
 @UnconventionalLoveStories8
 @LoversEcho23
@@ -11348,7 +11345,6 @@
 @revealmode
 @manthann.45
 @innermindtruths
-@revealmodoyt
 @Talesbyjohnson1
 @liliytales
 @Ebenezerstories
@@ -16525,7 +16521,6 @@
 @gguanmusci
 @markzack1
 @africasforgottentales-m9e
-@marandiglobalwatch
 @mohsindigitaltv
 @山海a049
 @剧诱惑
