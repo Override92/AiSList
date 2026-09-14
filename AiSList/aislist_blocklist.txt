@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23633
+! Total Channels: 23635
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23649,3 +23649,5 @@
 @littlealivestudio1
 @JuicyBoom-m4p
 @happychoppy
+@FruityumASMR
+@yibai-i9y
