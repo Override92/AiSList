@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23668
+! Total Channels: 23663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21028,7 +21028,6 @@
 @ASMRCottonCloud
 @LoveDreamASMR1
 @Satisfyai_asmr
-@AIASMRDreamBeds
 @JUSTDREAMING-q2e
 @EverydayPhysicswithFeynman
 @The-Stack-ai
@@ -21210,7 +21209,6 @@
 @HardwareFrontier-q8p
 @evobig
 @AIUniversAI
-@IndianDoodlediaries
 @TinyTailsAI-u8e
 @tinychaosunreal
 @AISatisfyASMR
@@ -21255,7 +21253,6 @@
 @GeniusFlashcardsApp
 @EloahRadio
 @beyondAImm
-@JiangUnpacked
 @Popify-f7p
 @astrastudiosx
 @AnanasNewsTV
@@ -21303,7 +21300,6 @@
 @DeadFutureRadio
 @AI%E6%BC%AB%E5%89%A7WongXin
 @EmberCollapse
-@TheSecretLoreFiles
 @Yapay_Zeka_%C5%9Eark%C4%B1lar%C4%B1m
 @LeScribeDeLhistoire
 @DjFrostfur
@@ -21425,7 +21421,6 @@
 @TinyTastyAI-l7s
 @cosytonez01
 @Arashi_20
-@TinySphere1
 @FoodAicreator1
 @AIWorld2050-y3k
 @Zynk-26
