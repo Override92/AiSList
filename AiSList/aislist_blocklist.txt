@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23584
+! Total Channels: 23594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23600,3 +23600,13 @@
 @RelaxJellyWorld745
 @Akka-Asmr
 @SoftMotion-f4c
+@BabyMorphai
+@SilentCrackleASMR
+@TeddyTvMix
+@atulchauhan5579
+@Velorasounds-e6x
+@FutureToneStudios
+@SondriLune.Studio
+@grooveplusrhythm
+@BooomBapTV
+@SiliconSoulLab
