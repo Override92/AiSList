@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23594
+! Total Channels: 23604
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23610,3 +23610,13 @@
 @grooveplusrhythm
 @BooomBapTV
 @SiliconSoulLab
+@RiftMusix
+@Brokenstereomix
+@Prochocoyum
+@WHISKEYBARNSESSIONS
+@LatentHarmony
+@AIZenLoops
+@CUTE_FRUIT_BABY_1
+@InfinityPulse-b5b
+@ASMRAIGenius
+@SYNTHSOUNDSTV
