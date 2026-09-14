@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23648
+! Total Channels: 23643
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2824,8 +2824,6 @@
 @wealth_wise007
 @StadiumD360
 @siennavideoss
-@LangweiligeW%C3%A4hrung
-@langweiligewahrung
 @ImagineVerseAI
 @IronRoadMusic
 @TheTowerBrief
@@ -11184,7 +11182,6 @@
 @Asmrforeveryone-afe
 @whisperedhearts-o5j
 @SajidAliYTWala
-@TinyworldAsmr-m2f
 @Nova_Relax
 @TinyBaby-ASMR
 @qafruityasmr
@@ -16699,7 +16696,6 @@
 @nowfifa-c2t
 @doaflipceo
 @hollywood_ai_studios
-@realtalk-g9m
 @100daysoftransformation
 @mrkrishnamorereacts
 @셀픽랩-z4i
@@ -22642,7 +22638,6 @@
 @jrohnmindsetmastery
 @Veyronix-f8l
 @CrsStories-t2z
-@WEALTHHACK-h3p
 @ShrabaniNijhawan
 @LogicalMoney72
 @vanishedrooms
