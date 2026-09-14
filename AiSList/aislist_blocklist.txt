@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23706
+! Total Channels: 23701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13901,7 +13901,6 @@
 @SELINAS-OFFICIAL
 @PrimeBeatRhythm
 @reddyhistorypov
-@AIrythm-v9k
 @TechReviewBD
 @BillionsRec
 @AiGuruMusic
@@ -13909,7 +13908,6 @@
 @EchoRemasters
 @RewindStudio-i8d
 @GoldenFunkAvenue
-@traplord_1
 @TheMusicRecordingNetwork
 @EmNation-h5i
 @onlineflow7045
@@ -20247,7 +20245,6 @@
 @ailfilm
 @AIMovieStudioSTD
 @StellarDocumentary
-@stanleydavidson6253
 @The_TranquilCodex
 @TheBedtimeHistorianOfficial
 @BedtimeHistory-USUK
@@ -20264,7 +20261,6 @@
 @the-sleepiest-historian
 @TellMeAHistoryToSleep
 @TheSleepLibraryYT
-@VelvetEpochStories
 @SleepyHistoryStories-l1h
 @TimeLostinHistory
 @QuietHistory-s6o
@@ -20312,7 +20308,6 @@
 @MylasMovies-l3n
 @MoonFiretales-t2b
 @AiBeautyTales
-@VexaStories9
 @Alayotech
 @RoxanaReeves-l3v
 @Raw_Reality_Stories
