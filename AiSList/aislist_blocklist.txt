@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23638
+! Total Channels: 23633
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3406,7 +3406,6 @@
 @Raizmental01
 @MenteenMovimiento-l8x
 @YokoiKenjiPsicolog%C3%ADa
-@C%C3%B3digoMental-d4l
 @Sabidur%C3%ADadeJung
 @HumanidadPrimero
 @Zen_Vibes_Station
@@ -11226,7 +11225,6 @@
 @Mind_Drift_ASMR
 @ASMR_WORLD_YouTube
 @DreamyBed787
-@itsasmrhub
 @ai_asmr_lab_ch
 @DreamFluxASMR
 @miramakesai
@@ -16561,7 +16559,6 @@
 @shikkhoniyokahini
 @tezaurlautaresc
 @cantecedesprit
-@formatiacreanga
 @Mk_king_0072
 @Souljoy-q12x
 @starwarschroniclesanimations
@@ -22643,9 +22640,7 @@
 @rec-j4u
 @sumengyue
 @butterflydramaclub-z9z
-@MarketMindset-h7m
 @FantasyUniverse-z7p
-@FINANCESIGNALDIALY75
 @CapitalCurrent1
 @dnasecrets01
 @Bille_Finance
