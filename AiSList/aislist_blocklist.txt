@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23701
+! Total Channels: 23696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20327,17 +20327,13 @@
 @CaineUncovers3
 @SkylinePowerStories
 @JusticeUnfolded68
-@RalphBunche-j5w
 @StoryQuest-z8q
 @BlackPowerTruth
 @JusticeAfterDarkStories
 @MidnightshortstoriesMSS
 @Forgotten_narrator
 @OrcStories-z3m
-@OrcMarrowTales
-@FireheartOrcLoveStories
 @AegisofSol
-@OrcIronmist
 @2pmaistudio
 @orcstories
 @Orc-m1w
@@ -20366,7 +20362,6 @@
 @OrcAshenCrown
 @TheDrakensbergDragon
 @GreenOrcChronicles
-@SavageOrcHearts
 @OrcboundEternity
 @OrcLoveChronicles-n7z
 @GalacticPrimeHFY
