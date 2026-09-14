@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23539
+! Total Channels: 23538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11347,7 +11347,6 @@
 @Ebenezerstories
 @JESSYMINDCRAFTSTORIES
 @NeoAfricaChronicle
-@tessystories
 @MaeHolloway-w3n
 @aiartandmythology
 @TheOldWorldFix
@@ -11535,7 +11534,6 @@
 @VelvetSyndicate
 @thekarmanarrator1
 @jagdambamusicstudo
-@diyprojectmix
 @knockusa0005
 @wellnessinsight-l7y
 @roadcamfiles
@@ -17561,7 +17559,6 @@
 @AuraviveSerenity
 @WolfRelaxMusicHub
 @onlineshopping939
-@dorathyyt
 @오늘의썰노트
 @mayavitalhealth
 @scapekitchen
@@ -23555,3 +23552,5 @@
 @bm_asawar
 @meowcats19
 @pooja-r3i6g
+@joker9898-x7i
+@pastloremedia
