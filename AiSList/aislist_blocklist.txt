@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23663
+! Total Channels: 23668
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23679,3 +23679,8 @@
 @realisticbreak
 @百鬼_hakki
 @ai漫剧wongxin
+@yapay_zeka_sarkilarim
+@feastoria0
+@aminascozykitchen
+@jaymataji-o4q
+@analisisglobal77
