@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23673
+! Total Channels: 23668
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21422,7 +21422,6 @@
 @cosytonez01
 @Arashi_20
 @FoodAicreator1
-@AIWorld2050-y3k
 @Zynk-26
 @mandy_media
 @chandrasaidreamworld
@@ -21438,7 +21437,6 @@
 @George.Graves
 @FlorianAzak
 @USAIS2026
-@AirPowerX-e5u
 @TheRealBorder
 @An%C3%A1lisisGlobal77
 @UnforgivingEarth4K
@@ -21520,12 +21518,10 @@
 @Ai_Fruits_99
 @ai_asmr_hub09
 @abrokeproducer
-@ColorfulVeggieBaby
 @ViralAICreatorAi
 @TrainFunTv
 @AiVibeStudio_2
 @FruTopiaStories1
-@Aifruitstorys
 @Fruitopia-k5s
 @FruitBabyAI6
 @SweetBiteASMR-43
@@ -21571,7 +21567,6 @@
 @Tiny-Scouts
 @editingwithpiyush
 @hitpaw
-@Gingywink
 @realityZSU
 @PetVibes1993
 @theradiotv
