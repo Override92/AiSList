@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23706
+! Total Channels: 23701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21576,7 +21576,6 @@
 @PJAnimation01-j1r
 @KittyKittyoficial
 @apetcareguide
-@AmazingAnimeMan
 @PurrfectCareTales
 @DNARevaliation
 @TheHiddenCat-US
@@ -21651,21 +21650,18 @@
 @RetroRebootAI
 @Dankieft
 @stephenfinance
-@Taleofthron
 @TheDevPsyche
 @LEGOBibleAdventures
 @PrivacyVault1
 @123Rio-o1s
 @Wowearth3886
 @LucasGrant-usa
-@NekoAishCH
 @aieditpro
 @ChokingFox
 @RoutinexLab
 @guitarmeetsscience
 @bychristianbenjamin
 @roboverse987
-@Tiny_AI_Bites
 @GrowwithAnk
 @GingerDailyMeow
 @LeilaniRamiriz
@@ -22127,7 +22123,6 @@
 @TheCollectiblesGuide
 @FiscalFlow08
 @LumeStories3
-@Mern-v4i
 @taamistudy
 @KnappExplains
 @Drama-Bloom-o6w
