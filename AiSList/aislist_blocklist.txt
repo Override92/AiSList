@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23538
+! Total Channels: 23540
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11386,13 +11386,13 @@
 @HumanityFudge
 @AIGalaxyTales
 @SilentTruthHFY
-@hfyflicks
+@reprogramsubconscious
 @Africanstoryverse-234
 @africafolktalez
 @Aspiration1213
 @EchoesofstoriesByF.K-u3r
 @THEIRONQUILLS
-@Rwanda-Tales
+@bamo-fx
 @MYAFRICANTALES-d6u
 @PhilipFolkTalesTv
 @DailyAfricantales-d2h
@@ -11415,7 +11415,7 @@
 @FaiYamNarrator
 @NIa-tale-r4q
 @SheDreams_AI
-@Graceful-storiez
+@the3mfamily1
 @EarnWithAi-u8r
 @filmfashally
 @folktalebydee1
@@ -23554,3 +23554,5 @@
 @pooja-r3i6g
 @joker9898-x7i
 @pastloremedia
+@marujeong
+@thenightwhale
