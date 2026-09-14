@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23658
+! Total Channels: 23659
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7797,7 +7797,6 @@
 @ai_art5
 @auraa_asmr
 @thesoulsofmusic
-@thehiddenheirtales
 @quietwealth-y5x
 @simple-physix
 @softwavisounds
@@ -23674,3 +23673,5 @@
 @dreamstales-m3t
 @Kraina-h4e
 @dsaff-b5z
+@saqibshahdev
+@slownocturnes
