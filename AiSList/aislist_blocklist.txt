@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23687
+! Total Channels: 23682
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19608,7 +19608,6 @@
 @luminastories-s6w
 @MidnightTruthStoriesTv
 @storiesbybee0
-@SempiternalStories
 @SmithMathew-t7b
 @Skyrose_TV
 @TaleswithAnnie
@@ -19616,14 +19615,11 @@
 @HafizaRukhsana-j7s
 @FolktalesbyZida
 @Thehiddenplot-1
-@HiddenVoices-b5y
 @blackstorytalestv
-@SoulfulTales-r1k
 @WhisperingStories-n6y
 @StoryLedgerUsa-f4l
 @UnfoldsStoryHT
 @HIDDEN_FORTUNE_STORIES
-@HeartwarmingTales-w1n
 @HiddenTruthStories8
 @TheBillionairesChoice-US
 @PowerxxxRevealed
@@ -19634,7 +19630,6 @@
 @STORYVERE-h6l
 @Davidmor-x3e
 @HumanFateStoriesbyYM
-@WindChronicless-03
 @manzarhussain9927
 @HeartVoiceStoriesByY99
 @KindnessHub2.0
