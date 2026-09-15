@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23574
+! Total Channels: 23569
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7138,7 +7138,6 @@
 @ChillVibe_902
 @YingMeiGuzheng
 @GothDollWave
-@BrandonBriefing
 @Tjabian
 @SketchySurvival101
 @Lampoonery
@@ -15187,7 +15186,6 @@
 @AiClouds-g9m
 @CATOKAI15
 @commonsenselyrics
-@Shazzexplains
 @SolarVoidSpotify
 @ReactionFacts-0
 @joyleyler7955
@@ -15261,9 +15259,6 @@
 @ForeverOnTheFrontier
 @englishstoryreadings
 @FrontAxis
-@HealthInsightPrism
-@Dadjourney.22
-@rawdadrevenge1
 @amluckiasfcommentary
 @untoldaistories20
 @bxsghifh888
