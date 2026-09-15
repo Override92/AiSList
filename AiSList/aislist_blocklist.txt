@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23534
+! Total Channels: 23529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7654,7 +7654,6 @@
 @60secondbiblestories
 @mr.metal.official
 @Thewordytales
-@DRIVNEXA-j4h
 @ProcessVantage
 @WildernessMountainHearts
 @Factoryprocesslab-b6p
@@ -11999,7 +11998,6 @@
 @DistantHeartbeat9
 @EpicBuildsHub
 @ShadowsVictorianAge
-@Wilderness-wild-t5c
 @the_hyperlink
 @recapman-u6x
 @user_65710
@@ -16719,7 +16717,6 @@
 @ironbluesrevival
 @BlueFlameSessions
 @ThunderBluesRock
-@CurrencyNewsBrief
 @bestriverrelaxing
 @SusanCCornish
 @funnyverz
@@ -18591,7 +18588,6 @@
 @boot.mp3-g
 @generation.cabane
 @Adarshbtsedit
-@EnglishwithYello
 @StrayHavenCats-UN
 @HerCourageChronicles-p9j
 @lostlegacyfiles-llf
@@ -19744,7 +19740,6 @@
 @echoludzkiejpotegi
 @gwiezdnaflotaludzkosci
 @czlowiekzlamiekazdaregule
-@financehub-z
 @viralpawblems
 @lryyhann
 @bunnymandrill
