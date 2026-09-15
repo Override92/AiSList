@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23557
+! Total Channels: 23552
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15301,7 +15301,6 @@
 @XRP4
 @Modtease
 @Quirktvv
-@BioPulse-h9y
 @FarmerFaminesFeasts
 @Proof-n9y
 @AnimalFolklore
@@ -15352,7 +15351,6 @@
 @storyteller-c7k
 @TheRealAfricanFolktales
 @SarahFranklin-h9n5x
-@TheDailyFingerChallenge
 @caamfolktales
 @AdexStoryEmpire
 @JQAnimationsOfficial
@@ -15378,7 +15376,6 @@
 @warm-o1s
 @CatsAivideo4K
 @DramaForge-k4s
-@OtakuPowerAnime
 @CatsCookingg
 @CatAi-z999
 @CatsAivideos-i3t
@@ -15397,7 +15394,6 @@
 @AIAltVerse
 @Gigglesbyte51277
 @MeowWoofAI
-@BeyondtheHOAUS
 @SuburbanJusticeStories
 @AliAF-i1d
 @GlitchComedy-p2t
@@ -20264,7 +20260,6 @@
 @thescreentestr
 @successwisdombyjan
 @amahsbags
-@lightedtales9215
 @veedramatv-99
 @itsmarkfinance
 @thesundayoutfit26
