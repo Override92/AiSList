@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23507
+! Total Channels: 23502
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -245,7 +245,6 @@
 @AIMeow-kitten
 @CatimationAI
 @PARALLELGALAXY-TV
-@Ai.MeowwwUs
 @KittenCuteness8713
 @Tendyap
 @Manoranjan_Tales
@@ -284,11 +283,9 @@
 @Transformationthroughai
 @MeowMagicLabmeowmagiclabgmail
 @kittyaistory6
-@smartpetvideoai
 @MeowverseAI-g9s
 @FluffyBox715
 @BauhhVv
-@funnycatvideodaily
 @Goldenkitten8
 @Aimewmind00
 @thesupernaughtykitten
@@ -306,7 +303,6 @@
 @VivoGatoo
 @dailyDoseofAIslop
 @mogingerstudios
-@AIJesusStory
 @simpleaichannel4
 @MrAi51214
 @AIMagicalFamily
@@ -388,7 +384,6 @@
 @alpssstudio
 @FluffyHardWorker
 @Fluffytime-x4t
-@Penguin-Ai-life
 @tinyexplrrs
 @PenguinOrbit
 @UniversumDeutsch
