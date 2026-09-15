@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23541
+! Total Channels: 23538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7477,7 +7477,6 @@
 @afrokoreannarratives
 @AfrokoreanCrossroads
 @YoruTheSecond
-@SniperValor
 @ebonyandseoul
 @susanlovestories
 @RosieStorytelling
@@ -7559,7 +7558,6 @@
 @TheSomberSea
 @therelicarchive
 @chinchan21
-@autorecenzje
 @storieswithmandy
 @stimmederwahrheit-a
 @eatatyourownriskyt
@@ -11910,7 +11908,6 @@
 @LostGrandeurUK
 @Matt_Reconstructs_History
 @Chrono-Crunch
-@Vae-Victis-h9e
 @CevoFilms
 @doodletv.shorts
 @Synth.Vibe_AI
