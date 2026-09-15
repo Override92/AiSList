@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23576
+! Total Channels: 23575
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9216,7 +9216,6 @@
 @HFYUniverse
 @HyperAI-x
 @RiseMotivationDC
-@HopefulLifeStories
 @LifeLessonsLibrary-p5f
 @TalesbyEli
 @SilkSilhouetteStories
@@ -20281,7 +20280,6 @@
 @snminirasoi81
 @江戸昔話オーディオ
 @epokaludzka
-@realshootingzone
 @thescreentestr
 @successwisdombyjan
 @amahsbags
@@ -23592,3 +23590,4 @@
 @마음의이야기1
 @david-h9m6y
 @胖胖的搞笑生活
+@kanizcreative
