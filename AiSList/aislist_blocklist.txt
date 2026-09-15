@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23522
+! Total Channels: 23521
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8007,7 +8007,6 @@
 @everydayvalorstories
 @dr.davidbennett-seniorhealth
 @meditationforheart
-@goldengardenlife
 @cosmicdisasterhub
 @%E3%81%82%E3%81%9F%E3%82%89%E3%81%8F%E3%81%97%E3%81%82AI_music
 @SafetySenior1
