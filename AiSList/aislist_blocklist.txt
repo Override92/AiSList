@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23552
+! Total Channels: 23547
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7416,7 +7416,6 @@
 @syedahkampov
 @iftikhar.hussa9
 @futureworld-tech
-@drmichaelcarter1
 @oanhha-i5g
 @人生智者
 @sciezka_wewnetrzna
@@ -7439,7 +7438,6 @@
 @Reploid-X9
 @SheerHDPV
 @o-sodox
-@doctorpsyche
 @TreasurePulseOfficial
 @VintageAussieCars
 @IRONFROSTREQUIEM
@@ -10071,7 +10069,6 @@
 @pixeldoomfilms
 @Middle-earthStory
 @FQtube
-@FaerunVisions
 @AHDStudiosOfficial
 @borednerdai
 @AIFantasy94
@@ -15397,7 +15394,6 @@
 @AliAF-i1d
 @GlitchComedy-p2t
 @Visibleanyon
-@Ayvoraofficial
 @chippatents
 @Chimera2025
 @Createwithai-R2K
@@ -15407,7 +15403,6 @@
 @TheAICube
 @PrefloAI
 @AIWithNihar
-@familyAIcontent
 @Jacktech_yt
 @Altcoinsinsider
 @SmartPathFinance
