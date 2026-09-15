@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23516
+! Total Channels: 23514
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8113,7 +8113,6 @@
 @moderndefenseglobal
 @eyepatrol_yt
 @mediaairecords
-@karmafailed
 @hoastoryhub-q4h
 @restorefusion
 @퍼피휴게소
@@ -10790,7 +10789,6 @@
 @RealityAnimeStudio
 @glellcmv
 @TheTeslaBreakdown
-@sonofthedeadsun-ai
 @SongsoftheRealms
 @StillSpace_Sound
 @Billionairelnvestment
