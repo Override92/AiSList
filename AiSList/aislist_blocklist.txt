@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23553
+! Total Channels: 23552
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10114,7 +10114,6 @@
 @BaharAIArt
 @RazNava
 @EtherealAISong
-@ALPHATESTERGLOBAL
 @BrickHouseAI
 @SoftMagic_AI
 @JoJoAi_Visual_Zone
