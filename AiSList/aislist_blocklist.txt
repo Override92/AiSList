@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23625
+! Total Channels: 23620
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6131,7 +6131,6 @@
 @LudzkieLegendy
 @LASTV86
 @ThriveTribe104
-@%C5%92ilPublicDecrypt
 @ClimaRescue
 @HealingMoments-v5x
 @Arctic-Pulse-07
@@ -6209,7 +6208,6 @@
 @graphhis
 @glosstoicyzmu
 @szokujacefaktyiiwojny
-@oeilpublicdecrypt
 @TheWorldArchivist
 @tarunwagh3293
 @LegionKrwi
@@ -16564,7 +16562,6 @@
 @MissingNumber
 @privatediary_official
 @Automobilesgalaxy
-@carreviewu3h
 @CarsExpert-c7x3f
 @UsaCarUpdate44
 @carAutoCentre360
@@ -16592,7 +16589,6 @@
 @ImmersiveBibleStories
 @Chosen-Ones-Rising-d8i
 @wealththeorry
-@MindofMadness-r1b
 @LillianDavisTV
 @TheSilentCovenant777
 @TheChosenConflict777
@@ -22758,7 +22754,6 @@
 @EclatdeSaphir
 @OrangotanTV
 @PimpaAI
-@teachme-daily
 @CupidJr
 @Starfall_studio1
 @AiRealVideos67
