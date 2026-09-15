@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23486
+! Total Channels: 23481
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -730,7 +730,6 @@
 @aimeowtv25
 @strugglingpaws
 @callmesoren-t8f
-@storybyaicat
 @magicmeow2
 @rak-entertainment
 @aikitten-e1l
@@ -738,8 +737,6 @@
 @cutecataistudio
 @poorcatkitten
 @poorcatais
-@poorkitten2
-@poorkitten-g6v
 @aicutekitty-w7f
 @poorcat-g1g
 @catvideosai-n5t
@@ -765,7 +762,6 @@
 @aicatstory-y6k
 @aicat-story21
 @catstoryai-c8n
-@gingerkiten
 @zoozingstories
 @catvideosai-ai
 @kittykommotion
@@ -14007,7 +14003,6 @@
 @iconesdhier
 @pamelamessias-p5s
 @AzlanEmotianalstories
-@NeeshamEdits
 @DryDramaStories
 @SohaibArchives
 @ElectricLullabyofficial
