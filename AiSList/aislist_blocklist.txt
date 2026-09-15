@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23562
+! Total Channels: 23557
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15276,8 +15276,6 @@
 @FiscalRelics
 @marketeasyhai
 @WorldParade-w4
-@JesusReflectionsDaily-f8q
-@HeavensMessageToday-97
 @DivineWhisper11111
 @GodsblessedVoice
 @ArtificialWordBearer
@@ -15289,7 +15287,6 @@
 @barbariisater
 @VelmoraCave
 @ibadatfxpro
-@Ikonyc1
 @wolfout.traders
 @FinanceDecoded-c6e
 @AICodeKing
@@ -15304,7 +15301,6 @@
 @XRP4
 @Modtease
 @Quirktvv
-@NutritionSimplified-w8j
 @BioPulse-h9y
 @FarmerFaminesFeasts
 @Proof-n9y
@@ -17466,7 +17462,6 @@
 @RobertExplains-x1t
 @QuantumMeat
 @aitrocity
-@HistoryEndures-68
 @CosmicHeart-o4u
 @DeepSpaceTales-s8t
 @SketchMind-y2u
