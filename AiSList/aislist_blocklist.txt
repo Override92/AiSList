@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23521
+! Total Channels: 23516
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7927,7 +7927,6 @@
 @Behindprocess07
 @Rowmaxo
 @GlobalFactoryProcess1000
-@RoboFactory-t7x
 @behindthefactory1
 @NextGenDigitalSystem
 @IndustrialProcessTV
@@ -7996,7 +7995,6 @@
 @letters.to.myself_in
 @жизнь-х3п
 @realdude101
-@famefiles4
 @mrcat-2002
 @tuankietsoicau13
 @ahrevi-o3v
@@ -8005,7 +8003,6 @@
 @bodz-ink-animation
 @betteraginggg
 @everydayvalorstories
-@dr.davidbennett-seniorhealth
 @meditationforheart
 @cosmicdisasterhub
 @%E3%81%82%E3%81%9F%E3%82%89%E3%81%8F%E3%81%97%E3%81%82AI_music
@@ -16830,7 +16827,6 @@
 @Dzia%C5%82kowe_Patenty
 @Opowie%C5%9Bcispodserca
 @Polskie_gwiazdy
-@AlifeUntoldYT
 @Cie%C5%84Reflektor%C3%B3w
 @WW2Memories_y
 @LivesatWW2
@@ -17450,7 +17446,6 @@
 @tajnykapital
 @niespelnionamilosc
 @slowaprzeszlosci
-@drtomaszzielinski
 @szeptrodzicow
 @upadekpolskiejzywnosci
 @sabzistoryworldofficial101
