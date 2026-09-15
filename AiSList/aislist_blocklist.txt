@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23581
+! Total Channels: 23576
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6973,7 +6973,6 @@
 @SleepTunes9111
 @HighwayChillHQ
 @Samurai_Resolve_Sounds
-@VibeTenMedia
 @Ambertonee
 @QuietClassJazz
 @SacredStill-pcn
@@ -8393,7 +8392,6 @@
 @SolusAICinema
 @AItrailercinema
 @TheBeatlesStoriess
-@UnheardVoicesGLOBAL22
 @SmartAIDIGI
 @WhyonYT
 @StudioFauna-AI
@@ -9219,7 +9217,6 @@
 @HyperAI-x
 @RiseMotivationDC
 @HopefulLifeStories
-@GodsWisdomDaily111
 @LifeLessonsLibrary-p5f
 @TalesbyEli
 @SilkSilhouetteStories
@@ -10566,7 +10563,6 @@
 @SmartFunAI
 @Haru-s6i8h
 @ZoomDrives0
-@Asphaltguardians-m3x
 @Aitv0786
 @CartoonsAi27
 @OmegaMidnightTales
@@ -10586,7 +10582,6 @@
 @TalesofHearts-p9g
 @ApexLegendsDrama
 @StoryPulse-x5f
-@TheLastRevenge-f9v
 @ShockingTrueCrimeSaga
 @EnglishStorieswithNora124
 @Redditconfessions-A3d
