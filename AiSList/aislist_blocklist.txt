@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23466
+! Total Channels: 23461
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2357,14 +2357,12 @@
 @owisdiary
 @tv_frame_luxurious_art
 @meowhookai
-@ai-cat-story-s7k
 @ricoraccoon-1
 @catstory-100
 @aicat_story_u
 @cutebabycat-k4p
 @aicatstory-w9f
 @catsstory-w8g
-@ai_cat_adventures-2025
 @meowaicat-u2l
 @catkitten-aicat
 @ourcat_04
@@ -2395,7 +2393,6 @@
 @catcatcute911
 @cutecats-w4x
 @catcuteaishorts
-@funnycutecat-96
 @funnyandcutescats
 @catworldcute-3f
 @cutecatsclub-q8p
@@ -2442,7 +2439,6 @@
 @cat-ai99
 @aicat-tisoy
 @aicatfamily-p6e
-@catcute413
 @aikitten-0
 @aistoryhungama
 @ai_family_1
@@ -8135,7 +8131,6 @@
 @RestoredTimeline
 @WorldsBeforeUsofficial
 @EndlessTaverns
-@luxuryhorizons_world
 @TimelapseStudioChannel
 @Dailynavy
 @Products_Uncovered
