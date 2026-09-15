@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23629
+! Total Channels: 23624
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5978,7 +5978,6 @@
 @CosmHush
 @BrutalHistory.X
 @LogikaCia%C5%82a
-@%C5%9AladyKopyt
 @Hubble_plpl
 @GeoGlobal360
 @KwantowyOdkrywca
@@ -6119,7 +6118,6 @@
 @dubaireveals
 @hoastories450
 @logikaciala
-@sladykopyt
 @tar_animation
 @kfl1900
 @magicpawtales_0
@@ -11923,7 +11921,6 @@
 @wondersprout-j9m
 @thereidtrack
 @sunnyinshanghai
-@global-war-briefyt
 @thetsnscollectioninc
 @thoughtspur
 @pomodorowithppopo
@@ -18624,7 +18621,6 @@
 @HAiLI.Studio
 @SuzinFlow
 @EmpresasConHistoria
-@johnmaxwell2026
 @techrefresh786
 @SweetheartMelodies-68L
 @SpiritTales-i2f
@@ -22645,7 +22641,6 @@
 @vaelerka
 @wildpasthq
 @PsychologyGenZ12
-@DailyBattleReport-z4r
 @politicsreporttv
 @capitalize.oficial
 @DiscoverywithAmbrose
