@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23634
+! Total Channels: 23629
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3512,7 +3512,6 @@
 @TheDalioMethodUSA
 @IntimateActiveAfter60
 @lifeafter700
-@dravaleriamorenour%C3%B3loga
 @Dra.IsabelaCort%C3%A9s-e3z
 @Dr.MiguelCastillo
 @SaludconDatos1
@@ -3884,7 +3883,6 @@
 @exploradorcuantico
 @imaginalafisica-e5f
 @fisicapensamientosdefeynman
-@dravaleriamorenourologa
 @dra.isabelacortes-e3z
 @cuerpoenarmonia-q8p
 @dra.dlbadomenech
@@ -8795,7 +8793,6 @@
 @WEAPON-IN-HAND
 @nexusmanualinvestidor
 @alexinvests-w6c
-@saluddebolsillo
 @storyvibes-k9z
 @hoanightmarestoriess
 @allg-nd2
@@ -9086,7 +9083,6 @@
 @Audioviser
 @BackyardBirdMind
 @BattlefieldBreakdown-w
-@BenHodgesAnalysis
 @beyondprayerusa
 @BeyondTheVerses2OFFICIAL
 @bible-says-1
@@ -14058,7 +14054,6 @@
 @VOCALOID-Haruka
 @AniSonRememberAI
 @KINGAMVsOFFICIAL
-@%E6%94%BE%E8%AA%B2%E5%BE%8C%E8%BB%BD%E9%9F%B3%E9%83%A8
 @YORIMICHI-Playlist
 @HighQualityAIJ-POP
 @AI%E3%81%A1%E3%82%85%E3%83%BC%E3%82%93
