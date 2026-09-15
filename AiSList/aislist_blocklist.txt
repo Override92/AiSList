@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23604
+! Total Channels: 23599
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7536,7 +7536,6 @@
 @RichardWykoffTradingMethods
 @DreamAIASMR234
 @ZestLens25
-@Dra.AnnaW%C3%B3jcik
 @godzBackrooms
 @mysterymarketvault
 @IndoSphereMedia
@@ -7577,7 +7576,6 @@
 @stimmederwahrheit-a
 @eatatyourownriskyt
 @plotcorn-official
-@dra.annawojcik
 @midasチ
 @herenciadeldespertar
 @theexplainer223
@@ -7909,7 +7907,6 @@
 @CourtofthePeople-l4c
 @SekretySzpitala1
 @WojennyObraz
-@BliznyiDy%C5%BCury
 @joanniemunson5764
 @NowaDoktryna
 @Si%C5%82yZbrojne-d3f
@@ -8004,7 +8001,6 @@
 @oldgold-studio
 @bogobjawiony
 @zlotywiekpolski
-@bliznyidyzury
 @silyzbrojne-d3f
 @dr.pawelseniorhealth
 @rozwiazaniaprzetrwania
@@ -13006,7 +13002,6 @@
 @UrbanPopCentral
 @HitWaveMusic-c2u
 @officialneuralsoundlab
-@SynthVerse-l5n
 @LyriqTunes
 @TheNeural_Note
 @aifaithrecords
