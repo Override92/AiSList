@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23615
+! Total Channels: 23610
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7536,7 +7536,6 @@
 @RichardWykoffTradingMethods
 @DreamAIASMR234
 @ZestLens25
-@%C5%BBycie_po_70-tce
 @Dra.AnnaW%C3%B3jcik
 @godzBackrooms
 @mysterymarketvault
@@ -12880,7 +12879,6 @@
 @ClassVault
 @Fannyentaten
 @MeowMoments-2025
-@PawJoyKwt
 @aiprompt19
 @Promtin
 @AI-generator-video628
@@ -19696,7 +19694,6 @@
 @folktalesbykaliboy
 @KasiFolktales
 @CaricatureMultiverse
-@TalesbyCotton
 @ScholaTales-01
 @Kikisfolktales
 @CRYSTALHARTSTUDIOS
@@ -19753,7 +19750,6 @@
 @DelighttalesTV0
 @FILMSBEFORETHERISEOFDAWN
 @NIMBLESTORIES-s2j
-@EbonyHeartTales
 @JayStoryHubAi
 @ECHOOFTALES123
 @mfontales
@@ -19763,7 +19759,6 @@
 @TellingStoriesOfRevenge
 @TheAmericanCourtroom
 @DadsFamilyStories
-@DadsVengeance-w3r
 @AFathersSilence
 @BrokenDadChronicles
 @HiddenFury-g3v
