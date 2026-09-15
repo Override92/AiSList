@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23529
+! Total Channels: 23527
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12031,9 +12031,7 @@
 @ClipCentralium
 @Zylorith_kl
 @BlurzClips
-@rapzone_183
 @airic.z
-@Everydaymotivation200
 @cyandskelly
 @isabella96146
 @g7t2y5vl-z2q
