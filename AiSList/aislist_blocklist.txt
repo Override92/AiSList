@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23527
+! Total Channels: 23522
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7868,7 +7868,6 @@
 @VintageCinemaMusic
 @ECHOX1152
 @Mr.Greendude
-@babyfrut
 @TheVintageVaultTV
 @TheProcess-i9b
 @SatisfyraASMR
@@ -7894,11 +7893,9 @@
 @joanniemunson5764
 @NowaDoktryna
 @Si%C5%82yZbrojne-d3f
-@KobietyLiniiFrontu
 @JamesGraham-i1b
 @asdekTop
 @fatos_biblicos1
-@DoktorAndrzejNowicki
 @biblia_rozdzial_po_rozdziale
 @usanightshow
 @rozwi%C4%85zaniaprzetrwania
@@ -10570,7 +10567,6 @@
 @RevengeActivated
 @wootechvlog
 @FinancePulse-w1x
-@aiviralstudio46
 @SynthwaveDreamRadio
 @thesproutlabb
 @kobee017
@@ -18595,7 +18591,6 @@
 @MyRAMsGarage
 @Piston_Logic-engineering
 @Unseenreality247
-@UnspokenRank
 @%D0%97%D0%B0%D0%B5%D0%B5%D1%83%D0%BB%D1%8B%D0%B1%D0%BA%D0%BE%D0%B9
 @Gymleaderpokeviking
 @starkrecap_2607
