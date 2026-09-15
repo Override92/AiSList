@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23547
+! Total Channels: 23546
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16678,7 +16678,6 @@
 @TechUnfilteredleaks
 @RhythmRebels-x9i
 @froobii
-@beono_sound
 @MythsUnraveled-s5f
 @AshleyChapman-o9q
 @Chris_1088
