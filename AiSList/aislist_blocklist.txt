@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23567
+! Total Channels: 23562
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7238,13 +7238,9 @@
 @RedAlertMarkets
 @FinanceInMinutes
 @thesalehhamed
-@QuotesWisdomOfficial
 @Skywalker_Stories
-@Themysteriousworldofprehistori
 @AIAbigailAdams
-@JuliaCC-r
 @LiyanaFemme
-@warnomics-342
 @echotronu
 @epicaiofficial
 @HistoriaPancerna
@@ -19885,7 +19881,6 @@
 @bloxlyda
 @goldhuntextra
 @kaizenalltag
-@lewisink88
 @cyberpunk_coding_music
 @darkcosmosmysteriestv
 @vintageclub321
