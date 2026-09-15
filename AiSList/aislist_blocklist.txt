@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23598
+! Total Channels: 23593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7915,7 +7915,6 @@
 @asdekTop
 @fatos_biblicos1
 @DoktorAndrzejNowicki
-@Dr.Pawe%C5%82SeniorHealth
 @biblia_rozdzial_po_rozdziale
 @usanightshow
 @rozwi%C4%85zaniaprzetrwania
@@ -8002,7 +8001,6 @@
 @bogobjawiony
 @zlotywiekpolski
 @silyzbrojne-d3f
-@dr.pawelseniorhealth
 @rozwiazaniaprzetrwania
 @westernmilosc
 @upadek_imperiow
@@ -8050,7 +8048,6 @@
 @AdeptusAnthemicus
 @SmartFactory26
 @UncoverVault-k6r
-@TheLoveBlueprint-h9u
 @vtfactoryprocess
 @AussieWarArchives
 @90s-EDM-Style-Music-With-AI
@@ -9924,7 +9921,6 @@
 @EchoesOfZionRoots
 @babciawyjasnia
 @tajemnicaprzeszlosci
-@futurefactory-riad
 @slowianskaduszaprzodkow
 @thepulsefootball
 @pingguy512
@@ -11731,7 +11727,6 @@
 @EverBellStories
 @UnderstendCats
 @FortuneFeelings-q1h
-@BloodInheritance-y7r
 @SweetfamilyrevengeUS
 @Mr.ThomasStories1
 @AvahealthNexus
