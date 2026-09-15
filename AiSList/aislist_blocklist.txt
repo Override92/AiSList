@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23513
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12089,7 +12089,6 @@
 @ElaroviaStories-f8s
 @DarkTaleAudio
 @PrismVerseBL
-@TheMoonmarkedLegacy
 @LunaGLHeat
 @StephsBeautifulStories
 @kainyaoimochi
@@ -16814,12 +16813,10 @@
 @dr.AndrzejMajewski
 @25thpage
 @shamanicspiritportal
-@DrTomaszZieli%C5%84ski
 @healingether
 @criticaltech7091
 @SzeptRodzic%C3%B3w
 @universedocumentary131
-@UpadekPolskiej%C5%BBywno%C5%9Bci
 @WiseNotesDaily
 @Dzia%C5%82kowe_Patenty
 @Opowie%C5%9Bcispodserca
@@ -17444,13 +17441,11 @@
 @niespelnionamilosc
 @slowaprzeszlosci
 @szeptrodzicow
-@upadekpolskiejzywnosci
 @sabzistoryworldofficial101
 @dzialkowe_patenty
 @opowiescispodserca
 @cienreflektorow
 @zadziwiajacyswiatprzyrody1
-@ワンちゃんマン1
 @elizabethtaylormdnephrology
 @faultlineledger3
 @MAVIRAofficial
