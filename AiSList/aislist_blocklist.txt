@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23593
+! Total Channels: 23588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5537,7 +5537,6 @@
 @omniverse-global
 @DeepWaveDiscovery
 @RenovationVision
-@wwii-battlefronts1
 @Kuzniaumyslu2
 @ZeroToLuxuryTV
 @HiddenJusticeArchives
@@ -8068,7 +8067,6 @@
 @SURVIVAL3656
 @nguyenhuuhai-l8l
 @AnimatedStoryWorldChannel
-@thabestvfx
 @WhatIfWildlife_31
 @OopsSparkie
 @CayceBeyond
@@ -8107,7 +8105,6 @@
 @Tysiącletniehistorie
 @StaryHistoryk
 @JasnaStronaTajemnice
-@TheChosenGuardian01
 @Somnara-j3s
 @Strategic-World-View
 @nocturneechoesviolin
@@ -8147,7 +8144,6 @@
 @piotrcienwronski
 @tysiacletniehistorie
 @0.ultimate
-@woollyhearts
 @catsdairy20
 @shortfilm-entertanment
 @vibequeen-f9k
@@ -22830,7 +22826,6 @@
 @HOAStories-bk
 @Khalil-story
 @HOAStoryHUB8
-@HoaStories-99
 @CJLastix_Stories
 @AIMakingFood
 @HANAStoriesUS
