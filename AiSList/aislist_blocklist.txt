@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23509
+! Total Channels: 23507
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -244,7 +244,6 @@
 @Laugh2cry
 @AIMeow-kitten
 @CatimationAI
-@Zam-Zam786-m2
 @PARALLELGALAXY-TV
 @Ai.MeowwwUs
 @KittenCuteness8713
@@ -340,7 +339,6 @@
 @thebiblestoryofai
 @StoryFactAnimation
 @AIStoryLab-nn
-@aistorynestanimatedbyme
 @RemiAI7
 @RelaxxMeowMeow
 @sauravsingh3838
