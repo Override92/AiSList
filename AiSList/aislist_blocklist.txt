@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23498
+! Total Channels: 23493
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -571,7 +571,6 @@
 @chillinwithmochi
 @mhai11211
 @penguinlminds
-@aicreatore12
 @bigfoothits
 @tinyworkersstudioyt
 @tinycreativeai-t1g
@@ -608,13 +607,11 @@
 @cartoonsvideos2.0
 @aicartoon-95
 @aiaurhum12
-@tootleai
 @aicowstory6
 @dairytalesai
 @aicreatures12
 @aianimation-u8r
 @cowcartai
-@inspiretoonhindi
 @secretai3
 @aicartoon769
 @earthai2
@@ -15646,7 +15643,6 @@
 @HonestHiFi
 @LaughLearnAIStories
 @FaultlinesStudio
-@Alpha_Storie
 @%E8%90%9D%E5%8D%9C%E7%8B%97
 @rootsvibes-g8s
 @jiangshan001
@@ -18610,7 +18606,6 @@
 @Krynn0007
 @MindBlownFactsDaily-m3x
 @aifuturehits
-@lyricsnation-s
 @forgenestdiydungmv
 @mistrielle-rain
 @A-Gentle-Home
