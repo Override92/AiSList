@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23538
+! Total Channels: 23533
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7474,7 +7474,6 @@
 @EmotionalJusticeStories
 @BeyondMansion
 @thepowerofhopeSE
-@afrokoreannarratives
 @AfrokoreanCrossroads
 @YoruTheSecond
 @ebonyandseoul
@@ -11930,7 +11929,6 @@
 @GeeksLabTV
 @thepostapocalypse
 @Trilloncore
-@Cloud6-e7q
 @SwapnalokaOfficial
 @vanishedworldsrevealed
 @BritishManors
@@ -15492,7 +15490,6 @@
 @EpicTalesoftheBible
 @jesuswords-w7e
 @GodSignalToday
-@ConflictCelestial
 @MourningMuse-k3y
 @CountryRockGospel-f5y
 @JesusWalksWithUsOfficial
@@ -16710,7 +16707,6 @@
 @%E9%87%8E%E7%90%83%E3%81%AE%E5%A4%A2
 @Human-Codee
 @pattonrescript
-@TheStrategicWest
 @blackcanvasafrica
 @NocturnalRecords-1
 @marsmarsm
@@ -18594,7 +18590,6 @@
 @vintagenook
 @boot.mp3-g
 @generation.cabane
-@careless.any.problem
 @Adarshbtsedit
 @EnglishwithYello
 @StrayHavenCats-UN
