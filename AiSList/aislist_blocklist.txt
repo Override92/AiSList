@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23474
+! Total Channels: 23484
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23490,3 +23490,13 @@
 @maureen_diaries
 @MirrorsofLogic
 @keneversetv
+@GRIFT-TV-1
+@Yhubeestories
+@mo_AIstories
+@PeaceAnimation-y4p
+@GeoSmartStudio
+@AfricanFolktalesbyJimmy-c9j
+@AfriChronicleUniverse
+@talesbyudenyi
+@Africafolktalebysammy
+@WorthyHeartTales
