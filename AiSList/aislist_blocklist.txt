@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23508
+! Total Channels: 23503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3786,7 +3786,6 @@
 @britishroyaltales-0110
 @historywithfitbotai
 @MysticVoyagee
-@FinanceFault
 @IronandMemory
 @ForbiddenRootsOfficial
 @TimelessCropsHaven
@@ -3809,7 +3808,6 @@
 @tandezotandezo
 @MinecraftMemories-m9v
 @RevengeNation1
-@PandaTales-w9h
 @itstruepompeo
 @TrustTestHub-i5e
 @AITAHConfessions-d8h
@@ -3907,7 +3905,6 @@
 @TheBuildingPoint
 @BravePawsAI
 @AlmaSerena-p3k
-@jonAGfinance
 @PropertyGorilla
 @WhatChanges
 @MARKETHISTORY-k7p
@@ -16771,7 +16768,6 @@
 @PastExplained-r6v
 @LetSteveExplain
 @OverrideHFY
-@TitanVerseHFY
 @Hfydystopian_crazy
 @HFYReckoning
 @HFYTitan-i1s
@@ -19752,7 +19748,6 @@
 @toysla8s
 @comfyhistory101
 @sleephistorian2026
-@jungpsychologyhub-f2q
 @adeelius
 @factoryword-v4j
 @MONUMENTALvideos
