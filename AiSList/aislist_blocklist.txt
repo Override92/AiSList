@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24019
+! Total Channels: 24020
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24035,3 +24035,4 @@
 @AncientNoiseOfficial
 @jadearcadex
 @whispranks
+@StaticSerenade-m8w
