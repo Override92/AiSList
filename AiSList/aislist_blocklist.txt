@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23499
+! Total Channels: 23494
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4040,7 +4040,6 @@
 @sirazhar-j6g
 @user-ls8cj5cw9g
 @LensHistory
-@marketalarm55
 @IndexSense
 @OmahaAfterDark
 @ELMETODOMUNGERESP
@@ -4088,7 +4087,6 @@
 @WorldlyWisdomLab
 @EconomicChronicles
 @PotenciaMasculinaDraJocelyn
-@DrMarianaSeniorWellness
 @drramani-x8e
 @Dr.jocelyn
 @OGJohnAG2.0-g9z
@@ -4101,7 +4099,6 @@
 @KevinHendrawanInvesting
 @financemachinery
 @SimpleFinanceTips-US
-@CapitalCraft012
 @The_silent_truth_1
 @pawsin60s-v7e
 @WWIIhistory-i1r
@@ -4139,7 +4136,6 @@
 @WeveSeenThisBefore
 @IanOchiengAI
 @USEconomyBrief-123
-@theuntoldempire_official1
 @thefinancialminute-r2l
 @FinSharkExplains
 @MoneyMovesDaily
@@ -22990,7 +22986,6 @@
 @ahsanurdustudio7299
 @AstraVeyl
 @QuantumPulse11
-@Finance-07-f
 @CalmPiratee
 @MrFinanceBrands
 @Olliee_Finance
