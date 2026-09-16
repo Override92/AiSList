@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23624
+! Total Channels: 23634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23640,3 +23640,13 @@
 @BlackHollowUnion
 @kendibble9963
 @RusticPoemRecords
+@pesquisadorIntegral
+@OldSoulMusic-Music
+@AIM-MediaPro
+@topascreativestudio
+@ExposeVault
+@TrivakonKing
+@FutureEarths
+@AI_Dripp
+@FutureFrontierDocumentary
+@vizyouleyes
