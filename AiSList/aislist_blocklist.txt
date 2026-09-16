@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24000
+! Total Channels: 24009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24016,3 +24016,12 @@
 @Ronita_Ai_creator_girl
 @cookingwithyumi
 @aicook09
+@MoranaChoir
+@PeakAiStudios
+@EverydayAISkillz
+@Whispercomics
+@macronest-j3g
+@jacktestsai
+@xs0622-3
+@stoicstic
+@JoYBoY-o4s
