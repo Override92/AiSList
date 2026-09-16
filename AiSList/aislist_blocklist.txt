@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23888
+! Total Channels: 23883
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18914,12 +18914,9 @@
 @MidnightRomanceAudiobooks-z8o
 @TheCandlelitHistory
 @Alfred45-j6v
-@MafiaGIRLUS
 @AfterHoursOfficeJazz
 @TheLegacyofBruceLee
-@fedonevex_zolika
 @AnimalFlashTime
-@TheDailyNewsReport
 @KaelEmberfall
 @TheBoringRichCo
 @amazingmagicworld07
@@ -18927,12 +18924,10 @@
 @TomTalksMoney2k
 @UltimateRevenge-u6n
 @BritishTruthReport
-@JamesWhitmoreYT
 @SeoulSilentCamp
 @PlatinumDiaries
 @%EC%9E%98%EC%9E%90%EC%83%98-b4m
 @EmmanBLDiary
-@AlphaTaleStories
 @RoyalLegacyChronicles-g5f
 @AinasLoveStoryLibrary
 @MoonlitFateStories
