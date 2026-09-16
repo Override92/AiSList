@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23634
+! Total Channels: 23644
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23650,3 +23650,13 @@
 @AI_Dripp
 @FutureFrontierDocumentary
 @vizyouleyes
+@studiolichan
+@craftface1135
+@SunsetNorthStudios
+@TheFactumGhost
+@moroksaga
+@ChieraFilms
+@BrainPoisonStudios
+@BehavioralCipher
+@DeadNetTheoryYT
+@Ignis_Umbra
