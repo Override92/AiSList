@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24014
+! Total Channels: 24012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15928,7 +15928,6 @@
 @oracaoemmelodiagospel
 @DoorbellDogDiaries
 @CaughtOnMyDoorBell
-@CCTV-fails-g3s
 @DoorbellAi-i1q
 @podcastshorts-sg5gp
 @DopamineFactory_YT
@@ -15957,7 +15956,6 @@
 @SyyyRecaps
 @Tiny.FoodFactory
 @SmallPlateStudio
-@TinyTasteStudio-e6w
 @TinyFoodBuilders-o5y
 @minifoodstudioofficial
 @TinyWorldFactory-d8i
