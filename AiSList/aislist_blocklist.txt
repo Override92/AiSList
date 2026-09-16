@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23523
+! Total Channels: 23518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3484,7 +3484,6 @@
 @FKCARREVIEWS
 @AutoReview-fe1
 @autonextlevel
-@caruniverse-i6b
 @EchoesfromPyongyang-911
 @SemillasAncestrales2000
 @Explica2-dos
@@ -9315,7 +9314,6 @@
 @TheReconstructedHistoryYT
 @TheStudyZone7
 @KwinsAfricanFolktalestory
-@Taleswithbarbee
 @TalesbyProsper
 @Rachelsstorytime
 @CircleofAfricanTales
@@ -11045,7 +11043,6 @@
 @Cinema_Fictions
 @THEVELVETSYNDICATE
 @RealLoveStoriesUnfiltered
-@DarkMafiaRomanceStories
 @TheHiddenDuchess
 @FronteradeLeyendas
 @DustJade
@@ -14138,7 +14135,6 @@
 @ghazalakabul
 @tobatobajana
 @skateavenueph
-@Prof.Jiang.Explains
 @RevibeMusics
 @Myanmar-AI-Music-Studio
 @seandaniel23
@@ -18586,7 +18582,6 @@
 @Aetheron-d4t
 @JazmineLozano-r8g
 @TerminalCut
-@autoverse-i6b
 @domanic-tweets
 @redditor20
 @TheLazyGeniusReal
