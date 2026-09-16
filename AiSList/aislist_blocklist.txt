@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23873
+! Total Channels: 23883
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23889,3 +23889,13 @@
 @SuboptimusPOV
 @asmar-5bj
 @actitudganadora_786
+@TheHistoryPortall
+@Suhanisolanki-c5w
+@PlanckFrames
+@ancient_time_travles-m9f
+@juliaray.timelogs
+@NextGenAiTEC
+@POVepictimetravels
+@NextMindMedia-z5v
+@ImmersiveHistoryAI
+@AmazingStoriesJustForYou
