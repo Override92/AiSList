@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23661
+! Total Channels: 23671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23677,3 +23677,13 @@
 @BalladsoftheFantasyKingdom
 @%E3%82%B1%E3%83%AB%E3%83%88%E3%81%A8%E5%B0%91%E5%A5%B3-Celtic_and_Maiden
 @arther1994a
+@aisanipro
+@AI-TINY-BABY
+@AiTransform4
+@AmeriScope1921
+@CaderaAIWorkshop
+@rahabinspireshub
+@MemoryRenderArchive
+@BeMyself-j8c
+@AiAi_BGMRoom
+@TheOdelier
