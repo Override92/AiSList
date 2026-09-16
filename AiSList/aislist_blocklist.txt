@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24022
+! Total Channels: 24019
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1511,7 +1511,6 @@
 @animalrescuest
 @ainimalrescue
 @untamedrescuesyt
-@wildrescueal
 @njstoryofficial
 @animalrescuemoments-g1s
 @wild-relief
@@ -10152,7 +10151,6 @@
 @FuncerASMR
 @FRUITY_ISLAND
 @FruitSlashASMR
-@financelecture123
 @FinanceLoreYT
 @FinanceOrbit786
 @FinancialDisclosures
@@ -15791,7 +15789,6 @@
 @Called2Chosen
 @ScriptureBeyondKnowledge
 @HiddenBuild24H
-@barkley-j1o
 @homesteadrootss
 @MrEmilioIllegalKnowledge
 @PsychologyFaith
