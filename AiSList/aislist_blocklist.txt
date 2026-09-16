@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23671
+! Total Channels: 23679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23687,3 +23687,11 @@
 @BeMyself-j8c
 @AiAi_BGMRoom
 @TheOdelier
+@Lucerna_Harmonia
+@Relax_LofiLife
+@waves.by.nerida
+@musicismytherapy2025
+@WoodieFM
+@CROFTIQSTUDIOS
+@fontheweb
+@tanutanuRecords
