@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23921
+! Total Channels: 23916
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70,7 +70,6 @@
 @catmeow66
 @Catmeow-t9f
 @AJShorts-x8m
-@SADMEOWSTORYIES
 @K5CatMeow
 @Mews_Flash
 @Meow09i8i
@@ -9180,7 +9179,6 @@
 @Tanlaus
 @TheNocturneBard
 @TheLastSci-fiChild
-@LevelUpPOVStories-k2g
 @EchoesBeneath-m7g
 @Wulfranz
 @dreadcorps
@@ -12094,7 +12092,6 @@
 @RainyLofiAmbience
 @LittleLumosTube
 @MarvelAIFactory
-@asailorswife1997
 @HeavenDefyAnime
 @DSSTUDIOSCINEMATICUNIVERSE2.0
 @Apocalypseanime
@@ -14302,7 +14299,6 @@
 @AIGoneWrong-x7b
 @viralaifun
 @AiJesus.
-@KingdomEchoAi
 @TheGenAiStudi0s
 @PeacefulChristianLullabies
 @MayaVishwash
@@ -18886,7 +18882,6 @@
 @Mystorastories-h2s
 @aidreamScape-aq
 @UnfilteredAI7
-@megabite051
 @TP_Create_s
 @aijunkfoodstories
 @realaniket21
