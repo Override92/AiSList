@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24031
+! Total Channels: 24033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24047,3 +24047,5 @@
 @tiagolemosx
 @hamachi-jp
 @neural-films
+@AncientNoiseOfficial
+@jadearcadex
