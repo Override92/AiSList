@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23863
+! Total Channels: 23871
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23879,3 +23879,11 @@
 @InnovationFrontierTv
 @V2_VLOGV2
 @INNOPULSE1
+@aiscene.official
+@timelinehistoryoffical
+@EmilyCarter-b6j
+@GeoTimeExplore
+@POVBeyond-y7p
+@HeliosArchives
+@pov.civilizations
+@MajesticPOV1
