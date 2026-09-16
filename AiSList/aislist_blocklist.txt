@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24033
+! Total Channels: 24028
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1397,11 +1397,9 @@
 @sksaistory1
 @aistoriesqt
 @ur.cowsadstory
-@simpelai3
 @mraryanx7m
 @aistoryworld-f9i
 @aistoryanimation78
-@aiwonderss-g8m
 @aibysky
 @shineai01
 @catzdance-c5z
@@ -15660,7 +15658,6 @@
 @BeyondtheUniformqsxe
 @KindnessTales-k8j
 @UrbanAutoVisionary
-@Behind_Truth_News
 @SimplePaintOfficial
 @KindnessStoriesUSA-g9e
 @AceHoopszn
@@ -15676,7 +15673,6 @@
 @OldWorldPhotos
 @HiddenEarthTV-i1b
 @MrTech-y3q
-@MilitaryHistory-p9z
 @feasibleutopia
 @EverlastAIClips
 @VisionaryBuilds
@@ -19111,7 +19107,6 @@
 @Image_Game
 @waltwise
 @AllenExplains-g8g
-@ChasehughesPerspective
 @possible_mango
 @LoreLockdown1
 @neonsoulradio-z5u
