@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23970
+! Total Channels: 23980
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23986,3 +23986,13 @@
 @POVTimeTravelers
 @Ancient_Visions
 @neuralmotionstudios04
+@user-nl8qw1qv3f
+@lucasaiacademy
+@USALifeHindi-t4e
+@ReactionNotes
+@AndreasGus
+@Ask_Bit
+@TrailblazeSerenade
+@sam_candler
+@MedievalCelticMelodies
+@AICinematic.Universes
