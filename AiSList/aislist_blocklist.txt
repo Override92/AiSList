@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24013
+! Total Channels: 24012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13385,7 +13385,6 @@
 @videofidan
 @CatsDubbing-zt7jb
 @Skytv.Clipss
-@NEXLYFE786
 @ClearMindForEver
 @FUNNYclipz-w
 @haytam-sp3ui
