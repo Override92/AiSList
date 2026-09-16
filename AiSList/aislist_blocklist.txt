@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23445
+! Total Channels: 23444
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3516,7 +3516,6 @@
 @L%C3%A1grimasdeHierro
 @RevengeDadUS
 @kofifolktalesss
-@BlackLegendsStory
 @AgainstAllOdds-d6y
 @CalmDramaStories
 @camelliashiddenstories
