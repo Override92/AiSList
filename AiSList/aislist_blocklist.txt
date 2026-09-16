@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23514
+! Total Channels: 23523
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23530,3 +23530,12 @@
 @MercyInaStories
 @BaobabTales123
 @SavannaStoriesHub
+@AfricanwisdomVault-d5e
+@MangoDramaStories
+@FavstarAfricantales
+@RoseMaryTales-g7z
+@TalesbyHamaka
+@AfricanStoryverse-1
+@BaobabStoriess
+@PrimeDramaSeries-e1v
+@AfricanStoryHouseByOdy
