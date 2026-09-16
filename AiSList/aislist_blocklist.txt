@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23893
+! Total Channels: 23903
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23909,3 +23909,13 @@
 @AIHistoryMovies
 @PastPortals1
 @Timeless_POV
+@Era0Lens
+@Project_POV
+@ThePastLook
+@LensChrono
+@LoveAnimeRecap-v6m
+@CrownandLoveAI
+@DramaFlix48
+@Becoming-Lacey
+@BecomingLacey
+@GROOVE_NEST24
