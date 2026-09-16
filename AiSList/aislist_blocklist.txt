@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23720
+! Total Channels: 23729
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23736,3 +23736,12 @@
 @AdoreDrama-i
 @EarlWynn
 @Chass3urYT
+@AutonomousMusicGroup
+@DasBienenbuch
+@CherryAI27
+@Toonmody
+@GhibliCoupleVlogs
+@GhibliBreezeAI
+@oddorbitshorts
+@war-s1y
+@TheLumioraAIVlogs
