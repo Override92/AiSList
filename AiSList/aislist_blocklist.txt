@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23494
+! Total Channels: 23492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1891,7 +1891,6 @@
 @ww2history2005
 @wwiichronicles_05
 @bestww2archives
-@ruthlessgeneral
 @revengediaries-1k
 @legendsofcommand-o8d
 @ww2shadowarchives.5
@@ -15620,7 +15619,6 @@
 @theoroverse
 @thehealthysenior11
 @aimusic-v8d
-@hoastoriestimeline
 @conflictodepuntoyt
 @maplefamilyenglish
 @hdsnba
