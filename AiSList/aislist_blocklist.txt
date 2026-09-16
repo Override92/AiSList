@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24018
+! Total Channels: 24024
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24034,3 +24034,9 @@
 @TheGritShift
 @BACKWOODSOUTLAWBADDIE
 @CountryEchoMusic
+@IronWest7
+@BlackProphecy7
+@DarkHorizon-i2r
+@Phasesyndicate19
+@Sound-Archive123
+@BAGUALZ
