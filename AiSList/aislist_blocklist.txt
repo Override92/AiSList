@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23909
+! Total Channels: 23919
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23925,3 +23925,13 @@
 @YesterdaysGlowbyOllie
 @ExploreHistoryAI
 @POV_Sensei_Ai
+@Neuropolis_ai
+@historypovyt
+@TheImpossibleFeed
+@TheThoughtNarratives
+@PovHistoryCore
+@FunnyAiVideos3533
+@Neurovibe-Ai-o5z
+@POVexe
+@ThroughTheirEyes2
+@Youwakeuphere
