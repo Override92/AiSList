@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23922
+! Total Channels: 23921
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -82,7 +82,6 @@
 @meowneow-g9d
 @storys.meowia
 @Tiny-Chick-dz
-@sweetestpals1
 @Yellowchicksss
 @ElsasEnchantedAdventures2
 @DisneyElsaSnowyQueen
@@ -18988,7 +18987,6 @@
 @THETIMELESSSTORY-e8g
 @SoraCable
 @storylocation
-@CreativeAIAnimation407
 @StoryStudio_official
 @UrbanMyths-757
 @storytalkhub007
@@ -23938,3 +23936,4 @@
 @BayouMojoBlues
 @HistoryXposedOffical
 @AIHystoryPOV
+@quietude_studio
