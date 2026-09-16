@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23963
+! Total Channels: 23958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1013,11 +1013,9 @@
 @zootopicai
 @srtanimals
 @cutelittleworld-d
-@loopoo-j3y
 @minipets7
 @furrystates
 @happyfantasyworld
-@kittykitten-l8p
 @kitty-r3b5j
 @catanimation-f5y
 @cutecatkittyfriend
@@ -10118,7 +10116,6 @@
 @PlaneCommand-ut5
 @WWIIRisingStories
 @ww2dispatchh
-@BookNerveaudio
 @HOA_Reddit_Stories
 @hoa-stories
 @HOACasefile-j2v
@@ -18913,7 +18910,6 @@
 @BritishTruthReport
 @SeoulSilentCamp
 @PlatinumDiaries
-@%EC%9E%98%EC%9E%90%EC%83%98-b4m
 @EmmanBLDiary
 @RoyalLegacyChronicles-g5f
 @AinasLoveStoryLibrary
@@ -19769,7 +19765,6 @@
 @hoastorymoments
 @adventureawaitsshow
 @eedit_99k
-@lunaandmochi888
 @ThePistolArchives
 @TheSoldiersStory
 @aloshiaෆ
