@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23450
+! Total Channels: 23445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3407,7 +3407,6 @@
 @EchoesOfVelandria
 @Hassistah
 @CurrencyArchives-AG
-@Saludparapersonasmayores-l1n
 @CuerpoenArmon%C3%ADa-q8p
 @Dr.JavierSerrano
 @VerdadesSilenciosas-q1o
@@ -3475,10 +3474,7 @@
 @Dra.IsabelaCort%C3%A9s-e3z
 @Dr.MiguelCastillo
 @SaludconDatos1
-@signosdesalud
-@SaludIntegral-n3d
 @StrongSeniors365
-@BioWellnessZone
 @CarVerse
 @RevlineMedia-t9b
 @LuxuryCars-x9v
@@ -16495,7 +16491,6 @@
 @ai爽劇場
 @萝卜狗
 @skullify45
-@thequietgardens
 @reddittalesangle
 @nextgenbusiness-26
 @samediaandnewsus
