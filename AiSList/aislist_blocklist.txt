@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23903
+! Total Channels: 23898
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5742,7 +5742,6 @@
 @CNV-News-1
 @SimplebutSurprising
 @KolaDepth
-@unknownUSpolitics
 @CurrencyMatrix
 @Unfolded_Finance
 @RubyReports
@@ -5881,11 +5880,9 @@
 @LazyMonkeyEconomics
 @swiatowyekspres
 @ZaginioneRejestry
-@CollapseCodex
 @Jakwczoraj
 @ZaKulisamii
 @cool_techplus2753
-@Charlies-zay
 @TheHOAInsider-f2u
 @TheHOADiaries-z9s
 @FreedomTales-g9n
@@ -5915,7 +5912,6 @@
 @TrucLe-s7y
 @AshokaNiro
 @GwiazdnaTarczaHFY-k6v
-@WilczeSerca
 @SzeptSłów
 @ZemstazKasią
 @SubtelnaRzeczywistość
@@ -8703,7 +8699,6 @@
 @DezainSensei
 @PremiumBrainrotOfficial
 @best-aiorg
-@drcharledrew
 @Too-Late-Wisdom-Henry-84
 @HerHiddenTruth-Story
 @DomainfilmsA.I
