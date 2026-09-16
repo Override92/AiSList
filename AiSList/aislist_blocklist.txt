@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23566
+! Total Channels: 23576
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23582,3 +23582,13 @@
 @akanaportal
 @technologynextworld
 @ElRinc%C3%B3ndelMisterio-z8c
+@matrixStudio-l7i
+@NXHAIFilms
+@DotaCinematicUniverse
+@CanBuyukberber
+@Noctilion
+@god-r8s3y
+@MAXAIMOVIE
+@electricosdelnorte
+@TatyanaAwesomeAIWorlds
+@Siliconsymphony_ch
