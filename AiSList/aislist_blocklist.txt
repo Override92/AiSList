@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23854
+! Total Channels: 23863
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23870,3 +23870,12 @@
 @Novelora-c5o
 @mydj-77-h7z
 @QueenComebackStories
+@VividTales-k6i
+@WriterMcG
+@MechaArchive-s4m
+@foundry-yt
+@DSM2027
+@SkyRaciing
+@InnovationFrontierTv
+@V2_VLOGV2
+@INNOPULSE1
