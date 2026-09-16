@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23946
+! Total Channels: 23956
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23962,3 +23962,13 @@
 @TheTimeJump
 @POVNexus2008
 @AiAfsanneh
+@Pov.Historic
+@POVTimeTraveler-POV
+@HistoryShortsXA
+@QuackHistory-m5l
+@pov.history1969
+@POVShiftOfficial
+@timelesspov-s7y
+@theminutebefore
+@doomsdaypov
+@DailyMajesticPOVs
