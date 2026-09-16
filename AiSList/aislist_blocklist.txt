@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23504
+! Total Channels: 23499
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3973,7 +3973,6 @@
 @verdadesdemamaypapa
 @ElPrecioDeLaTraici%C3%B3n-n1i
 @beaverstories636
-@albertinoo56
 @historiasdeayerydeahora
 @HistoriasConElenaYT
 @CuentosdeYolanda
@@ -22937,9 +22936,7 @@
 @AiDreamTwistOfficial
 @MayorKingAI
 @AiTopTales
-@TatendaChimbwa-s4w4p
 @Affordabletinyliving
-@AIVisionaryComics
 @HardwareHits
 @davemayfilms
 @thelastframestudiosAI
@@ -22988,8 +22985,6 @@
 @ManhwaMax9
 @LeosManhwa
 @RubysManhwa
-@PinpuMaxsub
-@PinpuCartoon
 @PinpuWebtoon
 @roadlawinsider
 @ahsanurdustudio7299
