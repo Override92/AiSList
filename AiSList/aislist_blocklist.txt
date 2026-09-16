@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23492
+! Total Channels: 23487
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4176,7 +4176,6 @@
 @PathofStillness-t6q
 @NEXTYOU-j3j
 @EconomicHistorianYt-f3e
-@priceandpower
 @MoneyMethod-w5y
 @WealthChronicles0
 @ProudAmericanHeritage
@@ -4215,7 +4214,6 @@
 @KLWARFRONT
 @yougottadowhatyouwannado
 @EconomicPulse7
-@TheMungerAdvisory
 @moneymoves9
 @USAUncovered-786
 @Economy-Explainer
@@ -4735,7 +4733,6 @@
 @techpulse_uk
 @NarrativeStories0
 @unconqueredhistory00
-@hannahtheamishgirl
 @ensenanzasderaydalio
 @norgemilitar
 @crking41
@@ -14209,7 +14206,6 @@
 @radhestudio7340
 @Cielosanador
 @aiuniknepal
-@GAFFAR.AIMUSIC
 @AiSado.Official
 @MusicOfAngels-q4b
 @aannstarr
@@ -16469,7 +16465,6 @@
 @skullify45
 @reddittalesangle
 @nextgenbusiness-26
-@samediaandnewsus
 @theamazinggadgets-i5j
 @textuxtt
 @겟잇픽99
