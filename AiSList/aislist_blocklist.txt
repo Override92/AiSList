@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24027
+! Total Channels: 24022
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10155,7 +10155,6 @@
 @financelecture123
 @FinanceLoreYT
 @FinanceOrbit786
-@financialblueprint_1
 @FinancialDisclosures
 @financialoutline
 @EngineeredAiASMR
@@ -15727,7 +15726,6 @@
 @MeethiSongs
 @CarlCastillo417
 @TenderReason
-@PulseExpose
 @thezenwaychannel
 @BibleAwakening-6
 @CR7Show-YT
@@ -15810,7 +15808,6 @@
 @massiveinside
 @InsidethePlant-g4d
 @Spinoza.philosophy
-@WesterosLore01
 @SecretList-q3q
 @TheLostCodex-c6n
 @thebibleawakens
@@ -16433,7 +16430,6 @@
 @zywa_historia
 @smskjsjw
 @358いろは
-@劇痴迷
 @心动ai剧场
 @浪漫剧场-999
 @短剧-ai
@@ -18553,7 +18549,6 @@
 @oversimplifiedfilms-7
 @marginiq
 @bestlifemovies
-@redditnotes1
 @blindajedivino1
 @chinaconsumerwatch
 @humandecode000
