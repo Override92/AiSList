@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23956
+! Total Channels: 23963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23972,3 +23972,10 @@
 @theminutebefore
 @doomsdaypov
 @DailyMajesticPOVs
+@Real-Travvy
+@JestAi-Official
+@POVThroughTimes
+@StoryFlux25
+@PerspectiveAI
+@FirstPersonHistory4U
+@POVAIWitness
