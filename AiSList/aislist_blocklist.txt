@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23819
+! Total Channels: 23826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23835,3 +23835,10 @@
 @HappyHourTV20
 @Velvet_stories_22
 @Mk_gj
+@vee-deezee
+@ShelterVanta
+@AIRealShortTV
+@AuraCityShorts
+@StarforgeRebellion
+@VampiresEmbraceOfficial
+@gadis.ai.indonesia
