@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23608
+! Total Channels: 23618
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23624,3 +23624,13 @@
 @FONKPROJECT
 @AIFireMusicMedia
 @TheCelticFolkChannel
+@HFY-Univers
+@MorvangionPrime
+@AiFutureFramebyAsim
+@AI_perfect_fantasy
+@aiartbeauty
+@MyreliaEchoes
+@bariminanimation114
+@TheSteadyAnswer
+@RetroShockTV
+@MythReel-GK
