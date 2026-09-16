@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23513
+! Total Channels: 23508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3670,8 +3670,6 @@
 @VIDAESTOICATGN
 @Audiolibrosdealtonivel
 @PSYCOart-E
-@SeniorStepstoHealth
-@Dr.DarienVoss
 @LoliiDrama365
 @ImpressiveNarratives1
 @VerityStories-z7c
@@ -3693,7 +3691,6 @@
 @MillionaireBreakthrough
 @Silkenvengeance
 @QuietStories-real
-@EternalRevenge18
 @ImpressiveStoriesRealEmotions
 @LilySecretStories-r2i
 @Voices_of_Stories
@@ -3706,7 +3703,6 @@
 @RomanticPrints
 @Johan_Andi
 @nana_jianwenlu
-@Dr.CharlesBennettSeniorHealth
 @diariosmedievales
 @Kil%C3%B3metroCeroo
 @MemoriadeBatallas
@@ -18582,7 +18578,6 @@
 @TheLazyGeniusReal
 @Reddit-rina
 @yulianarojas-123
-@interstellarroute-h4j
 @registros-ineditos
 @mnslaw
 @guerreroinmortalnv
