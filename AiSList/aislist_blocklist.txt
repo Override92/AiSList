@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23967
+! Total Channels: 23962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10142,7 +10142,6 @@
 @HOAStoriess
 @HoaStoriessLab
 @HOAStoriesUS
-@HOASTORYFiles0
 @HOAUncovered-US
 @HOAUntoldTruths
 @Jeanne-AIASMR
@@ -15644,7 +15643,6 @@
 @LovingKingdoms
 @CottageDreamsd
 @byte-b2
-@JunoBless1
 @Primach-Protocol
 @GreenbloodStories
 @greenhealerss
@@ -15659,7 +15657,6 @@
 @Built_to_Fail-r3q
 @OldBeekeeperSecrets
 @TheBlueZoneWay
-@AKStories-s9d
 @BeyondtheUniformqsxe
 @KindnessTales-k8j
 @UrbanAutoVisionary
@@ -19030,14 +19027,12 @@
 @welcome-e7l6o
 @MagicalRelaxingTerritory
 @Windowstheworld
-@TheSingularityIsComing
 @TheDollarPilot
 @SnackableTrivia
 @CashFlowLab-TV
 @TheEtherealWisdom
 @Professor_Mass
 @UNIQUETIME_BD
-@ChinaInsider-tv
 @Ancient_Signal000
 @CollapseTheoryUS
 @SpaceXInsider247
