@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23878
+! Total Channels: 23873
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5984,7 +5984,6 @@
 @MoleHunt25
 @warandwealth-x5k
 @themoneyyillusion
-@ClarkAnalysis
 @BarefeildStories
 @LucyLorthobrok
 @TheTechLogYT
@@ -8168,7 +8167,6 @@
 @World-Explained-Hub
 @CrisisinPerception
 @BeforeYouRegretIt-l2u
-@Noor-c3x4d
 @CognitechLabs
 @ConsejosDeMecanicaPlex
 @TruckDissected
@@ -8185,7 +8183,6 @@
 @Investors-Compass-1
 @SmartMoney-Journal
 @ValueInvestor-Lab
-@BerkshireMindset
 @Smart-Money-Blueprint-1
 @Wealth-Philosophy
 @Synthetic-Sage-1
@@ -8698,7 +8695,6 @@
 @DezainSensei
 @PremiumBrainrotOfficial
 @best-aiorg
-@Too-Late-Wisdom-Henry-84
 @HerHiddenTruth-Story
 @DomainfilmsA.I
 @CosmoRyderTributes
@@ -18965,7 +18961,6 @@
 @aiuseLife
 @AiPresidentChats
 @SmartKidsAi-98
-@xprostudioofficial0
 @BibleStorytimeForChildren-1
 @Faceless-Folklores
 @ai_tunnel
