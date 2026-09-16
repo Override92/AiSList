@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24028
+! Total Channels: 24027
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9352,7 +9352,6 @@
 @j2-industries
 @ourlishi
 @reconstrucaohistorica
-@talesbywaveandhealth
 @AncientChinaChronicles
 @BeforeCivilization-01
 @Buried.Empires
@@ -15697,7 +15696,6 @@
 @elsalanger7396
 @XploreWorldPlanet
 @SoftShadow-12
-@December97
 @CrazyDreamASMR
 @358%E3%81%84%E3%82%8D%E3%81%AF
 @shankarsharma1838
@@ -16433,7 +16431,7 @@
 @velvetromance6260
 @echoesofvalor3
 @zywa_historia
-@redditnotes_0
+@smskjsjw
 @358いろは
 @劇痴迷
 @心动ai剧场
@@ -24044,3 +24042,4 @@
 @neural-films
 @AncientNoiseOfficial
 @jadearcadex
+@whispranks
