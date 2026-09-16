@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23562
+! Total Channels: 23557
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4836,7 +4836,6 @@
 @forensicmacro
 @psy_dubby
 @FinoreaOfficial
-@TruthBehindEconomics
 @TheAlphaBrief
 @WalletBrief
 @WallStreetSketchbook
@@ -12081,7 +12080,6 @@
 @ArmyWings-e2g
 @USHistoryChannel
 @WartimeMilitaryPodcast
-@missilezoneofficial
 @marcomonja-m6v
 @TheForbiddenVault-tv
 @D_m_Y_00
@@ -19755,7 +19753,6 @@
 @MorphitectAI
 @ASMRVehicleRestorationHub
 @AmanSharma-gx1zm
-@BHaiworld143
 @Chill-RnB-Dreams
 @OpenBeat_Studio1192
 @HeartglowTales-k4b
@@ -19782,7 +19779,6 @@
 @NoirCrown_Studios
 @dramablend-tk
 @KROOVE_records
-@UncleHarrisonTales
 @DadsColdRevenge-t4z
 @Chidimma-u6c
 @kayladavisstudio
@@ -19805,7 +19801,6 @@
 @MAFIABOSSSTORY-y2g
 @Anastazia0_0
 @secretromance123
-@HFYChronicles-p5r
 @HumanityUnleashed102
 @HFYSolarArmada
 @ImperiumPAG
