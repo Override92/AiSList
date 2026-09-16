@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23487
+! Total Channels: 23482
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19641,7 +19641,6 @@
 @BoldEyes-k3z
 @godseekers_co
 @TheInvisibleLadderUS
-@TheDecisionRoomYT
 @TheArchetype2303
 @ZylosTales
 @Kweshfolktale2
@@ -19649,7 +19648,6 @@
 @Jenniefolktale
 @SweetestAfricanfolktales
 @Farvi_storyteller
-@LaLaMan66
 @SiliconStories-j5t
 @DerelictDreams
 @animestarrecaps3418
@@ -23010,7 +23008,6 @@
 @NedTalksBusiness
 @Sonny_Finance
 @ownersofficial1
-@PeakPsychologyYT-1
 @TheCapitalExplained
 @TheSurvivalMind-off
 @DeepCutsDeepThinking
@@ -23025,11 +23022,9 @@
 @BeneaththeBridges
 @johnww2-t8d
 @Clipflippov
-@FinancialCrux
 @Planet_Brief1
 @soulverdict-w1r
 @SoulTales-r2y
-@CapitalCurrents-d5n
 @NexusWarRoom
 @PatinaYT1
 @goldenlibraryaudiobooks
