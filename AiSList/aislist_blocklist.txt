@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23529
+! Total Channels: 23539
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23545,3 +23545,13 @@
 @AiStudio48
 @MemoriasdelaBiblia
 @WesterosFilmsAndBeyond
+@TalesofArdaa
+@Thenoir.Catroom
+@GenderForge
+@PostZone-h6p
+@slopmaxxed
+@E_E_Leader
+@AIMovieSnap-NetShortOfficial
+@iA-ction
+@ParallelVisions-m4e
+@%E4%BB%99%E9%9F%B3%E5%8B%95%E7%95%AB
