@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23689
+! Total Channels: 23698
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23705,3 +23705,12 @@
 @Bk.SHIKATA
 @VelvetCafeMusic
 @Moonlitfocusmusic
+@CinematicPre
+@Echoes-of-Glory-Online
+@WildTaleOfficials
+@hitonotemusic
+@Baize031
+@the_hills_ancient_adventures
+@RainyTokyoLofi-h2n
+@DraftID
+@ROBOMETALofficial
