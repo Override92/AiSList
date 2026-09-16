@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23494
+! Total Channels: 23504
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23510,3 +23510,13 @@
 @GidoAiTv
 @2DAfricanTales
 @Tony_XAnimationStudio-s1m
+@The_Untold_Feed
+@Aibeyondthepages
+@TalesTwists-q9x
+@ndukaStudios
+@TalesbyJaylasMum-e5c
+@MoonlightAfricanTales-k5h
+@EchoesFolktalesHQ
+@ComeSitLetMeTellYou
+@storystorybylulu
+@fatibobofilms
