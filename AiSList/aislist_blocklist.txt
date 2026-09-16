@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23518
+! Total Channels: 23513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3670,7 +3670,6 @@
 @VIDAESTOICATGN
 @Audiolibrosdealtonivel
 @PSYCOart-E
-@ConsejosdeSaludsinEdad
 @SeniorStepstoHealth
 @Dr.DarienVoss
 @LoliiDrama365
@@ -3821,8 +3820,6 @@
 @LostGenre
 @StoriesOverCoffee-v6e
 @ai.darkhorizon
-@givegitamukti
-@cutecat895k
 @movie_shortssss
 @hfy_en_espanol
 @derracheresp
@@ -8641,7 +8638,6 @@
 @Geschichten-c3n
 @Timesuptheseries
 @szimessiah9442
-@Health_FocusHub
 @HowStuffRuns-m5s
 @MuhammadIrfan-b8d1o
 @factoryvids24
@@ -8652,7 +8648,6 @@
 @HiTSmymessage
 @SeniorHealth_health
 @ExpertFida
-@GoldenAgeNutrition_999
 @Ella_Rey
 @primitivecooklife
 @FactoryProductionProcess-g1x
