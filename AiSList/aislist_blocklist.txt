@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23770
+! Total Channels: 23780
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23786,3 +23786,13 @@
 @TansenBluesClub
 @KarmaDramaStories-j8n
 @KarmaNeverForgets-p1y
+@AxisStudio-q3e
+@TheSilentQueen-US
+@TheQueenReturns-US
+@TheComebackQueen-US
+@BlackDiamond-US
+@TheDarkQueenUS
+@QueenRevengeStories
+@satisf-o2z
+@AncientRomanceDrama
+@SAKURACinematicViolin1607
