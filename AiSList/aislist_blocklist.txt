@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23916
+! Total Channels: 23926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23932,3 +23932,13 @@
 @HistoryXposedOffical
 @AIHystoryPOV
 @quietude_studio
+@HouseofRevenge-i2b
+@CombatStories-v3s
+@FilipinoStoriesUnveiled
+@EpicCoCTrials
+@Povpoint-b6v
+@HyperRealPOV
+@pov_archive_project
+@Harami_Bilota_Show
+@Histoairy
+@blackEagle_Gaming47
