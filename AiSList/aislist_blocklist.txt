@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23603
+! Total Channels: 23598
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8795,7 +8795,6 @@
 @HistoriaPrime1212
 @Judge_Reacts
 @KevinRetires
-@MasterPOVs
 @MidModMusic
 @NOFUNNYLINES
 @SciFiGraveyard
@@ -12079,7 +12078,6 @@
 @ArmyWings-e2g
 @USHistoryChannel
 @WartimeMilitaryPodcast
-@marcomonja-m6v
 @TheForbiddenVault-tv
 @D_m_Y_00
 @AlexBestDigital
@@ -16461,7 +16459,6 @@
 @nextgenbusiness-26
 @theamazinggadgets-i5j
 @textuxtt
-@겟잇픽99
 @velvetromance6260
 @echoesofvalor3
 @zywa_historia
@@ -19799,7 +19796,6 @@
 @MAFIABOSSSTORY-y2g
 @Anastazia0_0
 @secretromance123
-@HumanityUnleashed102
 @HFYSolarArmada
 @ImperiumPAG
 @TheMoonlitInnStories
@@ -20117,7 +20113,6 @@
 @globalwarzone-y6r
 @pashtify
 @luma_baby_vlog
-@stickmanexplains-t2r
 @foodfact012
 @devgatharahasya
 @udincreator.ai.business
