@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24017
+! Total Channels: 24012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13329,7 +13329,6 @@
 @DeepEpoch-c3c
 @ThePriceExplainer
 @katastrophen.offiziell
-@VerborgeneEpochen
 @Verlorene_Urspr%C3%BCnge
 @Zeitfl%C3%BCstern0
 @brycecarneviller
@@ -13343,7 +13342,6 @@
 @RastenburgProductions
 @parodytrailerSG
 @ranking.menace
-@YuriWithFury
 @Fed_Up_Podcast
 @BigfootFeed
 @WW2DecodedChannel
@@ -17466,7 +17464,6 @@
 @leocatley
 @aiflashversex
 @evuary
-@aibeauty11-vq9qb
 @runvyr
 @foodcraftworld-208
 @shaizycoco
@@ -18087,7 +18084,6 @@
 @Voicesoftheancestor_s
 @ajenetvofficial
 @GriotsofMotherland
-@The.First.gods.official
 @Glimmer-t9y
 @GentleWavesMusic421
 @AstralDimensions-Official
@@ -18250,7 +18246,6 @@
 @人间故事會
 @百味故事會-888
 @epicaistudioofficial
-@dr.michalnowak
 @asktemmystories
 @animalsandnature001
 @memenovafood
