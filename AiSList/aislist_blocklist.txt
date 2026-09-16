@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23762
+! Total Channels: 23761
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5663,7 +5663,6 @@
 @WWarChronicle
 @RedInk_History
 @WarDeadeye
-@WW2TalesArchive-m1v
 @WW2Diaries
 @ShadowPioneers-j9q
 @WW2_Diaries_US
@@ -14295,7 +14294,7 @@
 @TheFalloutLeo
 @FAMENOOK-d6x
 @FuriFuwa
-@chollayo
+@botversetalesyt
 @legoutdelaprovince
 @savoirscaches94
 @minidreamlet_ai
