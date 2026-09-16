@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23644
+! Total Channels: 23651
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23660,3 +23660,10 @@
 @BehavioralCipher
 @DeadNetTheoryYT
 @Ignis_Umbra
+@PopGoesHeavy
+@focusandsoundscape
+@midzury
+@IGBETACINE
+@Dream_verse_story
+@Kimy_K_AIMusic
+@Mortonlab
