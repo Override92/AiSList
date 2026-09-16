@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24020
+! Total Channels: 24015
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1512,7 +1512,6 @@
 @ainimalrescue
 @untamedrescuesyt
 @njstoryofficial
-@animalrescuemoments-g1s
 @wild-relief
 @dogtotherescue
 @ricoshortsai
@@ -1570,7 +1569,6 @@
 @crystal_cut-7
 @asmr-content012
 @glassfruit-asmrvibes
-@crystalush_asmr
 @crystalcutvibe
 @satisfyingasmraivideos1
 @oddlycravingasmr
@@ -1585,7 +1583,6 @@
 @foodflowasmr
 @aivideoasmr-n2k
 @aiasmrsatisfying0009
-@fruitcuttingasmrai-e3n
 @ai-aassmmrr
 @asmrofficial_ai
 @eripu-f7j
@@ -1606,7 +1603,6 @@
 @slicesyncai
 @aiasmrbyfarhan
 @asmrify-t7m
-@mindstreamasmr
 @aiasmrandcutting
 @rankrelax
 @soothingasmr-j3n
@@ -16800,7 +16796,6 @@
 @ageborne
 @thecatmythos
 @OriginExplorer-u3g
-@apophis-o3f
 @Mythical-Storyteller1
 @OfficialVaralaruVerse
 @MythicChronos
