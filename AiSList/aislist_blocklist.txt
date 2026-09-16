@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23748
+! Total Channels: 23757
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23764,3 +23764,12 @@
 @BearASMRStudio
 @AIChatNews
 @curioLensProduction
+@LoriHeder
+@drachenundb%C3%BCrokratie
+@Animeition-man
+@TahaAutomationOCB
+@Sci-FiHFYStories-d7v
+@HumanityUnleashed-v7w
+@ai_oracle-i5i
+@time.machine.pov1
+@POVAdventuresAI
