@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23844
+! Total Channels: 23854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23860,3 +23860,13 @@
 @VoidFrameOriginals
 @EverdreamAI
 @HouseofHer9986
+@GLsphere
+@MissG15th
+@JAPANAHEADing
+@agapiselogia
+@LYG-Anime
+@DennisFarleyDiscovery
+@FateRushTV
+@Novelora-c5o
+@mydj-77-h7z
+@QueenComebackStories
