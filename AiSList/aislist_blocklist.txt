@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23729
+! Total Channels: 23739
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23745,3 +23745,13 @@
 @oddorbitshorts
 @war-s1y
 @TheLumioraAIVlogs
+@Lucifer_Ai_Edits
+@SceneVisionLab
+@ChronoVerse_AI
+@POVWizard-n6k
+@AIEasy111
+@TheLostAICamera-OV
+@mahmodakram6281
+@UrPreet44
+@AlpiFlix
+@Ai_Story-z7d
