@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23557
+! Total Channels: 23566
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23573,3 +23573,12 @@
 @SecretSymbiosis
 @ValorSniperStories
 @VelvetTruthsHT
+@goodmorning-AIStudio-8channel
+@PaintManiac-u5v
+@HollywoodAiTrailers
+@TinetoNutecingy
+@HyperChromeFlux
+@OrientalJupiter
+@akanaportal
+@technologynextworld
+@ElRinc%C3%B3ndelMisterio-z8c
