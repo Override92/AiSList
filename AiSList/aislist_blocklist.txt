@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24026
+! Total Channels: 24035
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24042,3 +24042,12 @@
 @Mr.DanielStories-u2p
 @NurseryKidsAI_Offical
 @glee_a.i
+@AIHoldMyBeer
+@TheFamilyVerdictRoom
+@MdakhtarUzair
+@sullenbrookstories
+@HardHittingHymns
+@MomoCuteKittens
+@WhiskerVerse-k4r
+@AIFaithJourney
+@rhythmandbible
