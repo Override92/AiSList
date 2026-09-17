@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23979
+! Total Channels: 23976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4984,7 +4984,6 @@
 @DisrespectHasaPrice
 @StillWaterRevenge
 @RevengeFiles-g3x
-@RevengeScriptruhan
 @Revengejournal
 @FamilialStoriesExposed
 @revengetrip97
@@ -10505,7 +10504,6 @@
 @theshantycompass
 @heartofcountrystories
 @monkeylogiclab
-@blindself
 @vibetune93
 @smarthealthyseniors
 @glory-builds
@@ -10871,7 +10869,6 @@
 @softeraser-m7h
 @HanxAIx
 @OverWheelsYT
-@behindthedossier
 @LEGALEXPOSUR3
 @cheatsandchancers
 @StoriesbRevenge1
@@ -11716,7 +11713,6 @@
 @neurodisciplinabl
 @雨の隠れ家
 @tyhealthylivingdaily
-@silentwaters-tv-edu
 @battlefieldlegends9
 @capitalalert783q2q
 @돈의추적자
@@ -23995,3 +23991,4 @@
 @rankmychaos
 @news_today001
 @zedmax-ai
+@waterbamboohealing
