@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23948
+! Total Channels: 23958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23964,3 +23964,13 @@
 @RootsRevivalMusic-j7m
 @ViralBeatsAI
 @ByteBeat_Lab01
+@MicPROStudios
+@cliquebeats
+@ReggaeVibesHub
+@Muzek-t1z
+@CarribeanPopReggae
+@ChorusGarden
+@NeonBeatz-b2n
+@ZelorionMusic
+@MotifKabe
+@ANIMESAI-t7o
