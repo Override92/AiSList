@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23970
+! Total Channels: 23969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5096,7 +5096,6 @@
 @RevengeBoltUs
 @RevengeInferno
 @EbonyEchoesstories
-@QuietConfessionsYT
 @HeartfeltBetrayals
 @RiseAfterBetrayal
 @luckycoincidences
