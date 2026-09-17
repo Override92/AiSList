@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24521
+! Total Channels: 24531
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24537,3 +24537,13 @@
 @StoryGalaxyAi4
 @ToonTickle-AI
 @AICrearation
+@StankyChickenAI
+@PetZen-Studio
+@AlisaASMRai
+@TwigandbarkASMR
+@aiAsmr-Studios
+@AstrionAI
+@AIASMRTherapy
+@SatisfyLabTV-asmr
+@AuraStudioASMR
+@MotionStudio-650
