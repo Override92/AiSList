@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23968
+! Total Channels: 23977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23984,3 +23984,12 @@
 @musicas_IA-BR
 @State_of_Invincible
 @AnimatedChronicles2025
+@Jason-productions
+@MyrhaelAIOriginals
+@ALEXSOUND500
+@MJXSCAPADE-MIKEFLIX
+@AIMusicVibes01
+@BeatBloomSong
+@Filip.C_1
+@MoonsRomanceCollection
+@ForbiddenLovereel
