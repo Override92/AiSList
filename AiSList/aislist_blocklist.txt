@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24103
+! Total Channels: 24110
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24119,3 +24119,10 @@
 @DeeLoversArchive
 @PERIODLOVEANDROMANCE
 @TheHiddenDukeChronicles
+@BehindtheCopperDoor2
+@TheSovereignLie
+@VelvetDukeRomanceLibrary
+@TheRoyalQuill-w9q
+@Toddlertale-d5v
+@SYMR-YT
+@BongAIShow
