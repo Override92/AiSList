@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24494
+! Total Channels: 24504
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24510,3 +24510,13 @@
 @NillsAIHub
 @MZEYES-3
 @SQDreamyGirlAI
+@animated-aura-10
+@AIPlantWorld-007
+@SeedtoTreee
+@Aihomegeniuss
+@Petalloop_asmr
+@EarthTalesWorld
+@AiQueenx
+@Bloom_verse2
+@earthof_ai27
+@MacroGardenAI
