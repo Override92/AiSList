@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23984
+! Total Channels: 23979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4823,7 +4823,6 @@
 @metalandmacro
 @SilentLedgerHQ
 @FinanceDailySilverUpdates
-@EconomicandPolitic
 @RecapandExplained
 @EndlessEconomies
 @HappysaBanna
@@ -4865,14 +4864,12 @@
 @sakoondill-x4m
 @mrsadhnaai
 @punchjapan
-@mrjkvloger1
 @exploringaustraliah
 @visionx4kpro
 @thebloodlaws
 @gamer-ps5pro
 @dzikizachodhistorii
 @kowbojskamilosc
-@jesusmysavior-p3m
 @SiliconDreamsASMR
 @FjordHarmonies
 @EternalFantasySounds
@@ -11294,7 +11291,6 @@
 @Unrote
 @AsianAncestry
 @PhantomGB
-@fansdrWilliamLI
 @BruceLeeUntoldLegacy-x8y
 @Robotechmacrossstories
 @fathertoyland
@@ -16160,7 +16156,6 @@
 @HoneyBunny25299
 @TIMEVERSEx0002
 @toolstack-ai-ai
-@thesixtyclub
 @bhaktiytaman_yog
 @semir-at
 @CaseXplain
