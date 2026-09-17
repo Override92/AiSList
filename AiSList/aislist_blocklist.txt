@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24249
+! Total Channels: 24259
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24265,3 +24265,13 @@
 @Uscraftlab
 @teatime_bl
 @yamyi_tv
+@BL_ABOStories
+@TheBluebirdHourBLAudio
+@AlphaObsession1
+@Novelasgay
+@AlphaxEnigma
+@PALtae
+@DarkBlueSymphony-b2f
+@LacasadelBL-f2d
+@KeBLStories
+@LegacySwitchStories
