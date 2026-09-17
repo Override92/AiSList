@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23958
+! Total Channels: 23968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23974,3 +23974,13 @@
 @ZelorionMusic
 @MotifKabe
 @ANIMESAI-t7o
+@AiTuneStar
+@VIVOloves
+@UDIOLOVEAI
+@GrapeMusic777
+@MJ_Music_AI
+@RELAXINGNIGHTBED
+@Aimusic_legends
+@musicas_IA-BR
+@State_of_Invincible
+@AnimatedChronicles2025
