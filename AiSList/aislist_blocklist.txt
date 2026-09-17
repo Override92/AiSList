@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24264
+! Total Channels: 24259
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5993,7 +5993,6 @@
 @RabbiNaomiTheTorahLifeStrateg
 @qaramood
 @timeory
-@AGFallout
 @LudzkieLegendy
 @LASTV86
 @ThriveTribe104
@@ -6048,13 +6047,11 @@
 @IrinaKuznetsova-u4e
 @TheMonetarySignall
 @Financialhistoryuncovered
-@Archivefinancial
 @BayVienNgocRongVN
 @malvaAI
 @HardwareInsider
 @rawrustrestore
 @seniorrevengestories
-@jamunasq
 @bkcrypto-l2e
 @warhournews
 @behindhoastories
@@ -17115,7 +17112,6 @@
 @NobleStorybook
 @NobleLoveStories-u2k
 @Schattenlegenden-t6o
-@costofcommand
 @MafiaLegenden
 @Soul-Whisperer-MiniMelodies
 @ColdFamilyJustice-h2z
@@ -17132,7 +17128,6 @@
 @AISingsHardJ-POP
 @%E9%A0%88%E9%87%8E%E9%AB%98%E6%A0%A1%E8%BB%BD%E9%9F%B3%E9%83%A8
 @OfficerExposed
-@DrThomasReed
 @Veyra-006
 @masjatika
 @digidoc.production
