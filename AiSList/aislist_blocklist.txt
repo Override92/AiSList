@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23944
+! Total Channels: 23943
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1263,7 +1263,6 @@
 @pigeon_ai-s8k
 @pigeonanimationcartoon
 @anaskhan-h6h5z
-@pigeon_ai_6
 @aipigeonanimation123
 @bxshorts1250
 @aiviralshorts-official
