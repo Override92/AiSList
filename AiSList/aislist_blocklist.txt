@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23996
+! Total Channels: 24006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24012,3 +24012,13 @@
 @Unrealideas
 @TheLiminalGarden
 @Bosa_kreatives_Ai_Art
+@Hybrilo
+@bantutreesounds
+@aiartingme
+@surrealmorphai
+@oriensaiart
+@aimastersofart
+@FairyTV-Europe
+@JotakarloArtAI
+@SynthreelAI
+@SoothingDreamASMRAI
