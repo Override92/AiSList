@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23969
+! Total Channels: 23964
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5153,7 +5153,6 @@
 @DailyFinance-q9e
 @OGJOHNAG1990
 @ourjohnag
-@YourJohnAGInvestments
 @CrystalMindAudio
 @MacroShieldMethod
 @UnsolvedEvidence1
@@ -5199,7 +5198,6 @@
 @codeofBikers
 @ThinkPhysicsLikeFeynman
 @PhysicswithFeynman
-@masterpeace_clips
 @ThinklikeFeynman
 @FeynmanFlux
 @Feynman_Lab
@@ -9467,7 +9465,6 @@
 @DarkOathBoss
 @DaxonCreed
 @dionnaznidar3499
-@doktorczajka
 @DominanceBlueprint9
 @DrowsyHistorianOfficial
 @drspicecollection
@@ -14315,7 +14312,6 @@
 @SmartSindaraandFriends
 @AfricanTalesstudio-w3u
 @AfricanTalesByOmalicha
-@WhispersofSmallTowns
 @AuroraTales-i9q
 @groovesalon
 @theancientafricafolktales
@@ -17517,7 +17513,6 @@
 @iNews_Magyarorsz%C3%A1g_info
 @Vard-Ges
 @ClassicCroonersRevival
-@Dr.AdamWo%C5%BAniak
 @AlienVerseStories
 @HumanityUnleashed73
 @OG-AIanimereels
