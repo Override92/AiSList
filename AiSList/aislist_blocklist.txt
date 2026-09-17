@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24220
+! Total Channels: 24218
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8396,7 +8396,6 @@
 @Raggae-BGM
 @EchoesSoundLab
 @TokyoJazzNight
-@wowreborn
 @Industara
 @RebuildX9
 @Buried_History_with_Jonathan
@@ -16148,7 +16147,6 @@
 @Midnight_Noir_0
 @gguanmusci
 @africasforgottentales-m9e
-@mohsindigitaltv
 @山海a049
 @剧诱惑
 @heartbeatsignalstation
