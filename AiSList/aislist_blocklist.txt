@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24267
+! Total Channels: 24272
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24283,3 +24283,8 @@
 @TheCowboyChronicle-w5y
 @TheMafiaCode-n9d
 @Romance-Bytes
+@LovePetalsStories
+@OnlyVampireRomance
+@FrontlineEchoes-c4c
+@KoreanMafiaHeartStories
+@TheMafiaStories9
