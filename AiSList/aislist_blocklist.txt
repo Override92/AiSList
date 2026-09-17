@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24272
+! Total Channels: 24282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24288,3 +24288,13 @@
 @FrontlineEchoes-c4c
 @KoreanMafiaHeartStories
 @TheMafiaStories9
+@DigitalTearjerker
+@AfroKoreanTales-f2o
+@VictorianLoveStories-i4f
+@LordsAndDukes
+@LadyGenevieveStories
+@ElenaNarrates-k8k
+@AliceLoveStories
+@EmiliaRomanceLibrary
+@crimsonsecretsstories
+@MafiaDarkRomance
