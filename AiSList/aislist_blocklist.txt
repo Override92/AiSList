@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24035
+! Total Channels: 24045
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24051,3 +24051,13 @@
 @WhiskerVerse-k4r
 @AIFaithJourney
 @rhythmandbible
+@EpicChristianRock
+@Devoded-christian-metal
+@RedLetterElectric
+@NewChristianRap2025
+@aiharmonixup
+@ArtOfficialIntelligenceProds
+@TheDigitalTemptation
+@AIWorshipMetal
+@JesusPeaceDaily
+@Grace_Generated
