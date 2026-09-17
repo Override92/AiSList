@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23960
+! Total Channels: 23955
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1036,7 +1036,6 @@
 @t_ai_x
 @relax-journal
 @gigglebots-k2i
-@bravogaming-ik7bw
 @clipverseofficial98
 @whiskerwheels_12
 @funnyandcutecat8k
@@ -1090,7 +1089,6 @@
 @aicutecat-w8k
 @meowcatsai-24
 @catai-54
-@aicat_fusion
 @aicatmeowmotion
 @ai-cat168
 @aicat-movie
@@ -1128,7 +1126,6 @@
 @aicatshorts-k9w
 @amazedwitme
 @meowcatsshorts143
-@loverof_cats143
 @uldwifa
 @animalcutiz
 @uniquevlog-s6c
@@ -9494,7 +9491,6 @@
 @MVPStoriesSG
 @MyBetrayalDiaries
 @NotTodayKaren-m4s
-@officialwealthexplainer
 @PROCESSMOTION9
 @RedditChronicles-p3q
 @RedditTalks095
@@ -18192,7 +18188,6 @@
 @bedtimestories.forsleep
 @DesertSleepStories
 @CalmStoriesKindSongs
-@Wealthafterwork-l1j
 @Locketledger
 @VisionaryHistory-n6h
 @cutversee
