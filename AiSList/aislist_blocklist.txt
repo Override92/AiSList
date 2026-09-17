@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23949
+! Total Channels: 23944
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14479,7 +14479,6 @@
 @AUNTIENKAY
 @AfricanTalesbyVictoria
 @nextgoaltips-b1b
-@dailydetour-101
 @StoryWeaver-OO
 @Flarestoriesglobal
 @AnanseFriendsOfficialTV
@@ -14491,7 +14490,6 @@
 @Storydelight-r1s
 @MercyAfterMidnight22
 @AfricanProverbFilms
-@Talesbytechymom1
 @AnkMediaSix
 @TalesbyEmma-y5x
 @talesbynifemi
@@ -16969,7 +16967,6 @@
 @AMALA_Afro-Soul
 @TheSecretScoreLegacy
 @reddit_twist0
-@mercybiomedia
 @EdwardResurrectsHistory
 @Bodha-Origins
 @HistoryDecode6
@@ -18482,7 +18479,6 @@
 @willwavyproductions
 @DipakJawre
 @SupriyaTechTalks
-@ChicOnChain
 @GolpoSphere_real
 @TheParallaxShift
 @DadsRevengeStoriesUS
@@ -19666,7 +19662,6 @@
 @talesbybibaa
 @antidotebwoyke
 @aloocartoonworldofficial34
-@siravlogs-s3y
 @sofialoveaudiobooks
 @jasonandmichellestorytales2
 @biborantv_music
