@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24322
+! Total Channels: 24331
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24338,3 +24338,12 @@
 @darii-f6b
 @BrainrotPartyHQ
 @tontonton-touchan
+@EchoesThroughTime-AI
+@Mr.VincentStories
+@Mr.HarrisonStories-s1n
+@AmericanLoveTales-h7n
+@Biestories1
+@Tochimovie
+@Echoesofmama
+@TalesbyGlowracleOfficial
+@PeachPuffDrama
