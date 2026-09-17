@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23989
+! Total Channels: 23990
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2739,7 +2739,6 @@
 @MindFactsOfficialGLB
 @WRCExplained
 @Core_Sight
-@MusstWissen
 @DjMakinetor
 @ezmaniac
 @BritfoodRewind
@@ -24005,3 +24004,5 @@
 @creativeebanobe
 @muftprachar
 @umsatzde
+@ryanbrooksai
+@rankmychaos
