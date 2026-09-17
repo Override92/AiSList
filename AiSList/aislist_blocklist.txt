@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24084
+! Total Channels: 24093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24100,3 +24100,12 @@
 @MindRiseStories-p7m
 @Tonimafiastories
 @BlackTalesToday1
+@MafiaHeartStories-r6b
+@kfantasy-fiction
+@CrimsonMafiaStories-i6g
+@MafiaDiariesUntold
+@AmericanHomeVoices
+@FATHERSBOLDREVENGE
+@Revengely-k9r
+@ScandalousHearts-t9m
+@FFOCUSDrama
