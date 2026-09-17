@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24259
+! Total Channels: 24269
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24275,3 +24275,13 @@
 @TheOmegasEra
 @SmallStudio3
 @bananaluv
+@blhaven-rm
+@VelvetBladeStudio
+@ALPHAOMEGA-US
+@MoonkightMotion
+@K_BeeeLOriginal
+@BLForbiddenLove
+@BLHeartstringsStories
+@TheCowboyChronicle-w5y
+@TheMafiaCode-n9d
+@Romance-Bytes
