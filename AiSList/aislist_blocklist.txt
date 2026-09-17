@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24506
+! Total Channels: 24501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6211,14 +6211,12 @@
 @seniowellnesshub-m9o
 @DrSarahMitchell60
 @DrNaritaHealth
-@InnerRootsYT
 @VitalityHealth101
 @SeniorCareConnection
 @TheNutritionCode-j6w
 @purelyhealth-tips
 @HealthFixNow
 @senior-healthblog
-@Dr.MichaelHarrington-z4i
 @HealSphereWithAndrew
 @NomNomicsYT
 @SeniorFoodBlog
@@ -11100,7 +11098,6 @@
 @rumibembem
 @KATLOVEAI
 @Kapandascat
-@AIInsights-v1o
 @AIMeow1.0
 @BabiesCatFamily
 @HFYSciFiPulse
@@ -11403,7 +11400,6 @@
 @Oddly-AI-26
 @AIbabybites-009
 @RisaafASMR461
-@BabyBerrystudio-p3i
 @AI-ASAMR13
 @fruitybabies3d
 @SoftyASMRSA
@@ -19914,7 +19910,6 @@
 @aihit2026
 @melodyenglish1
 @mapapolitycznaswiata
-@alphakingtimeless12
 @labintales
 @BritishNavalHistory
 @ForgottenNavalHistory
