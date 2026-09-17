@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24556
+! Total Channels: 24566
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24572,3 +24572,13 @@
 @BubblesPopStories
 @TenderFeelings-i3s
 @blacklegacychronicles9909
+@BillionaireTales-q2t
+@verdixgarden
+@Aitoons100-m8h
+@HealthyGuruAI
+@AIVeggieToons7
+@SeedtoBloomUs
+@aiclub-111
+@AIWonderWorld-h9k
+@AIPixZentra
+@evorixlab
