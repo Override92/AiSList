@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23994
+! Total Channels: 23989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2624,7 +2624,6 @@
 @catmeow-u4n
 @cutecats_246
 @funnycat-ai
-@funnycats-y5o9b
 @cats_ai143
 @worldofcatai-y3y
 @catkitty-2
@@ -2674,7 +2673,6 @@
 @cartooncartoon-e2p
 @john_the_ai_creator
 @anizyra
-@ai_comedy-0.9
 @meowverse-aii
 @catarmy-h
 @meowmotion-y4r
@@ -2709,7 +2707,6 @@
 @Silentnotionss
 @BitterJustice-p3w
 @Redditsphere002
-@BearTales-l2u
 @RedditKarmaStories-c9m
 @ReddXYZ
 @PrimeStory_Lab
@@ -16122,7 +16119,6 @@
 @GotowinawszystkoPL
 @TinyFoodFactory2338
 @AITravelDiaries
-@Dr.Nowak26
 @CapitalChronicles99
 @DhanResearch
 @SUGOIYOOHTANI%E4%BC%9D%E8%AA%AC
@@ -17449,7 +17445,6 @@
 @fanpagepulsetunez-w4n
 @ByteKnow
 @akiyama-design
-@littlechef64
 @mertwla
 @minifood125
 @aiveggieverse1
