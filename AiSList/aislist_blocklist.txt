@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23964
+! Total Channels: 23961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5266,7 +5266,6 @@
 @EvolutionEditsMAX
 @ronrose7727
 @AlexWhitner-d5h
-@agjonog
 @Oczamiwojownika
 @AIBibleTimeWithSam
 @Kofi_Ama26
@@ -9489,7 +9488,6 @@
 @imretronow
 @InnovationUncovered
 @IronAcre
-@itsthedollarlab
 @Kilowow-h9k
 @KindnessCornerStories
 @KnowTechGlobal
@@ -18196,7 +18194,6 @@
 @DesertSleepStories
 @CalmStoriesKindSongs
 @Wealthafterwork-l1j
-@maidanddukestory
 @Locketledger
 @VisionaryHistory-n6h
 @cutversee
