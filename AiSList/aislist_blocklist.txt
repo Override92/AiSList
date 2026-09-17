@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24292
+! Total Channels: 24302
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24308,3 +24308,13 @@
 @DarkThrone-f9o
 @MoonlightStorytime-s7g
 @Karumba-254
+@ObaTales
+@Oasisaistudio
+@Funnnimals
+@alabitech29
+@AfrikanTalez
+@AnitaChocolate_Africantales
+@SarahOsagieStudios
+@Vivistories-e6r
+@AfricanTalesbyJudith
+@TlayahAI
