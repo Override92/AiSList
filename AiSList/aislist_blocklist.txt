@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23990
+! Total Channels: 23985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2747,7 +2747,6 @@
 @policeauditauthority114
 @aurarefusalid
 @publiceyeaudits
-@idrefusalrights
 @realrawaudits
 @uk_copsexposed
 @gulfcoastaudits
@@ -9010,7 +9009,6 @@
 @TheArchiveofWhispers
 @dadsrawrevenge
 @TheGlobalLens123
-@TheKaizenFix1
 @MobileAlert-p4v
 @LostMethodsArchive
 @TruthAwakens1
@@ -10853,10 +10851,8 @@
 @LicbeAIMedia
 @storiainfabbrica
 @LennyInTech
-@RyloArt
 @firstofmusic
 @BenjisAIPlayground
-@TAAIArt
 @HazinduKavishan
 @Nalarka
 @CreativeByNayWinHKT
@@ -12191,7 +12187,6 @@
 @MiniCookAIOfficial
 @AIMiniatureFoodVideo
 @ToonBitesAI-i5j
-@FoodManiatureAi
 @AICinematicUniverse-t3z
 @TinyChefAIFood
 @TinyFoodBuilde
