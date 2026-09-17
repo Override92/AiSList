@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24355
+! Total Channels: 24350
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11393,18 +11393,15 @@
 @OddlyFruits
 @FruityBabiesASMR0
 @SFamilyShows
-@neuronest010
 @UntilYouFeelSatisfied
 @ScrollixAI
 @CozyPopAI
-@karansharma06
 @Fruit-Burst
 @OddNest-c5s
 @FruMello-m5w
 @DreamSatisfyAI
 @Oddly-AI-26
 @AIbabybites-009
-@AIchoiceASMRofficial
 @RisaafASMR461
 @BabyBerrystudio-p3i
 @AI-ASAMR13
@@ -19667,7 +19664,6 @@
 @Aih%C4%B1t2026
 @ONLYAISONGS-u2t
 @SurStormAI
-@chocoomilkiessbackup
 @superhit-90-00
 @Royalmelody20
 @aimusicnepal-pc
@@ -19698,7 +19694,6 @@
 @AtlasVeilStudio
 @RediscoveredAncient
 @NavalBlitz
-@StrikeVector-t7h
 @BodyResetHD
 @femalemagicpower
 @MarioFanmade
