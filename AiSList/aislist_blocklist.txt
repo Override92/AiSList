@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24093
+! Total Channels: 24103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24109,3 +24109,13 @@
 @Revengely-k9r
 @ScandalousHearts-t9m
 @FFOCUSDrama
+@Talesbylyndixstudio24
+@Santos_storyverse
+@KechiBravo
+@MaleLoveBook
+@RegencyLoveTales
+@KuyaKiy
+@TheDrawingRoomHQ
+@DeeLoversArchive
+@PERIODLOVEANDROMANCE
+@TheHiddenDukeChronicles
