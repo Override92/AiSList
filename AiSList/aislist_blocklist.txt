@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24379
+! Total Channels: 24389
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24395,3 +24395,13 @@
 @PorchlightStories68
 @Untoldhonorvoices
 @FamilyDramaStoriesYTB
+@ShadowReign-f4j
+@MafiaRomanceStories22
+@EloraDrama
+@K-MafiaBossObsession
+@HFYgalaxystoryofficial
+@HFYCosmosHunter
+@StellarboundHFYSciFi
+@TheGreyLineStories
+@CleanRegencyLoveStories
+@CleanHistoricalRomanceStories
