@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24246
+! Total Channels: 24250
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24262,3 +24262,7 @@
 @LegendsforSleepStories
 @history-past-seeker
 @TheLadyMythos
+@QuietHistory-q3w
+@TerraInflux
+@RunexisAI
+@WhereLegendsSleep1
