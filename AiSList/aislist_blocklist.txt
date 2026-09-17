@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24309
+! Total Channels: 24304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11298,7 +11298,6 @@
 @Aillusory
 @user-ui1is6gi9u
 @EpicFactoryTours90
-@Africanstoriesfolktales22
 @kingdomoftalesafrica
 @thehiddenmind_ai
 @talesbyTDmedia
@@ -11314,7 +11313,6 @@
 @seraphinasromance
 @chocopeve
 @OmegaCrownTales-z2u
-@TheAlphaCode-j7i
 @AlphaKingdomStories-r7u
 @KL025-h2g
 @Kionisalpha-rom
@@ -11328,7 +11326,6 @@
 @afrokoreanromancestoriess
 @CrimsonSeoulStories-o7l
 @SamsDiaries-AK
-@folktalestorylovers
 @AfrolovediariesTV
 @Naomiloveromance
 @Korean-Mafiaworld
@@ -18486,7 +18483,6 @@
 @HerYTStory
 @usaheadline-e1n
 @TheHumanMind-y5g
-@MiddleEastStrikeReport
 @SpellForgeStudio
 @BeyondHogwartsAI1
 @UnwrittenUniverseAI
@@ -19649,7 +19645,6 @@
 @Hopontababu-1520s
 @BROAMMM
 @Muzikawii
-@Joyxan_Ai27
 @AIFlowLab1
 @NovaToneID
 @salaarhussain1177
