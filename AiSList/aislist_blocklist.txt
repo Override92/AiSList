@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24253
+! Total Channels: 24248
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5489,7 +5489,6 @@
 @iamderektower
 @CapitalOdyssey0
 @PathwaytoPeace-j3k
-@TimInvest24
 @kr_sora-k4e
 @WarrenBuffettWisdom2.0
 @SmartMoneyBeginner
@@ -5546,7 +5545,6 @@
 @SecretLoveStoriesromance
 @HFYSagastories
 @ROMANCEHUB-o7w
-@PureHealthTips-w3z
 @SoulfulJourney-l9e
 @Storiesfromyesterday40
 @The_WildWild_West
@@ -6026,7 +6024,6 @@
 @yourdreamtrader
 @mysticcreationsstorytime
 @worldbreachofficial
-@dr.marianne-o5g
 @bauernschatze
 @toy_familiy
 @ai4techies
@@ -9531,7 +9528,6 @@
 @AIVision-h5t
 @AnimatedGeopoliticss
 @BreakingPoliticsUSA
-@GeopolitikKlartext
 @Pacifierpolitic
 @PoliticalDecrypt-o4f
 @HumanDecode-g6s
@@ -14743,7 +14739,6 @@
 @Mr.AndersonStories-TV
 @FrozenRevenge-d3y
 @SpicebushRevenge
-@DADSILENTREVENGE-j9l
 @WolfTalesDaily
 @PandaRevenge.us22
 @ZarnAILab
