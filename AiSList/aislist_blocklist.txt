@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24226
+! Total Channels: 24225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1313,7 +1313,6 @@
 @puppyemotionworld
 @pupmasti
 @aipuppyemotions
-@cutepuppytoon
 @smartybuddiesyt
 @videoclip-159
 @aishortsvideo-q3p
@@ -8376,7 +8375,6 @@
 @VoidSignal92
 @MikesPOVHistory
 @AICARTOONAISHORTS
-@SacredWorldRevealed
 @EmpiresReconstructed
 @morgarreacts
 @TempelDerStille-De
@@ -24242,3 +24240,4 @@
 @insidethefactory00
 @FrozenWilderness-q9h
 @KindredHouseTales-t2x
+@tetherflashshop
