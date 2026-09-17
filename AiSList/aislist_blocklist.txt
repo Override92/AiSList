@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24004
+! Total Channels: 23999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1834,7 +1834,6 @@
 @ww2in
 @worldwar-2.0
 @battlegroundchronicleswwii
-@ww2archives1939
 @voicesofwar22
 @echoesofwarworldtwo
 @thewarmap
@@ -1916,7 +1915,6 @@
 @blublupenguin
 @dodopenguin
 @littlefeetbeats-ppm
-@penguinai-q4r
 @jigglytots
 @penguin_louis
 @cozypenguin1
@@ -1981,7 +1979,6 @@
 @aishorts_70
 @aianimated-l6g
 @kevintw8888
-@cuteanimall1213
 @alanimals05
 @bestai-i6p
 @aianimation123-w3s
@@ -2037,7 +2034,6 @@
 @simuiationn
 @asmr_for_ai
 @hosseinparsa-k6h
-@satisfyingslice-f7t
 @keyrippleasmr
 @misscrystal-s9m
 @videos_from_ai
@@ -18522,7 +18518,6 @@
 @chinaconsumerwatch
 @humandecode000
 @zenithxgamer99
-@fseries-h1p
 @theinsidefeed
 @oldhollywoodechoes01
 @JulianGoldieAI
