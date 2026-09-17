@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24399
+! Total Channels: 24407
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24415,3 +24415,11 @@
 @ElPistoleroOlvidado
 @WesternEchoes-q9t
 @SleepWest
+@wildweststoryhub1
+@EagleFeatherStories-v3e
+@EverLoveTales
+@EmpireStories-x9t
+@RegretRedemptionStories
+@NestKeeper-w2y
+@MafiaMeetsCurves
+@BLHearts69
