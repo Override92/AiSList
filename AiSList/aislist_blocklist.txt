@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24594
+! Total Channels: 24589
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11434,11 +11434,9 @@
 @PapaKitty22_US
 @AiAmazingdialogue
 @CatMindy
-@catvideodailybd
 @MeowPaPa-e8d
 @MeowgicMind-01
 @AICatLife888
-@meowcatvision
 @AIKittyMamas
 @sillyaeye
 @AliCatAI1
@@ -18483,9 +18481,7 @@
 @AlternateUniverseAU
 @VisionTrailer2026
 @Fyxlife
-@AnalysisandReport
 @JayyyFacts
-@Ben_hodgesFAN_Analysis
 @weirdhistoryfood_de
 @TheVersedMastersofMusic
 @VantaCentral
@@ -18973,7 +18969,6 @@
 @nexusprimerealism
 @animalisle
 @jonasscholer-san
-@reporgramsubconscious
 @healingwoman358_soulpopmusic
 @81metalrooster
 @hshshgw7722
