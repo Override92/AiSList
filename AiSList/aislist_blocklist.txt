@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24584
+! Total Channels: 24582
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6506,7 +6506,6 @@
 @redwhistle_yk
 @steicamel
 @xpyr1
-@lanellia_nyanna
 @a.imusic-sx7fp
 @nrayrecords
 @tetsuonozawa3812
@@ -10438,7 +10437,6 @@
 @streamer-files
 @thinklikeanimal
 @asmrsheraz
-@poppinlab
 @synthwaveheroes
 @cecilovestories
 @skystories-g2n
@@ -22965,7 +22963,7 @@
 @PeachyNightASMR
 @PerfectFeel_Ai
 @papoyasmr
-@SweetWorldAiAsmr
+@storylantern12
 @Infinity-mj5
 @WhichBedVerse_ASMR_AI
 @epoalchety
