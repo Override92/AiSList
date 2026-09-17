@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24426
+! Total Channels: 24436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24442,3 +24442,13 @@
 @OmoAIStudio
 @dramadazzleturkyt
 @storiesbydndtv
+@drama_wave_2026
+@M33kafrictales
+@F_Ceations_F
+@Mr.PeterForeverLoveStories
+@thestorycanvas01
+@GlobalFilipinoStories
+@AINIMALWORLD
+@AImaginary87
+@AIVideoCreativator
+@Magnibeasts
