@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24342
+! Total Channels: 24345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24358,3 +24358,6 @@
 @Mr.JonathanStories
 @MrPeterDramaStories
 @silvermelodyofficiall
+@SecretMafiaLove
+@Mr.TheodoreStories
+@Mr.PeterTrueLoveStories
