@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24282
+! Total Channels: 24292
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24298,3 +24298,13 @@
 @EmiliaRomanceLibrary
 @crimsonsecretsstories
 @MafiaDarkRomance
+@WiseguyWhispers
+@mafiastorytelling
+@UnderworldArchitect-f8p
+@dimkakrimka4090
+@lavenderstoriesthatheal
+@StoriesbyDanUK
+@Seoul-1207
+@DarkThrone-f9o
+@MoonlightStorytime-s7g
+@Karumba-254
