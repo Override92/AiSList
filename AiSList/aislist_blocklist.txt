@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23977
+! Total Channels: 23987
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23993,3 +23993,13 @@
 @Filip.C_1
 @MoonsRomanceCollection
 @ForbiddenLovereel
+@MoonlitAlphaRomance
+@AlphaLoveTales
+@ScarletRomanceDiary
+@FloscicaArt
+@SurrealAiMusicLab
+@cyberDancerAI
+@Stitchedstoriesoffical
+@Arisa_AI_Studio
+@WaywardTown7979
+@ZoomedEden-g8e
