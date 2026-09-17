@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24221
+! Total Channels: 24226
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24237,3 +24237,8 @@
 @GoldenQuill-AI
 @hollow_realmhr
 @CatPlanet-p2h
+@KittensFarm-l6y
+@Life_On_Mars_AI
+@insidethefactory00
+@FrozenWilderness-q9h
+@KindredHouseTales-t2x
