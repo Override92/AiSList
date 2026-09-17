@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23976
+! Total Channels: 23971
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4975,7 +4975,6 @@
 @DenisWestpfahl
 @FinanceDeepDive
 @JordiVisserLabs
-@MofizReact
 @RevengeDailyUs
 @DramaUnfolded88
 @disturbing_Stories-voice
@@ -10901,7 +10900,6 @@
 @CozifireAmbiance
 @HaveaGoodDay24I7
 @AuraSound.z
-@HazeProtocolFM
 @DeepLuxeRoom
 @AbyssPulse-10
 @FocusStationMusic
@@ -17452,7 +17450,6 @@
 @smartcatai34
 @AivlogsAnand
 @POVProxima
-@Sanketaivlog
 @NeuralDrift27
 @reelifystudio
 @MiniHeroRescue06
@@ -17524,7 +17521,6 @@
 @Vard-Ges
 @ClassicCroonersRevival
 @Dr.AdamWo%C5%BAniak
-@EclipseArmadaHFY-g8f
 @AlienVerseStories
 @HumanityUnleashed73
 @OG-AIanimereels
@@ -18059,7 +18055,6 @@
 @cutedesigns8
 @cattoonnix
 @inews_magyarorszag_info
-@dr.adamwozniak
 @dianuskingstudio
 @odditype
 @wheresfloof
