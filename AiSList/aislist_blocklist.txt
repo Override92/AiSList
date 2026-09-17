@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24258
+! Total Channels: 24253
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11176,7 +11176,6 @@
 @goalverse013
 @pixelwaveco
 @north-signal-news
-@dr.masoneverhart
 @enelgaming09
 @nikhilrajput0142
 @lovedeathnanoverse
@@ -11564,7 +11563,6 @@
 @quietstories-n3k
 @vnkvofficial
 @comfortdramastoriess
-@superpower_divide
 @insuranceexplainedmonkey
 @tynadigitalfolktales
 @karinagomescruz
@@ -11632,7 +11630,6 @@
 @CloakedHistory1
 @pastcompass
 @fallenhifi
-@The49thDecoded
 @Amelia.Revenge.Stories
 @BehindClosedDoorsStories-e3v
 @KarenStoriesss
@@ -14623,7 +14620,6 @@
 @CupidCutsDrama
 @ManhwaSenpai99
 @Pinnacle_Drama
-@PapayaDrama
 @RiseKingStudio
 @%E5%89%A7%E8%AF%B1%E6%83%91
 @FastDrama-r7q
@@ -14690,7 +14686,6 @@
 @nickinvestsUS
 @Meshachstories
 @GMUpdate1
-@The-War-3-Signal
 @auriculardiscovery
 @CalmKeysCafe88
 @SoldiersofAlmighty
