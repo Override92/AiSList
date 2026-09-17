@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23985
+! Total Channels: 23984
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10476,7 +10476,6 @@
 @thedoomscrollfinalboss
 @disciplinedna-b3u
 @cutepawstv_c7
-@revupworld
 @cosmiospace
 @skullsfactory1
 @calm-flowbeats
@@ -19579,7 +19578,6 @@
 @짤냥찌
 @theworldbehindoneclick
 @royalregencyromancestories
-@golpoversebangla123
 @footballstationyt
 @wakukitchenanime
 @enedramazone
@@ -24001,3 +23999,4 @@
 @ryanbrooksai
 @rankmychaos
 @news_today001
+@zedmax-ai
