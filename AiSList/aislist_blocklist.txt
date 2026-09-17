@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24501
+! Total Channels: 24511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24517,3 +24517,13 @@
 @MacroGardenAI
 @USAIStudioOfficial
 @TimberCanvas
+@AiAnimalstoriesAI
+@OnlyAltrAi
+@LOREFRAMEAI-p3k
+@AnnK-Vision
+@NeuralCatastropheAI
+@Rhymicon3000
+@HenryDreamWorlds
+@CartoonAI-i7e
+@morpheaxaai
+@FacesReborn
