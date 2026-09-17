@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 23950
+! Total Channels: 23949
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12254,7 +12254,6 @@
 @MoneyLens-c8i
 @TheNexHub
 @jonfinance-1
-@Realfinance-r8l
 @cashclassstudy
 @AILifeDiaries-j2m
 @aianimes-o8i
@@ -16160,7 +16159,6 @@
 @carlsagancosmostv
 @Midnight_Noir_0
 @gguanmusci
-@markzack1
 @africasforgottentales-m9e
 @mohsindigitaltv
 @山海a049
@@ -23966,3 +23964,4 @@
 @waterbamboohealing
 @timer5555
 @jhumrubholu-r7l
+@shirleyfamily1102
