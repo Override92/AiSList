@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24536
+! Total Channels: 24546
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24552,3 +24552,13 @@
 @lava_lab
 @futureframe-AI00
 @Seed2Tree-V2
+@Ai_hybrid_animal-kk1qv
+@funny_Ai_3D
+@AIShorts-l2e3c
+@foodai-edit
+@FunBites-24
+@CookToonBySid
+@CloudPetalAI-g2d
+@zainubsheikh-x2s
+@AIchefly
+@AiCats-k5r
