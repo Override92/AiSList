@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24585
+! Total Channels: 24583
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20015,7 +20015,6 @@
 @RealStrangeAI
 @insectsaiart
 @FablePaws_animal
-@Ellenvfilms
 @AINomNom1
 @synthetickayfabe
 @SecretsdesVillagesdeFrance
@@ -20081,7 +20080,6 @@
 @SingleDadRedemption
 @92Stories-003
 @KindTales-v2x
-@talithakoums
 @DomPe%C5%82enSprz%C4%99tu
 @artillense
 @VantyXRecords
