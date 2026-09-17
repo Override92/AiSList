@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24181
+! Total Channels: 24191
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24197,3 +24197,13 @@
 @ParadoxicaWorld
 @meowmationsz
 @ClayZen_AI
+@PlateauHorse
+@AIMixturex5n
+@StoriesOfTheRanch
+@MDev_Fun_World_AI
+@AthletIQLab-z6o
+@AIJungleTales-n2y
+@DukeDuchessRomance
+@CuteAnimalsStory
+@pawsiestudio
+@AliSabit-h5l
