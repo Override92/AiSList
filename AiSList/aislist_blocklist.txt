@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24331
+! Total Channels: 24341
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24347,3 +24347,13 @@
 @Echoesofmama
 @TalesbyGlowracleOfficial
 @PeachPuffDrama
+@queengracethomas
+@StoryHaven-q6s
+@Jitolydstudios
+@BeyondWisdom60
+@Rootedlessons
+@TheBetrayedQueen-US
+@AfroSeoulCinemaverse-m6u
+@BlackQueen-US
+@Mr.JonathanStories
+@MrPeterDramaStories
