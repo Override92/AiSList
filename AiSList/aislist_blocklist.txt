@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24581
+! Total Channels: 24582
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19067,7 +19067,6 @@
 @TrendingBitzStories
 @StatelineAffairs
 @BloodandVessels
-@Doovey_Ai
 @BANKITALES
 @DramamekaProductions
 @BeshelClemzStudios
@@ -24597,3 +24596,5 @@
 @mycatstoryland
 @son_music-21
 @brain_cave-v2c
+@ailuna_official
+@explainerlensus
