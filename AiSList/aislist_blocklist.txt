@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24631
+! Total Channels: 24626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7558,7 +7558,6 @@
 @TriviaTitanzMusic
 @Mylittlebarrio
 @FactorytoProduct9
-@ProGenFactory
 @SoarezzProcess
 @ManufactureMystery-123
 @htrixvision
@@ -12335,7 +12334,6 @@
 @AIlife-g9n
 @life_diary16
 @AIStoryWorld-g5s
-@toonduniya2-d6z
 @AIreallife77777
 @Whole-AI-1845
 @Kingaistory05
@@ -12397,7 +12395,6 @@
 @AIFunPodcast
 @BalochBoy-s7v4i
 @BabyBitesAI-c2z
-@aiLifestory02
 @MiniFoodAi
 @AIMBW01
 @AITinyASMR
@@ -16173,7 +16170,6 @@
 @Doorbelldrama-a
 @Doorbell_Meows
 @SightBin
-@Aiworld01-o1d
 @doorbellnpc
 @viraldoorbellclips
 @Airingdoorbell-u4i
@@ -22039,7 +22035,6 @@
 @LucasHarlan-t1k
 @InedibleEats
 @AIbricks_s
-@shan-r2l
 @pepnaya
 @mariostories6
 @Useepy
