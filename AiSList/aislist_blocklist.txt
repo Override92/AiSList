@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24656
+! Total Channels: 24666
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24672,3 +24672,13 @@
 @DuskRegn
 @SilentPantheon
 @bts_short_video_01
+@MythologyFolkloreForSleep
+@MythoVerse0143
+@MythAIDigital
+@magicrealmstories88
+@AnatomyOfFaith
+@NightEgypt
+@TheMeasuredPast-HR
+@EgyptAfterDark
+@SecretHomeRevenge
+@RevengeRealmEmpire
