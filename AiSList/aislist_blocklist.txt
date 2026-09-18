@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24683
+! Total Channels: 24678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3821,7 +3821,6 @@
 @renacerfemenino-nilda
 @EspacioFemeninoNilda
 @ReinasLibres
-@C%C3%B3digoDeMujeres
 @Despierta_TuConsciencia
 @amorreal-f5o
 @CosmiSer
@@ -4341,7 +4340,6 @@
 @cat_story-k8p
 @codigochiaraviglio
 @amorintegro
-@codigodemujeres
 @anahira-8
 @psicovision77
 @espanaennoticias
@@ -7651,7 +7649,6 @@
 @SeniorsGuide-l9g
 @PeakMale_Health
 @DrClarenceMartinSeniorHealth
-@DrMichaelKentHealth
 @Avesstorytelling
 @mindoverlimit-q7b
 @sandraserratiresearch
@@ -10934,7 +10931,6 @@
 @TinyBaby-ASMR
 @qafruityasmr
 @MeltyLoopASMR
-@mrknowledge-j4u
 @MeltyAIASMR
 @fruitloveisland-ai
 @fruitloveislande
@@ -22133,7 +22129,6 @@
 @vanishedrooms
 @ScienceTechnology-s7l
 @kenadeemaverick
-@rec-j4u
 @sumengyue
 @butterflydramaclub-z9z
 @FantasyUniverse-z7p
