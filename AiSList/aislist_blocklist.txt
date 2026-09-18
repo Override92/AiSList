@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24583
+! Total Channels: 24582
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20123,7 +20123,6 @@
 @Alex-nex-tech
 @papers_by_hand
 @chessblitzking
-@MusicAnime007
 @tfcovers
 @jonjaroska2319
 @beyondrealityAI-o9q
@@ -20389,7 +20388,6 @@
 @Cookwithella
 @ElaraSheva
 @blockbuster-404
-@Sewalore
 @LifegateAfricantales
 @Wokobucciacademy
 @ToonBit10
@@ -24599,3 +24597,4 @@
 @magic_kitchen_shorts
 @masteringaitool
 @joykidsstories11
+@asmrexpert-k1o
