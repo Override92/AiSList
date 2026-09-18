@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24577
+! Total Channels: 24576
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7211,7 +7211,6 @@
 @FinvestorData
 @sagee-v3tm
 @RedAlertReports
-@Tyronethebigblackcat
 @nyxawave
 @9to5Nemesis
 @ClypseHQ
