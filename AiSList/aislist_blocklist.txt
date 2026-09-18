@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24681
+! Total Channels: 24679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19228,7 +19228,6 @@
 @polyzcape
 @ionvscovrigel
 @zeszytwkratke
-@Joystorytime1
 @LumiVale_Stories
 @FolktaleByLee-s3x
 @Talesbymoonlight-T
@@ -19244,7 +19243,6 @@
 @Story-hub993
 @StoriesbyAmara-c9u
 @thetruthcorneronline
-@FolktalesbyEbuka
 @Sci-FiTraveler
 @folktalesbykaliboy
 @KasiFolktales
