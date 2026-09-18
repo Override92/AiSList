@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24620
+! Total Channels: 24630
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24636,3 +24636,13 @@
 @VeloraAI-x2q
 @Dreamina_Inside
 @fantascystudioYT
+@theuncannyaiarchive
+@stellarcanvasai
+@Ai_visionlab17
+@EverTaleStudio7
+@promptcinemahq
+@AuraFantasyAI
+@AIFantory
+@MiDreamAI
+@fracoai
+@AIFantasyVillage00
