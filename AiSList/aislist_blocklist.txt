@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24626
+! Total Channels: 24636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24642,3 +24642,13 @@
 @fracoai
 @AIFantasyVillage00
 @PhoenixHarmonics
+@StarLight-z4d
+@FANTASY-AI_JP
+@AIFantasyWorld-07
+@TSAISHORTS
+@Reverseaiworld03
+@AIFantasyWorld_24
+@AIGirlsFantasyWorld
+@HumanFrontier-u9n
+@PimpleAI01
+@TheLastHonestFarmer0
