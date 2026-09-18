@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24587
+! Total Channels: 24582
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18571,7 +18571,6 @@
 @TheImpactInvesting
 @PierreNiccas
 @MindwithinS-d1k
-@EarthCanvasStudio
 @Moto.Engine
 @RedditStoryJack-07
 @REVEAL-v
@@ -20844,7 +20843,6 @@
 @NARCEO05
 @skycast123
 @Narcisight719
-@WillowAbbott-s3o
 @pynade
 @Oldstoic-4M
 @VANGUARD-95-OPS
@@ -21191,13 +21189,11 @@
 @VelvetShadowsStory
 @PhoenixSoulStories
 @GiaLinhVu-t7j
-@MilasErz%C3%A4hlungen
 @SilentStory-y7m
 @NhatKhoaCao-y9h
 @HeartlandStories2
 @BeyondDreamsStories
 @Crisis_Social
-@HiddenHeartsCinema-z9c
 @TheHOAFallout
 @ShockingHOARevengeCommunitySca
 @347ramune
@@ -21750,7 +21746,6 @@
 @BIBLEAIUS
 @%E7%95%AA%E8%8C%84%E5%BD%B1%E9%99%A2
 @SilentofStories
-@builvo
 @maziemmanuelstories
 @nollo_lofi
 @nightingaleseries
