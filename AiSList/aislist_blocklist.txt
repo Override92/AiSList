@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24670
+! Total Channels: 24672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24686,3 +24686,5 @@
 @vaka.belgesel
 @clamambiance
 @timhongreview
+@babylearning-q8o
+@waltersmidnightart
