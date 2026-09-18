@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24582
+! Total Channels: 24577
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12263,7 +12263,6 @@
 @StoryVerseBL
 @fangedphenomenon
 @astrasyncc
-@ForgeoftheMountainKing
 @DADSVENGEANCE-i1g
 @LoveCoupleTales1
 @CalmStrength-1
@@ -18966,8 +18965,6 @@
 @gazulaa
 @YuErYY-BF
 @FATHERSSILENTREVENGE-z6
-@HealthWellnessHub-r7c
-@NaturesVitalSecrets
 @Storiesbynight-US
 @SoulMomentsStory
 @CrimsonReckoningTales68
@@ -19098,7 +19095,6 @@
 @Udspirestudios
 @favouritestories001
 @BetrayalNarrativesj
-@GoldenMansionTales
 @KindnessTales-o1g
 @QueenTales-s8o
 @Folktalesbykachi
@@ -19212,7 +19208,6 @@
 @victoriapeter6732
 @TimelessAndTales
 @MysteryTales-l6x
-@BittersweetTales-r8f
 @MysteryTales-y8i
 @TalesOfLife_YT
 @HeartlineStories11-7
