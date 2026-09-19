@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24694
+! Total Channels: 24693
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18290,7 +18290,6 @@
 @PsyLabb
 @moviestarrows
 @productivityonyt
-@Marquee-g2h
 @BluesLoungeMusic-s3g
 @PureGritStudio
 @samitaskn3889
