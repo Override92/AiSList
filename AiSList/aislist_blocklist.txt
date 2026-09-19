@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24810
+! Total Channels: 24812
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24826,3 +24826,5 @@
 @ArmedNations
 @Athletehub3
 @voiceofrevivalfire
+@AudioVideoMusica
+@AustraliaKnows
