@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24684
+! Total Channels: 24683
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15251,7 +15251,6 @@
 @HazardousHDTV
 @военныикурьез
 @MarvelAIVideos1
-@AiClippa
 @FractalWisdom
 @Empire-of-the-Mind
 @JungNotess
