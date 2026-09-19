@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24685
+! Total Channels: 24680
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6844,7 +6844,6 @@
 @CryptidLogs
 @WesternRomance-wildwest
 @GodsMessageJoy
-@HistoryOfForgottenSouls
 @nextmovierecap
 @TrailCamUnfiltered
 @highway-tales
@@ -12888,7 +12887,6 @@
 @Mr.DavidWilder
 @TerraIncognitaSciencesOubli%C3%A9es
 @IRONLEGACY-z5j
-@TheInsiderBrief-p4d
 @TheIronFront-j3t
 @BenHodgesInsights
 @bobandshumin6828
@@ -18018,7 +18016,6 @@
 @TechDotSumit
 @Minikong91
 @sexualsong
-@insidemakerlabtv
 @worldenglishhubtv
 @chronivox_yt_studio
 @doodlefactsyt
@@ -18265,7 +18262,6 @@
 @lostlegacyfiles-llf
 @twilight-tales-j4t
 @SalWhitakerCars
-@carcaredecoded
 @MyRAMsGarage
 @Piston_Logic-engineering
 @Unseenreality247
@@ -19354,7 +19350,6 @@
 @SolarayStore2
 @EverydayRevengeStories-Newest
 @aokistudioss
-@PureSoulTales-f6z
 @wealthvault1914
 @nadieselopregunta
 @youtubesupportraj
