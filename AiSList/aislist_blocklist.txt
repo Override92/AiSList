@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24941
+! Total Channels: 24944
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24957,3 +24957,6 @@
 @ByeByeBauch
 @CapitalTales735
 @CarCareGarage-t4w
+@CastleCompass
+@ChevyCentral-HD
+@ClassicRoom2025
