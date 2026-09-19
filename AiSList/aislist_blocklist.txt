@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24726
+! Total Channels: 24728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24742,3 +24742,5 @@
 @BloomRiseStories
 @BrainFumblee
 @CalmBearing-y5q
+@ChronoOtaku47
+@CicatricesdeLuz
