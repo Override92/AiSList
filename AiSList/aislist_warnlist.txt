@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 968
+! Total Channels: 967
 
 ! Entries:
 @PapaMeat
@@ -930,7 +930,6 @@
 @HistoricalAttractions
 @AmericaAfterHoursChannel
 @EmptyPixelGaming
-@askleonotenboom
 @AramaicChanting
 @9to5Linux
 @MrDiscoveryTV
