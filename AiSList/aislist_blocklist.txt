@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24811
+! Total Channels: 24810
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9648,8 +9648,6 @@
 @Bluewater_Films
 @OldWorldProof
 @Yourtaxfairy
-@ThroneHistory
-@AI_Korea_Report
 @ShamisenCyberFusion
 @worldversemusic
 @agelessebonyover50
@@ -24827,3 +24825,4 @@
 @ArcturianFrequency
 @ArmedNations
 @Athletehub3
+@voiceofrevivalfire
