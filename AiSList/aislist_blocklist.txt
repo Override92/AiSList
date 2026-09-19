@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24778
+! Total Channels: 24788
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24794,3 +24794,13 @@
 @BestFuturisticGadgets
 @BestRootsReggae
 @BritishCrimesChannel
+@CalmCupJazz
+@CandleOfWisdom
+@Canonbreakk
+@CatSweetWorld
+@ChansonAura
+@ChosenforGloryTV
+@CineRewinded
+@CinemaPeek-xxx
+@CinematicJourneysRecapped
+@ClassicHollywoodEchoes
