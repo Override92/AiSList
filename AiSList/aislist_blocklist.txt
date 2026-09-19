@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24901
+! Total Channels: 24904
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24917,3 +24917,6 @@
 @BeeExplains-t9q
 @BhattiSci-FiTV
 @Biblestoryanim
+@Blackout-out
+@BoleroGuitarMelodies
+@CARBEE-m3m
