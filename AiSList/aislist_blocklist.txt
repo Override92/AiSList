@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24700
+! Total Channels: 24695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -681,14 +681,12 @@
 @oopspaws123
 @jazzsoda-y6e
 @thepawfectaifamily
-@pawmagicalworld
 @pongpongpanda
 @aicat-w1y
 @wildaiders
 @cutebaby_on1
 @safyanprince4182
 @nyannyandaily
-@rescueanimalsai-r6p
 @aianimalrescue00
 @rescueanimalsai-q6s
 @animalsrescuevideosai01
@@ -3459,7 +3457,6 @@
 @SecretsofSilentBadges
 @RootsofNaija
 @UnheardRawStories
-@HOATALES-u6z
 @HOAcase
 @The.Hidden.ChapterYT
 @RacismMatters-f4o
@@ -13829,7 +13826,6 @@
 @HealingNightShift
 @FrontlineNurseStories
 @HospitalHeartStories
-@NurseValorTales
 @MidnightCarePulse
 @DailyNurseEnergy
 @NightWardTales
@@ -23147,7 +23143,6 @@
 @maureen_diaries
 @MirrorsofLogic
 @keneversetv
-@GRIFT-TV-1
 @Yhubeestories
 @mo_AIstories
 @PeaceAnimation-y4p
