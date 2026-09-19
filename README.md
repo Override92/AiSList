@@ -31,8 +31,8 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4376 |
-| 🥈 2 | [@www2](https://github.com/www2) | 2465 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4423 |
+| 🥈 2 | [@www2](https://github.com/www2) | 2466 |
 | 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2289 |
 | 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2066 |
 | 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 380 |
