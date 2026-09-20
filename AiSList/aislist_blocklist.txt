@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24965
+! Total Channels: 24960
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1378,7 +1378,6 @@
 @aianimation-shorts123
 @viraltrendingshorts-786
 @sksaistory1
-@aistoriesqt
 @ur.cowsadstory
 @mraryanx7m
 @aistoryworld-f9i
@@ -13206,7 +13205,6 @@
 @Geheimnisse_der_UdSSR
 @FunnySoraAiVideos
 @ZEICHENDESENDES
-@Hardware-YT
 @SDarkwaveBloom
 @EchoDerAltenZivilisationen
 @Chronik_der_Schatten
@@ -17875,7 +17873,6 @@
 @Rosii_0128
 @nyxera_music
 @DriftedTapes
-@BenefitsWithHelen
 @%E4%BA%BA%E9%96%93%E6%95%98%E4%BA%8B
 @%E6%95%85%E4%BA%8B%E5%8C%A3%E5%AD%90-z4h
 @%E5%9C%A3%E7%BB%8F%C2%B7%E7%BA%A2%E9%A9%AC
@@ -18627,7 +18624,6 @@
 @thenamelesslegend
 @medievalfrontlinesde
 @AlphaDestinyStories
-@HoanNguy%E1%BB%85n-h5v1e
 @AlphaKingChronicles-e6v
 @MoonboundLoveStories
 @fatedalphamoon
@@ -23759,7 +23755,6 @@
 @EverydayAISkillz
 @Whispercomics
 @macronest-j3g
-@jacktestsai
 @xs0622-3
 @stoicstic
 @JoYBoY-o4s
