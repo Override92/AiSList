@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24972
+! Total Channels: 24975
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24988,3 +24988,6 @@
 @AiOverTime
 @fantasynthetic
 @Poetic-AI
+@The1UpAI
+@TalesProject
+@iceinstory
