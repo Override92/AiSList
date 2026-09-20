@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24959
+! Total Channels: 24963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24975,3 +24975,7 @@
 @仙音動畫
 @refugio.dos.contos
 @桃小滿
+@dfaimovies
+@ww2story365
+@燦榮説説
+@ケルトと少女-celtic_and_maiden
