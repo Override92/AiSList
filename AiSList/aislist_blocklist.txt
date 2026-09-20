@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24966
+! Total Channels: 24961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4308,7 +4308,6 @@
 @cvpmn
 @GwiezdneOpowie%C5%9Bci-h4v
 @GalacticWitness
-@briangreene-q4x
 @RavComm
 @DziennikZemsty
 @mattinvestsUS
@@ -5825,7 +5824,6 @@
 @FreedomTales-g9n
 @HOASTORIESUS-14
 @vidaloka4230
-@RENTENAKTUELLDE-w8j
 @ForbiddenCamping
 @BlushNotes
 @chamoon-u2t
@@ -22717,7 +22715,6 @@
 @Planet_Brief1
 @soulverdict-w1r
 @SoulTales-r2y
-@NexusWarRoom
 @PatinaYT1
 @goldenlibraryaudiobooks
 @ArcadeAnthology
@@ -23158,7 +23155,6 @@
 @TalesbyJaylasMum-e5c
 @MoonlightAfricanTales-k5h
 @EchoesFolktalesHQ
-@storystorybylulu
 @fatibobofilms
 @AInymous-b3p
 @EchoesofAfricabyDee
@@ -23499,7 +23495,6 @@
 @AncientRomanceDrama
 @SAKURACinematicViolin1607
 @TheQuietDad24
-@HFYMokaly102
 @dj_appolon
 @LifeLoveConsequences
 @UntoldHearts-t2p
