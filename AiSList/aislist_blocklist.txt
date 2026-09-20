@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25020
+! Total Channels: 25022
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25036,3 +25036,5 @@
 @AQuietSide
 @bamboohealingrelax2eqa1
 @Beyond_The_Nexus
+@chilluramusic
+@CastleSounds6789
