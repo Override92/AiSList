@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25030
+! Total Channels: 25034
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25046,3 +25046,7 @@
 @StoryverseRomance
 @Miaou-Drama
 @drama-k4z
+@Gloaming-Drama
+@Drama-Vault-1
+@Dash-Drama-1
+@Petal-Drama-Studio
