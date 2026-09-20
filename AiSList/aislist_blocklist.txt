@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24963
+! Total Channels: 24958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -136,7 +136,6 @@
 @AIAnimaLsHub_7
 @FunAI1-y3j5b
 @Fantastickitten
-@FantasticAi-u3i
 @FantaVerse-v5y
 @ToonFlickAI.01
 @Furrr_Ai
@@ -5914,7 +5913,6 @@
 @maplemarketbrief
 @SurvivalCamping7
 @MapleMarketbrief-e2z
-@GlobalDiscoveryDocumentary
 @Ayyan-h7p
 @MoleHunt25
 @warandwealth-x5k
@@ -18655,7 +18653,6 @@
 @MafiaS.T
 @TheLastCapo
 @BossLoveStorylines
-@HeartStoryHub-m4c
 @%EB%B0%98%ED%86%A0%EB%A7%89AI
 @%E8%BC%95%E8%BC%95%E6%95%85%E4%BA%8B
 @AI07-e7y
@@ -18698,7 +18695,6 @@
 @RoyalLegacyChronicles-g5f
 @AinasLoveStoryLibrary
 @Cherrywhisperdrama
-@DramaInsider-n6u
 @TheCachee
 @StarboundHFYCinema
 @Boring-Stories-ForSleep
@@ -19406,7 +19402,6 @@
 @theflofactory
 @LearnAIwithRitika
 @jonascallmormon
-@hoannguyen-h5v1e
 @반토막ai
 @輕輕故事
 @visaobalistica
