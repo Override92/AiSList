@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 966
+! Total Channels: 965
 
 ! Entries:
 @PapaMeat
@@ -255,7 +255,6 @@
 @AwZarSong
 @OfficiallyLastBrainCell
 @AbyxCosmosPolski
-@BitLemonSoftware
 @maveloop
 @ViVOtunes
 @RobertAIArt-c6f
