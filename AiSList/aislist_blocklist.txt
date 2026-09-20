@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 24952
+! Total Channels: 24954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24968,3 +24968,5 @@
 @C-DramaKiKahani
 @CalmologySounds
 @beforeus-2024
+@第二人生-c2n
+@天河剧场
