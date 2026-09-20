@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25036
+! Total Channels: 25034
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14247,7 +14247,6 @@
 @AfricanFolktalebyNK
 @talevane
 @Terminal90TV
-@Masibellastories
 @GrandmasStoryTree
 @TalesbyStarr
 @Toyinthecreator
@@ -19412,7 +19411,6 @@
 @enedramazone
 @lookhere32
 @ricardoproduction01
-@dinarcurrencyinsights
 @africantalesanimated
 @pbstrategy
 @rebirthchroniclehub
