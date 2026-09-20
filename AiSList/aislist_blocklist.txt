@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25034
+! Total Channels: 25029
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1632,7 +1632,6 @@
 @echoesofpatton
 @infact4754
 @4chanInAMinute
-@BritishWW2
 @UntoldWarArchives
 @britainsfrontline
 @WWII-Records
@@ -1648,7 +1647,6 @@
 @Beyondthelens-r3v
 @SurvivalHistory11
 @FuriousGarageYT
-@AmericasWarfactories
 @WW2Insight
 @ConfessedOutLoud
 @RedditUpdatesStorytime
@@ -1748,7 +1746,6 @@
 @motionstorybangla
 @mdmujahid1613
 @cartoonstorytv4u
-@nelsonai9
 @100k-views-q6g
 @meowstories001
 @alpha_kidsai
@@ -5049,7 +5046,6 @@
 @HiddenFamilyTales
 @GentleVengeance
 @cat_telltales1
-@TrueRevengeGlory
 @SingleDadStories10
 @MothersRevenge
 @StoriesofVengeance
@@ -18085,7 +18081,6 @@
 @kingdomEncountersTv
 @God-e5d5u
 @RAGOVIVFX
-@GraceoftheSavior-r1x
 @KingdomofJesus-m2w
 @abyssal_report
 @perpetualkingsdevotion
