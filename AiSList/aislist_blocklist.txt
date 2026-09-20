@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25022
+! Total Channels: 25021
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10826,7 +10826,6 @@
 @CrimsonVerdict-v9z
 @RedditStall
 @VionelleSmooth-u2k
-@MelodicHouse-i7y
 @Catylofi
 @ekuzpulse
 @ddddot_music
