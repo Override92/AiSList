@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25054
+! Total Channels: 25057
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24417,7 +24417,7 @@
 @aiAsmr-Studios
 @AstrionAI
 @AIASMRTherapy
-@SatisfyLabTV-asmr
+@smileai_studios
 @AuraStudioASMR
 @MotionStudio-650
 @BuildBeyond-j5b
@@ -24426,7 +24426,7 @@
 @futureframe-AI00
 @Seed2Tree-V2
 @Ai_hybrid_animal-kk1qv
-@funny_Ai_3D
+@bestva_ai_3d
 @AIShorts-l2e3c
 @foodai-edit
 @FunBites-24
@@ -25070,3 +25070,6 @@
 @forgottenhistoricalstories
 @paperstoryboy
 @aicreation-y8c
+@raba_tales
+@funwithai_18v
+@咸鱼频道uiopy
