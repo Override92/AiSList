@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25028
+! Total Channels: 25033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25044,3 +25044,8 @@
 @Milesspiderclothes
 @commanderbed
 @ArchivoDelFuturoTV
+@ie-explains
+@HeartsVerseStudio
+@cursedmortayne
+@ObsidianThroneCinematicMusic
+@L-NERA
