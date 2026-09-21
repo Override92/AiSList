@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25083
+! Total Channels: 25092
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25099,3 +25099,12 @@
 @Evening-Breeze-Theater
 @EverythingHarley
 @ExtraMike-b7m
+@FairytaleDrama-g3b
+@FameTimelineNew
+@FeelFreeRecap
+@FixClipss
+@FreedomStory-t9y
+@GadgetologyHub
+@GermanForcesHub
+@dailycrazyfunfails
+@everythingology5081
