@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25054
+! Total Channels: 25053
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17407,7 +17407,6 @@
 @akov.official
 @aimusic倶楽部
 @須野高校軽音部
-@facttrenzy
 @sorayumeworld
 @deepperspective96
 @Catget-l9k
