@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25094
+! Total Channels: 25089
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17429,7 +17429,6 @@
 @uniqoo
 @FactsAndLogic
 @abivyakitadarshvanshi
-@DiscoveryKnowledge76
 @ScienceSun-b4r
 @civilexplained-ce
 @humanoriginslabs
@@ -18922,7 +18921,6 @@
 @ClaireAshStory
 @StillDramaStoriesUS
 @CheatingStories-Postcard
-@HerSecondAct-n8p
 @RageStories-n8d
 @Gold-Novel
 @DedeyGanchinho
@@ -19087,7 +19085,6 @@
 @ZoraChroniclesAudio
 @BikersSoul1
 @BlackRoadRiders79
-@NobleBattalion
 @MidnightNurseNotes
 @hoymengheang8039
 @BruceLeeMartialLegacy
@@ -19688,7 +19685,6 @@
 @LegacyTales3
 @McLeanTheUntoldLife
 @RetributionTales-q4d
-@FatherAlone.1
 @X-SeriesLive
 @TruthChangedEverything
 @MarcusRDR
@@ -19712,7 +19708,6 @@
 @OrcRavenheartTales
 @SakshamYadav-c9f
 @StoicSurvival123
-@OrcLoveHistory
 @TheLastLaughMotivation
 @AlienNightStories
 @LegacyofHumanityt
