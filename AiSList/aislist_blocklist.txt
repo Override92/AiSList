@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25028
+! Total Channels: 25023
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1224,7 +1224,6 @@
 @3demotoonhub
 @futuremonkey-v4s
 @crazyworldsofficial
-@animationai-68k
 @ai_short_91
 @ddtoontv-u6s
 @aibrainbot-r4j
@@ -11232,7 +11231,6 @@
 @symphonyforge13
 @jesterforyou-q5x
 @zedmaxedyt
-@shortsninja-y1e
 @cutetoons100m
 @SpiralRecordsAI
 @alextavy_ai
@@ -14315,7 +14313,6 @@
 @TheStoryCircle-r6w
 @CollyStories
 @TalesofAfricanWhispers
-@Dr.MahnoorMuntaz
 @BIAxXxFolktales
 @AfricanTalesByFloraB
 @AfricanTales-t2q
@@ -23979,7 +23976,6 @@
 @catStory-q7h
 @RevengeCat1
 @Kitstory-l6h
-@HappyToonWorlds
 @BellaFearTales
 @FunnyFurries-786
 @KittyCraze-v4j
@@ -24016,7 +24012,6 @@
 @meowtales-g6p
 @AIMelunniraFriends
 @EpicAIVids
-@AiCatWorld778
 @CatLand-US
 @AnimateedCat
 @aimini000
