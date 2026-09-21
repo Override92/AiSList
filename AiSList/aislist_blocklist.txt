@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25074
+! Total Channels: 25083
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25090,3 +25090,12 @@
 @DADSTRUEREVENGELAB
 @DramaofDestiny-z9q
 @Clinteastwoodarchives
+@CowboyTaless
+@CuentosDelViejoCampo
+@CursedAndClaimed
+@DynastyNewsss
+@EmotionalRide
+@Endingnovel
+@Evening-Breeze-Theater
+@EverythingHarley
+@ExtraMike-b7m
