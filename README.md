@@ -31,15 +31,15 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4438 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4448 |
 | 🥈 2 | [@www2](https://github.com/www2) | 2478 |
-| 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2289 |
+| 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2291 |
 | 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2066 |
-| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 383 |
+| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 386 |
 | 6 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 310 |
 | 8 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 9 | [@tomjas1963](https://github.com/tomjas1963) | 282 |
+| 9 | [@tomjas1963](https://github.com/tomjas1963) | 284 |
 | 10 | [@magikarp](https://github.com/magikarp) | 217 |
 
 <!-- LEADERBOARD:END -->
