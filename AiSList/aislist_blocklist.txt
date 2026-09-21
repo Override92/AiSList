@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25023
+! Total Channels: 25024
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17007,7 +17007,6 @@
 @ReelAIKing
 @Neo_2ff
 @LifeinMotionAiStories
-@AI_Base_Model
 @SquidGameSlimeASMR
 @Manumoments67
 @LoveVerseStories-x1t
@@ -25039,3 +25038,5 @@
 @gonuldemi
 @granruido
 @cfgstv-i3d
+@talezaya
+@thebodyvault95
