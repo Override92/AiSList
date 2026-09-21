@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25075
+! Total Channels: 25074
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18991,7 +18991,6 @@
 @NimmaStoryVault
 @GleamStoryworks
 @TrendingBitzStories
-@StatelineAffairs
 @BloodandVessels
 @BANKITALES
 @DramamekaProductions
