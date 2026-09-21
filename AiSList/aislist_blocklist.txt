@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25057
+! Total Channels: 25052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19688,7 +19688,6 @@
 @Raw_Reality_Stories
 @QuietRevengeTV
 @MapleJusticeTales
-@Valorvengeance
 @EchoesofBlackVoices-w6e
 @TheLastDisrespect
 @LegacyTales3
@@ -21202,7 +21201,6 @@
 @KK88-u5w
 @igorotplaylist
 @SilentStrings-i7h
-@AndesDreamMelodies
 @DreamyDarkAcademia
 @Rainy_CozyRoom
 @HarmonyAmbience686
@@ -21212,7 +21210,6 @@
 @AmbientalPlanet
 @AuthenticIgorotMusicVibes
 @Cozy_RainyRoom
-@EavesongRain
 @RainCozyCabin-w2c
 @StormHearthSounds
 @rainonleaf
@@ -21359,7 +21356,6 @@
 @JudgeMyLife
 @BaadReddit
 @PenguReader
-@StoryHorizonUS
 @TheforgottencodexYT
 @LillianDavisUS
 @LoveDestinyRevealss
@@ -21612,7 +21608,6 @@
 @AI_Bible_Songs
 @YourBibleInai
 @AIBibleEpics
-@TheAIBible-Stories
 @Official_BibleDude
 @aibibleproject
 @AIBIBLEWORLD
