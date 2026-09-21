@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25059
+! Total Channels: 25054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19833,7 +19833,6 @@
 @WarmFamilyRevenge-j5z
 @Dadspurerevengeofficial
 @DADSFINALWORD
-@HeartTalesUSA-f2j
 @VocalGameOrchestra
 @VirgilKeene
 @NowGospel-FanMade
@@ -20441,7 +20440,6 @@
 @DecisioneinformataIT
 @GeschichtenDieBleiben-x4n
 @MrAmbitiousYT
-@AadilSalar
 @UnbelievableHOAStories-US
 @JusticeBeyondHOA-b7d
 @GeschichtenvomLand181
@@ -20632,7 +20630,6 @@
 @AnUneasyVariety
 @EatVerse-X
 @AncientEvaluator
-@ASMRAi-m7w
 @TheAIMachineZ
 @FUBAR.Creative
 @nightskyghibli
@@ -20699,7 +20696,6 @@
 @AutoWissen123
 @LandSchicksale
 @TheCowboyStoryteller-p5n
-@VergesseneSchlachten-e3r
 @DadHeartStories
 @TrueFeelStories1
 @LocomotiveGeek
@@ -20758,7 +20754,6 @@
 @skycast123
 @Narcisight719
 @pynade
-@Oldstoic-4M
 @VANGUARD-95-OPS
 @The_Explainer3
 @HonestCarAudio
