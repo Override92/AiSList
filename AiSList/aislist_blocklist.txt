@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25033
+! Total Channels: 25039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25049,3 +25049,9 @@
 @cursedmortayne
 @ObsidianThroneCinematicMusic
 @L-NERA
+@TheRollingFlagon
+@TheLarkAndLanternMusic
+@PAEVORA_MUSIC
+@EldoriaRomanceTales
+@MafiaRomanzenSchicksale
+@LIGHTOFTHESTAR
