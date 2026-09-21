@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25054
+! Total Channels: 25059
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25070,3 +25070,8 @@
 @treeminbible
 @infinitefuture-l6k
 @CandlelightArchivesYT
+@MatrixMonster
+@Tokyomel-ai
+@NeuralStorycrafter
+@AIShortsHub28
+@M_D_R_L_AI_ART
