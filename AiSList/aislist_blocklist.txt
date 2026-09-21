@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25024
+! Total Channels: 25026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25040,3 +25040,5 @@
 @cfgstv-i3d
 @talezaya
 @thebodyvault95
+@dukeofprussia-ofc
+@basedbrew
