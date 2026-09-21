@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25052
+! Total Channels: 25049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6626,7 +6626,6 @@
 @twoplusyou
 @dungeonmasterrecords
 @got_jazz
-@n-o-l-oo
 @waifuandchill
 @mx6maximus
 @lofibeatsboy444
@@ -13539,7 +13538,6 @@
 @Dexmusic-b3m
 @Shade45SXM
 @intromuz-ok8in
-@GangstaFlw
 @Aioldskoolrap
 @BlueCounty-Music
 @Westcoastchanel
@@ -19679,7 +19677,6 @@
 @HeartandRevengeTales
 @Blackseoultales
 @LisaTales-b2z
-@Nightingalefolktales
 @MylasMovies-l3n
 @MoonFiretales-t2b
 @AiBeautyTales
