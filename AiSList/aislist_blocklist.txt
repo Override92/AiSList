@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25081
+! Total Channels: 25080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16186,7 +16186,6 @@
 @giaplaca-j8k
 @thepainfulexplainer
 @한처음에
-@alphacapitalfloww
 @playstudiomovies
 @bloxempirezz
 @africanlovethrillers
