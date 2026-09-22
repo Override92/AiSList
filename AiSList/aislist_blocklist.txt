@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25082
+! Total Channels: 25083
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25098,3 +25098,4 @@
 @sisitomistories
 @voxtalestudieu
 @mwangucomedys
+@solouncovered
