@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25081
+! Total Channels: 25080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7081,7 +7081,6 @@
 @FruitLoveTheory
 @weselmekanik
 @story_universe_M
-@Silent_Century-x2s
 @DragonAnimationClub
 @deepnotemusic-s8n
 @nature-escape-4k
