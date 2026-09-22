@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25069
+! Total Channels: 25068
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12685,7 +12685,6 @@
 @voxelresonance
 @robbinsremix
 @thevibehaven-d5y
-@BitTuneMusic
 @VentusZone
 @SmartRhythmAI4u
 @VortiqRecords
