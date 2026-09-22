@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25080
+! Total Channels: 25079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3769,7 +3769,6 @@
 @luincelticmusic
 @detrasdelmercadofinanzas
 @exploradorcuantico
-@imaginalafisica-e5f
 @fisicapensamientosdefeynman
 @dra.isabelacortes-e3z
 @cuerpoenarmonia-q8p
