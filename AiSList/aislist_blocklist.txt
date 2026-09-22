@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25075
+! Total Channels: 25074
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17057,7 +17057,6 @@
 @scapekitchen
 @oxy-ai-studio
 @thegeneral-t9k
-@promiticker
 @machinekind-u6l
 @countryworshiprevival_fanmade
 @abbymusicstudio
