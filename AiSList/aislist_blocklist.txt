@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25085
+! Total Channels: 25080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7553,7 +7553,6 @@
 @omegageopolitics
 @quietpleasefm
 @RealityUnfiltered-w8d
-@Silver_Trends
 @Investing-with-Buffett
 @BuriedCenturyYT
 @CatClub5
@@ -7625,11 +7624,8 @@
 @smarthealthguide-j3t
 @HealNaturally-h9h
 @healthandhealing-2M
-@SeniorsGuide-l9g
 @PeakMale_Health
-@DrClarenceMartinSeniorHealth
 @Avesstorytelling
-@mindoverlimit-q7b
 @sandraserratiresearch
 @MenHealthWithDrJocelyn
 @DrNaritaEliteMen
@@ -7766,7 +7762,6 @@
 @TheProductionLine4419
 @AffectiveCatMind-1996
 @TheForensicFinancialLedger
-@rainice409
 @DahiJalebiAI
 @AbyssEngineSounds
 @NeverlandSymphonicMetal
