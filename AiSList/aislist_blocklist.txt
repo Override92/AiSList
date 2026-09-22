@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25082
+! Total Channels: 25081
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14742,7 +14742,6 @@
 @craftlynreal
 @BunnylordMusic
 @TezaurLăutăresc
-@Sunetmagicmusic
 @CântecedeȘpriț
 @phoenixmusic_N1
 @ChefdeRomania
