@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25068
+! Total Channels: 25070
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25084,3 +25084,5 @@
 @echoes-of-the-outer-rim
 @Outpost-Nowhere
 @FutureTokyoRain
+@EverythingGMC-k9x
+@FocusRoomMusic0
