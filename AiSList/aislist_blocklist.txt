@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25086
+! Total Channels: 25081
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12755,7 +12755,6 @@
 @NavySecrets-q6t
 @StoriesBehindEverything-j6g
 @RMF-1B
-@DarkHollywoodActors
 @the_rising_guy
 @ChristianNerdYT
 @DanKorshunov
@@ -17064,7 +17063,6 @@
 @RobertExplains-x1t
 @QuantumMeat
 @aitrocity
-@CosmicHeart-o4u
 @DeepSpaceTales-s8t
 @SketchMind-y2u
 @TroubledLoveTales
@@ -19165,7 +19163,6 @@
 @FolkloreByChiddy
 @Funtoon-87
 @Africanchumitales
-@AfricanWisdombyArama
 @InspiringStoryWithKindness
 @sweetendingtales
 @Africanfolktalebyrichy
@@ -22366,9 +22363,7 @@
 @StoicAshford
 @GeobriefHQ-z2i
 @TheDavidNews
-@HitUpdates-k6l
 @olpergeopolitics
-@Wealtharo-t4u
 @lgx-g1l
 @DefenseFact-d9d
 @%E8%83%96%E8%83%96%E7%9A%84%E6%90%9E%E7%AC%91%E7%94%9F%E6%B4%BB
