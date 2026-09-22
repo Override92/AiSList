@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25080
+! Total Channels: 25075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -235,7 +235,6 @@
 @Todd_AI_Animal
 @AprilAI.Channel
 @SuperGoodCat
-@KittenNarrative
 @Acorn_Studios_official
 @JellyJam-q4o
 @Laugh2cry
@@ -245,13 +244,11 @@
 @KittenCuteness8713
 @Tendyap
 @Manoranjan_Tales
-@NovaTaleAI
 @TheWOWSyndrome
 @LodiBotPH
 @AistorysPets
 @im.animasi
 @TailRippleMedia
-@CuteChaosClub
 @AIForFun34
 @OrangecatYT-1H
 @catstudio_yt
@@ -268,7 +265,6 @@
 @MeowLaand
 @Catflix.taless
 @Meow_Ai_Story
-@OrangeCat_799
 @MeowLifeTNMedia
 @YupAnimation2
 @RumasAnimationVedio1
@@ -12857,7 +12853,6 @@
 @marcbongartzclips
 @TheSci-FiNexus-t3c
 @ApexxTerra
-@SuccessGears
 @hypotheticalrankingyt
 @k_random3
 @P%C3%A2melaMessias-p5s
