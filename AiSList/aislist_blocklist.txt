@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25074
+! Total Channels: 25069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3643,7 +3643,6 @@
 @monisamontoya401
 @UntoldJourneyStories
 @RomanticPrints
-@Johan_Andi
 @nana_jianwenlu
 @diariosmedievales
 @Kil%C3%B3metroCeroo
@@ -8105,7 +8104,6 @@
 @%E9%A2%A8%E8%BB%8A%E5%8B%95%E6%BC%AB%E7%A4%BE
 @TieuCuongXuyenKhong
 @ChillwithTaiki
-@NolanHayesBrief
 @VividReport
 @verumthemysteries
 @LesSecretsdesCivilisations
@@ -12541,7 +12539,6 @@
 @AIstudioZtoon
 @sangiaistudio
 @ClicktheoryO
-@MuhammadAdeel-j1d
 @PawPausReacts
 @TheWaterStudio
 @DanangAndOrangeCat
@@ -22022,7 +22019,6 @@
 @FantasyUniverse-z7p
 @dnasecrets01
 @Bille_Finance
-@itsjackparker
 @astoven65
 @draangelicap
 @afterschoolgirlsband
@@ -24546,7 +24542,6 @@
 @AiAmai-o6q
 @TheOathofJustice
 @TheNameBehindtheCuffs
-@DieEinschlaf-Vorlesung
 @ChronikenAgyptens
 @FloorAlchemy-666
 @FactnexaAI-v6d
