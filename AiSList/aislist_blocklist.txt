@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25077
+! Total Channels: 25075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8564,7 +8564,6 @@
 @allg-nd2
 @explosionoflaughter.56
 @chengai-q4x
-@24kontur24
 @famechronicles75
 @tinkrreviewsguides
 @jumperstales
@@ -18139,7 +18138,6 @@
 @NerraNetwork
 @SoraStudioCaf%C3%A9
 @소풍가자-m6s
-@aftergirlsband
 @ezra-11-11
 @rezaulkidszone
 @HAiLI.Studio
