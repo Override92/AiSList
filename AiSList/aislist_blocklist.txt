@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25063
+! Total Channels: 25058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3726,7 +3726,6 @@
 @RevengeBackstory
 @RevengeKatapult
 @HOAUnderFire-n7o
-@SHEKNOWSreddit
 @tandezotandezo
 @MinecraftMemories-m9v
 @RevengeNation1
@@ -4497,7 +4496,6 @@
 @CosmoAcademia
 @HistoriasConFania
 @NoirJazzCats_Playlist
-@SiliconDreamsleeper
 @Nate-Bishop
 @empireandmoney
 @YourJohnUSE
@@ -9170,7 +9168,6 @@
 @BaichuanAIComics
 @UntoldTruthTales
 @AIvideotales
-@africaamaze
 @AlbumMusicAI
 @StoriesBeyondHuman
 @ai_eternal_chapters
@@ -12862,7 +12859,6 @@
 @RelaxJazzCafe1990
 @roti.sounds
 @Mioneroraa
-@ember-playlist
 @rainmuselofi96
 @URLIST
 @EMMAJAZZRADIO
@@ -24730,7 +24726,6 @@
 @AbrahamHickworld25
 @Addictors_Studios
 @Ametricism
-@AndrewinHistorry
 @Aniknationn
 @BackstageClassics
 @CAR8
