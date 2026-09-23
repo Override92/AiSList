@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25059
+! Total Channels: 25061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25075,3 +25075,5 @@
 @dechereviewphim86
 @lenaparker-q2o
 @diencuong-k1v
+@storiesofpain
+@theaviationparadox-g8t
