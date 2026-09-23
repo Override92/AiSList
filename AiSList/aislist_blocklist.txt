@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25056
+! Total Channels: 25054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9495,7 +9495,6 @@
 @Itzquanta
 @TheCelebStory-official
 @primeprogress_09
-@Food4Facts
 @learnlib
 @AncientWorldSleepDocs
 @FaunaFieldnotes
@@ -17555,7 +17554,6 @@
 @DoorbellFootagewrld
 @SoraDoorbellFootageReal
 @DoorbellShortz
-@RCUniverse5858
 @Trueguts-r6w
 @PinkysTinyKitchen
 @BeyondReality2.0-VR
