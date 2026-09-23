@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25061
+! Total Channels: 25062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5728,7 +5728,7 @@
 @HOAPatrolYT
 @TheHOAUnleashed
 @HOALoudPower
-@MyNightScience
+@yoursleepscience
 @FutureStoriesbyAI
 @FrontlineWarMemoirs
 @QuietStrength141
@@ -25077,3 +25077,4 @@
 @georgia_skye25
 @funfantasyzone
 @aifytunestudio
+@khayglaistudio.02
