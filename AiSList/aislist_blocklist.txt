@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25066
+! Total Channels: 25061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2049,7 +2049,6 @@
 @aishortsvideo-as05
 @aishort095
 @aimationai-1k
-@ai_shorts_video_7
 @aiverse0000
 @ai_video_shop
 @aivideoshort-p2k
@@ -2071,7 +2070,6 @@
 @leostar-t2k
 @theshorts0322
 @funnyaicatsofficial
-@ai_cat6
 @alcats.1
 @catslife3-3
 @laughbellofficial
@@ -13763,11 +13761,8 @@
 @HealingNightShift
 @FrontlineNurseStories
 @HospitalHeartStories
-@MidnightCarePulse
 @DailyNurseEnergy
-@NightWardTales
 @WyattWest-k8q
-@ConvalesceStories
 @SealVeterans-o1v
 @HISTORICALLOVESTORIES-r6v
 @TheVelvetQuill32
