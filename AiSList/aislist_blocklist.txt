@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25063
+! Total Channels: 25058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44,7 +44,6 @@
 @LittleMan-x5x
 @Unbelievable.thought
 @ByteKings
-@1Sea_AI
 @Numb-Zhang
 @Diapernaut
 @HFYCodeX0
@@ -5516,7 +5515,6 @@
 @coraapod
 @EchoingHeartTalesLab
 @TheStruggleTales
-@EchoesofRomance-1
 @PeriodStoriesYT
 @DeedStories
 @stoicmorningroutine786
@@ -5846,7 +5844,6 @@
 @FalloutRaccoonUSA
 @MoneyEmpiresYT
 @parasgupta2013
-@WiseAnalytical
 @MidnightSignal_AI_4u
 @USPresidentialGamers
 @UnbuiltWorld2
@@ -11861,7 +11858,6 @@
 @LifeLens-Military
 @GlobalMilitaryWatch-yt1
 @Logivexchain
-@GammaFall-n6j
 @WarDustChronicles
 @HistoryBytemain
 @StatewideWeaponsUSA
@@ -18577,7 +18573,6 @@
 @ClaimedbyFate
 @DadsSilentRevenge-w3f
 @MUSICKIJY
-@MidnightRomanceAudiobooks-z8o
 @TheCandlelitHistory
 @Alfred45-j6v
 @AfterHoursOfficeJazz
