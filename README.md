@@ -35,7 +35,7 @@ Don't forget to set your username in the settings.
 | 🥈 2 | [@www2](https://github.com/www2) | 2482 |
 | 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2298 |
 | 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2066 |
-| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 389 |
+| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 392 |
 | 6 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 312 |
 | 8 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
