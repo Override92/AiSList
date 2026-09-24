@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25069
+! Total Channels: 25064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5938,7 +5938,6 @@
 @LASTV86
 @ThriveTribe104
 @ClimaRescue
-@HealingMoments-v5x
 @Arctic-Pulse-07
 @endure-earth
 @unknowntvworld
@@ -5946,10 +5945,8 @@
 @SleepyScrolls12
 @animolita
 @Unspoken.animalstories
-@Frozen_Heartt
 @ArcticKyunney
 @RescuePath-6868
-@WildSurvivalStrong
 @MeaningfulFilms0330
 @FrostVigil
 @kexing-ai
@@ -11511,7 +11508,6 @@
 @Amelia.Revenge.Stories
 @BehindClosedDoorsStories-e3v
 @KarenStoriesss
-@%EB%8F%88%EC%9D%98%EC%B6%94%EC%A0%81%EC%9E%90
 @ManhwaZERo0
 @Honmokisdu
 @TRALALELO-v4b
@@ -16946,7 +16942,6 @@
 @AI-DramaReel
 @suisui-h2x
 @artificialradio
-@DarkFamilyRevenge-HN
 @AISingsHardJ-POP
 @%E9%A0%88%E9%87%8E%E9%AB%98%E6%A0%A1%E8%BB%BD%E9%9F%B3%E9%83%A8
 @OfficerExposed
