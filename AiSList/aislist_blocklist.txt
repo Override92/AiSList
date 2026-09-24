@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25064
+! Total Channels: 25065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25080,3 +25080,4 @@
 @warscop
 @風雲客話
 @鎏金歲月678
+@風骨人生
