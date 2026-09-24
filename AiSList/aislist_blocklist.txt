@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25054
+! Total Channels: 25049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1694,7 +1694,6 @@
 @ai-toonmonkeys
 @monkeyaishort123
 @aibazanimation
-@aiunreal-shorts
 @monkeyanimation-v3f
 @taraaianimation
 @aistory4you-d2i
@@ -13051,7 +13050,6 @@
 @pawsandpixelss
 @mounikaanilvlogs
 @TinyFood-ai
-@SriTinycooking
 @Classical_Memoirs
 @TalesoftheForgottenPath
 @WanderingHearth-q6t
@@ -13162,7 +13160,6 @@
 @Feed_films
 @AIVault2026
 @DailyInternetRank
-@EpicCastTV
 @Top5_ranks
 @Dylan.Prescott
 @JohnPeters-n8j1d
@@ -13174,7 +13171,6 @@
 @Vinto.Ranking
 @dailyslopx
 @gamer4919-x8c
-@AnimalOlympics-t1w
 @Mangai168
 @HPZ-28
 @DylMan1
@@ -13195,7 +13191,6 @@
 @EyesOfTheFallenn
 @SoraAIRanks-i8t
 @NoNichePasha
-@Ronaldocutzzzz
 @KoreanStoryCorner
 @AiymOtepova
 @ZeashanAnimation-l3k
