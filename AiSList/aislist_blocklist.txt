@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25055
+! Total Channels: 25054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15781,7 +15781,6 @@
 @Bayoublues-z7m
 @PracticalWisdom
 @SecretStoriesByIsa
-@LostPlacesForgottenWorlds
 @PavotStudio
 @echo7universe
 @EchoForestStudios-h4z
