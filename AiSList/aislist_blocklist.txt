@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25077
+! Total Channels: 25072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11462,7 +11462,6 @@
 @filipfranzentutorials
 @clavemundial-22
 @vexorianhale
-@anoosh_animation
 @taintedholocron
 @primevalearth6688
 @fruitsopera.studio
@@ -14564,7 +14563,6 @@
 @SecretLifeChronicles
 @MurthyFinanceAcademy
 @PlagueTimeASMR0707
-@EliyaWerema
 @czzone-b4d
 @JumpSprinkle
 @IndigoEmeryStory
@@ -23802,7 +23800,6 @@
 @PERIODLOVEANDROMANCE
 @TheHiddenDukeChronicles
 @BehindtheCopperDoor2
-@TheSovereignLie
 @VelvetDukeRomanceLibrary
 @TheRoyalQuill-w9q
 @Toddlertale-d5v
@@ -23820,7 +23817,6 @@
 @CATBOO-16
 @MeowDramaStudio
 @catStory-q7h
-@RevengeCat1
 @Kitstory-l6h
 @BellaFearTales
 @FunnyFurries-786
@@ -23858,7 +23854,6 @@
 @meowtales-g6p
 @AIMelunniraFriends
 @EpicAIVids
-@CatLand-US
 @AnimateedCat
 @aimini000
 @SweetPawsAI
