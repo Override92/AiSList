@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25051
+! Total Channels: 25061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25067,3 +25067,13 @@
 @a.i.madedesigns6465
 @VeggieVerse-s6e
 @MONUMENTALbattles
+@TheDawnOfHope-x1j
+@zeldathemenace
+@MOTAKUKISTUDIO
+@TheLastSalute-q7g
+@CrownfieldStudios
+@bourgoinloida4130
+@TinyAnimalTalesStory
+@CapyPetal
+@CapybaraLoveOfficial
+@rishabhsandhu4102
