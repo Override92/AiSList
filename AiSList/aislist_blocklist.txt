@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25041
+! Total Channels: 25036
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1013,7 +1013,6 @@
 @aistoryfactor13
 @chillbuzzfun
 @pinkcatai
-@penguin-h8d
 @t_ai_x
 @relax-journal
 @gigglebots-k2i
@@ -5126,7 +5125,6 @@
 @The_Feynman_Way
 @TheCuriousPhysicist-l3n
 @FeynmanLegacy
-@RichardFeynmanMindset-i2l
 @DeepPhysicsYT
 @physicunfolded01
 @FeynmansWisdom
@@ -14270,7 +14268,6 @@
 @TalesByNkiru
 @WealthlegendAfrican112
 @StoriesWithOge
-@dabzfamily1102
 @jShadowFrameStories
 @SplendidAfricantales
 @AfricanTalesByIMADE200
@@ -23642,7 +23639,6 @@
 @waterbamboohealing
 @timer5555
 @jhumrubholu-r7l
-@shirleyfamily1102
 @TheSilentBoss-i5l
 @bighankwildweststories
 @ulfi_love
@@ -23737,7 +23733,6 @@
 @sullenbrookstories
 @HardHittingHymns
 @MomoCuteKittens
-@WhiskerVerse-k4r
 @AIFaithJourney
 @rhythmandbible
 @EpicChristianRock
