@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25071
+! Total Channels: 25066
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5421,7 +5421,6 @@
 @FORGOTTENVALOR4377
 @DrDavidInspiration
 @InfiniteHumanFrontier
-@HOAKarenNightmares
 @clouvdz
 @CorporateRevengeTales
 @BiblicalMoneyWisdomUsa
@@ -5449,7 +5448,6 @@
 @AmericanCrimeLedger-v3f
 @PKInvests
 @RiseWithGrace-e8x
-@TheSilentSoul1-x6j
 @Motiviber
 @VoiceOfDadUS
 @djokapanker198
@@ -24872,14 +24870,11 @@
 @ie-explains
 @HeartsVerseStudio
 @cursedmortayne
-@ObsidianThroneCinematicMusic
 @L-NERA
 @TheRollingFlagon
-@TheLarkAndLanternMusic
 @PAEVORA_MUSIC
 @EldoriaRomanceTales
 @MafiaRomanzenSchicksale
-@LIGHTOFTHESTAR
 @BloodMoonlightTV
 @DadEnigma
 @AetherDramas
