@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25079
+! Total Channels: 25087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25095,3 +25095,11 @@
 @DutytoDumbbells
 @youhavegotnostalgia
 @voiceofamerica12
+@CuriousFactsYT
+@OffGridSolutionsTV
+@JetInsight-v9b
+@PsychologySimplyDecoded
+@RagsandRichesFolktales
+@RexusHD
+@Unlocked-y2h
+@DeepBlueMarble
