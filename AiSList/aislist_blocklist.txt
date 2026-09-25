@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25058
+! Total Channels: 25057
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13496,7 +13496,6 @@
 @Rap-Checker
 @BABA_808
 @SameSound-2026
-@OldSchoolJamsUnlimited
 @OldSchoolStudio
 @realistkixng4990
 @mynt.studio
