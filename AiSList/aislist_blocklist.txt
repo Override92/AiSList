@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25060
+! Total Channels: 25055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20940,7 +20940,6 @@
 @MusicWorldXYZ
 @MartyWisdom
 @TheSketchbookInfo
-@ytcreatevideo-51
 @NickFinance-w8z
 @BehindtheScreen-l4d
 @AmbroseWild
@@ -20960,7 +20959,6 @@
 @SilentStory-y7m
 @NhatKhoaCao-y9h
 @HeartlandStories2
-@BeyondDreamsStories
 @Crisis_Social
 @TheHOAFallout
 @ShockingHOARevengeCommunitySca
@@ -20979,7 +20977,6 @@
 @loveandleveragestories
 @WiseFatherRevenge
 @PM-GGH038
-@Milliard%C3%A4rSingleDad
 @SoulSparkStories-k5x
 @EnforcementOfJustice
 @Consiglidianime
@@ -21210,7 +21207,6 @@
 @RoomieReports
 @Calmdadstories
 @CalmDadStories-l1w
-@WildWestWisdom
 @TheFearBehindYou
 @GhostProtocol-o1c
 @FatherVengeanceChronicles
@@ -22859,7 +22855,6 @@
 @四猫日和
 @incirtiyatrosu
 @cenachwaly
-@milliardarsingledad
 @ausgewahltestadte
 @長生きのヒントtv
 @mexicoindustrial03
