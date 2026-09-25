@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25201
+! Total Channels: 25203
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25217,3 +25217,5 @@
 @mimichilllofimix810
 @emergent-sara
 @MedInMinuteschannel
+@releasemusicgroup
+@GuerreDesEmpires
