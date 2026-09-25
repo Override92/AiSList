@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25055
+! Total Channels: 25050
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7299,7 +7299,6 @@
 @thehistorianarchive
 @zionikiAi
 @SUNhindhianimation-s6v
-@ASMRixAI-x8k
 @KitsuneAIMusic
 @RichardWykoffTradingMethods
 @DreamAIASMR234
@@ -7722,7 +7721,6 @@
 @factory12-w9s
 @baiband
 @Cutting-g7i
-@ZenithASMRAI
 @gamelifelive
 @Chefwhisper
 @CreativeAI-05
@@ -14638,7 +14636,6 @@
 @felixdurigbostudios
 @WillieAlvarez255
 @Africanwondertales_c
-@WhisperedLove9
 @HiddenKindStories
 @afrokdramastudio001
 @LawrenciaStories
@@ -24344,7 +24341,6 @@
 @Dragonstorie-h9s
 @mrifydet
 @raphaelcreativepen1
-@Guleti-754
 @VeloraAI-x2q
 @Dreamina_Inside
 @fantascystudioYT
@@ -24364,7 +24360,6 @@
 @AIFantasyWorld-07
 @TSAISHORTS
 @AIGirlsFantasyWorld
-@HumanFrontier-u9n
 @PimpleAI01
 @TheLastHonestFarmer0
 @TheMorrowPage
