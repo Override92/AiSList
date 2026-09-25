@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25185
+! Total Channels: 25195
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25201,3 +25201,13 @@
 @millitaryWarfare-1
 @GalaxyIfMultiverse
 @WARHAMMERUNTOLD
+@crossoverflux
+@StarforgeAlternateRealms
+@Heroecrossover
+@WarpStorm_7
+@variantuniverses
+@UrbanPlannerExplained
+@funlixco
+@JuneeGarden
+@KingStoic101
+@shonendynamics
