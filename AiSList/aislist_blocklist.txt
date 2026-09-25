@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25054
+! Total Channels: 25060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25070,3 +25070,9 @@
 @暮屿ai动画局
 @墨鸢漫社
 @逆光女主劇場
+@TheSilentWake-t5h
+@BetrayalStories-u4n
+@theideaspectrum-l4e
+@FadingAmerica-w1u
+@MetaversesianMuse
+@dani_onair
