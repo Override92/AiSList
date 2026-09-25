@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25118
+! Total Channels: 25128
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25134,3 +25134,13 @@
 @Cruifan
 @EstoicismoInterior
 @MaestroEstoico_77
+@EldersWorld
+@soldadoestoicoYT
+@Dumbarium
+@manualdelfilosofo
+@Complaintary
+@RidiculousComplaints
+@CruiseCompass25
+@SciFactsInfo
+@Thinkenz
+@ReligiousRonan
