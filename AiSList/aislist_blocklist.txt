@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25175
+! Total Channels: 25185
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25191,3 +25191,13 @@
 @ChillAstronaut
 @DerPanzerDocumentaries
 @Currency-Shock
+@StrategicAffairs-l4b
+@UkraineReports
+@DecorumExplains
+@ovixedit
+@GamingTime_official
+@Unhingedroads
+@GlobalArcInstitute
+@millitaryWarfare-1
+@GalaxyIfMultiverse
+@WARHAMMERUNTOLD
