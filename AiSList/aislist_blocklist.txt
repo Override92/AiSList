@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25059
+! Total Channels: 25054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6596,7 +6596,6 @@
 @oceanic-room
 @iridiumbeats
 @thechillibara
-@quackingjazz
 @goldenmistlofi
 @djfreshdjfreshdjfresh
 @cosmichipposounds
@@ -6653,7 +6652,6 @@
 @EttaBluesTone
 @SunsetFlow1
 @MOMOStudioOfficial
-@studyworkjazz
 @CepRelaxingAmbience
 @TheJazzShore23
 @TribalEssenceMusic
@@ -13532,7 +13530,6 @@
 @stevie.knight
 @PrinceHammahEqz
 @RhythmRoulette-m8k
-@Diarymusic.2
 @elite.mentall
 @joshuabrown3654
 @SmokeyBasement
@@ -21238,7 +21235,6 @@
 @Paul-McAllister1
 @courtreviewusa
 @bytesizedexplainer
-@Thechillhistorian102
 @CasuallyFinance
 @OverTales02
 @ProfessorPrimalOfficial
@@ -21599,7 +21595,6 @@
 @alfredrentxz6589
 @theHOAfiles-j2j
 @HOAvsHomeowner
-@WhiskeyHowl-d6b
 @tatyana.filimonova.creative
 @limliAI
 @Sanesh_ai
