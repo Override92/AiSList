@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25069
+! Total Channels: 25079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25085,3 +25085,13 @@
 @CoyoteTerritoryYT
 @WiseGunner
 @GadgetArcade-g6m
+@OutlawHistory1
+@DieselTrucksOnly
+@fuelsecrets
+@garageoftime
+@InsideBuick
+@MatthewWilliams-j6p
+@RAMCentralHD
+@DutytoDumbbells
+@youhavegotnostalgia
+@voiceofamerica12
