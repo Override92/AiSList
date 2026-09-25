@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25165
+! Total Channels: 25175
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25181,3 +25181,13 @@
 @thehiddeninventor
 @GenesisChamberUS
 @ThePlainTruthBible
+@PrimevalMythology
+@GnosticismforSleepp
+@sleepy-people-us
+@TheWisdomVaultOfficialYT
+@kolimprintart
+@Militopia1
+@SharpRanks
+@ChillAstronaut
+@DerPanzerDocumentaries
+@Currency-Shock
