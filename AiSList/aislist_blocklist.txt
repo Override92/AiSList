@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25064
+! Total Channels: 25061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9533,7 +9533,6 @@
 @ContemplativeMind-h5d
 @InnerJoyStories
 @EverydayBuddhism2
-@mysleepytiger
 @SangAuto
 @BabciaWyja%C5%9Bnia
 @SielskaBanda
@@ -18392,7 +18391,6 @@
 @RedditStoryJack-07
 @REVEAL-v
 @OneStepSuccessStory
-@godsfavoriteforever
 @velvet-s5t8y
 @curvychic-i9d
 @sorastudiocafe
@@ -22751,7 +22749,6 @@
 @WHISKEYBARNSESSIONS
 @LatentHarmony
 @AIZenLoops
-@CUTE_FRUIT_BABY_1
 @InfinityPulse-b5b
 @ASMRAIGenius
 @SYNTHSOUNDSTV
