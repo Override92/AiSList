@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25062
+! Total Channels: 25061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20330,7 +20330,6 @@
 @NepalAustralia-d8w
 @JapaneseCarInsider
 @RedChapterXIII
-@gregandtuby
 @GlossipTV7
 @TheWealthyFiles1
 @PuppyExplainsCars
