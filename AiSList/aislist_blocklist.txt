@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25060
+! Total Channels: 25069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25076,3 +25076,12 @@
 @FadingAmerica-w1u
 @MetaversesianMuse
 @dani_onair
+@sharpempire
+@TheLostHandyman
+@GunsmokeandGold
+@GunInsight-Office
+@Gun-zone
+@HiddenFrontier247
+@CoyoteTerritoryYT
+@WiseGunner
+@GadgetArcade-g6m
