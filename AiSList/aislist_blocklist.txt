@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25091
+! Total Channels: 25098
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25107,3 +25107,10 @@
 @eyeforinsight
 @KernCore-HL
 @MinuteMachines-videos
+@OceanCatchDaily-u2o
+@Oasthar
+@tech_rank
+@GadgetTen
+@gockhuat40k
+@KunalBhuktar-y2l
+@TarmacHub
