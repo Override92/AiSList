@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25069
+! Total Channels: 25064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6328,7 +6328,6 @@
 @voiceaisuno
 @dhun-drive
 @sonirion
-@craigbosward
 @sportnews75
 @successlife1221
 @whatifai-oe3lu
@@ -24111,7 +24110,6 @@
 @MafiaRomanceStories22
 @EloraDrama
 @K-MafiaBossObsession
-@HFYgalaxystoryofficial
 @HFYCosmosHunter
 @StellarboundHFYSciFi
 @TheGreyLineStories
@@ -24177,7 +24175,6 @@
 @Ciaomeow-ai
 @AiKidsWorld-b9r
 @chiku-b5z
-@MouseAIFilms
 @2011boy
 @Foxaivideos
 @AiNewStory2.0-10k
@@ -24204,7 +24201,6 @@
 @AIGrowthLabOffeacial
 @veeo1234gg
 @mini-aijourney
-@MythByt
 @akfictionhouse
 @WildzStoriez
 @ViralBloomAI
@@ -24218,7 +24214,6 @@
 @IrshadahmedSheikh-d3z
 @NillsAIHub
 @MZEYES-3
-@SQDreamyGirlAI
 @animated-aura-10
 @AIPlantWorld-007
 @SeedtoTreee
