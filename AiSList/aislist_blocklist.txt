@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25137
+! Total Channels: 25146
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25153,3 +25153,12 @@
 @OldMoneyDynasty
 @UpperClassMarriage
 @jukebox-america
+@snoozetorian
+@GoldenGiants
+@rarelycaptured
+@HollywoodObserverHis
+@SailSecrets
+@CruiserPro
+@CruiseUnfiltered
+@SmartCruiseGuide
+@thecruisesecrets
