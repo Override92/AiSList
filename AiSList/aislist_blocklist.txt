@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25226
+! Total Channels: 25225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16383,7 +16383,6 @@
 @deeptimedetective
 @VAELORAMUSIC
 @pinoytechspot199x
-@seniorvitalitydesk
 @Reelsofloveandfun
 @In-Ai-World
 @AfricanStoriesRetold
