@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25212
+! Total Channels: 25210
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12488,7 +12488,6 @@
 @MeowMoments-2025
 @aiprompt19
 @Promtin
-@AI-generator-video628
 @sonybabatv
 @FactSprint00
 @AiEffect4
@@ -19063,15 +19062,13 @@
 @sweetendingtales
 @Africanfolktalebyrichy
 @WhisperedTruths-e9t
-@ArimEntertainment-x3u
 @TotaRosed
 @BiolaTVStories
 @Africanfolktales-by-Amara
 @LumivaleStudio-c7b
 @AfricanLegendsUnveiled-j4w
 @AfricanStoryChannel-1
-@grandfatherkoficampfire
-@Rwanda_Tales_Production
+@savoreaworldkitchen
 @Bente_pro
 @Sunsetsecretstories
 @mirareacts42
@@ -25228,3 +25225,4 @@
 @ExtinctZoo
 @MellowVibess1
 @StoneShadow-2560bc
+@lasaladelavenganza-1
