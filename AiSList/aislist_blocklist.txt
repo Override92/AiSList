@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25266
+! Total Channels: 25276
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25282,3 +25282,13 @@
 @TheCarAnalyst-s2v
 @MedievalVibes808
 @Revionix-t3o
+@ROADLINEAUTO
+@USA-f1z
+@NewMvpAuto-r2s
+@TheJeepInsider
+@LuxeDriveReview
+@TruckTitans-c3r
+@VaeloriaMedv
+@RPMGarage-r6v
+@kizzombie
+@TheSoulofWindLabel
