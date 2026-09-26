@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25221
+! Total Channels: 25222
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25237,3 +25237,4 @@
 @aiauditions101
 @chanelvision26
 @humangrits-ns
+@dierentnerdeutschland
