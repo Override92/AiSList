@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25242
+! Total Channels: 25252
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25258,3 +25258,13 @@
 @Deep_Horizon-z3n
 @The-Hidden-History-Project
 @History_Facts_Unplugged
+@StoryTime-oo3co
+@History_at_Night
+@TimeCapsule3s
+@MidnightRain_Piano
+@EonLensMusic
+@HiddenWorldHistory-f5k
+@MindPalace0
+@world_fantasia
+@TheSleepyHistoryChannel
+@thesleepymonk
