@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25210
+! Total Channels: 25219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25226,3 +25226,12 @@
 @MellowVibess1
 @StoneShadow-2560bc
 @lasaladelavenganza-1
+@EzraTheJeweler
+@MokshaSoundscapes
+@LSHMusicAI
+@DorhaMotion
+@zensomniumai
+@sousakuai
+@lafabricadealvaro
+@FutureGalaxyFilmsTV
+@xiliz_prime_studio28
