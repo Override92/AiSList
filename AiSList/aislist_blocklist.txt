@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25276
+! Total Channels: 25282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25292,3 +25292,9 @@
 @RPMGarage-r6v
 @kizzombie
 @TheSoulofWindLabel
+@EVOLUTIONCAR-26
+@DriveMorph
+@HealingHarmonyPiano-s3
+@MotoChrono
+@americancarexcellence
+@AmurDriveBeamNG
