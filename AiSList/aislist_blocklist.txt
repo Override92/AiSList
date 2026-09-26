@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25220
+! Total Channels: 25219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11567,7 +11567,6 @@
 @Americanfarmstories
 @ShadowHistorians
 @UntoldWhys
-@wendy-smit
 @StickmanHogwarts
 @LichterderHoffnung
 @LuwengelaMartis-s2g
