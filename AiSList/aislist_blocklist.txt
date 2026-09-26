@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25310
+! Total Channels: 25319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25326,3 +25326,12 @@
 @FilmFantasyFacts
 @motomind-s9o
 @OneTakeVids
+@TheGentleBible
+@MikesForbiddenGarage
+@MpcBplus
+@TrueMidnightMystery
+@howsystemsfail_yt
+@TopTierMotorsYT
+@Pink-Rose8778
+@DisneyOrchestraNostalgia
+@shahnu_shorts
