@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25329
+! Total Channels: 25324
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -595,7 +595,6 @@
 @aicowstory6
 @dairytalesai
 @aicreatures12
-@aianimation-u8r
 @cowcartai
 @secretai3
 @aicartoon769
@@ -3228,7 +3227,6 @@
 @HFY_en_Espa%C3%B1ol
 @BibliotecaGalactica-r7t
 @CienciayFiccionFHY
-@LaOdiseaHumanaHFY
 @ManhwaResumenIA
 @EcosdeSangre-s5k
 @HistoriaHispana
@@ -10559,7 +10557,6 @@
 @a3ye
 @AdityaSkills
 @micromealmakers
-@LittleFunnyKids
 @Anitoonstv-444
 @eigi_and_ai
 @OldiesvibeAi
@@ -13694,10 +13691,8 @@
 @valorinscrubs
 @HeroesInUniform8
 @PhusTacticalStories
-@HealingNightShift
 @FrontlineNurseStories
 @HospitalHeartStories
-@DailyNurseEnergy
 @WyattWest-k8q
 @SealVeterans-o1v
 @HISTORICALLOVESTORIES-r6v
