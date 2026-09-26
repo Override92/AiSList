@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25225
+! Total Channels: 25220
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -243,7 +243,6 @@
 @KittenCuteness8713
 @Tendyap
 @Manoranjan_Tales
-@TheWOWSyndrome
 @LodiBotPH
 @AistorysPets
 @im.animasi
@@ -337,7 +336,6 @@
 @Ahahocat
 @AiLootBox
 @AISunoKahani
-@AiDog7.
 @CINETALES_AI
 @ancient.storyhub
 @ManaAIStories18
@@ -14998,7 +14996,6 @@
 @MarvelfunAi
 @FUTUREFILMS_AI
 @GALA-msc
-@Infinite_AI_official
 @Pawsclouds
 @Silent-Legendss
 @chillherefm
@@ -15119,12 +15116,10 @@
 @LonelionZK
 @BibleNutshells
 @nouspsychology159
-@AlphaCap%C4%B1talflowW
 @VexoWF
 @SpyderPaul442
 @VelvetLiquidDnB
 @neonglitch3.0
-@LukasFinanzen
 @VehicleLifeGuide
 @omas.hausgeheimnisse
 @HinterdemGlanz-f9d
