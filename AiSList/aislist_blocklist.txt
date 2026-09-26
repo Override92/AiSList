@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25290
+! Total Channels: 25300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25306,3 +25306,13 @@
 @MelodyoftheWanderer
 @MindFlow-Focus
 @MindFocus-Music
+@TheDeepFocusStation
+@Slowliferelax
+@ZONE365music
+@DeepCoffeeWork
+@TheWorkstationLab
+@little_soul
+@FootballThenAndNow66
+@CrownMediaone
+@SlowRockBallads1010
+@SweetnotesMusic
