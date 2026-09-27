@@ -32,15 +32,15 @@ Don't forget to set your username in the settings.
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
 | 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4470 |
-| 🥈 2 | [@www2](https://github.com/www2) | 2486 |
+| 🥈 2 | [@www2](https://github.com/www2) | 2488 |
 | 🥉 3 | [@Thibaultmol](https://github.com/Thibaultmol) | 2298 |
 | 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2067 |
-| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 394 |
+| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 399 |
 | 6 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 312 |
 | 8 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
 | 9 | [@tomjas1963](https://github.com/tomjas1963) | 284 |
-| 10 | [@Beavermafia](https://github.com/Beavermafia) | 252 |
+| 10 | [@Beavermafia](https://github.com/Beavermafia) | 282 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
