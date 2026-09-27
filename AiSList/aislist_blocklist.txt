@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25321
+! Total Channels: 25316
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5620,7 +5620,6 @@
 @KolaDepth
 @CurrencyMatrix
 @Unfolded_Finance
-@RubyReports
 @NavyClash
 @SoldiersofValor
 @official2amthoughts
@@ -5764,7 +5763,6 @@
 @FreedomTales-g9n
 @HOASTORIESUS-14
 @vidaloka4230
-@ForbiddenCamping
 @BlushNotes
 @chamoon-u2t
 @HOAFilesYT
@@ -18503,7 +18501,6 @@
 @BritishTruthReport
 @PlatinumDiaries
 @EmmanBLDiary
-@RoyalLegacyChronicles-g5f
 @AinasLoveStoryLibrary
 @Cherrywhisperdrama
 @TheCachee
@@ -19250,7 +19247,6 @@
 @CosmicCat2606
 @vegetablesanimations
 @AbhinavNatureWorldYT
-@AiStoryVersee1
 @EntertainmentWorldh9g
 @CCStray
 @HistoricDive
@@ -22997,7 +22993,6 @@
 @%E6%A1%83%E5%B0%8F%E6%BB%BF
 @astraalice
 @DLEJ_official
-@CrownfieldYT
 @CinderRoadRadio
 @soragen.official
 @RealeRachegeschichten
