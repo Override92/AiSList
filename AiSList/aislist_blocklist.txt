@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25310
+! Total Channels: 25312
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25326,3 +25326,5 @@
 @rn-restoration_1
 @before_history_0
 @capcen01
+@zarah-leecutiechan
+@theworldrevealed1
