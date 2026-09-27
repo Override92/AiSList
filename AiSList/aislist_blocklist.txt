@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25315
+! Total Channels: 25314
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10628,7 +10628,7 @@
 @METALJPAI
 @ROCK.IN.AI.J
 @AiMetalCover_28
-@hudanzmusicchenel
+@hudansmusicchanel
 @isikalmusic
 @legendsreimagined13
 @kAthrsIs
@@ -18519,7 +18519,6 @@
 @ZushayaAiWorld
 @unlimited-horror-stories
 @AuntieMayaStoryTime
-@blessingasuquo-z4b
 @AiStorytelling19
 @cartoonorbit-1
 @DreamScaleStories
