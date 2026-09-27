@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25314
+! Total Channels: 25313
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25184,7 +25184,6 @@
 @Pickupautomotive
 @WokeupHistory
 @TheAncientWitness
-@ExtinctZoo
 @MellowVibess1
 @StoneShadow-2560bc
 @lasaladelavenganza-1
