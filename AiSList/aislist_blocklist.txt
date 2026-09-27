@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25324
+! Total Channels: 25326
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25340,3 +25340,5 @@
 @SoothingSoundsMusic
 @bants404
 @munybinfluencers
+@echoesofgracebydee
+@cr8vfilms
