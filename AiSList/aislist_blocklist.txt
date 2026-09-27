@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25326
+! Total Channels: 25325
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3831,7 +3831,6 @@
 @LaClaveDivina-o6b
 @Oraci%C3%B3nInspirada
 @Ense%C3%B1anzasB%C3%ADblicasProfundas
-@Dr.-Rafael-Mendoza
 @CaminodeOraci%C3%B3n-v1l
 @Secretosespiriituales
 @NolanzoAnimationtv
