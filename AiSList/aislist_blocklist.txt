@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25310
+! Total Channels: 25305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1230,7 +1230,6 @@
 @pigeonai-g2k
 @aipigeonanimation
 @ai_pigeon
-@aipigeonanimation-p2t
 @pigeonanimation18
 @aipigeon11
 @pigeonanimationbyt
@@ -5261,7 +5260,6 @@
 @MilitaryHQ1
 @macon5636
 @BABYKIDSTV-z8r
-@SystemGeld
 @iReportage
 @TheBullionBossOfficial
 @MarketingbyVijay
@@ -23650,7 +23648,6 @@
 @Godfreystoriesrush
 @NovaTalesTV-i3d
 @FOLKTALESCORNER44
-@FolktalesbyMoore
 @HausaStoriess
 @Nbancineluxe
 @Afro-KoreanSeoulStories-97
@@ -23794,7 +23791,6 @@
 @RaayanAIMagic
 @Tiny_DuckAdventures
 @CatStories-e4c
-@AIJALWAXYZ
 @ASMR_20.6
 @dadajiaivideo007
 @FATHERSSTERNREVENGE
@@ -24951,7 +24947,6 @@
 @zeldathemenace
 @MOTAKUKISTUDIO
 @TheLastSalute-q7g
-@CrownfieldStudios
 @bourgoinloida4130
 @TinyAnimalTalesStory
 @CapyPetal
