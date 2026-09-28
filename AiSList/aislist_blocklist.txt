@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25319
+! Total Channels: 25321
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25335,3 +25335,5 @@
 @john-uncle-official
 @thenutrientcodetv
 @eagletraderict0330
+@theeasternmethod
+@marketwise-j1e
