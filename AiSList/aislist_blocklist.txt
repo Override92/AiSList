@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25314
+! Total Channels: 25324
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25330,3 +25330,13 @@
 @GravityDramaTV
 @CineBeastAI0
 @AIReimagining-o7z
+@MuqiiVerse
+@KseniaKon_AI
+@Karloff_AI
+@AIRenderPulse
+@StoryNova-i7u
+@thebellstory-l7m
+@theaianimation-b1j
+@aivideocreation93
+@AiAnimation-u2v
+@PaintedClassicTales
