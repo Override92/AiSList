@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25324
+! Total Channels: 25319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5979,7 +5979,6 @@
 @amitraveli
 @aikahani-e8e
 @tuconsejeronocturno
-@bravepawsrescue1
 @ninaknowswhy
 @us-stock-spotlight
 @graphhis
@@ -6072,7 +6071,6 @@
 @RestWithChristYt
 @DrJakeTaylor
 @DrMichaelKent-m2d
-@Dr.ThomasSeniorHealthTips
 @Dr.CarlosMorris
 @TopHealthTipsHub
 @FlavorNostalgia
@@ -11170,7 +11168,6 @@
 @Sukhendaszdas
 @AfricaAitales
 @LuxeWavezRecords
-@HFYGalaticStories
 @fansiyu-1
 @seraphinasromance
 @chocopeve
@@ -16873,7 +16870,6 @@
 @Schattenlegenden-t6o
 @MafiaLegenden
 @Soul-Whisperer-MiniMelodies
-@FathersFinalJustice-n7z
 @Kuon9812
 @AfterDarkBluesLounge
 @MidnightChicagoBlues-p5x
@@ -24004,7 +24000,6 @@
 @TheBLissTales-m9l
 @LeonEvelakesAiBs
 @kutai-m%C3%BCzik
-@CLASSICROMANCEERA-j8h
 @PorchlightStories68
 @Untoldhonorvoices
 @FamilyDramaStoriesYTB
