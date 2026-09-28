@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25310
+! Total Channels: 25311
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22532,7 +22532,7 @@
 @familydramaonrecord
 @napkin-markets
 @revengstories24
-@zulumovies-j3t
+@africanmythicmovies
 @dailyinsight92
 @masibellaafricanfolktales
 @storieshubbye
@@ -25326,3 +25326,4 @@
 @docdrift
 @feraldawn4
 @orsonwild1
+@bettystorytales1
