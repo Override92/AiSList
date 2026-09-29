@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25314
+! Total Channels: 25315
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25330,3 +25330,4 @@
 @wildernesssheltersbuilds
 @magic_kitchen_1k
 @transformimaan
+@everything_food_channel
