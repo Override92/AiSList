@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25299
+! Total Channels: 25297
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6788,7 +6788,6 @@
 @usadailyallupdate
 @Paulieuncovered
 @POVExplainerYT
-@MilitaryForceUSA-g8n
 @DogSoul96
 @DogFactsFun
 @TheDogSpirit96
@@ -6829,7 +6828,6 @@
 @currentaffairsexplain
 @YachtPro-v5i
 @EverydaySailing
-@hardwarealert
 @venuscolapse
 @SecretFrequencyVibes
 @mirrorversemusic
