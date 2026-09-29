@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25302
+! Total Channels: 25297
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7239,7 +7239,6 @@
 @blackfacetrader
 @red-forge
 @ww2untoldsecrets
-@lhistoriendespieces
 @wyobrazsobiewszechswiat
 @piotrwegielek
 @Bigscaleprocess
@@ -24981,7 +24980,6 @@
 @tech_rank
 @GadgetTen
 @gockhuat40k
-@KunalBhuktar-y2l
 @TarmacHub
 @LordofVoid-r1o
 @TheDarkLedgerIntel
@@ -25017,7 +25015,6 @@
 @TheSmartTraveler25
 @OldLinePower
 @Zerofuturism
-@MythicMindScape21
 @Star-Sparked-Living
 @OldMoneyDynasty
 @UpperClassMarriage
@@ -25059,7 +25056,6 @@
 @SharpRanks
 @ChillAstronaut
 @DerPanzerDocumentaries
-@Currency-Shock
 @StrategicAffairs-l4b
 @UkraineReports
 @DecorumExplains
@@ -25072,7 +25068,6 @@
 @WARHAMMERUNTOLD
 @crossoverflux
 @StarforgeAlternateRealms
-@Heroecrossover
 @WarpStorm_7
 @variantuniverses
 @UrbanPlannerExplained
