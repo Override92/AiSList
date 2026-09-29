@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25309
+! Total Channels: 25307
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21073,7 +21073,6 @@
 @Herberttheentertainer
 @rainandrelaxationdeepsleep
 @FocusedHall
-@shadowmanhwa-recap
 @Whosanelabs
 @UnchartedDepths-v2n
 @HekaSenebAI
@@ -21347,7 +21346,6 @@
 @RealBibleAI-i6u
 @AI.BibleStudies
 @DarkBibleMovie
-@TheBibleinAi-k6x
 @LucasBiblicalOriginsCinema
 @THROUGHTHEBIBLEAI
 @BiblevisionAI-j5f
