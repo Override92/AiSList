@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25309
+! Total Channels: 25304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18729,7 +18729,6 @@
 @CheatingStories-Postcard
 @RageStories-n8d
 @Gold-Novel
-@DedeyGanchinho
 @ScarsBetweenUs
 @HappyLovePayback
 @ColdHeartStories222x
@@ -20645,7 +20644,6 @@
 @sskdevayani
 @MagyarFruitsAI
 @AI_Vision807
-@YK-VIDEOS-7075
 @fruitybliss-b5w
 @Aifruitvideos-u7j
 @FruitBiteAIFruitBiteAI
@@ -20885,7 +20883,6 @@
 @loveandleveragestories
 @WiseFatherRevenge
 @PM-GGH038
-@SoulSparkStories-k5x
 @EnforcementOfJustice
 @Consiglidianime
 @orvionlab
@@ -21343,7 +21340,6 @@
 @aibiblemedia2226
 @RealBibleAI-i6u
 @AI.BibleStudies
-@DarkBibleMovie
 @LucasBiblicalOriginsCinema
 @THROUGHTHEBIBLEAI
 @BiblevisionAI-j5f
@@ -24806,7 +24802,6 @@
 @FactoryStreamai
 @Fp6.0
 @ColdSurvivalMountain
-@DADSTRUEREVENGELAB
 @DramaofDestiny-z9q
 @Clinteastwoodarchives
 @CowboyTaless
