@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25293
+! Total Channels: 25296
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25309,3 +25309,6 @@
 @cookingroyal
 @hassan-mehmmod
 @topdiyclup
+@CapitalVisionz
+@doctormarkleeofficial
+@LoFiTunesEscapes
