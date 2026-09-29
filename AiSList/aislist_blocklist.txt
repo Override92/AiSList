@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25299
+! Total Channels: 25294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7305,7 +7305,6 @@
 @maddownavy2026usa
 @TheTippingPoint-f3y
 @EconomicsKingdom
-@TheSomberSea
 @therelicarchive
 @chinchan21
 @storieswithmandy
@@ -14611,7 +14610,6 @@
 @HardwareAxis
 @SpaceLoop1
 @TheDNAFiles123
-@Algorithmized
 @YieldlessHFY
 @DystopianHfyStories
 @SilenceoftheEarth
@@ -21789,7 +21787,6 @@
 @ShrabaniNijhawan
 @LogicalMoney72
 @vanishedrooms
-@ScienceTechnology-s7l
 @kenadeemaverick
 @sumengyue
 @butterflydramaclub-z9z
@@ -24273,7 +24270,6 @@
 @NightEgypt
 @TheMeasuredPast-HR
 @EgyptAfterDark
-@SecretHomeRevenge
 @RevengeRealmEmpire
 @ProcessFoundry-ASMR
 @vaka.belgesel
@@ -24979,7 +24975,6 @@
 @RexusHD
 @Unlocked-y2h
 @DeepBlueMarble
-@GlobalUncoveredDocumentary
 @eyeforinsight
 @KernCore-HL
 @MinuteMachines-videos
