@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25294
+! Total Channels: 25291
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6734,7 +6734,6 @@
 @HighwayChillHQ
 @Samurai_Resolve_Sounds
 @Ambertonee
-@QuietClassJazz
 @SacredStill-pcn
 @mellowflow7
 @VintageRelaxingLand
@@ -6861,7 +6860,6 @@
 @quizdojo_yt
 @心聲新語
 @安好人生
-@rm_global_crisis_report
 @cozymomentsyt
 @theuniverseofsusskind
 @relaxingredditstories888
@@ -11007,7 +11005,6 @@
 @nostalgictunesstudio
 @motoelite-n5r
 @ww2honorr
-@wilecreation
 @musicrecords-k7v
 @chillmoments69
 @tsi4455
