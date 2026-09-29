@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25298
+! Total Channels: 25297
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5893,7 +5893,6 @@
 @wieczorneopowiesci
 @zmieniajaceprzeznaczenie
 @desivlog-9y
-@ogjohnag2.00
 @connectioninsights
 @poweroverhistory
 @sleepwise_official
