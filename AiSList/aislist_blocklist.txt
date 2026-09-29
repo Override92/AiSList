@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25312
+! Total Channels: 25310
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20579,7 +20579,6 @@
 @TheAussieSovereigns
 @MiliSmartKitchen
 @The-Chupacabro
-@TalkingOptionCartoons-h2p
 @AstricusYT
 @Earth_Radar
 @SkyAlert-8
@@ -20625,7 +20624,6 @@
 @UnknownReelStories
 @Ponyo_rantz
 @crazyLakshay
-@Zenifyy-m1x
 @AI-Tingles-Factory
 @Satisfamine
 @SugarySwirl_ASMR
