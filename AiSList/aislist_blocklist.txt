@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25299
+! Total Channels: 25294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6990,7 +6990,6 @@
 @Waqarera
 @capitalcollapse-v2j
 @taptech-shoaib
-@LHistoriendesPi%C3%A8ces
 @AvsecTV
 @RedAlertMarkets
 @FinanceInMinutes
@@ -12663,7 +12662,6 @@
 @watcherstories
 @WarhammerTheorist
 @FlightTales-x3w
-@Goofykins
 @TheWornRecord
 @cognitiveshiftshop
 @ecos_eternos789
@@ -18952,7 +18950,6 @@
 @ionvscovrigel
 @zeszytwkratke
 @LumiVale_Stories
-@FolktaleByLee-s3x
 @Talesbymoonlight-T
 @OfficialDorceyTouch
 @fametales-07
@@ -19030,7 +19027,6 @@
 @TheAmericanCourtroom
 @DadsFamilyStories
 @AFathersSilence
-@BrokenDadChronicles
 @HiddenFury-g3v
 @Calmwifestories
 @SilentFamilyStoriesUS
@@ -22018,7 +22014,6 @@
 @HOAStoryHUB8
 @CJLastix_Stories
 @AIMakingFood
-@HANAStoriesUS
 @HOABUZZM
 @BunnyForest-vmd
 @HOANarrate
