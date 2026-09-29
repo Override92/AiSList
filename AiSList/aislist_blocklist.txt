@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25307
+! Total Channels: 25309
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25323,3 +25323,5 @@
 @everything_food_channel
 @เปาฮอรววหนง
 @aikazo-official
+@greatbelieve2021
+@thelastpayback-i5x
