@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25273
+! Total Channels: 25272
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4347,7 +4347,6 @@
 @QuietStrength2
 @BlackBattalion-v9d
 @OldEarthStories
-@TheirCourageRemembered
 @beneaththemedal-warstories
 @QuietBearing
 @DoseOfHistory_0x
