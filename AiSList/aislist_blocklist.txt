@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25288
+! Total Channels: 25283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -264,7 +264,6 @@
 @Catflix.taless
 @Meow_Ai_Story
 @MeowLifeTNMedia
-@YupAnimation2
 @RumasAnimationVedio1
 @Magiclight-Ai
 @EAGLEFANCLUB3
@@ -16152,7 +16151,6 @@
 @AmbienceDreamscape
 @EpicScroll-83
 @ascensioncurios
-@JiangTheExplainer-e5d
 @ChanLore
 @goldencinemaclips
 @Discover24hProduction
@@ -16299,7 +16297,6 @@
 @meridian_ytube
 @Niespe%C5%82nionaMi%C5%82o%C5%9B%C4%87
 @S%C5%82owaPrzesz%C5%82o%C5%9Bci
-@dr.AndrzejMajewski
 @25thpage
 @shamanicspiritportal
 @healingether
@@ -16896,7 +16893,6 @@
 @TroubledLoveTales
 @TheZenithHFY
 @HumanityUnleashed-US
-@SciFiFutureTales
 @TerranovexHFY
 @r_naar
 @timefulvideoart
@@ -18364,7 +18360,6 @@
 @CarChaser-313
 @TheAutoExplore1
 @AlexAutoRevews
-@CollectibleDollsandToys
 @TexasReaperRadio
 @SproutCycleGarden
 @YachtVerse
