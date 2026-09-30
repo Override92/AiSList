@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25292
+! Total Channels: 25291
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7156,7 +7156,6 @@
 @TheProductCritiques
 @PaintowyNauczyciel
 @justmemoryvision
-@tinybloopandmimi
 @tidcartoon67
 @englishedenus
 @dailydoseshow1
