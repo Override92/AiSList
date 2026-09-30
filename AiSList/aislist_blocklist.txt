@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25272
+! Total Channels: 25273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25288,3 +25288,4 @@
 @plasmoney
 @brickcitybb
 @disasters_watch
+@ohmyfrog
