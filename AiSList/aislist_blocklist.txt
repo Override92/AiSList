@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25282
+! Total Channels: 25277
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2209,10 +2209,8 @@
 @lalsaha123
 @TechSolutionz
 @ActiorDe
-@SocialismExplained
 @PandaAIDuniya
 @Mr.Twist.2077
-@AiPaws-Brand
 @PopLabAI
 @AIPawss
 @AIPaws-c6o
@@ -25103,11 +25101,9 @@
 @HiddenThronesHistory
 @TastebudsAtlas
 @HiddenTruths9
-@Veridi
 @HistoryBypass
 @wufoscience
 @TheSnoozy-Scientist
-@TravelCanvas68
 @HistoricalRabbitHoles
 @TheWorldBeforeDawn
 @PillarsOfHistory1453
@@ -25138,7 +25134,6 @@
 @fantaisiaambience
 @heraldofages
 @HRAutoReviews
-@AutomaticPulse
 @virexauto
 @TheCarAnalyst-s2v
 @MedievalVibes808
