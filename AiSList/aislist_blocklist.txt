@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25289
+! Total Channels: 25290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25305,3 +25305,4 @@
 @richardhallowaycryptids
 @storybeyondtime-b9p
 @b.ruthglenn
+@jinseinomonogatari101
