@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25275
+! Total Channels: 25273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4007,7 +4007,6 @@
 @aibuble
 @imaginarii-videos
 @CichaNauka0
-@MeskaPsychologia
 @FinTalk-f2z
 @StockInvestmentEmpire
 @nonbindingfinance
@@ -4091,7 +4090,6 @@
 @stories4361
 @QuincyinvestW
 @FinoraTV
-@IndependentEconomicAnalyst
 @FeynmansMindset031
 @MehboobKhan-u5j
 @CinematicEmpireArchives
