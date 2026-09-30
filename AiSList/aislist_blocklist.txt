@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25273
+! Total Channels: 25268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3480,7 +3480,6 @@
 @Millionaire_Romance_us
 @BossoftheUnderworld
 @enigmasarqueologicos7
-@HerBillionaireHero
 @PassionateMemories
 @LOSDOCUMENTALES1
 @ImperioPerdido
@@ -4580,7 +4579,6 @@
 @TheHOAStorytime
 @tuyetngao5518
 @HOARafiq
-@TheHOALogs
 @nightstories3
 @TheHoatales-t4e
 @blackTale-1
@@ -22844,7 +22842,6 @@
 @TheCozyHearths
 @MindHustle_quizplatform
 @OurGreekMythology
-@TheMindDriftAI
 @PyratheonOfficial
 @AIEnglishStories17
 @synthetic_story_studios
@@ -25128,7 +25125,6 @@
 @virexauto
 @TheCarAnalyst-s2v
 @MedievalVibes808
-@Revionix-t3o
 @ROADLINEAUTO
 @USA-f1z
 @NewMvpAuto-r2s
@@ -25185,7 +25181,6 @@
 @RumiHunters-v6c
 @Timeless40sTunes
 @RainyOnLeaves
-@RealAustraliaReport
 @RonaldBrod
 @KnowaBitMoreOfficial
 @Hardware-Facts
