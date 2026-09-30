@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25290
+! Total Channels: 25288
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7850,7 +7850,6 @@
 @hoastoryhub-q4h
 @restorefusion
 @퍼피휴게소
-@learnstoryenglish-k3x
 @niezwykly-umysl
 @piotrcienwronski
 @tysiacletniehistorie
@@ -18023,7 +18022,6 @@
 @2PacRevival
 @GrandadDrillRappers
 @TheSelfInsightHA
-@ThePsychSpot-e8v
 @silentawarenesschannel
 @Whispering.Garden-y9l
 @ArabeskAilesi
