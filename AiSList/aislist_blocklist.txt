@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25280
+! Total Channels: 25275
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2569,7 +2569,6 @@
 @cutecatstories-q2f
 @littlekitty-1998
 @meowaitvof
-@aicatrealm7979
 @cutecatsstoryes
 @catimation_a_i
 @oreomiao
@@ -4809,7 +4808,6 @@
 @thelostexorians
 @t-h-e-other-side
 @BibleOrigins1
-@SoapOperaInsider
 @HumbleRevenge
 @HerJustice-t7p
 @Requestedreads
@@ -9628,7 +9626,6 @@
 @TruthFables
 @KarenKarmaStories
 @TargaryenKings
-@MFCinematicUniverse
 @echovistai
 @RunesBlades
 @realitygeneration
@@ -17118,7 +17115,6 @@
 @theafronarcpodcast
 @luxautox
 @Metavoicesmusic
-@True-Crime-Lovers
 @PawKind-Stories1
 @kaiexplainsYT
 @AIFeedHQ
@@ -17147,7 +17143,6 @@
 @iNews_Magyarorsz%C3%A1g_info
 @Vard-Ges
 @ClassicCroonersRevival
-@AlienVerseStories
 @HumanityUnleashed73
 @OG-AIanimereels
 @pyona_ai
