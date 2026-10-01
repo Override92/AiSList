@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25283
+! Total Channels: 25282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17052,7 +17052,6 @@
 @aiflashversex
 @evuary
 @runvyr
-@foodcraftworld-208
 @shaizycoco
 @fanpagepulsetunez-w4n
 @ByteKnow
