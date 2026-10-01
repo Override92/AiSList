@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25266
+! Total Channels: 25264
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18413,7 +18413,6 @@
 @TheCandlelitHistory
 @Alfred45-j6v
 @TheLegacyofBruceLee
-@AnimalFlashTime
 @KaelEmberfall
 @TheBoringRichCo
 @amazingmagicworld07
@@ -23173,7 +23172,7 @@
 @Horn_Studio-A
 @InShowStudio
 @LoversArchive-w8e
-@theglchronicles
+@khayaistudioversion02
 @MysteriousLoves-ML
 @MindPixelAIFILMSTUDIO
 @VoidFrameOriginals
@@ -23183,7 +23182,6 @@
 @MissG15th
 @JAPANAHEADing
 @agapiselogia
-@LYG-Anime
 @DennisFarleyDiscovery
 @FateRushTV
 @Novelora-c5o
