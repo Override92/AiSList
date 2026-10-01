@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25268
+! Total Channels: 25266
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5701,7 +5701,6 @@
 @admin_sacredembergospel
 @wspanialedwory
 @kosmirex
-@earnsecretpro
 @thehollywoodledger1
 @stephnsteve
 @quietmindsstory
@@ -23132,7 +23131,6 @@
 @Indiapur
 @UltraVibeZone-t2n
 @jmjfilmybeats
-@MusicMixMasala
 @RohosserMukhosh
 @Aisonghub7
 @sapnaaimusic2.0
