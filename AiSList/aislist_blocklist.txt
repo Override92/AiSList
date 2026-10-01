@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25258
+! Total Channels: 25256
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -990,7 +990,6 @@
 @cutelittleworld-d
 @minipets7
 @furrystates
-@happyfantasyworld
 @kitty-r3b5j
 @catanimation-f5y
 @cutecatkittyfriend
@@ -9895,7 +9894,6 @@
 @HOAStories-6686
 @HOAStories-97
 @HOASTORIES-o9g6r
-@HoaStories-q7j
 @HOASTORIES-y5l
 @HOAStories02
 @Hoastories66
