@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25268
+! Total Channels: 25266
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4650,7 +4650,6 @@
 @KarenDrama-p8h
 @Suethehoa
 @KarenFallout-w5e2i
-@sufyanofficial-b6t
 @HiddenTaleYT
 @dollarlogic17
 @HeavenTestimoniess
@@ -19101,7 +19100,6 @@
 @Rumiuwu-y9o
 @CatRecap
 @Amaia02-w2g
-@FruitLifeStories-d8b
 @BibleBrickStories
 @HindiAIGyaan
 @AiMinds26
