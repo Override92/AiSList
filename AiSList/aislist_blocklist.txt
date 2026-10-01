@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25264
+! Total Channels: 25263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34,7 +34,6 @@
 @AIDreamCreations
 @BattleAI-z3r
 @reelfry-art
-@visioni-ai
 @AI.1FANTASIA
 @Vivad-x1n
 @GameVerseHub12
@@ -3147,7 +3146,7 @@
 @Aditi_Aadia
 @FiatFilesCurrency
 @TheMoneyVault-h6y
-@moneyuntold_786
+@untoldminute3d
 @EconomicRecords
 @EconomyUnfilteredTV
 @ArchiveCurrencyAG
