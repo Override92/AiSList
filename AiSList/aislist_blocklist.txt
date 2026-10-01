@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25275
+! Total Channels: 25273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5144,7 +5144,6 @@
 @KarenBusters65
 @TheDailyKaren
 @HOADispatched
-@EpicBond-TalEs
 @hoarevengefiles-k7g
 @HOAHorrorTales-y7r
 @InfiniteEssenceoflife
@@ -14086,7 +14085,6 @@
 @ModernstoryVault-y5j
 @TheVillageGriot
 @Oyintalesnaija
-@Mama-Deep-Tales
 @AfricanFolktalebyZoya
 @Whispers-oftheAncients
 @AfricanHeartVault
