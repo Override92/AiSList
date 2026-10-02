@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25338
+! Total Channels: 25348
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25354,3 +25354,13 @@
 @MapleLaneMemories
 @AI-Art-Guy
 @bkdjart
+@SynthNexusAI
+@GoldenStageBallads
+@AndrioConfessionFeed
+@AICHRISTMASMAGIC
+@mrakashkankal
+@VAIstream
+@ShepawTales
+@TheFathersVengeanceUs
+@Zinkythecat
+@jeshurunswake
