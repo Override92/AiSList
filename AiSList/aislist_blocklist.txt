@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25316
+! Total Channels: 25322
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25332,3 +25332,9 @@
 @KingofpopAI-25
 @TheArtificials-AI
 @AwnestInstrumentals
+@EvergreeneAfricanTales
+@Nemesis-y3g
+@Romance-k7m
+@Rustyscountryfolkandblues
+@ParodyMockTrax
+@FantasyRealmGeographic
