@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25471
+! Total Channels: 25469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6747,7 +6747,6 @@
 @DeadLineFilesTV
 @Melty_ASMR_Love
 @jeeksdoneit
-@провереныисторическиехаки
 @samvelhov528
 @PradawneDzieje
 @UkryteOdkrycia
@@ -13446,7 +13445,6 @@
 @NeoAIMusicLabANNEX
 @TETSU_REDRIVE
 @hikari_verse-x5r
-@theaicoversJAPAN
 @afterimage_music
 @tajemnicaswiataujawniona
 @thesurvivaledgeyt
