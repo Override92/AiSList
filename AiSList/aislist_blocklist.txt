@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25263
+! Total Channels: 25261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5387,7 +5387,6 @@
 @FinanceFrontier-786
 @JesusDevotee
 @RichMindMelody
-@SystemicLedger1
 @AudiobookWealthMindset
 @DivineWealthVibes
 @MoneyMeaning2025
@@ -23722,7 +23721,6 @@
 @FrostmoonStudios
 @FreshRebuild
 @TransformGarageAI
-@Uscraftlab
 @teatime_bl
 @yamyi_tv
 @BL_ABOStories
