@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25458
+! Total Channels: 25466
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25474,3 +25474,11 @@
 @EarthAnimeAI
 @AIAnimeZoneX
 @AiForAnimes
+@NeonAIStudio69
+@AnimeAIStudio-n5y
+@AIAnimeStudio11
+@helionyxstudio
+@FullAiAnime
+@aisparkytofficial
+@aianimemaker
+@AIAnimeAestheticoffical
