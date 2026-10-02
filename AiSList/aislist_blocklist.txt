@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25248
+! Total Channels: 25247
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10903,7 +10903,6 @@
 @Vagabond-in-the-Rain
 @shavashchannel
 @TerranProtocol
-@HFYTalesDaily
 @InfiniteWarChronicles
 @DarknovaProtocol
 @HFYNovaStories_69
@@ -23972,7 +23971,6 @@
 @Petalloop_asmr
 @EarthTalesWorld
 @AiQueenx
-@Bloom_verse2
 @earthof_ai27
 @MacroGardenAI
 @USAIStudioOfficial
@@ -25264,3 +25262,4 @@
 @dunedecoded
 @zekeshorts1
 @sherylsdreamai
+@psico-dibujos-animados
