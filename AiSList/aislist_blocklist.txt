@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25327
+! Total Channels: 25328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25343,3 +25343,4 @@
 @SCORELYORCHESTRA
 @TokyoAfterglowMusic
 @zayrodfilms
+@holiday-xmas
