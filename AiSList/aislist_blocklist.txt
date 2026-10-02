@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25243
+! Total Channels: 25242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19693,7 +19693,6 @@
 @NeuroMint.Studio
 @MidnighttalesAI0
 @DreamAItoonworld
-@capybaby-love
 @SleepyAshGraves-Music
 @Elvis_Uncovered
 @GeneralPattonUntoldStories
