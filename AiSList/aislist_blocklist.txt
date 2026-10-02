@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25476
+! Total Channels: 25471
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19314,7 +19314,6 @@
 @insomniac-historians
 @MidnightHistorian9
 @MidnightHistorian1473
-@HistoryDriftofficial
 @dreamafterdark-f9h
 @SEKHER-z2q
 @SangitaSadh-m9g
@@ -20356,7 +20355,6 @@
 @QuantumCuriosityStudio
 @VerboteneLiebe19
 @NguyenthiHuedeg
-@thekarmastories3
 @BayberryStories
 @StilleRache3-o7b
 @AutoWissen123
@@ -20417,7 +20415,6 @@
 @narcissist-b5e
 @NARCISSISMEXPLAINED-n2s
 @NARCEO05
-@skycast123
 @Narcisight719
 @pynade
 @VANGUARD-95-OPS
@@ -20749,7 +20746,6 @@
 @HoaLineCrossed
 @Solo-Parent-Stories
 @HeartfeltTales88
-@VelvetShadowsStory
 @PhoenixSoulStories
 @GiaLinhVu-t7j
 @SilentStory-y7m
@@ -21104,7 +21100,6 @@
 @SILENTREVENGESTORIES68
 @TrueSilentStories4real
 @AlexsRevengeOffice
-@TheCollectiblesGuide
 @FiscalFlow08
 @LumeStories3
 @taamistudy
