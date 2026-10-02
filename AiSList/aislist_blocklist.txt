@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25252
+! Total Channels: 25250
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11195,11 +11195,10 @@
 @SensoryFruitASMR
 @SACHIN.Y72119
 @FruityAIASMR1
-@Tarasa.7001
 @OddlyFruits
 @FruityBabiesASMR0
 @SFamilyShows
-@UntilYouFeelSatisfied
+@watch-and-taste
 @ScrollixAI
 @CozyPopAI
 @Fruit-Burst
@@ -19495,7 +19494,6 @@
 @whisperedestate
 @amharaforumtimesአማራ
 @aihit2026
-@melodyenglish1
 @mapapolitycznaswiata
 @labintales
 @BritishNavalHistory
