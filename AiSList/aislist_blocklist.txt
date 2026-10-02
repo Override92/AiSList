@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25256
+! Total Channels: 25254
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11122,7 +11122,6 @@
 @chocopeve
 @OmegaCrownTales-z2u
 @AlphaKingdomStories-r7u
-@KL025-h2g
 @Kionisalpha-rom
 @EllaRomanceBoard
 @VelvetBLLore
@@ -11134,7 +11133,6 @@
 @afrokoreanromancestoriess
 @CrimsonSeoulStories-o7l
 @SamsDiaries-AK
-@AfrolovediariesTV
 @Naomiloveromance
 @Korean-Mafiaworld
 @storiesbyjoyy
@@ -16805,7 +16803,6 @@
 @OfficerExposed
 @Veyra-006
 @masjatika
-@digidoc.production
 @DjCentilmen
 @CinematicNostalgiaTV
 @RyanMusicStudioyt
@@ -25272,3 +25269,4 @@
 @veggiesworld34
 @dunedecoded
 @zekeshorts1
+@sherylsdreamai
