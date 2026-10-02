@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25448
+! Total Channels: 25458
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25464,3 +25464,13 @@
 @myanimeestudio
 @LuckArs
 @AIWithTechZnap
+@animeopenings_ai
+@KoreanJapaneseAIStories
+@Epic-Anime-AI
+@reallifeanime-z7t
+@RealMorph_Ai
+@AIArtAnime21
+@aicoreanime
+@EarthAnimeAI
+@AIAnimeZoneX
+@AiForAnimes
