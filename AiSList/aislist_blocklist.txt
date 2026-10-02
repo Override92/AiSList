@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25254
+! Total Channels: 25252
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19228,7 +19228,6 @@
 @CoverAI_77
 @HoshiAIMusic
 @npzeerrt
-@SawanShagunBaha
 @SkyWhiskeyAI
 @Hopontababu-1520s
 @BROAMMM
@@ -19245,7 +19244,6 @@
 @hopanbabu1432
 @Pandora_Beat
 @santaliaivideo-2002
-@firdavs_qosimov
 @Fullmetalaicover
 @tenqidaz
 @kiskukuri3
