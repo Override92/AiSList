@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25469
+! Total Channels: 25470
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25485,3 +25485,4 @@
 @RajeshAiAnime
 @IRebornasanAnimeOpening
 @ainime.eloong
+@mandy_taleshub
