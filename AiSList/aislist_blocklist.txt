@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25261
+! Total Channels: 25256
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5849,7 +5849,6 @@
 @ProfesorOdWszystkiego
 @BIT_OWNIA
 @AISleepsatisfyasmr
-@PradawneEcha
 @MormonDeepDive
 @MindBlowingF
 @beyondtheveil2222
@@ -5960,7 +5959,6 @@
 @glosstoicyzmu
 @szokujacefaktyiiwojny
 @TheWorldArchivist
-@tarunwagh3293
 @LegionKrwi
 @WirusoweHistorie
 @ladydayaneluzdasilva4534
@@ -11089,7 +11087,6 @@
 @Mamachiomaaiedit
 @Africanfolktalesbychizi
 @BlessingAdemStudio
-@LuxurytalesIs
 @Thelastscifichild
 @HumanFrontier-d5s
 @HFYfilms
@@ -14454,7 +14451,6 @@
 @VelvetThorn-u2p
 @FrozenRevenge-d3y
 @SpicebushRevenge
-@WolfTalesDaily
 @PandaRevenge.us22
 @ZarnAILab
 @budgetpixelai
@@ -24620,7 +24616,6 @@
 @TheRollingFlagon
 @PAEVORA_MUSIC
 @EldoriaRomanceTales
-@MafiaRomanzenSchicksale
 @BloodMoonlightTV
 @DadEnigma
 @AetherDramas
