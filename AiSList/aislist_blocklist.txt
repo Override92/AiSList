@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25272
+! Total Channels: 25269
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14297,7 +14297,6 @@
 @HeartbeatTheater-ID
 @maryStory-pj2xx
 @ShortDrama_Time
-@ManhwaReview-eg5vr
 @SparkShortDrama
 @MoralLessonStories
 @CrushLoopTV
@@ -17823,7 +17822,6 @@
 @NEUVERT
 @BlackJusticeLens
 @Quiet_Hours_Ambient
-@JazzKissa1969
 @TsukiToSiphon
 @WestEndSounds
 @morris_records
@@ -23696,7 +23694,6 @@
 @talesbyhamseid
 @Mrwahalaofficial1
 @EchoesoftheCivilWar
-@HerzogvonPreu%C3%9Fen
 @LumaCinemas
 @cognitiveEd
 @AfricanBreedTV
