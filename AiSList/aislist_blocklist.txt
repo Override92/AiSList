@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25275
+! Total Channels: 25274
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16627,7 +16627,6 @@
 @saharaecho-o1q
 @House_Of_Veils
 @AncestralEchoes6688
-@viematribalforge18
 @AjiphaMusic
 @SongsOfForgottenWorlds
 @velvetstudiosYT
