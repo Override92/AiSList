@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25428
+! Total Channels: 25438
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25444,3 +25444,13 @@
 @ReCastAnime
 @AIMEETSANIME
 @AnimeCinematic_Studio
+@AanimeListicAI
+@ReAnimeAI
+@AINimeRealism
+@BeyondAnimeAI
+@AIMORPHOTAKU
+@AnimeinAI-25
+@AnimewithAI-c5y
+@AnimeRealismAI
+@mny-anime
+@Ai_anime11
