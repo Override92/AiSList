@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25286
+! Total Channels: 25296
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25302,3 +25302,13 @@
 @Tune4Drip
 @Soundloopai
 @AIRiddimLab
+@Jahhipgospelvibz
+@Oriyalofi
+@melodrex
+@Davecountrymusic
+@MelodriftOriginals
+@LumineBeatsz
+@Reggaerootsrecord
+@Soulsyncm
+@SunsetRhythm-i6n
+@Rebelpalms-o8v
