@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25268
+! Total Channels: 25263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5070,7 +5070,6 @@
 @StrategicLedger-r7n
 @ShannonBream9
 @AgEconomy
-@GeopoliticalLedger10
 @FeynmanLightFiles
 @Unveiling_Science
 @physicsdailychannel
@@ -14409,7 +14408,6 @@
 @TulipRevenge.uss22
 @RetrosSurvivalTactics
 @FolktalesbyVanny
-@anhchiAfrican
 @ZenvestTheory-s4c
 @HeartsAndHopeStories
 @financegurugrocery
@@ -22405,7 +22403,6 @@
 @napkin-markets
 @revengstories24
 @africanmythicmovies
-@dailyinsight92
 @masibellaafricanfolktales
 @storieshubbye
 @goalvaniq
@@ -23564,7 +23561,6 @@
 @KuyaKiy
 @TheDrawingRoomHQ
 @DeeLoversArchive
-@PERIODLOVEANDROMANCE
 @TheHiddenDukeChronicles
 @BehindtheCopperDoor2
 @VelvetDukeRomanceLibrary
@@ -25185,7 +25181,6 @@
 @KseniaKon_AI
 @Karloff_AI
 @AIRenderPulse
-@StoryNova-i7u
 @thebellstory-l7m
 @theaianimation-b1j
 @aivideocreation93
