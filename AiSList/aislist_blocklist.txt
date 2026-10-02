@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25408
+! Total Channels: 25418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25424,3 +25424,13 @@
 @TheReelRobot
 @magicaitrends
 @FutureShortcut
+@VisualAlchemy-djk
+@TrickyVickyAI
+@david00andre
+@Technicaljoshibhai
+@airaproject-AI
+@DragonKingVerse
+@ToonNovaAI-r2v
+@Pouya%C2%B7E.T.I
+@Techne-ai
+@LightyearAnime
