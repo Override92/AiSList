@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25274
+! Total Channels: 25272
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1291,7 +1291,6 @@
 @aivideo-q3v
 @kamalkumar-u6s2h
 @mazedarai3
-@aivideoto22-g
 @deepakai-c1o
 @mj-aishort-2.0m
 @cowlovers-o3e
@@ -14218,7 +14217,6 @@
 @TaleNovaAfrica
 @HeartfeltStories-l4e
 @Africantalesarising
-@AfricanTalesbyNgozi-d8
 @RootedandBroken
 @TaleVerse-y5x
 @Timelessartfairytales
@@ -23523,7 +23521,6 @@
 @PERIODROMANCESTORIES-y1c
 @GoldenRevenge-n8s
 @Godfreystoriesrush
-@NovaTalesTV-i3d
 @FOLKTALESCORNER44
 @HausaStoriess
 @Nbancineluxe
@@ -25290,3 +25287,4 @@
 @risolandiakk
 @dude.itz.skyler
 @peacesstories
+@constructor-cuantico
