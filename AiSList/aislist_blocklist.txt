@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25398
+! Total Channels: 25408
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25414,3 +25414,13 @@
 @MachineSoulCollective
 @CyberBriefByDiamond
 @dakku.x
+@MosNoirJazz
+@nestflics
+@Aianime-q3o
+@Otakusrin
+@IkigaiNexusLite
+@VoltVerse-x4h
+@KaiBiganClips
+@TheReelRobot
+@magicaitrends
+@FutureShortcut
