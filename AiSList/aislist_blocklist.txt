@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25378
+! Total Channels: 25388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25394,3 +25394,13 @@
 @PMFunniesAI
 @ImranTeam-d3c
 @GLOBALFLEXFILES
+@groktrumpai
+@DesiRoastNawaj
+@AINewsTheHiddenStructure
+@NWXpranks-f5
+@thebeardedmktr
+@jobixai
+@ToolStackAcademy
+@Top55-w4f
+@tafuna684
+@ComedySlopAI
