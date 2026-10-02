@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25358
+! Total Channels: 25368
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25374,3 +25374,13 @@
 @TheAIMusicChannel1
 @fluffyflash-e8d
 @Tales_From_The_Frontline
+@HistoryRebuilds
+@SeoulVerseAI
+@CelestialRadianceOfficial
+@TheCodexOrigin
+@SteelOperators
+@DadsMasterplan
+@DadSilentRevengeStory
+@AiVoxFlow
+@DrWellsHealthyAging
+@Dr.ThomasEllisonSeniorHealthTr
