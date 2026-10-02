@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25250
+! Total Channels: 25248
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10979,7 +10979,6 @@
 @goalverse013
 @pixelwaveco
 @north-signal-news
-@enelgaming09
 @nikhilrajput0142
 @lovedeathnanoverse
 @footballlovers-c4r
@@ -23829,7 +23828,6 @@
 @mexzy_visual-n8q
 @Oceanicvibes294
 @PeaceplayMovie1
-@VillageLegendsTV
 @timinglinestories
 @KinoderSchatten
 @JaydenKeva
