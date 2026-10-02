@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25306
+! Total Channels: 25316
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25322,3 +25322,13 @@
 @Echo80s-hb
 @EdgyStudioo
 @somesexysounds
+@MoonwalkReimagined
+@SynthWave-h6m
+@DesperateTimesAI
+@MJAIStudio-k
+@MelodyAIVerse
+@tropicalharmony-x5w
+@yanjacksonsegundo69-yb2gh
+@KingofpopAI-25
+@TheArtificials-AI
+@AwnestInstrumentals
