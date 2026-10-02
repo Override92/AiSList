@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25296
+! Total Channels: 25306
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25312,3 +25312,13 @@
 @Soulsyncm
 @SunsetRhythm-i6n
 @Rebelpalms-o8v
+@mmjjprods
+@JsMusicYT1
+@SloppySoundz
+@StringSoulRnB
+@Soundhouse-ic2
+@UnspokenTruth-UT
+@C-O-V-E-R-G-I-R-L
+@Echo80s-hb
+@EdgyStudioo
+@somesexysounds
