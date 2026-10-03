@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25470
+! Total Channels: 25465
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6873,7 +6873,6 @@
 @TazannaBMG
 @TinyCreatureVillage
 @naturalsounds-tk6ex
-@Hyalbertog-q2x
 @WorldFinance2
 @IbrahimTraoreUnfolding
 @MarketMindset-e3b
@@ -18620,13 +18619,11 @@
 @RedditArchives-x4k
 @bryanshow7559
 @HeartsStory-n5k
-@HartpenceNeighbors
 @movilmovil6983
 @user000-b1j
 @GoldenYearsGrimoire
 @VoicesoftheHeart-y5p
 @ClaireAshStory
-@StillDramaStoriesUS
 @CheatingStories-Postcard
 @RageStories-n8d
 @Gold-Novel
@@ -18727,7 +18724,6 @@
 @Udspirestudios
 @favouritestories001
 @BetrayalNarrativesj
-@KindnessTales-o1g
 @QueenTales-s8o
 @Folktalesbykachi
 @TalesbyFavour7
@@ -19371,7 +19367,6 @@
 @EchoesofBlackVoices-w6e
 @TheLastDisrespect
 @LegacyTales3
-@McLeanTheUntoldLife
 @RetributionTales-q4d
 @X-SeriesLive
 @TruthChangedEverything
