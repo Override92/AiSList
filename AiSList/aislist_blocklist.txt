@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26550
+! Total Channels: 26560
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26566,3 +26566,13 @@
 @BlackCatStu%C3%90i%C3%B8
 @first2ride
 @fivestarrejects
+@AgonyAI
+@EclipseSirenn
+@Rica9000
+@FeelToStory
+@TechTransport777
+@TipsHacks1234
+@mindcraft-improvement
+@GetTheBrief
+@TheBlacked-OutFile
+@ZEPO_edits-v2h
