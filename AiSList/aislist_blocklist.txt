@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26490
+! Total Channels: 26500
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26506,3 +26506,13 @@
 @NarutoRebornAI
 @MiniAnnn
 @NameAi-j6w
+@EVIDENCEAl
+@DesikitchenStoriesAi
+@littlechefsai
+@foodcapsuleAi-n2i
+@EverydayObjectsAI
+@softalesai
+@VictorRDirector
+@BlitzTransform
+@The2DTake
+@Artintmechanics
