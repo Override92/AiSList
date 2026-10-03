@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26783
+! Total Channels: 26793
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26799,3 +26799,13 @@
 @CSAutoMods
 @EraofAI
 @ViralAIStudiosHQ
+@AIVision05
+@Niranal_2007
+@greeveai
+@wixaai
+@Clever_Underneath
+@RootWorld-999
+@RetroOpera
+@BoringMoneyChris
+@TalesTransmuted
+@FeynmansBodyCode
