@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26599
+! Total Channels: 26609
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26615,3 +26615,13 @@
 @PromptsProductsandProfits
 @AICreativesMadeSimple
 @DesignMadeClear
+@Mindorizon
+@TheScienceofBetter-TV
+@MysticalGhibliStories
+@animation.cartoon03
+@Astrovishist
+@Umarrizwanofficial2
+@Dnd_musicals
+@SilentProductionFlow
+@dustycountry
+@aguswarsitomusic
