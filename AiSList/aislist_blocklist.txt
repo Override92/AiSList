@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26480
+! Total Channels: 26490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26496,3 +26496,13 @@
 @Parallel_Pixels
 @haofusionstudio
 @AnimeRealWorldAI
+@AINarutoStudio
+@hibbaarif9
+@AI-Cinematic-q5n
+@AICreative-AI
+@InfinityAnimeStudio-IA
+@Trueform.Studio
+@DreamFusionAI-x5y
+@NarutoRebornAI
+@MiniAnnn
+@NameAi-j6w
