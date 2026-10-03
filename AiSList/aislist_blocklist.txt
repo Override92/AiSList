@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25686
+! Total Channels: 25696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25702,3 +25702,13 @@
 @SUJANAIBLOG
 @kailashai123
 @StoriesWithPriyanshuPresents
+@ChronoVantaTV
+@Neo_Kynetics
+@ZoneTVReport
+@sumithpuri
+@StarfallPublicationsHouse
+@HimaanshuaiGuru
+@Defavouriteacademy
+@Happychy-AI
+@MagicCartoonAIStudio
+@TinyTunesstudio-t8s
