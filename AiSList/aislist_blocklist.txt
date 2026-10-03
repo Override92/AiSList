@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25582
+! Total Channels: 25581
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24838,7 +24838,6 @@
 @GadgetTen
 @gockhuat40k
 @TarmacHub
-@LordofVoid-r1o
 @TheDarkLedgerIntel
 @KPOPDHunter-e5r
 @RumiHunterFX
