@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25776
+! Total Channels: 25786
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25792,3 +25792,13 @@
 @TimeWalk-w1f
 @TheAIVidLab
 @AIFuturistOfficial
+@TheGlassedVoyagerStudio
+@VIRALEDITZZZZZZZ
+@AiChroniclesforhistory
+@StormlightStudios123
+@AITimeTravelers42
+@TheAIQila
+@AIDigitalMarketingAgency-u7f
+@aiviceversa
+@DreamWeaveAI-u6s
+@AITimeMachineTales
