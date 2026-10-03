@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25646
+! Total Channels: 25656
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25662,3 +25662,13 @@
 @vuela-ai-video-generator
 @Segmind_ai
 @GrowWithMosh
+@AiUniversityfreetool237
+@OhAyeAI
+@historyyai8
+@SecretHistoryAi
+@SeeandSum
+@AIHistoryUnheard
+@AIAdventures4
+@valog.ai.234
+@AITimeTravelerSkyler
+@ChronoVoyagerAI
