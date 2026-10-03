@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25601
+! Total Channels: 25611
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25617,3 +25617,13 @@
 @AIWITHFUMZY
 @CocoFame-b8p
 @aicookingworld01
+@Preetizx
+@WonderWhispersARM
+@Aicookkng
+@lovelyaichef
+@FastFoodChannelAI
+@Ai_Food-1
+@YourAiCook_1min
+@AiFoodChannel-p2m
+@Aispecialfood
+@AIFOODSTUDIO-2010
