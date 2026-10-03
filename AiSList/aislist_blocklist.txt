@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25458
+! Total Channels: 25456
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7676,7 +7676,6 @@
 @mpelembe
 @KRB_761
 @Thelastprimus-world
-@ArcanePotter
 @WildWestTalesOfLove512
 @Brown_House
 @Oracle-Capital-9
@@ -9682,7 +9681,6 @@
 @SurrealWorld-j7m
 @BuddyisChaos
 @wakeningdreams
-@simpledeep-q1n
 @HandcraftedAIArt
 @DayDreamerTalesAIArt
 @lofi_pot
