@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25716
+! Total Channels: 25726
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25732,3 +25732,13 @@
 @HamzaWaseem-j8s
 @HamzaCartoon-World
 @altafaiofficial
+@Infinity-Visuals-Ai
+@Mindfulmomentswithzafer
+@TechyGyan99
+@Elif23Stories
+@Aigoldmine-Ns
+@Coornitoons
+@Fatima-NurseryRhymes
+@theRenderRoom196
+@KristaAiverse
+@TheBitNext
