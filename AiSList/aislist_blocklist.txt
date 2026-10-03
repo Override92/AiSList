@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25995
+! Total Channels: 25994
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12546,7 +12546,6 @@
 @velvettunes-j9n
 @VibeSynth-01
 @CuriousBrainLabofficial
-@SonantTunes
 @Aithronesounds
 @OVERWATCH-v6v
 @PXNDOREMIX
