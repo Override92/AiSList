@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26540
+! Total Channels: 26550
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26556,3 +26556,13 @@
 @HazelSinclairdj
 @ProducerSteven
 @Soul.Forged.Studios
+@ForgottenArtTV
+@Four-Riders-of-The-Apocalypse
+@Aelisyan
+@Novantra-music
+@AnnaThomsonOFC
+@VampireRockMusic
+@BackToThe80s-t4y9r
+@BlackCatStu%C3%90i%C3%B8
+@first2ride
+@fivestarrejects
