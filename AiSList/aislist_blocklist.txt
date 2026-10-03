@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26570
+! Total Channels: 26580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26586,3 +26586,13 @@
 @pfyreexplainer
 @WalletFortress
 @BestPomiMomi
+@Explorica1
+@NoobologyRBLX
+@GrimReaperFlag-Chan
+@Junedcoolboy
+@N%C4%B0RO_FLUX
+@hearttalesUsa-d9f
+@MacroMechanics-x1n
+@Ansgar_AIStockAnalyst
+@MintFeverCo
+@ToolPulseAI
