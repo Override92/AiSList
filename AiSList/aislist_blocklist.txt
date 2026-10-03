@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25564
+! Total Channels: 25574
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25580,3 +25580,13 @@
 @MrMonolithOfficial
 @SameerAITools
 @createwithaitool
+@Feel_it9
+@TinyFoodCinema
+@MiniBite-b9e
+@AiNexoraUSA
+@kidzcodeai
+@TinyFoodView
+@tinycreaturekitchen
+@tinyfoodbuilders640
+@MinifoodAi-Mahi
+@TinyCatKitchenAI
