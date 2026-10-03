@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26743
+! Total Channels: 26753
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26759,3 +26759,13 @@
 @CasablancaNights1942
 @RedWolfsJazzLounge
 @VelvetJazzHour
+@CANTERABEATS
+@emo_kaiwai
+@%EB%A7%90%EB%9E%91%ED%8B%B0%EB%B9%842025
+@MotoLynxpro
+@sumitsumann
+@BaranggayBudotsVibes
+@FactoryFrontier1
+@synthoforge
+@MegaFactoryGlobal
+@processnextgenn
