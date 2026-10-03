@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25894
+! Total Channels: 25889
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18219,7 +18219,6 @@
 @sorastudiocafe
 @zephyrcozyworlds
 @twistedf8official
-@lumivorai2
 @CinematicCollisions
 @AIFilmsMagic
 @KAMS_AI
@@ -21660,7 +21659,6 @@
 @ShrabaniNijhawan
 @LogicalMoney72
 @vanishedrooms
-@kenadeemaverick
 @sumengyue
 @butterflydramaclub-z9z
 @FantasyUniverse-z7p
@@ -21683,7 +21681,6 @@
 @WhisperingSpirit-0
 @NostalziaM
 @DarkFrontierAnthems
-@EveryRomanceTales4-u
 @PMW_Archive
 @Yukibone-mmhz
 @Fenja-w8f
@@ -21727,7 +21724,6 @@
 @bernard_ai
 @AIWildTales-u8b
 @Akkp047
-@HOORNAIN-z1g
 @itsfknjimmy
 @sagebrush-vows
 @blv.sontung
@@ -24918,7 +24914,6 @@
 @ovixedit
 @GamingTime_official
 @Unhingedroads
-@GlobalArcInstitute
 @millitaryWarfare-1
 @GalaxyIfMultiverse
 @WARHAMMERUNTOLD
