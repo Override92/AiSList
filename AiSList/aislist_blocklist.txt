@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26345
+! Total Channels: 26355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26361,3 +26361,13 @@
 @deepsleep_theory
 @Nova_Vision_Ai_04
 @KohiReels
+@DiyCreates5
+@NextGenmanufacturing-MFH
+@KidsScienceAcademyAI
+@Learning-r2p
+@AIKidsWorld-r3k
+@rhymellon
+@osandarangana1467
+@KidsAivideos-x3c
+@Kids-Ai-videos11
+@AiKids-A2z
