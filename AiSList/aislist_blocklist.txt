@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25816
+! Total Channels: 25826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25832,3 +25832,13 @@
 @AImarvelflow
 @Mrbhaijcartoon
 @CuteLifestoriesAI
+@TrailersWithAi
+@Moralstorywithai1
+@JesusAiStories-j3u
+@Aistories-f9b
+@AITrailerBlazers
+@AiFairyToon
+@aiperfectdreams
+@heroaimarvel
+@aicadni
+@OfficialDogflixAI
