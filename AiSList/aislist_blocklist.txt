@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26713
+! Total Channels: 26723
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26729,3 +26729,13 @@
 @AIShotStudios
 @tukisaki
 @RyVerseStudio
+@ShatterverseOfficial
+@volttech-ai
+@FirstYearWild
+@YtGuruAi
+@AnatomyOfHavoc
+@crimetales911
+@ImprobablePictures-oc
+@OpenWorldMelody
+@SlowPawsSociety
+@Sloane.Marquet
