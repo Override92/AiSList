@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25464
+! Total Channels: 25459
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7045,7 +7045,6 @@
 @LostCivilizationsNordic
 @360newsroomnews
 @afkar_dz
-@powershiftintel-z8i
 @user-e5h1q
 @BeyondDiscoveries
 @Jennysfolksandtales
@@ -21313,7 +21312,6 @@
 @hoastories73
 @HOAHiddenReality
 @creeky_reddit_story
-@HOAStories-k4f
 @HOA-9
 @samreenRiaz-u7j
 @DivineMessenger-p2d
@@ -21517,11 +21515,8 @@
 @MaximusA.I
 @VaibhavJohar-99
 @AlinaRatho
-@JiangXInsights
 @AI.Toons1122
-@jiangexclusives
 @KhushiChauhan-i5y
-@Ai_World11-22
 @MohdHamza-j8m
 @adaywithher-ai
 @JiangliveNews
