@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25456
+! Total Channels: 25451
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8640,10 +8640,8 @@
 @aimusiclaw
 @SeoulFlowAI
 @linuxaistudio
-@NightPsalms-h5v
 @ReasonOverRituals
 @BlackoutBriefing-b1j
-@BriefKnows
 @Canada-Daily-Brief
 @GlobalFinanceBrief-j7y
 @thomaskellerbrief
@@ -11344,7 +11342,6 @@
 @pikupalanpur
 @urlove.hon3y786
 @nature_reborn-1
-@truecrimetoday-i8z
 @presidentplaychess
 @はなび_hanabiplaylist
 @pcsense21
@@ -13452,7 +13449,6 @@
 @happyking143e
 @echotalesai-y1c
 @aidadi-4
-@minirescue_0.2
 @RestrictedGround
 @TheN3xtLevel
 @viewtechid
@@ -25153,7 +25149,6 @@
 @hassan-mehmmod
 @topdiyclup
 @CapitalVisionz
-@doctormarkleeofficial
 @LoFiTunesEscapes
 @bibikids_fr
 @LaSuaStoria
