@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26201
+! Total Channels: 26211
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26217,3 +26217,13 @@
 @amaze_gen_ai
 @AI_PRODUCT%C4%B0ON-h1l
 @MathiStoryteller-m7
+@FoldVerse-official
+@Isnt_That_Interesting
+@stelfieTT
+@TIMETREKAI
+@DedenNurdiana-Traveler
+@BigBearStudio_Gummy
+@EchoToonAi
+@Timeshiftai1
+@inspirevibestories9827
+@aivideolabx1
