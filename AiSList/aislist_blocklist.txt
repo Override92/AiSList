@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26475
+! Total Channels: 26480
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26491,3 +26491,8 @@
 @AICinematicUniverse-n5b
 @MARVEL13
 @aianimation32
+@Beritaanimeku
+@Kabir_J
+@Parallel_Pixels
+@haofusionstudio
+@AnimeRealWorldAI
