@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26733
+! Total Channels: 26743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26749,3 +26749,13 @@
 @Foodieeeaiii
 @CosmicMinds1
 @CanadaWarPrime
+@ImaginativePrompting
+@GOODTIMERADIO79
+@dndistb
+@TOKYOSTYLEBEATS
+@PralinePop
+@AUVERSLOUNGE
+@Tokyo_ChillVibes
+@CasablancaNights1942
+@RedWolfsJazzLounge
+@VelvetJazzHour
