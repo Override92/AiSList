@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26773
+! Total Channels: 26783
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26789,3 +26789,13 @@
 @YallaHabibiArabicAIMusic
 @aiharmonies946
 @K-series61
+@MajarayMusic
+@FUNAIKAHANIYAN01
+@VINTAGELABS97
+@rainydays-rud
+@ItsEIJI-13
+@relikvariy
+@TheMDDO-z5y
+@CSAutoMods
+@EraofAI
+@ViralAIStudiosHQ
