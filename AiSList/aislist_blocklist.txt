@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25514
+! Total Channels: 25524
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25530,3 +25530,13 @@
 @toonfusion-JTS
 @mowdudahmed
 @who-It-is-me
+@WoWoFun
+@NinjaIA26
+@arleditz
+@Fruit_Mind_AI
+@FruitLoveIslandAI2026
+@FruitItIs
+@AIStories-b7p1j
+@FruityDramaTV1
+@RealAIFruit
+@AiFruitStories-k7j
