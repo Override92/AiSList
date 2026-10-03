@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25696
+! Total Channels: 25706
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25712,3 +25712,13 @@
 @Happychy-AI
 @MagicCartoonAIStudio
 @TinyTunesstudio-t8s
+@Ytknowledge45
+@JoyPopStories
+@Smilekitten
+@JugaarYT
+@MarunouchiOLCaty
+@MbitsStudio
+@MimiMeow66
+@Ravy_Official2k26
+@AiAnabia
+@KittenTales-x9g
