@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26811
+! Total Channels: 26810
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14773,7 +14773,6 @@
 @HeartofAfricaFilms
 @NollywoodVillageTv
 @PJanimation2
-@ajambele
 @kimtellstales
 @VOXTALE-y8k
 @Africanspirittale
@@ -16810,7 +16809,6 @@
 @abbymusicstudio
 @PomodoroStudyBgm
 @grgr_playlist
-@lo-fi-drive11
 @SmokeKeys
 @talechron
 @KwentongPinoyTV13
@@ -26827,3 +26825,4 @@
 @matureglowbeauty
 @biharaicreator-t9m
 @ytuntoldorigins
+@amahschannel
