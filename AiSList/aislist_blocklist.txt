@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25979
+! Total Channels: 25989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25995,3 +25995,13 @@
 @AIBabyEats
 @AIDoesHuman-s1b
 @Ai-Cinema-Adda
+@shivkaashiaiuniverse
+@CinematicAIBattles
+@Indiancookingbyai
+@THE.AI.MARVEL
+@EmotionalDramaVault
+@RedditVendetta
+@LostAILegends
+@SaneMadness-s2k
+@JokerProtocol-l2m
+@OrcGirlSaga-v3r
