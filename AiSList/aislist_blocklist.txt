@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26510
+! Total Channels: 26520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26526,3 +26526,13 @@
 @GetNextAI
 @ReelNovaAI-w9p
 @ai.storyfilmmaker77
+@AIGlobalEntertainment
+@HDTrailer-1
+@higgsfield.series
+@HernanBragaIA
+@technologymobnews
+@CampfireMaster
+@rivariya
+@WhiskerAndBean
+@QuietArchitectureMusic
+@TheHighlandHearth
