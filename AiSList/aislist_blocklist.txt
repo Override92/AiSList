@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26154
+! Total Channels: 26161
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26170,3 +26170,10 @@
 @MissBeastAfrica
 @drwaterlingfans
 @FEARLANE-YT
+@ZoraHayesStudio
+@YouProHacks
+@FruitVerse-026
+@TheMagicToon-i4j
+@jackyaiflow88
+@shortkingrj13
+@aixindong
