@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26045
+! Total Channels: 26055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26061,3 +26061,13 @@
 @DemonbirdAIProject
 @Livecaughtai
 @tiny_Ai_Art
+@surrealfablesAI
+@AIDisasterFilms
+@miakhalifaailife
+@MarvelVSai
+@AIMovieHQ
+@EpicAICrossovers
+@ai_life1956
+@aianimationpictures
+@aifilmtrailerstudio
+@NUTZAI
