@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25969
+! Total Channels: 25979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25985,3 +25985,13 @@
 @AiGaonTalksAi
 @aiexplorewithus
 @chefletai
+@KensAITinyLab
+@aimoviestudio-o3g
+@aiminiature1204
+@TechnologyLifeblue-v3g
+@veo-w4o
+@MysteryVerseAI_01
+@AILifeStoriesnansingh69
+@AIBabyEats
+@AIDoesHuman-s1b
+@Ai-Cinema-Adda
