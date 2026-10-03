@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25736
+! Total Channels: 25746
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25752,3 +25752,13 @@
 @AITimeVoyage39
 @ViralstreakAi
 @Jackthinks515
+@cyborgcinemaai
+@AIintervieww
+@haileythetraveler
+@Historyvlogg
+@Clipsector-z5b
+@officialLostWorldVlogs
+@TimeTravelUSA3
+@AriaThroughTime
+@vlogverseai-b6x
+@MichaelsHistoricalVlogs
