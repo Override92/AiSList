@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25554
+! Total Channels: 25564
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25570,3 +25570,13 @@
 @aifoodfacts-x8m
 @Germaninexile
 @SmartFoodInsightsAI
+@The_Quick_Vibes
+@CPrajapatiAI
+@AINationUSA-i2e
+@bhartichawla9
+@monishbhakatvlogs4875
+@ram_talks74
+@MakerAI-i7s
+@MrMonolithOfficial
+@SameerAITools
+@createwithaitool
