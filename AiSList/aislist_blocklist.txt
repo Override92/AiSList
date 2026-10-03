@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26530
+! Total Channels: 26540
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26546,3 +26546,13 @@
 @elvenqueenangel
 @seelenklangofficial
 @VYNEXOAIMUSICs8c
+@TheDawnWhispers
+@MiyaViAmore
+@QuantumReflex1
+@VideydjVit
+@DjVonk
+@DavidDeRebeque
+@celeste53400
+@HazelSinclairdj
+@ProducerSteven
+@Soul.Forged.Studios
