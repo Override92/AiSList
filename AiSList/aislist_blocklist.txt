@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26171
+! Total Channels: 26181
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26187,3 +26187,13 @@
 @ApexAIBrawls
 @AICinemaReels
 @AIProject-r3s
+@myailife1
+@AIRevealShorts
+@CinemindAi-n1m
+@VoidVerse_AI
+@tokofficial
+@HuntrixVib
+@HuntrixDream
+@GrafiMojo
+@LenaToons
+@BackroadsCountryBallads
