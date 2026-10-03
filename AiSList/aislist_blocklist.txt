@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25474
+! Total Channels: 25484
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25490,3 +25490,13 @@
 @creativeaishow
 @AI-Dude-369
 @NavinSpear
+@RZNAuto
+@NeonAstronaut80sSpaceSynthwave
+@HappySoEasy
+@ai.withphil
+@DuoSparkAi
+@LitanyOfIgnition
+@ArtificicyAI
+@XeltaAI
+@TheTonyBots
+@TheAICreatorLab-bvl
