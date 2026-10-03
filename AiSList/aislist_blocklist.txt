@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26619
+! Total Channels: 26629
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26635,3 +26635,13 @@
 @contentwala-x4t
 @argacinema
 @ItsHiddenConstructions
+@FinanceHarbor-m8c
+@Gigglewithsora
+@AloGobiAIToons
+@ritual_archive
+@Musicanku
+@CalmTune-x7u
+@MediMusicLab
+@SV_Harmonies
+@AIAnimeRealm
+@Unexpectedcreation07
