@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26723
+! Total Channels: 26733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26739,3 +26739,13 @@
 @OpenWorldMelody
 @SlowPawsSociety
 @Sloane.Marquet
+@LatarniaHistorii
+@AvijitStudiofficial
+@odiaredefinesongs
+@EpicsoulAI-h1j
+@GhibliToonAI
+@NeuralMelodies5
+@a_creates_2.0
+@Foodieeeaiii
+@CosmicMinds1
+@CanadaWarPrime
