@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25454
+! Total Channels: 25464
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25470,3 +25470,13 @@
 @outerdark-films
 @etnoromania
 @ほたる物語
+@made.simplewithai
+@AnimeCinematicAI
+@Anime-z3e9p
+@Kidsanimeai-v9c
+@AIANIMECARTOON34
+@spmun.anime.videoAI
+@AnimeHeartAI
+@toonify_a1
+@2-y3o
+@Unoaistudios-0911
