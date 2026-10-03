@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26291
+! Total Channels: 26301
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26307,3 +26307,13 @@
 @Blockbastery
 @DaveCeo
 @tastyminiai-hmz
+@TrailersbyAI
+@AIMutation-universe
+@LostAIHistory4
+@gooffyAI
+@Sora.ai.videos.111
+@AlphaPathX
+@NovaRushAI-b1n
+@TinyVerseAI-o2h
+@aigoduniverse
+@BooAIFilms
