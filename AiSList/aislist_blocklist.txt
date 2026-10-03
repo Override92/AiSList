@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26703
+! Total Channels: 26713
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26719,3 +26719,13 @@
 @MotoryzacjaNaBie%C5%BC%C4%85co
 @bouzu-kira
 @DanielMeroz
+@VibeCrushX
+@DadajiOriginal
+@Nneuronovai
+@AIdaCode
+@jannatmansoori2404
+@AiRumors-s5e
+@USAVantaAI143
+@AIShotStudios
+@tukisaki
+@RyVerseStudio
