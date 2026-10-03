@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25636
+! Total Channels: 25646
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25652,3 +25652,13 @@
 @techguyver1337
 @justlunareyes
 @Filedesign
+@GrowwithChesh
+@profitron-ai
+@EthanExplains1
+@chase-profit
+@TenyAiZone
+@EousufYTC
+@mojasshendage2716
+@vuela-ai-video-generator
+@Segmind_ai
+@GrowWithMosh
