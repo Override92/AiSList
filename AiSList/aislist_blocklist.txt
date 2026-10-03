@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 25451
+! Total Channels: 25452
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11434,7 +11434,6 @@
 @thesimpilotyt
 @marystinybuilds
 @rockattackofficial
-@oxorina
 @samhallsinformation
 @mrteng-tv
 @daisymeow1
@@ -25467,3 +25466,5 @@
 @ainime.eloong
 @mandy_taleshub
 @zorry-d1y
+@extraordinaryanimalsen
+@outerdark-films
