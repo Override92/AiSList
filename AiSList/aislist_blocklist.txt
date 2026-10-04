@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26812
+! Total Channels: 26811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12726,7 +12726,6 @@
 @NightDriveRadio80s
 @80sRadioFM-r5u
 @quiethours2003
-@Voice.ofGlory
 @TheOddityDigest
 @NGfinance01
 @worldcup.explainer
