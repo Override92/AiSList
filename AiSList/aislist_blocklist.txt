@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26817
+! Total Channels: 26812
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3388,7 +3388,6 @@
 @larefvlog
 @Dr.JavierMart%C3%ADnez-b3w
 @DraEmiliaSu%C3%A1rez
-@SafeCapital-u3r
 @JusticeZoneTV
 @CopsCamVault
 @BrotherJamesStories
@@ -3582,7 +3581,6 @@
 @ImpressiveStoriesRealEmotions
 @LilySecretStories-r2i
 @Voices_of_Stories
-@Storiesthatguidethesoul
 @PassionateLove76_US
 @TruePulse247TV
 @KindSoulStories-z4z
@@ -3784,7 +3782,6 @@
 @soldiercommands
 @TheTruthBehindtheHeadlines
 @mentemaestra_es
-@EstoicismoOscuro
 @meyouNight
 @TheBuildingPoint
 @BravePawsAI
@@ -16263,7 +16260,6 @@
 @LoveandLiesDadStories21
 @MIRAGEPHANTOMJP
 @ThreadSpillRedditStory
-@Inspiraci%C3%B3nCat%C3%B3lica-e3f
 @TaleHub-m8j
 @DazzledTales
 @malii-reddit
@@ -16981,7 +16977,6 @@
 @simplegyan123
 @FinStoryHindi
 @moontimestudioai
-@inspiracioncatolica-e3f
 @романхрик
 @cozystudio-beats
 @하느님-r9b
