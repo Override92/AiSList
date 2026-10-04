@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26814
+! Total Channels: 26813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5496,7 +5496,6 @@
 @warpathbattle
 @UntoldWW2Stories1
 @WW2RememberTales
-@mysterydiscovery24
 @WW2ShadowTales
 @WWarChronicle
 @RedInk_History
@@ -22778,7 +22777,6 @@
 @OrientalJupiter
 @akanaportal
 @technologynextworld
-@ElRinc%C3%B3ndelMisterio-z8c
 @matrixStudio-l7i
 @NXHAIFilms
 @DotaCinematicUniverse
@@ -26830,3 +26828,4 @@
 @hardearnedwealth
 @purelynewborns
 @veylora_funny_shorts
+@nxhaidizileri
