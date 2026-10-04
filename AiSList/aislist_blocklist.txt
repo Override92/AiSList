@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26816
+! Total Channels: 26815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11325,7 +11325,6 @@
 @QuantumFrequenciesDJ
 @UNIFlowinLab
 @VOLTAGE_WORKS
-@cozystorynook-g3p
 @tinytales-d5u
 @kosmetykipodlupa
 @dadneverforgot-d2e
