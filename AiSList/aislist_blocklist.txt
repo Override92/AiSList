@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26818
+! Total Channels: 26817
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3789,7 +3789,6 @@
 @TheBuildingPoint
 @BravePawsAI
 @AlmaSerena-p3k
-@PropertyGorilla
 @WhatChanges
 @MARKETHISTORY-k7p
 @Prosper_Path_1
@@ -16982,7 +16981,6 @@
 @simplegyan123
 @FinStoryHindi
 @moontimestudioai
-@bhaaratdesh-100k
 @inspiracioncatolica-e3f
 @романхрик
 @cozystudio-beats
@@ -26834,3 +26832,4 @@
 @trulyunusual-v8x
 @africanstories-by-oma
 @mrbeaztwood
+@raymondsoy
