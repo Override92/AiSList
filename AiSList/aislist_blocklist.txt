@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26819
+! Total Channels: 26814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12539,7 +12539,6 @@
 @Sona_Tunes
 @SkyInsightsAviationHub
 @velvettunes-j9n
-@VibeSynth-01
 @CuriousBrainLabofficial
 @Aithronesounds
 @OVERWATCH-v6v
@@ -14886,7 +14885,6 @@
 @MarvelAiTales
 @tolkienreflections
 @CarboniteDreams0
-@GI%C3%81PLAC%C3%80-j8k
 @CrownAndCodex
 @TrueBibleStoriesDaily
 @EntombedDoc
@@ -17235,7 +17233,6 @@
 @TinyFoodBuilders1
 @TinyFoodWorldNs
 @TinyFoodTales-USA
-@tinyfoodtalk
 @TinyFoodCinematics
 @Crazypodcast2
 @caughtoncamcats
@@ -21775,7 +21772,6 @@
 @veopunchlines
 @EclatdeSaphir
 @OrangotanTV
-@PimpaAI
 @CupidJr
 @Starfall_studio1
 @AiRealVideos67
@@ -24943,7 +24939,6 @@
 @zensomniumai
 @sousakuai
 @lafabricadealvaro
-@FutureGalaxyFilmsTV
 @xiliz_prime_studio28
 @貓影劇場catdrama
 @驚華女王劇場
