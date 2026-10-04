@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26817
+! Total Channels: 26816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3439,7 +3439,6 @@
 @REDEMPTIONRIDERS-v2r
 @BodycamRealityFiles
 @AfricTalesByCC
-@BritishTalkShow-y9r
 @FogRevenge
 @RittHeppding
 @viral_texts
@@ -22118,7 +22117,6 @@
 @anshuyrr3654
 @procometric
 @blackstorieswithdrbilal
-@scriptureblueprint-45d
 @kwebbelkop
 @KwebbelkopAI2.0
 @godvibes-t3c
@@ -26833,3 +26831,4 @@
 @itsrandomy
 @forge-y
 @truemedievals1111
+@trulyunusual-v8x
