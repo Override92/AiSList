@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26808
+! Total Channels: 26809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16975,7 +16975,6 @@
 @cozystudio-beats
 @하느님-r9b
 @cozyfolklore__u
-@mr.ajfact
 @aiknowsitall
 @terrasecrets26
 @povquadrillionaire
@@ -26824,3 +26823,5 @@
 @veylora_funny_shorts
 @nxhaidizileri
 @histrome
+@ptydrama
+@zippyzoo_lolo
