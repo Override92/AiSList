@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26811
+! Total Channels: 26809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23225,7 +23225,6 @@
 @neuralmotionstudios04
 @user-nl8qw1qv3f
 @lucasaiacademy
-@USALifeHindi-t4e
 @ReactionNotes
 @AndreasGus
 @Ask_Bit
@@ -23251,7 +23250,6 @@
 @Nur-AAI
 @DanianVreugd
 @ronitaaicreator_21
-@cookingwithyumi
 @aicook09
 @MoranaChoir
 @PeakAiStudios
