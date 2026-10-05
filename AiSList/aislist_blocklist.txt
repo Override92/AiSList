@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26802
+! Total Channels: 26801
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19011,7 +19011,6 @@
 @carveverseaistudio
 @짤냥찌
 @theworldbehindoneclick
-@royalregencyromancestories
 @footballstationyt
 @wakukitchenanime
 @enedramazone
