@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26809
+! Total Channels: 26811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18390,7 +18390,7 @@
 @Boss2000
 @oliviasuna
 @GhibliAnimeAI
-@THETIMELESSSTORY-e8g
+@thetimelessstory-e
 @SoraCable
 @storylocation
 @StoryStudio_official
@@ -26825,3 +26825,5 @@
 @ptydrama
 @zippyzoo_lolo
 @buzztatler
+@iastutoai
+@petertheshiba
