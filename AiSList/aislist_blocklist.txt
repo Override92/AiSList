@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26802
+! Total Channels: 26801
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15559,7 +15559,6 @@
 @SAICINEMAUNIVERSE
 @Sahani_Cinematic07
 @SanatanUniverse-g3n
-@Surjocinematicuniverse-w6j
 @AnimalUniverse-v2z
 @whatif_universe573
 @iamJatinSehrawat
