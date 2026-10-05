@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26803
+! Total Channels: 26802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16446,7 +16446,6 @@
 @Facttofame7
 @RavnirMusic
 @TheVikingPath
-@VALHALLAECHOES-w5p
 @RuneMaidens
 @Rahexmusic
 @Jadewolfsoundscapes
