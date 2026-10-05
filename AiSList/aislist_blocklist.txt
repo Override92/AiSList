@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26813
+! Total Channels: 26808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4692,7 +4692,6 @@
 @GlobalExploreNetwork
 @OASISOFPASSIONS
 @FrontierRescueStories
-@ESA_Mafia_Stories
 @HFYScifiFAStories
 @EmpireCycles-d6s
 @LinuxTechAI
@@ -5812,7 +5811,6 @@
 @SurvivalCamping7
 @MapleMarketbrief-e2z
 @Ayyan-h7p
-@MoleHunt25
 @warandwealth-x5k
 @themoneyyillusion
 @BarefeildStories
@@ -8392,7 +8390,6 @@
 @GalaxyTheorist
 @ExplainingTechLikeYoureFive
 @informehardware
-@Theeconomyarchive
 @FastTrackNews01
 @synthwaveanddragons
 @Epic_Ascension_Music
@@ -13740,7 +13737,6 @@
 @Mustafaaimusicbg
 @RelicTunes
 @AnandTuduAiMusicHub
-@AiNagpuriOfficial
 @Yongbn-p5b
 @TuduTachAiOfficial
 @TimelessEcho-u1x
@@ -22992,7 +22988,6 @@
 @TheComebackQueen-US
 @BlackDiamond-US
 @TheDarkQueenUS
-@QueenRevengeStories
 @satisf-o2z
 @AncientRomanceDrama
 @SAKURACinematicViolin1607
