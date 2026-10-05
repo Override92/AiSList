@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26807
+! Total Channels: 26802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1465,7 +1465,6 @@
 @njstoryofficial
 @wild-relief
 @dogtotherescue
-@ricoshortsai
 @paws-that-heal
 @doggy4201
 @lablife2026
@@ -15176,7 +15175,6 @@
 @EverSoulful
 @smartbchannel
 @Athlorise
-@FarmFakten
 @SceneShotsmini
 @SiliconUnmasked
 @TalkingRealMoney
@@ -18333,9 +18331,7 @@
 @StarboundHFYCinema
 @Boring-Stories-ForSleep
 @KTNStory-f6b
-@SR-Story-Channel
 @Mafia-Love-Stories
-@Dark-Mafia-Love-Stories
 @Eadow-Yoal
 @LoveVerse-AI-1127
 @Melinahbeauty
@@ -23279,7 +23275,6 @@
 @hamachi-jp
 @neural-films
 @AncientNoiseOfficial
-@jadearcadex
 @whispranks
 @StaticSerenade-m8w
 @Toonyworldkiddy
