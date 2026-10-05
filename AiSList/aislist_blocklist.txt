@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26803
+! Total Channels: 26802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9148,7 +9148,6 @@
 @ElenyaAI
 @FableCoreAI
 @Reverie-n1w
-@AIBunnyOfficial
 @EmyTalesOfficial
 @ValecrossStudio
 @VideoMax_AI
@@ -23286,7 +23285,7 @@
 @muftprachar
 @umsatzde
 @ryanbrooksai
-@rankmychaos
+@warengineeringmysteries
 @news_today001
 @zedmax-ai
 @waterbamboohealing
