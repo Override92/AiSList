@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26809
+! Total Channels: 26807
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1418,7 +1418,6 @@
 @industrialasmrinsider
 @asmrfactoryx
 @productionmanufacturingprocess
-@factoryprocess-2
 @insidetheassembly999
 @precisionlinetv
 @futurefactory-x1w
@@ -12884,7 +12883,6 @@
 @Kyoto%E9%9B%85
 @EchoRealmsHQ
 @ancientgeneticsarchive
-@MinichefAI-r3x
 @minimousechef-x5t
 @pawsandpixelss
 @mounikaanilvlogs
