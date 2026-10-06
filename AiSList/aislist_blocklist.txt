@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26853
+! Total Channels: 26856
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26869,3 +26869,6 @@
 @WorkBloopAnimation
 @WorkplaceKarmaStories-r9q
 @MoeMoeVibeChan
+@MrWhyReport
+@NocturnalVibes.6
+@Jet.Animation-p5n
