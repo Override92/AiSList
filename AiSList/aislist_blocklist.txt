@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27079
+! Total Channels: 27089
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27095,3 +27095,13 @@
 @SmalltownHearts-s9r
 @HeartlandAfterDark
 @AmouraMusic1
+@NashvilleDreams-7
+@UltraSonic-k3k
+@EllaVibes-z1u
+@CountryHits-in
+@NocturneFM-k5y
+@CassMaryHz
+@vivianasoulsongs
+@Entresalsasyboleros
+@RosadeGranada
+@CatSoundRecords
