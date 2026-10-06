@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26982
+! Total Channels: 26989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26998,3 +26998,10 @@
 @WhyYouDoThat-c1d
 @StarShortPlay-e1i
 @LegendToon-l7o
+@muchomono
+@neon.orchestra.project
+@OpusReimagined
+@SynthAndClassics
+@TreadZone-w
+@EarlTheDieselMan
+@StoryVaultShorts-s
