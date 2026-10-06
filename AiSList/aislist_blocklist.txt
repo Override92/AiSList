@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26962
+! Total Channels: 26972
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26978,3 +26978,13 @@
 @aitraveltales2131
 @AI.5.
 @TimeRoamerTV
+@aitravel0820
+@TravelBharatAI
+@LuciaTravelAI
+@OmniTales-vp
+@AIDroneTravel-sky
+@PortalReviewer
+@Aitraveltreasures
+@KALCHAKRA_Studio
+@ChronoForge2.0
+@Tbud-TravelAI
