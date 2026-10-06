@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27112
+! Total Channels: 27115
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27128,3 +27128,6 @@
 @crownentertain_12
 @CatToon-i8v
 @cynthia_real_gist
+@lizzytales-official
+@fullanimationmovies-vw8tw
+@laughriot68
