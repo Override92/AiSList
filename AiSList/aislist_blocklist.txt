@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26890
+! Total Channels: 26896
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26906,3 +26906,9 @@
 @DeltaDust-c3w
 @RabbitDust-f1v
 @BANJOSALOON
+@TheDustSinRadio
+@MELODY-CHANNEL-139
+@Resonvantaqf
+@IronNPine
+@BanjoTechnoBeat
+@Senior-Crown
