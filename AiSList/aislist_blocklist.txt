@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26789
+! Total Channels: 26788
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20334,7 +20334,6 @@
 @The_Explainer3
 @HonestCarAudio
 @RSMusicZvanicna
-@thewaltharlan
 @the_cozycorner_32
 @SalmoraAI
 @AIAura-d6f
@@ -22483,7 +22482,7 @@
 @百鬼_hakki
 @ai漫剧wongxin
 @yapay_zeka_sarkilarim
-@feastoria0
+@grownupglitches
 @aminascozykitchen
 @jaymataji-o4q
 @analisisglobal77
