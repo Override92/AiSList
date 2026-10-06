@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26804
+! Total Channels: 26814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26820,3 +26820,13 @@
 @Murph-b5y
 @HumanityHFY-y3d
 @HumanvsGalaxy3.0M
+@HFYChronicles-q6w
+@TheSpaceFrontier-r3s
+@HFYOpus-i9n
+@HumanityUnbound-s6e
+@Sci-FiStoryToday-y6h
+@StellarHumanNarratives8497
+@scifihfystories-t3h
+@curiosotomas
+@Curiosamentegraficado
+@CuriosidadEnL%C3%ADneas
