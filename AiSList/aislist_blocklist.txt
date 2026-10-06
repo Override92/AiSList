@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26855
+! Total Channels: 26862
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26871,3 +26871,10 @@
 @MrWhyReport
 @NocturnalVibes.6
 @Jet.Animation-p5n
+@Chroma-Chapter
+@ExplainiumMedia
+@ECHOESOFMKN
+@ThreadTales_USA
+@theairgap
+@drktalesstudio
+@PolyTrailer
