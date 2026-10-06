@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26814
+! Total Channels: 26812
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20471,7 +20471,6 @@
 @OnTheRecord-q6s
 @DiaryInfluencer
 @GrowWithKaz
-@BlakeCalloway-l1e
 @BrainBracket
 @Tiny-Scouts
 @editingwithpiyush
@@ -20483,7 +20482,6 @@
 @ElfTaleFilms
 @curiousrefuge
 @PJAnimation01-j1r
-@KittyKittyoficial
 @apetcareguide
 @PurrfectCareTales
 @DNARevaliation
