@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27009
+! Total Channels: 27018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27025,3 +27025,12 @@
 @ThinkmanOrigins
 @the_thought_vortex
 @AncientWorldUncovered1
+@AncientHumanFiles-t5r
+@QuantumSecrets-u2j
+@Stick_nic
+@josegalindo-j3w
+@BodyUnexplained
+@ami.explains
+@AdventuresWithTez
+@quackdoc
+@xAncientHumansOrigin
