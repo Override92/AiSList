@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26896
+! Total Channels: 26905
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26912,3 +26912,12 @@
 @IronNPine
 @BanjoTechnoBeat
 @Senior-Crown
+@AbyssLabYT
+@Snoozy_Science
+@MidnightZone96
+@WilliamHumphreys-d4p
+@PassiveHouseTechnology
+@Mike-explainer-7
+@DETODITO-v9g
+@ChroniclesPaint
+@gianomerinjr293
