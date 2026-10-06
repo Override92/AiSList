@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26799
+! Total Channels: 26809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26815,3 +26815,13 @@
 @CreatureDecoder
 @feral-r1j
 @ForwardNation-c8v
+@vadimlasca_ai
+@AncientMind-i3b
+@AncientMinds-t9j
+@AncientMind-f9w
+@Openeyesmedia-x1p
+@German_Insights00
+@AboutStoriesss
+@Murph-b5y
+@HumanityHFY-y3d
+@HumanvsGalaxy3.0M
