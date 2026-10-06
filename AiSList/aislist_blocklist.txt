@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27059
+! Total Channels: 27069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27075,3 +27075,13 @@
 @SlowSnails
 @SlopMaster-d7k
 @AncientEnigma-t1c
+@Classic1950s-n2t
+@LifeinPOV-b8l
+@SunsetLunar-h8i
+@LevelZero-w6o
+@AhmedKhaliq-i4b
+@lowkeynpcexplainsYT
+@TheReckoningVault-n6m
+@TheInnerBattle-u8c
+@InsideEveryRank
+@HappyPOV-hcl
