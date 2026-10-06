@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27110
+! Total Channels: 27111
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6549,7 +6549,7 @@
 @DriftingEchoesRecords
 @ai-agent-studio
 @NeoNostalgiaAI
-@VibeMTV
+@vibemusictracks
 @HarmoniaAntiqua-r4r
 @RagaVerseAI
 @CATGIRLAI-v3k
@@ -27126,3 +27126,4 @@
 @Dinozap68
 @StickHistory-2641
 @AncientHuman-7
+@crownentertain_12
