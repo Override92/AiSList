@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26979
+! Total Channels: 26974
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20810,7 +20810,6 @@
 @TheBestSelectionPicks
 @GRITANTHEM
 @NightChristmasTunes1110
-@rakistacover
 @adventisthymnsworship
 @TheSilentCoast
 @GlobalSoundsAndCulture
@@ -20902,7 +20901,6 @@
 @TheFearBehindYou
 @GhostProtocol-o1c
 @FatherVengeanceChronicles
-@YoderConstruction-US
 @RedditPear_0
 @Reddit_Threadz
 @JudgeMyLife
@@ -20999,7 +20997,6 @@
 @InnerLensMind
 @SimpleConceptsExplained
 @TheIronRose2
-@thisizgabs
 @PartThatChangedAmericanHistory
 @SILENTREVENGESTORIES68
 @TrueSilentStories4real
@@ -24504,7 +24501,6 @@
 @907motionlab
 @musicworldlabel
 @dardkiawaaz-q7q
-@whydidgodshow
 @BossLoveDrama99
 @B%C3%A0oNg%C6%B0Review
 @UnderdogDrama-x3f
@@ -25218,7 +25214,6 @@
 @SynthNexusAI
 @GoldenStageBallads
 @AndrioConfessionFeed
-@AICHRISTMASMAGIC
 @mrakashkankal
 @VAIstream
 @ShepawTales
