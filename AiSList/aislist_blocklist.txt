@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26923
+! Total Channels: 26933
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26939,3 +26939,13 @@
 @MiniChefAI-Official
 @ChefHabibAI
 @behind-the-chef-ai
+@Animalchef01-r5g
+@Minikitchen_ai
+@ChefMeowsterAI
+@NaturalHomeHacks
+@AICartoonTV_0k
+@ChefGPTlk
+@AlifaDjideal
+@RamBhai-q9i
+@MOHFILMSAi
+@NP9Films
