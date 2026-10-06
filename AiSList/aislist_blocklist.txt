@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26800
+! Total Channels: 26799
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14203,7 +14203,6 @@
 @howitsmadefactories
 @BeyondFacts
 @megawealthcraft
-@talesbymercy95
 @AfricaGospelStories
 @Myveiltales
 @DrumsbeforeDawn
@@ -23566,7 +23565,6 @@
 @talesbyhamseid
 @Mrwahalaofficial1
 @EchoesoftheCivilWar
-@LumaCinemas
 @cognitiveEd
 @AfricanBreedTV
 @WorldMythChronicles
@@ -26816,3 +26814,4 @@
 @midnightradiomemories
 @usa80526
 @farm-echoestold
+@clikbgamesxxxxxxxxxxxxxxxx
