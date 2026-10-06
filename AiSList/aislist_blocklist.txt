@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26795
+! Total Channels: 26790
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5940,7 +5940,6 @@
 @szokujacefaktyiiwojny
 @TheWorldArchivist
 @LegionKrwi
-@WirusoweHistorie
 @ladydayaneluzdasilva4534
 @TruthByPhilosophers
 @DarkxPsyche
@@ -19456,7 +19455,6 @@
 @AIHStudio
 @HG...Ai_Vector
 @TheAIHeaven
-@%EC%87%BC%EC%B8%A0%EB%B0%94%EC%9D%B4%EB%B8%94
 @KingdomSounds-m5j
 @walkingwithJesusAI
 @AIWonderTales-zm
@@ -22462,7 +22460,6 @@
 @SoftRill
 @plotglitch-en
 @abaddonia
-@쇼츠바이블
 @fintechiq320
 @ellenaizoo
 @egyptemeconnue
@@ -23806,7 +23803,6 @@
 @WonderAi-protube
 @Ciaomeow-ai
 @AiKidsWorld-b9r
-@chiku-b5z
 @2011boy
 @Foxaivideos
 @AiNewStory2.0-10k
@@ -23837,7 +23833,6 @@
 @WildzStoriez
 @ViralBloomAI
 @SovereignRomanceVisuals
-@USACreativeAI-y8w
 @ViralAIWorld-77
 @SeedShift0
 @TreeLapse-v9h
