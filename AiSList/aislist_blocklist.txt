@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26789
+! Total Channels: 26799
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26805,3 +26805,13 @@
 @たゆた音aicalmasmr
 @mahabholenath
 @vampireponyo_rantz
+@ForgottenAncestors-o9z
+@luigtiberi
+@NeuralNote-wp7xx
+@ProgNPsyMetal
+@SteellLegacy
+@ProgEchoes
+@OrpheusMusicProject
+@CreatureDecoder
+@feral-r1j
+@ForwardNation-c8v
