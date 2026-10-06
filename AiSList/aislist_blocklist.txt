@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26796
+! Total Channels: 26795
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17789,7 +17789,6 @@
 @cwjAi-Afro
 @Duniairama-q8j
 @nianalynch
-@americanhistorychronicles1700
 @HeuteAnalyse
 @GrandStructures01
 @The-Age-of-Robots
