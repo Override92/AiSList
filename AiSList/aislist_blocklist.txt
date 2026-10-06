@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26999
+! Total Channels: 27009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27015,3 +27015,13 @@
 @StompingLeprechaunRecords
 @GlasPredaka-q2f
 @Musiklectik
+@PulseBlendStudios
+@theotherdoor666
+@GonezAIMusic
+@bayroncabrera665
+@CircuitRelics-o6r
+@%E6%84%9BinAI
+@Bone_ink
+@ThinkmanOrigins
+@the_thought_vortex
+@AncientWorldUncovered1
