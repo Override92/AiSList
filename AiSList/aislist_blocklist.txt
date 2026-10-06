@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26790
+! Total Channels: 26789
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20205,7 +20205,6 @@
 @HUNTERPOKE3
 @CreativeHitList
 @AiStoryVideos-5656
-@JesusEra120
 @RunwayML
 @AnUneasyVariety
 @EatVerse-X
