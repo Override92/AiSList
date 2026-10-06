@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26914
+! Total Channels: 26923
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26930,3 +26930,12 @@
 @KlausvomMetzgerblock
 @MetzgermeisterKlaus
 @manoikura
+@comicsoon-c1w
+@Romesecrets
+@AIMagic-rr
+@TinyWorkers-3
+@UKThrillo7
+@DEEV-g7e
+@MiniChefAI-Official
+@ChefHabibAI
+@behind-the-chef-ai
