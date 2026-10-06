@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26833
+! Total Channels: 26843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26849,3 +26849,13 @@
 @MissionXplainer
 @Turbo_Neon
 @Paul_theorist096
+@DylanStoriesYT
+@LivRecaps
+@PhongHo-c2e
+@BlinkyAnimations
+@EIRA-c1v
+@MimiMooAnimations
+@WildrootAncestry
+@secret_lokii
+@FarBeyond-s3t
+@SceneLook-m1l
