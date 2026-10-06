@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27089
+! Total Channels: 27099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27105,3 +27105,13 @@
 @Entresalsasyboleros
 @RosadeGranada
 @CatSoundRecords
+@AlinaCastevera
+@3lenaNavarro
+@Luc%C3%ADadelCoraz%C3%B3n
+@LiaCarmensi
+@ALEXIANIEVES-MTL
+@DaianaBlues
+@DiegoCarmes%C3%ADElenaVargasOficial
+@Valerin-u9h
+@EcosdeDavinia
+@SairaMoraVEVO
