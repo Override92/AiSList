@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27069
+! Total Channels: 27079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27085,3 +27085,13 @@
 @TheInnerBattle-u8c
 @InsideEveryRank
 @HappyPOV-hcl
+@TheHumanLoop-EN
+@TaleTalk_EN
+@AlohaVibes-888
+@DecibelArchive
+@YardDubAlley
+@deephouseescape1-e1y
+@secretrnbmusic
+@SmalltownHearts-s9r
+@HeartlandAfterDark
+@AmouraMusic1
