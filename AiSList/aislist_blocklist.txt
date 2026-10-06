@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26794
+! Total Channels: 26789
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19534,7 +19534,6 @@
 @aianimalhospital
 @veil_co
 @NightfallFamilyTruths
-@TheWhiteMafiaBossandtheBlackWa
 @HFYUniverseTales-b1t
 @TheInheritanceFather
 @DadReveng
@@ -25158,13 +25157,11 @@
 @stvbase
 @whiskey_moon-s9
 @AakAIStudio
-@FruMeltASMR
 @AIPodcastChaos
 @gugu-miniature-stories
 @Wonders-c6u
 @AuraSatisfyASMR
 @AIVibeASMR
-@AkStudio.A.I
 @MarianasAIDreams
 @GuriyaPrincess-b3t
 @abhijitnikam
@@ -25178,7 +25175,6 @@
 @Tune4Drip
 @Soundloopai
 @AIRiddimLab
-@Jahhipgospelvibz
 @Oriyalofi
 @melodrex
 @Davecountrymusic
@@ -25205,7 +25201,6 @@
 @MelodyAIVerse
 @tropicalharmony-x5w
 @yanjacksonsegundo69-yb2gh
-@KingofpopAI-25
 @TheArtificials-AI
 @AwnestInstrumentals
 @EvergreeneAfricanTales
