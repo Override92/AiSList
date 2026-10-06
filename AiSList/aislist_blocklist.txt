@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26822
+! Total Channels: 26831
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26838,3 +26838,12 @@
 @MangoExplicaSP
 @OrigenExplicaSP
 @ZapShorts-c7s
+@KiwiExplica
+@MangoExplica
+@AtlsMtls
+@C%C3%A1psula_Mental-r9u
+@BeforetheManual
+@YutaGamingYt
+@pandabitesmukbang
+@Yonghui-Y88
+@MissionXplainer
