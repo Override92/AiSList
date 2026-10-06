@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 26974
+! Total Channels: 26976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26990,3 +26990,5 @@
 @aikidsstory-s5m
 @KidsStory-7878
 @lyrastrings.celticmusic
+@crayonkittyjazz
+@pouya.e.t.i
