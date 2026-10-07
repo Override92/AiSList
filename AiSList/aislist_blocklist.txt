@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27111
+! Total Channels: 27106
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8407,7 +8407,6 @@
 @YourSoulMirror
 @WEAPON-IN-HAND
 @nexusmanualinvestidor
-@alexinvests-w6c
 @storyvibes-k9z
 @allg-nd2
 @explosionoflaughter.56
@@ -17086,7 +17085,6 @@
 @kidsstories-h2m
 @officialmanufaktory
 @TheFactoran
-@Factora_eng
 @uniqoo
 @FactsAndLogic
 @abivyakitadarshvanshi
@@ -18689,7 +18687,6 @@
 @Billionaire-Tales-i8e
 @Best-Novel777
 @EverEnrichStories-t7m
-@TheShade-02
 @DramaDonna-w1x
 @SilentSEAL-a1
 @OnyxDramaFilms
@@ -18699,7 +18696,6 @@
 @TrueheartStories-w9r
 @taleswitdun
 @Wild.Horizons-o9g
-@BrotherMarcusStories-i1p
 @TacticalHonor-h4q
 @OrdinaryLegends287
 @MultiverseClash-c1e
@@ -25313,7 +25309,6 @@
 @LuckArs
 @AIWithTechZnap
 @animeopenings_ai
-@KoreanJapaneseAIStories
 @Epic-Anime-AI
 @reallifeanime-z7t
 @RealMorph_Ai
