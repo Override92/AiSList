@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27129
+! Total Channels: 27137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27145,3 +27145,11 @@
 @MozaicofJesus
 @Graceoasis
 @SlowTruthFilms
+@VettedFaith
+@The_Biblical_Outline
+@Quiet_Shepherd
+@Eric-Dawson
+@EmpiresReawakened
+@TheSFilesOfficial
+@EchoWoodAcoustic-d7u
+@OriginsDocs
