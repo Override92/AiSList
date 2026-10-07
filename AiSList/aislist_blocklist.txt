@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27101
+! Total Channels: 27103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27117,3 +27117,5 @@
 @cozyyarnco3
 @Softrendered
 @queenofnature-l3o
+@ChronikDerKatastrophen
+@DorflebenVonEinst
