@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27107
+! Total Channels: 27109
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27123,3 +27123,5 @@
 @mytharionfilms01
 @bbmbbm0402
 @prostelicap
+@cruisecabininsider
+@brodrickthecreator
