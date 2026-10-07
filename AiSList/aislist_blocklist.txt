@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27107
+! Total Channels: 27102
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25614,9 +25614,7 @@
 @Benita_in_history
 @NesyaTravelVlog
 @HoorumvsHistory
-@timetravelvlog-h8d
 @AITimeVoyage39
-@ViralstreakAi
 @Jackthinks515
 @cyborgcinemaai
 @AIintervieww
@@ -25687,7 +25685,6 @@
 @AI.UNIVERSALPICTURES
 @AIMarveltones12
 @makemovieai
-@Echo_Story_AI
 @MaRVeLaishorts
 @Ai_story_2.0_uxt
 @DaddyAIStory_7.1M
@@ -25731,7 +25728,6 @@
 @AiMarvelDc30
 @aitrailers-t9n
 @EchoOfAI_Stories
-@marvelaistoriess
 @MiniVillageai01
 @MarvelDCAIMashup
 @mtstudioai99
@@ -25814,7 +25810,6 @@
 @MarvelXDc-z5c
 @AiFlixMovies
 @Moviestube-k1h
-@ArchitectAISaga
 @Aivlogstory16
 @AIStoryPrinsh
 @JustuhAiThings
