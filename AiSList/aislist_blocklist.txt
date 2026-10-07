@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27096
+! Total Channels: 27106
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27112,3 +27112,13 @@
 @queenofnature-l3o
 @ChronikDerKatastrophen
 @DorflebenVonEinst
+@ReggaeVibesDaily-h6n
+@BabylonStillBurn
+@Hawaiian-Reggae-Vibes
+@Island-Reggae-Vibes
+@137VibesReggae
+@islanddub
+@ReggaeSoulJunction
+@ReggaeBluesParadise
+@TropicalRootsRadio-s1s
+@TheEntireHistoryDocumentaries
