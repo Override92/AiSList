@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27119
+! Total Channels: 27129
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27135,3 +27135,13 @@
 @TopTravel_YT
 @youarehistorytv
 @LoonyThrone
+@TheSplitTalks
+@Luqivasheep
+@vogostart9762
+@Quantloop
+@flatcirclehistory
+@AHGRID1
+@Trendzone-d7l
+@MozaicofJesus
+@Graceoasis
+@SlowTruthFilms
