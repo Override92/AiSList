@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27163
+! Total Channels: 27183
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27179,3 +27179,23 @@
 @ShadowSEALArchives
 @EmberNurseStories
 @hospitalchronicles
+@HonorUnspoken
+@HeartlandHonor
+@SilentValorArchive-w5h
+@SEALMarineWarVault
+@ValorHonorStories
+@WendersonNacismento
+@MythicMoodsReverie
+@LofiPicture
+@MelloMarshMusic
+@SolaraEcho
+@MyLifeIsaMovie-ym7dy
+@SofiStation
+@QuietHours-FM
+@Historictales-s1o
+@BabyTopia-S2
+@KarmaWatchOriginal
+@METAVERSODOROCK
+@vintagevibeorama
+@Quantum-Arsenal
+@GunVault360
