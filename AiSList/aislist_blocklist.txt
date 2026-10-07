@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27113
+! Total Channels: 27112
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21218,7 +21218,6 @@
 @HOAHiddenReality
 @creeky_reddit_story
 @HOA-9
-@samreenRiaz-u7j
 @DivineMessenger-p2d
 @HOAStories24
 @HOACourtFiles
