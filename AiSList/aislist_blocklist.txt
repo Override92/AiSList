@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27198
+! Total Channels: 27193
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6789,7 +6789,6 @@
 @LyraLane
 @GenderbendStory
 @AI-Value-Investor
-@mechaniksecrets
 @theethnoai
 @TheCinemaRadio
 @DarkHistory-r8q
@@ -26555,7 +26554,6 @@
 @zeroverse1111
 @SVE-v5j
 @BullMatrix5
-@meowwAi12
 @SnuggleTails-y9d
 @ThePromptPixels
 @FunForKidsStories
@@ -26572,7 +26570,6 @@
 @bouzu-kira
 @DanielMeroz
 @VibeCrushX
-@DadajiOriginal
 @Nneuronovai
 @AIdaCode
 @jannatmansoori2404
@@ -26619,10 +26616,8 @@
 @BaranggayBudotsVibes
 @FactoryFrontier1
 @synthoforge
-@MegaFactoryGlobal
 @processnextgenn
 @FactoryScapes
-@FactorySciencePro
 @Factoryflow-m2r
 @ModernDiscoOfficial
 @RAMotionLab
