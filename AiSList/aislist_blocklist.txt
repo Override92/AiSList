@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27192
+! Total Channels: 27187
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26258,7 +26258,6 @@
 @Futureaikids2
 @aikidsvideo-d2o
 @AIGeneratedVideos-Kids
-@AIKidsChannel8
 @AIFunKids-e8e
 @azeh34
 @Kidsaicartoon30724
@@ -26273,7 +26272,6 @@
 @KidAICartoon01
 @AIAnimatics18
 @magicaikidsog
-@FaiqaAikids
 @aivideo-forchild
 @KidsQuestAI2026
 @KidzfunaI
@@ -26315,7 +26313,6 @@
 @infiniteAi2-n5c
 @OdiaAIUniverse-n3x
 @AIcctv-donz
-@BabyPodcastAI
 @ai_baby-9
 @AIMiniRasoi11
 @aistory.reel1
@@ -26543,9 +26540,7 @@
 @Capuchino-Music
 @AVERORA
 @MusicStoryAIAI
-@Mr.EverettStories
 @EseossJenniferUwadiae
-@spirittalesbyken
 @TalesbyNekky
 @peckyshorts
 @DeStoryVault01
