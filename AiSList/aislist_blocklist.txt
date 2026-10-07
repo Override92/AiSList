@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27193
+! Total Channels: 27194
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14855,7 +14855,7 @@
 @LightofChrist-1111
 @AISTORYVERSE-u1h
 @MyYouTubeofBibleStories
-@beastmode10-i5l
+@jesus-r6c8w
 @FantasyExplainedYT
 @Shivamcomedyshorts2025
 @ZarquYT
@@ -27209,3 +27209,4 @@
 @nikhilsentino
 @amykitchen4
 @wildversesai
+@oneworldaffairs
