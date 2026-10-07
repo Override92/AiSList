@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27103
+! Total Channels: 27096
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26032,17 +26032,14 @@
 @Truehubtales
 @ovienlobamercy2784
 @MaryroseUche
-@MissBeastAfrica
 @drwaterlingfans
 @FEARLANE-YT
 @ZoraHayesStudio
 @YouProHacks
 @FruitVerse-026
-@TheMagicToon-i4j
 @jackyaiflow88
 @shortkingrj13
 @aixindong
-@TheFirstAIPost
 @FilmMemories_AI
 @catAilife-37
 @Ai_Story_Verse_101
@@ -26076,12 +26073,9 @@
 @StoriesFromBed
 @AINewsDailyHub
 @aihindistories-m9b
-@joviqueTV
 @AntonioCamerino
 @TechVersity2.0
 @amaze_gen_ai
-@AI_PRODUCT%C4%B0ON-h1l
-@MathiStoryteller-m7
 @FoldVerse-official
 @Isnt_That_Interesting
 @stelfieTT
@@ -26221,7 +26215,6 @@
 @knowledgeisrandom74
 @paathexpress
 @Mythmeaningstories
-@TheCompleteHistoryForSleep
 @Hijabi_coach
 @deepsleep_theory
 @Nova_Vision_Ai_04
