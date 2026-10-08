@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27186
+! Total Channels: 27181
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11290,7 +11290,6 @@
 @pcsense21
 @clippievirals
 @filipfranzentutorials
-@clavemundial-22
 @vexorianhale
 @taintedholocron
 @primevalearth6688
@@ -16211,7 +16210,6 @@
 @FearlessOutdoors
 @militarylabtv
 @redditstories_dino
-@alabo61
 @Mbu_Story
 @GibertoShultz
 @%ED%95%98%EB%8A%90%EB%8B%98-r9b
@@ -19046,7 +19044,6 @@
 @ArmysDreamEntertainment
 @ForbiddenMafia
 @ManhwaVerseStories
-@MAFIABOSSSTORY-y2g
 @Anastazia0_0
 @secretromance123
 @HFYSolarArmada
@@ -22941,7 +22938,6 @@
 @Horn_Studio-A
 @InShowStudio
 @LoversArchive-w8e
-@khayaistudioversion02
 @MysteriousLoves-ML
 @MindPixelAIFILMSTUDIO
 @VoidFrameOriginals
@@ -24558,7 +24554,6 @@
 @georgia_skye25
 @funfantasyzone
 @aifytunestudio
-@khayglaistudio.02
 @jrinspiredmotivation
 @cozywarmjazz
 @dreamsequencefilms1
