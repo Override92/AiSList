@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27185
+! Total Channels: 27186
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27201,3 +27201,4 @@
 @littlejoytv000
 @sleepthroughspacetalks
 @chill-rnb-slow
+@noxiras_official
