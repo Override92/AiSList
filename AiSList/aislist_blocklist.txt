@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27194
+! Total Channels: 27189
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -431,7 +431,6 @@
 @glasscutbr
 @starasmr-w6d
 @miu_ai_studio
-@ngbotsai
 @humanoid_robot07
 @ai-robot-a
 @humanoid_robot-r8i
@@ -487,7 +486,6 @@
 @meowtasticai-k9o
 @aitoons_kidscrt
 @allfunnyclips-g1g
-@mindcraftai3-b3v
 @meowmamaas
 @aianimals-stories
 @loveanti-p5b
@@ -629,7 +627,6 @@
 @aibabyland-v6b
 @aibabyworld-b6p
 @ai-babies-art
-@ziicartoon
 @chichi.ai.adventure
 @brajeshkumar-singh
 @rudolph-y4m
@@ -835,7 +832,6 @@
 @catvideosofficiall
 @silentmeows-o1r
 @meowcats9
-@storygarden777
 @aicircle-x7r
 @aientertainmentshorts-o6k
 @my_cat_2025
@@ -2200,7 +2196,6 @@
 @AIPaws-c6o
 @AIPAWSYT
 @FarmMachine-FM
-@DailyAIAnimalLife
 @KavishkaStudios
 @cat.time117
 @playthemaster
