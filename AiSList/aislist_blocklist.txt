@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27187
+! Total Channels: 27182
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2264,7 +2264,6 @@
 @catsstory-w8g
 @meowaicat-u2l
 @ourcat_04
-@shortsai-t6h
 @ai.cat.shorts2026
 @tuhucataishorts
 @funnyaicats-ai
@@ -3451,7 +3450,6 @@
 @Millionaire_Romance_us
 @BossoftheUnderworld
 @enigmasarqueologicos7
-@PassionateMemories
 @LOSDOCUMENTALES1
 @ImperioPerdido
 @severalstoriess
@@ -10680,7 +10678,6 @@
 @CampfireCowboyStories-l3o
 @WesternSoulStories-v3e
 @LegendsWeLost-w9t
-@supaponwachina
 @someeguy28
 @music_potions1
 @road.heritage
@@ -16856,7 +16853,6 @@
 @ankaasound_a
 @MedievalSerenity-e1t
 @FuturisticSounds-o7
-@hiddenvibes68
 @SatisfyingJapan
 @aivanzzang
 @ChillQuestRPG
@@ -17115,7 +17111,6 @@
 @AIFuzzyMoments
 @ai.atmaxx
 @powerofmoney10m
-@Vaitorsk5487
 @DeltaExplores
 @tiky_ai
 @TheAILab-t8w
