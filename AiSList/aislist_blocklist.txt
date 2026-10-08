@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27196
+! Total Channels: 27197
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -201,7 +201,6 @@
 @tususuASMR
 @youtubeshortsasmr
 @WhisperDreamsASMR-no1
-@ASMRAIbyClara
 @CatastroBotAI
 @aicandream2025
 @AI.maginary0
@@ -221,7 +220,6 @@
 @thebizarrevault
 @ReallyNotAi
 @Rapoh1
-@NoMore_Talking
 @Hayatworld-n8g
 @reallyweirdai
 @GeekRift
@@ -27212,3 +27210,6 @@
 @plantproduct
 @thinklikeadogoffical
 @no_talking0
+@hayatworldasmr
+@psychomanis_official
+@profetadormecido
