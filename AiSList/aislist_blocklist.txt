@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27509
+! Total Channels: 27511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27525,3 +27525,5 @@
 @NyxenKuromiya
 @alphafuturesclipz11
 @tiengtrung.lychee
+@cinetoonofficial
+@africabeyondthe_headlines
