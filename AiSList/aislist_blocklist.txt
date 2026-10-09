@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27459
+! Total Channels: 27469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27475,3 +27475,13 @@
 @RuntimeRadio
 @%E5%92%8C-n4t7i
 @MiniMuslimWorld-t6m
+@Kaze_Oni
+@DarkPulseSociety_2026
+@mookaxuka
+@Kampfzone-YT
+@OldPulse
+@MagicTrianglesMelody
+@CinnamonGirlMelodies
+@AIUniverse-z7k
+@ai.with.marvel
+@AIMovieTrailers1995
