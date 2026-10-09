@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27300
+! Total Channels: 27310
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27316,3 +27316,13 @@
 @huntrixplanet
 @AdorableAnimalAnimation
 @MiMisMeowWorld
+@HuntrixOtherStories
+@hutrixworld
+@laffertyyadira
+@dontolAImey
+@Belai_EM
+@ahhilmi78
+@MonekyMadeItAi
+@Movio_studio_en
+@aikpopuniverse
+@EunbitRumi
