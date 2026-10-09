@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27232
+! Total Channels: 27242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27248,3 +27248,13 @@
 @ai.akshuu
 @ryan.codes1
 @amanda_ai_life
+@findmethatai.studio
+@uprisingai
+@CodeCodersYT
+@spotlightofficialyt
+@Techwithans29
+@AbbasYousafAIMarketing
+@iammrprompt
+@leougc
+@SaminYasar_
+@aiwithyuna
