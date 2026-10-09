@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27493
+! Total Channels: 27503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27509,3 +27509,13 @@
 @Ai-Movie-Universe
 @flofihouse
 @cozybites15
+@LofiBreeze-Music
+@Pick.choice
+@LifeExplains-1
+@AIBlockbusterTrailers
+@AIBibleCinematics
+@Aicrimepodcast-u1b
+@TrailerAIplus
+@story_teller_61
+@Sora_ai123
+@AiDoorbellStudios
