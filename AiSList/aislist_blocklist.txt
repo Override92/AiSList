@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27430
+! Total Channels: 27440
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27446,3 +27446,13 @@
 @OnlyCatsMeow123
 @ReallyonAi
 @MadeThisAI
+@zvoidx2
+@ai_zombieFish_ai
+@CinematicByte9
+@aihumorfactory
+@TinyMorphixStudio
+@MiniMunchiesKitchen_11
+@PIXARMINICHEF
+@sujin.min_13
+@MidnightBluesGentleman-m6h
+@MadeX-z8q
