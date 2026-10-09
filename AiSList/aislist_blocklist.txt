@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27179
+! Total Channels: 27174
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1736,7 +1736,6 @@
 @HiddenFrontHistoryy
 @Since1939s
 @AfroWireAI
-@mrpeto9
 @TheWW2Legacy
 @eyeofww2
 @ww2memoir
@@ -4735,7 +4734,6 @@
 @DecodeDiaries1m
 @arwaskitchenofficial
 @sakoondill-x4m
-@mrsadhnaai
 @punchjapan
 @exploringaustraliah
 @visionx4kpro
@@ -7848,7 +7846,6 @@
 @MindfulPatterns597
 @Whispers-from-Arcturus
 @ChosenForMiracles7
-@JesusLastMessage11
 @ChosenDivineLight1111
 @ChaosStrategy
 @AlphaSurvivalProtocol
@@ -8935,7 +8932,6 @@
 @GoldfishRevenge
 @By_LoA
 @thearchiveinbetween
-@RunwayUpdates-u7h
 @HiddenPrincess-g8e
 @OurL%C3%ACsh%C7%90
 @Fantasy-Origins
@@ -12959,7 +12955,6 @@
 @Mangai168
 @HPZ-28
 @DylMan1
-@videofidan
 @CatsDubbing-zt7jb
 @Skytv.Clipss
 @ClearMindForEver
