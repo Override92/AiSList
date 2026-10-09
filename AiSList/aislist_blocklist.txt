@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27616
+! Total Channels: 27626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27632,3 +27632,13 @@
 @fruit_dramaa
 @Aicinema21
 @SynthVisionAI-i1b
+@Aifruvion
+@TalkingFoodAI-c7c
+@Fruitfuryai
+@AiStoryLabSinhala
+@Sail-Escape
+@fruitvibestudios1
+@NAZFruitKingdomStudios
+@Cinema-Al
+@Theofficialinfinityai
+@hpmine843
