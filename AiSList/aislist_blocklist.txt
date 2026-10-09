@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27310
+! Total Channels: 27320
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27326,3 +27326,13 @@
 @Movio_studio_en
 @aikpopuniverse
 @EunbitRumi
+@AIStoryVerseWL
+@K-popAIDEMONVERSE
+@chesteraiforfun
+@hypershq
+@aiisliphe
+@AIEMPIRE-f5h
+@HiggsFieldVideos
+@globally-recognizedwords
+@The_Official_DERP_TV
+@AIClipp-Shorts
