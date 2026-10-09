@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27178
+! Total Channels: 27177
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8882,7 +8882,7 @@
 @WolfKingsRomanceLibrary4755
 @jksfantansies
 @annromancelibrary
-@ElinsLoveStories
+@anciently-b1v
 @MoonlightMatesLibrary
 @DeWolf-official
 @Ivyuniquelibrary
@@ -10504,7 +10504,7 @@
 @pengagum_sunyi
 @METALJPAI
 @ROCK.IN.AI.J
-@hudansmusicchanel
+@hudansmusiccover
 @isikalmusic
 @legendsreimagined13
 @kAthrsIs
@@ -18322,7 +18322,6 @@
 @UrbanMyths-757
 @storytalkhub007
 @PrimeFocus-s1y
-@Explore-f3p
 @NSMovieflix
 @Giant_world_ai
 @sarvatrahindutva
