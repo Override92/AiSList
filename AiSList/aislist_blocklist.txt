@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27320
+! Total Channels: 27330
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27336,3 +27336,13 @@
 @globally-recognizedwords
 @The_Official_DERP_TV
 @AIClipp-Shorts
+@sci-fi-movies-clips
+@AlexeyNordWeb3
+@EsmileAi
+@ArenaZeroseries
+@higgsfieldfanpage
+@Higgsfield-Clips
+@Higgsfield.clip.s
+@higgsfieldaimovieclips
+@HiggsfieldAIclip
+@higgsfield-l4j
