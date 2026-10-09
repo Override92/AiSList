@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27184
+! Total Channels: 27183
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11834,7 +11834,6 @@
 @echoesofmylifeaistories
 @TheAIRasoiShorts
 @AiStoryVersen
-@KarmaClips-99
 @Harsh-3w
 @HezzieAI23552
 @toonmindai-g2h
