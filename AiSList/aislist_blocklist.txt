@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27180
+! Total Channels: 27179
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2732,7 +2732,6 @@
 @PenguinTales-h4v
 @Wikifino
 @libraryofterence
-@HistoricReelsAI
 @TheStoicEnglish
 @TheHistoryAnalyst
 @BookShortzSchool
