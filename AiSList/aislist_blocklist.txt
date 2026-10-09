@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27370
+! Total Channels: 27380
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27386,3 +27386,13 @@
 @aidungeon1
 @t.heFinePRin.t
 @WarlegacyChannel
+@EchoesoftheAges-cm2dq
+@AlexGrantPodcast
+@TheTimeMachina
+@AIAfterlife93
+@Collective.mind.1
+@theDEDsouls
+@KnightlyNewsClips
+@HistoryEchoesAI
+@CultureClownAI
+@What.If.Legend
