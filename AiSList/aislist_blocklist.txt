@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27181
+! Total Channels: 27178
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8509,7 +8509,6 @@
 @StringsofEternity
 @SundayClassics-m1s
 @SystemDecoded-f9h
-@nextleveldiscovery2.0
 @beyondmilitary
 @BeyondtheVersesOFFICIAL
 @BigstarV8
@@ -18253,7 +18252,6 @@
 @TheLegacyofBruceLee
 @KaelEmberfall
 @TheBoringRichCo
-@amazingmagicworld07
 @DeadsteadSurvivalTales
 @TomTalksMoney2k
 @UltimateRevenge-u6n
@@ -22896,7 +22894,6 @@
 @Indiapur
 @UltraVibeZone-t2n
 @jmjfilmybeats
-@RohosserMukhosh
 @Aisonghub7
 @sapnaaimusic2.0
 @DesiGlamBeats
