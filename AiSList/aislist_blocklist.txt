@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27174
+! Total Channels: 27184
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27190,3 +27190,13 @@
 @primiumcarpro
 @puremuslinhouse
 @theraccoonreport24
+@AnalogGuitarRoom
+@DarkBluesSoul-c9s
+@GlacieraiTech
+@%EB%82%B4%EB%AA%A9%EC%86%8C%EB%A6%AC%EC%BB%A4%EB%B2%84
+@linuxaistudios
+@BehindClosedDoors-USA
+@ApexaAI
+@ai_reveal_tech
+@Niomagickids
+@DJSELaughClubUSA
