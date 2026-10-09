@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27192
+! Total Channels: 27202
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27208,3 +27208,13 @@
 @AshwoodBluesLounge
 @NanjuEdits
 @SGTunesOfficial
+@CelticBeat1
+@HypnoLore
+@OGAMAUDIO
+@WhyExplained-A1
+@kickinview
+@DNAProof.68
+@TheMidnightLab-AI
+@AIfruitstoryYT
+@sebjefferies
+@HiggsfieldClipsz
