@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27330
+! Total Channels: 27340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27346,3 +27346,13 @@
 @higgsfieldaimovieclips
 @HiggsfieldAIclip
 @higgsfield-l4j
+@higgsfield.creators
+@higgsfield-y3n
+@Higgsfieldstudio
+@HistoryBeyond786
+@AIFlowScape
+@rdx9044
+@Ancienttales-h3n
+@WowSpot23
+@EchoesofAntiquity-v4c
+@AiPeedika
