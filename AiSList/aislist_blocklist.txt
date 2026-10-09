@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27202
+! Total Channels: 27212
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27218,3 +27218,13 @@
 @AIfruitstoryYT
 @sebjefferies
 @HiggsfieldClipsz
+@alphawave-j2z
+@uxdesignerveit
+@bvaifilmmaking
+@Saransh-AI
+@D_studioproject
+@LUCIDVFX-w3z
+@HiggsfieldAIStories
+@ZynaraStudios
+@InfoInsightAI
+@leenorthequeenofai
