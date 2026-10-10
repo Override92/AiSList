@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27553
+! Total Channels: 27563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27569,3 +27569,13 @@
 @Laughmour_AI
 @CatsMoment2222
 @FurryTales17
+@Animals_StoryAI
+@chanAi-y9k
+@ZiggysQuest
+@CuteCateAIvideos
+@sportsvisio
+@AISPORT-c1x
+@TheMerge_AI
+@AIscapes01
+@EIGHTRIXAI
+@mystiquelicorne
