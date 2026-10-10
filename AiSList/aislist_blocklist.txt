@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27973
+! Total Channels: 27983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27989,3 +27989,13 @@
 @Souta-fantasy
 @Nova_Musicsofficial
 @JellyBlueD
+@MysticalHighlandAmbience
+@cartoonworldai-d7q
+@officialaitalestudio
+@SOL077-i8m
+@TheFeynmanParadox-r1f
+@RealDr.EthanMillerSeniorHealth
+@MemetoAiSongStudios-s4e
+@MapleAIMusic123
+@Slapstick_Heretic
+@HoorAl-Ayn7
