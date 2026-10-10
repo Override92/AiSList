@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27712
+! Total Channels: 27722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27728,3 +27728,13 @@
 @HIAaientertainment
 @CompilAI369
 @ai_imaginariumx
+@legendsIRLvlog
+@TheDrifting_Historian
+@SleepHaven_Stories
+@LucernaAI
+@InsidethePastChannel
+@AmoraAfroKDrama
+@SecretVerseStudio
+@HariraSuraj
+@Moonveilpictures
+@Luckyprizeofficail
