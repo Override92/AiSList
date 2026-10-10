@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27682
+! Total Channels: 27692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27698,3 +27698,13 @@
 @Epic_AI_Trailers
 @cinematicaiuni
 @AI_Documentary_Official
+@AIUniverseStudio-Sk
+@VoidVerseAI-p7b
+@Spiritualconnect-9
+@wildverseai1
+@AlienAiUniverse
+@AntVerseAI6
+@LCAISTUDIO
+@AI-CINEMASTORIES
+@RohitKale-n4p
+@cinematicAi3419
