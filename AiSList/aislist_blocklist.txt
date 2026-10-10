@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27802
+! Total Channels: 27812
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27818,3 +27818,13 @@
 @wonderverseai786
 @AJurassicAI
 @MechaAI88
+@AiINFINITY_1-22
+@NovaSimAI
+@ByteSizedAi-m8j
+@ai_storieshubb
+@Greyhare-Furry-AI
+@Heuksunrok
+@wolfen_wolfclaw
+@Aiblizard
+@kAIju.oc.creations
+@LearnAI-tw
