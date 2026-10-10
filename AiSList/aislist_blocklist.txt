@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27930
+! Total Channels: 27937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27946,3 +27946,10 @@
 @CrunchNovaX
 @CodsmatAI
 @solainventore
+@AutoscopeIndia
+@wanbaby922
+@PrimeInsights-01
+@SidraQayyum-y7t
+@Lunora-studio-v8d
+@VisionForge-x4n
+@Healthai-r3w
