@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27841
+! Total Channels: 27851
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27857,3 +27857,13 @@
 @LoreAttack
 @boogabooga223
 @AiVlogs-y5j
+@TINYFACTORY-AI
+@Softmoneyera-f3w
+@SharonAfricanStories
+@ZeonixAI
+@RaziAI_Vlogs
+@CSBAIAnimate
+@abkElevate
+@OmniAi_Ino
+@OnyisAIDigitalDiaries
+@Prettyandpaid-c4e
