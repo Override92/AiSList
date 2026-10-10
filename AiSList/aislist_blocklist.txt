@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27983
+! Total Channels: 27993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27999,3 +27999,13 @@
 @MapleAIMusic123
 @Slapstick_Heretic
 @HoorAl-Ayn7
+@PsychoQuokkaStudio
+@BrianTheVideoShooter
+@QOOQON
+@OldMoneyMusic01
+@Gurujamfocus
+@Kimurayunu
+@veronicalenean333
+@Kokoreadscinema
+@Sallywrites01
+@MythologyExplainedEasy
