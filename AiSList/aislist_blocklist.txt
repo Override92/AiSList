@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27871
+! Total Channels: 27881
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27887,3 +27887,13 @@
 @ai.clipzone.official
 @AIFishionWeekToday
 @comediesofbillu
+@PurrcatAi_0
+@TheDeskCalibre
+@AIisHilarious
+@AIFunGully
+@Ai_Fiction_Stories
+@HappymeowTV-f2j
+@Aitwinsx
+@LittleTvAiWorld
+@gugukcute
+@ai.yumyum
