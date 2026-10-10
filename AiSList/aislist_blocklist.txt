@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27513
+! Total Channels: 27508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4897,7 +4897,6 @@
 @klubgentlemanow
 @joinfitpro2
 @RevengeDiariesUS123
-@RevengeFury9
 @RevengeNickelus
 @WarmFamilyTalesLB
 @revengeflex-k1g
@@ -4914,7 +4913,6 @@
 @DailyRedditReadingsofficial
 @FamilyTalesbyDany
 @TalesBeneathSkin1
-@zsstorieslab
 @VendettaTales-m3e
 @SoulTales-07
 @CasefileRevenge
@@ -5273,7 +5271,6 @@
 @MelodyMusic68
 @frontlinewarstoriesww
 @secretoses
-@stoicmindset9
 @expedientemexicomx
 @misssamantha_ph
 @capitalpivot
@@ -8190,7 +8187,6 @@
 @DreamBuilderAIs
 @havefuneveryday-1808
 @PeterInvests-us7
-@DocuNix
 @WorkZone-s3w
 @WorldPolitics-r1z
 @MUSKRECORSD
@@ -23552,7 +23548,6 @@
 @MafiaRomanceStories22
 @EloraDrama
 @K-MafiaBossObsession
-@HFYCosmosHunter
 @StellarboundHFYSciFi
 @TheGreyLineStories
 @CleanRegencyLoveStories
