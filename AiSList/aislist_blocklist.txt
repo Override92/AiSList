@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27832
+! Total Channels: 27841
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27848,3 +27848,12 @@
 @googooglitch
 @KangarooAiVideos
 @ourmythicalgalaxy
+@emredar693
+@CelestialForgeAI-j2g
+@DreamPixelAI24
+@aifantasyartworldyt
+@BatallasSilenciadas
+@NeuroRendered
+@LoreAttack
+@boogabooga223
+@AiVlogs-y5j
