@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28060
+! Total Channels: 28070
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28076,3 +28076,13 @@
 @ArcKnightTechYT
 @SoulwaveRadio
 @LoungeTheGospel
+@DADSFIERCEREVENGE
+@NapoleonHMindset
+@FictionMax
+@OtherworldsWhatIf
+@ASHES-OF-MIDGARD
+@HarayaLoungeOfficial
+@amihanmusiclounge
+@AIFusion-official
+@Upskyai
+@AZstudios2026
