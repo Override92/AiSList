@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27993
+! Total Channels: 28002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28009,3 +28009,12 @@
 @Kokoreadscinema
 @Sallywrites01
 @MythologyExplainedEasy
+@black3kobra
+@Alchemical-Vibrations
+@eternal.ethereal
+@AITrendsHubOfficial
+@EgiptoEterno
+@auspicemariamusic
+@santononoise
+@ZapByteAI
+@retrogamingtrance
