@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27732
+! Total Channels: 27742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27748,3 +27748,13 @@
 @Digital_AI_Ronin
 @narriomotion
 @BriellesHogwartsDiaries
+@AI_Vids101
+@Samadhi_Sewmini
+@artivise
+@ThroughTheAges3
+@GOCOCOWorks
+@DailyAIdose
+@aeyesight
+@aivideo23
+@Zenichielementaldragonninja
+@OpenBookRoomAi
