@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27508
+! Total Channels: 27509
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10811,7 +10811,6 @@
 @plunderexe
 @MegaCatCut
 @HiddenTerraVaultCP
-@AethernalAI
 @rumibembem
 @KATLOVEAI
 @Kapandascat
@@ -27524,3 +27523,5 @@
 @kobinathmarakai
 @darkharmonia
 @hiddenepochh
+@projectuncovered
+@cuentos-de-la-regencia
