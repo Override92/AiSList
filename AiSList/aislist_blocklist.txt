@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28031
+! Total Channels: 28041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28047,3 +28047,13 @@
 @WorkWithAi-m9f
 @B4sGeneral
 @DouyinDrops.oficial
+@EngineeringTheLegacy
+@miniworld12-m8m
+@JayAI38
+@KiraHeat.01
+@TrekTimeChronicles
+@ThePhotoDetective
+@TheLarkAndLanternMusic
+@maris-films
+@WynnValentine
+@RinMakabe
