@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27573
+! Total Channels: 27583
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27589,3 +27589,13 @@
 @AlbysBasketball
 @Mindfinityshorts
 @the_good_stuff_ai
+@Littleartistua
+@CopyCatAi-p1j
+@AiVision_ofc
+@AIVisionStudio-o3r
+@DPCartoon%C3%80i-v6k
+@joecris23
+@MiniChamps-AI
+@MiniTalksGlobal
+@BabyPodLaughs
+@BestAiUniverse
