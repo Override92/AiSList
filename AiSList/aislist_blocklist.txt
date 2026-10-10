@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28087
+! Total Channels: 28082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19985,7 +19985,6 @@
 @AIUniversAI
 @TinyTailsAI-u8e
 @tinychaosunreal
-@AISatisfyASMR
 @hfy-core
 @backyardbanditstv-j9i
 @TomorrowAnimeClub
@@ -20106,7 +20105,6 @@
 @EisenTraktorGeschichten
 @PfotenderTreue
 @TheBraveNurse
-@ForbiddenMafiaHeartStories
 @TimKellner
 @QuantumCuriosityStudio
 @VerboteneLiebe19
@@ -20309,7 +20307,6 @@
 @Sci-FiLines
 @JNagaraj-f3t
 @MakeAiGreatAgain1
-@CapitalWatch-h6k
 @OnTheRecord-q6s
 @DiaryInfluencer
 @GrowWithKaz
@@ -24907,7 +24904,6 @@
 @psico-dibujos-animados
 @snipsphere0
 @ToonVerse9AI
-@AI-OddlySatisfying1
 @OddlyASMRHUB6888
 @aismrfusion
 @Lemon-AI-ASMR
@@ -24944,7 +24940,6 @@
 @abhijitnikam
 @VirtualMusic-t4h
 @HazyRealm-h3e
-@songsingai-e1f
 @VibeWaveTv1655K
 @BeatVerse360
 @RiddimVault_1
