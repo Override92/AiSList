@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27614
+! Total Channels: 27622
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27630,3 +27630,11 @@
 @ROCK_JOSHI
 @aimusic.jpop00
 @24nyon_bgm
+@TechSiftYT
+@TheAnthropologistAI
+@TechWorld-HD
+@KINGJOE_AI_NEWS_CHANNEL
+@Faith_in_Melody
+@reforge_india
+@Plax-q1n
+@SasaMyungRecords
