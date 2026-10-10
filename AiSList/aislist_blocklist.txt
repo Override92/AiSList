@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27773
+! Total Channels: 27772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19469,7 +19469,6 @@
 @GhostThroughTheWild
 @Psatodmusicalworld
 @turborhythm
-@Alex-nex-tech
 @papers_by_hand
 @chessblitzking
 @tfcovers
