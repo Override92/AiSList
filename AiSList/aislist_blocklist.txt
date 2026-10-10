@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27890
+! Total Channels: 27900
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27906,3 +27906,13 @@
 @FarhanAiVlogger
 @AI.ANIMAL.SHORTS-1
 @AIFamily-x4y
+@OMNIDRIFT-NEXUS
+@ai_vibes_studio_1
+@CatDailyLifeAi44
+@AIStuffed
+@AI_ME_MORE
+@gorilla_vlogs_ai
+@AMQAiFusionLegend-P1
+@maigenerator
+@AICatDaily-d8v
+@MRCOMEDYAI-o5h
