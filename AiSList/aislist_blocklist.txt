@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27881
+! Total Channels: 27890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27897,3 +27897,12 @@
 @LittleTvAiWorld
 @gugukcute
 @ai.yumyum
+@jsrmonkeyvlogs
+@KabirMotionAI
+@greatai95-17k-waching
+@abhinavkevideos_cfe
+@AImio-w3b
+@LamiAIStories
+@FarhanAiVlogger
+@AI.ANIMAL.SHORTS-1
+@AIFamily-x4y
