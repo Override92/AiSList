@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27604
+! Total Channels: 27614
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27620,3 +27620,13 @@
 @ThrillingAI-t7k
 @PlayAITogether
 @AiTechVibetrends
+@AdeptusSonoris
+@ChroniclerofPossibilities
+@dennou_kugutsu
+@ai_ongaku_kenkyu
+@Aiomo%E3%81%82%E3%81%84%E3%81%8A%E3%82%82
+@the_ai_kayousai_official
+@e-aisyouji
+@ROCK_JOSHI
+@aimusic.jpop00
+@24nyon_bgm
