@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28088
+! Total Channels: 28087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20034,7 +20034,6 @@
 @TheContextWindows
 @TheMeasuredHouseYT
 @トカゲ-m5c
-@QuiteRevenge-o4s
 @MG21AISTUDIO
 @ABHI_AI_STUDIO_S67
 @rahulgari231
@@ -20118,7 +20117,6 @@
 @LandSchicksale
 @TheCowboyStoryteller-p5n
 @DadHeartStories
-@TrueFeelStories1
 @LocomotiveGeek
 @WildWestChronicles-m9i
 @madeonwallstreetUS
@@ -28104,3 +28102,4 @@
 @IRONMILERADIO
 @GravelSaintsRadio
 @%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%87%8D%E4%BD%8E%E9%9F%B3Jazz
+@shalomlangfordusa
