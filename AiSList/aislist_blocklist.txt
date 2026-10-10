@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27563
+! Total Channels: 27573
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27579,3 +27579,13 @@
 @AIscapes01
 @EIGHTRIXAI
 @mystiquelicorne
+@TalkWithBabies
+@FunyToonTV
+@EthanAiShorts
+@Clipzy_Creates
+@Dr_Switchhh
+@TheDiaryOfABaby
+@kidssmediazx8
+@AlbysBasketball
+@Mindfinityshorts
+@the_good_stuff_ai
