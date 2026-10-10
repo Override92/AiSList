@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 27782
+! Total Channels: 27792
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27798,3 +27798,13 @@
 @KangarooAIClips27
 @ai.storyedit-2
 @ComedyAI23
+@Altech-o4u
+@Nooruzzamaai
+@storytime-7-a
+@CartoonBacchaparty-j2y
+@VividBotStudio
+@muzaffar_ai
+@Infinite-rushi
+@ZooMyth-i4l
+@PhinSengheang-l2h
+@NeoMagicAI
