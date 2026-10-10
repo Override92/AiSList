@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28021
+! Total Channels: 28031
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28037,3 +28037,13 @@
 @TikoTokeBr
 @MusicMannA.I
 @ai_anime_labo
+@Destin4God
+@AIMusicExtensions
+@levortal_is_here
+@AnimeTuned-jpn
+@AiTakesControl
+@SrNadie7
+@EpicPoketunes
+@WorkWithAi-m9f
+@B4sGeneral
+@DouyinDrops.oficial
