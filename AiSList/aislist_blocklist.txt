@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28083
+! Total Channels: 28078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20327,7 +20327,6 @@
 @TheHiddenCat-US
 @Growwfruit
 @Manhwa_StormX
-@SilentMonastery-g7c
 @hellopetcarevet
 @NarratedAfricanFolktales
 @allneedknow
@@ -20493,7 +20492,6 @@
 @PhoenixSoulStories
 @GiaLinhVu-t7j
 @SilentStory-y7m
-@NhatKhoaCao-y9h
 @HeartlandStories2
 @Crisis_Social
 @TheHOAFallout
@@ -20744,7 +20742,6 @@
 @BaadReddit
 @PenguReader
 @TheforgottencodexYT
-@LillianDavisUS
 @LoveDestinyRevealss
 @StoryPop-012
 @MoneyyStrategist
@@ -26562,7 +26559,6 @@
 @German_Insights00
 @AboutStoriesss
 @Murph-b5y
-@HumanityHFY-y3d
 @HumanvsGalaxy3.0M
 @HFYChronicles-q6w
 @TheSpaceFrontier-r3s
@@ -26718,7 +26714,6 @@
 @TimeTravelAI_00
 @AIZXWN
 @AITimeTravelStories
-@Aicreator-93v
 @TimelessTravelAi
 @AITimeTravelTrends
 @POVAiTimeTravel
