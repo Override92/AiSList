@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28511
+! Total Channels: 28518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28527,3 +28527,10 @@
 @NextGenProduction0
 @WWIIPOWFiles
 @TrueNorthInvents
+@China_Engineered
+@AnvilOfVictory
+@SumerianTextsREVEAL
+@OldWaysRestored
+@SaborSonStudio
+@techinfo4usa
+@ZacharyBaker-e3p
