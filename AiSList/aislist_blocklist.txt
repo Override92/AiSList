@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28306
+! Total Channels: 28305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21640,7 +21640,7 @@
 @TheStoryJourney-f7r
 @MrLukku7
 @uroojverse-777
-@King_AI47
+@zillly_ai
 @EchoesInTheShade
 @adukkalaStoriesS-h2g
 @chintupihushorts
@@ -21655,7 +21655,6 @@
 @astrofunkclub
 @soulstoriesorg
 @HoaStories-k8
-@Ppropertylinestories
 @neighbordisputestories
 @caughtoncam009
 @HOAStories-10M
