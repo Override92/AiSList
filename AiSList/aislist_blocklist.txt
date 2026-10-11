@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28445
+! Total Channels: 28455
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28461,3 +28461,13 @@
 @SYCHORUS
 @AJaxProductionz
 @FaithCounty
+@MasonDrakeStudio
+@monoparadiso
+@Hope_Bible_Stories
+@whisperofscrolls
+@IronStrawInc
+@MONOWORDMusic
+@DeX_Notes
+@SevenSeasShanties
+@Nightcap_Lounge
+@epicjuzz
