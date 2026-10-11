@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28211
+! Total Channels: 28221
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28227,3 +28227,13 @@
 @VIBIQ_brainrot
 @Brainrotaidaily
 @LostMetal-n3b
+@Auravane1
+@ElowraMusic
+@NoraliyaVane
+@Kuppe20
+@RagnOdin
+@GothicNightRadio
+@The.Eva.Winters
+@SariValkeinen
+@INNER_SAD
+@bestcoverrock-guitarmira
