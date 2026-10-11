@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28254
+! Total Channels: 28264
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28270,3 +28270,13 @@
 @aifruityvideos-19
 @ScienceofAntiquity
 @Macroeconomi_IA
+@ai.neurofinance
+@AIMarketNews
+@TheHumanAiCivilization
+@gobankless
+@NeverRenderLabs
+@AIMoneyExplainers
+@OptimLM
+@Cin%C3%A9astesNotebook
+@PulmoIntel
+@VisualBlueprintAI
