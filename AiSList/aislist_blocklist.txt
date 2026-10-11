@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28079
+! Total Channels: 28078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12152,7 +12152,6 @@
 @cailonbina1
 @DeathDecoDeD
 @CourtsAndCrimes
-@GraveSilence1
 @mrl-i3j
 @stuntbyviju
 @AmericanFoodHistory
@@ -21469,7 +21468,6 @@
 @AIWildTales-u8b
 @aicreator.05555
 @itsfknjimmy
-@sagebrush-vows
 @blv.sontung
 @asmrnightstudy
 @RetroWaveRadio85
@@ -28095,3 +28093,4 @@
 @sinenottr
 @corridossinregreso-n1w
 @bunnybeartunes
+@legacyrevivestudio
