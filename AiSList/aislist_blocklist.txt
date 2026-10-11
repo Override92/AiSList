@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28513
+! Total Channels: 28512
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14636,7 +14636,6 @@
 @NollywoodVillageTv
 @PJanimation2
 @kimtellstales
-@VOXTALE-y8k
 @goldenrecords111
 @TALESBYBUSAYO-k9e
 @talesbytyron
