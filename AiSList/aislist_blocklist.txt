@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28365
+! Total Channels: 28375
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28381,3 +28381,13 @@
 @M-H-M_Music
 @AiOFilms-y5u
 @CaelvaneTV
+@%ED%95%9C%EA%B5%AD%EB%B0%B1%EB%A3%B8_KoreanBackrooms
+@CyberKineticCinema
+@ThomasLavoieAI
+@GameJoyExplained
+@aleksandr-audio
+@GenAIStudioFilm
+@HIMXSOUL9
+@masteringAIVideo
+@NeoAICinema7
+@andrey.project
