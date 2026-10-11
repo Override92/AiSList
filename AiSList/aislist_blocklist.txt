@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28375
+! Total Channels: 28385
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28391,3 +28391,13 @@
 @masteringAIVideo
 @NeoAICinema7
 @andrey.project
+@AIM-Creations-AI
+@ChampionsofOrigin
+@MamaWu-w5i
+@Galaxysquad1-1
+@kstudioai
+@WhenCrownsBleed
+@VelvetHearts-l9r
+@FrozenOath2
+@Vlhallaecho
+@VikingSpiritMusic-e7y
