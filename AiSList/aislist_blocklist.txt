@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28493
+! Total Channels: 28501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28509,3 +28509,11 @@
 @SaremAIStories
 @BobbyAIFilms
 @NovaPicturesAI-j3c
+@TitanVerse-y9c
+@pinoyaimovie
+@OginiStudios
+@NazaTales
+@VelvetObsession77
+@lofiminazuki
+@ALERTAROJAUSA
+@EarthUnderSiege
