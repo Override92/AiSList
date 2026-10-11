@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28386
+! Total Channels: 28395
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28402,3 +28402,12 @@
 @Vlhallaecho
 @VikingSpiritMusic-e7y
 @baram.sandeul
+@WreckageWaves
+@neohutor
+@NidhoggWyrd
+@RuneFireMusic
+@Nafaraven
+@RyderThorn.official
+@EinherjarValhalla
+@foundandfeltmusic
+@LIKEAIDRAKKAR
