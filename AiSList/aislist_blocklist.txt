@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28073
+! Total Channels: 28074
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28089,3 +28089,4 @@
 @corridossinregreso-n1w
 @bunnybeartunes
 @legacyrevivestudio
+@philip-anthonymitchell-b6w
