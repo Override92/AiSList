@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28221
+! Total Channels: 28230
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28237,3 +28237,12 @@
 @SariValkeinen
 @INNER_SAD
 @bestcoverrock-guitarmira
+@TheMachineisbreathing
+@NextVisionMusic
+@PandoraMorningstarOfficial
+@BudboyRequiem
+@LaraPaollini
+@MinuitM%C3%A9lodie
+@CafeAmbrelune
+@RASTISLAVKING
+@SensM%C3%A9lodies
