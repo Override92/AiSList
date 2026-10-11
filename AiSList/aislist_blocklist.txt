@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28080
+! Total Channels: 28078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12060,7 +12060,6 @@
 @RadmanAi0099
 @funnyaivideosforfamily
 @AIDevtaa
-@Aiautomotivejj
 @KittyFusionai1
 @Top5RingAI
 @LostRealmsAi_ai
@@ -24349,7 +24348,6 @@
 @ритмсердечныхструн
 @comidantigabr
 @trafficrights
-@mc998_official
 @暮屿AI动画局
 @墨鸢漫社
 @逆光女主劇場
