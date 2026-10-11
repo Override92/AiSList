@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28109
+! Total Channels: 28119
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28125,3 +28125,13 @@
 @KamenShamisenRiot
 @HistoryUntold_07
 @FactoryWorld0.1
+@AI_Veggie_Tales
+@ItsWaitWhatTV
+@BRO_AI5
+@NexifyHub-123
+@FBILegends365
+@bodhisamudra
+@DarkNarr
+@tecnocomedy6524
+@Byte-Bite-AI
+@AIKaKarishmaa
