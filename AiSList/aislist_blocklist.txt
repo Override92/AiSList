@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28274
+! Total Channels: 28283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28290,3 +28290,12 @@
 @TheGraceandKnowledgeSeries
 @VeronicaWalshCBT
 @TheLearningVote
+@HistoryVisualizedbyAI
+@brainrot__history
+@CeasarsVlog-w2j
+@QuarkVortex
+@PasolaPlug
+@DragonVibe69
+@AIFUN12345
+@CursedLoveClub
+@5minuterefill
