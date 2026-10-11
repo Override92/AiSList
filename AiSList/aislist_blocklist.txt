@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28335
+! Total Channels: 28345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28351,3 +28351,13 @@
 @lunaprizim
 @ZootZoots-ks9wx
 @Kestrellin
+@VJCreatesFilms
+@OrbitalAmbiance
+@LiamandNoah-z4u
+@RealityFoundryStudio
+@CrownedCultureStudio
+@VoyagerAIPrime
+@aipyeon
+@nova_ai_films9090
+@Sci-Fant-Studio
+@DarkFrameCinema-n1g
