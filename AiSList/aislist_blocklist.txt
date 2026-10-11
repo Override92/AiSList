@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28474
+! Total Channels: 28483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28490,3 +28490,12 @@
 @centratoai
 @Machine.Interactive
 @FlashAndFable
+@NinthLifePictures-p9c
+@ExodusProd_Ai
+@TheAISloth
+@lumenoirsky
+@filmedartificially
+@NarrowingTheGap-AI
+@Shootify
+@PaladinStudios777
+@ivan.kaminskyi
