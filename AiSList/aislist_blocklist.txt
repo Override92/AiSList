@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28309
+! Total Channels: 28307
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7750,7 +7750,6 @@
 @hoastoryhub-q4h
 @restorefusion
 @퍼피휴게소
-@niezwykly-umysl
 @piotrcienwronski
 @tysiacletniehistorie
 @0.ultimate
@@ -21613,7 +21612,6 @@
 @HasanSkillZone
 @RahulAIStudio66
 @resonanciadevoxel
-@chrisstapletonandlaineywilson
 @ghiblisurvivallife1
 @puzzlegamesasmrqueen
 @mehedi_family_english_38
