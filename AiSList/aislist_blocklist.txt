@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28146
+! Total Channels: 28154
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28162,3 +28162,11 @@
 @Evil_tigerrr
 @AICreatz
 @JesusSaves-m2p
+@beyondrealityai-y2c
+@TravelWorldAI1
+@ShayankhanAIstudio
+@Sound-Wisdom-J
+@DivineAi-s96
+@ApexLegendsAI-DY
+@PrinceAIDreamFactory
+@theaicoverstation
