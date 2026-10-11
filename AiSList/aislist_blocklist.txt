@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28078
+! Total Channels: 28076
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7490,7 +7490,6 @@
 @FrankSinatra-TheUntoldLegacy
 @WW2Eraa
 @NighttimeBiographies
-@ashbornrecords2025
 @aismrglow
 @AiHustleHouse
 @zrodlo_madrosci1
@@ -12091,7 +12090,6 @@
 @shortfilmtrailers2026ai
 @aasmausama
 @Animal-AILife
-@AiStoryfruits73
 @AIMARYLIFESTORY
 @AiLifeBangla
 @EducationinEnglish-e3n
