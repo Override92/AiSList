@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28550
+! Total Channels: 28549
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10264,7 +10264,6 @@
 @ChristusDominusStudios
 @MarcusStories123
 @JanesAlphaRomanceStories
-@HistoricsRetold
 @Bellas-Romance-Library
 @YorynAuthor
 @CatAIFilmsGo
@@ -12557,7 +12556,6 @@
 @PixelWaveSnes
 @canalelrelator
 @HiddenVerseZ
-@FLESHANDERROR
 @ZenitySynthwave
 @GooseTailStories
 @lovestoriesspace
@@ -28566,3 +28564,4 @@
 @RefreshingAILatest
 @LiorTimes
 @unrealfight.league
+@cloutcoroner
