@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28501
+! Total Channels: 28511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28517,3 +28517,13 @@
 @lofiminazuki
 @ALERTAROJAUSA
 @EarthUnderSiege
+@EdgeForAmerica
+@RevengeChapters-j8z
+@FinShift-i8s
+@DADSTORIES-y9w
+@LChinnakulai
+@OperatingLogic
+@QuantumUnsealedyt
+@NextGenProduction0
+@WWIIPOWFiles
+@TrueNorthInvents
