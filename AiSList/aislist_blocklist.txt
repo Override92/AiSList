@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28355
+! Total Channels: 28365
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28371,3 +28371,13 @@
 @CineForgeAIVideo
 @Alexander_djuz
 @UrbanLethal
+@prettyanomalyfilms
+@ArcaneFilms-y1e
+@SINGULARITY_FILMSAI
+@Mythforge-w2s
+@ShortsVerseFilms
+@ReelSagaNetwork
+@markus-light
+@M-H-M_Music
+@AiOFilms-y5u
+@CaelvaneTV
