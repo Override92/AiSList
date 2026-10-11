@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28293
+! Total Channels: 28303
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28309,3 +28309,13 @@
 @thehazelit
 @my_bookaria
 @RolepassionAI
+@Beyondflix
+@NeuroMAD-z4u
+@SoulSphereAI
+@WayanPalmieri
+@loucreativafilms
+@Endlivity
+@TgMagicDreams
+@QuantumMotionStudio
+@XanaUsh
+@surRIHL
