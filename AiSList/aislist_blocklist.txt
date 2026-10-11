@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28465
+! Total Channels: 28474
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28481,3 +28481,12 @@
 @BuckshotBelle
 @eonfilmkr
 @QuietDadRevenge-p5v
+@YahyaAiFilms
+@JunaireStudios
+@RiffLogic
+@141creative
+@OVISAI_STUDIO
+@JenerateThePlot
+@centratoai
+@Machine.Interactive
+@FlashAndFable
