@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28075
+! Total Channels: 28081
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28091,3 +28091,9 @@
 @legacyrevivestudio
 @philip-anthonymitchell-b6w
 @goldenbrownbgm
+@WorldOfArt2026
+@ThatNetworkingGuy
+@SouthernSoulRecords-fanpage
+@Naveen-TechHub
+@CaveManTriesToCode
+@LegacyUncovered-o4k
