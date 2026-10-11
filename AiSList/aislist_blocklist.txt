@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28154
+! Total Channels: 28162
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28170,3 +28170,11 @@
 @ApexLegendsAI-DY
 @PrinceAIDreamFactory
 @theaicoverstation
+@BeatHaven-ly
+@TheAIFutureLabStudio
+@MistyLakeCalmMind
+@aiartistman10s
+@USADaily-f1q123
+@NamiKazeMusic
+@SilentDiariesMusic
+@phantomdiscmusic
