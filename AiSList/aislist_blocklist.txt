@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28514
+! Total Channels: 28513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13416,7 +13416,6 @@
 @foreignersreactyt
 @glos-wiary0
 @terraincognitasciencesoubliees
-@bedtimethroughhistory
 @sonsofvalhalla-m3v
 @physiquesecrete
 @iconesdhier
