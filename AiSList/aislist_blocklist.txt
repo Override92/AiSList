@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28435
+! Total Channels: 28445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28451,3 +28451,13 @@
 @Radosvet-74
 @DarkBibleWorld
 @NAGI_CalmMusic
+@Dreamina_rico
+@JulienKlimek
+@Wokobuccicoach
+@AIFruitVideo-1f
+@FruitVerseAI-s4l
+@HistoireDeFruitIA0
+@FinnWanderfell
+@SYCHORUS
+@AJaxProductionz
+@FaithCounty
