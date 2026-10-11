@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28405
+! Total Channels: 28415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28421,3 +28421,13 @@
 @SubPulse-q2m
 @NyraNoirCinematicTechno
 @LunaFade-nightcore
+@DeWeeseCountrymusic
+@V%C3%B6rnhall7
+@SixGunDevil
+@ZwischenUns80s
+@DrJohnSmith0
+@QuietParisHours
+@LoveBalladsLounge
+@TurnsOut-w1j
+@WorldsPicturesChannel
+@ShortfilmcityAi
