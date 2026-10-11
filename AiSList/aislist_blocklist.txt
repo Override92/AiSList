@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28519
+! Total Channels: 28514
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25871,7 +25871,6 @@
 @HiggsfieldSeedance4k
 @V.Naydenko
 @Jensailab
-@Dhuriya_ai_studio
 @FloyoAI
 @ChinaInsight-ai
 @TRENDINGAIVIDEOS8
@@ -26887,14 +26886,12 @@
 @ninafalonnemago8302
 @Movies_Shelter
 @zootopia_ai_generated
-@8kExploreWorld
 @HistoPH
 @TopTravel_YT
 @youarehistorytv
 @LoonyThrone
 @TheSplitTalks
 @Luqivasheep
-@vogostart9762
 @Quantloop
 @flatcirclehistory
 @AHGRID1
@@ -26911,7 +26908,6 @@
 @EchoWoodAcoustic-d7u
 @OriginsDocs
 @GlimmerGlimpses
-@TheSovereignSoilYT
 @Heartbeat_Memories
 @happyreggaetunes68
 @TopMusic4869
@@ -26936,7 +26932,6 @@
 @ShadowSEALArchives
 @EmberNurseStories
 @hospitalchronicles
-@HonorUnspoken
 @HeartlandHonor
 @SilentValorArchive-w5h
 @SEALMarineWarVault
