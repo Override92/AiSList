@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28315
+! Total Channels: 28325
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28331,3 +28331,13 @@
 @ARISNOMAD
 @worldstunts
 @AIVID_Studio
+@JDMotionStudioYT
+@SecretHeartsSt
+@AiAndrewSparrow
+@VELVETRAINFILMS-p3l
+@QueenOneStudios
+@Jimoly_series
+@NaddyxJohn
+@boutovstudio
+@YuzhuStudios
+@AetherVerse-studio
