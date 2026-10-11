@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28518
+! Total Channels: 28517
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28532,5 +28532,4 @@
 @SumerianTextsREVEAL
 @OldWaysRestored
 @SaborSonStudio
-@techinfo4usa
 @ZacharyBaker-e3p
