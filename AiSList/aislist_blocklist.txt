@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28325
+! Total Channels: 28335
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28341,3 +28341,13 @@
 @boutovstudio
 @YuzhuStudios
 @AetherVerse-studio
+@Lucascinematicstudio
+@IndieAIMovies
+@frames.from.the.future
+@KharnholdChronicles
+@AngelFilmsAI
+@ai_modeling_business
+@deebenanna
+@lunaprizim
+@ZootZoots-ks9wx
+@Kestrellin
