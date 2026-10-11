@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28531
+! Total Channels: 28541
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28547,3 +28547,13 @@
 @ReadingHallOfficial
 @WhyItGoesBang
 @TechinOnTV
+@EchoesofByzantium-x5n
+@VinylRadioJazzClub
+@ogshadowtech
+@Primevision2.1
+@ManufacturingDecode
+@NewGenManufacturing
+@HolyHavana
+@ShadowoftheWest1214
+@InsideTheJungleFactory
+@ModernJourneyTV
