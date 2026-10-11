@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28395
+! Total Channels: 28405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28411,3 +28411,13 @@
 @EinherjarValhalla
 @foundandfeltmusic
 @LIKEAIDRAKKAR
+@NORNSTHREADMUSIC
+@Epic_Metal_Mayhem
+@TheBardofWarriors
+@SKALVYR
+@TheModeOn
+@ondarktech
+@MoistenAI
+@SubPulse-q2m
+@NyraNoirCinematicTechno
+@LunaFade-nightcore
