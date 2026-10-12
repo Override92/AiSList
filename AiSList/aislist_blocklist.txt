@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28581
+! Total Channels: 28591
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28597,3 +28597,13 @@
 @gamingtech19
 @Gadgety_Techt-aa
 @GadgetUniversePicks
+@gymGuyWorld
+@ByteLab-n9i
+@WoundedRomance-n5k
+@TechNova360-b6p
+@TheTechSpace-i4c
+@TechnoGaming-rd4yk
+@Next-GenGadgets-y7v
+@Lolotechgaming
+@GadgetInsight360X
+@VoltVibeSK
