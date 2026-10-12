@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28552
+! Total Channels: 28562
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28568,3 +28568,13 @@
 @thinkersnotassumers
 @Acoustic-Memory-sf26
 @memoriamelodias-q7p
+@TheWayfaringKind
+@Car_Origins
+@LegadosdelPasadoES
+@MedievalNathan
+@EmperorMike01
+@ChampionTech-lt3pd
+@DigitalAxis-u8q
+@TechHorizon-xyz
+@Techbizz-v4b
+@UniqueTechGroup-m5y
