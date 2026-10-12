@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28767
+! Total Channels: 28777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28783,3 +28783,13 @@
 @HiddenEmpires-p7v
 @DarkLoreSoundscape
 @CandyMusicRoom
+@PeacefulSounds2424
+@SnoopyDreamscape2006
+@CottonCandy_Lofi
+@Ruhigelernmusik
+@LoFiChillCovers
+@SpongeBobLofiBeats
+@SnoofyLofii
+@JKLOVE991
+@kirs-o8n
+@lemurian.archives
