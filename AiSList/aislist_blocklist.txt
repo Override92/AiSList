@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28548
+! Total Channels: 28558
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28564,3 +28564,13 @@
 @TheMillionaireGrandpa
 @czverse0x0
 @theframedaily
+@orbitcapitalfinance
+@TLDRLab
+@EasyNomicss
+@ExplainerTvChannel
+@wealthvibe-100M
+@FutureShock-t2v
+@MarketingAlec
+@TheHiddenLayerDecodingAI
+@TheEvelynBrief
+@HypeMix-USA
