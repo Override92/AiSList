@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28675
+! Total Channels: 28685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28691,3 +28691,13 @@
 @VacuumCleanerReview-d4o
 @ProductOverviewWorld
 @BestForEver-cfb
+@GadgetShopping-trgh
+@ExploreEverything614
+@TheOutboxFinds
+@VeloursAtelier
+@BewertungMeister
+@ProdottoItalia
+@WizzRev
+@WareWahrheitDE
+@DettagliProdotti
+@WareWahrheit
