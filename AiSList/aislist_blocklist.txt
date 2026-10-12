@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28630
+! Total Channels: 28638
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28646,3 +28646,11 @@
 @Psychoinsight01
 @CaveModeStudio
 @StoneMind-m3r
+@RanaKhurram-e3d
+@WhyMack-1
+@QuietScience-e6p
+@WildMinds-x3f
+@Deeppyscho
+@strangeringhead
+@HabitLantern
+@PsycheStorm
