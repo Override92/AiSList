@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28548
+! Total Channels: 28543
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7250,7 +7250,6 @@
 @leoknight4842
 @Kartik-q4q6h
 @JudgesClapback
-@LegacyLines-d4t
 @Hectacon
 @5TheBias
 @LawJusticeStories
@@ -7346,7 +7345,6 @@
 @HistoryEmpireGlobal
 @KronikiWielkich
 @PastHistoricalEvents
-@StoriesThatStay-s9i
 @HistoryVisualized-AI
 @FeynmansPhysics-k5o
 @DiyCraftsOriginalss
@@ -14603,7 +14601,6 @@
 @Quirktvv
 @FarmerFaminesFeasts
 @Proof-n9y
-@AnimalFolklore
 @LadhaFilmsTv
 @M.OStoriesOfficial
 @EchoesOfTheAncestorsHQ
@@ -26928,11 +26925,9 @@
 @SilentValorArchive-w5h
 @SEALMarineWarVault
 @ValorHonorStories
-@WendersonNacismento
 @MythicMoodsReverie
 @LofiPicture
 @MelloMarshMusic
-@SolaraEcho
 @MyLifeIsaMovie-ym7dy
 @SofiStation
 @QuietHours-FM
