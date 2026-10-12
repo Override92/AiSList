@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28600
+! Total Channels: 28609
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28616,3 +28616,12 @@
 @ReviewFast-f8p
 @MaxGadgetsReviews
 @5best1.2m8
+@5bestDeal
+@TechRankers6
+@SKTYube
+@gadgetreviews5691
+@TechHorizonPicks
+@GadgetMatrixLab-s6d
+@TopTechSelections
+@ElliottCarver-e8y
+@evolvermedia
