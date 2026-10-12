@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1006
+! Total Channels: 1007
 
 ! Entries:
 @PapaMeat
@@ -1028,3 +1028,4 @@
 @DarkestHorrors
 @TheInfographicsShow
 @MILSIMUSMCC
+@ItsKengie
