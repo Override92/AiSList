@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28558
+! Total Channels: 28556
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13511,7 +13511,6 @@
 @abelmekasha
 @LumeMatrix
 @Goyart.studio
-@CR8Vmedia
 @VisionCraftAIVCA
 @JetStyle-pl
 @designchapel
@@ -22370,7 +22369,6 @@
 @EchoesFolktalesHQ
 @fatibobofilms
 @AInymous-b3p
-@EchoesofAfricabyDee
 @talesfromtheroot
 @SIOAITUTORIALS
 @AfricanTaleHaven
