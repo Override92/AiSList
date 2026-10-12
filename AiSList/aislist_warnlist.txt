@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1003
+! Total Channels: 1004
 
 ! Entries:
 @PapaMeat
@@ -1025,3 +1025,4 @@
 @INOSKEnew
 @BestKeptSecretAudio
 @StoriesByLurid
+@DarkestHorrors
