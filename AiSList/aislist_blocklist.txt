@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28743
+! Total Channels: 28744
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21962,7 +21962,6 @@
 @asmrsufi-t5s
 @ancientfrequency2026
 @everlightproductionsunfold
-@shadowsofthek9
 @exposedlive-1
 @sdkmedia-f9b
 @arozcombat
@@ -28759,3 +28758,5 @@
 @DebasishvologVolog
 @HFYUniverseSpace
 @fauna2026
+@klausanimationyt
+@전조index
