@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28730
+! Total Channels: 28732
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28746,3 +28746,5 @@
 @FamilyScars-u4j
 @GermanHighCommand
 @Vector1945
+@USFighter-z2j
+@AfterTheSpotlight79
