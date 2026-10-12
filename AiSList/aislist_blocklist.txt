@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28735
+! Total Channels: 28737
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28751,3 +28751,5 @@
 @klausanimationyt
 @전조index
 @FlashMovieAI
+@rumitoons-x8i
+@qgtwist91281
