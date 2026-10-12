@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28562
+! Total Channels: 28572
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28578,3 +28578,13 @@
 @TechHorizon-xyz
 @Techbizz-v4b
 @UniqueTechGroup-m5y
+@Tech_Everyday-y7x
+@TechnoFriend-o9x
+@PhonkRavenFM
+@Technho-k5e
+@CartReview101
+@PinnaclepulseReviewCart
+@JagadambaDurga
+@TechForgeOnline
+@GadgetSavvy-n3u
+@gadgetsypro4395
