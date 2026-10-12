@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28557
+! Total Channels: 28552
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2764,7 +2764,6 @@
 @UniverseofStories-k2h
 @universeofstories-o9i
 @Theuniverseofstorieslong9802
-@NavyVector
 @WWIIRegistry
 @WW2Stories40
 @Blood-and-Ledgers
@@ -3146,7 +3145,6 @@
 @TheSilverThesis
 @TheHiddenEconomyTV
 @Macrosignallive
-@FinanceSaga-u6f
 @CapitalKeyy
 @Financial-reviews
 @FinanceFrontierLab-t2c
@@ -12601,7 +12599,6 @@
 @ww2missingpages
 @FactoryVisionno1
 @butternnoon
-@user-zn4dp5fg3n
 @NightDriveRadio80s
 @80sRadioFM-r5u
 @quiethours2003
@@ -17766,7 +17763,6 @@
 @Aetheron-d4t
 @JazmineLozano-r8g
 @TerminalCut
-@domanic-tweets
 @redditor20
 @TheLazyGeniusReal
 @Reddit-rina
@@ -22375,7 +22371,6 @@
 @NneAfricanTales
 @MercyInaStories
 @BaobabTales123
-@SavannaStoriesHub
 @AfricanwisdomVault-d5e
 @MangoDramaStories
 @FavstarAfricantales
