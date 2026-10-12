@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28732
+! Total Channels: 28742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28748,3 +28748,13 @@
 @Vector1945
 @USFighter-z2j
 @AfterTheSpotlight79
+@Aruski2026
+@Trance-j9b
+@MindSparkX.studios
+@SurwaveMusicRecord
+@Deepkeshabaofficial
+@PURERAINAUDIO
+@Re-Metalized
+@UNGGAHKONTENOFFICIAL
+@NurseryRhymes-n7m
+@DebasishvologVolog
