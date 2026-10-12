@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28545
+! Total Channels: 28540
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -676,7 +676,6 @@
 @kak-nu
 @moewmentos
 @catecarebaby
-@lyfonova
 @spill..thrill..repeat
 @HRCuteCat
 @CuteCatAI-f
@@ -774,7 +773,6 @@
 @kindcat12.12
 @catty366
 @catslifenick
-@fatorangecat.888
 @chubbyorangecat88
 @orangecat-1205
 @animalhealingtv99
@@ -11534,7 +11532,6 @@
 @BetrayedandAwakened
 @BloodChronicles
 @ThroneboundChronicles
-@theorys_shrouded_mystery
 @ROYAL_EXECUTIONERS
 @TheRedactedCentury
 @Bookimo7
@@ -16066,7 +16063,6 @@
 @WiseNotesDaily
 @Działkowe_Patenty
 @Opowieścispodserca
-@Polskie_gwiazdy
 @CieńReflektorów
 @WW2Memories_y
 @LivesatWW2
@@ -21822,7 +21818,6 @@
 @RomeoEpicAnimeMusic
 @RomantasySleep
 @crownlight_studioai
-@fitrovk
 @thelostpages-x3x
 @rainynightpiano-m6y
 @duinosecrets-v2
