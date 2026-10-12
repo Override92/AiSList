@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1008
+! Total Channels: 1009
 
 ! Entries:
 @PapaMeat
@@ -1030,3 +1030,4 @@
 @MILSIMUSMCC
 @ItsKengie
 @TheThrone-Documentaries
+@ShotgunAddicts
