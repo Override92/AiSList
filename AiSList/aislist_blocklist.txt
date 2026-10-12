@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28704
+! Total Channels: 28712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28720,3 +28720,11 @@
 @ONGAKUcovers
 @DJRaichu
 @melodieperdue
+@JP_Home_Run_Hub-e6j
+@TheIrishGrandpa
+@GeoLinguaAtlas
+@pluffy_time
+@terminal-focus
+@EcosHispanicos
+@SUGARCOVERS
+@Kyle.Invests
