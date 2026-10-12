@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28837
+! Total Channels: 28847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28853,3 +28853,13 @@
 @camerala
 @RainLineASMR198
 @NZAmbience
+@HypeTechPicks
+@TheTechMartus
+@TechLifeProYT
+@ProfessorLionOfficial
+@LegoRecords-q5p7s
+@drcuriosityexplainer
+@RedaktorOrangutan
+@DrBrightExplains
+@BraincellArchives
+@ThinkingWest
