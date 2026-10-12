@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28543
+! Total Channels: 28542
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7628,7 +7628,6 @@
 @rexdayoutube
 @letters.to.myself_in
 @жизнь-х3п
-@realdude101
 @mrcat-2002
 @tuankietsoicau13
 @ahrevi-o3v
