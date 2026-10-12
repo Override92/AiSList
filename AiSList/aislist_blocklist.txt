@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28745
+! Total Channels: 28740
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4119,7 +4119,6 @@
 @VanillaInvestor
 @ThinkLikeJimRohn
 @AIXplore_N1
-@WW2Storys-t1p
 @patriotwars
 @TheWWIIFilesofficial
 @WW2LegendsChannel
@@ -4640,7 +4639,6 @@
 @TheBlissofTrueStories
 @NTTStories
 @MrAndyLoveStory
-@StoriesFromDaniel
 @Penthousediaries11
 @HeartofKindness79
 @caughtoncamerablackstories
@@ -5549,7 +5547,6 @@
 @johnag-r3d
 @YourJohnAGYT
 @YourJohnRO
-@RogersPreciousMetalsInsights
 @ProfitMindset-r6h
 @MacroCurrency
 @KyricFinancial
@@ -16100,7 +16097,6 @@
 @redditstories_dino
 @Mbu_Story
 @GibertoShultz
-@하느님-r9b
 @Hero1-b7v9l
 @TheDarkMythArchive
 @History-Rest
@@ -22515,7 +22511,6 @@
 @MorvangionPrime
 @AiFutureFramebyAsim
 @AI_perfect_fantasy
-@aiartbeauty
 @MyreliaEchoes
 @bariminanimation114
 @TheSteadyAnswer
