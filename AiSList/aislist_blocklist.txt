@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28827
+! Total Channels: 28837
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28843,3 +28843,13 @@
 @RollToastRecords
 @WonderfulEarth-v5e
 @EverNestPicks
+@StarGiggles-w5c
+@NerdScienceOfficial
+@GridironGritt
+@AeroAtlas-AA
+@mrblessedyt
+@LiberalPulse-t9y
+@CozyRainyDays_ASMR
+@camerala
+@RainLineASMR198
+@NZAmbience
