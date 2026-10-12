@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28740
+! Total Channels: 28735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5548,13 +5548,11 @@
 @YourJohnAGYT
 @YourJohnRO
 @ProfitMindset-r6h
-@MacroCurrency
 @KyricFinancial
 @real-john-ag
 @VIPJohnAG
 @PulsePointReport-d6e
 @TheAsianGuy-JohnAG
-@Johnnagg
 @ThriveTribe-c3v
 @richardphysicss
 @PhysicsasToldbyRichardFeynman
@@ -5663,7 +5661,6 @@
 @TheStoryCabiin
 @OriginDecoder
 @LazyMonkeyEconomics
-@swiatowyekspres
 @ZaginioneRejestry
 @Jakwczoraj
 @ZaKulisamii
@@ -21963,7 +21960,6 @@
 @arozcombat
 @musereels
 @slowcatjazz
-@secretstoriesofguys
 @gottlichesflustern1
 @aitalesbyemily
 @four-leafclover-o5x
@@ -22750,7 +22746,6 @@
 @MechaArchive-s4m
 @foundry-yt
 @DSM2027
-@SkyRaciing
 @InnovationFrontierTv
 @V2_VLOGV2
 @INNOPULSE1
