@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28777
+! Total Channels: 28784
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28793,3 +28793,10 @@
 @JKLOVE991
 @kirs-o8n
 @lemurian.archives
+@next-node-official
+@HeartwarmingTalesHub-u8c
+@Selfinitycore
+@TribalRhythmJazz
+@ytvaderexplains
+@Mindwavedub
+@Vuzak
