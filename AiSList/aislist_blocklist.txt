@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28722
+! Total Channels: 28730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28738,3 +28738,11 @@
 @Dr.Void_ltd
 @vatronspace
 @rifloanimations
+@frugal_flow
+@DivanRaylor
+@CinematicTimeline
+@mostlyheroes
+@GLOBALDOCUMENTARY4k
+@FamilyScars-u4j
+@GermanHighCommand
+@Vector1945
