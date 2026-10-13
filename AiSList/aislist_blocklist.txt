@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28847
+! Total Channels: 28857
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28863,3 +28863,13 @@
 @DrBrightExplains
 @BraincellArchives
 @ThinkingWest
+@EisenbahnChronik
+@fiveexplains
+@ThoughtThrill365
+@masteryourmoney-l6i
+@PrantasticOfficial
+@LittleLofiCute
+@rainyhealingtown
+@QuietHouseLofi
+@ShizenPianoMusic
+@WeaponWhisperer
