@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28896
+! Total Channels: 28898
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28912,3 +28912,5 @@
 @RiderDose
 @CARLYFE1
 @MotorReig333
+@TheCarReviewHub54
+@TechCharge
