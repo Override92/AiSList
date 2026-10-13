@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28951
+! Total Channels: 28950
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5828,7 +5828,6 @@
 @Unspoken.animalstories
 @ArcticKyunney
 @RescuePath-6868
-@MeaningfulFilms0330
 @FrostVigil
 @kexing-ai
 @FeastofLegends
@@ -9233,7 +9232,6 @@
 @AnimatedGeopoliticss
 @BreakingPoliticsUSA
 @Pacifierpolitic
-@PoliticalDecrypt-o4f
 @HumanDecode-g6s
 @DruckenmillerGuide
 @StoicMercer
@@ -28967,3 +28965,4 @@
 @BirTeselliCover
 @TheRealHollywood-i3i
 @CuriousOwl-l5p
+@titoeneltiempo
