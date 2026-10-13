@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28867
+! Total Channels: 28877
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28883,3 +28883,13 @@
 @Tacticalvault-1
 @GunsInsider
 @gearinsiderofficial
+@RetroWaveMusicDreams
+@FamousFlyers
+@onlybikestuff
+@combatcore-r3l
+@SonarMai
+@theCrazyHuntr
+@TheUnbrokenKeel
+@HavocHomestead
+@MayhemMesa
+@JohnBrowningFan
