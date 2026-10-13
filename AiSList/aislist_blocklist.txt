@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28900
+! Total Channels: 28895
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1619,7 +1619,6 @@
 @captured_reads
 @RedditEchoes01
 @TendieTales
-@HoaExposed-YT
 @RileyREDDIT
 @luatcoldly8883
 @Revenge-p3l
@@ -8476,7 +8475,6 @@
 @TheBlueprintVault_WW2
 @theforbiddentent
 @TheMelodyArcade
-@Dalioframework
 @SovereignMind-1122
 @werewolf-romance-love-stories
 @alba-romance-library
@@ -9018,7 +9016,6 @@
 @Buried.Empires
 @CelestFantasy
 @christscallings
-@ElisaRomanceLibrary
 @ExplainInPaint1
 @GIDEONFILMS
 @GnosticEye
@@ -15118,7 +15115,6 @@
 @ShrikantsAIVision
 @RIP_Omar9
 @youtubeaishortsai
-@ChefNyangASMR
 @MinicutJoy
 @MeethiSongs
 @CarlCastillo417
@@ -22882,7 +22878,6 @@
 @Real-Travvy
 @JestAi-Official
 @POVThroughTimes
-@StoryFlux25
 @PerspectiveAI
 @FirstPersonHistory4U
 @POVAIWitness
