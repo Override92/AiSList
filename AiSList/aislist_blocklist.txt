@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28884
+! Total Channels: 28882
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8183,7 +8183,6 @@
 @RETAILMORTIS
 @updatefanpage
 @FrontlineReport-b5z
-@hardware-radar
 @AIInsiderTalk
 @InsideBuffettMind
 @RichFutureIndia
@@ -23258,14 +23257,13 @@
 @EpicHistoryLine
 @TheDriftingAtlas
 @LegendsforSleepStories
-@history-past-seeker
+@seek-the-scriptures
 @TheLadyMythos
 @QuietHistory-q3w
 @TerraInflux
 @RunexisAI
 @WhereLegendsSleep1
 @Strategix-yt
-@TheLostScroll6868
 @QuietHistoryRoom
 @BedtimeStoryMedia
 @histo.Official
