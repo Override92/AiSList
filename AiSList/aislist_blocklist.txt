@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28916
+! Total Channels: 28926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28932,3 +28932,13 @@
 @fathoming-gn5dt
 @StrongElderlyLife
 @MannersMattersChannel
+@StoicTraining
+@StoicLethobel
+@WhileTheresTimeWisdom
+@StoicRelationship
+@SovereignMindx
+@StoicMindsetAcademy1
+@senior_rise
+@StoicSociety
+@stoicmind_academy
+@IronMindset-z
