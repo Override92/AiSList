@@ -33,14 +33,14 @@ Don't forget to set your username in the settings.
 |------|-------------|---------------|
 | 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 4756 |
 | 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 4139 |
-| 🥉 3 | [@www2](https://github.com/www2) | 2579 |
+| 🥉 3 | [@www2](https://github.com/www2) | 2613 |
 | 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2083 |
-| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 662 |
+| 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 664 |
 | 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 343 |
 | 7 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 8 | [@Beavermafia](https://github.com/Beavermafia) | 316 |
-| 9 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
-| 10 | [@tomjas1963](https://github.com/tomjas1963) | 284 |
+| 9 | [@tomjas1963](https://github.com/tomjas1963) | 286 |
+| 10 | [@Honk Honk](https://github.com/Honk%20Honk) | 284 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
