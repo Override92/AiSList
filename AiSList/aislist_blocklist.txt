@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28926
+! Total Channels: 28936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28942,3 +28942,13 @@
 @StoicSociety
 @stoicmind_academy
 @IronMindset-z
+@Healthvibees
+@DeepPsyche_TM
+@KnowledgeIQMaster
+@SolusMind
+@Puppetgate
+@mindsetmentorpodcast
+@MVPAuto-q5z
+@AnhBaTaiChinh-88
+@KingofClassicCars
+@MonocleMindExplained
