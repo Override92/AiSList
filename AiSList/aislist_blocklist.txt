@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28892
+! Total Channels: 28891
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8721,7 +8721,6 @@
 @TheVirtualArtDesk
 @MangaDubTGTF
 @kapantobat7091
-@Dr.EmilyWaterly
 @WW2VictoryDiaries
 @imfranzyt
 @midnightmysteryfiles01
@@ -17390,7 +17389,7 @@
 @mechatransformations
 @tinyroast-g2d
 @cutedesigns8
-@cattoonnix
+@cattoonixt
 @inews_magyarorszag_info
 @dianuskingstudio
 @wheresfloof
@@ -18783,7 +18782,6 @@
 @theworldbehindoneclick
 @footballstationyt
 @wakukitchenanime
-@enedramazone
 @lookhere32
 @ricardoproduction01
 @africantalesanimated
@@ -28908,3 +28906,4 @@
 @capsula_mental-r9u
 @stranezzametaloficial
 @luciadelcorazon
+@diegocarmesielenavargasoficial
