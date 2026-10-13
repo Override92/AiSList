@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28892
+! Total Channels: 28887
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16792,7 +16792,6 @@
 @minifood125
 @aiveggieverse1
 @legacyfinance1
-@TheDarkThrone-o2w
 @AITunesIn
 @A.IdelasAlas
 @messicr7_comedy
@@ -27176,7 +27175,6 @@
 @Aicatsforu
 @cataiusa
 @rankclipsfunny
-@MeowMeals.worlds
 @AISimplified69
 @AIcatcanvas
 @vireon_ai1
@@ -27281,7 +27279,6 @@
 @MarvelAIRSM
 @AiMoviesTrailers
 @AishatAbdulazeez-h6j
-@StoryCraftAi04
 @ailifestory1.2
 @VeeSparkVideo
 @dcmarvelcartoon
@@ -27311,7 +27308,6 @@
 @AiKiDuniya-e3d
 @DevSuryavanshi-q5x
 @VeggieVerseAI143
-@MuqaddasWaheedAICreates
 @Adesuwa-canada
 @MoonAlAnimation
 @AriaStories3
@@ -27352,7 +27348,6 @@
 @fruitsaistories23kac
 @Fruit_Talk_AI
 @ai.fruits.storiess
-@friutDra44
 @DastaanHub-i9w
 @FruitDramaExposed
 @FruitAffairs1
