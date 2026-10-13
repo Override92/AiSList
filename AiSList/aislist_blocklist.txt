@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28891
+! Total Channels: 28890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16304,7 +16304,6 @@
 @dinovfx_1
 @tinyfoodworkers0
 @germandaily-e1t
-@dreamytales3d-g8b
 @PlayOwnAi
 @vivago_ai
 @themorphverse_9
