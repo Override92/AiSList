@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28882
+! Total Channels: 28884
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28898,3 +28898,5 @@
 @joxstorytime
 @생활미용꿀팁
 @bannedmotors
+@prayeristhekey-g7o
+@therealhistorydecoded
