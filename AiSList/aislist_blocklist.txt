@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28887
+! Total Channels: 28888
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24145,7 +24145,6 @@
 @NovaStoryAii
 @gonuldemi
 @granruido
-@cfgstv-i3d
 @talezaya
 @thebodyvault95
 @dukeofprussia-ofc
@@ -28903,3 +28902,5 @@
 @diegocarmesielenavargasoficial
 @mintmark-b4p
 @joxstorytime
+@생활미용꿀팁
+@bannedmotors
