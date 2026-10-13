@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28886
+! Total Channels: 28896
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28902,3 +28902,13 @@
 @GUNMAN-Ballistic
 @frontlinewhispers
 @HistoricArmor
+@FilmsCrossroad
+@WarWeaponsYT
+@WildWestPistolYT
+@VehicleWisdom
+@EverythingMitsubishi
+@TheIronArsenal
+@pavelanikin2602
+@RiderDose
+@CARLYFE1
+@MotorReig333
