@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28882
+! Total Channels: 28877
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3858,7 +3858,6 @@
 @Loomee0
 @EcoEconomico
 @FinanceExplained1
-@CurrencySecrets
 @FinanceThroughTime-i9p
 @JohnAGHere-1122
 @TheMillionaireRabbi
@@ -4548,7 +4547,6 @@
 @RealEstateDramaStories
 @MoneyHauL
 @BusinessBooksKeyIdeas
-@MapleMoneyTalks-e2g
 @wealthhistoryy
 @lida4ever
 @satoshirebel
@@ -5764,7 +5762,6 @@
 @historiasdolobiancoo
 @Historiektórychnieopowiedziała
 @FutureProofSurvival
-@SkyStrikeAnalytica
 @RedJustice-q7k
 @TheUnseen-us4ph
 @TajemniceKosmosuPOL
@@ -8129,7 +8126,6 @@
 @Industara
 @RebuildX9
 @Buried_History_with_Jonathan
-@BenHodgesReports
 @BenHodgesCentral
 @FinanceDeciphered
 @Historygraphy11
@@ -14272,7 +14268,6 @@
 @ai_bolt_ipublic
 @EverythingSquatch
 @My_Ballz_Smell2
-@AiVlogging-s5h
 @TalesAtDawn
 @Talesbythatigalaqueen
 @Aivlog19
