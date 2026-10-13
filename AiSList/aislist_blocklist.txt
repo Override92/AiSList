@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28896
+! Total Channels: 28898
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28912,3 +28912,5 @@
 @knoxfury-e6u
 @unsolvedwarfiles
 @royalcatfamily123
+@autounlockedus
+@crimereplays
