@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28877
+! Total Channels: 28886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28893,3 +28893,12 @@
 @HavocHomestead
 @MayhemMesa
 @JohnBrowningFan
+@W-R-H3
+@GunLifeTV
+@gearzoneofficial
+@militaryventuresusa
+@Entertainment0300
+@secretZone-t5r
+@GUNMAN-Ballistic
+@frontlinewhispers
+@HistoricArmor
