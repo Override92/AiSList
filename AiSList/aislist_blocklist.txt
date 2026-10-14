@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29322
+! Total Channels: 29328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29338,3 +29338,9 @@
 @NexPhonkW
 @DeanMartinVibes
 @catchupai
+@LilyFernwild
+@HappyAndFun.Official
+@TravelsightOutliners
+@VoidBorneTerrors
+@stickfigurist
+@JediLords
