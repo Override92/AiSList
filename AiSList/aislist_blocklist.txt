@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28997
+! Total Channels: 29007
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29013,3 +29013,13 @@
 @WarriorQueen-s
 @EmmasRelaxingRain
 @DarkHausVibes
+@AJKING-v1h
+@ChagataiKhanStudios
+@NORSEBORN-k1k
+@EiraRaven_Viking
+@Ironwolf-f2m
+@InfinityMelodies-z2t
+@CubeChemistry
+@TheLessonWithin-o2l
+@historicallystick-c4h
+@SiliconScope-i3p
