@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29183
+! Total Channels: 29192
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29199,3 +29199,12 @@
 @FinalFormCinematic
 @pulseofgaia
 @IrishPubAnthems
+@ViolaFemme
+@DeepHouseMovement-s1u
+@4KTropicalDeepMix
+@VIKINGSOUND-t2f
+@TomorrowlandCeremony2026
+@northbloodmusic
+@kokoko-s4n
+@BehindClosedDoors-u5w
+@FrostDrama-h8k
