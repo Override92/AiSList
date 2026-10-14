@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29185
+! Total Channels: 29180
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27764,7 +27764,6 @@
 @redmaskaifims
 @Ai__Sparks1002
 @kaarllifestyle56
-@DigitalAnomaly-f4t
 @BrainDrainMediaa
 @dhrubajyotibezbaruah-r7q
 @CrunchNovaX
@@ -27776,11 +27775,7 @@
 @SidraQayyum-y7t
 @Lunora-studio-v8d
 @VisionForge-x4n
-@Healthai-r3w
-@AsifKhan-f9b3s
 @creatorammo
-@SantuGhosh-z2p
-@Heavenlystories_ai
 @VibzoPaul
 @LudbiMusic
 @StratDATMan
