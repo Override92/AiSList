@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29105
+! Total Channels: 29115
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29121,3 +29121,13 @@
 @girlmanhwa
 @hogfell
 @BedtimeLorekeeper
+@LayersOfHistoryChannel
+@StillScienceLab
+@LittleVastScience
+@VintageTimelineUSA
+@CrownIntel-m6h
+@TheRoyalVault-o8j
+@WhisperHaunt-t1o
+@BollywoodSong-v4u1g
+@xraycloudai
+@Dr.WilliamSeniorHealth
