@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29085
+! Total Channels: 29095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29101,3 +29101,13 @@
 @tartarian-c9d
 @DeepPastEarth
 @TheQuietHistorian88
+@epochline.history
+@mythologyafterhours
+@CosmoExplainsYT
+@XplainedwithMushroom
+@AngelosItalianCooking
+@peopleandcars-o6k
+@PushRecap1
+@natashachernova471
+@mangahikikomori
+@Haru0Senpai
