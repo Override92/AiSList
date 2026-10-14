@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29190
+! Total Channels: 29185
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27626,7 +27626,6 @@
 @Scratch-karau
 @KangarooAIClips27
 @ai.storyedit-2
-@ComedyAI23
 @Altech-o4u
 @Nooruzzamaai
 @storytime-7-a
@@ -27647,7 +27646,6 @@
 @wonderverseai786
 @AJurassicAI
 @MechaAI88
-@AiINFINITY_1-22
 @NovaSimAI
 @ByteSizedAi-m8j
 @ai_storieshubb
@@ -27668,7 +27666,6 @@
 @short_ai_video24
 @NovaNestTV-i3t
 @BloomMotion-26
-@NatureGrowStudio-b4l
 @USshort1h
 @dreamverseai-w9x
 @ArtificialInsanity-w5y
@@ -27734,9 +27731,7 @@
 @LamiAIStories
 @FarhanAiVlogger
 @AI.ANIMAL.SHORTS-1
-@AIFamily-x4y
 @OMNIDRIFT-NEXUS
-@ai_vibes_studio_1
 @CatDailyLifeAi44
 @AIStuffed
 @AI_ME_MORE
