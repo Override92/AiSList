@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29208
+! Total Channels: 29214
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29224,3 +29224,9 @@
 @70sGreatestHits
 @HongNhu-p9d
 @Ifiology_if
+@70s_ROCKREVIVAL
+@Squarelings
+@SoopyChillBeats
+@LofiontheRooftop
+@mayijazz
+@HighwayLane-m4l
