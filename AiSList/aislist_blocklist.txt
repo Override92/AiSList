@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28987
+! Total Channels: 28997
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29003,3 +29003,13 @@
 @thefoodscope1
 @HealthyHabit.usa00
 @AristocracyTraditions
+@WW2Exposed-h8c
+@WW2PrisonCamps
+@TheLastWitness2026
+@umn1ca960
+@BackToTheTrack80s
+@MangaManhwaTales
+@RUNEVA
+@WarriorQueen-s
+@EmmasRelaxingRain
+@DarkHausVibes
