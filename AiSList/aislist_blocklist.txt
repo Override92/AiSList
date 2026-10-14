@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29173
+! Total Channels: 29168
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27832,7 +27832,6 @@
 @RCMusicAI
 @AI_Music_Atlas
 @AIvsUS-l3p
-@Zonix-AI-l5z
 @AhsanAliAIAcademy
 @HMDTe_ch
 @DaryaMuseAI
@@ -27857,12 +27856,10 @@
 @B4sGeneral
 @DouyinDrops.oficial
 @EngineeringTheLegacy
-@miniworld12-m8m
 @JayAI38
 @KiraHeat.01
 @TrekTimeChronicles
 @ThePhotoDetective
-@TheLarkAndLanternMusic
 @maris-films
 @WynnValentine
 @RinMakabe
@@ -27888,11 +27885,9 @@
 @DADSFIERCEREVENGE
 @NapoleonHMindset
 @FictionMax
-@OtherworldsWhatIf
 @ASHES-OF-MIDGARD
 @HarayaLoungeOfficial
 @amihanmusiclounge
-@AIFusion-official
 @Upskyai
 @AZstudios2026
 @AIHeavenWorlds
