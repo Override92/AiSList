@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29115
+! Total Channels: 29125
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29131,3 +29131,13 @@
 @BollywoodSong-v4u1g
 @xraycloudai
 @Dr.WilliamSeniorHealth
+@FunkBeat-x2r
+@Havana-z1f
+@REGGAERASTA-q3v
+@RetroString-p9h
+@CloudBunnyRecaps
+@AncientUsOfficial
+@ExplainedSimply-s4h
+@FrameofDuty-q5j
+@TheFactLine-e5y
+@curious-h8u
