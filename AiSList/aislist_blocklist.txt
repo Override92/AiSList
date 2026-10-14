@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29323
+! Total Channels: 29322
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24426,7 +24426,6 @@
 @failside_moment
 @NopeLab
 @PastofaNation
-@thehiddeninventor
 @GenesisChamberUS
 @ThePlainTruthBible
 @PrimevalMythology
