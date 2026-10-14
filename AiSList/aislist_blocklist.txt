@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29178
+! Total Channels: 29188
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29194,3 +29194,13 @@
 @LumyraNova
 @DJ_Mogo
 @valelapena2
+@aicartoonworld-n1u
+@CuriosityGapDaily
+@TrueRomanceStories-c3t
+@AiCatJamz
+@KidsBitzOfficial
+@hoshineko_music
+@Invisible_Rich_Stories
+@MotoInsight-j7e
+@RockPulse-v9u
+@KOBTRAX-b5v
