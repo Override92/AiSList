@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29037
+! Total Channels: 29047
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29053,3 +29053,13 @@
 @Blackhard-o9i
 @FlippoExplains
 @CosmicSketch-c1i
+@AliAIStudio-l6t
+@HasoAl-c2p
+@curiouscanvas-49
+@footballfordummmies
+@TheWellnessCode-b5g
+@Relax4U-cozy
+@TheLoopHorizon
+@ProfJiangGeoAnalysis
+@schmede_AI
+@CR7oLendario-sk5ci
