@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28967
+! Total Channels: 28977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28983,3 +28983,13 @@
 @SpiderManhwaRecapone
 @ManhwaMoviee
 @BibleMadeSimpleX
+@NightfallTactics
+@VostokWatch-q3s
+@NEXO-v3h
+@Jayautos1
+@16EnglishEveryday
+@WorldStick1
+@ParliamentReckoning
+@MaximumGardenYield
+@TheEconomicSignal-ByAadii
+@TheNexReveal
