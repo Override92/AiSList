@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29167
+! Total Channels: 29162
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20426,7 +20426,6 @@
 @NeonLoreAnimeStudio
 @PopDramaHub-7
 @AMAZINGFULLDrama
-@StellarCornerFilms
 @ArtofAI_13
 @Cat_Meow_Tales
 @One8Animation
@@ -20744,7 +20743,6 @@
 @SILENTREVENGESTORIES68
 @TrueSilentStories4real
 @AlexsRevengeOffice
-@FiscalFlow08
 @LumeStories3
 @taamistudy
 @KnappExplains
@@ -24338,7 +24336,6 @@
 @lovesongsmelody_6868
 @rainforestretreat.692
 @doremi-vintage-sound
-@baongureview
 @versodocs
 @lulufolktale
 @clipp2forgee
@@ -24682,7 +24679,6 @@
 @magic_kitchen_1k
 @transformimaan
 @everything_food_channel
-@เปาฮอรววหนง
 @aikazo-official
 @greatbelieve2021
 @thelastpayback-i5x
@@ -26570,7 +26566,6 @@
 @MythicTalesAI-y4l
 @YanLe_AIGC_Films
 @AISTUDIO-1-l1r
-@BheemunipaduSumithraAIMOVIES
 @JH-kk31
 @creatorAI69
 @MovieAsAService
