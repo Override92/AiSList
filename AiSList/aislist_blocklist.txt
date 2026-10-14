@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29017
+! Total Channels: 29027
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29033,3 +29033,13 @@
 @HamadHassan-w6o
 @ElvenFantasyDreams
 @TrapTalkTV-x9i
+@RedFlag-i7r
+@DiplomaticBrief-y6x
+@ManhwaStoryRecaps2026
+@RagaInstrumentalAI
+@SofiTalez
+@oddlyexplainedHQ-w3b
+@TheFinalChamber-n5p
+@TechBitExplained-v9y
+@StickManInfo-x
+@IndustrialEmpire-m7l
