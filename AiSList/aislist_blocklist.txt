@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29199
+! Total Channels: 29194
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27499,14 +27499,12 @@
 @AIShortStories-00
 @aalikikahani
 @TinyCrave333
-@explore_aitech
 @Ayan4iyt
 @BibleBrickAdventure
 @IANekketsuAnime
 @AITrailerStudio1
 @EpicAITrailers-u7y
 @AiMovientra
-@HomelyVibesAI
 @aimoralstories.official
 @KhushbuGadhveer-vj6zc
 @NikhilAIStories-b2k
@@ -27536,7 +27534,6 @@
 @Hyperaimovies
 @Epic_AI_Trailers
 @cinematicaiuni
-@AI_Documentary_Official
 @AIUniverseStudio-Sk
 @VoidVerseAI-p7b
 @Spiritualconnect-9
@@ -27572,11 +27569,9 @@
 @SleepHaven_Stories
 @LucernaAI
 @InsidethePastChannel
-@AmoraAfroKDrama
 @SecretVerseStudio
 @HariraSuraj
 @Moonveilpictures
-@Luckyprizeofficail
 @Adonispolo1
 @AudioBookFactory-d9v
 @NeuraTales26
