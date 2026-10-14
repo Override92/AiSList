@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29220
+! Total Channels: 29230
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29236,3 +29236,13 @@
 @CosmosUltime
 @warcraftexplainer
 @TheSpeakingReset
+@MrActingTV
+@hardwaresbrasil
+@HiddenOrigins-c7s
+@CrocodileBaseball
+@Nintenvana
+@TheAISignalTV
+@UnfoundedMedia
+@LocomotiveAnatomy
+@ORKESTRALMUSIC
+@ConcertHallClarity
