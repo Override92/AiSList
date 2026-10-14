@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29263
+! Total Channels: 29273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29279,3 +29279,13 @@
 @forgotten_cars-j4o
 @VibeVision-f3k
 @Zhivayapriroda
+@DropGhostMusic
+@InterstellarDreams-w5g
+@unknownexplainedYT
+@Physicsatyourfingertips
+@Readipedia
+@Dark_Verse_Stories
+@HadesHorrorFiles
+@MysteriousTales613
+@Wiealso
+@UnlayeredDocs
