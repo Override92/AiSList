@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29283
+! Total Channels: 29293
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29299,3 +29299,13 @@
 @DeRepenteAmor-z5i
 @markedbymoonlight
 @ShadowRomanceLegacy
+@TheAlphaReign-b7w
+@WhispersAcrossWorlds
+@whispersofalphaking
+@whitewolfwhisper
+@TheLunasDestiny
+@AlphaEmpire_12
+@ScifiTime-f7v
+@Werewolf.Romance
+@KingWereWolf-o8j
+@JetlineJournal
