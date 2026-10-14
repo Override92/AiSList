@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29215
+! Total Channels: 29210
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6709,7 +6709,6 @@
 @Sci-Fi-Guy-Explains
 @Lolitacercel
 @HotSpotUkraine
-@TheUnseenTruth-z1p
 @MaximStarkOfficial
 @thomvuthi8681
 @MindMatrix360
@@ -6958,7 +6957,6 @@
 @Głos-Przeznaczenia
 @ScenyHistorii
 @LostCivilizationsNordic
-@360newsroomnews
 @afkar_dz
 @user-e5h1q
 @BeyondDiscoveries
@@ -16898,7 +16896,6 @@
 @FinNews_Now
 @kidsstories-h2m
 @officialmanufaktory
-@TheFactoran
 @uniqoo
 @FactsAndLogic
 @abivyakitadarshvanshi
@@ -18340,7 +18337,6 @@
 @UNEXPECTEDDESTINIES
 @HeartNest-US
 @Soulfulstories-s1d
-@RoyalWhispersStories
 @CatsRevengeus
 @crownbeacon1
 @MildJusticeStories
@@ -18479,7 +18475,6 @@
 @MultiverseClash-c1e
 @TheoDuncan2363
 @SkyPhoenixStory
-@ZoraChroniclesAudio
 @BikersSoul1
 @BlackRoadRiders79
 @MidnightNurseNotes
