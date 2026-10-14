@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29180
+! Total Channels: 29175
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27776,23 +27776,18 @@
 @Lunora-studio-v8d
 @VisionForge-x4n
 @creatorammo
-@VibzoPaul
 @LudbiMusic
 @StratDATMan
 @PrimalDawn-w2l
 @FLordAnime
 @K%C3%BD%E1%BB%A8cVi%E1%BB%87tB%E1%BB%8BL%C3%A3ngQu%C3%AAn
 @bladeshama
-@strangethings-o7y
 @AnimalDeposit
 @MrTimeEdits
 @chairflyai
 @Meowlywood.A
-@PunchlineShortsOfficial
 @MP_USA
 @POVArchivesai
-@BabaYagaUniverse
-@MythicSoulsBallads
 @three-knocks
 @EpicStoriesLife
 @StorytimebyLiz
