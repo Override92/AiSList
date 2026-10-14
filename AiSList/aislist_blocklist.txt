@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29331
+! Total Channels: 29330
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17383,7 +17383,6 @@
 @animierteweltgeschichte
 @ciezkie_czasy
 @monkeycattales1
-@adnksimuilation
 @Flickart-ai
 @RITUALSDEEPHOUSE
 @FactoryInsightHub
@@ -22224,7 +22223,6 @@
 @dreamstales-m3t
 @Kraina-h4e
 @dsaff-b5z
-@saqibshahdev
 @slownocturnes
 @brsrkstudio
 @turkulergecidi
@@ -29347,3 +29345,4 @@
 @bloodyt10k
 @mifasafrica
 @aocreativity
+@거꾸로진화
