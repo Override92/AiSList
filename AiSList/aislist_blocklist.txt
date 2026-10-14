@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29165
+! Total Channels: 29166
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18383,7 +18383,6 @@
 @KobiStorylabofficial
 @Bellatv-q4o
 @Sophiadiaries-m4q
-@taleschronicles26
 @TalesByAzi
 @Scene_Epic
 @officialmiraclew
@@ -29181,3 +29180,5 @@
 @95-05JPOPRadio
 @romatoonwars
 @glg-u
+@beyondthegoalsbehindtheglory
+@mr.tod.d
