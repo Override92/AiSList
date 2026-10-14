@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28958
+! Total Channels: 28957
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5986,7 +5986,6 @@
 @theBrutalReviews
 @Puchoco
 @Cluntrix
-@amazinggoldenhistory
 @TheAITimeVault
 @AICatastrophe
 @multiversematrix
