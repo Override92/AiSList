@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29076
+! Total Channels: 29085
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29092,3 +29092,12 @@
 @TheAtomLab-g2y
 @FinancialChronicles8
 @SleepOnPhysics
+@SundownScience
+@StarlitSlumber-4k
+@SleepOnAstrophysics
+@SpacedustDOC
+@RestWise
+@PriorSignal
+@tartarian-c9d
+@DeepPastEarth
+@TheQuietHistorian88
