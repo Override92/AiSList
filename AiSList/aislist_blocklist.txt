@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29325
+! Total Channels: 29323
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8322,7 +8322,6 @@
 @YourSoulMirror
 @WEAPON-IN-HAND
 @nexusmanualinvestidor
-@storyvibes-k9z
 @allg-nd2
 @explosionoflaughter.56
 @chengai-q4x
@@ -9889,7 +9888,6 @@
 @rehobothsound_mint
 @WinTunez
 @SusRecordsCEO
-@ChebAI-19
 @theuptowngangmusic
 @elaimusic_time
 @TimelessSelect
