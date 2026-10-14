@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29027
+! Total Channels: 29037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29043,3 +29043,13 @@
 @TechBitExplained-v9y
 @StickManInfo-x
 @IndustrialEmpire-m7l
+@TheBetterBuild-y2s
+@HiddenTerms-i3w
+@DreamCircuitAI.12
+@AI_MotoVerse
+@MotorRevealAi
+@AIVELOCITY-73K
+@DilKiKahaniTV-v2k
+@Blackhard-o9i
+@FlippoExplains
+@CosmicSketch-c1i
