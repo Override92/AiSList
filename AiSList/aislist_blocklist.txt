@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 28977
+! Total Channels: 28987
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28993,3 +28993,13 @@
 @MaximumGardenYield
 @TheEconomicSignal-ByAadii
 @TheNexReveal
+@LivingSelfSufficiently
+@UntamedRoots-h2k
+@WW2Phantom
+@HistoryStoryhouse12
+@WW2Diaries12
+@TheStarsRemember-YT
+@RangersBriefingRoom
+@thefoodscope1
+@HealthyHabit.usa00
+@AristocracyTraditions
