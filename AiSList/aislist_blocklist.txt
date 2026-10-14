@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29175
+! Total Channels: 29170
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27791,7 +27791,6 @@
 @three-knocks
 @EpicStoriesLife
 @StorytimebyLiz
-@panky_stories
 @MalikFarman-h6b
 @LionelRichieTheUntoldLegacy
 @Dstory_Groit
@@ -27804,8 +27803,6 @@
 @Nova_Musicsofficial
 @JellyBlueD
 @MysticalHighlandAmbience
-@cartoonworldai-d7q
-@officialaitalestudio
 @SOL077-i8m
 @TheFeynmanParadox-r1f
 @RealDr.EthanMillerSeniorHealth
@@ -27834,9 +27831,7 @@
 @retrogamingtrance
 @RCMusicAI
 @AI_Music_Atlas
-@Fast.food.ai-f8k8j
 @AIvsUS-l3p
-@YogeshGenix90
 @Zonix-AI-l5z
 @AhsanAliAIAcademy
 @HMDTe_ch
