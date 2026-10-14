@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29153
+! Total Channels: 29163
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29169,3 +29169,13 @@
 @MazurkaWaves
 @LuminaVoid
 @iron55venus
+@pani_mokosz
+@SzeptyZiemi
+@eugensunshinemusic
+@taz4916
+@RockRomance80s
+@CryLoLo
+@TheKorrethHorizonBand
+@toddchickenheart
+@StormbornChants
+@ZenityArabianNight
