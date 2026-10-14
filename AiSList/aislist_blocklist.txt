@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29162
+! Total Channels: 29164
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29178,3 +29178,5 @@
 @深夜の重低音jazz
 @mrskeleton-j2x
 @motorcycleheads
+@cheyennejackson-c7g
+@shen_key_music
