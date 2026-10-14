@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29330
+! Total Channels: 29325
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8548,7 +8548,6 @@
 @AINexLayer
 @AIPaperSlop
 @AiShivam099
-@DeutschlandSeniorenFokus
 @Banthefinancialhistorian2
 @Bobfinance-US
 @BobyFinance
@@ -10817,7 +10816,6 @@
 @DivineEchoNasheed
 @erasedrepublic
 @nostalgictunesstudio
-@motoelite-n5r
 @ww2honorr
 @musicrecords-k7v
 @chillmoments69
@@ -21012,7 +21010,6 @@
 @The_Reddit_Vault-YT
 @SayaTiu
 @alfredrentxz6589
-@HOAvsHomeowner
 @tatyana.filimonova.creative
 @limliAI
 @Sanesh_ai
@@ -21305,7 +21302,6 @@
 @LogicalMoney72
 @vanishedrooms
 @sumengyue
-@butterflydramaclub-z9z
 @FantasyUniverse-z7p
 @dnasecrets01
 @Bille_Finance
@@ -23604,7 +23600,6 @@
 @phongwinds1371
 @WhispersoftheApache
 @WesternRomanceTales-w1z
-@rp2.0tales
 @storymaker777-c5g
 @pureworldstories
 @EpicMakeover3D
