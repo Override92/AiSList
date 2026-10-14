@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29056
+! Total Channels: 29066
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29072,3 +29072,13 @@
 @PortraitAI
 @TheCapitalDocket
 @hiddenheritage51
+@trueyappingstick
+@ThepolymathVault-o5m
+@TallyHistories
+@MercerHank
+@TheCuriosityCircuit1
+@cookingwithlarry-p3o
+@LarrysLifestyle-ert1
+@Hiddenchroniclestory
+@HandyLarry-efy1
+@WealthThread
