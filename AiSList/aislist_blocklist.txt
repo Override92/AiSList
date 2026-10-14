@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29230
+! Total Channels: 29236
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29246,3 +29246,9 @@
 @LocomotiveAnatomy
 @ORKESTRALMUSIC
 @ConcertHallClarity
+@RealExplainerVault
+@Shadowsof_War
+@DowbniaFilmworks
+@ForgottenFleetsWW2
+@VietnamWarUncoveredChannel
+@CharlesMorgan-d2b
