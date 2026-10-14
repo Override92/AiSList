@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1029
+! Total Channels: 1028
 
 ! Entries:
 @PapaMeat
@@ -1026,7 +1026,6 @@
 @BestKeptSecretAudio
 @StoriesByLurid
 @DarkestHorrors
-@TheInfographicsShow
 @MILSIMUSMCC
 @ItsKengie
 @TheThrone-Documentaries
