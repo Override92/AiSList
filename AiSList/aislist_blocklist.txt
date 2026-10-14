@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29273
+! Total Channels: 29283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29289,3 +29289,13 @@
 @MysteriousTales613
 @Wiealso
 @UnlayeredDocs
+@NightPulse-s8i
+@Pomipomi_Pizza
+@yhproduce
+@JrumBeats
+@CosmicNebula-w1u
+@CourtroomSecrets-c6n
+@FishWhisperyt
+@DeRepenteAmor-z5i
+@markedbymoonlight
+@ShadowRomanceLegacy
