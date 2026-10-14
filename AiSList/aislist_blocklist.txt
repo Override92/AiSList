@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29302
+! Total Channels: 29312
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29318,3 +29318,13 @@
 @JudgmentDay-b2v
 @SpacemanNoodle
 @SomeGuyWhoKnowsSpace
+@TheQuietObservatory
+@SpaceTimeNarratives
+@First-Century-of
+@TheLostDominionOne
+@TheoreticoYT
+@duiewrerwu
+@NOSADLINES
+@CamelCrewRecords
+@Oryn-f5l
+@Zenn0009
