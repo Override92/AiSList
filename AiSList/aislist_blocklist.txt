@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29293
+! Total Channels: 29302
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29309,3 +29309,12 @@
 @Werewolf.Romance
 @KingWereWolf-o8j
 @JetlineJournal
+@JPBaseballZone
+@Goldbrokercom
+@Shred_AI
+@JapanAsItOnceTasted
+@NareshSamal-h8f
+@DriveDecide-q6v
+@JudgmentDay-b2v
+@SpacemanNoodle
+@SomeGuyWhoKnowsSpace
