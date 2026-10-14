@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29260
+! Total Channels: 29263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29276,3 +29276,6 @@
 @GoldenEchoTV
 @Secretverse804
 @EnigMa_Void
+@forgotten_cars-j4o
+@VibeVision-f3k
+@Zhivayapriroda
