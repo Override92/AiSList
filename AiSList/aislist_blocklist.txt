@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29188
+! Total Channels: 29198
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29204,3 +29204,13 @@
 @MotoInsight-j7e
 @RockPulse-v9u
 @KOBTRAX-b5v
+@USACNL-s1r
+@SyntheticShanties
+@Streetauto-g4v
+@BabyElephantMovie-v1e
+@Quency-w2o
+@simplyaishow
+@Solstice-vt5tq
+@BankaiBasicsHub
+@aicartoontales2026
+@MusicDoggy
