@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29163
+! Total Channels: 29173
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29179,3 +29179,13 @@
 @toddchickenheart
 @StormbornChants
 @ZenityArabianNight
+@MirageHousee
+@VortexNova-z3b
+@THEDMSBAND
+@CraigHanson-m5z
+@TAIGABlackMetalCZ
+@Baccaron
+@Steflionheart
+@The_BrokenRadios
+@Jonas-Ida-official
+@FrostborneMus
