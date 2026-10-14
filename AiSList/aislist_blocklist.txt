@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29195
+! Total Channels: 29190
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19790,7 +19790,6 @@
 @whyitsuckstowork
 @Mr.DeanStories
 @LatestTrendsWithGemini
-@HOAEntitled
 @H4midSV
 @IvanJackson-l7b
 @ThomasHadleyWeapons
@@ -24800,7 +24799,6 @@
 @AakAIStudio
 @AIPodcastChaos
 @gugu-miniature-stories
-@Wonders-c6u
 @AuraSatisfyASMR
 @AIVibeASMR
 @MarianasAIDreams
@@ -27589,7 +27587,6 @@
 @aeyesight
 @aivideo23
 @Zenichielementaldragonninja
-@OpenBookRoomAi
 @HarryHillarious
 @AIVIDEOS88888
 @aipotterhead
@@ -27624,9 +27621,7 @@
 @novelrextv
 @FishermanSculley
 @hypeuniversal
-@Rockyusap_wj
 @Official_AIuniverse
-@TheExceptionalAI
 @What-x1y
 @Scratch-karau
 @KangarooAIClips27
