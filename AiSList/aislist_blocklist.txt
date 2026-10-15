@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29310
+! Total Channels: 29305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -409,7 +409,6 @@
 @catshorts-l1c
 @skull-story
 @funfactory-l4f
-@catcartoons7
 @barakahrizqquran
 @meowhaha2
 @strangecatk
@@ -10173,7 +10172,6 @@
 @its_peely
 @M4-v-v
 @codingtherapymusic
-@xadrikxaulxu
 @FreeiumVoices
 @liveb
 @Singularityme
@@ -21666,7 +21664,6 @@
 @ghiblivideo1
 @wsenpaiii
 @聽心故事會
-@jadiclipper12
 @elitejohns
 @animalsxx_31
 @goldenstoryus-b6d
@@ -21692,7 +21689,6 @@
 @VelvetPulse-s8t
 @africasoulscape
 @EmberStudioAi
-@JiangInspiration
 @Tribalhorizon-d3d
 @TimelessTracksStation
 @miskatonicsaistudio
@@ -28328,7 +28324,6 @@
 @CozyDogMelody
 @PeacefulFlowRelaxation
 @Ponder544
-@RustyDreamsRestoredDaily
 @NoirDetectiveJazz
 @UnderworldShadows
 @FactoryCrave
