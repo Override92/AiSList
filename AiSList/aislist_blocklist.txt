@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29319
+! Total Channels: 29314
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8013,7 +8013,6 @@
 @samrayreoung-kakada
 @drama.remix2m
 @aelwynmusic
-@behindtheeconomy-h6z
 @wiseprep12345
 @profshinmarkets
 @feynmanuntold
@@ -12065,7 +12064,6 @@
 @Eliarchstudio
 @gbinh2180
 @OudSpirit
-@intelligentjungle
 @RainZenLofi
 @COCOAMOTIVATION
 @ERTHScience
@@ -12141,7 +12139,6 @@
 @AILifeStoriesShorts
 @MythicDimensions-o9f
 @HistoryMysterySchool
-@lyvarisai
 @FadetoCode
 @redhawkdrone3403
 @AllVisionsMedia
@@ -25467,7 +25464,6 @@
 @BLUTWIND-Official
 @Ailiferoutine
 @AiCinematic_Universe
-@faster-x8l
 @MARVEL2.0AI
 @thetinycinemaai
 @AIFilmStudio-z9h
@@ -27959,7 +27955,6 @@
 @JesusSaves-m2p
 @beyondrealityai-y2c
 @TravelWorldAI1
-@ShayankhanAIstudio
 @Sound-Wisdom-J
 @DivineAi-s96
 @ApexLegendsAI-DY
