@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29312
+! Total Channels: 29309
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7718,7 +7718,6 @@
 @퍼피휴게소
 @piotrcienwronski
 @tysiacletniehistorie
-@0.ultimate
 @catsdairy20
 @shortfilm-entertanment
 @vibequeen-f9k
@@ -17622,7 +17621,6 @@
 @tinytastywould
 @zero2launchagenticagent
 @happyhourfunfacts
-@hidayatnoor876
 @thelarpdesk
 @masterofnonelearn
 @primeusavault418
@@ -22214,7 +22212,6 @@
 @hellbreakermusic
 @chloetalksport
 @abcrimeinterrogation
-@unterderoberflache_0
 @david-h9m6y
 @kanizcreative
 @westsidegroovesradio
@@ -28176,7 +28173,7 @@
 @M-H-M_Music
 @AiOFilms-y5u
 @CaelvaneTV
-@%ED%95%9C%EA%B5%AD%EB%B0%B1%EB%A3%B8_KoreanBackrooms
+@korean_backrooms
 @CyberKineticCinema
 @ThomasLavoieAI
 @GameJoyExplained
