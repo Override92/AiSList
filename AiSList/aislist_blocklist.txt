@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29305
+! Total Channels: 29302
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -388,7 +388,6 @@
 @aliaboutine
 @DistantAI
 @epicaifilms2024
-@moreagiert
 @loran-ai10
 @SatisVid
 @starzapasmr
@@ -19117,7 +19116,6 @@
 @bubblechatlegends
 @deoksoon_label
 @秋水不染尘
-@hebbyclips
 @lmckidstv
 @brandebe
 @kpop__core-h1x
@@ -21685,7 +21683,6 @@
 @animotiondreamverse
 @PoolBrooksBand
 @SomexStudios
-@GirlsLoveProductions
 @VelvetPulse-s8t
 @africasoulscape
 @EmberStudioAi
