@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29297
+! Total Channels: 29299
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29313,3 +29313,5 @@
 @thelastofgone
 @northernwarband
 @thereckoningroom-v8g
+@CuriosityDaily-w5k
+@SoulSurgeSounds
