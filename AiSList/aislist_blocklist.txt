@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29320
+! Total Channels: 29319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21418,7 +21418,6 @@
 @Keatans
 @veopunchlines
 @EclatdeSaphir
-@OrangotanTV
 @CupidJr
 @Starfall_studio1
 @AiRealVideos67
@@ -21481,7 +21480,6 @@
 @carlinvestsUS
 @storiesbyonyeka
 @goldenmaskgerl
-@littlemelodytalestv
 @sub5ball
 @africantalesbykuru
 @baqafrost
@@ -29336,3 +29334,4 @@
 @makeyourmove-h5f
 @mojasvlogs
 @infinityvisuals_ai
+@yorubamoviegisttv
