@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29308
+! Total Channels: 29310
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29324,3 +29324,5 @@
 @虹巢音樂
 @thehomefrontwithmadeleine
 @ayykubaa
+@flintivo
+@musicsplash_ms
