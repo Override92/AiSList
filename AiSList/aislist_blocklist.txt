@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29314
+! Total Channels: 29316
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28026,7 +28026,7 @@
 @The.Eva.Winters
 @SariValkeinen
 @INNER_SAD
-@bestcoverrock-guitarmira
+@guitarmira
 @TheMachineisbreathing
 @NextVisionMusic
 @PandoraMorningstarOfficial
@@ -29330,3 +29330,5 @@
 @mojasvlogs
 @infinityvisuals_ai
 @yorubamoviegisttv
+@minuitmelodie
+@sensmelodies
