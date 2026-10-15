@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29316
+! Total Channels: 29311
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27991,7 +27991,6 @@
 @geneiusaiaura
 @AI_BabyJunction
 @GiraffinatorProductions
-@newaiworld11
 @SheruVerseAi
 @storywithai-j
 @Janani-r2f
@@ -28029,11 +28028,9 @@
 @TheMachineisbreathing
 @NextVisionMusic
 @PandoraMorningstarOfficial
-@BudboyRequiem
 @LaraPaollini
 @MinuitM%C3%A9lodie
 @CafeAmbrelune
-@RASTISLAVKING
 @SensM%C3%A9lodies
 @deveshreactz00
 @vertikaaistories
@@ -28087,7 +28084,6 @@
 @TheGraceandKnowledgeSeries
 @VeronicaWalshCBT
 @TheLearningVote
-@HistoryVisualizedbyAI
 @brainrot__history
 @CeasarsVlog-w2j
 @QuarkVortex
@@ -28121,7 +28117,6 @@
 @juliamartinai
 @mirai.vision_art
 @zenx_022
-@tTheOmiCompany
 @MXWY
 @cinemadkr2697
 @ExactGroupStudio
