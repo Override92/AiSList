@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29309
+! Total Channels: 29304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7675,7 +7675,6 @@
 @AnimalHeroes33
 @oazamuzyki
 @sciezkiPrzepowiedni7678
-@Niezwykły-umysł
 @PiotrCieńWroński
 @TajemniceZSRR
 @CzasopismaHistoryczne
@@ -12425,7 +12424,6 @@
 @Artssupremo
 @BorderlineWonders
 @ITellComic
-@lyrafizz
 @Galaxyoftitans
 @TheNellop
 @watcherstories
@@ -28122,7 +28120,6 @@
 @CrownfieldYT
 @ARISNOMAD
 @worldstunts
-@AIVID_Studio
 @JDMotionStudioYT
 @SecretHeartsSt
 @AiAndrewSparrow
@@ -28202,7 +28199,6 @@
 @RyderThorn.official
 @EinherjarValhalla
 @foundandfeltmusic
-@LIKEAIDRAKKAR
 @NORNSTHREADMUSIC
 @Epic_Metal_Mayhem
 @TheBardofWarriors
@@ -28247,7 +28243,6 @@
 @JulienKlimek
 @Wokobuccicoach
 @AIFruitVideo-1f
-@FruitVerseAI-s4l
 @HistoireDeFruitIA0
 @FinnWanderfell
 @SYCHORUS
