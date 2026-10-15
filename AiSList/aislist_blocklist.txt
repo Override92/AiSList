@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29302
+! Total Channels: 29304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29318,3 +29318,5 @@
 @hazardpayjob
 @breakingnewsindonesia-xyz
 @thelastofgone
+@northernwarband
+@thereckoningroom-v8g
