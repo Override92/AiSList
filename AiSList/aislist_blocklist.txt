@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29306
+! Total Channels: 29308
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29322,3 +29322,5 @@
 @musicsplash_ms
 @a_p_n_production
 @rukkyscravings
+@wendy-antoinette
+@jokersreality-o5x
