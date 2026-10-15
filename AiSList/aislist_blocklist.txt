@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29299
+! Total Channels: 29297
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2960,7 +2960,6 @@
 @DailySpark-b9u
 @BruceLeeEncounters
 @hoch-01
-@TheSilentTruth-i7i
 @CitizenAnalytics
 @SleepOnSpace
 @CrownyDagger
@@ -17690,7 +17689,6 @@
 @Aitunnelcomedy
 @time.lapse.90
 @Aitalesart
-@TarBynEnt
 @AIVisionstudioYT-HQ
 @Aetheron-d4t
 @JazmineLozano-r8g
