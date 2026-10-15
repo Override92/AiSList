@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29310
+! Total Channels: 29305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8330,7 +8330,6 @@
 @slodkazemstaa
 @siwasprawiedliwosc
 @chlodnazemsta
-@rodzinnyrewanz
 @opowiescizyciowe
 @theniftyhustle
 @voltones
@@ -14490,12 +14489,10 @@
 @Eisen_werk
 @Lifelinecorner
 @Beyond_Kindness
-@DadFamilyStories
 @StoicGraves
 @RealFamilySecretsHQ
 @ForeverOnTheFrontier
 @englishstoryreadings
-@FrontAxis
 @amluckiasfcommentary
 @untoldaistories20
 @bxsghifh888
@@ -25589,7 +25586,6 @@
 @marvalaiedit1122
 @STORYVERSEAI-q2g
 @cookify-g6h
-@TinycraftAi1
 @AnimationAi_P
 @SudipAICinematic
 @Egypt-w3x
@@ -28308,7 +28304,6 @@
 @RevengeChapters-j8z
 @FinShift-i8s
 @DADSTORIES-y9w
-@LChinnakulai
 @OperatingLogic
 @QuantumUnsealedyt
 @NextGenProduction0
