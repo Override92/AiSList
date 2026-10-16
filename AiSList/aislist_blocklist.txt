@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29628
+! Total Channels: 29630
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22300,7 +22300,7 @@
 @synthetic_story_studios
 @SheezuTalesAI
 @kicking_tighs
-@veylora_drama
+@veylora_dramas
 @仙音动画
 @华泽造梦
 @GildedRuinsTV
@@ -29644,3 +29644,5 @@
 @thenextfrontchannel
 @godsdivinepower
 @maeilgooddrama
+@iseekthefire
+@stilleschicksale0
