@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29728
+! Total Channels: 29738
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29744,3 +29744,13 @@
 @animatedbiblechronicles
 @John_Drolet
 @MyLegacyStudios
+@Nulistudio
+@techadvent19
+@ChildlikeMedia
+@balvaai
+@GoCrazy-o1e
+@WhiskeyPorchBlues-j4r
+@DriftTones-p2e
+@CosmicExplainer-l6p
+@T%C3%ADtS%C3%A0nhS%E1%BB%8Fi-f4c
+@daprofessoryt
