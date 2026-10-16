@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29748
+! Total Channels: 29758
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29764,3 +29764,13 @@
 @Fact_Spark-c1h
 @CosmicHives
 @TheThoughtFoundry1
+@OfficialLifeAcademy
+@NullHorizon1
+@Philo_sophyy
+@ArchivalVeteranStories
+@ChilloutLoungeMusic.
+@MsBrownSimplifies
+@anilj2772
+@eclesso
+@nana-celeb
+@BrianReportss
