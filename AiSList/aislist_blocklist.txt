@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29768
+! Total Channels: 29772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29784,3 +29784,7 @@
 @BookofRecaps-zy9zd
 @beforeaustraliaforgot
 @Hotaru-Saiga
+@CinemaBombSquad
+@WhatIfScenarioz1
+@TomsToyotas
+@Rockapr02
