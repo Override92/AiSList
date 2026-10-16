@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29551
+! Total Channels: 29561
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29567,3 +29567,13 @@
 @sycsoul.1
 @DieStimmedesVolkesHeute-z2t
 @WalkingWithFather
+@Seedsofpurity
+@TruthintheWordUS
+@WalkWithGod-g6t
+@WisdomOfTheBiblee
+@BuddhismPodcast
+@BuddhistPathway-u9p
+@WeAreDharma
+@QuietWisdom01
+@BuddhaMotivation-inEnglish
+@SilentWisdomTemple
