@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29365
+! Total Channels: 29375
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29381,3 +29381,13 @@
 @TimelessCivilizationsHQ
 @LegendaryShadows-r2o
 @ThetempleOfStories-l7x
+@historyandmythologyEN
+@MythicalArcana
+@dreamofolympus
+@FragmentsofHistory01
+@tolkiensshadowlore
+@dark_night_tales
+@FoolofaTube
+@DiamondWarriorJP
+@UntoldHistoryYT
+@ShadowHistory-h8d
