@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29815
+! Total Channels: 29825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29831,3 +29831,13 @@
 @FiresofHistory99
 @Paul_ALMiGHTY
 @ScrollsOfTerra
+@HistoryUnderTheBlackFlag
+@MaryTerry-o5l
+@RogueLegendsYoutube
+@Spiritual-Quest
+@sacredquantumofficial
+@OrbitalThoughtsOnly
+@zenithzen001
+@TalesbyNaksu
+@talesbymonisha2.0
+@wordsofwisdomstories
