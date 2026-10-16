@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29532
+! Total Channels: 29542
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29548,3 +29548,13 @@
 @HealingJourneyYT
 @BuddhismInsight7
 @buddhismprevails
+@BuddhasEternalWisdom
+@wisdomwovenn
+@Buddhismmflow
+@BuddhistWisdom-Mindfulness
+@PathofInnerWisdom
+@TheInnerBuddhaCode
+@GoldenLotusWisdom1
+@AaAa-rh9js
+@Serene_Mind_365
+@Nightly_Wisdom
