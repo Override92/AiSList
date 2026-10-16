@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29797
+! Total Channels: 29805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29813,3 +29813,11 @@
 @historical_docs
 @UKProReviewers
 @CraftedHistoryonyoutube
+@risolalamusic
+@jaysound0318
+@WorkoutMusicLibrary
+@Masterminds.analysis
+@Rawearthvibes-01
+@fred-money-historian
+@SleepHushTV13
+@RamasesB
