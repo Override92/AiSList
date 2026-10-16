@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1063
+! Total Channels: 1064
 
 ! Entries:
 @PapaMeat
@@ -1085,3 +1085,4 @@
 @niwadshorts
 @KillerCrimedocumentary
 @agedskills
+@CoreDumpped
