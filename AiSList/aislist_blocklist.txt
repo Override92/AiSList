@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29678
+! Total Channels: 29688
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29694,3 +29694,13 @@
 @AISatisfyStudio
 @NatureFarming-l9h
 @asmraiworld.official
+@Lullabai1303
+@Asmrvibes-t9j
+@HushAIASMR
+@OddlyAIRelax
+@AIASMR-4DObject
+@SoulMelody-d4u
+@GospelWave-d5n
+@CountryMuzikHub-FanMadeMusic
+@MeloStudio-q2q
+@cubehouse-g5n
