@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29483
+! Total Channels: 29492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29499,3 +29499,12 @@
 @Psyche-Life
 @Stickman_Explains1
 @InnerSystems-q6v
+@UNFELT0
+@ExplainsALott
+@Stick_ToTheStory
+@MeExplainsThings
+@pragmaticprinciples
+@asknigel
+@MythicPsyche
+@PsycheCodexYT
+@TheAwakenedBeliever
