@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29637
+! Total Channels: 29632
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3059,7 +3059,6 @@
 @pastuncoveredhere
 @TheUnchartedMysteries
 @UnchartedEarthYT
-@TheHiddenRealityDocs
 @HistoryThroughTime1
 @BarelyEvolved
 @ForgetfulHistorian
@@ -3709,7 +3708,6 @@
 @ReinasLibres
 @Despierta_TuConsciencia
 @amorreal-f5o
-@CosmiSer
 @PoderdelHombre77
 @mysteriamentis2025
 @AlquimiaMental3
@@ -3924,7 +3922,6 @@
 @OGJohnAG2.0-g9z
 @AxelineOfficial
 @RykerDean445
-@FinSpheresGlobal
 @MoneyOdysseyOfficial
 @tcjplayer
 @Thefinancefiles4u
@@ -22212,7 +22209,6 @@
 @minidramas-de-epoca-diarios
 @FirstSightDrama
 @LoveDramaHub-j1s
-@SantanaSilentstories
 @AIMethodla
 @EkonomiaWlasciciela
 @WszystkoOŻywności
@@ -28369,7 +28365,6 @@
 @FutureShock-t2v
 @MarketingAlec
 @TheHiddenLayerDecodingAI
-@TheEvelynBrief
 @HypeMix-USA
 @AmericanRetirementStories-n1g
 @sunil_ai_creativity
