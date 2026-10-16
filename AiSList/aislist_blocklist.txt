@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29718
+! Total Channels: 29728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29734,3 +29734,13 @@
 @MoonRiddim-o4m
 @RYTHMROOT-p1u3g
 @Soundbloom-v3p
+@HarmonyofLight-w8q
+@harmonyliftsounds-x9q
+@legendaryfrequencymusic
+@Harmonyvibes-v5c
+@RealDadRevenge
+@SurvivalCurriculum
+@Konceptvisions
+@animatedbiblechronicles
+@John_Drolet
+@MyLegacyStudios
