@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29464
+! Total Channels: 29473
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29480,3 +29480,12 @@
 @MindfulPawsPsychology
 @Cognipaws
 @everydaymindsyt
+@DaReflectionX
+@Chill-Dude-Unpacks
+@TheDistortedHuman2
+@Zaynartsyt
+@QuietShift-25
+@ObsessedMinds
+@BetterBrainDays
+@Mindfo-0
+@Psychlical
