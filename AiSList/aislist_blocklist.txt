@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29632
+! Total Channels: 29627
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5532,7 +5532,6 @@
 @KyricFinancial
 @real-john-ag
 @VIPJohnAG
-@PulsePointReport-d6e
 @TheAsianGuy-JohnAG
 @ThriveTribe-c3v
 @richardphysicss
@@ -13704,7 +13703,6 @@
 @TheGenAiStudi0s
 @PeacefulChristianLullabies
 @MayaVishwash
-@LightofJesus-j1r
 @JesusBYS
 @SleepBibleMovies
 @LovesJesusVideos
@@ -28601,7 +28599,6 @@
 @SpongeBobLofiBeats
 @SnoofyLofii
 @JKLOVE991
-@kirs-o8n
 @lemurian.archives
 @next-node-official
 @HeartwarmingTalesHub-u8c
@@ -28629,10 +28626,8 @@
 @TheDownFallReport2025
 @CoolestDudeExplains
 @GoldenDrift-f9o
-@LostGameFiles
 @WonderDepth-c4b
 @CREATIVEHABILITIES1
-@LostHumanAge
 @itsalschannel
 @VintageYardSounds
 @luisgarza8636
