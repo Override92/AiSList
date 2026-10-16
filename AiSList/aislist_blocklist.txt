@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29445
+! Total Channels: 29455
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29461,3 +29461,13 @@
 @TheImaginePOV
 @Shadow-POV111
 @OneTwoThree-r5b
+@history_archives-mhn
+@centerforcuriosity
+@BrofessorLee
+@AncestorFlame
+@HighlyCompelling
+@Primis0
+@PrehistoricMysteries-d8f
+@TheHelixReport
+@Soll-g2w
+@BackdoorHistorian
