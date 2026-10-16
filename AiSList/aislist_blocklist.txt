@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29590
+! Total Channels: 29600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29606,3 +29606,13 @@
 @lexicanum
 @OrdoIlluminati52
 @EchoChambered-c4o
+@FictionalRadio
+@BlackoutRadioTV
+@TheGreyHavensHour
+@channelbeyondreality
+@SpaceExplainer2
+@theopeningproject
+@OmegaPointDoc
+@CarlSaganPhysics
+@aruntachai2458
+@cosmicexplorer-EN
