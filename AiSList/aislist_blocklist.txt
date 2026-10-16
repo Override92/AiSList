@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29600
+! Total Channels: 29610
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29616,3 +29616,13 @@
 @CarlSaganPhysics
 @aruntachai2458
 @cosmicexplorer-EN
+@HermeticAscent
+@BeyondMind-BM
+@InterstellarNights
+@SpaceGeniusExplainer
+@BluePaleSignal
+@TheRealGravityWell
+@WhyThisHappens-v7l
+@itsdudeknowsstuff
+@Breakfiles-HD
+@TheBeastiary-k7y
