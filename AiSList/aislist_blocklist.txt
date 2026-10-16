@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29805
+! Total Channels: 29815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29821,3 +29821,13 @@
 @fred-money-historian
 @SleepHushTV13
 @RamasesB
+@chmacias75
+@Technika%C4%8CSSR
+@soviettimesdiscovered
+@Lorekeepers-Librarium
+@Midnight_Lore
+@futurehome24
+@HistoryHangover-yt
+@FiresofHistory99
+@Paul_ALMiGHTY
+@ScrollsOfTerra
