@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29561
+! Total Channels: 29571
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29577,3 +29577,13 @@
 @QuietWisdom01
 @BuddhaMotivation-inEnglish
 @SilentWisdomTemple
+@DailyBuddhismLight
+@middleway.buddhism
+@amonkstory
+@TaoTemple-official
+@DharmaPodcast25
+@DiveintoTheHollowMyth
+@BennyClown
+@psyscholar09
+@Presence_Honor
+@TheMusashiPath
