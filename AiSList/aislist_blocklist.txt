@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29844
+! Total Channels: 29854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29860,3 +29860,13 @@
 @Gardeners_Call
 @GospelGenga
 @BiblerootsYT
+@The-Forgotten-Grimoire
+@FaithApplied
+@DailyScriptureStudy
+@GracePathz
+@eternallyorthodox
+@thebibleblade
+@OrderWithoutName
+@FaithRevealedYtb
+@StillBelieving88
+@tochukwuobichere8309
