@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29375
+! Total Channels: 29385
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29391,3 +29391,13 @@
 @DiamondWarriorJP
 @UntoldHistoryYT
 @ShadowHistory-h8d
+@TemplarTales_Admin1
+@RoyalVeins-w7w
+@PsyBeyond
+@GalacticGabeTV
+@visualchristian1
+@faithmadeclear1
+@scripturemadeplain-o5m
+@BibleUncoveredbyalex
+@TheScripturePath1
+@deepmadesimple
