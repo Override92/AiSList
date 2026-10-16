@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29636
+! Total Channels: 29631
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4038,7 +4038,6 @@
 @MindHaven_withJung
 @codigoestoicoai
 @HowItHappenedStories
-@AFKNews01
 @KLWARFRONT
 @yougottadowhatyouwannado
 @EconomicPulse7
@@ -4125,7 +4124,6 @@
 @WWTales1945
 @BuffettWisdomHubYT
 @INVESTORALARM
-@bitcoinglobalnews-z9q
 @Silverdollarcollapse
 @EconInsiderofficial
 @Wealth_Chain
@@ -12552,7 +12550,6 @@
 @NGfinance01
 @worldcup.explainer
 @archinotes1
-@spacenews-i2l
 @AgricultureFlow
 @vocafusion
 @JustinGermany
@@ -28472,7 +28469,6 @@
 @bodycamdetectiv
 @degenerativepixels
 @Melopoke
-@TaronAtmospheric
 @pureearth88
 @GregorianChanting
 @ReviewRadarRealml-k4q
@@ -28497,7 +28493,6 @@
 @TopBestEver-d9f6r
 @TopProduct-hf2je
 @Top5BestEver-r8b
-@CrazyCart11
 @VacuumCleanerReview-d4o
 @ProductOverviewWorld
 @BestForEver-cfb
