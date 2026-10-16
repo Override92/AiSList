@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29708
+! Total Channels: 29718
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29724,3 +29724,13 @@
 @MindHazeAi
 @CineWaveMusic7
 @MegaToneJamz
+@herbalrhythmtv
+@soothingsoundsai-o5g
+@DigitalJam-b4c
+@NeuralAudio1
+@FlowStateBeats-c2y
+@AUDIOFLUX-u7t
+@GospelVibesai-l7c
+@MoonRiddim-o4m
+@RYTHMROOT-p1u3g
+@Soundbloom-v3p
