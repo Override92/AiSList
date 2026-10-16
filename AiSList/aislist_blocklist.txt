@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29610
+! Total Channels: 29620
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29626,3 +29626,13 @@
 @itsdudeknowsstuff
 @Breakfiles-HD
 @TheBeastiary-k7y
+@proftavakol
+@ChilderOfRa
+@Shadowloom999
+@TheDoubtCollective
+@PhiloWhisp
+@Orbit3548
+@wisdom_insights
+@InspiredWisdomVideos
+@DreamSparks34
+@walitales
