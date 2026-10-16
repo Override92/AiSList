@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29345
+! Total Channels: 29355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29361,3 +29361,13 @@
 @tolkiensrealm1
 @LegendaryLay
 @NelpExplains
+@MystralTV
+@TheOldLibrarian-j1w
+@mythxhunter
+@GregKnowsAll
+@BuddhasWizdom
+@Presence-Purpose
+@MythologyMeetsHistory
+@HistoryinStore
+@GLOBALMYTHSLEGENDS
+@GodsOfOldMyths
