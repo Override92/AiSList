@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29825
+! Total Channels: 29834
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29841,3 +29841,12 @@
 @TalesbyNaksu
 @talesbymonisha2.0
 @wordsofwisdomstories
+@NathanFordham-j1q
+@PranovaOfficial
+@Biblehavenyt
+@RiseStorieshub
+@VolumeoftheBooks
+@theeternitywatchmen
+@FaithUnfiltered777
+@TheBibleHook
+@biblefix
