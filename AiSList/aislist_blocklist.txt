@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29632
+! Total Channels: 29633
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29648,3 +29648,4 @@
 @terranhearthfy
 @FrequencyScene
 @directornoa
+@GrooveElectroSwing
