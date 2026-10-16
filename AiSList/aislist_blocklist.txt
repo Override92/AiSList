@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29635
+! Total Channels: 29636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29651,3 +29651,4 @@
 @백치미1
 @ollie_finance
 @yomidigitry
+@한반도_백과사전
