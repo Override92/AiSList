@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29629
+! Total Channels: 29628
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15028,7 +15028,6 @@
 @Vexora-w4q
 @IndustrialSouth
 @RefereeRoulette
-@EFFS01
 @FININT.01
 @BuiltToHold-1996
 @ChopZen-ASMR
