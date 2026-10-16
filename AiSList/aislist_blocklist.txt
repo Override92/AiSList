@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29435
+! Total Channels: 29445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29451,3 +29451,13 @@
 @DolphinExplains
 @MithrilAndLore
 @jaydonefilms
+@savagescrollsofcrom
+@NerdyCatStudio
+@holdonlemmeexplain
+@PovGuyTV
+@ColorInsideLines
+@ThePovbro
+@TimeTravellingGuy
+@TheImaginePOV
+@Shadow-POV111
+@OneTwoThree-r5b
