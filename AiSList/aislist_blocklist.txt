@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29889
+! Total Channels: 29890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29905,3 +29905,4 @@
 @CurioStickYT
 @AlexExplainsMoneyOfficial
 @MrRichard-Vision
+@laucubed
