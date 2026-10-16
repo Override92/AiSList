@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29502
+! Total Channels: 29512
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29518,3 +29518,13 @@
 @unordinarymind
 @HiddenSelfDecoded
 @patternweaver
+@rationalraymond
+@PsychologyTalks-l2l
+@thinkingshelflab
+@Cole_Nexus
+@TheCoreTechReport
+@Mythoria-g4b
+@drglobechannel
+@RewriteMindHistory
+@BiographiesoftheSaints
+@TheSaintsGod
