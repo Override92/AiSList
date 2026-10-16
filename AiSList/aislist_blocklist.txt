@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29492
+! Total Channels: 29502
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29508,3 +29508,13 @@
 @MythicPsyche
 @PsycheCodexYT
 @TheAwakenedBeliever
+@SimplePsyche1
+@CasThorne-CT
+@Tee-Psychology
+@MindfulRageTV
+@MindCovee
+@MindFrame-24
+@PsychologyUnfiltered-p4s
+@unordinarymind
+@HiddenSelfDecoded
+@patternweaver
