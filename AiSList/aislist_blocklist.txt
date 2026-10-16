@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29890
+! Total Channels: 29885
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1404,7 +1404,6 @@
 @insidetheassembly999
 @precisionlinetv
 @futurefactory-x1w
-@processinside-official
 @factoryprocessatoz
 @realprocessinside-z1u
 @satisfyingfactoryprocess
@@ -1673,7 +1672,6 @@
 @aicreatorshorts-g3r
 @aishorts4k-j6n
 @catbyteyr
-@storyai-films
 @aishortscartoanimation
 @aicreator-l9z
 @apnaai56
@@ -9839,7 +9837,6 @@
 @AIVirtus
 @AIVisionaryStudio-h7z
 @AIvisionero
-@KevinFinanceK
 @TheHiddenEconomy2.0
 @mercyisromancetales
 @TheYesterdayVault
@@ -28681,14 +28678,12 @@
 @TimeCapsule-s4q
 @VietnamWarChronicles1
 @DefenseMilitary-r5p
-@ArmsStudio-b9z
 @MarksmansChoice
 @Tacticalvault-1
 @GunsInsider
 @gearinsiderofficial
 @RetroWaveMusicDreams
 @FamousFlyers
-@onlybikestuff
 @combatcore-r3l
 @SonarMai
 @theCrazyHuntr
