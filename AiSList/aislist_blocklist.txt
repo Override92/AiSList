@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29395
+! Total Channels: 29405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29411,3 +29411,13 @@
 @hiddenpathss
 @Eagerly_Awaits_Christ_Return
 @TheClearWord
+@bibledeeptruths
+@Scripturemagnified
+@middle_earth_tales
+@TheQuietShepherdOfficial
+@ForgottenSurvivalTales
+@ShadowChronicle2026
+@BygonePhilosophy
+@flightking.1
+@epicnaval
+@LoreOfTheImperiumWH
