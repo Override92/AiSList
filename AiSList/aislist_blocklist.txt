@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29512
+! Total Channels: 29522
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29528,3 +29528,13 @@
 @RewriteMindHistory
 @BiographiesoftheSaints
 @TheSaintsGod
+@CanalCatolicismoExplicado
+@DecodeScripture
+@SpiceScroll
+@Maiorianus_Sebastian
+@SciencephiletheAI
+@WHISThiztory
+@TheEpicHistoryVibe
+@QuantumSpirituality-lab
+@Quantum_Gnosis
+@MonjeKaito
