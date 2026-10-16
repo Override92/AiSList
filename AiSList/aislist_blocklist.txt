@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29772
+! Total Channels: 29779
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29788,3 +29788,10 @@
 @WhatIfScenarioz1
 @TomsToyotas
 @Rockapr02
+@LastTruckStanding
+@courtroomexplained
+@CarIndustryMedia
+@ww2.cauldron
+@SinceWWII
+@TheHiddenFront2103
+@WW2AtNight
