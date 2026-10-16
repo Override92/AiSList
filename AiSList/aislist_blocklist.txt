@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29415
+! Total Channels: 29425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29431,3 +29431,13 @@
 @house_of_horus
 @behindthebubbles-1
 @i_Hub_Africa
+@IndianMonk
+@LATOYASTORIES
+@AfrikCosmos
+@AfricanWisdomFire
+@AfricanMythologies0745
+@history_echoes-h1b
+@Learnism1
+@IfeAncestralfolktales
+@OrishaOasisTV
+@PrettyPretty-o4f
