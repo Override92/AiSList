@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29425
+! Total Channels: 29435
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29441,3 +29441,13 @@
 @IfeAncestralfolktales
 @OrishaOasisTV
 @PrettyPretty-o4f
+@StrategicConflictBrief45
+@mythexplained
+@PrimitiveMythology
+@JakesEmpireUS
+@CuriousChrisYT
+@NOGURULINES
+@TheExplainTory
+@DolphinExplains
+@MithrilAndLore
+@jaydonefilms
