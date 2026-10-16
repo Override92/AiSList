@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29874
+! Total Channels: 29878
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29890,3 +29890,7 @@
 @RiseWithGod89
 @ThroneSignal-e9c
 @lightofislam3421
+@faithfuljourney96
+@WisdomBeyondWords-x3g
+@GODZEAL
+@Stoic_Mindset_Oasis
