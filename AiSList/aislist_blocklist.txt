@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29894
+! Total Channels: 29892
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13866,7 +13866,6 @@
 @TheWisdomTree-story
 @AncestralFiresideTales
 @Joxxstorytime
-@Moonlighttalesbydoubled
 @jamjamtales
 @afrotalescinema
 @YourFavouriteStoryteller-q2j
@@ -18812,7 +18811,6 @@
 @noerabroma
 @thesignallogic
 @talesbybibaa
-@antidotebwoyke
 @aloocartoonworldofficial34
 @jasonandmichellestorytales2
 @biborantv_music
