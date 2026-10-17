@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30019
+! Total Channels: 30029
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30035,3 +30035,13 @@
 @StoryStargo
 @Vivid-Tale-Clip
 @CozyGhibliTales-g8d
+@eliassterling01
+@YuErUS-BF
+@LittleUzoo
+@SiennaBrooks-d4l
+@spaceNexoraspace
+@EchoTales-y3r
+@Sen_Ai_Studio221
+@Forbidden-Love-Mini-Drama
+@PaintMafiaYT
+@ORIGO12
