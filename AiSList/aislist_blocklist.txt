@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29970
+! Total Channels: 29979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29986,3 +29986,12 @@
 @mrbirdexplains
 @RomelinHistory
 @BayouPerduWays
+@ghiblilife-e7q
+@Pausetosolve1
+@EchoesofFlavor-w7r
+@quietmoneystories
+@LisaGhibli-11
+@ODDSCIENCECLUB
+@Military_Miles
+@LimitlessGrowthAudiobook-i9s
+@GhibliASMRR
