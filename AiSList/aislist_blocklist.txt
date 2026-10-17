@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29888
+! Total Channels: 29892
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29904,3 +29904,7 @@
 @tinytearstv
 @arabella.vs.celebrity
 @nixwareek
+@TheHYFUnleashed
+@WondersUSA
+@opmsoulfulsongremakes
+@RangerRickUS
