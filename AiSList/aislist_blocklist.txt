@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30177
+! Total Channels: 30187
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30193,3 +30193,13 @@
 @Shortflix_Indonesia
 @phy6ixs
 @clarifiedmind
+@ZhuiGuan-Comics
+@WhisperofRomantic
+@ApowerfulChina
+@WISE-JOE1
+@nettvofficial
+@manhwadealer
+@Labubububu_Animation
+@XW14-nl9sc
+@AyrishStories
+@Sweet-ni6nz
