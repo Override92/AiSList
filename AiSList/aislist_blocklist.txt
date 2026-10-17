@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29896
+! Total Channels: 29901
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29912,3 +29912,8 @@
 @uncoveranime-3
 @TheHierarchy999
 @echossurrealaiart
+@KombiFamilyGhibli
+@IndianGhibliKitchen
+@ZippyRelaxMusic
+@VelorAIArt6868
+@Waterdrama-d4u
