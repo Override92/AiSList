@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30069
+! Total Channels: 30079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30085,3 +30085,13 @@
 @VerseDrama-p2f
 @SecretLife-q1y
 @GhibliASMR-u9v
+@DramaClipStudio-t5k
+@StanleyRaymond-v7k
+@DramaDiary10086
+@PC-Explainer
+@JY-KK33
+@LuminDrama
+@ChronoFlixShorts
+@OldMoneyOpulence
+@Romeunscrolled-01
+@Tyrone-h8n
