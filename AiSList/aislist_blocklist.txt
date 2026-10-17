@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29989
+! Total Channels: 29999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30005,3 +30005,13 @@
 @Weirdestory
 @MichaelGrant01
 @BreadIGuess
+@IkanAIdrama
+@QuietCapitalUSA
+@AncientRomans_HQ
+@Ironbeard-Forge
+@SketchToryHistory
+@ProffessionsPOV
+@NoahWuhu
+@heartloop77
+@AI_FRUIT-v5s
+@VelvetRoseDrama
