@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30109
+! Total Channels: 30117
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30125,3 +30125,11 @@
 @AmericanEdgeYT
 @FrontierAmericaYT
 @SweetMelodyDrama
+@Kuanglongshorts
+@Sprunki-k9z
+@MoonGoddessTheatre
+@CherryDrama-b6j
+@PerspectiveShift11
+@FAStory79
+@SurvivalRootx
+@Fotor2012
