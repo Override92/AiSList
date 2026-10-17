@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29904
+! Total Channels: 29905
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10998,7 +10998,7 @@
 @OddlyFruits
 @FruityBabiesASMR0
 @SFamilyShows
-@watch-and-taste
+@chef-milis-foodlab
 @ScrollixAI
 @CozyPopAI
 @Fruit-Burst
@@ -29920,3 +29920,4 @@
 @JY-KK16
 @WizardsandWarriors
 @ambou8626
+@officialchefcleo
