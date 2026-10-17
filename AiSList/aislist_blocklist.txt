@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30049
+! Total Channels: 30059
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30065,3 +30065,13 @@
 @reallifepovyt
 @MedievalSisters
 @Nightwindreels
+@TechExplainerGuy
+@AnnaBackInTime
+@StoicDerrick
+@thisguyknowsstuffyt
+@DnDWilliam
+@GhibliArtstudioG.A.S
+@alphalegenddrama
+@States-2026
+@One-Bold-Move
+@EternalLoveDiary
