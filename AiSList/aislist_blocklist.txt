@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30099
+! Total Channels: 30109
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30115,3 +30115,13 @@
 @NyxRecapsReal
 @SeedsofHope-w8e
 @BizMoneyExplained
+@YvexDrama
+@DreamVII-w6f
+@SeriousHistoryCompilations
+@ZenthralCode
+@GoldQueenDrama
+@%E5%A4%A9%E5%A4%A9%E5%89%A7%E5%9C%BA-f6c
+@GhibliKitchenTales
+@AmericanEdgeYT
+@FrontierAmericaYT
+@SweetMelodyDrama
