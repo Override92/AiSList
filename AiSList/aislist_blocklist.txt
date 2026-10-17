@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30009
+! Total Channels: 30019
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30025,3 +30025,13 @@
 @Calvinstorieschori
 @DukeRTales
 @TheMoneyProff
+@MoneyMayyy
+@MarshalNathanx
+@No.idea26
+@LifePeaked
+@DramaGleamTV
+@Lucacaca123
+@OARECAP
+@StoryStargo
+@Vivid-Tale-Clip
+@CozyGhibliTales-g8d
