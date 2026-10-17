@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30079
+! Total Channels: 30089
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30095,3 +30095,13 @@
 @OldMoneyOpulence
 @Romeunscrolled-01
 @Tyrone-h8n
+@Ashes-Club
+@%E7%B4%85%E7%B7%9A%E5%BE%AE%E5%8A%87%E5%A0%B4
+@dramely
+@StarRayShorts
+@BingeDramaDaily
+@Juliannatimetravel
+@MoneyOga
+@SanctumFemina
+@AnimeKitchen10M
+@AIreddot
