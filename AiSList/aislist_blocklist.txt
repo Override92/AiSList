@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29999
+! Total Channels: 30009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30015,3 +30015,13 @@
 @heartloop77
 @AI_FRUIT-v5s
 @VelvetRoseDrama
+@GhibliFoodStudio1
+@RankPOVs
+@KaiPovTv
+@DreamworldOdyssey
+@SteelFate-r6o
+@PaperWealthR
+@CreepyScientist
+@Calvinstorieschori
+@DukeRTales
+@TheMoneyProff
