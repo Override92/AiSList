@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29892
+! Total Channels: 29887
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28725,10 +28725,8 @@
 @slash_system32
 @CourtExposed-j9i
 @QuietMind-hn
-@VintageVengeance-h2y
 @DylanLegrand-s7m
 @ww3armies
-@yout4-u5m
 @FracturedGround
 @THEAMMILITARYPOWER
 @WarVaultt
@@ -28741,7 +28739,6 @@
 @StoicLethobel
 @WhileTheresTimeWisdom
 @StoicRelationship
-@SovereignMindx
 @StoicMindsetAcademy1
 @senior_rise
 @StoicSociety
@@ -28749,7 +28746,6 @@
 @IronMindset-z
 @Healthvibees
 @DeepPsyche_TM
-@KnowledgeIQMaster
 @SolusMind
 @Puppetgate
 @mindsetmentorpodcast
@@ -28763,7 +28759,6 @@
 @MoneyHistorianHQ
 @InfluencedChannel
 @FiscalFolders
-@Mrstickypsychology
 @WarbirdsAndLegends
 @MythPulse88
 @TokyoTones
