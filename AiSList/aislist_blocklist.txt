@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29891
+! Total Channels: 29892
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5813,7 +5813,6 @@
 @limencore
 @truemenspeak
 @darkmindsecreats
-@aqsstories
 @yourdreamtrader
 @mysticcreationsstorytime
 @worldbreachofficial
@@ -29907,3 +29906,5 @@
 @cozycorners18
 @miniseriessanookjang
 @dailyminiseries-j2z
+@thelasttransmissionchannel
+@tinytearstv
