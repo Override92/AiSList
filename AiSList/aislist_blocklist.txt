@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29892
+! Total Channels: 29887
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4056,7 +4056,6 @@
 @HOAFallout-y3f
 @OvertheFence3
 @HOATALESSTORIES-w5y
-@Wątekpomysłu
 @PolicyHOA
 @HOAShocks
 @HOAUprising
@@ -8132,7 +8131,6 @@
 @SiwaSprawiedliwość
 @ChłodnaZemsta
 @EchaKroniki
-@RodzinnyRewanż
 @Opowieściżyciowe
 @ExcelsiorLife0
 @WW2Savage
@@ -13774,7 +13772,6 @@
 @TheAfricanFolktalesbySelah
 @SuperFolktaleStories
 @Ajntales
-@ZahrasFolktales
 @AfricanStorytelling-x5j
 @AfterDarkTalesbyBun
 @HeartWingStories
@@ -16744,7 +16741,6 @@
 @POVProxima
 @NeuralDrift27
 @reelifystudio
-@MiniHeroRescue06
 @AfricastoriesbyEsi
 @cozyfantasy_ai
 @aipandavlogs
@@ -24084,7 +24080,6 @@
 @musicworldlabel
 @dardkiawaaz-q7q
 @BossLoveDrama99
-@BàoNgưReview
 @UnderdogDrama-x3f
 @CubeTV-Official-Shorts
 @StardustTVapp
