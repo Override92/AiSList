@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30147
+! Total Channels: 30157
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30163,3 +30163,13 @@
 @LegendMangaReels
 @JY-KK24
 @shuaixin63
+@metricsmule
+@BookSounds1
+@%E6%BC%AB%E5%BD%B1%E6%B5%81%E5%85%89
+@XiaoliAnime
+@SweetTheater-m5b
+@DramaTV-vy
+@GirlsHeartShortDramaHall
+@AniTiger
+@states2050
+@%E7%AC%91%E7%AC%91%E7%9C%8B%E5%8A%87
