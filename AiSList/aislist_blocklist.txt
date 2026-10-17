@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30039
+! Total Channels: 30049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30055,3 +30055,13 @@
 @SummitDrama-123
 @RokiExplains
 @ghibligrandmaskitchen
+@MIADramaFimls
+@OffScriptDramas
+@ThomasAshfordCruiseTips
+@Ink-Story-2
+@SharonDawsonFlying
+@NewtyStory
+@StarryLoveDrama-s4k
+@reallifepovyt
+@MedievalSisters
+@Nightwindreels
