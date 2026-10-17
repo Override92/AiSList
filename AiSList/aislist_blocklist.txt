@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29895
+! Total Channels: 29898
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29911,3 +29911,6 @@
 @faithflix_studio
 @pintuv-00
 @christianmusicarena
+@spiritual_guideai
+@filip.c1
+@familytruthdiaries_1
