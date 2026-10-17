@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30127
+! Total Channels: 30137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30143,3 +30143,13 @@
 @HAiStudio08
 @BingoReels
 @%E5%BF%AB%E6%A8%82%E6%96%B0%E5%A4%A9%E5%9C%B0
+@DavidExplainsMoney
+@JY-KK20
+@GoDocumentaries
+@22-11-h5d
+@RayDonnellyCarSecrets
+@xiaolimanju
+@manhwaupdater
+@Mach_Wealth
+@linglongclub
+@VistaVerse-Drama
