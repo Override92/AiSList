@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30157
+! Total Channels: 30167
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30173,3 +30173,13 @@
 @AniTiger
 @states2050
 @%E7%AC%91%E7%AC%91%E7%9C%8B%E5%8A%87
+@Candydrama-d7z
+@DramaMuse-i7q
+@casual_economics
+@itsthatsimple_yt
+@StoryBitHub
+@GhibliDayss
+@neuralplay
+@EveDramaTV
+@tingfengying
+@FamilyLifeEnglish888
