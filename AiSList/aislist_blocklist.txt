@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29887
+! Total Channels: 29894
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29903,3 +29903,10 @@
 @jiyakapurfilms
 @HistoricalTS
 @innerase
+@%E5%B1%B1%E6%B0%B4%E7%A6%AA%E6%9B%B2
+@synthesia-io
+@ColdChain-j1h
+@legado-esquecido
+@TacticalGeniuss
+@THEBUGLEBUZZZ
+@TerrifyingMyths
