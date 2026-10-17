@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29961
+! Total Channels: 29970
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29977,3 +29977,12 @@
 @SecretSuccessHub
 @BasicAges
 @Bandetti
+@NetherLorestudio
+@RealHorrorStories-666
+@goldenhistory-n9h
+@XP-historiesmyths
+@RootsStories-p9n
+@Strawberitastories
+@mrbirdexplains
+@RomelinHistory
+@BayouPerduWays
