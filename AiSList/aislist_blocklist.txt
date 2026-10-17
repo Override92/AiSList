@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 29884
+! Total Channels: 29890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29900,3 +29900,9 @@
 @TearFlix05
 @techwith_nikhil
 @TeluguBibleStoriesAi
+@BabyAndPetAdventures
+@AI_iraan
+@AgelessStyle50s60s
+@ShortDrama-French-s2h
+@NunuDrama-r9y-z1v
+@MiaRecap_2695
