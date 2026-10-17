@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30204
+! Total Channels: 30199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11006,7 +11006,6 @@
 @FruMello-m5w
 @DreamSatisfyAI
 @Oddly-AI-26
-@AIbabybites-009
 @RisaafASMR461
 @AI-ASAMR13
 @fruitybabies3d
@@ -23202,7 +23201,6 @@
 @mafiastorytelling
 @UnderworldArchitect-f8p
 @dimkakrimka4090
-@lavenderstoriesthatheal
 @StoriesbyDanUK
 @Seoul-1207
 @DarkThrone-f9o
@@ -28770,7 +28768,6 @@
 @titoeneltiempo
 @TaleStorm-g7k
 @redactedhistory
-@StoicPathStories
 @munmuntvabcd
 @DeenKidsTV00
 @BalluMama_official
@@ -28795,7 +28792,6 @@
 @WorldStick1
 @ParliamentReckoning
 @MaximumGardenYield
-@TheEconomicSignal-ByAadii
 @TheNexReveal
 @LivingSelfSufficiently
 @UntamedRoots-h2k
@@ -28921,7 +28917,6 @@
 @ManhwaSam9
 @%E8%83%A1-y5e
 @RosaMejiaCooks
-@SanyaPersHorse
 @girlmanhwa
 @hogfell
 @BedtimeLorekeeper
