@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30914
+! Total Channels: 30924
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30930,3 +30930,13 @@
 @AncientBharatFiles-v6g
 @AmericaTopTalent-f6j
 @AmberMusicStudio
+@drAakash_Tatawat
+@PanchtatvaAi
+@SmartPaisa_AIOfficial
+@TheSanatanCinematics1
+@dhalpritam1
+@OrderOfLegends
+@UnlockMysti
+@gyanvigyanFacts
+@Daksh_Cinematics
+@KefAIStudio
