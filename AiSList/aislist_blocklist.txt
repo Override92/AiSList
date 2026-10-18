@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30212
+! Total Channels: 30217
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30228,3 +30228,8 @@
 @Betterway-channel
 @Babystory1m
 @DubaiUnfilteredYT
+@DreamCutEn
+@EarlKnowsHow00
+@IfverseTales
+@HonorWarriors-1
+@InternetEducation-cr
