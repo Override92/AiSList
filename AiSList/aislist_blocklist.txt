@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30248
+! Total Channels: 30258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30264,3 +30264,13 @@
 @PsychSignalHQ
 @SimplyDecoded-u4r
 @SharkManhwa250
+@SticklyVerse
+@The-Global-News-0w
+@StickWithMe-f6e
+@TechReportDE
+@YourManhwaRecap-p4g
+@Zyka-channel
+@wwefanpro
+@WatchTheWhySide
+@VyrmaMusic
+@thecardoomm
