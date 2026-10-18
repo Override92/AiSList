@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30581
+! Total Channels: 30590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30597,3 +30597,12 @@
 @WhisperStories999
 @whatifstoriesw
 @WesternRomanceStories-f9p
+@wealthpowerstories2002
+@WatchRevengeStories
+@WarfrontStories26
+@VioletRomanceStories
+@VerdictStories1
+@vennstories
+@VendettaStories9
+@VelvetRevengesStories
+@velvetdadstories5
