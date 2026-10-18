@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30400
+! Total Channels: 30409
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30416,3 +30416,12 @@
 @HavenStories9
 @HappyCatMedia
 @GrudgeBoxStories
+@grandpanedstories
+@GaslightStories-QC
+@GangsterCodeStories
+@GalacticStoriesHFY
+@FrontierLoveStories789
+@FreddieMercuryHiddenStories.2
+@FineStories-t7s
+@FatedMoonStories.01
+@familyrequestedreads
