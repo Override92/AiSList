@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30563
+! Total Channels: 30572
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30579,3 +30579,12 @@
 @StoriesFromWildWest
 @VaughanStories9909
 @VampireStories4
+@ValeStories3
+@ValdrenStories
+@Untoldstoriessantana
+@UntoldHumanStories-1
+@TrueTwistStories-w4r
+@UnseenOmegaStories
+@UnmaskedStories1M
+@TopHistoryStories
+@TonyLockeHFYStories
