@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30667
+! Total Channels: 30677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30683,3 +30683,13 @@
 @Limited.Stories02
 @OPStories17
 @SnailStoriess
+@SnappyStories_1
+@RedditStoriesTime711
+@ZeroBalanceStories
+@AnotherVisionStories
+@ZaginioneArchiwum
+@rnrtruestories
+@WWIIUntoldStories-yt
+@UntoldStoriesofWWII-x3x
+@ZipStories1
+@KashilifeStories
