@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30545
+! Total Channels: 30554
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30561,3 +30561,12 @@
 @SirGentlesStories
 @SilverSpurStories
 @ThePrinceofDarknessStories
+@TheFinalVerdictStories.1
+@TheExitClauseStories
+@TheDukesUntoldStories
+@the-stories-of-time
+@ThalricStories
+@TearsTriumph_Stories
+@SweetRevengeStories3
+@SVDramaStories
+@SuperHashiStories
