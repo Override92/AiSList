@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30258
+! Total Channels: 30268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30274,3 +30274,13 @@
 @WatchTheWhySide
 @VyrmaMusic
 @thecardoomm
+@TheCosmicMismatch
+@thesleeperlist
+@Bistendo1997
+@BareBones001
+@AtishAladel
+@ArcaneReddit
+@AI-SweetDrama
+@HeartthrobDramaK216
+@EverTwistDrama
+@endlessx1drama
