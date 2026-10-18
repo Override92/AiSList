@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30982
+! Total Channels: 30992
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30998,3 +30998,13 @@
 @lombardie-IA
 @SilentBeautyFantasy
 @UnifiedHeart-x3y
+@EchoSounds-Life
+@fantasymythica
+@SeraRabbitZoe
+@solutionbinaire9350
+@Kingdom-Incorporated
+@otaku_bobs
+@DreamzMachines
+@time1capsuleAi
+@FORGED_WORLDS
+@GeoHD26
