@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30687
+! Total Channels: 30697
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30703,3 +30703,13 @@
 @ViralFruitAI
 @FruityVerseASMR
 @CRRAZYAIFRUITS
+@SweerFruitsASMR
+@Baby.FruitASMR
+@FruitLoveIsland-71
+@FruityVillaShow
+@fruitloveisland8
+@Fruitloveisland0
+@tinyfruitbaby.2
+@BabyFruitDancing
+@Happyfruitsdrama
+@FruittVerse
