@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30188
+! Total Channels: 30187
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25143,7 +25143,6 @@
 @Ankoldodoytv
 @Benita_in_history
 @NesyaTravelVlog
-@HoorumvsHistory
 @AITimeVoyage39
 @Jackthinks515
 @cyborgcinemaai
