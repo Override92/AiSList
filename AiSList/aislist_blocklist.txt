@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30306
+! Total Channels: 30316
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30322,3 +30322,13 @@
 @RedditXenoWarriors
 @RedditRiderz
 @RedditStories-Meme
+@redditwatchs
+@reddithan.short22
+@cooperreddit
+@FamiliaReddit
+@HFYRedditStories1
+@iRedditforSleeping-u1m
+@jakesredditstories
+@MadhouseReddit
+@OPsRedditChaos
+@Reddit_Gossipz
