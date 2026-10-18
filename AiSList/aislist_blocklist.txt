@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30224
+! Total Channels: 30227
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30240,3 +30240,6 @@
 @KKAIKAN
 @FaunaCodeYT
 @EchoesOfValhallaz
+@everysongisascar
+@goldenear-t8s
+@GardenTheMexicanWay
