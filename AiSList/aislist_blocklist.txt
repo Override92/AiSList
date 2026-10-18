@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30268
+! Total Channels: 30270
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30284,3 +30284,5 @@
 @HeartthrobDramaK216
 @EverTwistDrama
 @endlessx1drama
+@EducationalDramaStories
+@AnciRomDrama
