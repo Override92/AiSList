@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30943
+! Total Channels: 30953
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30959,3 +30959,13 @@
 @weltenklangmusik
 @SeraphicEchoes_62
 @CrimsonChantry
+@adventuresendtavern
+@NatalyLekiashvili
+@MeiShengTechnology
+@ImaginedReality-w7l
+@Tune-Raider
+@HouseOfMarshallArtistry
+@WarriorOfTheWorld-u9h
+@phuocan2204
+@NatureNode2100
+@aiscififilms
