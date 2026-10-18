@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30190
+! Total Channels: 30185
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8539,7 +8539,6 @@
 @FactoFauna25
 @PamHealing
 @LoneRiderChronicles-CM
-@LovingDadStories
 @CrownApron-t8l
 @DeepTruth96
 @musestories3
@@ -29119,7 +29118,6 @@
 @Secretverse804
 @EnigMa_Void
 @forgotten_cars-j4o
-@VibeVision-f3k
 @Zhivayapriroda
 @DropGhostMusic
 @InterstellarDreams-w5g
@@ -29151,10 +29149,8 @@
 @Werewolf.Romance
 @KingWereWolf-o8j
 @JetlineJournal
-@JPBaseballZone
 @Goldbrokercom
 @Shred_AI
-@JapanAsItOnceTasted
 @NareshSamal-h8f
 @DriveDecide-q6v
 @JudgmentDay-b2v
@@ -29170,7 +29166,6 @@
 @CamelCrewRecords
 @Oryn-f5l
 @Zenn0009
-@Explain-Matics
 @MaddyMediaYT
 @DrCaveman168
 @NOTICIASILUSTRADAS
