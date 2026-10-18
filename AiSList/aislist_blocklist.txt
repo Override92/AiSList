@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30883
+! Total Channels: 30893
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30899,3 +30899,13 @@
 @RotFruitStories
 @T%C3%A0lizaRebi
 @TotallyAIStories
+@CatStoriesbyAI
+@Ai.MiniStories-26
+@StoryFusion-a1a
+@aistories8515
+@AiStoriesHindiTv1
+@HeartTaleAIStories
+@AIStories-b8c1k
+@Kalyani_Ai_Stories
+@Ai-stories1282
+@ShanzayKhan-i5q
