@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30873
+! Total Channels: 30883
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30889,3 +30889,13 @@
 @Cozyghiblitales-t2p
 @GaonkiRasoi-f
 @%E5%BF%83%E5%8B%95%E6%BC%AB%E6%98%A0%E5%9D%8A
+@TheAIDramaRealm
+@EliteDramaBox
+@Sgdramastories
+@StoryNovaAI-h7d
+@aistorydreams
+@LifeTales2026
+@GoldenAIStories-i8s
+@RotFruitStories
+@T%C3%A0lizaRebi
+@TotallyAIStories
