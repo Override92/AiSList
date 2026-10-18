@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30196
+! Total Channels: 30195
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19046,7 +19046,6 @@
 @hfyaircraftextra
 @FutureScapeHFY
 @Orcs_tales
-@mandy_hubtv
 @nyrarevengetales
 @politikgorillade
 @heroicanimalrescue-i8h
