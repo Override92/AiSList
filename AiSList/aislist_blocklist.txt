@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30734
+! Total Channels: 30743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30750,3 +30750,12 @@
 @SoundoftheMyths
 @cavemandelta
 @DieselMechMusic
+@LyzardGreen
+@MidnightDecay
+@Celesthyr
+@YourTolkienGuy
+@AIFRUIT-l9g
+@DragonfruitShortDramaStudio
+@FruitsAivideoMaker
+@Giant-Fruit-Story-World
+@latestfruits-j5f
