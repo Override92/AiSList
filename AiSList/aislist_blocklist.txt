@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30427
+! Total Channels: 30436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30443,3 +30443,12 @@
 @HerFamilyStories
 @HeartwarmingDadStories
 @heartstringsluvstories
+@HeartlandPorchStories
+@HeartJusticeStories86
+@MafiaBossRomanceStories-us
+@mafia_obsidianstories
+@LucasRevengeStories-y9b
+@LoveMazeStories666
+@LovedStoriesOfficial
+@LeonardoLoveStories-n1b
+@LennardSmith_
