@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30186
+! Total Channels: 30188
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30202,3 +30202,5 @@
 @ada-films2
 @possiblypencil
 @epicrealmmovies
+@bajrangbhakti-j1w
+@parentcarebrief
