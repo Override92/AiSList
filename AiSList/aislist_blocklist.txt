@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31004
+! Total Channels: 30999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4551,7 +4551,6 @@
 @syorldinvestsus
 @newonenooneee
 @fisicasinfronteras
-@watekpomyslu
 @tajemstvivesmiru2025
 @зеленыигектар
 @mindforge2568
@@ -25232,7 +25231,6 @@
 @heroaimarvel
 @aicadni
 @OfficialDogflixAI
-@AiMarvelCinematic
 @MarvelDCAIBot
 @MarvelAi25
 @MarvelAIStory96
@@ -27886,7 +27884,6 @@
 @geneiusaiaura
 @AI_BabyJunction
 @GiraffinatorProductions
-@SheruVerseAi
 @storywithai-j
 @Janani-r2f
 @Legacies-t3b
@@ -28080,7 +28077,6 @@
 @HIMXSOUL9
 @masteringAIVideo
 @NeoAICinema7
-@andrey.project
 @AIM-Creations-AI
 @ChampionsofOrigin
 @MamaWu-w5i
@@ -28208,7 +28204,6 @@
 @EdgeForAmerica
 @RevengeChapters-j8z
 @FinShift-i8s
-@DADSTORIES-y9w
 @OperatingLogic
 @QuantumUnsealedyt
 @NextGenProduction0
