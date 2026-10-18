@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30508
+! Total Channels: 30518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30524,3 +30524,13 @@
 @PhantomSyndicateStories
 @PinnacleStories-k4z
 @QuantumPrincessStories
+@SilverLionStories
+@SilkandHeartsStories
+@SilentMafiaStories
+@SilentCrownStories1
+@SilentConsequencesStories
+@ShatteredStories-Hn1
+@SecretumHistories
+@SecretPulseStories123
+@SecretCapoStories
+@SecretBillionStories
