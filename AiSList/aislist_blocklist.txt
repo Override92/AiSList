@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30382
+! Total Channels: 30391
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30398,3 +30398,12 @@
 @CrStories-w8h
 @CrownedPromiseStories-lmh
 @CrimsonMercyStories
+@factvoltstories
+@Eupherial
+@EpicStoriesByBee
+@EnglishNestStories-k6z
+@EndlessRevengeStories
+@EmotionalStorieslife
+@EmotionalStories-d6n
+@EllasRomanceStories-y7j
+@EliteAffairStories-55
