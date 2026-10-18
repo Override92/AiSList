@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30536
+! Total Channels: 30545
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30552,3 +30552,12 @@
 @SplinterStories
 @SoulStories-v
 @SoullineStories-b1c
+@SoulLiftStories01
+@Soul-Dad.Stories-TV
+@SoftSingleDadStories
+@SlumbertimeStoriesofHistory
+@SleeplessScientistStories
+@SkylineJusticeStories
+@SirGentlesStories
+@SilverSpurStories
+@ThePrinceofDarknessStories
