@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30594
+! Total Channels: 30604
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30610,3 +30610,13 @@
 @XSci-fiStories
 @WW2StoriesArchivee
 @WW2POWStories-yt
+@VelnixaStories
+@hiddenstories-k
+@CrackedStoriess
+@Wisdom_Stories_56
+@uniqueaurastories
+@Brooksspecial
+@AGH.STORIES
+@relicstories
+@JakeStories-7-7
+@HiddenStories-58
