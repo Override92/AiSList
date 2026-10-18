@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30340
+! Total Channels: 30349
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30356,3 +30356,12 @@
 @AndreStories26
 @BetrayedManStories
 @AuroraStories191
+@BittersweetStories88
+@CalmFatherStories
+@buffstories
+@BrokenVowsInfidelityStories
+@BrokenHeartStories-k8f
+@BrightHeartStories2.0
+@BraveDadStories
+@BrainrotStories-w6v
+@BodySwapAIStories
