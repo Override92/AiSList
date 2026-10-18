@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30455
+! Total Channels: 30464
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30471,3 +30471,12 @@
 @MoonCrownStories
 @MochiiStoriess
 @MillionaireLoveStories-q4n
+@MidnightRomanticStoriesUS
+@mekustories
+@MainStreetLoveStories
+@MafiaKingStories25
+@MafiaHeartStoriesRose
+@MafiaEmpireStories-p6g
+@MafiaDesireStories-n5h
+@NovelHavenRead
+@NorthstarStories-i2u
