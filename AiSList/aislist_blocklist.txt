@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30796
+! Total Channels: 30806
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30812,3 +30812,13 @@
 @SyntheticHearts-h1v
 @CEOEnamoradoTV
 @MussuStoriess
+@Ajeet-Stories
+@RoyalStoryverse-e9k
+@JusticeTales-j4p
+@TRISHAPAGE-1
+@Rootandtales
+@DonaldSolomonOfficial
+@Talesbysondrah1
+@NinoToonsOfficial
+@sundownstories
+@Flickai-7
