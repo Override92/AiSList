@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30205
+! Total Channels: 30212
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30221,3 +30221,10 @@
 @amisstaunen
 @Apefully
 @ArxxisDocs
+@BagholderAssociation
+@BasedAlgorithm
+@captaincipher7
+@ChillDudesStories
+@Betterway-channel
+@Babystory1m
+@DubaiUnfilteredYT
