@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30193
+! Total Channels: 30190
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10555,14 +10555,12 @@
 @もふまるん
 @insciaitrend
 @Mochi-Melty
-@SensoryTextureAI
 @AsmiAi-z2g
 @aisurreal1
 @Asmrforeveryone-afe
 @whisperedhearts-o5j
 @SajidAliYTWala
 @Nova_Relax
-@TinyBaby-ASMR
 @qafruityasmr
 @MeltyLoopASMR
 @MeltyAIASMR
@@ -21221,7 +21219,6 @@
 @ShrabaniNijhawan
 @LogicalMoney72
 @vanishedrooms
-@sumengyue
 @FantasyUniverse-z7p
 @dnasecrets01
 @Bille_Finance
