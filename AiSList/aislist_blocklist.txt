@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30490
+! Total Channels: 30499
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30506,3 +30506,12 @@
 @OldWestRomanceStories
 @OldWesternStories-n2r
 @OldLionStories
+@OfficeStories-r9h8f
+@OfficeRevengeStories-j1e
+@ObsidianStories7
+@NPXStories
+@RegencyStories
+@realdadstories55
+@RealBlackStories2
+@QuietSingleDadStoriesUS
+@QueenStories9908
