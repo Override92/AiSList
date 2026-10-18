@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30779
+! Total Channels: 30787
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30795,3 +30795,11 @@
 @TheK9Oath
 @MilitaryOutlaws
 @EchoVerseStories-f8h
+@FarmerValleyStories
+@PfotenvollerMut
+@Giantess_Verse
+@HumanityHFY10
+@EverydayLifeStories-f7s
+@Hofgeschichten
+@M%C3%BCttergeschichten
+@VeloraRomance
