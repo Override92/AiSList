@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30902
+! Total Channels: 30912
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30918,3 +30918,13 @@
 @TheGreatCommission5
 @VisualOrigins
 @diariodesue%C3%B1osia
+@HeartbeatStudioAI
+@TheDreamForgeFilms
+@WhispersoftheWest08
+@WhimsicalDaysStories
+@solshustudio
+@Lostcitiesofindia
+@andrew_permikin
+@AncientHeroines
+@AncientEgypt222
+@AncientBharatFiles-v6g
