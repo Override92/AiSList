@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30239
+! Total Channels: 30238
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21412,7 +21412,6 @@
 @suho-hka
 @animatetales192
 @BodySwapLab
-@aerisofficiel1
 @africansecrets_a
 @financeyard26
 @talesbymaliq
