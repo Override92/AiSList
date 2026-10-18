@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30953
+! Total Channels: 30962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30969,3 +30969,12 @@
 @phuocan2204
 @NatureNode2100
 @aiscififilms
+@ObscuraLabs9
+@aiinfinites
+@HouseDgholkus
+@STRANGELOVECREATIVESTUDIO
+@beyondthehiddenrealms
+@SiriusHeart
+@JerrickMadrigal-Sigma-INFJ
+@salahyymusic
+@NEUROPOPVERS
