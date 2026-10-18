@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30196
+! Total Channels: 30191
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18424,7 +18424,6 @@
 @SEALWarriors-v6h
 @theguardianprotocol7786
 @WillysAnimalWildlifeStories
-@BlackBeltValor
 @EmotionalJusticeVoices
 @SealHavenStories
 @NurseGraceJournal
@@ -20819,7 +20818,6 @@
 @aibiblenest100
 @NRAIBible
 @TheAIBible-ot2om
-@BIBLEAISTORY-l7l
 @BibleVisionAi-x2f
 @Jesus-international
 @EvidenceBibleAi
@@ -23523,7 +23521,6 @@
 @BlackWitnessAmerica
 @dailylifestory-107
 @LoveinLifeStories
-@ElioStories11
 @KiddoByte
 @hiddenchapters026
 @NaravaStory
@@ -24090,7 +24087,6 @@
 @CursedAndClaimed
 @DynastyNewsss
 @EmotionalRide
-@Endingnovel
 @Evening-Breeze-Theater
 @EverythingHarley
 @ExtraMike-b7m
@@ -29100,7 +29096,6 @@
 @RealExplainerVault
 @Shadowsof_War
 @DowbniaFilmworks
-@ForgottenFleetsWW2
 @VietnamWarUncoveredChannel
 @CharlesMorgan-d2b
 @셀찐픽
