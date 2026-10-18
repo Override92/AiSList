@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 30365
+! Total Channels: 30374
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30381,3 +30381,12 @@
 @CountryLoveStories-o1d
 @CowboyFiresideStories-s7q
 @crazypepperstories7796
+@CraftTvStory
+@CraftedstoriesbyT
+@CowboyNarration-cowboystories
+@CowboyLastTrailStories
+@CrimsonDonStories9
+@DukeRomanceStories-o9q
+@DreamyStories999
+@dragonworldstories
+@dragonstoriesbymarcus
