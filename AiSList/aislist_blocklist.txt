@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31015
+! Total Channels: 31014
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7184,7 +7184,6 @@
 @PaintedThrone
 @TheRisingMindTales-l4q
 @ProjectOceanuso
-@JapaneseCarSecrets
 @VintageEchoRadio
 @GoldieGains
 @leoknight4842
@@ -11343,7 +11342,6 @@
 @KARENSSTORY-d5t
 @Screenstoryxplain
 @JohnGotClipped
-@Nikki_Cody
 @MasterBot-69
 @Onkelunc
 @EproductsEmpireAISystems
@@ -14675,7 +14673,6 @@
 @jesuswords-w7e
 @GodSignalToday
 @MourningMuse-k3y
-@CountryRockGospel-f5y
 @JesusWalksWithUsOfficial
 @DivineWarStories
 @WarriorsofChristCinematic
@@ -31031,3 +31028,5 @@
 @TrueFlicks369
 @TheBrightTales0
 @silveroakfamilystories
+@dudzzz69
+@parbejytai
