@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31621
+! Total Channels: 31631
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31637,3 +31637,13 @@
 @AlphaKingTalesLibraryOfficial
 @koreanromancetales
 @TheGigachadTales
+@Buzzzoretales
+@FolktalesbyCynthia
+@Turuchitales
+@UnbrokenBlackTales
+@OrcWeddedwTales
+@SoulboundTales1337
+@AlphaEmpireTales
+@Lovethrevengetales
+@TimelessTalesAudio0
+@LGBTTALES
