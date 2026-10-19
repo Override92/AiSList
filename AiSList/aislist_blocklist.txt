@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32293
+! Total Channels: 32295
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16852,7 +16852,6 @@
 @SmileAnimationWorld_9
 @Aiwander-7
 @AIFuzzyMoments
-@ai.atmaxx
 @DeltaExplores
 @tiky_ai
 @TheAILab-t8w
@@ -32309,3 +32308,6 @@
 @NokoiRecap
 @NobleTalesYT
 @PersianFocusTemple
+@chahal.1414
+@anmollgeet
+@casualaustin
