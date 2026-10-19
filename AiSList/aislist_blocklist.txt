@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31044
+! Total Channels: 31039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7006,7 +7006,6 @@
 @US.NewsReport
 @ShadowCamping-y3p
 @valhalla-drums
-@TheSharpDressedGent
 @TheProductCritiques
 @PaintowyNauczyciel
 @justmemoryvision
@@ -7167,7 +7166,6 @@
 @ColorMyth
 @Honmooon
 @JiangIntel
-@Im-an-Eighties-Baby
 @tapesgmod
 @TechVisionUSAOfficial
 @shivsahu6939
@@ -7220,7 +7218,6 @@
 @AdamAdam-xo4zi
 @Anna_Backstage
 @AiHistoryMan-w7k
-@MoneyBehindhistory55
 @AfterMidnightStudio
 @JohnAGCrisis
 @BlackMemoriesYT
@@ -10273,7 +10270,6 @@
 @manhwapast
 @cdlgeneralknowledge
 @antversetv
-@truemilitaryshow
 @megaproduccion7353
 @anatolianspacesociety
 @dr.davidharris
@@ -15887,7 +15883,6 @@
 @kingqorane8
 @LaughLoop-m6l
 @nocamfc
-@Professor_Explainer09
 @DianeInputs
 @flipflipflip_ai
 @chosenOneenergy-z6q
