@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31544
+! Total Channels: 31552
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31560,3 +31560,11 @@
 @TimelessTales-by-Dan
 @WarhammerMatt
 @ImaraTales
+@UncleSamAfricanFolktales
+@MidnightBLTales-q1s
+@TheAnimalPerson
+@FolktaleSparkLandTV
+@TheKindnessRoad
+@AfricanTalesByHeart
+@EarthRebornHFY
+@AfroKoreanStoryDramaTales
