@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32290
+! Total Channels: 32289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17161,7 +17161,6 @@
 @红红漫剧
 @NoahDrama9
 @Bonzo-f3x
-@abandonedtoexperience
 @сонныиархив
 @fortunesarchitects
 @sleepytimehistorianyt
