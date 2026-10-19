@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31195
+! Total Channels: 31205
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31211,3 +31211,13 @@
 @ToxicOfficeTalesx
 @FrenchLearningTales
 @MafiaSecretTales
+@TalesoftheWildWest-c8s
+@tales_of_the_sun
+@Unfinishedtales12345
+@BrokenTrustTales-p4h
+@BabyFolktalesTVBabyFolktal-m5z
+@irokoAfricanFolktales
+@Grandrichfolktales
+@BaobabTales-r3i
+@JudgeVerdictTales
+@TalesOfMythAndLegend
