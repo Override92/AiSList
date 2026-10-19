@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31508
+! Total Channels: 31517
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31524,3 +31524,12 @@
 @FlueTv0
 @WildWestTales-g5b
 @taleconomics
+@StarWarsLostTales
+@hungerwise
+@KuyaJacobTales
+@Cowball44
+@TeddyTales-no.1
+@factomnii
+@BanyanTales1997
+@Qurioo.1
+@mamachichitales
