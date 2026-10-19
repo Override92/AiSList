@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31478
+! Total Channels: 31488
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31494,3 +31494,13 @@
 @melodio_brando
 @AFRICANFOLKTALESBYKAYLIE
 @3mpowerU
+@OrcDevotionTales
+@SideQuestYT
+@ShishisTales
+@ORCBOUNDFATE
+@BetrayalTales-b6f
+@OopsLegacy
+@SoftBrokenTales
+@DoodleDollars-c1s
+@Alex_Tales-Of-Ancient-Egypt
+@ManhwaCoconut
