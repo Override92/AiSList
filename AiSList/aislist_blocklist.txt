@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32283
+! Total Channels: 32278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3114,14 +3114,11 @@
 @WW2Echoes09
 @TODAYSTORIES6t
 @WarRecalled
-@BAYANWATCHS
 @IndependentFinancialHistorian
 @TheSilverThesis
 @TheHiddenEconomyTV
-@Macrosignallive
 @CapitalKeyy
 @Financial-reviews
-@FinanceFrontierLab-t2c
 @WarandSecretFiles
 @precisionx-l8k
 @THE-EmpireCycles
@@ -3220,7 +3217,6 @@
 @EvangelioProhibido
 @ForerunnerArchive
 @psychronix-b8e
-@MoneyCovered31
 @ElPoderdelaPalabra-biblia
 @DailyNYCReporter
 @thesurrealmind
@@ -29168,7 +29164,6 @@
 @EverythingRAM88
 @AmericanEngineLab
 @ReliaTruck
-@OmarsTalkShow
 @therealcartogo
 @MuscleWrenchInsider
 @EthanIndustrial
