@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31000
+! Total Channels: 30995
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7950,7 +7950,6 @@
 @Shadowsofwar-n1z
 @CelebrityNews123-c9d
 @CRECEmotivacion
-@NewsGalaxy-i
 @WolfWealthInsights
 @HALE-j5h6b
 @TitanChord
@@ -24114,7 +24113,6 @@
 @Kahanitime-p5j
 @ainarainaction
 @propertylinestoriestv
-@AiMastiDrama
 @Aidhamaka_123
 @Filmy-Rhythms
 @KoenigderDramen
@@ -25513,7 +25511,6 @@
 @marvelinai
 @AiStudiosTamil
 @aimovietrailer007
-@TinyStarsAIFactory
 @WarcraftMoviesAI
 @AIStoryverse_3d
 @ai.cinematic.universe1
@@ -26009,7 +26006,6 @@
 @argacinema
 @ItsHiddenConstructions
 @FinanceHarbor-m8c
-@Gigglewithsora
 @AloGobiAIToons
 @ritual_archive
 @Musicanku
@@ -26117,7 +26113,6 @@
 @a_creates_2.0
 @Foodieeeaiii
 @CosmicMinds1
-@CanadaWarPrime
 @ImaginativePrompting
 @GOODTIMERADIO79
 @dndistb
