@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31488
+! Total Channels: 31498
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31504,3 +31504,13 @@
 @DoodleDollars-c1s
 @Alex_Tales-Of-Ancient-Egypt
 @ManhwaCoconut
+@Smilezfolktales
+@SupernovaYTT
+@WonderTalesforKids06
+@Bestorytales
+@Mekwesfolktales
+@MR_WHAAAT
+@Westeros_Tales
+@phuonghuynh813
+@WesternStoriesandTales
+@ravespecter
