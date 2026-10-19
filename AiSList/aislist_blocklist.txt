@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32272
+! Total Channels: 32267
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3725,7 +3725,6 @@
 @MARKETHISTORY-k7p
 @Prosper_Path_1
 @BoringCurrencyLive
-@JohnAG-j8k
 @financialjohn
 @MétodoWarrenBuffett
 @WolffEconómicoAnálisisFan1
@@ -3733,7 +3732,6 @@
 @modomillonarioesp
 @AudiolibrosDelSaber
 @capitalhistóricoo
-@expedienteabierto-g4y
 @ElLegadoCarmesí
 @GinecoSimple
 @ExploradoresdeHistoria-h5n
@@ -29199,7 +29197,6 @@
 @MystralTV
 @TheOldLibrarian-j1w
 @mythxhunter
-@GregKnowsAll
 @BuddhasWizdom
 @Presence-Purpose
 @MythologyMeetsHistory
@@ -29220,13 +29217,11 @@
 @MythicalArcana
 @dreamofolympus
 @FragmentsofHistory01
-@tolkiensshadowlore
 @dark_night_tales
 @FoolofaTube
 @DiamondWarriorJP
 @UntoldHistoryYT
 @ShadowHistory-h8d
-@TemplarTales_Admin1
 @RoyalVeins-w7w
 @PsyBeyond
 @GalacticGabeTV
