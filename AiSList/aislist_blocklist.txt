@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31527
+! Total Channels: 31535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31543,3 +31543,11 @@
 @PerchGuide
 @DestinyRomanceTales
 @GunsLab1
+@TalesbyID
+@MafiaLoveTales-b6y
+@TalesofTolkien-j5i
+@MysticNusantaraWave
+@MoonlightTalesByJaney
+@Dyferno
+@D_Heartthread_Tales
+@HisStoryCompilations
