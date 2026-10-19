@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32264
+! Total Channels: 32259
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29374,7 +29374,6 @@
 @BuddhismInsight7
 @buddhismprevails
 @BuddhasEternalWisdom
-@wisdomwovenn
 @Buddhismmflow
 @BuddhistWisdom-Mindfulness
 @PathofInnerWisdom
@@ -29390,7 +29389,6 @@
 @MariRuiz-u7u
 @TheFaithSpark
 @sycsoul.1
-@DieStimmedesVolkesHeute-z2t
 @WalkingWithFather
 @Seedsofpurity
 @TruthintheWordUS
@@ -29402,7 +29400,6 @@
 @QuietWisdom01
 @BuddhaMotivation-inEnglish
 @SilentWisdomTemple
-@DailyBuddhismLight
 @middleway.buddhism
 @amonkstory
 @TaoTemple-official
@@ -29439,7 +29436,6 @@
 @theopeningproject
 @OmegaPointDoc
 @CarlSaganPhysics
-@aruntachai2458
 @cosmicexplorer-EN
 @HermeticAscent
 @BeyondMind-BM
@@ -29473,7 +29469,6 @@
 @PassedEchoes
 @Historia-lf6
 @Thefiscalhistorianus
-@Charliesstoryww
 @WW2AlliedFrontlines
 @MilitaryBlueprint
 @TheCompanyMethod
