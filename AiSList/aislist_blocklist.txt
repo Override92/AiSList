@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31059
+! Total Channels: 31069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31075,3 +31075,13 @@
 @DrCapital76
 @RozozeFashion
 @DEDCcard
+@BookSeller90
+@IAMCAVEMANBRAIN
+@Mr.Business.Cash_228
+@patientledger
+@CodeBlame
+@EconomySketchOfficial
+@MindtoMoney22
+@jerry_podcast
+@FinanceWithMetthew
+@ChemistryWithPharmacist
