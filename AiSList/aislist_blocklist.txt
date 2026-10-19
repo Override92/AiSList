@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32067
+! Total Channels: 32077
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32083,3 +32083,13 @@
 @BL-Moonverse-Tales
 @Globalarcanatales
 @OmegaBondTales
+@FrontierCampfireTales
+@darkwerewolftalesUS
+@MTTales-z8p
+@Folktaleswithemmy
+@TrueDestinyTales
+@MafiaLoveTaless
+@WesternTales-u1s
+@Twistedtales-l5w
+@kingdomtunesandtales
+@MafiaBosTales
