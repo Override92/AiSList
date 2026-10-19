@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32267
+! Total Channels: 32262
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29225,7 +29225,6 @@
 @RoyalVeins-w7w
 @PsyBeyond
 @GalacticGabeTV
-@visualchristian1
 @faithmadeclear1
 @scripturemadeplain-o5m
 @BibleUncoveredbyalex
@@ -29289,8 +29288,6 @@
 @ThePovbro
 @TimeTravellingGuy
 @TheImaginePOV
-@Shadow-POV111
-@OneTwoThree-r5b
 @history_archives-mhn
 @centerforcuriosity
 @BrofessorLee
@@ -29339,7 +29336,6 @@
 @PsycheCodexYT
 @TheAwakenedBeliever
 @SimplePsyche1
-@CasThorne-CT
 @Tee-Psychology
 @MindfulRageTV
 @MindCovee
@@ -29351,7 +29347,6 @@
 @rationalraymond
 @PsychologyTalks-l2l
 @thinkingshelflab
-@Cole_Nexus
 @TheCoreTechReport
 @Mythoria-g4b
 @drglobechannel
