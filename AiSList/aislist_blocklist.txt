@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32017
+! Total Channels: 32027
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32033,3 +32033,13 @@
 @MidnightTales-r3b
 @talesbyzuzi
 @TitanTalesYTT
+@MimiDreamTales
+@TheCalmBlackTales
+@DreamyFairyTalesStories
+@talesbydel
+@TalesBeyondEarthOfficial
+@talesbynayabofficial
+@WESTHEARTTALES122
+@Tales_of_the_Ring
+@MidnightGroveTales
+@TalesFromOrc
