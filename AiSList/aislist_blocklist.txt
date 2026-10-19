@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31005
+! Total Channels: 31014
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31021,3 +31021,12 @@
 @AI_World-146
 @BarryExplains0
 @catwolfai
+@ChillPovGuyTV
+@CineShonenIA
+@cityframesco
+@ClickFlixHub
+@Zyvoraa.1
+@YourMoneyPOV
+@Told.History
+@TrueFlicks369
+@TheBrightTales0
