@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32262
+! Total Channels: 32264
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29302,7 +29302,7 @@
 @ThenFolk
 @PerspectivePast
 @rune61
-@VedaOfficialHQ
+@rankingguyreai
 @ProfesorFauna
 @MindfulPawsPsychology
 @Cognipaws
@@ -32278,3 +32278,5 @@
 @thefootballcenteryt
 @apnavideohub-bs
 @bngzoo
+@fidesvivaen
+@luciandiscovery
