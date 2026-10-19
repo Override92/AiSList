@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31938
+! Total Channels: 31947
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31954,3 +31954,12 @@
 @TalesfromtheFrontier40
 @AfricanfolktalesPrincess-v1g
 @DarkAfrican_Tales
+@plots_tales
+@FolktalesAyra
+@WhisperingTalesNg
+@LilyAfroKoreanMafiaTales
+@TalesByNiffy
+@TalesBeyond001
+@SleepyAmericaTales
+@BLissfulTalesBL
+@SomeWesternTales
