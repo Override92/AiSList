@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31034
+! Total Channels: 31044
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31050,3 +31050,13 @@
 @DrzInvest
 @worldtechnoinfo
 @wealthdialectofficial
+@justvideoai
+@DollarQuorivest
+@PaperEmpires-official
+@ChitchatFinance
+@Mr.ponzifraudfile
+@ApexWealthAmerica
+@EconInPlainSight
+@prashantparab2525
+@POVore
+@GlobalPolicyWatch12
