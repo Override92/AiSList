@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31840
+! Total Channels: 31850
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31856,3 +31856,13 @@
 @CowboyTales-x2m
 @mickystales
 @BabaFolktales
+@SleepyHistoryTales-v3i
+@MidnightAfricanFolktales
+@AfricanTalesTodayy
+@GOODYTALES-j8c
+@DivineTales_1a
+@AfroK_Drama_Tales-e2n
+@TalesbyLahde
+@Folktalesbyfati
+@percytales
+@PShortsTales
