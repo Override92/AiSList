@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32278
+! Total Channels: 32277
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15933,7 +15933,6 @@
 @AfricanStoriesRetold
 @dreamstatic26enyafanmade
 @fatemstoreovira
-@heartfeltcuts888
 @lorenzoarens
 @AikoKarate
 @aikosdiaryofficial
@@ -28234,7 +28233,6 @@
 @czverse0x0
 @theframedaily
 @orbitcapitalfinance
-@TLDRLab
 @EasyNomicss
 @ExplainerTvChannel
 @wealthvibe-100M
@@ -32294,3 +32292,4 @@
 @anmollgeet
 @casualaustin
 @hdksong
+@thefootballcenteryt
