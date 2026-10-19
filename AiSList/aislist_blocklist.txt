@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 31879
+! Total Channels: 31878
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -493,7 +493,6 @@
 @aidog202
 @aianimationstories-z2s
 @aidogtiles
-@dogeshbhai99
 @aidogwoof
 @aipuppystoryes
 @sibuaistory
@@ -587,7 +586,6 @@
 @secretai3
 @aicartoon769
 @earthai2
-@mindclips.official
 @short_worldai
 @gammacrews
 @cartoonwalastudio
@@ -31895,3 +31893,4 @@
 @DarkTalesUniverse09
 @RootsTales-r9k
 @BloodMoonRomanceTales
+@crocunknown
