@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32290
+! Total Channels: 32293
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32306,3 +32306,6 @@
 @Nostalgic.DarkAcademia
 @NORDVAR
 @NordheimMelodies
+@NokoiRecap
+@NobleTalesYT
+@PersianFocusTemple
