@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32284
+! Total Channels: 32283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15937,7 +15937,6 @@
 @AfricanStoriesRetold
 @dreamstatic26enyafanmade
 @fatemstoreovira
-@theownershipyt
 @heartfeltcuts888
 @lorenzoarens
 @AikoKarate
@@ -17597,7 +17596,6 @@
 @HiddenDossiersYT
 @Elitopolis
 @brewmood.playlists
-@Disasters_USA_Official
 @InfoZing-p
 @DingoDicaprio
 @Underdad-1
@@ -32300,3 +32298,4 @@
 @chahal.1414
 @anmollgeet
 @casualaustin
+@hdksong
