@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32027
+! Total Channels: 32037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32043,3 +32043,13 @@
 @Tales_of_the_Ring
 @MidnightGroveTales
 @TalesFromOrc
+@Afroseoultales123
+@Africantales201
+@echofiretales
+@HFYSci-FiTales7
+@HorsebackTales-u6b
+@AfricanTalesbyNadia
+@Africanfolktalesbyudju
+@BrokenHeartsTales2
+@HeartKindnessTales
+@LavitaTales
