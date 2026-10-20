@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32567
+! Total Channels: 32571
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32583,3 +32583,7 @@
 @theories.beforesleep
 @CanadaExposed-e9s
 @EverythingFenderUS
+@Al_ice21
+@MilitaryDominion
+@NaoTalks40K
+@MilitaryBaseOfficial
