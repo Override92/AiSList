@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33370
+! Total Channels: 33379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33386,3 +33386,12 @@
 @LoneWolfUniverseAI
 @Echoes-of-the-Highlands
 @SilentWarden7
+@vallhalatunes
+@madelinemusicfactory
+@SongOfEgypt
+@Narrative-Nights
+@vienrose92
+@ZaynixViking
+@GavelKarmaChronicles
+@NestioMate
+@SkaldurOff
