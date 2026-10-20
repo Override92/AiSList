@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33191
+! Total Channels: 33200
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33207,3 +33207,12 @@
 @ItWasAI
 @JS-NovaDrama
 @Kaye.creates
+@Matio_tv
+@mindovermen-usa
+@mobarchivee
+@monshinka
+@MoviesWithJackie
+@MrDaddyStories
+@ObasuyiStudios
+@oddlyelswhere
+@PastInInkHistory
