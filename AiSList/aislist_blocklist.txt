@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32516
+! Total Channels: 32525
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32532,3 +32532,12 @@
 @AlphakingClassicStorytime
 @TorisWolfFantasies
 @MidnightRomance_Tales
+@FatedAlphaStories
+@TheIronAlphaKing
+@NoNamestory-p8n
+@GalaxysSci-Fi
+@RosysSecretCourt
+@Pandatalestory
+@BoundtotheQueen
+@OrcThornChronicles
+@MoonfireRomance
