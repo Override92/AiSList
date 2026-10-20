@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33050
+! Total Channels: 33045
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5541,7 +5541,6 @@
 @TheHOAFiles-e5b
 @KarenConfessionsYT
 @HOAExposer
-@HOAKarenStories-m5d
 @HOABackfired-u6x
 @HOA.FilesStories
 @HOADramasYT
@@ -10319,7 +10318,6 @@
 @chu5minecraft2026
 @fifafan009
 @cyrenofc
-@roastingpodcast
 @RhythmDistrict-s8g
 @Toon_Beats-e6c
 @AurixTunes
@@ -14898,7 +14896,6 @@
 @HistoryWalls-k7k
 @CryptoMillionairesHD
 @MacroIntelligenceHub
-@AlphaWealthSociety
 @newharborfinancial
 @ArgentinaVintage
 @realfacadify
@@ -17916,7 +17913,6 @@
 @AICooking-e1g
 @VISUALIZEAISERVICES
 @ShadowCrown-k4o
-@zyroverse.studio
 @MP_Novels
 @SableThroneUS
 @VisãoBalística
@@ -17931,7 +17927,6 @@
 @TheBoringRichCo
 @DeadsteadSurvivalTales
 @TomTalksMoney2k
-@UltimateRevenge-u6n
 @BritishTruthReport
 @PlatinumDiaries
 @EmmanBLDiary
