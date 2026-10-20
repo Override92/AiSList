@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32732
+! Total Channels: 32727
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4235,7 +4235,6 @@
 @sleepyhistoriantonigh
 @MilenaWiseAdvice
 @BeforeItsTooLate-Official
-@vkui-r6r
 @WISECAST_P
 @PureLoveTale
 @GeorgiaWiseAdvice
@@ -4447,7 +4446,6 @@
 @TheBrainrotHQ
 @WeirdAnoma
 @AInime-y27
-@SinbadRescue
 @Pixel_tm_
 @TralaleloSahur
 @HiddenLifeStories2025
@@ -5495,7 +5493,6 @@
 @ShadowSelfRevealed
 @therealeconomy9
 @The-Capital-Desk
-@johnag-r3d
 @YourJohnAGYT
 @YourJohnRO
 @ProfitMindset-r6h
@@ -7933,7 +7930,6 @@
 @mrpsychologytalks001
 @AllFactoryItems
 @VertexProcess
-@FactoryProcessHub-x1r
 @InsideFactoryWalls
 @FactoryUnfolded
 @k_s_vaja_gaming
@@ -18561,7 +18557,6 @@
 @gachastories17
 @bocadosx
 @kiniqotalks
-@Web3Outpost
 @ShrimpPopTheater
 @MemoriesofEdowithKenji
 @JustanotherstoryyYT
