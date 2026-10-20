@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32870
+! Total Channels: 32873
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32886,3 +32886,6 @@
 @HFYVault-b1l
 @HumanDragonHFY
 @THEHFYSIGNAL
+@KingdomofLoveHFY
+@RescueOperationGalaxyHFY
+@DarkGalaxyHFY
