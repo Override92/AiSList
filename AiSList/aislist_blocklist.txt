@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32469
+! Total Channels: 32478
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32485,3 +32485,12 @@
 @GentleSoulsMasks
 @MoonlitFatedWhispers
 @cinerecap-cusc
+@GOGODRAMA-x3d
+@MoonRomanceDiaries
+@RomanticLore
+@englandbeforenow
+@ghislainkouassi-x4t
+@MOONIRON-n3i
+@EternalHumanSpirite5m
+@Arielladukeromancelibrary
+@GalacticHumanStories_V7
