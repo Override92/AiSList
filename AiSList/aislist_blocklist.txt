@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33216
+! Total Channels: 33225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33232,3 +33232,12 @@
 @HackTheMexicanWay
 @TheMexicanMothersBible
 @BerthaCleanHome
+@BerthaSister
+@OtisCleanHome
+@MarlenesCleaning
+@99fromscartch
+@TheCarLocker
+@ProcessingAuditor
+@DaleKowalskiCars
+@Cartridge-Graveyard
+@arcaneapothecary
