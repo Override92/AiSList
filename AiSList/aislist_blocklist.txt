@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33118
+! Total Channels: 33127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33134,3 +33134,12 @@
 @RelaxingJazzRhythms94
 @Veyra_Viking
 @DarkRiseTemple
+@SlashBennettOfficial
+@oltsevart
+@EmmaCollins-oficial
+@EstateRevive22
+@moonlunarcinematic
+@Awareness77
+@KhalanStudio
+@julianasmoonlightlibrary
+@TheDarkCountryWestMusic
