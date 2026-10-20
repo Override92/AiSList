@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33006
+! Total Channels: 33009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33022,3 +33022,6 @@
 @AiMusicWorld-o6s
 @aistorytoolAI
 @HeritonINC
+@SavageBloodlineFiction
+@LostArchivesFiction
+@FictionZelora
