@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33064
+! Total Channels: 33073
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33080,3 +33080,12 @@
 @NorthwindChants
 @QueensBeyondStars
 @FantasyEra9
+@Runar_Heather
+@DragonkindRising
+@HQ-95-OPS
+@SacredAtlasFrequencies
+@Hexwave36
+@92MMfour
+@VikingLoreBeats
+@GentleJazzHaven
+@Steinhald
