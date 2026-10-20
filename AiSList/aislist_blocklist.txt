@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33009
+! Total Channels: 33015
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33025,3 +33025,9 @@
 @SavageBloodlineFiction
 @LostArchivesFiction
 @FictionZelora
+@JudgeHarlanCourtroom
+@HeatFiction
+@VoicesAvalon
+@RioNReedus
+@WarhammerInit
+@Yarnhub
