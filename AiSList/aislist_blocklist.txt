@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33379
+! Total Channels: 33388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33395,3 +33395,12 @@
 @GavelKarmaChronicles
 @NestioMate
 @SkaldurOff
+@EchoesOfNimrodel
+@kushkushnir
+@pappyschannel
+@surreal.symphony
+@pixo_vibes
+@SharedWaves
+@Cleorose-s5v
+@CrownAndEmbers
+@FROSTHEIM-o7u
