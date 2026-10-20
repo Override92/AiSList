@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33316
+! Total Channels: 33325
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33332,3 +33332,12 @@
 @mbah_ai-h6e
 @japaneseparentingway
 @machiwisdom
+@VOXENDASOUNDS
+@AislingFolk
+@TheSungjiun
+@Roculan
+@NORSEFIRERAP
+@Rhythms_of_the_North
+@DuetVikingMusic
+@Luck4everAlone
+@Ananellys
