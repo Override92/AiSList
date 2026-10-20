@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33055
+! Total Channels: 33064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33071,3 +33071,12 @@
 @TinhPhamTan
 @FutureSpaceIndustry
 @RachelStarkidGleek01
+@official.musicREBORN
+@DukeLagendsExtra
+@WelvetManorRomance
+@AlphaKingProtocols
+@LostHidden234d
+@FateMateUniverse
+@NorthwindChants
+@QueensBeyondStars
+@FantasyEra9
