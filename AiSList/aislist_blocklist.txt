@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33300
+! Total Channels: 33304
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33316,3 +33316,7 @@
 @Kenjisgarage
 @GeneGarageSecrets
 @MickLawsonsGarage
+@JamesWhitmoreGarage
+@GaragePsychology
+@dannytfilm
+@FREYVRA
