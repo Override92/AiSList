@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33172
+! Total Channels: 33182
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33188,3 +33188,13 @@
 @Cozy-Warm-Life
 @Cozycorneranimation6
 @cozynesttt8
+@CurioCloisterFilms
+@CYBORN-Q
+@DaisyHill-m7v
+@DanaSuperStar-t4s
+@Dark-Motions-House
+@DarkKnight-v8g
+@DatesThroughHistory
+@DustandMemory
+@Freyd%C3%ADs_Nordic_Music
+@game_value
