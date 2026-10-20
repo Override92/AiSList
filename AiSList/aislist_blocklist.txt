@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33252
+! Total Channels: 33262
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33268,3 +33268,13 @@
 @oldercarrey
 @DonCarter-g5m
 @The-Navalyst
+@JetHubChannel
+@BuriedSignalYT
+@DaniCareers
+@FocusMusic365
+@GarrysLawn
+@FoodExplorer.channel
+@GaryWhitlockcar
+@AussieCarExpert
+@cartermillsshow
+@FantasticArchitecture
