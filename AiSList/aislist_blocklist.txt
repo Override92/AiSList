@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32337
+! Total Channels: 32345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32353,3 +32353,11 @@
 @InNomineSatanas
 @VelvetHearts-w7l
 @H%C3%A9roeLegendario-r1t
+@madeordinary-y2u
+@EVOLNEX1
+@FactoryInsightHub97
+@IndustrialFood
+@ConstructaLab
+@truthdailyhub
+@Didyouknow-seanandraya
+@MagicCartoon1291
