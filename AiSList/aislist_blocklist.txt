@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32308
+! Total Channels: 32315
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32324,3 +32324,10 @@
 @WW2BritishLegends
 @OfftheRecordTravel
 @ofm_shorts
+@BitsandBytesUnpacked
+@BoxingEmpireLong
+@MercantiaStories
+@LootQuirk
+@OppaRecap-t7c
+@PsyopAnime
+@SleepyScienceMysteries-n5d
