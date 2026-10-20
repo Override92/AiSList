@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33025
+! Total Channels: 33032
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33041,3 +33041,10 @@
 @TeutonicRituals
 @Ulfrheim
 @BibliaVivayoutube
+@MafiaBossTales-t7h
+@AIIRIEFM
+@LuxeTales.1
+@TooReal_Studio
+@LadesTales
+@WronglyAssumed
+@KarmaTales35
