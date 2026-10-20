@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33352
+! Total Channels: 33361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33368,3 +33368,12 @@
 @Barrietvstudio
 @DailyLoveChroniclesTV
 @moonlitalphastory
+@SomniumAi-u2r
+@WhereRavensFall
+@Dal-E-Sounds
+@OphyLara
+@SaltTimber
+@VikingsCry
+@Morvainx
+@Allfather-oftheNorth
+@Contarhistoriasinteresante-s3l
