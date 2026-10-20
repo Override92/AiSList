@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33304
+! Total Channels: 33314
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33320,3 +33320,13 @@
 @GaragePsychology
 @dannytfilm
 @FREYVRA
+@TimeBridge-Films
+@Apothis1
+@RJCMProductionsOfficial
+@Mysteriesbeyondreality
+@loreofarda
+@IANeuralHarmony
+@DanielOfAncientDays
+@soulofthevikings
+@UbuntuSpirit-z3h
+@RunebornMusic
