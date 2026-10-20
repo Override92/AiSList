@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33051
+! Total Channels: 33054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33067,3 +33067,6 @@
 @FrontierLoveTales-o6b
 @GalacticHeroTales
 @FamilyTales-o8m
+@TheNordicVoid
+@nordicwarsongs
+@QuantumAwarenessNew
