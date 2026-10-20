@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32506
+! Total Channels: 32516
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32522,3 +32522,13 @@
 @ObsessiveMafiaLoveStories
 @Seoulsoulafrostories01
 @TheMafiaArchives1
+@AncientDrama-t4n
+@VampireRomanceCrib
+@NyroFlame01
+@TalesOfOrcsAndHumans
+@DukesDuchesses
+@IrisMafiaRomance
+@RealDukeStories-480
+@AlphakingClassicStorytime
+@TorisWolfFantasies
+@MidnightRomance_Tales
