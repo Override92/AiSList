@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32910
+! Total Channels: 32912
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32926,3 +32926,5 @@
 @TerranDominionHFY
 @TerranDoctrineHFY-s7z
 @MementoHumaniHFY
+@IronResolveHFY
+@DeathworldersHFY
