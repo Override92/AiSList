@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32571
+! Total Channels: 32570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4351,7 +4351,6 @@
 @authenticone-w2t
 @BeyondBoringCurrency-l7z
 @CryptocurrencyandWeb32025
-@HarringtonSilverReport
 @PropenomAIx
 @PsyDubMusic
 @DeepFocusGroove-e2w
