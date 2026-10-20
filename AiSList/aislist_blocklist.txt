@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32774
+! Total Channels: 32777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32790,3 +32790,6 @@
 @PrimalExplains7
 @TechDudeExplains-p7j
 @Andyexplains7
+@trainsexplainedyt1234
+@Edenexplains1
+@JacobExplainsAncients
