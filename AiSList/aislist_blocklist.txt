@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32329
+! Total Channels: 32337
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32345,3 +32345,11 @@
 @ainova-official01
 @Minute_zero_real
 @AISlopTFAT
+@Originvaultyt-o9u
+@StoriesOfIceAndFire
+@OnnAbbas-k5d
+@HistoryDoodle-u6n
+@Rust2RichesRestorations
+@InNomineSatanas
+@VelvetHearts-w7l
+@H%C3%A9roeLegendario-r1t
