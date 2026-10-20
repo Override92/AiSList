@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33262
+! Total Channels: 33271
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33278,3 +33278,12 @@
 @AussieCarExpert
 @cartermillsshow
 @FantasticArchitecture
+@AutoCareProUs
+@black-frigate
+@RayVossCarTips
+@RoyStroudcars
+@iafavfun
+@ForgottenFleet1
+@BrightSideArchaeologyUncovered
+@ClunkerrCarll
+@Wildcardstudios2025
