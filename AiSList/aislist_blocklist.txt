@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33393
+! Total Channels: 33388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18717,7 +18717,6 @@
 @eedit_99k
 @ThePistolArchives
 @TheSoldiersStory
-@aloshiaෆ
 @miniaturekitchenstories-4
 @rankitstudios
 @rogerroger5555
@@ -29454,7 +29453,6 @@
 @toboreoscar
 @drdanexplainsyt
 @ytstar23
-@HarishEditor05
 @NeelaTota
 @samcabiara07
 @DudiTVRhymes
@@ -29506,7 +29504,6 @@
 @Lullabai1303
 @Asmrvibes-t9j
 @HushAIASMR
-@OddlyAIRelax
 @AIASMR-4DObject
 @SoulMelody-d4u
 @GospelWave-d5n
@@ -29517,7 +29514,6 @@
 @Malonefictiontv-k9c
 @AICrunchCore
 @Glitchcrave-w6p
-@RaveMusic-u3s
 @Ai2-n2p
 @AIGalaxy12345
 @FruitsStories-y4t
@@ -29582,7 +29578,6 @@
 @anilj2772
 @eclesso
 @nana-celeb
-@BrianReportss
 @Poxxiestwalker
 @AtzeJones
 @TheUnearthlyHub
