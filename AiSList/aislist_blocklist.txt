@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32700
+! Total Channels: 32704
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32716,3 +32716,7 @@
 @TheOnewhoaboveall
 @ZwarteDossiersOfficial
 @AtomicWarFiles
+@TheFalloutFiles123
+@TheCelebrityFiles104
+@TheGeneFiles
+@WeaponizedFiles
