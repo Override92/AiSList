@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32279
+! Total Channels: 32289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32295,3 +32295,13 @@
 @defnexus
 @mikatalksabout
 @AtlabsAI
+@KACPI725
+@DailyGamerGI
+@MapVolt
+@Victoriautin-28
+@papogeral2026
+@FableFusion.Studio
+@DoodleCurious_Real
+@mapsundone
+@TheWhyX
+@mechanic-hank
