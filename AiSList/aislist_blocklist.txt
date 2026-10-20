@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32752
+! Total Channels: 32755
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32768,3 +32768,6 @@
 @WILDWESTREALM
 @WildWestPromises
 @WildWestRomance-n1w
+@LoveintheWildWest-j8b
+@WildWestTalesYT
+@MysteriousWildWestTales
