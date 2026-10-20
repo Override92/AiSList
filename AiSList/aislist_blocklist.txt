@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32684
+! Total Channels: 32687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32700,3 +32700,6 @@
 @HOAJUSTICE-37
 @HOAJustice990
 @HOAJusticeStories-27
+@HOALandBattles
+@HOANightmares-l8x
+@HOAPropertyWars
