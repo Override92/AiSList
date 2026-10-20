@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32606
+! Total Channels: 32614
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32622,3 +32622,11 @@
 @PikaaTales
 @PrimeTales1
 @thinker-rage
+@ThinkLabScience-q4l
+@RadarTales
+@Thinkly5
+@Thinkplicit
+@RomanticWestTales
+@ThinkPopus
+@ScallingTales
+@ThinkSparkz09
