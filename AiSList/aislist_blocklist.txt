@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32667
+! Total Channels: 32671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32683,3 +32683,7 @@
 @KarenHoaHell
 @KarenNextDoor-p1j
 @karenreally1985
+@KarensRevenge
+@CamTune-n6j
+@CelebrationUniverse68
+@Chachakidszone
