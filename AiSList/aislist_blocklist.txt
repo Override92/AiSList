@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33109
+! Total Channels: 33118
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33125,3 +33125,12 @@
 @HeavenHarmony1208
 @AstridVorn
 @Crepel_Studio
+@QuietIndoorAmbience
+@Velkira-official
+@cozywood1
+@DeptOfOOPS
+@ThisSongHitsDifferent28
+@ElyanGucantiOfficial
+@RelaxingJazzRhythms94
+@Veyra_Viking
+@DarkRiseTemple
