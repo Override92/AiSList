@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33429
+! Total Channels: 33430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33445,3 +33445,4 @@
 @aj-exploresofficial
 @germandailylenasam
 @romeo_labs
+@tapgaming-p2s
