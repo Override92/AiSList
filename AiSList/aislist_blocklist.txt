@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32478
+! Total Channels: 32488
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32494,3 +32494,13 @@
 @EternalHumanSpirite5m
 @Arielladukeromancelibrary
 @GalacticHumanStories_V7
+@Grandmasfolktalesandstories
+@TruestoryNarrativeTV-y4m
+@StarlightSweetTheater
+@StoriesAlfa
+@Sci-FiDepths
+@WildWestRomanticTales
+@HisEternalDiary
+@JanesRomanticCollection-k6t
+@RoyalScandalsDesires
+@InsomniaCape-p8l
