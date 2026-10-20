@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33233
+! Total Channels: 33242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33249,3 +33249,12 @@
 @PeterbiltX
 @NewCartime-d9f
 @MikeTurnerCar
+@ClassicCarInsider
+@LiamCarter17
+@MidnightWhispers-x3z
+@AmbianceRooms
+@IronWarMachines
+@ScarredVow
+@LiquidDnBCollective
+@Neurocartel
+@SensoryOddities
