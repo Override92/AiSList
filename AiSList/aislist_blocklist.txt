@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32718
+! Total Channels: 32717
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22245,7 +22245,6 @@
 @akanaportal
 @technologynextworld
 @matrixStudio-l7i
-@NXHAIFilms
 @DotaCinematicUniverse
 @CanBuyukberber
 @Noctilion
@@ -24088,7 +24087,6 @@
 @theaviationparadox-g8t
 @caminarbiblico-s1b
 @velune-7m
-@georgia_skye25
 @funfantasyzone
 @aifytunestudio
 @jrinspiredmotivation
@@ -32734,3 +32732,4 @@
 @BritainsWarFiles
 @Tyrantcopfiles
 @4ChanLoreFiles
+@beyondspersona
