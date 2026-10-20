@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32570
+! Total Channels: 32572
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32586,3 +32586,5 @@
 @NaoTalks40K
 @MilitaryBaseOfficial
 @runeheartstudios
+@br.tales10
+@BattleTales26
