@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33022
+! Total Channels: 33024
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33038,3 +33038,5 @@
 @MysticLadyAmbience
 @SkaldicMusic
 @WhispersoftheOldWest-z
+@TeutonicRituals
+@Ulfrheim
