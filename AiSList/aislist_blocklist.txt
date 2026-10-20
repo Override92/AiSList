@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33415
+! Total Channels: 33424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33431,3 +33431,12 @@
 @Silent-Mafia-Love-Tales
 @scifitales-f9p
 @DramaTales-w9r
+@WildHearthTales
+@AviaTales
+@SkaryTales_MrRook
+@Mariafairytales
+@Old_West_Tales
+@Mr.WhiskerTales
+@rorododotales
+@MagicalFairyTales_English
+@TheInBetweenTales
