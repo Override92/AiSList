@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32351
+! Total Channels: 32361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32367,3 +32367,13 @@
 @TheGreyPilgrimLore
 @risestronginchrist
 @GraceFlow-gf
+@curiositiesoffaith
+@ZoneBreakthrough
+@Motivationalzone411
+@LOLZ-224
+@Taleswithenglish
+@storysparkbymeena
+@LifeGoldenCompass
+@voiceintherise
+@LifeDiamondCompass27
+@WisdomofHope
