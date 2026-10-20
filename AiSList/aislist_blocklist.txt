@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33044
+! Total Channels: 33048
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33060,3 +33060,7 @@
 @GhiblivillageKitchenTales
 @evergreenhorizontales
 @FairyTales.English
+@FamilyTalesbyAnish
+@FamilyTalesByDaniel-b3x
+@FarmerFrontierTales
+@FrontierLoveTales11
