@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32979
+! Total Channels: 32982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32995,3 +32995,6 @@
 @hfybetrayal
 @AstraHum_HFY
 @StarbreakersHFY
+@HFYLegends
+@MoreStarboundHFY
+@HFYSCIFIDXZER
