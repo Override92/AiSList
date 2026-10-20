@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33398
+! Total Channels: 33407
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33414,3 +33414,12 @@
 @RoyalTalesSecret
 @SparkleTales60
 @BeecomTales
+@OmegaFateWerewolfTales
+@WWIISubmarineTales
+@RevengeTalesbyLucas
+@TalesOfDukes
+@MandysTales-q3u
+@SimpleTelltaless-us
+@SilentRevengeTales-d7i
+@rRevengeTales99
+@ColdWarTales2
