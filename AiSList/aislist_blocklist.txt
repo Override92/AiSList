@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33052
+! Total Channels: 33050
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7967,7 +7967,6 @@
 @ChroniquesduTemps-FRANCE
 @wingsofwarr
 @ww2hidden101
-@BIBLESTORIES-g4d4o
 @TheMotionTheory
 @SeveredSoul-44
 @VoiceHouse-e1z
@@ -22637,7 +22636,6 @@
 @HISTORYREBORN90
 @WarVlogsAI
 @AgeOfPOV
-@unhingedlord
 @History_Al_shorts
 @TheDexAI
 @AiCinemaChronicles
