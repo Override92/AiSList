@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32721
+! Total Channels: 32723
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32737,3 +32737,5 @@
 @FrontFilesYT
 @TheKarmaFiles-c9j
 @TheBruceLeeFiles-m8x
+@horizonfilesyt
+@WW2CombatFiles-u9x
