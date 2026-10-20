@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33430
+! Total Channels: 33425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2354,7 +2354,6 @@
 @meowuniverse99
 @magiccats11
 @prehistoriccreatures9
-@talking_angela3
 @myaitalkingcats
 @gameclub-i6x
 @thecatscute97
@@ -12831,7 +12830,6 @@
 @mata_jiwa
 @AI_content_pro
 @TinyPawsHugsAndCute
-@tinytasteAI_official
 @AImationWorld-e4i
 @lilcraftygenius
 @aiminiworld
@@ -12870,7 +12868,6 @@
 @FlavorBotKitchen
 @TinyTales1307
 @MiniVerseKitchen-p7c
-@AbdulRashed-w4e
 @TinyTailsAIOfficial
 @TimofeyAI3260
 @TinyChefAI01
@@ -16632,7 +16629,6 @@
 @aiflashversex
 @evuary
 @runvyr
-@shaizycoco
 @fanpagepulsetunez-w4n
 @ByteKnow
 @akiyama-design
@@ -24530,7 +24526,6 @@
 @NextlevelAIOfficial-d5r
 @AiEntertainer101
 @FruityTales-f6o
-@everyfruitastory
 @fruits-qz6gb
 @AICreationHub_2
 @worldscopegeo-v1s
