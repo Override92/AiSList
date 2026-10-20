@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33000
+! Total Channels: 33003
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33016,3 +33016,6 @@
 @CosmicPrincessHFY-n9h
 @RagnarIron-k4l
 @RagnaridOfficial
+@IronRagnarVibes
+@Ragnarstorm2683
+@RagnaRock_Viking
