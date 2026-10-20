@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32664
+! Total Channels: 32667
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32680,3 +32680,6 @@
 @TalesFromReddit-m3v
 @TheDramatisSubreddit
 @HOAKarenLifeStories
+@KarenHoaHell
+@KarenNextDoor-p1j
+@karenreally1985
