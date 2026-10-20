@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32637
+! Total Channels: 32640
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32653,3 +32653,6 @@
 @WildWestFrontierTales
 @WW2TrueTales7
 @ZuhalTales
+@AspirationalFinance
+@CelabFinance
+@FINANCETHEORY-0009
