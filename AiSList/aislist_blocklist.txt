@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32640
+! Total Channels: 32645
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32656,3 +32656,8 @@
 @AspirationalFinance
 @CelabFinance
 @FINANCETHEORY-0009
+@Grey_Finances
+@Highfinance_View
+@LegacyofFinanceus
+@TheAGFinance
+@TheJiangFinance
