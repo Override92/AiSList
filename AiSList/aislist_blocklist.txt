@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32259
+! Total Channels: 32269
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32275,3 +32275,13 @@
 @futurehumanityai
 @fighttalesyt
 @Talesbyuwa
+@livingecho1
+@Jasmine-Agostini
+@PopAni-q4p
+@misterbranco-pt
+@s1_signalone
+@alvinexplica
+@Daisy-ReelClub
+@WartimeHorsepower
+@TheRenderGuyMotion
+@RUTRareUnreleasedTracks
