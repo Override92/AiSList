@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33032
+! Total Channels: 33037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33048,3 +33048,8 @@
 @LadesTales
 @WronglyAssumed
 @KarmaTales35
+@EnochRevealedYT
+@KindnessTales-z2i
+@HopeTales-us
+@HiddenRankTales
+@Her-Legand-Tales
