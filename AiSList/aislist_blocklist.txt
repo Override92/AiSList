@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33388
+! Total Channels: 33398
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33404,3 +33404,13 @@
 @omnilorium_music
 @knowlingofficial
 @rosangelaportobelo
+@PocketTaleStudio
+@RewindTales001
+@dramatalestv1
+@TalesfromTechSupport
+@Primitive-Tales
+@WorldWarTales
+@VelvetTales-b6n
+@RoyalTalesSecret
+@SparkleTales60
+@BeecomTales
