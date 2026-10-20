@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33424
+! Total Channels: 33428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33440,3 +33440,7 @@
 @rorododotales
 @MagicalFairyTales_English
 @TheInBetweenTales
+@telltales.
+@Ringside_Tales
+@TalesAndSecretsYT
+@ToxicFamilyTales
