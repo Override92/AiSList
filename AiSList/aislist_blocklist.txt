@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32580
+! Total Channels: 32589
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32596,3 +32596,12 @@
 @PorchlightTales26
 @Tales_Of_Reddit-q7o
 @AmericanVintageTales
+@AtomicTerranTales
+@BarnLightTales
+@BluTelltales
+@BMStoryTales
+@AlexFinanceUS
+@BookerTales
+@AmericanFinanceWithNate
+@BritishSASTales-d1v
+@FinanceBureauOfficial
