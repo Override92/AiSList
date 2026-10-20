@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32439
+! Total Channels: 32449
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32455,3 +32455,13 @@
 @Afro-KoreanStorytimebyVee-y5q
 @JessyDon-O
 @TalkWithUrum
+@JsFiresideFables
+@WerewolfRomancePodcast
+@TheCrimsonSeal
+@Alphas.Regret
+@SeoulHeartsStories
+@JoMoonlitTales
+@WestNarrative
+@womanstories28
+@RegencyRomanceVault
+@LYCANLORE-k4u
