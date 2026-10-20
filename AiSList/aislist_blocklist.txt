@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32572
+! Total Channels: 32580
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32588,3 +32588,11 @@
 @runeheartstudios
 @br.tales10
 @BattleTales26
+@FrontlineWW2Tales
+@FamilyTales-l7e
+@Sina_Tales
+@SilentSniperTalesofWWII
+@ShockTales1
+@PorchlightTales26
+@Tales_Of_Reddit-q7o
+@AmericanVintageTales
