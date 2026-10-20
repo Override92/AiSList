@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32727
+! Total Channels: 32730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32743,3 +32743,6 @@
 @Conflict-Files07
 @THEAMERICANFILES11
 @1941FIles
+@DarkTruthCasefiles
+@DiscontinuedFiles
+@TheEnochFilesTV
