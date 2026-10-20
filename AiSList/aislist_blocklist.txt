@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33040
+! Total Channels: 33044
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33056,3 +33056,7 @@
 @HeartTales-z9c
 @HarvestTales-4u
 @GoodHeartTales2.0
+@soundflow_lab
+@GhiblivillageKitchenTales
+@evergreenhorizontales
+@FairyTales.English
