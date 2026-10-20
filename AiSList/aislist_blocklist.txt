@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32658
+! Total Channels: 32661
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32674,3 +32674,6 @@
 @DRAMIOreddit
 @HOASTORIESREDDIT-h8o
 @KFREDDITSTORIES24
+@RedditFallout-686
+@RedditLife21
+@StraySTORIESreddit
