@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32400
+! Total Channels: 32410
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32416,3 +32416,13 @@
 @LifeSTORIESWithTheINNOCENT
 @StoicNathan
 @storytellingempire
+@RealityFolktales
+@WajStories
+@HeartlineStories-k9r
+@TalesbyZona
+@TroyMcKenzie-w1y
+@AfricanTalesByChizo
+@HerWalkInFaithCollective
+@PorsheChronicles
+@wondermagnetstudio
+@storiesbytega01
