@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33427
+! Total Channels: 33429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33443,3 +33443,5 @@
 @ToxicFamilyTales
 @jadewolfmusic
 @aj-exploresofficial
+@germandailylenasam
+@romeo_labs
