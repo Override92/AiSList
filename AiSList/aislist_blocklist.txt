@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32345
+! Total Channels: 32351
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32361,3 +32361,9 @@
 @truthdailyhub
 @Didyouknow-seanandraya
 @MagicCartoon1291
+@thesilentgrace_yt
+@ScriptureMadeSimpleYT
+@SpiritualPoint18
+@TheGreyPilgrimLore
+@risestronginchrist
+@GraceFlow-gf
