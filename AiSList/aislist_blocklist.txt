@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32807
+! Total Channels: 32805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5501,7 +5501,6 @@
 @VIPJohnAG
 @TheAsianGuy-JohnAG
 @ThriveTribe-c3v
-@richardphysicss
 @PhysicsasToldbyRichardFeynman
 @Feynmanciencia
 @companikumar8662
@@ -9609,7 +9608,6 @@
 @DELIASTORYTIME
 @SankofaTales
 @QueerFolktale
-@Worfaistudio
 @AfricanFolkloreHub-j3k
 @LEATALES
 @TheKeeper-j9x
@@ -22440,7 +22438,6 @@
 @Dunvaris
 @PoPoSweetDrama
 @TheUntoldJimiHendrixStories
-@FantasyDramaParadise
 @demonhuntersAI
 @TansenBluesClub
 @KarmaDramaStories-j8n
@@ -32823,3 +32820,4 @@
 @DrumsExplainedYT
 @QuantaraExplains
 @wiliamexplained
+@invented-north8t
