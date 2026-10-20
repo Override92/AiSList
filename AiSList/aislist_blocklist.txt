@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33271
+! Total Channels: 33280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33287,3 +33287,12 @@
 @BrightSideArchaeologyUncovered
 @ClunkerrCarll
 @Wildcardstudios2025
+@FrontiersofInfinity
+@CarObsessedKing
+@IsraNaz-x8d
+@farleynature
+@AutoCareLab
+@CarlosHerreraYT
+@BrightSide-TV
+@CarlosSantero
+@PhantomExpeditionyt
