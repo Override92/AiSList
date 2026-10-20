@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32323
+! Total Channels: 32329
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32339,3 +32339,9 @@
 @JacobDavis-Official
 @RadioMerkheba
 @WarDrumArchives
+@TemplarAeternum
+@SacredIronChoirs
+@aureliannocturne
+@ainova-official01
+@Minute_zero_real
+@AISlopTFAT
