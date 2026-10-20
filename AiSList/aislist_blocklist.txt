@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33280
+! Total Channels: 33290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33296,3 +33296,13 @@
 @BrightSide-TV
 @CarlosSantero
 @PhantomExpeditionyt
+@BSHistoryLegendsAwakened
+@MuscleCarMasters68
+@rarecarstorys
+@daydreamingofpersephone
+@behind_the_car_US
+@%E7%9D%A1%E5%89%8D%E7%9C%8B%E7%82%B9%E5%95%A5
+@BabyGigglesNurseryRhymes
+@BrightSideMystery
+@Jleecaruso
+@10HourEverythingOfficial
