@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32928
+! Total Channels: 32931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32944,3 +32944,6 @@
 @ProCaptainHFY
 @CoreRageHFY
 @HFYAstryx-f7g
+@StarBleedHFY
+@HopeHarborHFY
+@HFYCrucible
