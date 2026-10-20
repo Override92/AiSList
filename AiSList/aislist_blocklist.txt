@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33325
+! Total Channels: 33334
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33341,3 +33341,12 @@
 @DuetVikingMusic
 @Luck4everAlone
 @Ananellys
+@ValhallaEchoes-q9y
+@VikingMusicSaga
+@RainRoomReal
+@DAYWAPULSE
+@Alina-revenge
+@VEYRHEIM
+@LonelyEcho-w1b
+@Grimfrost-w7u
+@Nor%C3%B0rRaddir
