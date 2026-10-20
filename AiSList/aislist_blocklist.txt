@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32762
+! Total Channels: 32766
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32778,3 +32778,7 @@
 @wildweststorytelling
 @DarwinExplains
 @GustavoExplain
+@ExplainInPaintAncientHumans
+@RickyExplainsHistory
+@rickyexplainsit
+@OddlyHumanExplained
