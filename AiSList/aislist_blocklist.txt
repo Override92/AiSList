@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32525
+! Total Channels: 32534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32541,3 +32541,12 @@
 @BoundtotheQueen
 @OrcThornChronicles
 @MoonfireRomance
+@Mr.PaulDo
+@dukesromance
+@movieplots
+@AlphaDominion-h26
+@MockedtoLoved
+@Sci-FiJourney-s2c
+@Tortugaman64
+@GoldenGoalsMike-y5x
+@Storiesjustforyou28
