@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32497
+! Total Channels: 32506
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32513,3 +32513,12 @@
 @LunasAlphaTales
 @VelvetLore-l8v
 @GalacticHeroesUnited
+@AlphaDominion-i3h
+@WhisperNovels
+@TheDrowHistorian
+@AlphaSovereign-n9i
+@Viral_Story
+@Selinalovechronicle
+@ObsessiveMafiaLoveStories
+@Seoulsoulafrostories01
+@TheMafiaArchives1
