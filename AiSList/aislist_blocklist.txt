@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 32745
+! Total Channels: 32748
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32761,3 +32761,6 @@
 @TheCowboysMuse
 @CowboyForge
 @CowboyPrairieTales1
+@cowboybebop1141
+@WildWestLoveStoryTV
+@TalesOfWildWestLove
