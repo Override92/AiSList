@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33073
+! Total Channels: 33082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33089,3 +33089,12 @@
 @VikingLoreBeats
 @GentleJazzHaven
 @Steinhald
+@GlobalStageTalent
+@JoJoMelodies
+@AlphaKingUnveiled
+@Nyther%C3%A4Oficial
+@the-stars-are-listening
+@AlphaMoonSovereign
+@Vishrani
+@SapphireSecrets-hc
+@VAndCUniverse
