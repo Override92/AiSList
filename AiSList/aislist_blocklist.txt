@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33424
+! Total Channels: 33419
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4686,7 +4686,6 @@
 @TheNexusArchitect
 @tonytechInsights78
 @ReferCoinLab
-@TheSilentEconomy-1
 @VerySeriousFinance
 @GlobalMarketPerspective
 @kingmovieai
@@ -8628,7 +8627,6 @@
 @60SecondEpisodes
 @HOAstories2026
 @WW2Battlelines-z8e
-@TheVirtualArtDesk
 @MangaDubTGTF
 @kapantobat7091
 @WW2VictoryDiaries
@@ -15408,7 +15406,6 @@
 @Tiny-TawaAI
 @CrumbCraftAI
 @SilentHistoryWorld
-@timetraveler7860
 @athedoorOfficial
 @creativearts222
 @Doorbellvideos-b4s
@@ -22026,7 +22023,6 @@
 @ChronosAudio-dc
 @Musicfusion_34
 @EchoesTrenches-i4q
-@cenachwaly
 @ausgewahltestadte
 @mexicoindustrial03
 @sundaydrift-l8v
@@ -26867,7 +26863,6 @@
 @Prompted.Vision
 @mahmir_studio_ai
 @VaidehiShauryaEdits
-@FunnyMation9137
 @AiArt10
 @ValhallaAI
 @AmzadAiResque
