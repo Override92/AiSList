@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33420
+! Total Channels: 33424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33436,3 +33436,7 @@
 @漫影流光
 @笑笑看劇
 @manhua大陸劇
+@砂糖劇滿屋
+@心動劇時刻daily
+@花火劇場
+@熊貓劇場
