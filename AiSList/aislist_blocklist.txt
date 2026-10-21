@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33425
+! Total Channels: 33420
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18704,7 +18704,6 @@
 @VELOCITY_AI_MNG
 @AiMusicSerbia31
 @BlueDragonLofiBeats
-@agonestudioth
 @BurmaBlaze
 @marsalsiring
 @LLe-9999
@@ -23047,7 +23046,6 @@
 @K_BeeeLOriginal
 @BLForbiddenLove
 @BLHeartstringsStories
-@TheCowboyChronicle-w5y
 @TheMafiaCode-n9d
 @Romance-Bytes
 @LovePetalsStories
@@ -30016,9 +30014,6 @@
 @PartyTunesOfficial
 @actuallycarterpcs
 @ramshasultankhan
-@RebirthKarma
-@PrincessRevenge-r4y
-@Storytimewith_Amaraa
 @DramaMinute-m6h
 @bennettbeyond99
 @echbiettuot-g4n
