@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33420
+! Total Channels: 33425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33436,3 +33436,8 @@
 @紅線微劇場
 @天天剧场-f6c
 @蒼穹短劇社
+@快樂新天地
+@滿糖劇場shorttv
+@漫影流光
+@笑笑看劇
+@manhua大陸劇
