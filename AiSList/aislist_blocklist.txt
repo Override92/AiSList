@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33413
+! Total Channels: 33414
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13702,7 +13702,6 @@
 @TeesTalesbyMoonlightt
 @ogojide
 @TheAfricanFolktalesbySelah
-@SuperFolktaleStories
 @Ajntales
 @AfricanStorytelling-x5j
 @AfterDarkTalesbyBun
@@ -33429,3 +33428,5 @@
 @cinestormmovies-l5z
 @thearchiveofboxing
 @everlune1
+@techhoydiario
+@africanstorymoviebox-s1u
