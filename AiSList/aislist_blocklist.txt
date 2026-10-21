@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33425
+! Total Channels: 33424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -438,7 +438,6 @@
 @mamacat03
 @smilecatstory
 @mamacatfamily-gt
-@silentpalaces1
 @catmamatales
 @mothercatfamily
 @mamacatfamilytnmedia
@@ -10410,7 +10409,6 @@
 @Felixy_AI
 @EricBennettMD
 @EchoesofAlba
-@FactVerse-t2t
 @softeraser-m7h
 @HanxAIx
 @OverWheelsYT
@@ -33441,3 +33439,4 @@
 @tapgaming-p2s
 @cinestormmovies-l5z
 @thearchiveofboxing
+@everlune1
