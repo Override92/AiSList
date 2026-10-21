@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33424
+! Total Channels: 33425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33440,3 +33440,4 @@
 @花火劇場
 @熊貓劇場
 @kapeface
+@chillwavechapters
