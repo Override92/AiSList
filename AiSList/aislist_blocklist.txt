@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33418
+! Total Channels: 33413
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4945,7 +4945,6 @@
 @SecretDiary1-u2u
 @OGJohnAGHub2
 @Kenzo51214
-@DailyFinance-q9e
 @OGJOHNAG1990
 @ourjohnag
 @CrystalMindAudio
@@ -9036,7 +9035,6 @@
 @BibleBuiltyt
 @BibleSprings
 @BilgeRatsYT
-@BloodRoseChronicles
 @BlushRomanceDrama
 @braincient
 @Brainexq
@@ -16638,7 +16636,6 @@
 @DCanimition
 @AnimalVlog_TV
 @Smart-AI_KH
-@Ai_Video-d7f
 @Ashishaishort
 @ShortyFyAi-Yt
 @NehaSingh-x9e2m
@@ -16719,7 +16716,6 @@
 @Vard-Ges
 @ClassicCroonersRevival
 @HumanityUnleashed73
-@OG-AIanimereels
 @pyona_ai
 @iTradeAIMS
 @Playlixhq
@@ -20213,7 +20209,6 @@
 @BehindtheScreen-l4d
 @AmbroseWild
 @ViralAgenda7
-@CenaChwały
 @MimiCafeBGM
 @SchattenderMafia-i1u
 @Underdog_Dad
