@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33415
+! Total Channels: 33420
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33431,3 +33431,8 @@
 @planetafantastico-suh
 @red-bandanaa
 @oceanpulse88
+@derrickconsequences
+@柚見劇場
+@紅線微劇場
+@天天剧场-f6c
+@蒼穹短劇社
