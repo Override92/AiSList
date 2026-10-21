@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33415
+! Total Channels: 33410
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1240,7 +1240,6 @@
 @phantasm_realms
 @mrdipoktantidancer
 @ai_shorts7_nvg
-@animalaishorts13
 @aimoralshorts
 @chhotuyadduvanshi
 @aicomedyshorts-b9y
@@ -4951,7 +4950,6 @@
 @Alpacinostories
 @WildRealityyy
 @IanVonKira
-@THINKOFWAY
 @BlondiFoks
 @AnimalBattleLab
 @Vidomez
@@ -5083,7 +5081,6 @@
 @WarfareUnclassified
 @GalaxyVault-s2o3n
 @MoneyUntoldEX
-@FiscalWarfare
 @HerHealth60
 @attitudemag
 @WarHorizonHQ
@@ -5205,7 +5202,6 @@
 @softstepsasmr-yt
 @markkollarretirementexpert
 @spiacynaukowiec-h2p
-@joncvvault
 @omniverse-global
 @DeepWaveDiscovery
 @RenovationVision
@@ -16225,7 +16221,6 @@
 @velvetstudiosYT
 @AMALA_Afro-Soul
 @TheSecretScoreLegacy
-@reddit_twist0
 @EdwardResurrectsHistory
 @Bodha-Origins
 @HistoryDecode6
