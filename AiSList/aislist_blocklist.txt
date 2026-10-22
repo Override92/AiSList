@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33593
+! Total Channels: 33588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30558,13 +30558,10 @@
 @FarmerValleyStories
 @PfotenvollerMut
 @Giantess_Verse
-@HumanityHFY10
 @EverydayLifeStories-f7s
-@Hofgeschichten
 @M%C3%BCttergeschichten
 @VeloraRomance
 @WildWestLoveStories-h6o
-@BadgePawsStories1
 @PartnersinDuty
 @AiSagaTeller
 @HmmFish
@@ -30614,7 +30611,6 @@
 @DreamVerseClub
 @Ghiblistories-ssdn
 @Ghibliaivideos
-@Superheroinestory
 @VocesQueInspiran-c6h
 @thetimetouristvlog
 @LoveHerProduction
@@ -30639,7 +30635,6 @@
 @Quadrinhosdecontra-ataque
 @Counterattackcomics
 @super_ai_09
-@Catlaxy67
 @GoldenAgePsychology-q6p
 @WurstinatorderWagemutige
 @novelworldfmstories
