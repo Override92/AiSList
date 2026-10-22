@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33611
+! Total Channels: 33606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30179,12 +30179,10 @@
 @CowboyLastTrailStories
 @CrimsonDonStories9
 @DukeRomanceStories-o9q
-@DreamyStories999
 @dragonworldstories
 @dragonstoriesbymarcus
 @DragonStoriesbyJohn
 @DeepStories99
-@DarkSecretSleepyStories
 @DariusStories-n8e
 @DadChroniclesStories
 @CrStories-w8h
@@ -30205,12 +30203,9 @@
 @dustanddevotionstories
 @dukestoriess
 @hearthstonestoriesyt
-@HavenStories9
 @HappyCatMedia
 @GrudgeBoxStories
 @grandpanedstories
-@GaslightStories-QC
-@GangsterCodeStories
 @GalacticStoriesHFY
 @FrontierLoveStories789
 @FreddieMercuryHiddenStories.2
