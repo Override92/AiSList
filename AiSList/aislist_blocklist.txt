@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33508
+! Total Channels: 33517
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33524,3 +33524,12 @@
 @TheVeteranHeart
 @roastaraTV
 @SilentFrozenHollow
+@ReggaeSongsPlaylist
+@Formula1Lore
+@GwiazdaHFY
+@TheTechnologyAmericaLeftBehind
+@WatchPlainSight
+@Unscriptedclip-j2o
+@sparktechoo7
+@TechFocrce
+@TechTestedReal
