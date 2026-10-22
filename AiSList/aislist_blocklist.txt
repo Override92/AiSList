@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33423
+! Total Channels: 33418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19464,7 +19464,6 @@
 @Playlist_VibesJK
 @Thewildweststories-h7f
 @FictionalTales-30
-@HerxHerlovestories
 @veil_of_fate
 @VillageFantasyWorld
 @storynovai2
@@ -19652,7 +19651,6 @@
 @MomscalmStories
 @Mr.Ledger-m6r
 @max-economics
-@Capi_fall
 @Petengine786
 @LeoDogGuy
 @brothersvalor
@@ -19788,7 +19786,6 @@
 @Yapay_Zeka_Şarkılarım
 @LeScribeDeLhistoire
 @DjFrostfur
-@LavaCreations2026
 @SpinSketch
 @PianoViz
 @ShredHub-n8e
@@ -27370,7 +27367,6 @@
 @Aiblizard
 @kAIju.oc.creations
 @LearnAI-tw
-@ALGORITHMICAURA.07
 @CatholicWisdom-TV
 @CourtroomStates
 @ColourfulHomeAesthetics
@@ -27485,7 +27481,6 @@
 @solainventore
 @AutoscopeIndia
 @wanbaby922
-@PrimeInsights-01
 @SidraQayyum-y7t
 @Lunora-studio-v8d
 @VisionForge-x4n
