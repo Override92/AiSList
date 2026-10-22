@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33425
+! Total Channels: 33424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24162,7 +24162,6 @@
 @SmartCruiseGuide
 @thecruisesecrets
 @DeckView
-@BestCruiseTips
 @DumbHistoryUs
 @Complainix
 @NUTTYP38
