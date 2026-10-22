@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33594
+! Total Channels: 33604
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33610,3 +33610,13 @@
 @velvetrustblues12
 @MiddleEasternAncientMusic
 @Breakpoint-r6w
+@jellyfish-bgm
+@LoveLinuxxMint
+@SleepyHistoricalSociety
+@songbird_media
+@OldAlignment
+@BinaryMysteries
+@TerraJaja
+@MargretMillerCuts
+@TrafficRulesGuide-d2m
+@firearmsvault
