@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33616
+! Total Channels: 33611
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12077,7 +12077,6 @@
 @Aiwithmeer26
 @the_flavor_verse
 @Aianimation00__7
-@GeniusWonder_7
 @ZeroInspired2911
 @AiWonderStudio-o7i
 @Minibites-10
@@ -22002,7 +22001,6 @@
 @northernnews1
 @musicaqueedificaelalma-o8x
 @hellbreakermusic
-@chloetalksport
 @abcrimeinterrogation
 @david-h9m6y
 @kanizcreative
@@ -30135,12 +30133,10 @@
 @BetrayalRevengeStories-n4i
 @BedtimeStoriesBuddhism
 @AnnaRomanceStories
-@AngelNurseStories
 @AMESTORIES-TLL
 @AlphaShadowStories-y2m
 @AlphaMomStories
 @AliasStoriesForU
-@AirForceStories
 @AfterDarkStories-333
 @AffairStoriesElite
 @adamsdragonstories
@@ -30171,7 +30167,6 @@
 @CaringDadStories-h4r
 @CapoMafiaStories
 @CelesteStories-d3o
-@CelestiaStories9
 @CheatingTruthStories
 @CipherMobStories
 @CorporateKarmaStories-q2s
