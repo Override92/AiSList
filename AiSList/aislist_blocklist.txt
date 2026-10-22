@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33421
+! Total Channels: 33422
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28907,7 +28907,7 @@
 @LofiontheRooftop
 @mayijazz
 @HighwayLane-m4l
-@TheCartoonHabit
+@jdkdid8jdnd
 @drawdownfinance
 @Solvanae
 @TheWealthFilesus
@@ -33437,3 +33437,4 @@
 @deutschermetall
 @itsmrbobe
 @thecuriousmolecules
+@theandreasjones
