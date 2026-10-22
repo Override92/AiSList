@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33424
+! Total Channels: 33425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9441,7 +9441,6 @@
 @EtherealAIStudio-d2l
 @soniaaiart
 @LunaAIArtStudio
-@TinyWorldKitchen-01
 @RoamingReveries2026
 @AIDreamArtStudio-j7j
 @Revenge_with_Craig
@@ -33440,3 +33439,5 @@
 @varshith-q9h
 @quick_bite_kitchen_recipe
 @kingvalaitv
+@world2026today
+@pupkibakbak
