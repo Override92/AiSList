@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33598
+! Total Channels: 33593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30356,11 +30356,8 @@
 @VaughanStories9909
 @VampireStories4
 @ValeStories3
-@ValdrenStories
 @Untoldstoriessantana
 @UntoldHumanStories-1
-@TrueTwistStories-w4r
-@UnseenOmegaStories
 @UnmaskedStories1M
 @TopHistoryStories
 @TonyLockeHFYStories
@@ -30379,10 +30376,8 @@
 @VioletRomanceStories
 @VerdictStories1
 @vennstories
-@VendettaStories9
 @VelvetRevengesStories
 @velvetdadstories5
-@VelvetBossStories
 @XSci-fiStories
 @WW2StoriesArchivee
 @WW2POWStories-yt
