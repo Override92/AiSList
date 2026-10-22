@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33423
+! Total Channels: 33426
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33439,3 +33439,6 @@
 @theandreasjones
 @afroprimetv1
 @revelationofchrist
+@sightoffinance
+@golujholucomedy
+@theyytknow
