@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33429
+! Total Channels: 33424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8447,7 +8447,6 @@
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
 @RedLineReport99
-@explainit777
 @AGTears
 @fitfemmeus-g5k
 @ai-slop-channel
@@ -18186,7 +18185,6 @@
 @THEGENTERTAIN
 @OPorquedasCoisassimples
 @StoryVerseChronicles5121
-@AfroKoreanArena
 @Harlemshiddenrulers
 @GiftJames-h9c
 @EMPIRETALES-o1l
@@ -18277,7 +18275,6 @@
 @STORYVERE-h6l
 @Davidmor-x3e
 @HumanFateStoriesbyYM
-@manzarhussain9927
 @HeartVoiceStoriesByY99
 @KindnessHub2.0
 @FolktalebyAKAY
@@ -19803,7 +19800,6 @@
 @RevengeSoldierTruth
 @RevengeSoldierStories
 @LegacyUnfold-o9e
-@AlexHeartfeltStories
 @nocap1062
 @StarEaterHFY
 @EmpireCircuit-j4p
@@ -19811,7 +19807,6 @@
 @InnerPeace-u2h
 @XerGritHFY
 @OpalStories999
-@GalacticValorStories
 @GrenzsteinEisen
 @EisenTraktorGeschichten
 @PfotenderTreue
