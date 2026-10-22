@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33603
+! Total Channels: 33598
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30264,7 +30264,6 @@
 @NorthlightStories0
 @NorthboundStories
 @NordicLoveStories
-@NobleStories99
 @NextFrameAIStudios
 @NEWYORKSTORIES-p9z
 @NebulaCommand
@@ -30313,7 +30312,6 @@
 @ShatteredStories-Hn1
 @SecretumHistories
 @SecretPulseStories123
-@SecretCapoStories
 @SecretBillionStories
 @Sci-FiHFYStories
 @SavagePepperStories
@@ -30322,17 +30320,14 @@
 @RyanStoriesChannel
 @RoyalTruthStories
 @RoyalixStories369
-@RivalryStories
 @StoriesbyQamri
 @storiesbyJimmy1
 @StoriesBey
 @storiesbehindthetrack
-@StillgroundStories
 @SteadfastDadStories
 @StarboundFantasy
 @SplinterStories
 @SoulStories-v
-@SoullineStories-b1c
 @SoulLiftStories01
 @Soul-Dad.Stories-TV
 @SoftSingleDadStories
