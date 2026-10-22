@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33586
+! Total Channels: 33594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33602,3 +33602,11 @@
 @KingdomOfDarkStrings
 @VividAudioLib
 @LetsGoSwimmin
+@MegalithicVault
+@ReggaeFlow66
+@TheFieldReport-h6v
+@SysHackkk
+@dntb20
+@velvetrustblues12
+@MiddleEasternAncientMusic
+@Breakpoint-r6w
