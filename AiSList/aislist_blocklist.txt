@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33426
+! Total Channels: 33429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24723,7 +24723,6 @@
 @IRebornasanAnimeOpening
 @ainime.eloong
 @mandy_taleshub
-@zorry-d1y
 @extraordinaryanimalsen
 @outerdark-films
 @etnoromania
@@ -33442,3 +33441,7 @@
 @sightoffinance
 @golujholucomedy
 @theyytknow
+@lo-fi-leo
+@varshith-q9h
+@quick_bite_kitchen_recipe
+@kingvalaitv
