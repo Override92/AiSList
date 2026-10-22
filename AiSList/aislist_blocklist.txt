@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33593
+! Total Channels: 33595
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33609,3 +33609,5 @@
 @everymoveexplained
 @velvetsky-g
 @月恋劇場
+@margaretsduketales
+@omniforgetv
