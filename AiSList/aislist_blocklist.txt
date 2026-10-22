@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33447
+! Total Channels: 33457
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33463,3 +33463,13 @@
 @KitVsTheEnd
 @KenTsukamoto
 @heybackroads
+@fatalboard
+@FactoStyle727
+@droidsage
+@DiscoverywithGideon
+@Deep-Idle-Room
+@Cab-Forward
+@bychrysalis
+@AlwaysSimplified
+@AliakseiFacts
+@aldobellinii
