@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33576
+! Total Channels: 33586
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33592,3 +33592,13 @@
 @QuyenLe-xi5de
 @SarahRetires
 @DNARevelations68
+@dungeonsandriffs
+@Forever-Engine
+@FadeToLegends
+@NorthernChorus-p6n
+@bennyknowyourrights
+@RaisedonPromises-Gen-Y
+@hiheadost
+@KingdomOfDarkStrings
+@VividAudioLib
+@LetsGoSwimmin
