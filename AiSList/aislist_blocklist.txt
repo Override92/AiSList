@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33419
+! Total Channels: 33421
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33435,3 +33435,5 @@
 @np9aifilms
 @arisebiblejourney
 @morakrj
+@deutschermetall
+@itsmrbobe
