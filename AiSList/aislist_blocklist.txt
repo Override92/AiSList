@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33595
+! Total Channels: 33590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30398,7 +30398,6 @@
 @History_Stories_Daily
 @LihimngPusoStories
 @OSStories-n4r
-@TravisRevengeStoriesx
 @SilentStories_2026-p6m
 @LomuStoriesOnSpotify
 @SilentTruthStories-d2y
@@ -30431,13 +30430,11 @@
 @Morrysstories
 @NazunaStories
 @foxleystories
-@Brokenstoriesyt
 @SassyStoriesz
 @Nolvinastories
 @StoriesofHope-yt
 @ReadifyStories
 @1MinuteStories07
-@FracturedStories_0
 @USHistoryStories
 @2AMStoriesOnTheWeb
 @dailydropstories
@@ -30465,7 +30462,6 @@
 @ZipStories1
 @KashilifeStories
 @FruitYumYum
-@JuicyFruitASMR
 @UncutRadio00
 @Fruityasmr2
 @FruitsBabyToons
@@ -30475,7 +30471,6 @@
 @FruityVerseASMR
 @CRRAZYAIFRUITS
 @SweerFruitsASMR
-@Baby.FruitASMR
 @FruitLoveIsland-71
 @FruityVillaShow
 @fruitloveisland8
