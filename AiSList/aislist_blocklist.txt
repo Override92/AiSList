@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33422
+! Total Channels: 33423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7057,7 +7057,6 @@
 @sunsetdream3795
 @fauxfeast
 @aismr-nys
-@JohnOG1M
 @IAMOGJOHNAG
 @R.MaddowBrief
 @RMaddowDailyLiveNews
@@ -33438,3 +33437,5 @@
 @itsmrbobe
 @thecuriousmolecules
 @theandreasjones
+@afroprimetv1
+@revelationofchrist
