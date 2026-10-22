@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33556
+! Total Channels: 33566
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33572,3 +33572,13 @@
 @JackMcAllisterCA
 @RevengePower-g9m
 @mefxsong
+@LightsOutPhysics
+@ProbablyMakesSense
+@psyquokka
+@Relics_Realms
+@lore-disorder
+@KingTakesKing
+@PassiveSurvival
+@PeterHarrisonUK
+@LukeHarrisonMotors
+@jktim-t4m
