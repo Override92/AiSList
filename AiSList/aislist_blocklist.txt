@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34386
+! Total Channels: 34391
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34402,3 +34402,8 @@
 @TUTOPREMIERE
 @quantumnexus_yt
 @LaiDrama-LD
+@TheSpiritualChosen
+@LostEchos27
+@Kingmoon-x2z
+@MiniFlipThatDrama
+@AurelumeFilms
