@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33834
+! Total Channels: 33844
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33850,3 +33850,13 @@
 @wearepolyverse
 @RedfoldDocumentary
 @Handgun-009
+@HiddenMechanicz
+@BritishCrownArms
+@LiteraryLifeLessons
+@frontier-universe
+@liminaljapan
+@Beyondstillness-seijaku
+@FictionaryYT
+@5MinuteBuyer
+@ValueVault12
+@DnD.musicworld
