@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34182
+! Total Channels: 34191
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34198,3 +34198,12 @@
 @WesternHeartsOldTimes
 @EchoesOfTheWest2
 @fabianosilva-r9f
+@PacificBlondesMusic
+@HiddenInjusticeUSA
+@TrustinGods
+@CelticAnimaMusic
+@StoryHarbor_1-j5f
+@TempleofDesire-k2b
+@KingsHorizon-e2j
+@DragonRiderRomance
+@Somnuswithsleep
