@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33792
+! Total Channels: 33794
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33808,3 +33808,5 @@
 @pizza_later
 @what_if_calculated
 @BuiltonYou
+@Goldencrest_studios
+@DD.DreamDrama
