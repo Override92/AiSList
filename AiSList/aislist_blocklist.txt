@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33967
+! Total Channels: 33977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33983,3 +33983,13 @@
 @Velmoramusicband
 @DivyaKathaHindi
 @ShinWatcher
+@Unbox14Media
+@theboneshadow
+@EonFramePictures
+@Bladeworn
+@nocturnaoriginal
+@Soulflightmelody
+@FrostwolfloreBeats
+@Enigma_Dreamscape
+@feelthemdnight
+@WindowCornerJazz
