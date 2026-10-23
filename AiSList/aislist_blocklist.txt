@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34491
+! Total Channels: 34494
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34507,3 +34507,6 @@
 @ThePhilosophyOfMarketing
 @NostalgicFramesTV
 @ValorEstoico
+@ChroniclesOfNorwayOfficial
+@CatnapMelodies-QH
+@OpenVerseStudio
