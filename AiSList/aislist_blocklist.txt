@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33742
+! Total Channels: 33741
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21461,7 +21461,6 @@
 @animalsxx_31
 @goldenstoryus-b6d
 @sonofthedeadsun
-@revengevanas
 @glowwithlele
 @jackdavis42
 @littlemonk8m
@@ -30873,7 +30872,7 @@
 @AloTalesTv
 @prince_folktales
 @afrokoreanvelvettales
-@DharmaTalesChannel
+@knastudio-i5g
 @Moonveil_Tales_1x
 @moonlitafricantales
 @WildWestTales-q2f
@@ -30957,7 +30956,7 @@
 @PaybackTales9
 @WindwardTales
 @ViralTalesAfrica
-@JapaneseNightTalesbySophie
+@whyjapanbysophie
 @AfricantalesbyZEE1
 @WolfborneTales-z4p
 @Mereth_Tales
@@ -31010,7 +31009,7 @@
 @EchoDreamTales
 @irishfairytales
 @TheFolktalesDiary
-@Ijeomanaijatales
+@ijez-ss
 @AfricanDramaTalesTv
 @Visiontalesng
 @TalesbyChidera-j8f
