@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34419
+! Total Channels: 34428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34435,3 +34435,12 @@
 @BusinessCringe
 @Worldspire
 @tef-AI
+@sacredknowledgetarot
+@darkhistoryclass
+@shantiinstrumentals
+@mrnarration2674
+@LoveLiesChronicles
+@wtfmediaofficial
+@BlackSugar-y1e
+@Demure_Piano
+@Moon-MindTemple
