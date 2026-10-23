@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34531
+! Total Channels: 34535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34547,3 +34547,7 @@
 @MagicSnailzz
 @LOREST-CelticMusic
 @HistorianSleeplessYT
+@PhilosophicalVisioning
+@BladeAnime-t6y
+@HerDramaVerse
+@CloverNO.1SHORT
