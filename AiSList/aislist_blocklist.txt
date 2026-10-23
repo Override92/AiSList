@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34112
+! Total Channels: 34122
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34128,3 +34128,13 @@
 @giovita255
 @dafdivdav3d
 @prehistoricworlddoc
+@roundyfilm
+@DramaVerse-en
+@TheSecondAgeProject
+@L-AI_Animation
+@Prova%C3%A7%C3%A3oB%C3%ADblica
+@TheScriptureRevealed
+@SadiesHeartChronicles
+@BeyondMythsTV
+@genv_ai2026
+@NinjaChronicleytb
