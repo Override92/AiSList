@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33665
+! Total Channels: 33674
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33681,3 +33681,12 @@
 @ProjectDeclassified-w8x
 @purrfable-z2b
 @QueensReel
+@QuietCompound-c4z
+@QuietWolfz
+@Ragalor-o8x
+@RagnarIronwolf
+@ranksofficiel
+@RDEZEDDrama
+@RelatosRayo
+@RescueMechAnimals
+@SalonVikingo
