@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33977
+! Total Channels: 33987
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33993,3 +33993,13 @@
 @Enigma_Dreamscape
 @feelthemdnight
 @WindowCornerJazz
+@Golden-Hour-Jazz-Caf%C3%A9
+@snoopynotes
+@LARASPLEEN
+@ElegantJazzAmbiencee
+@cozyautumnwindows
+@Cozy_Nature_Jazz
+@GreenJazzVibes
+@NocturneSymphony
+@RelaxJazzPorch48
+@aurora.darkacademia
