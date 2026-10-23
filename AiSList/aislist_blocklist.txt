@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33933
+! Total Channels: 33943
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33949,3 +33949,13 @@
 @realmofenchantedtales
 @breakingtimenow
 @IndusForge-k7q
+@simlab.studio
+@minwoo-kim
+@CraneoFilms
+@Restudioseg
+@noisygroup
+@thinktamz
+@cinematicillusions
+@crelixAI
+@JCVSfilms
+@trickerzstudio
