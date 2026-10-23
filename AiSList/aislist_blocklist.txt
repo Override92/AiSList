@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34142
+! Total Channels: 34152
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34158,3 +34158,13 @@
 @MoonbornAlpha
 @VowoftheAlpha
 @TheAlphaKingsBride
+@TheWolfCrown
+@TheAlphaKingNarratives
+@Jessie-alpha
+@Timelessromancee
+@MoonlitChapters-n8b
+@ManorForgottenLetters
+@AlphaKingSyndicate
+@TheAlphaMoonCourt
+@DarkEdge-m6s
+@EmmaAlpha-l6q
