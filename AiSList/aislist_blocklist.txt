@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34217
+! Total Channels: 34227
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34233,3 +34233,13 @@
 @byndepic
 @djmartynremix
 @dawnlydays
+@HeartofJustice-s5t
+@TaylorSwiftTheUntoldLegacy
+@NeoCityHorizon
+@StorytimeEnglishHistory
+@choybokk
+@TitanCraftBuilds
+@ollisam9169
+@VisualEuphoria-t6c
+@KoiStoic
+@StoicVale
