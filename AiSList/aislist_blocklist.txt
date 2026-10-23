@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33730
+! Total Channels: 33739
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33746,3 +33746,12 @@
 @jemroo_official1
 @whoopsages.0
 @bryanmegalife
+@ManhattanDramaTheater
+@DramaBayangan
+@JadeScreenDrama
+@puredramaofficial
+@xingyuan-stardrama
+@CuteDramaNest
+@DramaRush-Hub
+@EvergreenDrama99
+@GuageNO1Drama
