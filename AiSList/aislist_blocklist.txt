@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33728
+! Total Channels: 33730
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24227,7 +24227,6 @@
 @FutureFiles-k4h
 @jeberecap
 @echostialghea
-@clippermaster12
 @aiauditions101
 @humangrits-ns
 @dierentnerdeutschland
@@ -33744,3 +33743,6 @@
 @DramaAIHub-t6c
 @FamilyLineDrama
 @DramaSophia-p3f
+@jemroo_official1
+@whoopsages.0
+@bryanmegalife
