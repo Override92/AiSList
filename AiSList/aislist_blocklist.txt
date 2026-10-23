@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33823
+! Total Channels: 33825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33839,3 +33839,5 @@
 @PopFlickShorts
 @Blackswan00-e3v
 @Airage88
+@Nenea-a5b
+@dudufitme30Tv
