@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34132
+! Total Channels: 34142
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34148,3 +34148,13 @@
 @Monologue_Classic
 @EvelynsAlphaRomanceLibrary
 @WolfSecret-d5o
+@ScriptureLegacy
+@AndroS-o8y
+@omega-romance
+@OutlawRomance
+@LightOfLorien2026
+@SyntheticKitchen
+@MysteryUndertheGaslight
+@MoonbornAlpha
+@VowoftheAlpha
+@TheAlphaKingsBride
