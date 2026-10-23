@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34350
+! Total Channels: 34356
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34366,3 +34366,9 @@
 @SPQRChronicles01
 @MechDisk_ENG
 @PolySoldierShorts
+@Dogunee97
+@Ancientcraft.
+@Factory_Monster
+@tetrazmetalorchestra
+@rawindustry
+@EpicSymphonicMetalMix
