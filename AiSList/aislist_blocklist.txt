@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33844
+! Total Channels: 33854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33860,3 +33860,13 @@
 @5MinuteBuyer
 @ValueVault12
 @DnD.musicworld
+@CoreAI-50
+@mratrox01
+@titanswar365
+@TrailermovieHDDC
+@JTRILER
+@amenfilm-s1c
+@JumpCut-Film
+@Cosmic-Power2.0
+@Real-Anime-X
+@SelectosDE
