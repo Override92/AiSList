@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33806
+! Total Channels: 33809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33822,3 +33822,6 @@
 @SoraWildVibes
 @themagicrealm-j5s
 @LoveStoryVault-q6h
+@LayangDrama
+@NsAnimeOP
+@mrplaytime
