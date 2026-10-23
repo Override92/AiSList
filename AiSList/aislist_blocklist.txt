@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34494
+! Total Channels: 34497
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34510,3 +34510,6 @@
 @ChroniclesOfNorwayOfficial
 @CatnapMelodies-QH
 @OpenVerseStudio
+@kolozsmarcell
+@SheBetrayedMe777
+@Humanconditions101
