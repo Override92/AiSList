@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34199
+! Total Channels: 34209
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34215,3 +34215,13 @@
 @CelticHealingSounds
 @HouseVector
 @MaggieReedRomanceRealm
+@AurorasAlphaRomance
+@VanicaVondellas12
+@ANGELYSrelaxation
+@Ironhelm.official
+@MasonCrossOfficial
+@SCRIPTURACANTATA
+@Skaldyr-y6l
+@CelticDawnSoundscape
+@NyraValeSound
+@EchoofinspirationYT
