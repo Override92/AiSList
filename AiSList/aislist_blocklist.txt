@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33916
+! Total Channels: 33921
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33932,3 +33932,8 @@
 @Planetsandiwara
 @%EC%98%A4%EB%8A%98%EC%93%B1%EB%B4%90
 @Millang.S2
+@MrCoop
+@PurpleGrapeDrama
+@DramasenCorto-w1m
+@FactoraX111
+@TheLastTrack48H
