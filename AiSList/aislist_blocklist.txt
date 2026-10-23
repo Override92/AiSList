@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34334
+! Total Channels: 34340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34350,3 +34350,9 @@
 @GreylinYT
 @Tentalkss
 @Quickdvice
+@TheDailyShort1
+@fitvisionn
+@CinemaGuyEra
+@BlobbyClips
+@NovaMind101
+@KindRecaps
