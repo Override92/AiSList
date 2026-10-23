@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33928
+! Total Channels: 33932
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33944,3 +33944,7 @@
 @sacredstoriesoffaith98
 @ScoutsTheory
 @PolyFilmsOfficial
+@callmhewolf123
+@farmsecretsdaily
+@realmofenchantedtales
+@breakingtimenow
