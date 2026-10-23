@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33718
+! Total Channels: 33728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33734,3 +33734,13 @@
 @SnowflakeDrama-o4j
 @DramaNexus-j
 @DramaVivid
+@MariaDrama-s1
+@dramashort-o8i
+@AITapDrama
+@PerfectDramaStudio
+@LuxShortDrama
+@HeartBloomDrama
+@SkySweetDrama
+@DramaAIHub-t6c
+@FamilyLineDrama
+@DramaSophia-p3f
