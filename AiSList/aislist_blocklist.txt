@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33811
+! Total Channels: 33815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33827,3 +33827,7 @@
 @mrplaytime
 @IFOLOGYFILMS
 @SwanRomanticTheatre-g7r
+@Eloria-Spacedrama
+@GrayTowerStudio
+@Legend-Anime-o2r
+@IAparalelo
