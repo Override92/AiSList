@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33818
+! Total Channels: 33823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33834,3 +33834,8 @@
 @AiPetLegends
 @TopTailClips
 @HeavenlySoul-j1d
+@nmcmusic6991
+@Aeysamusic
+@PopFlickShorts
+@Blackswan00-e3v
+@Airage88
