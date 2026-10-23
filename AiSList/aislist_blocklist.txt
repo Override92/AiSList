@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33684
+! Total Channels: 33694
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33700,3 +33700,13 @@
 @SwoonRushDrama
 @Teermovi
 @The.DailyBloom
+@TheCinematicsStories
+@TheCrazyTacoMan
+@thefinance_pov
+@TheLegendPov
+@TheMoneyGame777
+@TheStoicPatterns
+@Thora_north
+@Ulfrunna
+@UYANAMUSIC
+@valkyrija_north
