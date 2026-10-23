@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34290
+! Total Channels: 34299
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34306,3 +34306,12 @@
 @GraceDigitalnetwork
 @Choosejesusofficial
 @gyanibol
+@dramawaveapp
+@nexumnew
+@Spivangers
+@Oceanrideer
+@WhatIfLogic-s3h
+@FernFlowerLore
+@Stickversetaless
+@kianodyssey
+@MikoIf
