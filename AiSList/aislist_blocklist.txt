@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33738
+! Total Channels: 33736
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -218,7 +218,6 @@
 @thebizarrevault
 @ReallyNotAi
 @Rapoh1
-@Hayatworld-n8g
 @reallyweirdai
 @GeekRift
 @TheWokandAnok
@@ -227,7 +226,6 @@
 @Todd_AI_Animal
 @AprilAI.Channel
 @SuperGoodCat
-@Acorn_Studios_official
 @JellyJam-q4o
 @Laugh2cry
 @AIMeow-kitten
@@ -26021,7 +26019,6 @@
 @thelamplithour-r2y
 @fayemiwo.queentv
 @mateoexplicacine
-@the_unlucky_peasant
 @istinkofpoox2
 @littleadventurekid3.0
 @hasanzng21
@@ -33754,3 +33751,4 @@
 @QuickieRomanceDrama
 @bngripple
 @acorn.studios.official
+@shinakutruth
