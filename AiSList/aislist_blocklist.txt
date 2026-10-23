@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33626
+! Total Channels: 33636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33642,3 +33642,13 @@
 @Flip_ThatDrama
 @FrankieFinanceTV
 @FrostmourneHymns
+@FutureFrameMovies
+@gcaicreate
+@GenAIwithKeera
+@glimmerlightproductions
+@GlobalAfricantalesGlobalAfrica
+@glshts
+@GoodShortMoments-1
+@halinusfilms
+@HeartstringDramas
+@HerStoryReel-f8z
