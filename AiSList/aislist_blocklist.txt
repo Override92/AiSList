@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34023
+! Total Channels: 34032
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34039,3 +34039,12 @@
 @threshold-tapes
 @GoldenIrishMemories
 @HighlandAngelMusic
+@AsadLima-o4w
+@AislingLyra
+@Ahnenruf
+@QuantumCoreX-l5m
+@Wolfskald
+@VocaloraMusic
+@OutlawGraceOfficialMusic
+@WolfskaldVEVO
+@MaphelOfficial
