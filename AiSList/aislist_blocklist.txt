@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34438
+! Total Channels: 34447
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34454,3 +34454,12 @@
 @StorytimeHavenOfficial
 @BellasComicChronicles
 @FantasyWorldMelodies
+@AiAsmrloop
+@SolbornVanguard
+@KonbiniLofi
+@LateNightMelodies123
+@RegJamz
+@musiqpromos
+@gomics_beats
+@fatherkindnessstory
+@MoonBoneStudios
