@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33800
+! Total Channels: 33802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33816,3 +33816,5 @@
 @ExploraAnimales
 @GildedHeartDramas
 @Alphaminute4u
+@TheDramaspot-p1y
+@PopShortDrama-v5e
