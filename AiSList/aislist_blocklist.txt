@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33781
+! Total Channels: 33784
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33797,3 +33797,6 @@
 @ThePhoenixCinema
 @NorthframeOriginal
 @FunNotSoFun
+@blenzocinema
+@hmdaming
+@talesbyhoney.11
