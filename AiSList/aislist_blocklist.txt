@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33943
+! Total Channels: 33953
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33959,3 +33959,13 @@
 @crelixAI
 @JCVSfilms
 @trickerzstudio
+@zzooraki
+@stezen-q8p
+@NutfarmDave
+@rahulomreniwal
+@kaminofilms
+@yogaarizona
+@MaxBarskih
+@Ev1L_Pug
+@MiguelJohnson
+@KVTLiquidPictures
