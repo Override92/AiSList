@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34391
+! Total Channels: 34401
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34407,3 +34407,13 @@
 @AurelumeFilms
 @iwannahoop
 @historycountless
+@20MinProfessor
+@brainyfactsyoutubechannel
+@JackdawJPG
+@Moon-Real
+@MrNoPlanA
+@MrUnknownXD
+@Psyvian6868
+@thapaintnerd
+@AFKnow47-yt
+@TheForgottenUntold-c6t
