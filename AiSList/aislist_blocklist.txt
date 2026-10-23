@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34347
+! Total Channels: 34348
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34363,3 +34363,4 @@
 @udsmv
 @ByteTalkYT-l8s
 @DirtbikeMoggers
+@SPQRChronicles01
