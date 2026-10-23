@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33743
+! Total Channels: 33738
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7634,7 +7634,6 @@
 @moderndefenseglobal
 @eyepatrol_yt
 @mediaairecords
-@hoastoryhub-q4h
 @restorefusion
 @퍼피휴게소
 @piotrcienwronski
@@ -9463,7 +9462,6 @@
 @TheChroniclesofTolkien
 @Ministryoffilms
 @abandonedfilms
-@AiofEuphoria
 @NeuroFramesAI
 @AiGuideus
 @Mega-Tsunami83
@@ -31222,17 +31220,14 @@
 @Afro-KoreanTalesStudio
 @TavernOfTalesAndSongs
 @africanepictales-TWL
-@PureLove%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA
 @AfricanHeartTales-i4q
 @DramaTrap_English
 @Talesbykhomen
 @SavageAlpha_12
 @ClassicUrdufolktales
-@OmegaGirl-TheAlphaKing
 @FrontierMoonTales
 @SolarChronicles-o1m
 @WildWestTales-i2j
-@%E7%88%86%E6%AC%BE%E7%A4%BE-LBKZ
 @purrfect.tales0
 @MoodCapsules
 @TimelessFairyTales-gv2yf
