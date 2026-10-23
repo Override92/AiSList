@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33607
+! Total Channels: 33616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33623,3 +33623,12 @@
 @CruxXFlamma
 @DailyDramaSeries-w8f
 @DaughtersofOdin
+@DrakeForge
+@dramaboxapp
+@DramaLoveHouse-z3z
+@EchoXRock
+@einarsolvik
+@EldnorseStudios
+@ellasromancelibrary
+@ElvenHearts
+@Epoch_Timeline
