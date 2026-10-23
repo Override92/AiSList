@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33825
+! Total Channels: 33834
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33841,3 +33841,12 @@
 @Airage88
 @Nenea-a5b
 @dudufitme30Tv
+@MapocaIypse
+@WhatIfAnimatedLTD
+@CanadaTimeline-b9x
+@offthescaler
+@GassantMusic
+@TSoundcovers
+@wearepolyverse
+@RedfoldDocumentary
+@Handgun-009
