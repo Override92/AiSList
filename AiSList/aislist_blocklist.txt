@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34191
+! Total Channels: 34199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34207,3 +34207,11 @@
 @KingsHorizon-e2j
 @DragonRiderRomance
 @Somnuswithsleep
+@LilytheLastWerewolf
+@BlackspireBastion
+@fallenkitty2894
+@ExtraordinaryCanvasArt
+@Golden-Quiet-Things
+@CelticHealingSounds
+@HouseVector
+@MaggieReedRomanceRealm
