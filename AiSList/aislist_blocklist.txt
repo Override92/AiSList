@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34209
+! Total Channels: 34217
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34225,3 +34225,11 @@
 @CelticDawnSoundscape
 @NyraValeSound
 @EchoofinspirationYT
+@AshasAmbientRealms
+@auralielmusic
+@SonicBeatzTV
+@TheSunderedAge
+@LiberSoul-c3
+@byndepic
+@djmartynremix
+@dawnlydays
