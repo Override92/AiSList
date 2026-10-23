@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33932
+! Total Channels: 33933
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33948,3 +33948,4 @@
 @farmsecretsdaily
 @realmofenchantedtales
 @breakingtimenow
+@IndusForge-k7q
