@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33708
+! Total Channels: 33709
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10142,7 +10142,6 @@
 @TalesbyMira-1
 @Ai-Flow-1
 @AIPlayground-o9e
-@StoriesFromTheSecretPlace
 @aibibletamil
 @Bodhiinsights2024
 @KahaniVibes17
@@ -33724,3 +33723,5 @@
 @YRVANA
 @%D8%A7%D8%A8%D9%88%D8%A7%D8%AD%D9%85%D8%AF-%D9%857%D8%B26%D9%83
 @%E5%A5%BD%E9%81%8B%E5%8A%87%E5%A0%B4
+@merryvintage
+@historylongbeforeus
