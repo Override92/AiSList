@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34057
+! Total Channels: 34066
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34073,3 +34073,12 @@
 @aelyonstudio
 @ItsTimetoLive-t3f
 @CrownCrossStudios
+@NeonRidgeMedia
+@NeonToad7
+@StarCrusadeIP
+@OrctonAI
+@GusArtmanAI
+@SKD-w7n-h9z
+@GODANIMEDNA
+@NorseFireMusik
+@EpicAuditionsTalent
