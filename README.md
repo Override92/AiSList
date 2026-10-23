@@ -31,10 +31,10 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 6969 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 6974 |
 | 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 4611 |
-| 🥉 3 | [@www2](https://github.com/www2) | 3156 |
-| 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2125 |
+| 🥉 3 | [@www2](https://github.com/www2) | 3173 |
+| 4 | [@FedupOfAI](https://github.com/FedupOfAI) | 2126 |
 | 5 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 1227 |
 | 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 365 |
 | 7 | [@Oflogon](https://github.com/Oflogon) | 342 |
