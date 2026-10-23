@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33867
+! Total Channels: 33866
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32421,7 +32421,6 @@
 @CyberTales-channel
 @LockThink
 @EmpireFamilyTales
-@NotWhatYouThink
 @monstertexttales
 @SocialMusicThinker
 @ThinkBoard-s5b
