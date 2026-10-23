@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33998
+! Total Channels: 34006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34014,3 +34014,11 @@
 @Bboyyshredder
 @DreamyFrame-x6i
 @LuxuryJazzNight-h6x
+@Traivis_FunFactory
+@DeepCitadel
+@VEXIS420
+@RIVN-Music
+@MetalReaperMusic
+@empirebeats24
+@SyraxSoul
+@dgeggi
