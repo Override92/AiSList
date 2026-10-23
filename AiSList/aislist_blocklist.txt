@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34267
+! Total Channels: 34275
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34283,3 +34283,11 @@
 @UnknownTomorrow0
 @CovenantTheater
 @JOWO24
+@D-PixelLab
+@TheVisitorsAreNotOurFriends
+@Chroniclecapsule
+@Geschichte_Entdecken
+@skogulmusic
+@StormfjordMelodies
+@ValhallaWarChantsFM
+@nordhrvegr-vikingmusic
