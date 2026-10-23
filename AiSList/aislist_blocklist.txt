@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33987
+! Total Channels: 33992
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34003,3 +34003,8 @@
 @NocturneSymphony
 @RelaxJazzPorch48
 @aurora.darkacademia
+@Surreverb
+@CrimsonNocturneOrchestra
+@RelaxingPiano-m6r
+@QuietJazzAmbience
+@Era.eScapes
