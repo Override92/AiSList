@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33636
+! Total Channels: 33646
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33652,3 +33652,13 @@
 @halinusfilms
 @HeartstringDramas
 @HerStoryReel-f8z
+@iichnizza
+@ironashofficial
+@JCunliffeUK
+@KAIManhwaRecap-r5o
+@Laga-b6i
+@Lazy-t2n
+@likedemaat
+@LorenaDrama-c7x
+@LoveBloop
+@LoveraVibes
