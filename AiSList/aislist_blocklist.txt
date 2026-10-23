@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33786
+! Total Channels: 33788
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33802,3 +33802,5 @@
 @talesbyhoney.11
 @FrankAIUniverse001
 @LeinadLevels
+@NobleHeartRomance
+@NovaDrama-e5i
