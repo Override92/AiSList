@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33586
+! Total Channels: 33585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6972,7 +6972,6 @@
 @PaintowyNauczyciel
 @justmemoryvision
 @tidcartoon67
-@englishedenus
 @dailydoseshow1
 @sablal1212
 @syedahkampov
@@ -14413,7 +14412,6 @@
 @EchoesOfTheAncestorsHQ
 @Africanstoryhaven-t6h
 @Folktale_Afr
-@Amytech-z3t
 @StorygloMedia
 @EchoesfromtheBaobabTree
 @afrojazzhorizon
@@ -33602,3 +33600,4 @@
 @epicanimestory
 @ajfactoryflow1
 @mtfdellanima
+@billionscalefactoryandlofi
