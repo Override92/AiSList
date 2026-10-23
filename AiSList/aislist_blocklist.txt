@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33854
+! Total Channels: 33864
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33870,3 +33870,13 @@
 @Cosmic-Power2.0
 @Real-Anime-X
 @SelectosDE
+@SoulTapeArchives
+@ribbonfame
+@CsMadeEz
+@CosmosparaDormir_8
+@Shudrr
+@SpacewaxRecords
+@NuttyBlueRice
+@HistoryInSecondsTR
+@KinoMakesSense
+@ProjectNightwatch-s3z
