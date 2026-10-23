@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34466
+! Total Channels: 34475
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34482,3 +34482,12 @@
 @TheFoodBreakdownTV
 @PathofKnowledge2025
 @MMAUnpacked
+@BedtimeHistoryRelaxation
+@Sam.refay.calmnights
+@Whyologica
+@BennyRevealed
+@LostChronicles-y3d
+@Frequencies_of_the_Soul
+@TheVeltharaArchives
+@HisStory404
+@countrydarker
