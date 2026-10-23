@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34501
+! Total Channels: 34511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34517,3 +34517,13 @@
 @MedievalReverie-e8e
 @THEDIVINEMESSAGE-r3m4g
 @Sleepy.Mystery.Channel
+@Quante-k8g
+@HumanAscendancyYT
+@TheFinalRevenge-r5f
+@FortifiedMindstory-g5i3m
+@TheAtlas.Archives
+@HumanReign
+@MrBack-e6o
+@GardensLab
+@TStellarHumanity
+@CosmicDreadnoughts
