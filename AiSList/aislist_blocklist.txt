@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34325
+! Total Channels: 34334
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34341,3 +34341,12 @@
 @FactiqBoy
 @ContentNetGermany
 @Ashyyy-
+@HeyHistorically
+@CashJordan
+@Dr_Bob
+@chubbyemu
+@TerraGreen1
+@VorticalVO
+@GreylinYT
+@Tentalkss
+@Quickdvice
