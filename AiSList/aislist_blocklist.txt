@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33616
+! Total Channels: 33626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33632,3 +33632,13 @@
 @ellasromancelibrary
 @ElvenHearts
 @Epoch_Timeline
+@EthanStorytime-u9j
+@EvanMercerMoney
+@Everflame01
+@EverydayBackfire
+@ExplainyDude
+@FablePop_studio
+@Film_Drawer
+@Flip_ThatDrama
+@FrankieFinanceTV
+@FrostmourneHymns
