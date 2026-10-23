@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33741
+! Total Channels: 33743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33757,3 +33757,5 @@
 @SnapDrama-o8z
 @LoveLoopDrama
 @QuickieRomanceDrama
+@bngripple
+@acorn.studios.official
