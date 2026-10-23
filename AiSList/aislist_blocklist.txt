@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34428
+! Total Channels: 34438
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34444,3 +34444,13 @@
 @BlackSugar-y1e
 @Demure_Piano
 @Moon-MindTemple
+@SleepyPhilosphy
+@themedievalinn
+@LanternRidge
+@SilentRevengewithDad
+@LatentTelevision
+@TSWG-75
+@Symbology-Cinematics
+@StorytimeHavenOfficial
+@BellasComicChronicles
+@FantasyWorldMelodies
