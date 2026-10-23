@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33694
+! Total Channels: 33703
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33710,3 +33710,12 @@
 @Ulfrunna
 @UYANAMUSIC
 @valkyrija_north
+@vellestechempire
+@Vexavira
+@vigruna
+@Viking_Music_Official
+@watchfauna
+@Wealth_POV_Stories
+@Whatif4k
+@WhisperVerse-z5w
+@WhyVerse1997
