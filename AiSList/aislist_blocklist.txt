@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34247
+! Total Channels: 34257
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34263,3 +34263,13 @@
 @ADIKTSOUND
 @AegisofSol-x7w
 @MeaningfulSouls-z4
+@FreyaRabenschild
+@Nordlicht_Klang
+@VikingsLawai
+@LiebeimWildenWesten-o6v
+@LetzterReiter
+@GeschichtenWelt-k1z
+@MeaningfulHorizons
+@Klangfuchs_Music
+@patrikdahlgren9742
+@AuroraBlaze-OG
