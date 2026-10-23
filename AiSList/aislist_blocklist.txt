@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33587
+! Total Channels: 33586
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17813,7 +17813,6 @@
 @TexasReaperRadio
 @SproutCycleGarden
 @YachtVerse
-@revengealleyyt
 @diplomaticjudge
 @psboxingclassics
 @заееулыбкои
