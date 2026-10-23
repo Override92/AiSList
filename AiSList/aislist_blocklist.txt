@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34048
+! Total Channels: 34057
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34064,3 +34064,12 @@
 @HushBloom3008
 @laya-rpg
 @kimeraproductionVFX
+@Filofilm-AI
+@Humanoid_Space_Odyssey
+@AroraCypherOfficial
+@TheErebusProtocol
+@sarsenbekk
+@CANTHEATER
+@aelyonstudio
+@ItsTimetoLive-t3f
+@CrownCrossStudios
