@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34275
+! Total Channels: 34283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34291,3 +34291,11 @@
 @StormfjordMelodies
 @ValhallaWarChantsFM
 @nordhrvegr-vikingmusic
+@SolvstrandMusic
+@Touch.Factory
+@Hollow-r5h
+@Eternal-Flame-Here
+@Galadriel_Symphony
+@d4zany
+@RedHorizonUSA
+@ZOVENSTUDIOS
