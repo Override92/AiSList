@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34085
+! Total Channels: 34095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34101,3 +34101,13 @@
 @DeepViolinVibes
 @CousticBlues
 @CrowboneCountry
+@Trio%C3%89irelia
+@GhostHighway-m7y
+@TalentsReborn
+@SarahThomsonofc
+@Melodymatrix-q6h
+@DarkCountry66
+@ValerieVayne
+@LumeraHouse
+@VelvetHearts-S23
+@SapphicNotes
