@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34376
+! Total Channels: 34386
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34392,3 +34392,13 @@
 @MorganLunasongs
 @Rainy_Bedroom
 @LivingFaithMotion
+@terramidia3d
+@MathiasFritsche
+@KimoSounds
+@EchoesoftheNazarene
+@MoboReelsComplete
+@jmpentertainment.
+@SoundPassportAJourney
+@TUTOPREMIERE
+@quantumnexus_yt
+@LaiDrama-LD
