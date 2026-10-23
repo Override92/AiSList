@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34401
+! Total Channels: 34410
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34417,3 +34417,12 @@
 @thapaintnerd
 @AFKnow47-yt
 @TheForgottenUntold-c6t
+@PsychologyUndercover1
+@AEONMinds-s2q
+@StrangeOrigins8
+@tonimal-animal
+@synthsamuraiproductions
+@PsychologyUncovered-86
+@thejapan-way
+@DarkMindBud
+@ForgottenCharmAmerica
