@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 33592
+! Total Channels: 33587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10017,7 +10017,6 @@
 @cosmiospace
 @skullsfactory1
 @groupenglishanimalfacts
-@johneconomic-h1k
 @worldcupanthem
 @streamer-files
 @thinklikeanimal
@@ -12327,7 +12326,6 @@
 @velvetnoirjazz68
 @FrontlineVinyls
 @NoRushJazz7
-@JazzMeowlody-h7r
 @ShortStorysVerse
 @SanguiniusSoundscapes
 @Zeusdecodes
@@ -14383,7 +14381,6 @@
 @spectra_sound
 @FiscalRelics
 @marketeasyhai
-@WorldParade-w4
 @DivineWhisper11111
 @GodsblessedVoice
 @ArtificialWordBearer
@@ -25552,7 +25549,6 @@
 @miniworld24-r2w
 @creepyai-u1j
 @ProtyushSaha-k3p
-@AIclassick
 @AIMarvelMayhem
 @Aicinematiclover
 @AIMarvelUniverse
@@ -25646,7 +25642,6 @@
 @KidSpark-World
 @VegetableAi-v6o
 @Chicokidsaivideos
-@aiview-e10
 @AIChildrenEducation
 @NoorNexKidsAI
 @AIKidsPlanet08
