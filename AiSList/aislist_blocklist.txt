@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34907
+! Total Channels: 34915
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34923,3 +34923,11 @@
 @CosmicFuzzwell
 @animations_js
 @RayColeman-z9r
+@EliasHomestead
+@BuildsWithEliYoder
+@Thestoryroom-123
+@homestead-w9v
+@HiddenHomesteadStories-v2s
+@BillyRayHomestead
+@HomesteadFables
+@TitusFreemanHomestead
