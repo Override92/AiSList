@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34797
+! Total Channels: 34803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34813,3 +34813,9 @@
 @IslamicHistoryFiles-l4x
 @DNAFiles1
 @TheJulietteFiles
+@CrimsonPsycheFiles
+@RedCamFiles-g4g
+@ModernHistoryFiles-w2l
+@CarFailureFiles
+@MotorsFiles
+@Somnium_Files
