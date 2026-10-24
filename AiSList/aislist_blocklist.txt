@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35079
+! Total Channels: 35087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35095,3 +35095,11 @@
 @WithJesusDaily
 @RestinJesus333
 @Jesus11_Toys
+@WalkWithJesusOfficial_07
+@The_Esoteric_Jesus
+@JesusforEverydayLife
+@Jesuspath_official
+@TheLastPeasant
+@JesusWalksBeside
+@PlotLab-r1h
+@honeyreels_app
