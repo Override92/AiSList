@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34925
+! Total Channels: 34935
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34941,3 +34941,13 @@
 @billysmarthomestead
 @purehomestead
 @Homestead_Legacy
+@MedievalLife-j7t
+@StudioRoomMedieval
+@MedievalUncoveredYT
+@MedievalVillageChronicle
+@Iron_Ash_Medieval
+@MedievalMoodyMelody
+@MedievalTavernSongs-c9i
+@MEDIEVAL_HISTORY95
+@MedievalSound-j1v
+@MedievalCinema
