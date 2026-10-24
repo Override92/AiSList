@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34690
+! Total Channels: 34685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7746,7 +7746,6 @@
 @WOODSHOP-CRAFT
 @ThePolygonDreamer
 @--N4R1
-@moneywarexposed1
 @CelebZone-y5b
 @StsauveurSheryll
 @Investors-Compass-1
@@ -32801,7 +32800,6 @@
 @KindnessTales-z2i
 @HopeTales-us
 @HiddenRankTales
-@HeartTales-z9c
 @HarvestTales-4u
 @GoodHeartTales2.0
 @soundflow_lab
@@ -32810,10 +32808,7 @@
 @FairyTales.English
 @FamilyTalesbyAnish
 @FamilyTalesByDaniel-b3x
-@FarmerFrontierTales
 @FrontierLoveTales11
-@FrontierLoveTales-o6b
-@GalacticHeroTales
 @FamilyTales-o8m
 @TheNordicVoid
 @nordicwarsongs
