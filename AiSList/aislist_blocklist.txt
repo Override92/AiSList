@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34935
+! Total Channels: 34945
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34951,3 +34951,13 @@
 @MEDIEVAL_HISTORY95
 @MedievalSound-j1v
 @MedievalCinema
+@MedievalJoseph
+@Medievalmusic27
+@MedievalCastleWindow
+@ChillDudeMedieval
+@MedievalPath00
+@MedievalArchives007
+@MedievalPathfinder
+@MedievalLoveStories
+@MedievalUndercovered
+@VoxMedieval
