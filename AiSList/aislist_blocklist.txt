@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34986
+! Total Channels: 34983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14786,7 +14786,6 @@
 @theliltech
 @StockMarketPalantir
 @Churipli
-@Smarter_Spend
 @Trust.Allah2000k
 @TheMacroDecay
 @WealthWise-YT1
@@ -22501,7 +22500,6 @@
 @HouseofRevenge-i2b
 @CombatStories-v3s
 @FilipinoStoriesUnveiled
-@EpicCoCTrials
 @Povpoint-b6v
 @HyperRealPOV
 @pov_archive_project
@@ -28362,7 +28360,6 @@
 @TechLifeProYT
 @ProfessorLionOfficial
 @LegoRecords-q5p7s
-@drcuriosityexplainer
 @RedaktorOrangutan
 @DrBrightExplains
 @BraincellArchives
