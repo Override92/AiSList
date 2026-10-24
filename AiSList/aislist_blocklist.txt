@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34666
+! Total Channels: 34665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4338,7 +4338,6 @@
 @PAISATRACKER
 @ZenoFinance01
 @BrandonInvests
-@ProfessorBrainEXPLAINS
 @TheEconomicShock
 @WebsterOfficial2
 @StockAIinsights
@@ -4352,7 +4351,6 @@
 @Nate-Bishop
 @empireandmoney
 @YourJohnUSE
-@simplefinance00
 @FinanceCompass111
 @ADragonNaturally
 @VionixMusic12
@@ -8182,7 +8180,6 @@
 @AgriTechSmart
 @Golden_LifeHealth
 @InsidetheWorks-j3c
-@CosmosDustTalks
 @TLCDRAMALIVE
 @RevolverRoomStudio
 @ForbiddenVault7
@@ -34682,3 +34679,5 @@
 @thevaultpovl
 @trackingfinances
 @Ally.ugc.323
+@偷偷看短劇
+@geomystery-e1f
