@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34672
+! Total Channels: 34667
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4045,7 +4045,6 @@
 @BoardKaren
 @TheHOAdiaries
 @HOAtea99
-@FeynmanTeLoExplica
 @CapriioCourt
 @Tajemstvívesmíru2025
 @kaique-v9h
@@ -4261,7 +4260,6 @@
 @MidnightHypothesis
 @Richard-Faymem-Motivation2
 @YumiPloo
-@JohnAGMacro
 @MiniMelody_MM
 @thedailyshiftnetwork
 @UntoldMoneySecrets-u2i
@@ -4325,7 +4323,6 @@
 @WW2History-Hub
 @WW2WarTales-q7k
 @KNmoneytalks
-@MetalMindFinance
 @MrAG_Asian_Guy
 @cashyandledger-l8m
 @KENZO-OFFICAL19
@@ -32164,8 +32161,6 @@
 @talesofwisdom-ENG
 @RiseDoseEnglish
 @TALES-BY-EMAN
-@FuelYourDreamsWorld
-@KarmindTV
 @FiksGriotProductions
 @soullovestories-v6g
 @FolktaleDipo
