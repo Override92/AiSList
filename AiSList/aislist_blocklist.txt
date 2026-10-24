@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34823
+! Total Channels: 34831
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34839,3 +34839,11 @@
 @BorderlineFiles10
 @38thparallelfiles
 @CourtroomShockFiles11
+@HomeroomFiles
+@StaticFilesHFY
+@thecruisefiles
+@ForgottenFiles2302
+@BritishFoodFiles
+@USFiles-today
+@Autofilesyt
+@AmericanJusticeFiles
