@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34527
+! Total Channels: 34522
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3731,7 +3731,6 @@
 @Secretosespiriituales
 @NolanzoAnimationtv
 @goldsilverpronews
-@GoldSilverMarketWatch
 @JohnAG-x8g
 @RogersGoldSilver
 @WolffExplained
@@ -21516,7 +21515,6 @@
 @blackstorieswithdrbilal
 @kwebbelkop
 @KwebbelkopAI2.0
-@apnavideohub-n3h
 @fromageandballball
 @partsthatchangedhistory
 @BigStepsMedia
@@ -23483,7 +23481,6 @@
 @bhaaratdesh-tv
 @AnniesRomance
 @Astro_Depth
-@AutoPower-u1b
 @Backstagenoise2000
 @BestSmartKitchen12
 @BeyondGilded
@@ -29127,7 +29124,6 @@
 @holdonlemmeexplain
 @PovGuyTV
 @ColorInsideLines
-@ThePovbro
 @TimeTravellingGuy
 @TheImaginePOV
 @history_archives-mhn
@@ -29222,7 +29218,6 @@
 @TheInnerBuddhaCode
 @GoldenLotusWisdom1
 @AaAa-rh9js
-@Serene_Mind_365
 @Nightly_Wisdom
 @BuddhismHarmony
 @BuddhasPath-TT
