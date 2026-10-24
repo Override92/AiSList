@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35089
+! Total Channels: 35093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35105,3 +35105,7 @@
 @nytheraoficial
 @tinycafejazz
 @0玄冥0
+@freydis_nordic_music
+@rosa-cook
+@hiroshisgarage
+@reverlane
