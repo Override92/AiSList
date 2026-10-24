@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34670
+! Total Channels: 34665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32167,11 +32167,9 @@
 @TheDisputeDen
 @PlayNdrama01
 @TheVaultPOV%C5%82
-@Thestorykraal11
 @EchoesOfTheFirelight-d3y
 @talesbyAj-1
 @EchoesOfWisdomByCrystal
-@Jeymi_jey
 @AfricanHeartbrokenTales
 @PlayTwist1
 @jcubeTales
@@ -32202,7 +32200,6 @@
 @AfricanTalesByChizo
 @HerWalkInFaithCollective
 @PorsheChronicles
-@wondermagnetstudio
 @storiesbytega01
 @soulfulwarmingstories
 @folktalekingdom
@@ -32281,7 +32278,6 @@
 @HisEternalDiary
 @JanesRomanticCollection-k6t
 @RoyalScandalsDesires
-@InsomniaCape-p8l
 @Epic-RomanceStories
 @MountainManSecrets
 @DarkRomanceStory026
@@ -32292,7 +32288,6 @@
 @VelvetLore-l8v
 @GalacticHeroesUnited
 @AlphaDominion-i3h
-@WhisperNovels
 @TheDrowHistorian
 @AlphaSovereign-n9i
 @Viral_Story
