@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34945
+! Total Channels: 34955
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34961,3 +34961,13 @@
 @MedievalLoveStories
 @MedievalUndercovered
 @VoxMedieval
+@MedievalstoriesRS
+@MedievalDiscoveries
+@MedievalHistoryDiaries
+@MedievalDreamState
+@midnight_medieval
+@BeneathMedievalPower
+@MedievalHeroVibes
+@AsianMedievalHistory1
+@MedievalHistoricals
+@MedievalMonday
