@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34522
+! Total Channels: 34521
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4126,7 +4126,6 @@
 @theanimelofi
 @Chill_Village
 @chillcitynight
-@Neon-DriftNight
 @A-Lofi-Soul
 @myour-music
 @LofiSeminar
