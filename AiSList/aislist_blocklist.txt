@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34697
+! Total Channels: 34695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18576,7 +18576,6 @@
 @MorphitectAI
 @ASMRVehicleRestorationHub
 @AmanSharma-gx1zm
-@Chill-RnB-Dreams
 @OpenBeat_Studio1192
 @HeartglowTales-k4b
 @TheMachine-MadeMuse
@@ -18614,7 +18613,6 @@
 @LoveRevengeDrama-z8v
 @RavenOath26
 @EmpireNocturne
-@noxiras_production
 @UnderworldRomance-f2e
 @ArmysDreamEntertainment
 @ForbiddenMafia
