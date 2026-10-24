@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35086
+! Total Channels: 35085
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34337,7 +34337,6 @@
 @historycountless
 @20MinProfessor
 @brainyfactsyoutubechannel
-@JackdawJPG
 @Moon-Real
 @MrNoPlanA
 @MrUnknownXD
