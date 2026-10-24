@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34554
+! Total Channels: 34563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34570,3 +34570,12 @@
 @mr.ryusora
 @Newsora0
 @MetaloidoMusic
+@ProfessorAldric
+@Roman_Marwell_Recut
+@EMVerse-k2d
+@SlavicMusic-s1k
+@Sora_Stud1o
+@FreyaNoir-m7i
+@Sora_Tube-n1x
+@SORA2_STUDIOS
+@ElviraMetalBand
