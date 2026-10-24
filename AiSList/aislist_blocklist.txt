@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34529
+! Total Channels: 34527
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13329,7 +13329,6 @@
 @JetStyle-pl
 @designchapel
 @MoHero-123
-@SauravThakur-p7q
 @Iron_man_ai
 @halarabwastaken
 @ScaleWithStories
@@ -23482,7 +23481,6 @@
 @AniBite_01
 @AnimalsMachina
 @wszystkoozywnosci
-@satisfyforge-1
 @bhaaratdesh-tv
 @AnniesRomance
 @Astro_Depth
