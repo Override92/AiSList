@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34747
+! Total Channels: 34757
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34763,3 +34763,13 @@
 @TheBuiltWorldFiles
 @filesfromtheattic
 @TheArchiveFiles-w3v
+@THEWARFILES-b8q
+@TheXfilesStoryTeller
+@TheExplainFiles
+@FrontFiles-i5z
+@TheBoneyardFiles
+@TheFamilyFeudFiles
+@BetrayalFalloutFiles
+@TerraFiles-n1m
+@WW2Crewfiles
+@InheritanceFiles-u3n
