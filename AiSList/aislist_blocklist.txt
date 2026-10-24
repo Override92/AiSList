@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34966
+! Total Channels: 34976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34982,3 +34982,13 @@
 @medievalcrazyhistory
 @BoringMedievalTimes
 @MedievalSleepJourney98
+@BibleStoryCinema-l4j
+@TheUntoldBible-godstories
+@BibleToldSlowly
+@hiddenheroesbible
+@TheSimpleBible-US
+@BibleReadingwithRobert
+@BibleStoriesExplainedDaily
+@DorasBibleMind
+@BibleenAccion
+@bibleanimation-2025i
