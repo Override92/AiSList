@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34544
+! Total Channels: 34554
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34560,3 +34560,13 @@
 @Ifinite-c5h
 @Bestsoravid
 @BobRossCrashOuts
+@LunarzoneAnimates
+@Corporate_Meighlow
+@entertainmentwithsora
+@AniFresh98
+@laciversion
+@MagiicToonai
+@StealthWealthChannel
+@mr.ryusora
+@Newsora0
+@MetaloidoMusic
