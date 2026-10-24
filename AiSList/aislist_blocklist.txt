@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34534
+! Total Channels: 34529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2994,7 +2994,6 @@
 @BlackCaptainHFY
 @HealingWithMe.
 @TalesSphere
-@BumpyJohnsonsLetters
 @HumansemotionalStories
 @HeartfireStories
 @789-z5b
@@ -3092,7 +3091,6 @@
 @MoneyMadeSimple-z9g
 @FinancialInspection
 @HiddenEconomicRevelations
-@Economy-Rewind
 @HealthyAgingTalk
 @LastChanceIsToday
 @YOUNGversusOLD
@@ -3348,7 +3346,6 @@
 @RealLoveStories-byLia_Stuart
 @EveryLoveStoryy
 @Feyvoritestories
-@OldWestRange
 @pathsofromance
 @TheObsessionScript
 @RevengeZnUS
@@ -8172,7 +8169,6 @@
 @ALIENMEGAFACTORY
 @TheSwissExplainer
 @Geschichten-c3n
-@Timesuptheseries
 @szimessiah9442
 @HowStuffRuns-m5s
 @MuhammadIrfan-b8d1o
@@ -31245,7 +31241,6 @@
 @BetrayalTales-b6f
 @OopsLegacy
 @SoftBrokenTales
-@DoodleDollars-c1s
 @Alex_Tales-Of-Ancient-Egypt
 @ManhwaCoconut
 @Smilezfolktales
