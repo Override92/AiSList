@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34707
+! Total Channels: 34717
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34723,3 +34723,13 @@
 @UNKFiles_usa
 @TheDigitalFiles-g5o
 @JusticecrimeFiles-n1j
+@TheMysteryFiles0-1
+@DillCaseFiles
+@TheFamilyRevengeFiles
+@JambudvipaFiles
+@globaltechfiles
+@TyphlosionsMusicArchives-o3p
+@DeepSpaceFiles-j8o
+@TheMachineFiles-q1c
+@SyntheticLoveFiles
+@TheSuppressedFiless
