@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34694
+! Total Channels: 34689
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5509,7 +5509,6 @@
 @500DaysofReddit
 @HOADramaYT
 @KarenSpeaksYT
-@KarenontheBoard
 @hoachronicles23
 @TheHOAFiles-e5b
 @KarenConfessionsYT
@@ -32402,8 +32401,6 @@
 @MUSICOFTHEAFRICANSOUL
 @TalesofCourage-f3y
 @TalesofValor-ykmz
-@TopTales-o4x
-@UnkownHeroineTales
 @VeraTales-k5x
 @WesternDriftTales
 @whirltales960
@@ -32459,9 +32456,7 @@
 @HOAJUSTICE-37
 @HOAJustice990
 @HOAJusticeStories-27
-@HOALandBattles
 @HOANightmares-l8x
-@HOAPropertyWars
 @HoardingMilitaria
 @HOARealFace
 @HOAreckoning-c1o
