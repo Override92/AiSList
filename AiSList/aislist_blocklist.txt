@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34563
+! Total Channels: 34572
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34579,3 +34579,12 @@
 @Sora_Tube-n1x
 @SORA2_STUDIOS
 @ElviraMetalBand
+@Sora2channel2
+@Sora2Slopvids
+@LouZeffer1
+@SoraaOopsMoments
+@SoraMelodia
+@slowburn_music
+@Soramugirain
+@soraoto-bgm
+@Eurozia
