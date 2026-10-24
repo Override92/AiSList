@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34695
+! Total Channels: 34690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4469,7 +4469,6 @@
 @WronglyJudged
 @RahiTrove
 @AuthorityTalesYT
-@EchoSoulStories-u6w
 @HOAKarenDrama-g3o
 @HOAOverlordsExposed55
 @RealHoaStorytime-p6u
@@ -8304,7 +8303,6 @@
 @AlertPrivacy
 @AnimatedLifelines
 @aismr_satvid
-@AlphaMindFinance-1
 @ArchangelMichaelSays-h4y
 @Arqueofatos
 @BackBeforeHQ
@@ -32373,9 +32371,7 @@
 @CheatingTruthTales
 @CIBERTALES
 @MeerkatExplainsFinance
-@CowboyFiresideTales-o1j
 @InteresThinkss
-@CowboyTalesDaily12345
 @ItsThinkerLounge
 @CyberTales-channel
 @LockThink
@@ -32405,7 +32401,6 @@
 @SingleDadTales-e1u
 @MUSICOFTHEAFRICANSOUL
 @TalesofCourage-f3y
-@OmasAfricanFolktalesandstories
 @TalesofValor-ykmz
 @TopTales-o4x
 @UnkownHeroineTales
