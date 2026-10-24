@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35029
+! Total Channels: 35039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35045,3 +35045,13 @@
 @Dailybiblepsalms-B
 @BibleshortstoriesforKids
 @BibleUncoveredEx
+@StoriesoftheBible-r5j
+@BibleIn60SecOFFICIAL
+@knowyourbible2025
+@Bible.c
+@thehiddenstoriesbible
+@BibleDeep-Dive
+@BibleMadeClear26
+@BibleStoriesUnveiled11
+@InsidetheBibleofc
+@BiblePathOfficial
