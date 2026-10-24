@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34695
+! Total Channels: 34700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34711,3 +34711,8 @@
 @higgsfieldclips-t6b
 @Higgsfieldjosh
 @higgsfieldkia
+@Higgsfields
+@HiggsfieldVisuals
+@higgsfieldwalt
+@NestorCa%C3%B1izalez
+@Sydhiggsfield
