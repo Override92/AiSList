@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34864
+! Total Channels: 34867
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34880,3 +34880,6 @@
 @FleischerFiles
 @Frontier_Files
 @judgesfiles2
+@cophuntertv
+@trun.explains
+@mrfinance-mf
