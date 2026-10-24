@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35095
+! Total Channels: 35094
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33625,7 +33625,6 @@
 @Whatif4k
 @WhisperVerse-z5w
 @WhyVerse1997
-@WillTennyson
 @YingAurora-n8c
 @YRVANA
 @%D8%A7%D8%A8%D9%88%D8%A7%D8%AD%D9%85%D8%AF-%D9%857%D8%B26%D9%83
