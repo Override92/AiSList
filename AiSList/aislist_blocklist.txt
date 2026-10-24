@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34521
+! Total Channels: 34520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11584,7 +11584,6 @@
 @probioticslive
 @田舎のしあわせ
 @Foodbrandsexposed
-@timesofindia
 @EasySoulFunk
 @deeparchive-music
 @SuccessfulLife-v5x
