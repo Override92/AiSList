@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34572
+! Total Channels: 34581
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34588,3 +34588,12 @@
 @Soramugirain
 @soraoto-bgm
 @Eurozia
+@SoraSpotify
+@SoraTori
+@DramaFlow_Global
+@SyntheticProfessorArt
+@josemiguelmoreno.higgsfield
+@Sadrican
+@powerfulaivids
+@Realframeyt
+@ashreed-h3x
