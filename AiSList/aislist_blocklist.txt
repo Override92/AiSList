@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34737
+! Total Channels: 34747
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34753,3 +34753,13 @@
 @TheFeudFilesChannel
 @DarkAmericaFiles26
 @BusinessFiles-Co
+@TheDollyFiles
+@ThePaybackFiles-d8g
+@SecretHiddenFiles-t3e
+@worldmysteriesfiles
+@MidnightMindFiles
+@HollywoodFameFiles-w9p
+@AmericaAviationFiles
+@TheBuiltWorldFiles
+@filesfromtheattic
+@TheArchiveFiles-w3v
