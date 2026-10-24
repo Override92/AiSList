@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34700
+! Total Channels: 34695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4330,7 +4330,6 @@
 @DoorbellMomentsdaily
 @BlockBull-01
 @authenticone-w2t
-@BeyondBoringCurrency-l7z
 @CryptocurrencyandWeb32025
 @PropenomAIx
 @PsyDubMusic
@@ -4466,7 +4465,6 @@
 @blackTale-1
 @SPLENDIDTALES
 @HOATales-h2u
-@HOAVictims
 @HOAGoneWild
 @WronglyJudged
 @RahiTrove
@@ -32287,7 +32285,6 @@
 @AlphaDominion-i3h
 @TheDrowHistorian
 @AlphaSovereign-n9i
-@Viral_Story
 @Selinalovechronicle
 @ObsessiveMafiaLoveStories
 @Seoulsoulafrostories01
@@ -32295,7 +32292,6 @@
 @AncientDrama-t4n
 @VampireRomanceCrib
 @NyroFlame01
-@TalesOfOrcsAndHumans
 @DukesDuchesses
 @IrisMafiaRomance
 @RealDukeStories-480
@@ -32337,7 +32333,6 @@
 @tuyettran9441
 @LIly-w7b2w
 @HanSeoulAfroDesires
-@HelenRomanceLibrary
 @AncientRomances
 @HumanitysHorizon
 @intothemap360
