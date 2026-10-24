@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35009
+! Total Channels: 35019
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35025,3 +35025,13 @@
 @BibleMadeSimple_Official
 @BibleBestAnimation
 @TheForgottenBibleStories
+@BibleUnbroken-b7y
+@TheBibleStoriesRetold
+@BibleChroniclesWithAndrew
+@BeyondTheScripturebible
+@BibleJourney-v3h
+@FaithSproutsKidsBibleChannel
+@GodMindBible
+@BIBLEITChannel
+@BibleUnion
+@DeepMadeSimpleBible
