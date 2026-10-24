@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34685
+! Total Channels: 34687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34701,3 +34701,5 @@
 @NeftaliGholipoor
 @SamGarrettYT
 @Secretstatefiles-i5s
+@resolvestudioyt
+@theturningchapter-z1u
