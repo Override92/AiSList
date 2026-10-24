@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34521
+! Total Channels: 34524
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34537,3 +34537,6 @@
 @andresmontero1
 @solacefoxuniverse
 @MilesoraLounge
+@Confessoraxreddit
+@aiensteinsora
+@SoraRot-Shorts
