@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34535
+! Total Channels: 34534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3240,7 +3240,6 @@
 @N1ghtGear
 @WisdomAndHappiness
 @zodiacflamestv
-@SecretOfTheZodiac
 @Zodiac_Enigma
 @izodiacguru
 @ZodiacRealm
@@ -10463,7 +10462,6 @@
 @BevereRomanceLibrary
 @BrokenTruths_0
 @sashaclinton2820
-@LilaromanceStories
 @Cinema_Fictions
 @THEVELVETSYNDICATE
 @RealLoveStoriesUnfiltered
@@ -34551,3 +34549,4 @@
 @BladeAnime-t6y
 @HerDramaVerse
 @CloverNO.1SHORT
+@insideoldchina888
