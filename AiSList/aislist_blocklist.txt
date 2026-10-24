@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34983
+! Total Channels: 34993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34999,3 +34999,13 @@
 @AIbible_realstories
 @Biblebattlearean
 @bible.explained.channel
+@theancientbible4ME
+@BibleChronicles21
+@BibleFactsDaily_God
+@BibleQuestionsMadeClear
+@TheBibleChronicles-u2j
+@AncientBibleEpics
+@Thebibleunveiled-r4k
+@KingdomStoriesBible
+@Faithinbelieving
+@SacredVoxBible
