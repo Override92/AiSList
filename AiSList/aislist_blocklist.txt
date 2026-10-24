@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34691
+! Total Channels: 34686
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32765,20 +32765,16 @@
 @TheClarkUpdate
 @griffithselijah7018
 @MarvelousVideos
-@TitanForgeHFY
 @airacreator
-@CosmicPrincessHFY-n9h
 @RagnarIron-k4l
 @RagnaridOfficial
 @IronRagnarVibes
 @Ragnarstorm2683
 @RagnaRock_Viking
-@AiMusicWorld-o6s
 @aistorytoolAI
 @HeritonINC
 @SavageBloodlineFiction
 @LostArchivesFiction
-@FictionZelora
 @JudgeHarlanCourtroom
 @HeatFiction
 @VoicesAvalon
@@ -32805,7 +32801,6 @@
 @KindnessTales-z2i
 @HopeTales-us
 @HiddenRankTales
-@Her-Legand-Tales
 @HeartTales-z9c
 @HarvestTales-4u
 @GoodHeartTales2.0
