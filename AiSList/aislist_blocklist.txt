@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 34915
+! Total Channels: 34925
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34931,3 +34931,13 @@
 @BillyRayHomestead
 @HomesteadFables
 @TitusFreemanHomestead
+@CozyWildflowerHomestead
+@HomesteadBuilder-USA
+@Homestead-Wellness-h1p
+@JimmysSmartHomestead
+@TheWeatheredHomestead
+@RuthCombsHomestead
+@HomesteadSecrets_stories
+@billysmarthomestead
+@purehomestead
+@Homestead_Legacy
