@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35167
+! Total Channels: 35177
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35183,3 +35183,13 @@
 @NancyRomanceCollection
 @dramawithbestie
 @Star-o7r5x
+@FeralHeartsRomance
+@reelshortapp
+@VelvetRomanceLibrary
+@SOLARCHORNICLES
+@AmazingDrama-FDS
+@DramaFull-l7c
+@JK_Author
+@TwistedBLTales711
+@gigisromancestories
+@Viralverse_Studios
