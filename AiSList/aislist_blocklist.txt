@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35137
+! Total Channels: 35147
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35153,3 +35153,13 @@
 @MuseMoodDrama
 @ShaylasRomanceLibrary
 @EnchantedPlayhouse-u5j
+@wolfheartstories26
+@MoonlitPublishing
+@Highbeewrites
+@MoonlightMonarchy-e5b
+@TheAlphaChronicles_us
+@AlphaThroneStories-r9k
+@AlphaDynastyStories
+@cicodramam
+@CircuitDramas
+@FeralAlphaschronicle
