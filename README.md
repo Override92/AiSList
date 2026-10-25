@@ -27,7 +27,7 @@ Don't forget to set your username in the settings.
 <div align="center">
 
 <!-- LEADERBOARD:START -->
-## 🏆 Top 5 Contributor Leaderboard
+## 🏆 Top 10 Contributor Leaderboard
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
