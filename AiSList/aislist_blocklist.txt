@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35481
+! Total Channels: 35491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35497,3 +35497,13 @@
 @Forgottenstories001
 @sagaofbattles
 @Survival.InstinctYT
+@darkageshistory1
+@TheAncientCodex-f3
+@Mythica-V
+@MiserableMiddleAges
+@TheNightLedger-z8c
+@BuriedCrimesHistory206
+@HerDarkAges
+@UntraveledMysteries999
+@Vertley
+@thetruearcanevault
