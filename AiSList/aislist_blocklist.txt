@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35207
+! Total Channels: 35217
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35223,3 +35223,13 @@
 @AlphaKingBeneaththeMoon
 @BLHoy
 @Teatrodocora%C3%A7%C3%A3o
+@SugarHeartStories
+@AlphaWerewolfStories-q2s
+@VelvetLines-z8b
+@NightTheater-Minidrama
+@EiraDrama-op5ib
+@Crimson1g
+@ShortMax-EnglishChannel
+@AlphakingStories-m6h
+@AlphaKingApex
+@Rosyromance-r5j
