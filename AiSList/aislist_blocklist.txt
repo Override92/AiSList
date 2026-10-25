@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35755
+! Total Channels: 35765
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35771,3 +35771,13 @@
 @IngenieriaMonumental-1
 @mysticlensai
 @RetroClassics4u
+@DerivarMusic
+@OneRockMetal
+@Kroluk.AudioAI
+@TheDarkOverture
+@DAVIDKUSTOM83
+@FemaleMetalAnthems
+@eternalwalkofficial
+@SamarantauAIMusic
+@DarkEmotionalMetal
+@staticRiotNuMetal
