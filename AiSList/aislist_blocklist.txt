@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35607
+! Total Channels: 35616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35623,3 +35623,12 @@
 @TheDisputedLands
 @Fantasy-focused
 @ASoIaFTheorist
+@Enichrons
+@TheDread-x5e
+@WinterWatch1
+@Biographia-g2n
+@ForgottenPagesChannel
+@hy89studio
+@plebexplainer
+@LegendsoftheFirstNations-b1z
+@AmericaUntoldYT
