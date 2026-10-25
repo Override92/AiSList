@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35520
+! Total Channels: 35530
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35536,3 +35536,13 @@
 @TestHelden-o2z
 @AmorousSanctum
 @TheMythWanderer
+@The_Lost_Age_of_Vedas
+@LECTURES_FOR_SLEEP
+@MythosLogosYT
+@WeirdWorldFiles-81
+@realityillusion-n2k
+@The_Esoteric_Path
+@Awakeningwisdom3
+@TheGnosticSpark
+@thehiddencodextv
+@sabiduriabiblic
