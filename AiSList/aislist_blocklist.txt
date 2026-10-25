@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35451
+! Total Channels: 35461
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35467,3 +35467,13 @@
 @Ancientstories-ENG
 @JungleChronicles_001
 @Krezmick
+@Hist%C3%B3riasepicasB%C3%ADblia
+@WisdomUnveiled02
+@historiasdelabibliaoficial
+@cinevault07
+@TestamentLedger
+@AMaesterofIceandFire
+@ABibliaDetalhada
+@erstwhile_joe
+@CozyRuinsGhibli
+@Tinyuniverse78
