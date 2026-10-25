@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35096
+! Total Channels: 35095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17124,7 +17124,7 @@
 @Blessingtales
 @DoveFolkTV
 @GloAfroTales
-@footballera-x3f
+@novasmash-i2d
 @PerfectMerakiystory
 @IGAFRICANSTORYS
 @TheAIPOVYT
@@ -17143,7 +17143,6 @@
 @DivyAI-3
 @SHORTS-ENTERTAINMENTai
 @Krishna-w9i6p
-@ghummakadguide
 @ruraltalesbybormon
 @HOADramaDiaries1
 @KiKisASMRlab
