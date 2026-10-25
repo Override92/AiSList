@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35616
+! Total Channels: 35619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35632,3 +35632,6 @@
 @plebexplainer
 @LegendsoftheFirstNations-b1z
 @AmericaUntoldYT
+@WildWestDarkHistory-US
+@CultureOrigin10
+@beratipek4096
