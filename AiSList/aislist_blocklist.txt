@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35691
+! Total Channels: 35690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7995,7 +7995,6 @@
 @optimal_focus_music
 @RelaxHistoryAI
 @HistoryASEAN
-@WW2.HistoryDoc
 @DubRootsRadio
 @nebulafrequencies
 @HonorTales-e2f
@@ -22850,7 +22849,6 @@
 @MDev_Fun_World_AI
 @AthletIQLab-z6o
 @AIJungleTales-n2y
-@DukeDuchessRomance
 @CuteAnimalsStory
 @pawsiestudio
 @AliSabit-h5l
@@ -35707,3 +35705,4 @@
 @007Sib
 @RawofNow
 @annamakaruk5155
+@henriklindberg-yt
