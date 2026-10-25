@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35501
+! Total Channels: 35509
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35517,3 +35517,11 @@
 @LandofDreams-t3r
 @GrickusAI
 @MuhammadAbdullah-p5f
+@CountGreyMatter
+@OrchestralRock
+@WaveEchoes-universe
+@BLACKRIFF-s8h
+@CrownOfShadows-t7l
+@Kelnova-d8s
+@H%C3%A0nhTr%C3%ACnhK%E1%BB%B3Di%E1%BB%87u889
+@TheSquidExplainer
