@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35672
+! Total Channels: 35682
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35688,3 +35688,13 @@
 @wormsandwarriors
 @IntelligenceCoreYT
 @HistoryofWar-o2g
+@Bitesize-Historyy
+@CodeDOrigine
+@HistoryShortcuts
+@AttyTheKid
+@LoreLoadHistory
+@MedievalHistorys1
+@History.Intrigue
+@Factsincluded
+@mournel-reminds
+@AethericKosmos
