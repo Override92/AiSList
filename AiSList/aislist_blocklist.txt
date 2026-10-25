@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35403
+! Total Channels: 35412
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35419,3 +35419,12 @@
 @HFY-StellarCommand
 @SciFiVaultTV
 @HFYStoriesOfficial
+@HFYPredatorLogs
+@HFYOrcBroadcast
+@StarboundUniverseHFY
+@HFYSciFiStorytelling
+@HFYStoriesHub-p6t
+@HFYInitiative
+@HFYStarline
+@buddyug
+@HFYCinematicVault
