@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35568
+! Total Channels: 35578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35584,3 +35584,13 @@
 @Ultrarecap-h2n
 @GinRecap01
 @ManhwaRushYT
+@JaxsRevengeDomain-y2h
+@StoryConfession
+@FINALBETRAYAL-c5y
+@prythalize
+@LocalhostFocusVibes
+@Black_Code_Lab
+@%E7%BF%94%E5%B9%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB
+@WhispersofWesteros-l9w
+@SleepyHistoriansYT
+@spiritualreliefchannel
