@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35255
+! Total Channels: 35265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35271,3 +35271,13 @@
 @MollyDrama-l4r
 @SweetPopcorn-Recap
 @worldofdrama2025
+@AKStoriesYT-1
+@lycankingchronicles
+@MelioraOrbis
+@thefacelesspierrots
+@BadrBadr-z3s
+@CoreFactory-x6v
+@epicstoryland-7
+@KawalisFactory
+@alertnewslive
+@DramaDen-e6q
