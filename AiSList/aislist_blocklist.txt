@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35588
+! Total Channels: 35598
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35604,3 +35604,13 @@
 @historyalive15
 @Battlehistory01
 @SleepyHistoricalFigures
+@UnseenReflections-t2m
+@mary.tells.history
+@WarfrontHistory-n3p
+@The_Battle_Historians
+@MystrixLab-k1e
+@ForbiddenFelix
+@WhyTheWeird
+@fabulora_yt
+@TheModernMysteryMan
+@WesterosExplained-1
