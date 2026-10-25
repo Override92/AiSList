@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35510
+! Total Channels: 35511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26860,7 +26860,6 @@
 @dcmarvelcartoon
 @hktrailer
 @extremedepth2025
-@jfMarvel5
 @DinaoOnonami
 @MarvelReimagined
 @doorbelljustice80
@@ -35526,3 +35525,5 @@
 @sdqawwaliurdu-r7s
 @weirdengineeringmysteries
 @elzoratv
+@pixelcasemedia
+@clone.creatives
