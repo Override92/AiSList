@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35818
+! Total Channels: 35816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5787,7 +5787,6 @@
 @wibumaingu
 @aamirfoundation.1
 @heyvideoeditor
-@dalewhitakerfood
 @amitraveli
 @aikahani-e8e
 @tuconsejeronocturno
@@ -16320,7 +16319,6 @@
 @DeepCoreBuildsDaily
 @FrauenVitalab50
 @NobleStorybook
-@NobleLoveStories-u2k
 @Schattenlegenden-t6o
 @MafiaLegenden
 @Soul-Whisperer-MiniMelodies
