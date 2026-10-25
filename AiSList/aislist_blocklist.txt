@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35471
+! Total Channels: 35481
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35487,3 +35487,13 @@
 @HistoriansArchive
 @EchoesofHistory-m6r
 @truehappened
+@ForbiddenChronicleyt
+@historyobviously
+@shadowsofhistoryHD
+@WarsinHistory
+@SjenaStoljeca
+@TheBurningKeep
+@realAlternateStrike
+@Forgottenstories001
+@sagaofbattles
+@Survival.InstinctYT
