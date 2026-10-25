@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35508
+! Total Channels: 35510
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35524,3 +35524,5 @@
 @TheSquidExplainer
 @Wisdomfriday-p1d
 @sdqawwaliurdu-r7s
+@weirdengineeringmysteries
+@elzoratv
