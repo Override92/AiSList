@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35110
+! Total Channels: 35109
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1615,7 +1615,6 @@
 @britainweremember
 @nostalgicbritain
 @thenostalgiabritw
-@the-british-past
 @united.kingdom.7
 @yesterdayuk-1
 @lostinbritain1975
@@ -21662,7 +21661,6 @@
 @whopclipper-f5z
 @globalcinemadecode
 @pashtoaivideo-r3g
-@varynstories
 @cpasilent
 @untoldwartales-1945
 @japan-ahead
@@ -35126,3 +35124,4 @@
 @Tech-Talk-Today520
 @TechEvolveInsights
 @newteechnology
+@get_itemized
