@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35644
+! Total Channels: 35654
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35660,3 +35660,13 @@
 @OfficialEverydayExplainer
 @CrucibleHistory
 @MidnightArchivesMedia
+@LoreBelow
+@FootnotesOfFear
+@DarkPlantationStories
+@ChainsofSlaves
+@deppast
+@WildWestHeartChronicles
+@QuennandJackOfficial
+@RavensmereTales
+@buriedinsilenceyt1
+@TribalfacesUSA
