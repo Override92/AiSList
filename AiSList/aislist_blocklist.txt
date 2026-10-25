@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35285
+! Total Channels: 35295
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35301,3 +35301,13 @@
 @GrimdarkShards
 @ThePaleThrone
 @thetalesofImperium
+@TheMythosArchive8
+@CitizenOfTheImperium
+@robby88ize
+@GalacticCouncilUnveiled
+@EpicHFYSpaceStories
+@HFY-X-Extra
+@alexandro13659
+@AllienNeon
+@hfybattle
+@terran-unbound
