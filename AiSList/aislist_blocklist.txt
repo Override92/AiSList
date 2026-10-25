@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35885
+! Total Channels: 35895
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35901,3 +35901,13 @@
 @Faithanimationstories-l5e
 @TeesTimelessTales
 @FolktalesKingTv
+@FolktalesWithKhama
+@TheVillageFireside
+@Onyestoriesandfolktales
+@Africantalesbyzuhu
+@africanstoriesbygrateful-fu7gw
+@H%E1%BB%93ngNguy%E1%BB%85n-d7k1x
+@AfricanBillionFolktales
+@TALESBYLEADY
+@Stories_by_Susan_Li
+@Folktalesbyolivia
