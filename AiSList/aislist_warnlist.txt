@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1091
+! Total Channels: 1092
 
 ! Entries:
 @PapaMeat
@@ -1113,3 +1113,4 @@
 @VenusDeMilo-tv
 @WorldOfWesteros
 @NuttyHistoryOfficial
+@historyprofiles
