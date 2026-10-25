@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35857
+! Total Channels: 35867
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35873,3 +35873,13 @@
 @AfricanFolktalesByOnyi
 @DreamFame_AI
 @AmandaNarrates
+@StorytimewithEmyleen
+@Ammystories0
+@AfricanTalesByKamma
+@Teestorytime
+@AfricanTalesByChuks
+@PandoraStoriez
+@Talesbychikah
+@Zainabafricantales
+@Africantalesbyeva
+@AfricanTalesbyelle
