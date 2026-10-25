@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35624
+! Total Channels: 35634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35640,3 +35640,13 @@
 @WesternPioneerArchives
 @HistoricSlumber
 @GenaiLinuxNews
+@TheFallenCrownYT
+@TheMostPainfulHistorian
+@rankedshadowfile
+@Horrible_Historian
+@HistoryMakersofficial
+@historyvaticansleep
+@The.Night.Time.Historian
+@MysticHistoryxd
+@TheDarkScrolls1
+@SleepyCrown
