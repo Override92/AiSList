@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35514
+! Total Channels: 35512
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5040,11 +5040,9 @@
 @shutterbugrer
 @ApocalypseCoyote
 @LevelLore-f6z6q
-@spareprophet
 @ProfessorPOVs
 @Time_Prism24
 @TheEmpirePOV
-@TheSecretExplainerYT
 @TheLifeOutline
 @MrMythology123
 @SagaLensFilms
@@ -17531,7 +17529,6 @@
 @WakaRecap
 @the_firstdawn
 @solardreamjj
-@thinktoostart
 @දැනමලෙකය01
 @A.I.VideoStudio
 @Sci-FiVault
@@ -35530,3 +35527,4 @@
 @aiunlocked19-f1f
 @cosmicsoundmeditation
 @theexhibitbox
+@allencriptan
