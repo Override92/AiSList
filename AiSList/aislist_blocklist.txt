@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35197
+! Total Channels: 35207
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35213,3 +35213,13 @@
 @CraveMoon
 @Aim-n4y-c9t
 @MoonboundHearts-j1n
+@iloveromancestories
+@HoneyShorts-d3o
+@RyanAlphaAudiobooks
+@OneTake_Drama
+@LunaRomanceLibrary
+@Queenofshortstories
+@RavensRomanceLibrary
+@AlphaKingBeneaththeMoon
+@BLHoy
+@Teatrodocora%C3%A7%C3%A3o
