@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35800
+! Total Channels: 35799
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17280,7 +17280,6 @@
 @calebocheje
 @kkalkkom_zip
 @midnightmanila-j4u
-@clikbgames
 @ThescienceBunker
 @AIKonovalov
 @Einfach-Logisch
