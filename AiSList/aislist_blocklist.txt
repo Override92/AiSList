@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35512
+! Total Channels: 35510
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13708,7 +13708,6 @@
 @ShatteredVowTales
 @sukiaminations
 @HeartSunStories
-@Ancient_tales_of_Africa
 @THEGREENLAND-123
 @leilanstories
 @TALESBYGUDO10
@@ -17529,7 +17528,6 @@
 @WakaRecap
 @the_firstdawn
 @solardreamjj
-@දැනමලෙකය01
 @A.I.VideoStudio
 @Sci-FiVault
 @EchoRealms-y7m
