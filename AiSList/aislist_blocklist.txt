@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35117
+! Total Channels: 35127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35133,3 +35133,13 @@
 @SystemSavage
 @TheGraveyardofSilicon
 @PixelQuestArena-u1i
+@avktraining
+@Crowmere
+@ElensWerewolfRomanceCollection
+@MysticCrownLore
+@BubuDrama-cm
+@Pocket_Fm_Digital_Opera
+@Binge-Drama-v2z
+@LoveBinge_Drama
+@MoonlightChroniclesOfficial
+@AlphaOmegaStories28
