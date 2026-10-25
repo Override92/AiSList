@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35685
+! Total Channels: 35687
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35701,3 +35701,5 @@
 @TheGildedShadows
 @OneShotSSC
 @QuickFlicks61
+@DrKenzoLongevity
+@awuaanimation
