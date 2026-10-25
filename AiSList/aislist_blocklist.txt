@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35431
+! Total Channels: 35441
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35447,3 +35447,13 @@
 @soundsbyDK
 @jochemstoel
 @TrackPulseFactory
+@VanaVox-Music
+@legendsbynaufal
+@OfftheRecord2142
+@jak_vlogger
+@ThronesLore
+@Theravenstales
+@Gosleepyatnight
+@thronetheory1
+@dpchannels_247
+@creation_current
