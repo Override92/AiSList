@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35654
+! Total Channels: 35663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35670,3 +35670,12 @@
 @RavensmereTales
 @buriedinsilenceyt1
 @TribalfacesUSA
+@WildwestUntoldstories
+@TheEchoBard
+@SecretsOf-Slavery
+@CrimsonSilence-e9n
+@TimeTraveler-b2r
+@SchloesserBurgen
+@TheCrownHistorian
+@TheIntriguingHistorian
+@UnleashedSecrets472
