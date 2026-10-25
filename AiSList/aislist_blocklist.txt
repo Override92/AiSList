@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35246
+! Total Channels: 35255
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35262,3 +35262,12 @@
 @MicroTheatre-d7o
 @THESTORYKING-007
 @AlphaKingChronicles-1
+@QuickTheater
+@DramaStruggle-ux7gx
+@TheDarkEdit-y9y
+@ShortMax-Multilingual
+@TinySceneTV
+@Hot-Drama-q4f
+@MollyDrama-l4r
+@SweetPopcorn-Recap
+@worldofdrama2025
