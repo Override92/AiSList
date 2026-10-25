@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35619
+! Total Channels: 35621
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35635,3 +35635,5 @@
 @WildWestDarkHistory-US
 @CultureOrigin10
 @beratipek4096
+@MichaelsExpeditions
+@the-MidnightLorekeeper
