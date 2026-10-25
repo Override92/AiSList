@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35412
+! Total Channels: 35422
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35428,3 +35428,13 @@
 @HFYStarline
 @buddyug
 @HFYCinematicVault
+@antoniomigali9706
+@HFYStarborn
+@ForlornStoriesHFY
+@scifidude73
+@HFYMyronisSci-Fi
+@ColdFrontierHFY
+@COSMICHYPOTHESIS
+@HSYStories
+@HFYStarbound
+@hfy_story_hub
