@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1089
+! Total Channels: 1090
 
 ! Entries:
 @PapaMeat
@@ -1111,3 +1111,4 @@
 @policecamstory
 @Todoestrategia
 @VenusDeMilo-tv
+@WorldOfWesteros
