@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35275
+! Total Channels: 35285
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35291,3 +35291,13 @@
 @WolfCrownSaga
 @HaloDrama-n4j
 @EchoesofHistory-s5q
+@SilkenPromises-e9l
+@GlowTheory-k4x
+@NexusVision-y9f
+@MythosUnveiled-v3r
+@DramaSweets
+@AfricaKorean_Storytales
+@AlienEveSci-FiStories
+@GrimdarkShards
+@ThePaleThrone
+@thetalesofImperium
