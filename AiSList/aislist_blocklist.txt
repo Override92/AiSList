@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35954
+! Total Channels: 35964
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35970,3 +35970,13 @@
 @WorldStoryStage
 @ChildrensStoryHouse-1
 @naic22
+@KiddieQuest-e4e
+@YBRFolktales
+@MementoPast
+@ELE123-q8s
+@WowStories-s8s
+@WizFunKids
+@TheStoryOfTheUniverse1
+@Elowen_Yu
+@CalmingChronicle
+@HistoryyReloaded
