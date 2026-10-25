@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35944
+! Total Channels: 35954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35960,3 +35960,13 @@
 @StoriesbyCindi
 @AfricanRootsbyRabia
 @TheLeisureHub
+@Epichistoryguide
+@TheOfficialWisdomVault
+@storyteller4397
+@Mavoria0920
+@DixysStorytimeWorld
+@kidsfolktale2256
+@bigheartsss
+@YolkLores
+@WorldStoryStage
+@ChildrensStoryHouse-1
