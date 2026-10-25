@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35765
+! Total Channels: 35775
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35781,3 +35781,13 @@
 @SamarantauAIMusic
 @DarkEmotionalMetal
 @staticRiotNuMetal
+@AISyncAnthems
+@YodelMetalStudio
+@infernonusantara
+@PapaK_Music
+@nktmusicchannel
+@RitualDarkMetal
+@AKRITESgr
+@Metal_Mastery
+@AeternosIaEpicMetal
+@YouRockTurkiye
