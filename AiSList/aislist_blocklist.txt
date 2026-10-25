@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35743
+! Total Channels: 35753
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35759,3 +35759,13 @@
 @AISLOP-z7s
 @plutoxetine
 @FryStudioMusik
+@AIYASONGTELLING
+@RomanticVerse
+@Nepali_AI_Vibes
+@AshgrovePictures
+@SixMinuteClass
+@kotoha-MV-Channel
+@%E5%8F%B0%E7%81%A3%E9%BD%8A%E5%BF%83%E5%90%91%E5%89%8D%E9%82%81
+@PovMaster00
+@RayCallahanCases
+@IngenieriaMonumental-1
