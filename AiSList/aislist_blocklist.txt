@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35335
+! Total Channels: 35345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35351,3 +35351,13 @@
 @loredocumentaries
 @ImperiumArchivesOfficial
 @FateUnwritten
+@HopeIncarnateHFY
+@HFYAscentend
+@XylarionHFY
+@anthropovictusprime
+@HinterlandStarsHFY
+@HFYAircraft
+@HFYGalacticEmpirefall
+@SUSHFY
+@VoidSailorHFY
+@GalacticArchive-d5i
