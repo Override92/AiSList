@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35491
+! Total Channels: 35501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35507,3 +35507,13 @@
 @UntraveledMysteries999
 @Vertley
 @thetruearcanevault
+@ScipiosDossier
+@chompusboringempire
+@The-Forgotten-Lore
+@TheWhyFilesBackstage
+@TheOtherLand
+@GoodKnightSleep
+@DriftRead
+@LandofDreams-t3r
+@GrickusAI
+@MuhammadAbdullah-p5f
