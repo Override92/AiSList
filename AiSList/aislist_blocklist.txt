@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35719
+! Total Channels: 35724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35735,3 +35735,8 @@
 @RedDoorSuspense
 @Manomani-h9n
 @NovDrama-TV
+@PetalKissDrama
+@SabziSquadAI666
+@StarseedPicturesOfficial
+@RumpelstiltskinTapes
+@Athena_Vesperia
