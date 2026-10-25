@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35598
+! Total Channels: 35607
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35614,3 +35614,12 @@
 @fabulora_yt
 @TheModernMysteryMan
 @WesterosExplained-1
+@theravenandtheowl
+@westrostheorist
+@theloreweaverpodcast
+@RoyAllLore
+@DavidLightbringer
+@PyxidaMythical
+@TheDisputedLands
+@Fantasy-focused
+@ASoIaFTheorist
