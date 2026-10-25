@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35724
+! Total Channels: 35733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35740,3 +35740,12 @@
 @StarseedPicturesOfficial
 @RumpelstiltskinTapes
 @Athena_Vesperia
+@Liang_yunge
+@NeonGatorRitual
+@ymirveyra
+@IreneBelserionOfficial
+@queenofmetalorchestra
+@OnyinTales
+@HeavyMetalLegacy12
+@ahsmusikofficial
+@crazysongsxo
