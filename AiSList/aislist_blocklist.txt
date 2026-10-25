@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35461
+! Total Channels: 35471
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35477,3 +35477,13 @@
 @erstwhile_joe
 @CozyRuinsGhibli
 @Tinyuniverse78
+@KnifeInTheDarkHistory
+@HistoryRarelyTold
+@Ancienttraces-m9x
+@NotNostalgicHistory
+@ZackzHistorian
+@TrueHistoryLegends
+@ForgottenWarSagas
+@HistoriansArchive
+@EchoesofHistory-m6r
+@truehappened
