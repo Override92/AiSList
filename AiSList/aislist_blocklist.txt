@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35837
+! Total Channels: 35847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35853,3 +35853,13 @@
 @TimeFox-YT
 @uareborn
 @YouAreHistorys
+@ToastHistory
+@LegacyUnwritten-z4f
+@TheWickedHistorianTV
+@slavesrevange
+@DabiraDarasimi-m9x
+@Whisperswithonyinye
+@midnighttalesofafrica
+@FateFolktales
+@AfricanStoriesByLeda
+@AfricanTalesByA1
