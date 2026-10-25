@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35663
+! Total Channels: 35672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35679,3 +35679,12 @@
 @TheCrownHistorian
 @TheIntriguingHistorian
 @UnleashedSecrets472
+@EternalRiftTv
+@ChristianTOON
+@Westeros_Untold
+@DeadGameArchive
+@BlueShortsHistory-h5i
+@BagHeadFilms
+@wormsandwarriors
+@IntelligenceCoreYT
+@HistoryofWar-o2g
