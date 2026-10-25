@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35806
+! Total Channels: 35807
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28426,7 +28426,6 @@
 @JusticeExposed-g2j
 @LumivoraSoulStories
 @SameerBhavnani
-@TheLastTransmission-v8y
 @v.o.m.Chimera
 @FirtsHistory
 @slash_system32
@@ -35822,3 +35821,5 @@
 @BeautyNidu
 @Aleks-y6x
 @cilengytr
+@9to5dramastories
+@john-uncle-carcare-official
