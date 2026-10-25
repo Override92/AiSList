@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35147
+! Total Channels: 35157
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35163,3 +35163,13 @@
 @cicodramam
 @CircuitDramas
 @FeralAlphaschronicle
+@ForestLightDrama
+@HeatVibes1
+@ammy_sterling
+@MiniDramaDiary
+@DramaExpress001
+@DramaBuzz-m1w
+@ObsidianMoonLibrary
+@moonlightfangs
+@BitterAftermath
+@CrownedDrama
