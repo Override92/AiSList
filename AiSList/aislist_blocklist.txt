@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35364
+! Total Channels: 35374
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35380,3 +35380,13 @@
 @cheatersvault78
 @PrincessHFY
 @GalacticChroniclez
+@hfygalactic-y4y
+@SolSenateHFY
+@Sci-FiFuturePulse
+@VoidSpearHFY
+@Sci-FiInfinity
+@EcliptixDivide
+@Humanium67
+@HfyRealization
+@ApexGalaxy-q1d
+@HFYGalaxyFearsEarth
