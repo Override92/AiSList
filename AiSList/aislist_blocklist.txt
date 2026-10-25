@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35265
+! Total Channels: 35275
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35281,3 +35281,13 @@
 @KawalisFactory
 @alertnewslive
 @DramaDen-e6q
+@FracturedOaths
+@PalaceWhispersCare
+@Darkmoonfiles-k8g
+@DramaBox-Romantic
+@AlphakingGentleStorytime
+@DramaSphereOfficial1
+@AkhirahFocus9
+@WolfCrownSaga
+@HaloDrama-n4j
+@EchoesofHistory-s5q
