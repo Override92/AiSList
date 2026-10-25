@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35780
+! Total Channels: 35790
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35796,3 +35796,13 @@
 @AI3Pop
 @NeonKitty18
 @SeoulWaveOfficial
+@WW2ForgottenStories1
+@PolarLifeMoments
+@howinaminute
+@HistoryReconstructed-y3k
+@UnaccountedMoney
+@NomicAI
+@EchoesoftheFrontierr
+@MistralAIOfficial
+@LumeStudio-yt
+@randomvideos1392
