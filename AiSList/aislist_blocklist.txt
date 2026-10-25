@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35964
+! Total Channels: 35969
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35980,3 +35980,8 @@
 @Elowen_Yu
 @CalmingChronicle
 @HistoryyReloaded
+@TheStoryFireplace
+@TrueStoryest2025
+@Modeltoys29
+@YunTing-EN
+@AnimaScrolls
