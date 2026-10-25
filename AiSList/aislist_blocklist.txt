@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35578
+! Total Channels: 35588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35594,3 +35594,13 @@
 @WhispersofWesteros-l9w
 @SleepyHistoriansYT
 @spiritualreliefchannel
+@ImperivmSPQR
+@HiddenEchoes2
+@Heritagehubyt
+@OddEpochs
+@KamranIqbal-q5g
+@IronandAshesHistory
+@BattleMemoirs
+@historyalive15
+@Battlehistory01
+@SleepyHistoricalFigures
