@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35295
+! Total Channels: 35305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35311,3 +35311,13 @@
 @AllienNeon
 @hfybattle
 @terran-unbound
+@ThelastHiddenKey
+@EarthHiddenPower01
+@ka8tieandjuliana
+@WarbornHumans
+@HFYDeathworldExtra
+@LastVoyagerHFY
+@G%C3%B6khanOk-w3e
+@vitalAgehealth1-f1f
+@HumanSupremacy-y2k
+@HFYStoryArchives
