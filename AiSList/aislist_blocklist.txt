@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36822
+! Total Channels: 36832
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36838,3 +36838,13 @@
 @Cellestials
 @HiddenFrames-e1w
 @CinematicPraiseChannel
+@lavablossomsound
+@AncientEchoesEpic
+@PetalsofKindness
+@EchoesFromNowhere1
+@PathToTheLightGospel
+@AtonVieira
+@RainHaven6
+@WindowsideRain.9
+@RunesRhythms
+@CyberpunkRainSounds
