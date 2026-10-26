@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36974
+! Total Channels: 36979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36990,3 +36990,8 @@
 @GhibliYaadeinHindi
 @StudioGhibliVibesd
 @Simply-Storybook
+@BluesGenesis
+@FrostboundEpicMusic
+@FloraMar_music
+@DegetaMusic
+@CelticEchoes-e5s
