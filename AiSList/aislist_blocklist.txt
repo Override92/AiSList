@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37485
+! Total Channels: 37490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37501,3 +37501,8 @@
 @AfterTheDoor
 @StatesAhead
 @CelebScopeTVS
+@ironsymphony_23
+@AncestorMode.1
+@CasTact
+@King_HaroldYT
+@BossBurned
