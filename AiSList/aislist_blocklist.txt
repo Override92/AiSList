@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37527
+! Total Channels: 37532
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37543,3 +37543,8 @@
 @GisthiaOST
 @Fantasy_Future
 @nazarsmemes
+@NEIROMIXX
+@Bolors2025
+@QuizDinoYT
+@HOPBEATS100K
+@Jet-Deck
