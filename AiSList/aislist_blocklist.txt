@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36682
+! Total Channels: 36692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36698,3 +36698,13 @@
 @rexgis
 @DarkHeartSanctuary
 @TheSentinelSaga
+@badraccoon94
+@ThePhoenixRises97
+@ThiessenYang
+@statica.official
+@StorytellingSoundscapes
+@TheGarraSisters
+@vf1j
+@Silencefall
+@ARVEN-OFFIC1AL
+@nora_arden
