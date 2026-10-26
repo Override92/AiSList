@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37066
+! Total Channels: 37073
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37082,3 +37082,10 @@
 @QUEENVEYLORIA
 @LadyCruzBlues
 @LexiAsh33
+@Murderous_Tongues_Radio
+@AeroUniverseTV
+@MoonChildVisuals
+@Mystvaleharmony
+@WhisperedTruthsOfficials
+@Downthebluesroads-v8q
+@JazzVibes01
