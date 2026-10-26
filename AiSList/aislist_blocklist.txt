@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36065
+! Total Channels: 36068
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36081,3 +36081,6 @@
 @Millie_Recap5
 @stanleypike-h4d
 @peacocksin
+@Horror_Stories-c2r
+@MidNightAnecdotes-b7z
+@TheCherryBloomStories
