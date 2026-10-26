@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37532
+! Total Channels: 37542
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37548,3 +37548,13 @@
 @QuizDinoYT
 @HOPBEATS100K
 @Jet-Deck
+@WodensKin
+@LdCloud-e6c
+@OrbitBrief-x7w
+@TilluGamer-q5f
+@RedditTwistTales-g5l
+@KL058-p8j
+@VeriScope-m4q
+@StickyEthos
+@MuscleTvGarage
+@EasyDriver891
