@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37411
+! Total Channels: 37421
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37427,3 +37427,13 @@
 @PrimalMindTV0
 @WhenBrandsRuledtheWorld
 @CouncilXHFY
+@HeartlandFrontier
+@numbersguy-official
+@Mack21239
+@ahmadrajput2538
+@Everyday_Cringe
+@alphadecoded-t5l
+@TheCurrentVersion
+@SceneAndSubtext
+@psychologylab62
+@Signalcoders
