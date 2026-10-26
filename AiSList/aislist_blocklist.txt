@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36261
+! Total Channels: 36262
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36277,3 +36277,4 @@
 @bibledocumentarytv
 @stickmanworldnest
 @tom2_live
+@easy_pace
