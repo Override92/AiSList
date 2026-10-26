@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36252
+! Total Channels: 36260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36268,3 +36268,11 @@
 @whispersofthewildofficial
 @RestWithFaith
 @SleepfulBuddha
+@VibrationalPortal
+@wisicmusic
+@imcursed.mp4
+@unclepaparazzi
+@SereneRealmChannel
+@DrunkardBardb
+@raplegacyyy
+@JewelVerdict
