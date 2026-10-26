@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37323
+! Total Channels: 37333
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37339,3 +37339,13 @@
 @hourlessworld
 @Delvorn0
 @BroAncient
+@HiddenLogicy
+@Thechipstories
+@SilentRebuildStudio-r3o
+@TheHollowTankard-v3w
+@Mivzo_ofc
+@lifewatchesHQ
+@NolanTech1
+@isowizard
+@BrenPaint1
+@AncientStickTV
