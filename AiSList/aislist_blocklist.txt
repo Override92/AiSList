@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36024
+! Total Channels: 36034
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36040,3 +36040,13 @@
 @MarkNarrations
 @BetrayedVows
 @wagwatchallgames
+@HisHiddenSorrow
+@StarlitScripts
+@CapybaraStories-y1d
+@MansOrdeal
+@OnekaBarsness
+@RezeRecap
+@TheBoneZone40k
+@WispStories
+@VividNovelTales
+@AwakenedApex
