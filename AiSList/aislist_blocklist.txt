@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36752
+! Total Channels: 36762
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36768,3 +36768,13 @@
 @EEE-EternalElementsEffects
 @MidnighttNoir
 @VagFilms_10
+@mayaseverane
+@TheCalmJourneys
+@orlogrim
+@TheLostGirl-k1985
+@VintageDreamsAmbience
+@SevoriaOfficial
+@Beyond-Homelands
+@AltarSonoroofc
+@AevraAE-m3h
+@mightytriumph
