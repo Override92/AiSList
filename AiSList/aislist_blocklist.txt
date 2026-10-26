@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36262
+! Total Channels: 36261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19690,7 +19690,6 @@
 @nicemen.6276
 @KINGFATBOY1
 @EchoesOfTheForceYT
-@Dr.Nolan.Blake.Senior.Health
 @Dude.LongLife
 @DeadFutureRadio
 @AI漫剧WongXin
