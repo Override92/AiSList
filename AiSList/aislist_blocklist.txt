@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37333
+! Total Channels: 37343
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37349,3 +37349,13 @@
 @isowizard
 @BrenPaint1
 @AncientStickTV
+@brainsafarimedia
+@CASSIAN-1a
+@RelicCircuitYT
+@HappyNestAnime
+@OpenSourceTrend
+@Unimaginable-what-if
+@genuine101tech
+@Gabbyyyzz
+@HiddenHuman-T
+@WingsofGraces
