@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36481
+! Total Channels: 36491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36497,3 +36497,13 @@
 @ParanoiaTimeless
 @WhisperingRain-s3v
 @JackieArtSongs
+@MeditateandHeal2026
+@MysticSideofFlowMusic
+@DrixSurge
+@SaxoraIbizaRadio
+@Rainvero
+@DareHorizonWorship
+@Stacinema-q
+@GermanVibes2026
+@GoldenJukebox1950s
+@KhanzaStudio-09
