@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36589
+! Total Channels: 36588
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34212,7 +34212,6 @@
 @ContentNetGermany
 @Ashyyy-
 @HeyHistorically
-@CashJordan
 @Dr_Bob
 @TerraGreen1
 @VorticalVO
