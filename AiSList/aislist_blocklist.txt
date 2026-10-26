@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36261
+! Total Channels: 36256
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21813,7 +21813,6 @@
 @VisualNestAI
 @MeloPop_candy
 @ViralLabP
-@ASMROddlyTube
 @CutieFruits-v3u
 @Unj...R
 @zackasmrvideo
@@ -23211,7 +23210,6 @@
 @bestva_ai_3d
 @foodai-edit
 @FunBites-24
-@CloudPetalAI-g2d
 @zainubsheikh-x2s
 @AIchefly
 @TheWorldAnimalAI
@@ -28547,12 +28545,10 @@
 @CosmicSketch-c1i
 @AliAIStudio-l6t
 @HasoAl-c2p
-@curiouscanvas-49
 @footballfordummmies
 @TheWellnessCode-b5g
 @Relax4U-cozy
 @TheLoopHorizon
-@ProfJiangGeoAnalysis
 @schmede_AI
 @CR7oLendario-sk5ci
 @Nostalgic4life-q3x
@@ -28645,7 +28641,6 @@
 @The-v9o
 @TheLastRestoration-r7g
 @RealTales-b9i
-@HOAJusticeFiles-c3f
 @HOAPaybackDaily-72
 @dailytrendz1
 @PixelPulseAI-u2r
