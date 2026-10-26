@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36782
+! Total Channels: 36792
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36798,3 +36798,13 @@
 @MithsSanctuary
 @ValhallanSoil
 @MoonshiftRadio
+@infinitenaturesound86
+@BreathFaith
+@Scripture_Set_to_Song
+@EdP_Music
+@TANIVISIONS
+@sinfoniaepica
+@SongsforROSE
+@Evangelix-M
+@HarmonyAllianceRadio
+@ChroniclesofAzerothEU
