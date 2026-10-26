@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36712
+! Total Channels: 36722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36728,3 +36728,13 @@
 @EirynVossOfc
 @Mi-ChanProject
 @faelightfilms
+@SubLevelTrance
+@Buzzory-h8i
+@pixelbenj
+@MidnightMemoryMelody
+@HistoryHub1212
+@BellaKohr
+@DeepPrivateLife
+@TranquilCabinAmbience
+@CelestialAlps
+@AstridRavenwood
