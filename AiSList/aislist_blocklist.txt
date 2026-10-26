@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36299
+! Total Channels: 36309
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36315,3 +36315,13 @@
 @VeilboundAfterDark
 @Kindrek
 @primevalzooBC
+@AfroOrigins-q3m
+@CANDELADEAZAHAR
+@DeepWorkFusion-b9e
+@Am%C3%A9liaVeyra
+@rlx_CrozyJazz-x4o
+@AfroPulse-x7t
+@Zeravane
+@OctoberNocturne
+@prodleviii
+@Thanghost-y2k6j
