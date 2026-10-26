@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37523
+! Total Channels: 37525
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37539,3 +37539,5 @@
 @ThePsychologyTeacher.1
 @BossTalksMoney
 @RayonFirearms
+@RootsofColdCases
+@GisthiaOST
