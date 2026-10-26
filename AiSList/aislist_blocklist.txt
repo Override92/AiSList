@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36471
+! Total Channels: 36481
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36487,3 +36487,13 @@
 @SwordAndSeraphim
 @kinedeev
 @AfroEchoes-o9u
+@BluePhoenixTunes
+@GhibliDesi-o3b
+@BetweenTwoSounds
+@Pandorawith
+@FlavorOfMusic
+@user-nr1es1fr9c
+@kraazystudio
+@ParanoiaTimeless
+@WhisperingRain-s3v
+@JackieArtSongs
