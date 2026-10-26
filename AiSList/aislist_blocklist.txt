@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36389
+! Total Channels: 36391
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36405,3 +36405,5 @@
 @LumiaCreations
 @halowakemusic
 @songfromfantasy
+@hananbar8
+@encrypt_kartikeya
