@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36289
+! Total Channels: 36299
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36305,3 +36305,13 @@
 @CabinRainNights-p5k
 @NYXMORA-l9e
 @VELQORA99
+@Clamtemple
+@VenuZ-g8e
+@PEACESEEKER-e7k
+@WildWestRomanticTales-o4u
+@Storiesbyuvan
+@itsalreadymineaudio
+@FunCruiseStories
+@VeilboundAfterDark
+@Kindrek
+@primevalzooBC
