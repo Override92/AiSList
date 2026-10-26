@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36917
+! Total Channels: 36927
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36933,3 +36933,13 @@
 @susanakeimer
 @ClaireBeaumontOfficial
 @TheEpicAscent
+@dudekri
+@RioCozyBossa
+@day1zone
+@aigirlfriend-um3bt
+@RIFFDOMINION-n7z
+@ghibli_video2
+@BeyondRealityWorldsai
+@wildhavennn
+@SecretOriginLab
+@UnrealStoryVerse
