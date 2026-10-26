@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36722
+! Total Channels: 36732
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36738,3 +36738,13 @@
 @TranquilCabinAmbience
 @CelestialAlps
 @AstridRavenwood
+@CelticForest432Hz
+@NorthernSpiritHarmony
+@TheLoveOfAll
+@CelestialNordic
+@Strato-cello
+@AncientCelticSoul
+@VanitasMusik
+@VideYVEVO
+@deepmelodicvibes
+@RoyalHawk_Official
