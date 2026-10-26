@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36063
+! Total Channels: 36065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36079,3 +36079,5 @@
 @SakuraWhispersTV
 @GufengNovels-I
 @Millie_Recap5
+@stanleypike-h4d
+@peacocksin
