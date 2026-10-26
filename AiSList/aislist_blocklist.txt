@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36263
+! Total Channels: 36261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9190,7 +9190,6 @@
 @SielskaBanda
 @TheOneMrAbyss
 @DaunBiru-u2u
-@onelifesaved3
 @KsiazkaW3Minuty
 @TheUtimateTreks
 @animeclipstalk
@@ -10896,7 +10895,6 @@
 @fruitybabies3d
 @SoftyASMRSA
 @TwinoAndTwina
-@ZiglooCartoons-o4r
 @SIMONWill-j2x8r
 @Purrverse-US
 @aigr0w
@@ -17597,7 +17595,6 @@
 @danumtales
 @PhilippineFolklore
 @QUIZMasterADAM09
-@MidnightTheoriesYT
 @mgakwentonilyca
 @oddmellow
 @knowing_jep
@@ -36279,3 +36276,4 @@
 @footnotes-of-azeroth
 @BrandRewindUS
 @explainedsimplywhatif
+@forgottenhistoryechoes-r1z
