@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36541
+! Total Channels: 36551
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36557,3 +36557,13 @@
 @ECHO.LAB.SOUNDROOM
 @Valdruna
 @FutureSphereStories
+@Ancientfaithchronicles-v9u
+@RabenLamento-x4q
+@SweetAgony_Music
+@MarsAgro-w9z
+@LasCr%C3%B3nicasImposibles
+@dominik_grudzien_dg_ai_labs
+@Latinosprodu
+@AnitaSingh-v5y2i
+@TEPYREN
+@TheAfterHoursRoom
