@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36421
+! Total Channels: 36431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36437,3 +36437,13 @@
 @KalpAIFilms
 @serhii_boiko_ai
 @AbbadeMusic
+@TinyNook-x4o
+@WarnGuitarCabin
+@Dramelyn
+@EasyCalmPiano
+@Fantasy_Resonance
+@MuradFutureVision
+@Vengeancetales_1
+@Sl%C3%A1inteSessions
+@RMLRoyaltyFreeMusic
+@Elevista_studios
