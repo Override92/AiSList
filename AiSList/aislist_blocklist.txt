@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37273
+! Total Channels: 37282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37289,3 +37289,12 @@
 @diegon3467
 @TrompetasdeJerico26
 @WildSpaceSaga
+@brastaking526
+@intounseenworld
+@SmartCodeStudios
+@ForgedbyLight
+@Drama-labubu
+@artilleon
+@Halls-of-Moria
+@Afterimath
+@JeremyBearimyTheory
