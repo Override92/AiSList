@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36212
+! Total Channels: 36222
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36228,3 +36228,13 @@
 @MythosSound
 @Souls_Voice
 @vikingspiritsounds
+@MystiqueMuseMusic
+@OContadorSinistro
+@AncientUntoldStories
+@RegencyAudiobooks
+@yoursleepyquest
+@TheMidnightReaderYT
+@DozingDragonASMR
+@lumasleep25
+@MentalMileage
+@Bedtimespells
