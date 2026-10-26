@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37290
+! Total Channels: 37300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37306,3 +37306,13 @@
 @WhisperedToons
 @MindToonsChannel
 @tycontoons
+@Zippytoons43
+@CartoonsForKids-abc
+@BLCartoonStories
+@CarToons-MA
+@MindToonsVN
+@Stickytoons2.0
+@OrganToons-m5s
+@Mokytoons-05
+@ToonSpark-z6e
+@TheFactoons
