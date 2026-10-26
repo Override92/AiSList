@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36260
+! Total Channels: 36265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36276,3 +36276,8 @@
 @DrunkardBardb
 @raplegacyyy
 @JewelVerdict
+@Turbotalk-u7i
+@FlatTire-TV
+@WildRevivalYT
+@footnotes-of-azeroth
+@BrandRewindUS
