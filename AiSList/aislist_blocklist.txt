@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35969
+! Total Channels: 35979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35985,3 +35985,13 @@
 @Modeltoys29
 @YunTing-EN
 @AnimaScrolls
+@DiefluesterndeChronik
+@OnceUponaChengyu
+@Mulan88899
+@hermesdaniel4526
+@Gilded_Grievance
+@FairyTalesAll
+@filmgeekkyle001
+@Editors_voice
+@ordinarybranch
+@storiesoflighg
