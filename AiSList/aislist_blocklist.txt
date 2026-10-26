@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36265
+! Total Channels: 36266
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36281,3 +36281,4 @@
 @WildRevivalYT
 @footnotes-of-azeroth
 @BrandRewindUS
+@explainedsimplywhatif
