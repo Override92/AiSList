@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37282
+! Total Channels: 37280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6716,7 +6716,7 @@
 @DailyProcess-v1s
 @Processzonevideos
 @LittleSoulStories-s8g
-@Blaze_Pop_Music
+@realamarablaze
 @YtAhmedSain
 @OanhHà-i5g
 @人生智者
@@ -18179,7 +18179,6 @@
 @TaleswithAnnie
 @HafizaRukhsana-j7s
 @FolktalesbyZida
-@Thehiddenplot-1
 @blackstorytalestv
 @WhisperingStories-n6y
 @StoryLedgerUsa-f4l
@@ -18235,7 +18234,6 @@
 @SEALDogLegends
 @BlackMichaelStories
 @SEALWarriors-v6h
-@theguardianprotocol7786
 @WillysAnimalWildlifeStories
 @EmotionalJusticeVoices
 @SealHavenStories
