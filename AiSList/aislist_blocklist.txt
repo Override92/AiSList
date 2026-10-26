@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36491
+! Total Channels: 36501
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36507,3 +36507,13 @@
 @GermanVibes2026
 @GoldenJukebox1950s
 @KhanzaStudio-09
+@WorldstoEscape
+@LUNARETH4u
+@NylaVale
+@duin_music_official
+@Curiositydrop91
+@BabaYagasCottage
+@MoonlitCelloVoice
+@MelancholySonata
+@halanrainsounds89
+@Pranikadivinestudio
