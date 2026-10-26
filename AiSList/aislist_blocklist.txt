@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37016
+! Total Channels: 37026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37032,3 +37032,13 @@
 @ASTROFLUXWORLD
 @NightDriftDeepHouse
 @theinniki
+@OrientalBow
+@3AMCHICAGOBLUES
+@TheGhostSound
+@CottonCandyHorrorOfficial
+@JinnBloodSeries
+@Grimorya
+@AngelWings-m9o7k
+@Frostbyte-music
+@SlavicFolk-f1q
+@AfroHouseHits-p2s
