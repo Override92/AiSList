@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 35979
+! Total Channels: 35977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5904,7 +5904,6 @@
 @Blizzard-band-cr
 @osso-so
 @GeopoliticalBriefNow
-@HiddenEpochHistory
 @bntmusicai
 @Beyond-Blueprint
 @thejurisprotocol
@@ -18709,7 +18708,6 @@
 @AIStoryVerse-q2y
 @The_Royal_Files
 @SurvivedTell
-@art_dream_ai
 @pureaifilms
 @taoprompts
 @GenerationFilmStudios
@@ -24394,7 +24392,6 @@
 @dunedecoded
 @zekeshorts1
 @sherylsdreamai
-@psico-dibujos-animados
 @snipsphere0
 @ToonVerse9AI
 @OddlyASMRHUB6888
@@ -35995,3 +35992,4 @@
 @Editors_voice
 @ordinarybranch
 @storiesoflighg
+@usageneralknowledge007
