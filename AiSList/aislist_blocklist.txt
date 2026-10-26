@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37490
+! Total Channels: 37495
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37506,3 +37506,8 @@
 @CasTact
 @King_HaroldYT
 @BossBurned
+@NightJazzLounge-m3z
+@trollface-f6q
+@swotfm
+@PsychologyUnspoken11
+@TheHamsterdam
