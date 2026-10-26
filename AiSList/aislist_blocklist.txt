@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36266
+! Total Channels: 36263
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9175,7 +9175,6 @@
 @PaloSaloo
 @BrainfunSkeleton
 @Italian_Brain_Rot_1
-@TheOriginsofHistory555
 @GoddardOfficials
 @SecretsoftheMessiah
 @Alchemy-of-The-Mind
@@ -23197,7 +23196,6 @@
 @ProfessoorAi
 @gufflokai
 @StoryGalaxyAi4
-@ToonTickle-AI
 @StankyChickenAI
 @PetZen-Studio
 @AlisaASMRai
@@ -23804,7 +23802,6 @@
 @paperstoryboy
 @aicreation-y8c
 @raba_tales
-@funwithai_18v
 @treeminbible
 @CandlelightArchivesYT
 @MatrixMonster
