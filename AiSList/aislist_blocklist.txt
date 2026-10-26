@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36108
+! Total Channels: 36118
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36124,3 +36124,13 @@
 @BetrayalTruthTales
 @EmilyStories-yt
 @MANHWARECAP-s3s
+@TheRiseofJack
+@Shatter-q6m
+@OwambePrincessesStudios
+@YeeLovestory
+@nikosterman
+@ProfanusMaximusXD
+@RC_Android
+@anthonygardner5418
+@BigNashMusic
+@MosslightVillageStories
