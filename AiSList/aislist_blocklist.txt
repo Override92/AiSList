@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37233
+! Total Channels: 37243
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37249,3 +37249,13 @@
 @celticmythology
 @BreatheFocusAmbience
 @qleya
+@TheStarbornChronicals-n9u
+@FallIntoJazz
+@WildernessScoreMusic
+@Ghiblisoftrainstories-2
+@old-tucson-arizona
+@WithRoseUK
+@benedettogesu
+@Shadowsoferiseth
+@VIOLETGRAVE-Inc
+@cozyanimation134
