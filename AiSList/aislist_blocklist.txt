@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36256
+! Total Channels: 36258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36272,3 +36272,5 @@
 @BrandRewindUS
 @explainedsimplywhatif
 @forgottenhistoryechoes-r1z
+@zhaniluna
+@fantasy_chapel
