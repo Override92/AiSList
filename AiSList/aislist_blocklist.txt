@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36889
+! Total Channels: 36893
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36905,3 +36905,7 @@
 @KartenchaosOG
 @ThinkLeviticus
 @TenderTeardrops
+@kindredroadstories
+@echoesofrock-j4h
+@reilofi-3701
+@stickwis
