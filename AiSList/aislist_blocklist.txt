@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36772
+! Total Channels: 36782
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36788,3 +36788,13 @@
 @QuantumCodex-c2usa
 @%E5%B0%8F%E9%B1%BC-%E7%88%B1%E8%A7%A3%E5%8E%8B
 @HMusicWorship
+@QuantumHorizon-e5xUSA
+@karasyrakfilms
+@CozyAutumnRain-ho8wu9fl3x
+@SONORAINFINITA
+@vampshow
+@Skyneonn
+@SkyofFairyTales
+@MithsSanctuary
+@ValhallanSoil
+@MoonshiftRadio
