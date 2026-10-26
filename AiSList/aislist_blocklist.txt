@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36882
+! Total Channels: 36889
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36898,3 +36898,10 @@
 @UnbrokenRomance
 @RetroRivieraStudioClassics
 @PolytheismPiety
+@MyRelaxingCabin
+@feellikeabaddie
+@moonchill-1
+@ReadingwithK1tKat
+@KartenchaosOG
+@ThinkLeviticus
+@TenderTeardrops
