@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36078
+! Total Channels: 36088
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36094,3 +36094,13 @@
 @RezeManhwa-m3z
 @alecrecaps
 @TinyLoveStories-t6o
+@BaylakBumerang
+@LatteKittyCaf%C3%A9
+@Nextprimerecap
+@KhoiMangaRecap
+@ManhwaDimension-f9s
+@historicalmanhwa
+@%E5%B0%8F%E8%AA%AA%E6%BC%AB%E7%95%AB%E9%A4%A8
+@PodLup%C4%851-l9p
+@MangaHermit
+@LoveJourneys-q2w
