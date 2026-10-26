@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36258
+! Total Channels: 36260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36274,3 +36274,5 @@
 @forgottenhistoryechoes-r1z
 @zhaniluna
 @fantasy_chapel
+@blocfiles
+@stickoverse-g1s
