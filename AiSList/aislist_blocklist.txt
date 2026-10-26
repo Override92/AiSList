@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36242
+! Total Channels: 36252
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36258,3 +36258,13 @@
 @Night_Prayer-p2m
 @jasonstephensonmeditation
 @sleepyphilosophyradio
+@TheTemporalNomad
+@AwakendSoulArchives
+@BlackHawk-y9j
+@TheGnosticArchive
+@GaelAndersonMeditation
+@HiddenWisdom-o3c
+@innereyeawakening
+@whispersofthewildofficial
+@RestWithFaith
+@SleepfulBuddha
