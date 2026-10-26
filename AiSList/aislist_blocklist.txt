@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36937
+! Total Channels: 36936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28862,7 +28862,6 @@
 @Zenn0009
 @MaddyMediaYT
 @DrCaveman168
-@NOTICIASILUSTRADAS
 @ChronoPulseNeX
 @BushidoHitOfficial
 @LosAngelesBaseball
