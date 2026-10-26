@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1112
+! Total Channels: 1111
 
 ! Entries:
 @PapaMeat
@@ -642,7 +642,6 @@
 @SilenceStellaire
 @truckersvision
 @Hidden0Crime
-@yunzizi
 @shadowtracks
 @Je_Lee
 @ManofSuperHero
