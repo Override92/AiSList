@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36431
+! Total Channels: 36441
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36447,3 +36447,13 @@
 @Sl%C3%A1inteSessions
 @RMLRoyaltyFreeMusic
 @Elevista_studios
+@SnowReverie00
+@Midnight_Nocturnal_MN
+@thepyromusic_official
+@FrostbornAnthems
+@Eternalveil-e5j
+@animatedstories5-l
+@Celtic_Fire
+@RosainBlue
+@TenoriaSunriseUniverse
+@THRENOVAR
