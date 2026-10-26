@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36068
+! Total Channels: 36078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36084,3 +36084,13 @@
 @Horror_Stories-c2r
 @MidNightAnecdotes-b7z
 @TheCherryBloomStories
+@ShadowRealm780
+@BLdramaanddesire
+@MrAniRecaps
+@ManhwaGlow-e3q
+@PanelVerseRecaps
+@BLDesire-JK
+@TwiiistyyyRecap
+@RezeManhwa-m3z
+@alecrecaps
+@TinyLoveStories-t6o
