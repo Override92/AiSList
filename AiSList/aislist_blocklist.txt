@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36586
+! Total Channels: 36585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11364,7 +11364,6 @@
 @GastronomicRoots
 @MedievalExplained
 @Thehistory_now
-@TheOutliners.
 @only_facts_tv
 @SteviesStories
 @1keaaHistory
