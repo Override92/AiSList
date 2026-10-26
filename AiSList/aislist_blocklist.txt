@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36732
+! Total Channels: 36742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36748,3 +36748,13 @@
 @VideYVEVO
 @deepmelodicvibes
 @RoyalHawk_Official
+@DREADPHONIC
+@TheSailingBardChronicles
+@AnnaAIVerse
+@TravelToRelaxASMR
+@GiantsBeyondTime
+@elyra-tales
+@CoffeeJazzDays
+@MakingItHome3
+@RogueMelodies
+@VESPERA_NOCTIS
