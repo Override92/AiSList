@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36521
+! Total Channels: 36531
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36537,3 +36537,13 @@
 @CarlwynneRhythm
 @ElizhaRainSounds
 @Golden_Era_of_Jazz
+@romancecorner22
+@homeofparables
+@HealWithClassics
+@ZanTribeVibes
+@cozynest88
+@FarolHits-s7y
+@PawsitiveLofiVibes
+@VikingBlue-j6i
+@Elav%C3%A9iraSolenne
+@StoweeTellaStella
