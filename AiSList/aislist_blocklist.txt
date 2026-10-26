@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36742
+! Total Channels: 36752
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36758,3 +36758,13 @@
 @MakingItHome3
 @RogueMelodies
 @VESPERA_NOCTIS
+@feeltherhythm.official
+@VibeMatrixSoundsfree
+@thecustodianmusic
+@herraizsound
+@TheSentientSaga
+@NightfallKeys
+@AuroraDreamscape-123
+@EEE-EternalElementsEffects
+@MidnighttNoir
+@VagFilms_10
