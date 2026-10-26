@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36832
+! Total Channels: 36842
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36848,3 +36848,13 @@
 @WindowsideRain.9
 @RunesRhythms
 @CyberpunkRainSounds
+@GoldenRetroTunes
+@RealityLeaksProtocol
+@Choupinettedelavega
+@ValhallaSoundforge
+@NightVectorMusic
+@RainSleepNation-u9p
+@SipReadRomanceCoffeeMoments
+@SongHeartbeats-i3f
+@ghibli-storystudio
+@mudandodevida2759
