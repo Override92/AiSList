@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37280
+! Total Channels: 37290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37296,3 +37296,13 @@
 @Halls-of-Moria
 @Afterimath
 @JeremyBearimyTheory
+@ShreeMiniToons-SMT
+@EthanToons
+@doremontoons-08
+@CatvsDogToons
+@TalkyPawsToons
+@kaatoons-n7y
+@AhamToons.387k
+@WhisperedToons
+@MindToonsChannel
+@tycontoons
