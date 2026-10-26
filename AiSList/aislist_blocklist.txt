@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36501
+! Total Channels: 36511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36517,3 +36517,13 @@
 @MelancholySonata
 @halanrainsounds89
 @Pranikadivinestudio
+@crescent-echoes
+@Omeniqueofficial
+@delele-k1q
+@EliasHarrowMinstrel
+@AlphaRomanceVault
+@WordWeaverRoom
+@runeborn-shaman
+@valerie_dark
+@MelodiousGospelHymns
+@MoodVerseMusic-z3f
