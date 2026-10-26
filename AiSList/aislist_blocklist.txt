@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36591
+! Total Channels: 36590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12122,7 +12122,6 @@
 @JustTalkz-Avus
 @AiMovieTrailers
 @SIouch
-@doctormyro
 @GenAudio-s
 @CloudWaveLyrics-j4g
 @NexToneCSM
