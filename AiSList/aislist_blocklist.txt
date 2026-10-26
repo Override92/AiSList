@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36268
+! Total Channels: 36278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36284,3 +36284,13 @@
 @Duke_Romance_Diaries
 @ThinkverseAI1
 @EasyExplainPro
+@wylandTan
+@CineSitMusicVideos
+@TViewerStudios
+@TwiceTheMoodStudio
+@LightOn-Plus-Lab
+@MotifChat
+@StormySleep-k8x
+@AFROKORAMUSIC
+@NOIRTRIP-HOPLOUNGE
+@ChillMorningMusic-j5b
