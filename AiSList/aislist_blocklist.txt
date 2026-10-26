@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36582
+! Total Channels: 36592
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36598,3 +36598,13 @@
 @V%C3%B6lvaAwakening
 @electronicbreaths
 @frumgeschichten
+@JoMaNeural
+@frenchguillotinerecords
+@MI6-drako
+@JoyJoy-nc6zr
+@Pierreponken
+@ViolinInTheArchive
+@FINSTERFABEL
+@xHugss
+@BrotherHebertMusic
+@PsychoPenguin24
