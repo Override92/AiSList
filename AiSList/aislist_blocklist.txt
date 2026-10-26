@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36143
+! Total Channels: 36149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36159,3 +36159,9 @@
 @NeonMirageFM
 @VitcheX145
 @kawaii-eurobeat-nyafi
+@VoxSacrae
+@LanguageNerdsIndia
+@Omniversal-Entertainment
+@SongsOfZion7
+@Ficknime
+@Prumhy
