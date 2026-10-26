@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36054
+! Total Channels: 36063
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36070,3 +36070,12 @@
 @HwaRecap-c1y
 @QuinnClay9
 @animerecapage
+@thanhdo4962
+@GRANDPAnime
+@RonReview-ud5bh
+@RebornAudio25
+@TinyStoryTimeYT
+@JuneManhwa
+@SakuraWhispersTV
+@GufengNovels-I
+@Millie_Recap5
