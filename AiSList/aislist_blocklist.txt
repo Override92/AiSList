@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37083
+! Total Channels: 37093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37099,3 +37099,13 @@
 @OusiaNoirOfficialChannel
 @CozyAnime_Vibes
 @cozykitchentale-s
+@LostForestAdvanture
+@TheInvisibleSource
+@IronLionOutlaw
+@RavensofOdinVikinghistory
+@AfricanAnimated
+@NEONTIGERRISING
+@OfficiallyCerenity
+@Tideforged
+@ARDICA-Live
+@BrannwythMelody
