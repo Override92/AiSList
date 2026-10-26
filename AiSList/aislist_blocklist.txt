@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37036
+! Total Channels: 37046
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37052,3 +37052,13 @@
 @DRAKOVAR
 @TVSeriesReborn
 @CiaoAmoreCinema
+@EnglishThoughStories
+@noirjazzsociety-y3y
+@VikingFolkSociety
+@WingbornTales
+@ElenaCastilloMusic
+@50sdreams
+@MTOEnemyDaily
+@CallOfValhalla-i3o
+@CozySarah
+@ProjectICARUS-x6x
