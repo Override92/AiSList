@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36976
+! Total Channels: 36986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36992,3 +36992,13 @@
 @FloraMar_music
 @DegetaMusic
 @CelticEchoes-e5s
+@VireyaSoul
+@AlmaBluesCollection
+@AireEspa%C3%B1ol
+@lir-ia
+@avisloadre
+@Qelvynor65
+@TheEvelynHart
+@NadiaSerein
+@MysticAvalonRealm
+@ChinhAura
