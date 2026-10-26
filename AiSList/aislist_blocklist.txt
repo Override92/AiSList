@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36167
+! Total Channels: 36172
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36183,3 +36183,8 @@
 @Frightmere
 @HINDITALES1212
 @TiredCatAI
+@iSquareStudios
+@VelmoraStoryHaven
+@getsleepypod
+@FuelYourFire26
+@OceanVerse_Ai
