@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36936
+! Total Channels: 36946
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36952,3 +36952,13 @@
 @ALTERA2027
 @MaraCorven
 @DramaNest-w5t
+@Dreamy-life-vibess
+@SoulFunkWaves
+@VARGELD
+@Hydra-Deep
+@AiltartivLab
+@SyilvieCole
+@Zereth-98
+@hristinapatkova
+@RuneSounds-feat.AiRadio197.2FM
+@NemanjaNovakovic-Director
