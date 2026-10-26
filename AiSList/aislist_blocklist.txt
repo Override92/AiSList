@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36762
+! Total Channels: 36772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36778,3 +36778,13 @@
 @AltarSonoroofc
 @AevraAE-m3h
 @mightytriumph
+@KaranFilms-r6o
+@EmeraldWorship
+@AndromedaVOX
+@TheBrotherhood-t4s
+@avelynashband
+@Futuraworlds
+@TheAngeloArchivesHQ
+@QuantumCodex-c2usa
+@%E5%B0%8F%E9%B1%BC-%E7%88%B1%E8%A7%A3%E5%8E%8B
+@HMusicWorship
