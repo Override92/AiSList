@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36702
+! Total Channels: 36712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36718,3 +36718,13 @@
 @IndiasGotIntelligence
 @TheWorkZone-w4w
 @RhialtoCanada72
+@Beyondai-r3q
+@WillowLantern-r9g
+@losthistorytapes
+@SoundsOfpeace-2
+@AhnenrufEnglish
+@HelianaFulgarth
+@ElaraHQ
+@EirynVossOfc
+@Mi-ChanProject
+@faelightfilms
