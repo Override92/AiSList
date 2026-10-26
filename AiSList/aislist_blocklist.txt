@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36802
+! Total Channels: 36812
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36818,3 +36818,13 @@
 @KlownSmok3
 @AuroraFrequencies_Official
 @MidnightRockMemories-t8d
+@MIRROR-dl
+@FREYVRAVEVO
+@CDC-Studios
+@LaOlaCreative
+@FreydisThorvaldsson
+@gidsworld
+@VickFussionFilms
+@AfricanLegendsUnbound
+@MythofTheMzungu
+@RUTENA-f2m
