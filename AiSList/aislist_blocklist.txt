@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36149
+! Total Channels: 36159
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36165,3 +36165,13 @@
 @SongsOfZion7
 @Ficknime
 @Prumhy
+@MrGoat102
+@ProfDodoTV
+@AnimalssExplained
+@DeepSeaExplorerYT
+@CaptainDodoYT
+@imbones
+@LOVEROSELIE
+@AMBIENCLY
+@myaistoreis
+@stupidly_simple_stuff
