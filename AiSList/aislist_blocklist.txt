@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37046
+! Total Channels: 37056
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37062,3 +37062,13 @@
 @CallOfValhalla-i3o
 @CozySarah
 @ProjectICARUS-x6x
+@TheLostEmpireDocs
+@Mythra-Sounds
+@VatraNovaMusic
+@DuendedeMujer
+@GiggleToons-m1c3l
+@yukighibli-k4y
+@NorthwardEcho
+@SkyandMelodies
+@Alvornirr
+@AlphaKingChronicles-68
