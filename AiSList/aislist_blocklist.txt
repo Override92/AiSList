@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36792
+! Total Channels: 36802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36808,3 +36808,13 @@
 @Evangelix-M
 @HarmonyAllianceRadio
 @ChroniclesofAzerothEU
+@VintageFrenchRomance
+@GentleMindShift
+@OnyxKyai
+@MorsyxLantern
+@CovenantMelodies-g4c
+@dreamyrainbedroom8686
+@EldermistMelodiesYT
+@KlownSmok3
+@AuroraFrequencies_Official
+@MidnightRockMemories-t8d
