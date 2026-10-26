@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36907
+! Total Channels: 36917
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36923,3 +36923,13 @@
 @ShaoraxLi
 @Echoversemusicc
 @EtherealHeroines
+@AiCraft0999
+@themo-n3d
+@VelvetPorchSoul
+@R_creator05
+@vowsera
+@Ebonveilmusic
+@BLOODMOON-Su
+@susanakeimer
+@ClaireBeaumontOfficial
+@TheEpicAscent
