@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37371
+! Total Channels: 37381
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37387,3 +37387,13 @@
 @Brokenet.mp3
 @Humanly_786
 @elementdossier
+@ReveriesYT
+@DebugDaveYT
+@FernmeldeamtDeutschland
+@NexoraTech-j9r
+@LooseCannon-f1m
+@BananaCor3
+@HiddenMotivesz
+@CozyHalloweenAmbience
+@GreenPill888
+@AncientVault-1
