@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36872
+! Total Channels: 36882
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36888,3 +36888,13 @@
 @Tazmanian_Devil_UA
 @OrivoMusic
 @TheAIFantasyFinovo
+@ATranceTV
+@TheCaptainsLoungeOfficial
+@MtBrightChannel
+@MuteWorld-A
+@ImmersiveSoundsLibrary
+@ThreeAMHaze
+@fatatita-07
+@UnbrokenRomance
+@RetroRivieraStudioClassics
+@PolytheismPiety
