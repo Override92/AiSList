@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36888
+! Total Channels: 36887
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18068,7 +18068,7 @@
 @ClaireAshStory
 @CheatingStories-Postcard
 @RageStories-n8d
-@Gold-Novel
+@kitchen-masterpieces
 @ScarsBetweenUs
 @HappyLovePayback
 @ColdHeartStories222x
@@ -18104,7 +18104,6 @@
 @SponeTale
 @BlackBeltHonor
 @BlackDadLeagacy-22
-@THEGENTERTAIN
 @OPorquedasCoisassimples
 @StoryVerseChronicles5121
 @Harlemshiddenrulers
