@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36893
+! Total Channels: 36888
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8245,7 +8245,6 @@
 @WabiWabiMusic
 @GoodSoul-s9e
 @goldsilverheaven-g2k-e3g
-@Machine-View-yt
 @TheAlPulse-c2f
 @AIMachMusic
 @anusa2k
@@ -18784,7 +18783,6 @@
 @CaineUncovers3
 @SkylinePowerStories
 @JusticeUnfolded68
-@StoryQuest-z8q
 @BlackPowerTruth
 @JusticeAfterDarkStories
 @MidnightshortstoriesMSS
@@ -19367,7 +19365,6 @@
 @GlitchVerseClub
 @SoulfireGuitarSessions
 @mamatoldmestories2
-@CityHunterHFY
 @AdamaVision2025
 @SweetRomanceNight
 @LunasRomance
@@ -19740,7 +19737,6 @@
 @madeonwallstreetUS
 @StarrySkyRomantic
 @JustanObservation
-@GenerationsExplained
 @DaftDriver
 @plain-sight-channel
 @abyssal-channel
@@ -20090,7 +20086,6 @@
 @MartyWisdom
 @TheSketchbookInfo
 @NickFinance-w8z
-@BehindtheScreen-l4d
 @AmbroseWild
 @ViralAgenda7
 @MimiCafeBGM
