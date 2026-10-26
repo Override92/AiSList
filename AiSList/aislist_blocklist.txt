@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36592
+! Total Channels: 36602
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36608,3 +36608,13 @@
 @xHugss
 @BrotherHebertMusic
 @PsychoPenguin24
+@scarletjukeboxmusic
+@RBBSilver
+@verenapuhm
+@andyhill4638
+@Lil-wicked918
+@chanafilms
+@EmeraldGloom
+@dirkst.1171
+@psykokow
+@noctisorchestra-p7q
