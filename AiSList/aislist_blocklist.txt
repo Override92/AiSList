@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36585
+! Total Channels: 36584
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28411,7 +28411,6 @@
 @FracturedGround
 @THEAMMILITARYPOWER
 @WarVaultt
-@policeinsidertv
 @GlobalDefenseOfficial
 @fathoming-gn5dt
 @StrongElderlyLife
