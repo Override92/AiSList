@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36672
+! Total Channels: 36682
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36688,3 +36688,13 @@
 @realvonwoodson
 @Navariaz
 @AlexanderWinterborne
+@QuantumWithin-z1f
+@HeimatundHerz
+@laffpro-wow
+@Arthouse-Studios
+@MuzOsman
+@michellehackler0807
+@LumenFaithMusic-lfm
+@rexgis
+@DarkHeartSanctuary
+@TheSentinelSaga
