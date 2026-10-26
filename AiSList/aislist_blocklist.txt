@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36279
+! Total Channels: 36289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36295,3 +36295,13 @@
 @NOIRTRIP-HOPLOUNGE
 @ChillMorningMusic-j5b
 @tonightunfiltered
+@aicinemasakamoka
+@TheDrunkenImmoralTavern
+@DeepMusicRadio-u2m
+@AdlerPierce
+@lovehub-channel
+@PurpleVelvetRecords
+@ShulamiteProjectVEVO
+@CabinRainNights-p5k
+@NYXMORA-l9e
+@VELQORA99
