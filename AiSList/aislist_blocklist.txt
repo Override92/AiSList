@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36531
+! Total Channels: 36541
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36547,3 +36547,13 @@
 @VikingBlue-j6i
 @Elav%C3%A9iraSolenne
 @StoweeTellaStella
+@TyrInTheStatic
+@EchoesOfMysterystories
+@Maya.AcrossTime
+@congminh-n3l
+@Godri_x
+@Jo%C3%A3o-h1j7u
+@AstridFreija
+@ECHO.LAB.SOUNDROOM
+@Valdruna
+@FutureSphereStories
