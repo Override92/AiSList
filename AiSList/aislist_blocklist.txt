@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 36692
+! Total Channels: 36702
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36708,3 +36708,13 @@
 @Silencefall
 @ARVEN-OFFIC1AL
 @nora_arden
+@ElyaNoctis
+@IonutSabinBalaceanu
+@Golden_Dragon_Pictures
+@vorskal
+@AILoveSongs-t7c
+@IronWolfTales
+@christain-music-ai
+@IndiasGotIntelligence
+@TheWorkZone-w4w
+@RhialtoCanada72
