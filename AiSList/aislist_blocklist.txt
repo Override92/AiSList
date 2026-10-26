@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37351
+! Total Channels: 37361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37367,3 +37367,13 @@
 @CogniloomInsights
 @CalgaryVisionCentre
 @pawflexyt
+@FunkstilleDoku
+@wildlive-l4c
+@whats_yourmood
+@Brain_Cipher_Explainer
+@FrontierCodex34
+@Sondaexplains
+@OBX-010
+@Nuvooo-01
+@WhenPowerFails
+@CommonScience-space
