@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37688
+! Total Channels: 37698
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37704,3 +37704,13 @@
 @WONDERBOX2-c
 @HelaStory
 @aimechanicvibes
+@EngineeringUndercover
+@Fivertechpasindu
+@Dinovaxx
+@EverydayScienceExplained-u5w
+@basicelectronicsandcomputers
+@OnlineITImantra
+@TrendSparks-c2d
+@ethiotechonly
+@Army-masti-ai
+@RockyGopalRaj-e2f
