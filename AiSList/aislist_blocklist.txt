@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38503
+! Total Channels: 38507
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38519,3 +38519,7 @@
 @RevengeSecrets-f1s
 @TriedTrue-p7e
 @Manhwa_Fresh
+@ShadowBlending-m4v
+@WalterMiller99
+@SomePsychGuy
+@RayDonnellyDIY
