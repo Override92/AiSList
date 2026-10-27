@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37542
+! Total Channels: 37546
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37558,3 +37558,7 @@
 @StickyEthos
 @MuscleTvGarage
 @EasyDriver891
+@RevvedUpMuscle
+@ATOMICWAXVAULT
+@DictatorsFiles
+@ProfessorMarcoFinancialSecrets
