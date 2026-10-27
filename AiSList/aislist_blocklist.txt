@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37796
+! Total Channels: 37806
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37812,3 +37812,13 @@
 @HUMAN-ISH88
 @vu-mtg
 @wow-1124-s8m
+@aidoorbellAi
+@ringdoorbell-k8c
+@AI_Videos-goat
+@HistoricalHector
+@SwingVoltage-p8k
+@RarelyCivilized
+@TylerInFinance
+@JalandriKhan-x7c
+@GEOINSIGHTS-c8w
+@OldAmerica-z2j
