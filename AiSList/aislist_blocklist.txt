@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38063
+! Total Channels: 38072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38079,3 +38079,12 @@
 @Karmatales-q5l
 @Revenge-c4g
 @ChineseDynastyculture
+@ancientegyptiansHQ
+@AncientSecrets-g5g
+@KenjiExplainsUS
+@TiefBer%C3%BChrt-z2u
+@blackcasejournal-k3i
+@JusticeReclaimed-x6q
+@StoryGrove-c2o
+@EclipsedDesire-g2m
+@HeartoftheMafia-z1t
