@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38101
+! Total Channels: 38111
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38117,3 +38117,13 @@
 @RainyFlowersLofi
 @franz.aimusic
 @moneypermile
+@Egyptiansway
+@Fenz0009
+@vioexplains
+@Feral-YTC
+@papercutcrimes
+@ViewEscape
+@AmbientRenders
+@RetroMidnightMemories
+@TheRelaxingTown
+@Tranquil_Music888
