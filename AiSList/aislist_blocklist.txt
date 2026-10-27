@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37846
+! Total Channels: 37856
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37862,3 +37862,13 @@
 @impoinfo-o9k
 @StupidRichMathy
 @Peasant_Pete
+@getmindwire
+@LilLineGuy
+@NightJazzRelaxing
+@Jarko-l3n
+@MindArmy5
+@oppie_poppie
+@simplyodd0
+@WealthierWaysYT
+@AbhishekPandey-j9g
+@sketchystories26
