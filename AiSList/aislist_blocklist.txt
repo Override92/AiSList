@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38525
+! Total Channels: 38529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38541,3 +38541,7 @@
 @WorldWarChronicles-f9v
 @ZenithWakeSci-Fi
 @BloodandRiff
+@abed_zedan
+@ابواحمد-م7ز6ك
+@好運劇場
+@obscurasonore
