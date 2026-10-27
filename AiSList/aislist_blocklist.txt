@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37631
+! Total Channels: 37641
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37647,3 +37647,13 @@
 @Whispers-OfThe-Flame
 @ivansjournal
 @gadgetjunglepro9854
+@LiftTheLidShow
+@quietrevenge89
+@TitlyMan
+@TheRememberedYT
+@ThreadedViews
+@OnyxVeilGothic
+@iceloppe
+@howshipswork1
+@OutbackMotors
+@RealGeoVerge
