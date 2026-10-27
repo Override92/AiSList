@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37546
+! Total Channels: 37554
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37562,3 +37562,11 @@
 @ATOMICWAXVAULT
 @DictatorsFiles
 @ProfessorMarcoFinancialSecrets
+@iBankerU
+@FlightDisasters
+@WonderWilds-r2k
+@BrightSavingsUK
+@WhereFoodBegan
+@alex_emia
+@ShamisenSerenity
+@potatomusicstudio
