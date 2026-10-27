@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37906
+! Total Channels: 37916
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37922,3 +37922,13 @@
 @cyberworldytofficial
 @theeconomicsofh
 @DollarExplainsDaily
+@TheWealthTribune
+@SmartAxenExplains
+@JamesCole-w5l
+@MissyWillExplain
+@austin_knows
+@TheWitcherChronicles1
+@WealthWisePOV-t4h
+@stophelping
+@JuanQuintanaMedina
+@EconomicsUncoveredTV
