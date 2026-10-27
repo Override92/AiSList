@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37916
+! Total Channels: 37926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37932,3 +37932,13 @@
 @stophelping
 @JuanQuintanaMedina
 @EconomicsUncoveredTV
+@MrMarginOff
+@FracturedRomanceVault
+@pootleshow
+@AstroVantaa
+@Romance-Story-Haven
+@BookTingle
+@LoveRewritten_story
+@WhispersofDesire-s6r
+@KarmaChronicles-q2q
+@HerBillionaireDestiny
