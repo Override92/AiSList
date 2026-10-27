@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38336
+! Total Channels: 38345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38352,3 +38352,12 @@
 @LoveAfterLies-f1d
 @THEUNFINISHEDMAP-j5u
 @TheWalkingScience-z3v
+@StoryofOurMarriage-i2x
+@EVERYTHINGSUBIE-z1s
+@Morvalla
+@GrimFolioOfficial
+@vskinexplains
+@SilverSpurStory
+@JairoPockets23
+@GrimdarkDoodles
+@HistoryCode-p3n
