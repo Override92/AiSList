@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38449
+! Total Channels: 38454
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38465,3 +38465,8 @@
 @RomeBefore
 @EpopikExplain
 @Trace%C3%89crite
+@HardtackAndCoffee
+@RomeSimplified
+@Yorpcat
+@MythosVeiled
+@RomeRoughly
