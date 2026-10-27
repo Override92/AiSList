@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38277
+! Total Channels: 38287
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38293,3 +38293,13 @@
 @MystiqueWondersofficial
 @BunnyStories-r4f
 @FederalVerdict-i6t
+@CrownConfidential-g2y
+@TennisHorizon-f3x
+@SportsCraft-w2o
+@ObsidianHymns-e5x
+@NocturneStudio-r8f
+@UniqueJazzCafe
+@wils_music
+@WhitebearTUNE
+@RayHoltonSecrets
+@HardWealthGold1
