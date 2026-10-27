@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37582
+! Total Channels: 37585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37598,3 +37598,6 @@
 @AmritPath-p2i
 @EtherealCalm6886
 @ShabadDarbar
+@3fida
+@TheToolArchives
+@TheWastedDollar
