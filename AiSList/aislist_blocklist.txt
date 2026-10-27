@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37564
+! Total Channels: 37567
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37580,3 +37580,6 @@
 @HiddenMoneyPower
 @biglittlebeat
 @ImaginePhysicsExplained-l1r
+@CowboyNightMelodies
+@dinhanh840
+@redrecapped6729
