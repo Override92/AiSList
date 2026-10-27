@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38402
+! Total Channels: 38409
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38418,3 +38418,10 @@
 @Random.KingdomRK
 @Animae047Ani
 @ExplorerVaultOfficial
+@Lalucu.studio
+@%E5%A4%95%E9%A2%A8%E5%BE%AE%E5%8A%87%E5%A0%B4
+@StoryAvenue-p9g
+@Unspoken_Ledger
+@J-FERRER
+@TheLordsMessage88
+@FatedQueenDrama
