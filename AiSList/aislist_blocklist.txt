@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38259
+! Total Channels: 38268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38275,3 +38275,12 @@
 @MittiSoraAI
 @UntoldSecrets-c7o
 @BrightMoon-w6s
+@SofiaLifeAIOfficel
+@ai_food_lab_123
+@AImeowkitchen_16
+@theaifamily-12
+@Aitastykitchen01
+@AICoockingCreations
+@Foodholic-yt
+@Zuri_AI_Studio
+@TheQuietTown-94
