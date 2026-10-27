@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37728
+! Total Channels: 37738
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37744,3 +37744,13 @@
 @PollPosition-i5y
 @SilentScience-n8n
 @MeowWorld-y9t
+@JuniperBeats
+@KarmasScript-v6r
+@philosophysofanimes
+@NeonReverieWaves
+@WitOfSoundMusic
+@RiftCaster-k9z
+@aether.sounds.official
+@QuantumBeatsUnlimited
+@TheKitchenLab-375c
+@MythsTheyNeverToldYou-k3o
