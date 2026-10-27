@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38092
+! Total Channels: 38101
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38108,3 +38108,12 @@
 @TheLuxuryLane-7
 @harrysahota_hh
 @MysteryBox-w2n
+@VintageComedyVault-mu2zp
+@FundedFrog-sc6hp
+@discoverEDM
+@Oops-v1p
+@Faktencheck-w9i
+@Locked-b1x
+@RainyFlowersLofi
+@franz.aimusic
+@moneypermile
