@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38043
+! Total Channels: 38053
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38059,3 +38059,13 @@
 @OriginwaveRadio
 @what_if3D
 @GeniusNightScience
+@HowTechWorks14
+@TheNarrativeBrief-f7k
+@FocusSceneryLofi
+@truenorthyachts40390
+@sticksandsword
+@HerLedgerYT
+@Evening-Science
+@HistoryAfterDark888
+@TheLastDays-l5e
+@melo_fm
