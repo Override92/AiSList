@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38003
+! Total Channels: 38013
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38019,3 +38019,13 @@
 @WomenofJustice-j1x
 @Toldme444
 @ExpensivePsychology9
+@PetalDreamsGarden
+@MeanwhileintheUSSR
+@MusicGrove-p6g
+@MoneyMadeCle-w9i
+@TheMind-c4v
+@Knowledgehubb-b9r
+@Mr.StampEconomics
+@HowDidInvent
+@JoinTheBoardRoom
+@FlowStateLabOfficial1
