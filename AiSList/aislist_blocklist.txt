@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37567
+! Total Channels: 37573
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37583,3 +37583,9 @@
 @CowboyNightMelodies
 @dinhanh840
 @redrecapped6729
+@Freebadge1
+@FightKarmaa
+@FASTInstantKarma
+@FlashCaught
+@Momentsofduty
+@GuardedMoments
