@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37667
+! Total Channels: 37677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37683,3 +37683,13 @@
 @memoriaepiano
 @autoalertau
 @mysimplesomestead
+@typischdeutschyt
+@smilingpuddles
+@MovieOverloadBreakdown
+@univeresofbriangreene4
+@dry9ayast0r0na
+@GeoOrigins-c8v
+@MidnightCottonBlues01
+@JazzDarkTrip-HopCinematic
+@CanonDecoder
+@AnimanusHD
