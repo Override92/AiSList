@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38365
+! Total Channels: 38375
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38381,3 +38381,13 @@
 @Leafeey
 @ForgottenChroniclesChannel-w5s
 @PlantsCare-v2c
+@GrowingTraditions-y2p
+@TROPICALGARDEN-n4r
+@SparkDrama-p2w
+@GeheimnisDeutschland-z7o
+@FatoRapido-r4w
+@ManhwaRise-h1d
+@PROFDRAMA-n5s
+@unboxinguniverse-f6u
+@SharoonSahotra-i6j
+@CarterCook-y1i
