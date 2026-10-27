@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37611
+! Total Channels: 37621
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37627,3 +37627,13 @@
 @BikerGhostRiders
 @PsychologySpotlight-r8n
 @TheBikerArchives
+@europe_meets_america
+@TheWokeWatch-e8q
+@LittleThingsDeeply
+@mrgunball-channel
+@AIAndrew0
+@WWII-Desk
+@stayedfortheaudio
+@Sciencechronics-c9v
+@BecauseGeography
+@Dr.TylerAshford
