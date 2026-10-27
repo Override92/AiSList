@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37601
+! Total Channels: 37600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15494,7 +15494,6 @@
 @CarsExpert-c7x3f
 @UsaCarUpdate44
 @carAutoCentre360
-@RIDETOSKY-h9l
 @Defencetechworld-s3x
 @ShadowSymphonymusic
 @SmileMan1111
