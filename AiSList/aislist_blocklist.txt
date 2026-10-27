@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37836
+! Total Channels: 37846
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37852,3 +37852,13 @@
 @UnhingedUKTV
 @EKCapital
 @somethingsimpleYT
+@PR1MAL1
+@UntoldCivilizations-8889
+@ForgottenFarmTruths
+@TheArcaneReads
+@BeefReel-q2n
+@%EC%98%A4%EA%B7%80%EC%84%A0-u1t
+@Letsupp01
+@impoinfo-o9k
+@StupidRichMathy
+@Peasant_Pete
