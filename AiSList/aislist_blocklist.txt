@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38478
+! Total Channels: 38483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38494,3 +38494,8 @@
 @rdzenkolosow
 @QuantumMakers
 @SF--CH--l--235
+@FlightPath-t9z
+@Marlitha
+@MaviGadgets
+@PatriarchsLegacy
+@VeilJourneySounds
