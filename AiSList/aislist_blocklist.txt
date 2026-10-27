@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38439
+! Total Channels: 38444
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38455,3 +38455,8 @@
 @12hourwhitenoise
 @UnitedTV-YT
 @Ruediger_Wingel_Wangel_BoB_364
+@officialTheSilentRuins
+@TheInsightArchive-b6o
+@WonderScope-s2k
+@EliasDiscovery
+@EuroFault
