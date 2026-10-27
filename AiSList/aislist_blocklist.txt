@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38476
+! Total Channels: 38478
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38492,3 +38492,5 @@
 @TimeLapseLords
 @capitaltheoryjournal
 @rdzenkolosow
+@QuantumMakers
+@SF--CH--l--235
