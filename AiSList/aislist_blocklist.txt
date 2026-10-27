@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38434
+! Total Channels: 38439
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38450,3 +38450,8 @@
 @EveryLevelGuy_yt
 @desi-ghibli-life
 @TheSleepySpaceChannel
+@WindbellTalesASMR
+@CozyCartoonJazz221
+@12hourwhitenoise
+@UnitedTV-YT
+@Ruediger_Wingel_Wangel_BoB_364
