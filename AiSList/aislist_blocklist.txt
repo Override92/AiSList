@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37596
+! Total Channels: 37599
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37612,3 +37612,6 @@
 @TheQuietVeteran
 @KindNurse-m3q
 @SheFightsFirst
+@feastzone01
+@tensei-koudatta
+@princessleonorpoem
