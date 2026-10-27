@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38395
+! Total Channels: 38397
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38411,3 +38411,5 @@
 @HOAStories-i1c
 @hoastories-p6p
 @PixarTalesStudios
+@PublicBoss-x2x
+@FoodHealthScience-g5q
