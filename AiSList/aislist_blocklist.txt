@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38082
+! Total Channels: 38092
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38098,3 +38098,13 @@
 @HistoryBuff-m9f
 @HistoryBuff-j8c
 @History_Buffz
+@History.Buffer
+@HistoryBuff-b
+@HistoryBuff-we2oh
+@QuizRush-f1z
+@Bluefrontline-m7s
+@DustVinyl-tg4lq
+@EnochUnsealedd
+@TheLuxuryLane-7
+@harrysahota_hh
+@MysteryBox-w2n
