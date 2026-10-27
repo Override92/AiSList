@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37945
+! Total Channels: 37955
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37961,3 +37961,13 @@
 @laughoutloud-4c
 @TinyEnterprise
 @SavageSummary-07
+@VikingTechnoMixOfMelodic
+@ChilledBonesChannel
+@ageofjeremy
+@MicroMinutex
+@Primal.EchoAtlas
+@WW2GermanPOW
+@ww2silentvalors
+@Antiquio
+@suhopulse
+@StickmanGandalf
