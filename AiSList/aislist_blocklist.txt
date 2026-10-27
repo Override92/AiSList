@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38249
+! Total Channels: 38259
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38265,3 +38265,13 @@
 @DeadPixel718
 @LostPages-c2o
 @MentocoreHQ
+@FELLLIKEVILLAGE
+@AromaGhibli-life
+@GhibliDreamTales-v6n
+@footnoteshowcom
+@MoonlitFrameAI
+@forgestoriesofficial
+@VillageDreams-a2z
+@MittiSoraAI
+@UntoldSecrets-c7o
+@BrightMoon-w6s
