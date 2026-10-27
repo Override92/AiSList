@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37684
+! Total Channels: 37683
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30325,7 +30325,7 @@
 @Happyfruitsdrama
 @FruittVerse
 @ViralVerse-a1a
-@FruitsFamiliy
+@shoxrux_creatorai
 @ForbiddenAiFruits
 @FruitDreamAIOfficial
 @pomzy00
@@ -30414,7 +30414,6 @@
 @TheStoriesofHope-j2v
 @SyntheticHearts-h1v
 @CEOEnamoradoTV
-@MussuStoriess
 @Ajeet-Stories
 @RoyalStoryverse-e9k
 @JusticeTales-j4p
