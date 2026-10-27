@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38444
+! Total Channels: 38449
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38460,3 +38460,8 @@
 @WonderScope-s2k
 @EliasDiscovery
 @EuroFault
+@WildInterventionwithMarcus
+@NexusXdocu
+@RomeBefore
+@EpopikExplain
+@Trace%C3%89crite
