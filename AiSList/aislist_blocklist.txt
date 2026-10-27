@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38501
+! Total Channels: 38503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38517,3 +38517,5 @@
 @Pattu-v7c
 @Protocolo-Fantasma.x
 @HealthyBites-j8h
+@RevengeSecrets-f1s
+@TriedTrue-p7e
