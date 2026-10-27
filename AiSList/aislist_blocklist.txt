@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37683
+! Total Channels: 37681
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25730,7 +25730,6 @@
 @AJFactoryFlow
 @EliasYoderRaps
 @FactoryKinetics
-@KSU-BRAIN.2.0
 @deepmanufacturing007
 @NoonProcess
 @SRZombiesFilms
@@ -25808,7 +25807,6 @@
 @tukisaki
 @RyVerseStudio
 @ShatterverseOfficial
-@volttech-ai
 @FirstYearWild
 @YtGuruAi
 @AnatomyOfHavoc
