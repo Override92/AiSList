@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38502
+! Total Channels: 38503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38518,3 +38518,4 @@
 @HealthyBites-j8h
 @RevengeSecrets-f1s
 @TriedTrue-p7e
+@Manhwa_Fresh
