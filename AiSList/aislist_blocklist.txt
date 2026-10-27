@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38239
+! Total Channels: 38249
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38255,3 +38255,13 @@
 @InstinctEconomics1
 @CabinClassConflict
 @houseofel-ai
+@beyond_google
+@WeirdifyAII
+@WhisperingMeadowLofi
+@gwenstales
+@Rasterveil
+@TheGhibliHub-c2g
+@MalnadWhispers
+@DeadPixel718
+@LostPages-c2o
+@MentocoreHQ
