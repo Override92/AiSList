@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38516
+! Total Channels: 38525
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38532,3 +38532,12 @@
 @harveyhoyle1537
 @SiliconTheory-m5l
 @BeanieDrawsAncient
+@TheWorkplaceReckoning-TWR
+@Aztech-x9g
+@stechbysaqib
+@SmartShopperDealsAmazon
+@VesyXMR
+@vergessenetechnikyt
+@WorldWarChronicles-f9v
+@ZenithWakeSci-Fi
+@BloodandRiff
