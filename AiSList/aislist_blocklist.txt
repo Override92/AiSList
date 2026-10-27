@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37826
+! Total Channels: 37836
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37842,3 +37842,13 @@
 @AfricanFatedLives
 @DestinedAfricanHearts
 @PlainFinance-r5x
+@WhyXStudio
+@WorldCupPulse-official
+@SoulGlowMixes
+@Focus-Engine99
+@therecvibe
+@TheFameInsider-1
+@AutomotiveLegacyStudios
+@UnhingedUKTV
+@EKCapital
+@somethingsimpleYT
