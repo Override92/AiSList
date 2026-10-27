@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37816
+! Total Channels: 37826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37832,3 +37832,13 @@
 @Factopia-0786
 @xiaogouxiaogou-e8p
 @DeepEchoTechno
+@PaperThrones
+@primepovofficial
+@CoinTheory09
+@QuietCapital9090
+@MaxCents
+@BrotherExplainsMoney
+@AfricanHorizonStories
+@AfricanFatedLives
+@DestinedAfricanHearts
+@PlainFinance-r5x
