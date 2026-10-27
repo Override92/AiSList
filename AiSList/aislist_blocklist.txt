@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37573
+! Total Channels: 37575
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37589,3 +37589,5 @@
 @FlashCaught
 @Momentsofduty
 @GuardedMoments
+@trailblazeofficial1
+@NexWatch94
