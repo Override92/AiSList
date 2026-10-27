@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37681
+! Total Channels: 37676
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7860,7 +7860,6 @@
 @DiandrasMusicBubble
 @Luminae_Official-s9t
 @BOBReview-x7z
-@tartariahistorian
 @BlackboxDE
 @FAQ-Manuals
 @elianarosa2168
@@ -11007,7 +11006,6 @@
 @AIBIBLEMOVIES
 @SynthStringLab
 @TheAvoidantMystery
-@AshAndGraceRadio
 @NaviaStudio
 @lauda-archiv
 @QuantumFrequenciesDJ
@@ -14266,7 +14264,6 @@
 @AssopraaFitaLo-Fi
 @REIKON_FM
 @kau-73
-@nostalgiadotexe
 @geschichte.lebt1
 @JugOfJunk
 @iamAImaster
@@ -25154,7 +25151,6 @@
 @MarvelAi-c4m
 @AiZyko
 @DevotionalUniverseTamilAI
-@TheAiUniverse-w5h
 @AISpaceStudios
 @presidentai_official
 @HistorywithAI-u9h
@@ -30397,7 +30393,6 @@
 @EchoVerseStories-f8h
 @FarmerValleyStories
 @PfotenvollerMut
-@Giantess_Verse
 @EverydayLifeStories-f7s
 @M%C3%BCttergeschichten
 @VeloraRomance
