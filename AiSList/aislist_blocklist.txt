@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37768
+! Total Channels: 37777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37784,3 +37784,12 @@
 @TinyTalesAIChannel
 @AiShortStory620
 @RealLifeStoriesAI-f4o
+@MythDecoded-r1u
+@TalesbyPeaceTheAiPodcast-x8w
+@MarvelAivideo-10m
+@BeyondWorldview-x5d
+@CARTOONVIDEOS-r8l
+@ai_realistic_stories
+@ZiqAi-m1m
+@AiFilm-kt3ee
+@AITrailerFactory
