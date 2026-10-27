@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38461
+! Total Channels: 38463
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38477,3 +38477,5 @@
 @SoulWhisperFilms
 @FeralExplain
 @Verv1289
+@Timelarper
+@ChalkAndChronicle-q9x
