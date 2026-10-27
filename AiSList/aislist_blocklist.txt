@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38483
+! Total Channels: 38493
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38499,3 +38499,13 @@
 @MaviGadgets
 @PatriarchsLegacy
 @VeilJourneySounds
+@QuietRoomPiano
+@Onainme
+@RedditFamilyChronicles-u3h
+@QuietCollapse-g3p
+@AiStores-d7y
+@MagicAIVideos-s7w
+@jitendrakumar-jks4
+@Ai_rasoi_tales-o3s
+@Aichotu4
+@AsifKhan-m6z4p
