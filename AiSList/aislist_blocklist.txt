@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37585
+! Total Channels: 37590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37601,3 +37601,8 @@
 @3fida
 @TheToolArchives
 @TheWastedDollar
+@BuildIncDocumenatries
+@GlobalCollapse1
+@BanijayHistory
+@ClearPresentHistory
+@TimeMachineDocumentaries
