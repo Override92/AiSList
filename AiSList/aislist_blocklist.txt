@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37590
+! Total Channels: 37597
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37606,3 +37606,10 @@
 @BanijayHistory
 @ClearPresentHistory
 @TimeMachineDocumentaries
+@Grand_Archive
+@EdNashsMilitaryMatters
+@THEstoriesofHumans
+@battlefieldchronicles02
+@TheQuietVeteran
+@KindNurse-m3q
+@SheFightsFirst
