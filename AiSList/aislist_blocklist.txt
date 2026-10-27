@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37748
+! Total Channels: 37758
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37764,3 +37764,13 @@
 @MasttLifeWith-AI
 @Jossycreate
 @Solara-w1w
+@Anecdotes-g1s
+@NIGHTSIGNAL-g2w
+@Livinginhistory-n8r
+@TheBrickArchive-m5z
+@MythicChronicles-j9h
+@sleepingaudit
+@PodcastAI-t6k
+@WildRanked-f3z
+@AiMovieMarvel
+@Ailife-o6x
