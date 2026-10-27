@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38170
+! Total Channels: 38180
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38186,3 +38186,13 @@
 @GrandpaWalter-e1o
 @LuxuryEdge-f5f
 @Tarreva
+@HistoryRetoldAnimated
+@LittleMeowTweets-i2i
+@MoonDynasty-y4m
+@PsychedelicClubMusic
+@MochiDepth-k9b
+@TheBusinessVault-p9h
+@BuildCraft12-y4s
+@neuron_guy
+@TimelessStories-d6f
+@DeathSpearHFY
