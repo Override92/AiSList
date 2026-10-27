@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38424
+! Total Channels: 38429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38440,3 +38440,8 @@
 @The_NuclearMan
 @GameSquad-v2g
 @dayonefilmsofficial
+@WhatHappensIfAnimations
+@edgeofscale
+@Kahaniwalamannu
+@ifdattrue
+@Hypothetica101
