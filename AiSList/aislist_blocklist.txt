@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38072
+! Total Channels: 38082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38088,3 +38088,13 @@
 @StoryGrove-c2o
 @EclipsedDesire-g2m
 @HeartoftheMafia-z1t
+@UnderworldStories-w3v
+@SoulEngine-n9g
+@NatureSleepHaven-v5b
+@ToonTownUSA-m8v
+@nasimvlog-y4b
+@EmmaStevens-n9z
+@TechMobile-c8o
+@HistoryBuff-m9f
+@HistoryBuff-j8c
+@History_Buffz
