@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37806
+! Total Channels: 37816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37822,3 +37822,13 @@
 @JalandriKhan-x7c
 @GEOINSIGHTS-c8w
 @OldAmerica-z2j
+@TheStrangeFile1350
+@EchoesofIndustry-p2t
+@mulmub
+@EPICTALESBYOMA
+@MangaMotion-o8m
+@HOWHUMANITYSURVIVED-h7u
+@StickHuman68
+@Factopia-0786
+@xiaogouxiaogou-e8p
+@DeepEchoTechno
