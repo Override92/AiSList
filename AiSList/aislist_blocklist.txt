@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37690
+! Total Channels: 37685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8388,7 +8388,6 @@
 @JohnAGUnfiltered
 @johnharrishyt
 @JohnWayneArrived
-@MrJohnBriefing
 @unclejohnfinancial
 @CircuitFlowCF
 @leafdeepfocus
@@ -12160,7 +12159,6 @@
 @BeatVora-j3l
 @NobleTunesBeats
 @AuvanoMusicYT
-@MorrisonMadeMusic
 @fadedwave-z2i
 @TheVibeForgeMusic
 @Starrznationfanmademusic
@@ -23954,7 +23952,6 @@
 @versodocs
 @clipp2forgee
 @kivobee
-@hsov-p5v
 @ashbornrecords
 @TheSilentWake-t5h
 @BetrayalStories-u4n
@@ -24968,7 +24965,6 @@
 @CaughtOnCamAI001
 @AI-Iris-Universe
 @Hyper-AI-Studio
-@PicStoryAI
 @AICinemaCuts
 @jspaifilms
 @AICINEMATICUNIVERSE_7
@@ -24999,7 +24995,6 @@
 @mymcuai34
 @MohanlalAIUniverse
 @AIGlamUniverse
-@AIMoveReel
 @AI_CinematicMultiverse
 @soraaiposts
 @soraraaivideo-ch
