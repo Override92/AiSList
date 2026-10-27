@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38429
+! Total Channels: 38434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38445,3 +38445,8 @@
 @Kahaniwalamannu
 @ifdattrue
 @Hypothetica101
+@narevooriginals
+@Skyeweighibli
+@EveryLevelGuy_yt
+@desi-ghibli-life
+@TheSleepySpaceChannel
