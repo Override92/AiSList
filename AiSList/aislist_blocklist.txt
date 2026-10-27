@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38190
+! Total Channels: 38200
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38206,3 +38206,13 @@
 @YourHFYStory
 @FocusMusic-w4z
 @BuriedOnline
+@TheLastScribe-d2z
+@RuthlessVengeance
+@VeilOfRevengeTV-e1o
+@TryleAnderson
+@behindwalls1
+@Primal-b5e
+@COMICSSTORM-l7p
+@Mindandideas-c1c
+@Doxa-w8x
+@SimpleExplain2
