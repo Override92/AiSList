@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38111
+! Total Channels: 38120
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38127,3 +38127,12 @@
 @RetroMidnightMemories
 @TheRelaxingTown
 @Tranquil_Music888
+@LUX-AmbientMusic
+@GalaxyCabinAmbience
+@samfeldtt-THR-Music
+@NightRelaxation8386
+@ThomasGeschichten-t8b
+@DarkRainCabin
+@EmberglassJazz
+@BabbaMelon
+@ConsumidoremAlerta-l4n
