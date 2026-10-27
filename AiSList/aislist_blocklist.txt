@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 37647
+! Total Channels: 37657
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37663,3 +37663,13 @@
 @stitchAlohaVibes
 @TheUniverseDisagrees
 @sredniowiecznagranica
+@UndocumentedBehavior
+@Johnny-Roads
+@YunZhongBaiHe
+@NapTheory-c3y
+@HiddenHorizons-n2l
+@Dreamwave.84
+@EuclideaYT
+@BlueTreesYT
+@hustlersmath
+@JuneBarrettYT-v3w
