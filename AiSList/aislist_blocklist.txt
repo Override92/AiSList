@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38531
+! Total Channels: 38532
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7138,7 +7138,6 @@
 @MetalGirlViral
 @MelodicGirlRock
 @AIConvoCast
-@ObscuraSonora
 @Suptunes-r6l
 @Old_Whiskey_Blues
 @AcousticGuitarRelaxing
@@ -38547,3 +38546,5 @@
 @obscurasonore
 @ReviewC%C3%B3T%C3%A2m-p9h
 @Pandanexo
+@realgrinny
+@hypothetically.shorts
