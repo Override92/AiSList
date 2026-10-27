@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38229
+! Total Channels: 38239
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38245,3 +38245,13 @@
 @EliteHeartstudio
 @TheLastNursery
 @FernZenPiano
+@VampireRomanceRealm
+@TheVampiresBride-r2s
+@DarkLoreArchives-k6n
+@DivineMusic88
+@TheLunaChronicles-c9p
+@ShortDramaTheater-x3g
+@ON-YOUR-MARK_SIGNAL
+@InstinctEconomics1
+@CabinClassConflict
+@houseofel-ai
