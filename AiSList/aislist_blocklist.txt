@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39394
+! Total Channels: 39399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39410,3 +39410,8 @@
 @YesterTube
 @technosaze
 @synoide_philo
+@TechEast-w1n
+@TalesFromReddit-i8w1o
+@TimeLensTV-hp5zd
+@HardwareInfo-i9y
+@LegendsofthePast-z8d
