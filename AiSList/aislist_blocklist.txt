@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39371
+! Total Channels: 39373
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39387,3 +39387,5 @@
 @Rosendo-y5n
 @IronfrontBattles-forreplac-k1j
 @TemperedArchives
+@AutoWorth-s2j
+@OldFrame09
