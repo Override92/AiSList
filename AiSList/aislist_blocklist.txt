@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38564
+! Total Channels: 38574
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38580,3 +38580,13 @@
 @pulse-m3g
 @Andrew-n5g4h
 @retro_ai_stadio
+@WhispersoftheOldWest-k9q
+@JBUNIVERSESTUDIOS
+@RealVerseChannel
+@jean-raymon
+@zolasiber
+@xonmusic6
+@ElenaStrizhkova_Ai
+@Nordicmusic_FM
+@mercyandjoy
+@johnwilliams-j1r5h
