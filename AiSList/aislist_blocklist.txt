@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38811
+! Total Channels: 38818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38827,3 +38827,10 @@
 @EyewitnessHistoryHQ
 @SlowHoursHistory
 @BigHeadsHistory
+@Realtimehistory_R
+@Aitimetravel-g6j
+@DaniDailyVlogs-w5l
+@HistoryUnderfootG
+@HISTORYOFPLACESS
+@retoldhistory.official
+@SleepHistory-SH
