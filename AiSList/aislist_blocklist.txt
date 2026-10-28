@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39115
+! Total Channels: 39125
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39131,3 +39131,13 @@
 @FINAL-GROWTH
 @BullsOut-f9k
 @snoutwise
+@alexshkor
+@TheSnowRay
+@heyitschiragg
+@madhukarprakash1703
+@MoneyXer
+@sticktrending
+@WealthXcape
+@BillyExplainsFinance-co
+@TheWealthBlueprint-88
+@TheOperationalReview
