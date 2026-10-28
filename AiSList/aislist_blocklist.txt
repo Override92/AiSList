@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39271
+! Total Channels: 39273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39287,3 +39287,5 @@
 @SCROLLSUNSEALED-j1d
 @KristalAI
 @TheBehavioralEdge-y8t
+@ILAMOfficialMusic
+@BecksTown-e6q
