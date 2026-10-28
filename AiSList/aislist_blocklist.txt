@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38723
+! Total Channels: 38733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38739,3 +38739,13 @@
 @TalentMusicWorld
 @RubyRenegade
 @SacredFluteMelodies26
+@HoneyCrush-z
+@EntreTronoseV%C3%A9us
+@EpochTimelaps
+@Fatebound-Drama
+@KnightsofEternalFaith
+@NeonDemon1116
+@CineAISoul
+@AnimetaAiMedia
+@ShinShibaYT
+@ElaGrayoficial
