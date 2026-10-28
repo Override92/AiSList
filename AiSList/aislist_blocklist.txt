@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38751
+! Total Channels: 38761
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38767,3 +38767,13 @@
 @alphapicturesai
 @lolitea7797
 @StahlSeele_music
+@Hushedhistory-s
+@Historymadesimple0
+@NocturnalHistoryen
+@HistoryinDarkness
+@HistoryBeforeSleep-p3i
+@HistoryofTonight
+@DriftThroughHistory-d4c
+@Lowfire-History
+@History_Whisper8
+@SleepyTimeHistory11
