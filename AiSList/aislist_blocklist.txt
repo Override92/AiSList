@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38968
+! Total Channels: 38978
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38984,3 +38984,13 @@
 @provacaobiblica
 @ritmoailatino_ae
 @empire_sword9
+@skills421
+@WisdomVault-b1f
+@FinanceIdeas-x2o
+@SketchTheEconomytv
+@biggerviewcasual
+@ParchmentEmpire
+@PersonalFinance-d8z
+@JMT-pz8qw
+@RomeCalculated
+@techopenedup
