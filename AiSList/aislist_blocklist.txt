@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38635
+! Total Channels: 38645
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38651,3 +38651,13 @@
 @ssameer-music
 @aryapriyanshuppt
 @theRoaStudio
+@VelvetHeart8386
+@DunkleWolfsromantik
+@ItalianRhythmVibes
+@AvalancheAIStudios
+@MidnightVelvetArchives
+@Aethermax-ult
+@DMS18-KDBG
+@BuriedintheWild-j6u
+@KaelixSpice
+@LanaKhavronenko
