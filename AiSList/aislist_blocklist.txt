@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38574
+! Total Channels: 38584
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38590,3 +38590,13 @@
 @Nordicmusic_FM
 @mercyandjoy
 @johnwilliams-j1r5h
+@hexboundballads
+@SonicAura-e4g
+@archivestudio-1
+@Stan.Studios
+@nyxawinters
+@BasotaRecords
+@YaroslavCyberhack
+@ReezaStoryverse
+@Sevirart
+@Covenant_Music-q3
