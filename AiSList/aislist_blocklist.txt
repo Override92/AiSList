@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38978
+! Total Channels: 38988
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38994,3 +38994,13 @@
 @JMT-pz8qw
 @RomeCalculated
 @techopenedup
+@AppWealthHub
+@MarktwissenDE
+@JohnAGGraph
+@TwoAndCompound
+@daliofinancehub
+@CuboidTech
+@bigbwbs
+@BoughtByDesign
+@thebrokeshow
+@ProfitGrid-l8q
