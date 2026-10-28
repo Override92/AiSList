@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38678
+! Total Channels: 38688
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38694,3 +38694,13 @@
 @AtlasAiFilms
 @theancientfold
 @biltoki
+@Velvala
+@VintageTalentStage
+@AelynGrey
+@mila-snow
+@AndrewHaughton
+@PrayerKnights
+@Dreamtale123
+@JRCPixels
+@EugeneStorytelling
+@AIVintageDreams
