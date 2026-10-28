@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39305
+! Total Channels: 39314
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39321,3 +39321,12 @@
 @Mohit.Patel-j5e
 @GOOGLH-k6h
 @FinnStone-q8q
+@DeepSong-c6w
+@themedievalkitchen
+@HumanOriginsLab-k8o
+@SHORTPICK-K7K
+@GrooveHousePlaylist
+@MrFinanceWise
+@nightdriveambient999
+@HIDDENHORIZONS-KG
+@EuropeUnraveled
