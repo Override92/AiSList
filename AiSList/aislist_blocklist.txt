@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39283
+! Total Channels: 39293
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39299,3 +39299,13 @@
 @darkacademia_nocture
 @Scaeris_A.I
 @DragonrealmMetalUniverse
+@Peakchilln
+@McScarySquid
+@Stiggly-l6y
+@USVIBRA2
+@StinkPotStudios
+@ScienceSimplified4All
+@Caveman_TV-e8w
+@memeverse-e7o
+@ChubbyAi-y5u
+@AICheck-e4c
