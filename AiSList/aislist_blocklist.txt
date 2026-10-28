@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38534
+! Total Channels: 38544
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38550,3 +38550,13 @@
 @namieyume
 @Myau-Ai
 @LunadeRebozo
+@ScielluneSounds
+@wildcard004
+@Afterlight-sam
+@BlackFoxRising
+@SanjidasFancy
+@georgepatten-m3h
+@soulfulchilllounge
+@VeiloftheFallenLove
+@aicreatorstools
+@JanaCuteMusic
