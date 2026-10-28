@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38924
+! Total Channels: 38934
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38940,3 +38940,13 @@
 @Gojoreview-z6z
 @intellectualcyberhub-centre
 @dynavellestudios
+@jackksstone
+@idrama
+@AuroraBeamDrama
+@terra-videos
+@ifAraragi
+@butwhyandrew
+@MoneyMapWithNate
+@SafeMindOfficial
+@ConChaser
+@RealityGlitchENT
