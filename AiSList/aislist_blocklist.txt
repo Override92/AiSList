@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38966
+! Total Channels: 38968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16881,7 +16881,7 @@
 @WakingtheUnknown
 @secretsofmanga
 @Deepika06U_VIN
-@PulsarManhwa
+@manhwamultivers3
 @Micro_Lens_POV
 @TrueStoryVisuals_Official
 @Niraj_Cinematic_Universe
@@ -38982,3 +38982,5 @@
 @trioeirelia
 @discomotions
 @provacaobiblica
+@ritmoailatino_ae
+@empire_sword9
