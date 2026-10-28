@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38534
+! Total Channels: 38529
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -252,7 +252,6 @@
 @imaginedreality019
 @StoryArcPaws
 @MeowLaand
-@Catflix.taless
 @Meow_Ai_Story
 @MeowLifeTNMedia
 @RumasAnimationVedio1
@@ -10066,7 +10065,6 @@
 @WildWestNight
 @WildWestStory-u4n
 @ChristusDominusStudios
-@MarcusStories123
 @JanesAlphaRomanceStories
 @Bellas-Romance-Library
 @YorynAuthor
@@ -14491,7 +14489,6 @@
 @zantro4you
 @duuuudy
 @OldeWorldMelodies
-@JesusMessage-f6n
 @theshadowofthegods
 @northkoreadecoded
 @DreamClinicOfficial
@@ -30940,7 +30937,6 @@
 @Lite-tales10
 @MingJianFolktalesChronicles
 @OrcLegendTales
-@KindnessTales-z6b
 @Timelessforktales
 @HistorianBoringTales
 @Galaxytales333
@@ -31177,7 +31173,6 @@
 @WildWestTales54
 @RegencyRomanceTales-g4i
 @folktalesbyshedma
-@BLACKVELVETemotionaltales
 @ROYALAFRICANTALESandMORETV
 @KorulineTales
 @Africantalesbyeche
