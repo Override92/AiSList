@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38533
+! Total Channels: 38534
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17406,7 +17406,6 @@
 @RedditSphere-10
 @DISCO-PLAN
 @Dogometery
-@dogipher1
 @PuParent
 @2PacRevival
 @GrandadDrillRappers
@@ -38549,3 +38548,5 @@
 @hypothetically.shorts
 @wakelgue
 @retirewithwalt01
+@offscriptly-k5l
+@mimi__mashup
