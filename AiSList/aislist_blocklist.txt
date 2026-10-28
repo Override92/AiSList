@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38911
+! Total Channels: 38919
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38927,3 +38927,11 @@
 @Behindfilmmagic-s8u
 @An.Imetion
 @Miliechuphaal
+@CraShorts32
+@CTTVVideo
+@WhisperLines-19
+@Echoes-of-the-Balkans
+@SoradalTR
+@Stickfallin
+@FlywithPicco
+@EGC_29
