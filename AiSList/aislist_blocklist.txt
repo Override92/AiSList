@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39399
+! Total Channels: 39404
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39415,3 +39415,8 @@
 @TimeLensTV-hp5zd
 @HardwareInfo-i9y
 @LegendsofthePast-z8d
+@CookingWithElena-y9n
+@GraphicWave-i2g
+@AILabsRecipe
+@ComerparaSanar-b5t
+@Meatz-s4u
