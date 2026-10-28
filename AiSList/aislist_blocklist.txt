@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38881
+! Total Channels: 38886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38897,3 +38897,8 @@
 @CompleteHistoryHQ
 @TrappedInHistoryOfficial
 @SleepyHistory-e6s
+@무비직구
+@호시탐탐랭킹채널
+@글로벌팝콘
+@다시보는애니
+@欣欣看剧
