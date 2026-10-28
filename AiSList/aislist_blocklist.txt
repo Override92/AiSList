@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39293
+! Total Channels: 39295
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39309,3 +39309,5 @@
 @memeverse-e7o
 @ChubbyAi-y5u
 @AICheck-e4c
+@ThinkingGround
+@My-Song-official
