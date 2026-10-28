@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38605
+! Total Channels: 38615
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38621,3 +38621,13 @@
 @theinvestigatorhiddenmechanics
 @doyou라잌
 @인생안망함
+@veliasongs
+@felipesilveira_vfx
+@MachineMadeFilmsLLC
+@SoyAlinaaa
+@natureandskymagic
+@BatyaMazel
+@ravensoul85
+@StellarPrismAtelier
+@%E6%9C%88%E8%81%B2%E8%A8%88%E7%95%AB
+@ZolaVoice-tunes
