@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39055
+! Total Channels: 39065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39071,3 +39071,13 @@
 @Justin_bloemheuvel
 @aurovionteir
 @TheCompanyLedger
+@TheMoneyFinance02
+@EconomicBureau
+@Rainstorm_757
+@RBXDOCS
+@ThynkFinance
+@MoneyLedgerPov
+@POV_Unpacked
+@ThatMesh
+@MensOfMoney
+@WealthWiseankit
