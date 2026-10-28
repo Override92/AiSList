@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39324
+! Total Channels: 39334
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39340,3 +39340,13 @@
 @Silent_Bloom_Stories
 @Rangelo-Ai
 @NaeemAStudio1
+@Funtoonfairytales-q7m
+@AuraPetal-u2u
+@Mind_doodles12
+@HazelWest-q7e
+@PixelReveal
+@africanaistory-c1u
+@AfricanAiStory-u1i
+@Africanaistoryteller
+@AfricanAistoryworld
+@Africanaistudio-h4q
