@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39386
+! Total Channels: 39394
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39402,3 +39402,11 @@
 @Frontlines-Channel
 @Upcomingworld-k5k
 @InsidetheVietnamWarYT
+@Kristyn_56
+@Reelcoded
+@TheNocturnePassage-b1c
+@globewise630
+@ChronosChronicles02
+@YesterTube
+@technosaze
+@synoide_philo
