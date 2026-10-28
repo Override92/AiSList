@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38544
+! Total Channels: 38554
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38560,3 +38560,13 @@
 @VeiloftheFallenLove
 @aicreatorstools
 @JanaCuteMusic
+@Music-for-all-PS
+@ApexAudioAI
+@CosmosMusicPro
+@Softly-Unbreakable
+@blood_eternal
+@LiGoodt
+@raynefarooq
+@echoandemberstudio
+@21studios75
+@sadneko9
