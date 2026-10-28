@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38961
+! Total Channels: 38966
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38977,3 +38977,8 @@
 @naturalhubs-00
 @catteemusic
 @NocheM%C3%A1gicaLed
+@golden-hour-jazz-cafe
+@redplanetnotes
+@trioeirelia
+@discomotions
+@provacaobiblica
