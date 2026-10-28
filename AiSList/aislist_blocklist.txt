@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38948
+! Total Channels: 38950
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38964,3 +38964,5 @@
 @Ifiniteless
 @torkwaseh
 @arliscar
+@NomiNestDogBeds
+@Heavenechoes_us
