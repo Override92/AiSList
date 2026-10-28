@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39145
+! Total Channels: 39155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39161,3 +39161,13 @@
 @CircuitCapital-m2s
 @SakuraShamisen
 @FinanceTicker1
+@MarcoLegacy
+@Businessmadness
+@BehindTheFinancestory
+@MartinHaleTalks
+@tybo121
+@TheEconomicPicture
+@SamayReturn
+@LakhyaGamingPro
+@upk38xkaioken
+@AINewsDaily-g8r
