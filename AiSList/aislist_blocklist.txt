@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38942
+! Total Channels: 38951
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38958,3 +38958,12 @@
 @TimelapseProf
 @ysjahcu
 @quilldaily
+@BetterAskBrenda
+@battleanalysis79
+@BrendaCooksYT
+@DoodleArsenal
+@maybeverse68
+@ThenWhatDoodles
+@ifictional-m9c
+@ThenWhatAnimated
+@OminiAM
