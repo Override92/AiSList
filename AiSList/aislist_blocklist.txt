@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38953
+! Total Channels: 38948
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -368,7 +368,6 @@
 @Aitopmovies
 @ASM_Rest
 @SharpOddity
-@Imheretohelpyou224
 @Nico_and_Luna
 @Afraid2Sleep
 @AI_ESteem
@@ -780,7 +779,6 @@
 @catkittenfamily2018
 @thecatfamilyworld
 @catai.shorts
-@aicats-u4g
 @aicatstories03
 @jonisusanto1985
 @catshortai
@@ -2306,7 +2304,6 @@
 @ai_family_1
 @aianimalstories5
 @shoaibkhan-y5x9l
-@animedairies
 @ascreations-07-s
 @jitendra8116
 @thechosenone-x5q
@@ -31192,7 +31189,6 @@
 @AfricanTalesEchoes
 @QuietDignityTales9901
 @WesternCowboyTales-n2x
-@CrownMaidenTales
 @WhisperingTalesstories-i6v
 @AfroseoulTales-21
 @OrcMossheartTales
@@ -31761,7 +31757,6 @@
 @AlphaOmegaTales-us
 @WestboundFolkTales
 @OldWestCowboyTalesYVN
-@RisingVoiceTales
 @Betrayaltalesyt
 @WestwindTales
 @StellarHumanTales
