@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39135
+! Total Channels: 39145
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39151,3 +39151,13 @@
 @CreditDeskYT
 @Kojisan2229
 @MaxInvests-o8r
+@DJ-Prism
+@hiddenzous
+@cashframestories
+@NeonClip-2026
+@MogulMindset-168
+@VerityWallet
+@FINANCEMISFIRES
+@CircuitCapital-m2s
+@SakuraShamisen
+@FinanceTicker1
