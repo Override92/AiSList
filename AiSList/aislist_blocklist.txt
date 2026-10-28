@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38584
+! Total Channels: 38593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38600,3 +38600,12 @@
 @ReezaStoryverse
 @Sevirart
 @Covenant_Music-q3
+@TheAnalogTape
+@ZENTRIXCLUB
+@Relapse-442
+@ZB-movies
+@Forever1950s
+@EchoesOfTheAmericanDream
+@innersoundtracks
+@ShanaVeyra
+@tabletoptunesmusic
