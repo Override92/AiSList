@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38658
+! Total Channels: 38668
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38674,3 +38674,13 @@
 @%E9%98%BF%E5%8D%BF-8663
 @NovaMetropolis
 @Hixtorex
+@passaporteheavymetal25
+@YOONSEULFILMS
+@TeleportPast
+@RavenHale_ofc
+@WashinHitsProdu%C3%A7%C3%B5es
+@RoseDream7
+@BurningOathBand
+@JesterMassacre
+@StoicLoveCodes-pro
+@davidsaimastery
