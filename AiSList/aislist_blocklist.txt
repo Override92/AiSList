@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38655
+! Total Channels: 38658
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38671,3 +38671,6 @@
 @myjellyrollin
 @LordsOfVelvetThrone
 @RomanceInsider
+@%E9%98%BF%E5%8D%BF-8663
+@NovaMetropolis
+@Hixtorex
