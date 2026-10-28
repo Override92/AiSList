@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39351
+! Total Channels: 39361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39367,3 +39367,13 @@
 @Hidden_Innovation
 @oldtechdynasty
 @mylesxiety3
+@ProperHonestTech
+@%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%D0%98%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D1%8A4%D0%BC
+@BharatAhir-v1u
+@Khan-y4y2e
+@AiKids-vid
+@Ai-classickids
+@KidsAIVideos-c4c
+@AIeducationforkids-g3z
+@Aivideo0040
+@Aikidsvideos-p3e
