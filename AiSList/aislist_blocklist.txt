@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38957
+! Total Channels: 38959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38973,3 +38973,5 @@
 @TryBreatheX
 @barkpocket
 @MyLuminel
+@Collegehoods
+@shop_motorhaus_f1
