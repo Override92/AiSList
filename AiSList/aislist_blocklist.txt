@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38998
+! Total Channels: 39008
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39014,3 +39014,13 @@
 @PAST_FROM_WITHIN
 @TheUntoldSto
 @Mr.Market09
+@buildwithsalve
+@TheFinanceDad99
+@StoryTimeStudioTV
+@AIAndYourJob
+@AncientStoriesAndMyths
+@ChartTheMoneyTV
+@PocketMoneyAdventures
+@LeonidaLegends-e8u
+@thepasthadissues
+@PandaNomices
