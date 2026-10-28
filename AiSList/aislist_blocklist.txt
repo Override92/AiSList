@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39199
+! Total Channels: 39208
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39215,3 +39215,12 @@
 @NapTimeHistoryOfficial
 @BoringHistoryUK
 @thetranquiluniverse
+@ElTecnomagoai
+@ashdoesthemath
+@beareconomyofficial
+@AIFantasyBeauty
+@BotBuhdy
+@TheKTLedger
+@MaryLabs322
+@CottoonVillages
+@Flyingsaakura
