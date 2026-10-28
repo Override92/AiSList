@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39045
+! Total Channels: 39055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39061,3 +39061,13 @@
 @Keiko-Blog
 @Casualmarketsffv
 @Franz-Finance
+@Zolandd
+@Auravest-m1r
+@MrAlCrash
+@Neuralink-jps
+@GeoEconomics.1
+@UnfoldedFilesYT
+@Kiko_Banana
+@Justin_bloemheuvel
+@aurovionteir
+@TheCompanyLedger
