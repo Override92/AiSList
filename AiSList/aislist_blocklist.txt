@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 38668
+! Total Channels: 38678
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38684,3 +38684,13 @@
 @JesterMassacre
 @StoicLoveCodes-pro
 @davidsaimastery
+@KarenCarpenterATimelessVoice
+@VocesdelEscenario_Oficial
+@Anime3Reality
+@leahraeofficial
+@YYYStudio-88
+@genVibes_AIProductions
+@evaxmark
+@AtlasAiFilms
+@theancientfold
+@biltoki
