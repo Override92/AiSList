@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39155
+! Total Channels: 39164
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39171,3 +39171,12 @@
 @LakhyaGamingPro
 @upk38xkaioken
 @AINewsDaily-g8r
+@730Invest
+@DollarDynasty-u1c
+@profjiang-u3k
+@Pips.Fact.Orbt.l
+@Capitaltruths-v7m
+@seemulate
+@MorningAIBriefing
+@The_Debasement
+@CousinKey
