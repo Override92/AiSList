@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39277
+! Total Channels: 39283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39293,3 +39293,9 @@
 @DustEmpires-DE
 @Root.Insight
 @ThisDayArchive
+@StickSurvivalHistory
+@discovertheuniverse444
+@AncestorYou
+@darkacademia_nocture
+@Scaeris_A.I
+@DragonrealmMetalUniverse
