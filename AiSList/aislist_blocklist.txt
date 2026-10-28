@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39225
+! Total Channels: 39235
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39241,3 +39241,13 @@
 @DestroMemes
 @MatthewMyStoriesOfficial
 @LonkiesCreatiesFantasyMusic
+@DheAluna-Music
+@midnightslumberclub
+@SiliconTec
+@CelestiumRealm
+@HopeAscendantt
+@Techloop-x
+@ThronesOfDoom
+@10Hypes
+@sargecallahanyt
+@popovik
