@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39065
+! Total Channels: 39075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39081,3 +39081,13 @@
 @ThatMesh
 @MensOfMoney
 @WealthWiseankit
+@NOIRSIGNALOFFICIAL-d7t
+@Keshi-TheFintechFlux
+@lamine-u97
+@WealthpathPOV
+@BigDealStories
+@FinanceAxiom
+@PopGoesTheMarket
+@SmartBrokeGuy
+@Stickmind9k
+@ErikExplainsUS
