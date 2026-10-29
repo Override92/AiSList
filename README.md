@@ -31,14 +31,14 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 8072 |
-| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 5188 |
-| 🥉 3 | [@www2](https://github.com/www2) | 3626 |
-| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 2809 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 8187 |
+| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 5249 |
+| 🥉 3 | [@www2](https://github.com/www2) | 3878 |
+| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 3031 |
 | 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2196 |
-| 6 | [@BallsMcTits](https://github.com/BallsMcTits) | 386 |
-| 7 | [@Beavermafia](https://github.com/Beavermafia) | 375 |
-| 8 | [@magikarp](https://github.com/magikarp) | 373 |
+| 6 | [@magikarp](https://github.com/magikarp) | 390 |
+| 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 386 |
+| 8 | [@Beavermafia](https://github.com/Beavermafia) | 375 |
 | 9 | [@Oflogon](https://github.com/Oflogon) | 342 |
 | 10 | [@tomjas1963](https://github.com/tomjas1963) | 304 |
 
