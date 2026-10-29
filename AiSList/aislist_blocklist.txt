@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39424
+! Total Channels: 39434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39440,3 +39440,13 @@
 @BASSSTUDYBREAKSLO-FI
 @SaffronJazzLounge
 @vabovj8888
+@DeepPersianSound
+@CalmWorkAtmosphere
+@NoDistractionZone-x9y
+@walkermcnee
+@cinematicmovess
+@DesertChill_35
+@CelticBagpipeMusic
+@neonvoid001
+@RetroAmbientDreamscapes
+@LoFiMidnightWaves
