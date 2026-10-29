@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39434
+! Total Channels: 39444
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39450,3 +39450,13 @@
 @neonvoid001
 @RetroAmbientDreamscapes
 @LoFiMidnightWaves
+@Mist_Alone
+@SonicMosh
+@Deep_Calm_Channel
+@NocturnalStudyHall
+@ObsidianAthenauem
+@theoldfuturemusic
+@f441one
+@CivilisationsPr%C3%A9sent%C3%A9es
+@KensCafeJazzLoungeBGM-g1w
+@MentePintadaYT
