@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39484
+! Total Channels: 39494
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39500,3 +39500,13 @@
 @LoschaZzMusic
 @ALT-BEAT
 @aestheticvaultmedia
+@QuietHoursLoft
+@AlanGsouls
+@Laughshock3
+@NEONVAULT1
+@DJ_SCROOGE-MIX
+@DystepOfficial
+@hilx_music
+@RumbleDeck
+@gradskikit
+@NewWorldChill
