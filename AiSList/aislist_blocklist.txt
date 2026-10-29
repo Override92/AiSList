@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39454
+! Total Channels: 39464
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39470,3 +39470,13 @@
 @NoirnVelvetJazz
 @observaci%C3%B3nrural
 @RealmBlender
+@timelessclassicrock01
+@AfroHouseJungleTemple
+@BluesRockJamRadio
+@LostBluesSessions
+@ElectricDelta-g1e
+@ClassicRockRevivalist
+@ADONAIMOSTHIGH
+@EDM8899
+@CaffeineCloud-TechnoMusic
+@BassASF
