@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39645
+! Total Channels: 39655
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39661,3 +39661,13 @@
 @BigFoot-CamVlog
 @OnePercentStatic
 @1PercentMusic1
+@TITANSOUNDSOfficial
+@CleanLoopAI
+@AcneExtractionOfficial
+@excavatorfuntunes
+@holger-joachimmorlo9859
+@MelodicCode-no1
+@Vikingtimes123
+@CrimsonMirageMusic
+@TinyPaperDolls
+@OutlawPsychedelicBlues
