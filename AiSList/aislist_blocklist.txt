@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39407
+! Total Channels: 39409
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39423,3 +39423,5 @@
 @BrandTrap-z6q
 @StoriesbyStarlight-w3m
 @惊蛰剧场17
+@HOASecretFiles-r7t
+@Dungeon_Vibes
