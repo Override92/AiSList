@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39685
+! Total Channels: 39690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39701,3 +39701,8 @@
 @metalsymphonysound
 @BluesGuitarHaven
 @TheAbraxasCollective
+@ObsidianWaves1
+@APENTERTAINMENT5758
+@DjMR-NRW
+@NocturneFlow17
+@ReactionPoint-e7m
