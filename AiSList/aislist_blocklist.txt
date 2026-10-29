@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39607
+! Total Channels: 39616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39623,3 +39623,12 @@
 @LINA-l1n7f
 @luminavibes-e6e
 @strayngemile
+@ZenLookout
+@suvpickup
+@EV_Horizon_tech
+@AfternineStudio
+@SoulFunkAddict
+@LiquidHourDnB
+@VISION84-No5
+@NEONDREAMSREBORN
+@synthwaveagent
