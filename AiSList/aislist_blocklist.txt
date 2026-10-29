@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39577
+! Total Channels: 39587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39593,3 +39593,13 @@
 @AlternativeRockCollection88
 @OceanBlueDeep
 @roombeneath
+@ChillinDripz
+@NewTechnoMusic4you
+@DJZYNEXEDM
+@SchiebedachMusik
+@IbizaLuxuryLounge
+@summermix-e7n
+@RetrovexAmbient
+@TechnoFlow-k9p
+@navtune
+@DeepMelodicTechno-j4u
