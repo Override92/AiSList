@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39409
+! Total Channels: 39414
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39425,3 +39425,8 @@
 @惊蛰剧场17
 @HOASecretFiles-r7t
 @Dungeon_Vibes
+@SatisfAiy
+@LurkCZE
+@WeirdASMRfaces
+@SleepyGoblin123
+@AURABOYS_Official
