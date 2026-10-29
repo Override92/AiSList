@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39625
+! Total Channels: 39635
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39641,3 +39641,13 @@
 @dark.trance
 @peakstateaudio-y1i
 @StayTunedCC
+@Reverie086
+@NeonJourneyMusic
+@Serenity_Session
+@SkylineSoundscapes
+@MusicWorldAfroHouse
+@101ritmuri
+@NightsInHistory
+@GritAmerica
+@FRAME_HOTEL_M
+@Blues_Rock_Empire
