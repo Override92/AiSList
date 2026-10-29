@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39717
+! Total Channels: 39726
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39733,3 +39733,12 @@
 @IslandFlow_Radio
 @QuantumZenRadio
 @EnchantedLibraryRadio
+@ProfessorNexusAcademy
+@Starsfamous7
+@JackTheHappyFarmer
+@OldIron-u1v
+@ViceFluxFM
+@FragranceZoomer
+@AfricanBrokenSouls
+@AfricanFolktale-forchildren
+@Truthuncovered-h7k
