@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39558
+! Total Channels: 39566
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39574,3 +39574,11 @@
 @AmbientAfterHours-r3y
 @DREAMCOREETC
 @Diamond_68
+@HouseOfPrayer-Official
+@RGrooveVibeHouse
+@Violin-Beats-hiphop
+@RedVisorHouse
+@Alpha_core_offcial
+@GameWithDave
+@ZiaAsgedom
+@MoonCrystalMusic
