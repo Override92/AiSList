@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39587
+! Total Channels: 39597
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39603,3 +39603,13 @@
 @TechnoFlow-k9p
 @navtune
 @DeepMelodicTechno-j4u
+@ChargeofDriving
+@roadkingturbousa
+@EliteWheels-b8x
+@ILC-RV
+@BrainExplorer-y6l
+@EndlessMiles-o4j
+@DriveDwell-t3b
+@RoamRides-w3v
+@Thecarcompass-z7w
+@mvpauto-z2h
