@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39504
+! Total Channels: 39513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39520,3 +39520,12 @@
 @SwingFunTimeReboot
 @TimeTraveler-f4s
 @MidnightHazeFM
+@SynthWaveDisco80s
+@aeiou-music
+@NeoW84
+@8BitENERGYRADIO
+@TheBooysenEchoes
+@chillstep-lofi
+@Oudoria-lounge
+@SOUND-1989
+@EurovisionDance-k4u
