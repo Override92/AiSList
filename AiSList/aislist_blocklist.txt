@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39550
+! Total Channels: 39558
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39566,3 +39566,11 @@
 @ETERNALROCKVIBES1
 @InfinitraEDM
 @ElectroLatinVibes
+@LoFiRainEscape
+@syarif21-x9d
+@DarkDeepTechno
+@JRPGTavern
+@AlexeyBogomolov-o1k
+@AmbientAfterHours-r3y
+@DREAMCOREETC
+@Diamond_68
