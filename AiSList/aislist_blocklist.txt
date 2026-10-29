@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39566
+! Total Channels: 39575
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39582,3 +39582,12 @@
 @GameWithDave
 @ZiaAsgedom
 @MoonCrystalMusic
+@TranceCrowd
+@Sunrooftechnomix
+@DeepMelody68
+@BlackForest_Underground
+@HypnoticTranceMixes
+@NovaJazzLike
+@MoonlightMocha-1
+@gothawave
+@AlternativeRockCollection88
