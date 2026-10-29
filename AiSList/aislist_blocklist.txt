@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39513
+! Total Channels: 39523
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39529,3 +39529,13 @@
 @Oudoria-lounge
 @SOUND-1989
 @EurovisionDance-k4u
+@TerraLumeStudio
+@CyberShatterBeats
+@Kedibeats
+@NEXOR2890
+@SuciLestari-w7c
+@silens.ambient
+@melodictechnoroom
+@FreshRomanianWaves
+@RelaxStudio77
+@NaturalezaGaia
