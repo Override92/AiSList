@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39655
+! Total Channels: 39665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39671,3 +39671,13 @@
 @CrimsonMirageMusic
 @TinyPaperDolls
 @OutlawPsychedelicBlues
+@westwindstoriesreal
+@FrontierWhisperStories-w4r
+@CrimsonRomanceStories-c1u
+@RnBSoulSessions12
+@EdenRomanceStories
+@Afro-SeoulTalesTV
+@StoriesfromtheHeart-love
+@NoorStoryHome-q5n
+@ProtectiveMafiaBossStories2
+@DeadlyRomanceStories
