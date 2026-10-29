@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39675
+! Total Channels: 39685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39691,3 +39691,13 @@
 @RomanticTales-c8r1o
 @ThroneChronicles-i5d
 @TheSleepyKnights
+@Vaxoin
+@KiddyKingdom-3a1
+@dragonsleepstory
+@AudioNovelExplainer
+@1980s_playlist
+@EloneMarken
+@BingeWatchSquard
+@metalsymphonysound
+@BluesGuitarHaven
+@TheAbraxasCollective
