@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39735
+! Total Channels: 39736
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14726,7 +14726,6 @@
 @crunchyfactory
 @economyandwarfare
 @Dailydiscoverie01
-@bluesidetales
 @theoroverse
 @thehealthysenior11
 @aimusic-v8d
@@ -39751,3 +39750,5 @@
 @intelligent_pulse
 @pennyexplainsfinace
 @analogstatefiles
+@americathroughtimee
+@psicologiafemenina-h9r
