@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40323
+! Total Channels: 40329
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40339,3 +40339,9 @@
 @AetheronArena
 @theaibubble113
 @EarningsPerPage
+@MidnightChordMusic
+@CuriosityDrivenGaming
+@CosmicTrips0
+@PotatoExplainMoney
+@tuitionzero
+@TerrainAndTactics
