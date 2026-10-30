@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39854
+! Total Channels: 39863
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39870,3 +39870,12 @@
 @LaunchPoint-i7i
 @CosmicProof-r3g
 @QuantumGrid-c1v
+@GalaxySphere1
+@Zenvo-z1x
+@Pixeltales-k9x
+@abirajarts1607
+@UPSCVision-l1i
+@StoryNovaAI-r6c
+@LearnovaLabs
+@10IF-v9f
+@LingrajPatil-d7h
