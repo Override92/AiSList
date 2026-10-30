@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40096
+! Total Channels: 40103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40112,3 +40112,10 @@
 @zer0threehq
 @TrendyEveryday
 @TheCatalyst-d3d
+@Dollarlogic-z8d
+@GreenbackG
+@Capital-Beat
+@DeepSpace4KTV
+@BoringHistoryHub1
+@TechAutopsy23
+@historytofallasleep1x
