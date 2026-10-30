@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40193
+! Total Channels: 40203
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40209,3 +40209,13 @@
 @TTWorld-v1e
 @BeyondTheChyron
 @CapitalCoach08
+@PortfolioIntel
+@HisShamisen
+@CrackedFinance-US
+@HierarchyPOV
+@XRPShockwave
+@Wealth.Explained-u7j
+@FutureofTech_9
+@BoringWorldHistory
+@watch.humanhistory
+@Coin_Morph
