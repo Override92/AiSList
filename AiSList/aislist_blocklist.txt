@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40369
+! Total Channels: 40379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40385,3 +40385,13 @@
 @WorldHistory-b6y
 @SleepHistorye
 @severehistory
+@streetmathreal
+@ASPC-History
+@Gyaankastartup
+@InkManHistory
+@financialstamp
+@StoriesfromHistory-p8j
+@ElonCalmMind
+@SleepyHistoryQuest
+@HistoryforSleep-zz
+@HistoryHeadMaster
