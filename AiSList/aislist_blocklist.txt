@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40475
+! Total Channels: 40480
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40491,3 +40491,8 @@
 @AncientAfricanHistory01
 @WisperedCases
 @JapanAmbientEchoes
+@The.Capital.Historian
+@BoringHistoryForSleep24
+@CalmPOVGuy
+@HistoryAfterDark.z
+@OnePencilHistory
