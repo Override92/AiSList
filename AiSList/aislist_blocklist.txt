@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40419
+! Total Channels: 40417
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12406,7 +12406,6 @@
 @startingmachine
 @ThrottleConflict
 @CrimePaintOfficial
-@RedstickmanYouTube
 @Basically-Primitive
 @VoyageStellaire1
 @wildline_YT
@@ -22016,7 +22015,6 @@
 @CinderRoadRadio
 @soragen.official
 @RealeRachegeschichten
-@westernlegenden0
 @LoveFallout969
 @TheMillionaireCowboy
 @KARENRevenge1
