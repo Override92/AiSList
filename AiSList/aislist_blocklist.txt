@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40349
+! Total Channels: 40359
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40365,3 +40365,13 @@
 @BourbonandRumPodcast
 @HumanUnchanged
 @MintedHistory
+@MasterK-e3d
+@POVNICOFINANCE
+@historyawn
+@HistorySleepYT
+@HistoryBedtimeStories_0
+@GhostlyHistory
+@sleepless_history31120
+@RevengewithDoloresRevengew-v8c
+@Sleepy-History007
+@Boringhistorysleeper25
