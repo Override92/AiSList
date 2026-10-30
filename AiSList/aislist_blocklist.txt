@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40083
+! Total Channels: 40086
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40099,3 +40099,6 @@
 @HatersWillSayItsAiofficial
 @diasporadrama
 @Hindcast26
+@ProPicks.Official
+@ChillMoriBGM
+@itscuriositydude
