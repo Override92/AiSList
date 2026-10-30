@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40607
+! Total Channels: 40610
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40623,3 +40623,6 @@
 @EchoHistoryForSleep
 @nighttimehistorytv
 @BiologyNeet2026
+@DailyInterestingInfo
+@HistoryLullaby-uk
+@yanhuigang
