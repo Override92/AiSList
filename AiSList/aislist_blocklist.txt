@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39892
+! Total Channels: 39902
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39908,3 +39908,13 @@
 @AmbientReflectionSoundscapes
 @Grannynostalgia
 @RusticElegance-k9x
+@PimpYourPaws
+@jimj512
+@ScriptHarbor-x7p
+@MankiTalks-u3h
+@LuckyGoose-v3r
+@EliteAutoReviews-s3o
+@bz05-q2x
+@ssfeng-p6s
+@EpicDrive-y1m
+@Salom%C3%A9-u5v
