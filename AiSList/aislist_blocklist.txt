@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40399
+! Total Channels: 40409
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40415,3 +40415,13 @@
 @TheOffscreenFiles
 @DreamThroughHistory-d5y
 @archivalhistoryoffical
+@GhostFrequency-Channel
+@drift_into_history
+@BigHistoryGuy67
+@pov_portfolio
+@USXSTORIES
+@Infinite__Mindset7
+@WorldwideNewsReels
+@Rajbambooclub
+@suzanne-y3b
+@Lighthouse.Storage01
