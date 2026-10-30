@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40223
+! Total Channels: 40233
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40239,3 +40239,13 @@
 @Quiet-History-Storytelling
 @AI_FlipWorld
 @historyundermoonlight195
+@AibySim%C3%A9r
+@MoneyyUncovered
+@MoneyverseMoney
+@NamesakeAtlas
+@WhatIfLandOfficial
+@LabLols
+@POvRankBoss
+@FinanceDecodedMedia
+@BackRowOwner
+@OUTLIER51
