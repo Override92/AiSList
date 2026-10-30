@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40541
+! Total Channels: 40547
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40557,3 +40557,9 @@
 @SkySutton-k3t
 @faulttreetv
 @Psychology_Truths1
+@FinancialCrimeHistorian
+@Historyt-1
+@TheProfitBehindIt
+@sleephistory168
+@HistoryAtlasSio
+@HistorySleepyStories_HSS
