@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40610
+! Total Channels: 40608
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22049,7 +22049,6 @@
 @MiranMythos
 @ReelixBox
 @wedoogfx
-@JJINDEX
 @Anamnexis
 @AFIFIAI
 @CharlieDriscollAI
@@ -22095,7 +22094,6 @@
 @AIM-MediaPro
 @topascreativestudio
 @ExposeVault
-@TrivakonKing
 @FutureEarths
 @AI_Dripp
 @FutureFrontierDocumentary
