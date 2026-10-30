@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40437
+! Total Channels: 40447
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40453,3 +40453,13 @@
 @the-history-sleepcast
 @AnitaChauhan-u2h
 @The-Old-Masters
+@BoringHistorySleepy-ok
+@SlowHistoryNights
+@HistoryForSleepCalm
+@sleepyhistoryforsleeps
+@PodcastAudioHistory
+@SenseToMe
+@zebananatv
+@mdratanmdratan-o8f
+@paperempiress-z5c
+@HumanHistorySleepy
