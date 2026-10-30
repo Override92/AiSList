@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40273
+! Total Channels: 40283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40289,3 +40289,13 @@
 @WHATIFFYFILMS
 @TheJourneyWithin-yt
 @OutwardAnimates
+@BunkerMan
+@moneywithearl
+@tavieenfilm
+@CalmGhibliStories
+@ZoomedOut_Off
+@ronnie.finance
+@wavyboi
+@VynnExplainsWyh
+@ArthurKnowsMoney
+@URWealthyy
