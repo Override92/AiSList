@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40213
+! Total Channels: 40223
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40229,3 +40229,13 @@
 @DeepSleepHistory2.0
 @CityEons
 @unclefinanceyt
+@MicrolightCinema
+@TimelessHistory-T
+@HardwareNexus-g9c
+@POVPath
+@AcornTheory-88
+@HistoryAfterMidnighttv
+@WomanRiseTV004
+@Quiet-History-Storytelling
+@AI_FlipWorld
+@historyundermoonlight195
