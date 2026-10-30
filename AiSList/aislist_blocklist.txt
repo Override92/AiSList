@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40467
+! Total Channels: 40475
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40483,3 +40483,11 @@
 @Snugosaur2026
 @NextGenHubArshad
 @NayanikaOrchestral
+@StickmanHistory-g5s
+@LindaCarolineIswandi
+@ShadowedHistory-r4e
+@SleepingThroughHistoryStories
+@AmericanHistoryForSleeping
+@AncientAfricanHistory01
+@WisperedCases
+@JapanAmbientEchoes
