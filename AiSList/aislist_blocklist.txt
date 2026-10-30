@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39960
+! Total Channels: 39970
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39976,3 +39976,13 @@
 @KMHistoryVault
 @SuPremeDrama-j8o
 @nvidiamedia-u6c
+@EONReality
+@Streets369
+@%C3%89veilPhilosophique
+@LeMondeM%C3%A9di%C3%A9val
+@OPMPOPROCKMUSIC
+@TheRetroVisit
+@TheByteBasics
+@JoyDrama2
+@EmpireIndustriel
+@ReceitaseDicasdaSol
