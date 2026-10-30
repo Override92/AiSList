@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40168
+! Total Channels: 40178
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40184,3 +40184,13 @@
 @History-Impacts
 @TheForbiddenHumanArchives
 @dailymarket726
+@MindRoiYT
+@HistoryHackedLog
+@DarkSleepyHistoryChannel
+@SleepyHistoryStories1
+@DailyDoseFunWow
+@ThenYouDied
+@HumDrumHistory1
+@TheInfoHubOfficial-03
+@crimeledgerhistory
+@TheWarningsWereThere
