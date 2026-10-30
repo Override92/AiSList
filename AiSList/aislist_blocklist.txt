@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39803
+! Total Channels: 39805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39819,3 +39819,5 @@
 @RocknRollOriginalMusic
 @Aibabyjokes-h1p
 @BeeviAi
+@MissRedStudio
+@ReactionaryPolitics
