@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40416
+! Total Channels: 40418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40432,3 +40432,5 @@
 @TheHiddenHow12
 @Waitwhat-n3h
 @TheeconomicGold
+@RomanLibrary-m4o
+@gynter1
