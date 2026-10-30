@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39820
+! Total Channels: 39830
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39836,3 +39836,13 @@
 @inhispeace-d2y
 @StoryVerseTv-j5u
 @Africastoryhuttv
+@HelenCulturalStories
+@OnceUponAfrica-o4l
+@BeefMixedJohn-s3o
+@kayla_manuel
+@TheHiddenGriot-w4v
+@AfricanFolktaleKingdom-s6z
+@AmazingFolktale-u2v
+@English5Days
+@AfricanSilentEchoes
+@VAYLORA-o8j
