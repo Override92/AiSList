@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39840
+! Total Channels: 39844
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39856,3 +39856,7 @@
 @Ethos-j7t
 @RuthCarlton-s6g
 @Allinone-m16
+@MinecraftIronpickaxe
+@DrBurger-h1w
+@ItaliaDimenticata-b7q
+@LegendsandMyths21
