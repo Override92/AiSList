@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39990
+! Total Channels: 40000
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40006,3 +40006,13 @@
 @Stickmanwholelife
 @KevinMartin450-m1d
 @LearnwithFun-h7c
+@MakimaRecaps-c7p
+@Next-GenGaming-e8q
+@AICovers489
+@Tapflix
+@RPLKvibes
+@oldmoneyvault
+@Iron-Forge-Records
+@Wern-v4h
+@Relaxingbgm-r9z
+@TapriTapes
