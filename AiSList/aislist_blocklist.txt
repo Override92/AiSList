@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40409
+! Total Channels: 40416
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40425,3 +40425,10 @@
 @Rajbambooclub
 @suzanne-y3b
 @Lighthouse.Storage01
+@CAP-Ed18
+@SP_swashbuckling
+@HistoryUnvarnished
+@WolfCrownTales
+@TheHiddenHow12
+@Waitwhat-n3h
+@TheeconomicGold
