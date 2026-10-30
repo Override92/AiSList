@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40178
+! Total Channels: 40179
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40194,3 +40194,4 @@
 @TheInfoHubOfficial-03
 @crimeledgerhistory
 @TheWarningsWereThere
+@gridfallsurvivalofficial
