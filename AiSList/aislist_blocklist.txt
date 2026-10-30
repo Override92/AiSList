@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40313
+! Total Channels: 40323
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40329,3 +40329,13 @@
 @ZapThings
 @THEUNSEENATLAS-p
 @HistoryGoneSidewaysE
+@digiwleea
+@HistoryAsleep2
+@PastCastHistory
+@Calmhistorystoriess
+@FinanceSketch-m5i
+@Mythvs.FactHistoryChannel
+@Inkineering
+@AetheronArena
+@theaibubble113
+@EarningsPerPage
