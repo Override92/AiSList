@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40329
+! Total Channels: 40339
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40345,3 +40345,13 @@
 @PotatoExplainMoney
 @tuitionzero
 @TerrainAndTactics
+@TheBeansCapital
+@liamgrant-1
+@Sleepyhistoryxyz
+@BlackHistoryHurts
+@ShadowFactHistory
+@finntells0
+@TheGiltFloor
+@AncientHistoryforSleep-g2d
+@YourBodyHistory
+@FlightParts-z6f
