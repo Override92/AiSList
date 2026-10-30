@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40577
+! Total Channels: 40587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40593,3 +40593,13 @@
 @WatchAltLife
 @Xeconomics
 @DeepSleepHistoryOfficial
+@spiritus.script
+@CuriousMinut3
+@INHPictures
+@Archer.Finance
+@morningstar505jk
+@ToniKrasteff
+@ToonsNetwork-0
+@GreenTruthLab
+@StickArtkore
+@Jamesen-p1x
