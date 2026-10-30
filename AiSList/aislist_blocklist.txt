@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40079
+! Total Channels: 40082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40095,3 +40095,6 @@
 @StoryRoom20-x5r
 @Unrealcinema-r1b
 @DarkChip-r8h
+@HYF_Unhold
+@HFYIronWill-e9n
+@HatersWillSayItsAiofficial
