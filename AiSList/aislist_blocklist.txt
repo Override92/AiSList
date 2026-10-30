@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39736
+! Total Channels: 39731
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4248,7 +4248,6 @@
 @Richard-Faymem-Motivation2
 @YumiPloo
 @MiniMelody_MM
-@thedailyshiftnetwork
 @UntoldMoneySecrets-u2i
 @WW2BlackLegacy
 @Late-NightLegends
@@ -21474,7 +21473,6 @@
 @anirecapping
 @actormahidarji2349
 @AIJASMINEVIOG
-@PowerAIAnimation
 @JDMusicOfficial-f8b
 @FrankUnseen
 @only.compilations
@@ -21486,7 +21484,6 @@
 @LeosManhwa
 @RubysManhwa
 @PinpuWebtoon
-@roadlawinsider
 @ahsanurdustudio7299
 @AstraVeyl
 @QuantumPulse11
@@ -28077,7 +28074,6 @@
 @GadgetShopping-trgh
 @ExploreEverything614
 @TheOutboxFinds
-@VeloursAtelier
 @BewertungMeister
 @ProdottoItalia
 @WizzRev
@@ -34337,7 +34333,6 @@
 @MilesoraLounge
 @Confessoraxreddit
 @aiensteinsora
-@SoraRot-Shorts
 @SoraAi-s2a
 @nata_fri
 @pokefan_quality
