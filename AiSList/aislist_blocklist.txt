@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40185
+! Total Channels: 40193
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40201,3 +40201,11 @@
 @ModernEraBreakdown
 @AINexus-t5b
 @Next_Worth
+@Onamsecurity
+@WealthWaveSven
+@TheUnmaskedTech
+@whyo-subscribe
+@TheControlRoomTech
+@TTWorld-v1e
+@BeyondTheChyron
+@CapitalCoach08
