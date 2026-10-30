@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40020
+! Total Channels: 40030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40036,3 +40036,13 @@
 @TCDExplains
 @biblestories-yt1
 @aminulgaming16
+@HypeRaker
+@ReAImaginedNewoldsong
+@NightPulsePodcast
+@SilentJusticeTales-r2n
+@MyCalmFlow
+@barsandriffs
+@MidnightGroovesUnplugged
+@Anything-n9u
+@MuhammadMahi-e9z
+@ai-ASMR-123-p7l
