@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40128
+! Total Channels: 40138
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40144,3 +40144,13 @@
 @EchoesofAvalon-g4r
 @TheCuriousFile-k1i
 @Jokerville-k8w
+@FinanceAnalytics1
+@SatisfyingScienceOfficial
+@Spaceandbeyond515
+@Aquila-history-channel
+@failedfiances
+@EDITER5BRO
+@HistoryForDreams
+@MotivationMindset2U
+@AutomatrixAi-hu2tt
+@BedtimeHistoryTalk
