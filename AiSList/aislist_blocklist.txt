@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40069
+! Total Channels: 40079
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40085,3 +40085,13 @@
 @Courtlens-e3d
 @CourtShock-e3v
 @CourtOfJustice-z1q
+@BenchFrontier-j3d
+@judge-l3v
+@MalikUsman-b1m5y
+@WhatyOuMissed-b2n
+@haiderkhan-x2i
+@Gavelnexus-z1z
+@Promptgenix666
+@StoryRoom20-x5r
+@Unrealcinema-r1b
+@DarkChip-r8h
