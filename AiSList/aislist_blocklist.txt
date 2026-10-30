@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39764
+! Total Channels: 39774
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39780,3 +39780,13 @@
 @BruceLeeUncovered-c5y
 @AshandEmpire-y7t
 @TechVibes-maf
+@FogsTales
+@iso_wav
+@maxwell-z5q
+@KairoManhwa-74rw
+@gailada-o7w
+@FruitAIdrama-u1w
+@FruitAIDrama-w9i
+@Aifruitdrama-r8e
+@AIFruitDrama-x8e
+@AiFruitDrama-e1y
