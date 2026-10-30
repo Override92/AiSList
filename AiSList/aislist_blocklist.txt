@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40086
+! Total Channels: 40087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21997,7 +21997,7 @@
 @PostZone-h6p
 @slopmaxxed
 @E_E_Leader
-@AIMovieSnap-NetShortOfficial
+@hotdrama111
 @iA-ction
 @ParallelVisions-m4e
 @仙音動畫
@@ -25885,7 +25885,6 @@
 @tucasaenpaz
 @hardearnedwealth
 @purelynewborns
-@veylora_funny_shorts
 @nxhaidizileri
 @histrome
 @ptydrama
@@ -40102,3 +40101,5 @@
 @ProPicks.Official
 @ChillMoriBGM
 @itscuriositydude
+@nestorcanizalez
+@viajerodeltiempo_es
