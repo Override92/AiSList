@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40233
+! Total Channels: 40243
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40249,3 +40249,13 @@
 @FinanceDecodedMedia
 @BackRowOwner
 @OUTLIER51
+@EntreFrutasIa
+@WealthPulse786
+@baohuo-x7x
+@GarryFinance
+@tyuuytnbmn
+@SketchbookFinance
+@DeepHumane
+@Enodate
+@StickDreadd
+@RudranshAURA
