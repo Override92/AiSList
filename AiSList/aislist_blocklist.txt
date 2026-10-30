@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40040
+! Total Channels: 40050
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40056,3 +40056,13 @@
 @ShellgameUS
 @S1mpleExplained
 @Kr%C3%B3lewski%C5%9Awiat-j7e
+@BuriedEra-p4x
+@TheHowItHappened
+@eZxplained
+@Alesha-b7i
+@ARSRevengeTales-o4i
+@FaithSpark-f5k
+@BuriedOrigins-u9l
+@SkullWarfare-j9h
+@BeyondValhalla-k4p
+@NeonAbysTechno
