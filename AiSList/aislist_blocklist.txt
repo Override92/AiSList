@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40203
+! Total Channels: 40213
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40219,3 +40219,13 @@
 @BoringWorldHistory
 @watch.humanhistory
 @Coin_Morph
+@HistoryAndScienceEz
+@khaskhobor95
+@MintedMosaics
+@SomethingtoThinkAbout_now
+@GROWTHHACKTV-v3h
+@mrbrokie1
+@ActuallyComplex-03
+@DeepSleepHistory2.0
+@CityEons
+@unclefinanceyt
