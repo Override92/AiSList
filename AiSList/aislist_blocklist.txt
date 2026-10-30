@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40417
+! Total Channels: 40427
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40433,3 +40433,13 @@
 @RomanLibrary-m4o
 @gynter1
 @ASA-Hacks-e3t
+@HourlyHistory247
+@AIFrontierHQ1
+@eMoneyInsight
+@thevibecoder111
+@HiddenHistory-09
+@zyro_hive
+@InWrongShoes
+@machinemindstv
+@worldhistoryforsleep77
+@IsabellasWayMusic
