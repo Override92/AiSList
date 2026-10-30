@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39736
+! Total Channels: 39735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3684,7 +3684,6 @@
 @HFYSci-FiStories-r4c
 @mundoenimpacto
 @nyxteraa
-@GunLawsUpdates
 @EspañaenNoticias
 @HistoriaDelCapitalOculto
 @mossadscope
@@ -29166,7 +29165,6 @@
 @EasilyExplained.
 @PassedEchoes
 @Historia-lf6
-@Thefiscalhistorianus
 @WW2AlliedFrontlines
 @MilitaryBlueprint
 @TheCompanyMethod
@@ -39752,3 +39750,4 @@
 @analogstatefiles
 @americathroughtimee
 @psicologiafemenina-h9r
+@mrempireyt1
