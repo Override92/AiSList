@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40303
+! Total Channels: 40313
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40319,3 +40319,13 @@
 @HistoryProsTV
 @DoodleDiveTV
 @WildHistory-q7v
+@HiddenHistoryLab-v7v
+@FactVerse_Ag
+@EraToldHistory
+@BuriedInstinct
+@replay.verdict
+@numbers_paradox
+@historyexplainer_24
+@ZapThings
+@THEUNSEENATLAS-p
+@HistoryGoneSidewaysE
