@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39735
+! Total Channels: 39736
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4021,7 +4021,6 @@
 @Maidens_Payback
 @HEARTBREAK-STORIES-CHANNEL
 @HOATalkYT
-@BodycamTruthUncovered
 @复仇合集
 @shakarali-u9l
 @HotlineKaren911
@@ -39751,3 +39750,5 @@
 @mrempireyt1
 @kuldm9
 @TheRetoQuiz-w3c
+@nature360-1-o8e
+@themanwithin2
