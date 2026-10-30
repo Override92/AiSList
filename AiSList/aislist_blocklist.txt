@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39740
+! Total Channels: 39735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2905,7 +2905,6 @@
 @RadioReimagined
 @GalacticSciVerse786
 @StarsOfTerra
-@GalaticHFYDark
 @ManForgeHFY
 @againstallodds11
 @HFYQuantumpro
@@ -2951,7 +2950,6 @@
 @LoyaltyOfAngels
 @Soulstory252
 @TrueSingleDadStories
-@IronHorseNarratives
 @billionaireceostory
 @truelifetales001
 @HFYAhxaris
@@ -13256,7 +13254,6 @@
 @ghostfacecountry
 @JungTeach
 @thebraziliancountesstales
-@GoodHabitsStories-e9s
 @JoeeInks
 @shivang-j8p
 @tha_dood
@@ -27932,7 +27929,6 @@
 @azlanstoriesofficial
 @attaricomputersatiana
 @alinewithin
-@romedayzero
 @The-Compound-Voice
 @Millionaire-Mindset-Lab
 @HuntShortDrama
@@ -34156,7 +34152,6 @@
 @udsmv
 @ByteTalkYT-l8s
 @DirtbikeMoggers
-@SPQRChronicles01
 @MechDisk_ENG
 @PolySoldierShorts
 @Dogunee97
