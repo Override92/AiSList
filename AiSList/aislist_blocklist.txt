@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40427
+! Total Channels: 40437
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40443,3 +40443,13 @@
 @machinemindstv
 @worldhistoryforsleep77
 @IsabellasWayMusic
+@HiddenEast_History
+@CurioScope-143
+@RootfallState
+@CompoundingWithVishal
+@The_MacroBrief
+@The_History_Docket
+@GrindLadder
+@the-history-sleepcast
+@AnitaChauhan-u2h
+@The-Old-Masters
