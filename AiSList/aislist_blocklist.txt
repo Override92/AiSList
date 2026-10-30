@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40060
+! Total Channels: 40069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40076,3 +40076,12 @@
 @JusticeOrder-y1t
 @DocketCourt-s1h
 @MidnightCrest-k4z
+@BassDecoded
+@CourtroomCentral-k8u
+@AxisJustice-y1h
+@CourtroomGavel-r3t
+@CourtThinking-p5g
+@SupremeJudgment-h4h
+@Courtlens-e3d
+@CourtShock-e3v
+@CourtOfJustice-z1q
