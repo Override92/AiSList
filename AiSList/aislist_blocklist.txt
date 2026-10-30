@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40050
+! Total Channels: 40060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40066,3 +40066,13 @@
 @SkullWarfare-j9h
 @BeyondValhalla-k4p
 @NeonAbysTechno
+@TorqueSega-o3x
+@CourtSentinel-l5u
+@JudgeWatch-v4j
+@WESTVERDICT-g6b
+@Lawisequal-r8e
+@JusticeStrike-l5p
+@BaileyCourt-v8z
+@JusticeOrder-y1t
+@DocketCourt-s1h
+@MidnightCrest-k4z
