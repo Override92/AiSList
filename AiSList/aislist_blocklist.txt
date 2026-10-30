@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 39735
+! Total Channels: 39734
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21493,7 +21493,6 @@
 @QuantumPulse11
 @CalmPiratee
 @MrFinanceBrands
-@Olliee_Finance
 @MarIA_Animated
 @HardwareDetailss
 @smartpovguyYT
@@ -23454,7 +23453,6 @@
 @0735-u4w
 @7divinelightacademy
 @80sMusicLegends-v9d
-@80sMusicLegends
 @AFRICASONUS
 @AcreHunterCanada
 @After1000Years
@@ -39751,3 +39749,4 @@
 @americathroughtimee
 @psicologiafemenina-h9r
 @mrempireyt1
+@kuldm9
