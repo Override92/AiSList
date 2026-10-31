@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41878
+! Total Channels: 41888
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41894,3 +41894,13 @@
 @TheNeonQueens
 @Deeper_than_night
 @NevaehRoseOfficial
+@Nectrix-z7k
+@LunaVale-st
+@Oliviavelogs
+@Ghiblistylem3
+@JamesManning118
+@Eela-y3q
+@KrishnaCalm
+@IsabellaDelAlba
+@Anima-Christi-JHS
+@RobotSwap
