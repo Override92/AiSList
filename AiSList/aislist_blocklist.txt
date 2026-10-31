@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40636
+! Total Channels: 40638
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40652,3 +40652,5 @@
 @ScopeOnYouTV
 @Scale-Unknown-i7p
 @StillStandingHistory
+@LatentFinance
+@mrcreepy-o7q
