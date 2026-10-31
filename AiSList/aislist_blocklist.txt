@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40864
+! Total Channels: 40869
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40880,3 +40880,8 @@
 @insidecortex
 @SketchyTech-HD
 @goldencelebvault
+@Cosmic-Don
+@EvoExplain-k6p
+@Armacore-y8x
+@JasijoAcademy
+@Britain.at.War26
