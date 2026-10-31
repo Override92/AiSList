@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40968
+! Total Channels: 40976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40984,3 +40984,11 @@
 @LawAndLead
 @SecretLovesaga-o6f
 @PhoneTrollNation
+@Henrik-Linnea
+@GrinHFY
+@NexorianSci-Fi
+@WesternWriters-y6y
+@Sketch.It.Simply-yt
+@SilentFleetUS
+@asgsrelaxepic
+@AcreTruthYT
