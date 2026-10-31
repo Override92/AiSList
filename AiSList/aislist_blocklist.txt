@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41140
+! Total Channels: 41145
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41156,3 +41156,8 @@
 @CowboyStoryHouse1
 @WealthTheoryExp
 @StoriesOfCourage_17
+@FarmerJohnStories
+@afdv8990
+@HiddenEgypt-o3d
+@FooExplorer
+@UncleKenjiJapan
