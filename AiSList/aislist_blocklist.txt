@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40840
+! Total Channels: 40845
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40856,3 +40856,8 @@
 @SketchIQ_Studio
 @therovingbard
 @TranquilLore
+@FixYourLife-0f1
+@ArchiveStudiosMedia
+@HealthProfessorYT
+@ItsToadallyFine
+@ThissaTice
