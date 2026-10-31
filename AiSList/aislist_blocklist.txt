@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41769
+! Total Channels: 41779
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41785,3 +41785,13 @@
 @MeadowAndMemories
 @HijaDelRey.O
 @AudioGalaxy-o4u
+@GraveRoadCountry
+@slaviksaga
+@Sof%C3%ADaBolero
+@Thestorytraveler-m9c
+@NorthernSkald
+@OGgangsterofgames12
+@areonhighlands
+@CanYouBeholdHim
+@SecretStoriesRevealed-ssr
+@chansonsdamourdautrefois
