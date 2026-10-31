@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41750
+! Total Channels: 41745
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8313,7 +8313,6 @@
 @Quisoop
 @Tech-1-Uncovered
 @TheAnimalDudeYT
-@TheBibleSeen
 @TheBlueprintVault_WW2
 @theforbiddentent
 @TheMelodyArcade
@@ -12725,7 +12724,6 @@
 @AI_content_pro
 @TinyPawsHugsAndCute
 @AImationWorld-e4i
-@lilcraftygenius
 @aiminiworld
 @TinyAiStudio-22
 @TinyFeastStudiox
@@ -13550,7 +13548,6 @@
 @chubducket
 @laughwithvenkey
 @tinywonderstudio-d3l
-@anuanimation6165
 @ai_mini_food
 @vieanciennecafe
 @annaamish
@@ -34926,7 +34923,6 @@
 @FutureScope-x8c
 @CoreTechReport
 @Future-%C4%B1novations
-@EmergingTechInsider
 @MemoLm12
 @futuretech012
 @futurenowhq
@@ -34943,7 +34939,6 @@
 @networkingtechnologies9922
 @TechPulse-e1p
 @NEWTECHNOLOGYINSIGHTS-34
-@SystemSavage
 @TheGraveyardofSilicon
 @PixelQuestArena-u1i
 @avktraining
