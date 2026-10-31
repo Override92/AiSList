@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41154
+! Total Channels: 41158
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41170,3 +41170,7 @@
 @MilesWorthUS
 @RichMindsPOV
 @PawsAndReasons
+@mosatheexpert
+@ZENOX-q5n
+@DasDeutschePrinzip
+@iKnowTec
