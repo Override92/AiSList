@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41707
+! Total Channels: 41712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41723,3 +41723,8 @@
 @CrimsonKissStudios
 @TimelapseOdysseyChannel
 @cyber_titan84
+@MonoGrafix
+@roarchive
+@AikoRyve
+@CavalleraMetalCovers
+@AiDreamsOfUs-n2b
