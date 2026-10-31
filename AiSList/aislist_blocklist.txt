@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41305
+! Total Channels: 41308
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41321,3 +41321,6 @@
 @legardiendessavoirs
 @JohnMosesYT
 @EstrangedExposed
+@wantacig
+@MidoriLofi
+@MoonlitMatchTV
