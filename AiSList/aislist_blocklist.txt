@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41114
+! Total Channels: 41120
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41130,3 +41130,9 @@
 @Reasonsexplanations
 @Becoming_Human1
 @FromFactory2You
+@CyberNoirr
+@canadainsight11
+@WW2PILOTChronicles
+@nullredux_exe
+@StoryTimeReddit-g2w
+@PastAlive-p6i
