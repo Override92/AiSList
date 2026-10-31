@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41197
+! Total Channels: 41202
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41213,3 +41213,8 @@
 @ExplainlyExplains
 @TechnicalCal100
 @drawnbiology
+@Quirkyanimates
+@OtakuPlotArmor
+@veilcoremusic
+@TerraVitaTV
+@JakeTechnos
