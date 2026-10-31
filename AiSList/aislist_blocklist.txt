@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41992
+! Total Channels: 42002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42008,3 +42008,13 @@
 @novadramastudios_ai
 @Storymoonmedia
 @AthaleyaDarkOrchestra
+@NextGenEcon-c8k
+@MobilePrivacyLab
+@MaisonDesPlantes
+@LegendsofConflict
+@HardwarePuls
+@HardwareNexus-b7h
+@FrankZon-l8r
+@EmpireofWealth12
+@Daxvex-e3u
+@BattlefieldHypotheses
