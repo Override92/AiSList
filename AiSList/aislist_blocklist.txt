@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42188
+! Total Channels: 42198
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42204,3 +42204,13 @@
 @darkhistorydaily21
 @OldMoneyPenny
 @EverythingProfessor
+@HumanityHorizon-q1i
+@CoupFiles
+@Sci-FiZen-g3v
+@HFYMax102
+@HFYGalacticTales-yt
+@HUNTERZYRON
+@Lichtjahre-i6y
+@FlashRageHFY
+@sota.sounds
+@IMAXTV-3e
