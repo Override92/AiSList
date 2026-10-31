@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41489
+! Total Channels: 41499
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41505,3 +41505,13 @@
 @Rockmaster01
 @dayslongago
 @Trentbaker1987
+@RumiWorldStories1
+@VeloriaMafia
+@GearGenius.Official
+@SevenLikes
+@MarcusInvestsHQ
+@TheNoElectricAmericanHome
+@WWIIValor-v2c
+@fansdrWilliamLI-f9v
+@VernaAfter60
+@RainyPorchJazz
