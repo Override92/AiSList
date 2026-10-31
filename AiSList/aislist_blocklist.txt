@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40798
+! Total Channels: 40808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40814,3 +40814,13 @@
 @AutoXperia-m2k
 @chronicle.arcanum
 @Harlans-Regency-Romances
+@Timelesstalehub-g8x
+@BeyondTheGrid-A-Z
+@FrontSeatMovies
+@Patapoof
+@TerranNexus
+@SweetTooth-41k
+@Okrucie%C5%84stwoPrzesz%C5%82o%C5%9Bci
+@Mindvexor
+@TheFactoryRecord
+@MindfullyExplained
