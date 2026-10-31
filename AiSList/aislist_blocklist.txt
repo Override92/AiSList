@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41687
+! Total Channels: 41692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41703,3 +41703,8 @@
 @SynthCinema-ai
 @RealMangaLab
 @A-ZAI-i1v
+@SheepDrama-w3h
+@Story120Films
+@TragicVowAIReelSeries
+@Hippoframe
+@SpeechlessExplorerAi
