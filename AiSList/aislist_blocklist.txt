@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40732
+! Total Channels: 40735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40748,3 +40748,6 @@
 @NordicWarHymn
 @StoicRalph
 @VictorianSouls-p5e
+@NobleScope-d7z
+@NextTechTools
+@beyond.the.pattern
