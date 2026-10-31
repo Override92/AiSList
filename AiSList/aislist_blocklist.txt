@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42082
+! Total Channels: 42092
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42098,3 +42098,13 @@
 @AiokaVR
 @TheBadologist
 @EdenglowPublishing
+@ZenChimeHarmony
+@KasiopeaEsencia
+@Roxie_Rust
+@heroesandgiantsband
+@QuietlyToldAnimation
+@UrielzuzuToons
+@elixgamingvt
+@LeightonChaim
+@GodsGladiatorEpic
+@DharmalokKatha
