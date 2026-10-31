@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40887
+! Total Channels: 40885
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29234,7 +29234,6 @@
 @DREAMHDASMR
 @Aisoundpulse
 @MosesSunday-y1v
-@MindHazeAi
 @CineWaveMusic7
 @MegaToneJamz
 @herbalrhythmtv
@@ -32925,7 +32924,6 @@
 @Roculan
 @NORSEFIRERAP
 @Rhythms_of_the_North
-@DuetVikingMusic
 @Luck4everAlone
 @Ananellys
 @ValhallaEchoes-q9y
