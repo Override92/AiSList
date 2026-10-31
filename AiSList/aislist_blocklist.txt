@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41016
+! Total Channels: 41026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41032,3 +41032,13 @@
 @mindsteramedia
 @bodeo1235
 @LucasHarper-b3s
+@AlgoBusinessa
+@SingleDad267
+@HEAVYMETALEMPIRE
+@AIDive-YT
+@PrimalOrigins-bce
+@sufyan2-g9u
+@RoxStormMusic
+@LIFEBEFORE-f4l
+@TheMoneyCurrent
+@techwatchoffical
