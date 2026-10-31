@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40601
+! Total Channels: 40596
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34609,7 +34609,6 @@
 @RoundhouseFiles
 @TheFarmhouseFiles-b4l
 @THECROWNFILES12
-@loveobsessionfiles
 @HiddenFilesTV
 @BlindspotFiles
 @WarStateFiles
@@ -34637,7 +34636,6 @@
 @CarFailureFiles
 @MotorsFiles
 @Somnium_Files
-@HiddenLoreFiles-x8y
 @VengoraFiles
 @CommissionFiles
 @MotorFiless
@@ -34646,7 +34644,6 @@
 @CapitalFiles-c8h
 @VanceWarFiles
 @dabdarkfiles
-@TheWealthFilesDaily
 @TheBillionaireProfiles
 @SleepyCaseFiles
 @midnighthistoryfiles-3
@@ -34672,7 +34669,6 @@
 @JapaneseGhostFiles
 @MAFIASECRETFILES
 @Legalfiles-t6h
-@JetSkiFiles
 @PalaceGuardFiles
 @TheWhatIfFiles69
 @thearsenalfiles0
@@ -34867,7 +34863,6 @@
 @BibleshortstoriesforKids
 @BibleUncoveredEx
 @StoriesoftheBible-r5j
-@BibleIn60SecOFFICIAL
 @knowyourbible2025
 @Bible.c
 @thehiddenstoriesbible
