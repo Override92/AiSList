@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41838
+! Total Channels: 41848
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41854,3 +41854,13 @@
 @MythicCelticFolk
 @pabloturtle-PT
 @FarReachOfficial
+@Horrorzone0001
+@GregorianSanctuaryofChants
+@CrownLegacyMusic2122
+@US_Style808
+@GritLaw
+@sarfucreation09
+@TankSecrets-h3i
+@ColorMeTrue-e6n
+@CozyEnglishNaturally
+@LosUltimosEscribas
