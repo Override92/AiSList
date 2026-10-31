@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41737
+! Total Channels: 41742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41753,3 +41753,8 @@
 @LUSSD21
 @MidnightViolinHouse
 @VALHALLAEchose
+@ShadowfallOrchestra
+@ThunderofValhallamusic
+@OrganicHouse-u2n
+@MichellSantos_Oficial
+@JiolanaDeepHouse
