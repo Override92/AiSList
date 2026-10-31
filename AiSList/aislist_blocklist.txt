@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41278
+! Total Channels: 41283
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41294,3 +41294,8 @@
 @Ashes-of-Civilizations
 @SacredLoveSaga
 @Davidbekham-r2q
+@TheNorthernArchive
+@TheFinalDeed
+@NorthAmericaTradeDesk
+@DebtFrontierr
+@paperink7
