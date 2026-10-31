@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40641
+! Total Channels: 40649
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40657,3 +40657,11 @@
 @neuromagictalitha
 @ThornrootHistory
 @worldmapofpower
+@StoryByteAI28
+@VividWarHistory
+@MysteriesOfIslamicHistory
+@EternalHistory-f1k
+@TheNoirsoundscape
+@SilverVeilStudio
+@HumanityBeyondStars2026
+@TradeWaveAI
