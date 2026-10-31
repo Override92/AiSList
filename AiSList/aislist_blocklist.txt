@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41898
+! Total Channels: 41908
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41914,3 +41914,13 @@
 @TheBardsMelodies
 @velvetkitchen111
 @ARoomAways
+@reinaoutlaw
+@LunaraTribes
+@VisionsOfScripture
+@WayneBTheGreat
+@LugalTheGreat
+@TheFableStories-z5m
+@GoldenEchoSounds
+@americasforbiddenhistory
+@RagnarScald
+@AntiHeroEcho
