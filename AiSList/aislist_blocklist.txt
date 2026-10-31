@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40663
+! Total Channels: 40671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40679,3 +40679,11 @@
 @Zen-Zen-Flow
 @History-TellerYT
 @HistorybyLamplight-m9j
+@TribalSounds-k04
+@CelestialCeltic-m7f
+@RavenTrapEmpire
+@IchorHistory
+@MOSTBORINGHISTORYOFEVER
+@WhatIfHistory-e3b
+@MiraSignal
+@venythwave
