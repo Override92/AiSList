@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40596
+! Total Channels: 40606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40612,3 +40612,13 @@
 @EphemerisXY
 @theforgottenmile-v5g
 @masssnurr
+@FoundersVault-z2k
+@FromCorporatehis
+@BrandVault-o5p
+@HistoriumLegends
+@financeunpackedyt
+@BusinessUncovered_HQ
+@BuiltOnWhat
+@SlowMoneyStories_1
+@Sharing2D
+@UntoldHistory-x3g
