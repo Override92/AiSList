@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40655
+! Total Channels: 40663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40671,3 +40671,11 @@
 @AfricanSerenityChoir
 @SnakeOilFinance
 @TheOddonautChannel
+@dweihan-q8m
+@HistorySnap-m7x
+@StickwomanHistory
+@FITwithNON
+@historyaftermidnightyt
+@Zen-Zen-Flow
+@History-TellerYT
+@HistorybyLamplight-m9j
