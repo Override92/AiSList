@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41459
+! Total Channels: 41469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41475,3 +41475,13 @@
 @shadihowtos
 @DARKSYMPHONIES
 @MALONEYMETALSALERT
+@HearthfireTavernSongs
+@veltrixfm
+@riffFace
+@UniversAutomobileFran%C3%A7ais
+@RustwindLegends
+@JoanneCulkin
+@CheikhounaGueye-r4v
+@HistorieAdama-v7v
+@AmericanmilitaryLifeRemembered
+@stickmanexplainsfacts
