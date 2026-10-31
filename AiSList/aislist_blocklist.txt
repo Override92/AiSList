@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41549
+! Total Channels: 41559
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41565,3 +41565,13 @@
 @animebattlemusic
 @AdamJusticeLife
 @TheQuestGuyYT
+@ForgottenCircuits-b7u
+@TalkingSasquach
+@NextNow-1
+@QuietRevengeTales-f5b
+@HiddenStrength1
+@gianghomom1111
+@mmureviews
+@NewsCTS-t3s
+@RevengeandRealityUS
+@%EA%B5%B0%EC%82%AC%EC%A0%81%EA%B4%80%EC%A0%90
