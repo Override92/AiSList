@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40716
+! Total Channels: 40722
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40732,3 +40732,9 @@
 @SacredMythscapes
 @TheBananaClubOfficial
 @JACSVIEWS
+@LadderTheoryLevels
+@Company-Rewind
+@Mr.SimpleTechTV
+@SimploraSpace
+@kotikiskotikis
+@HOLLOWAY-b3c
