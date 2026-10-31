@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41247
+! Total Channels: 41253
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41263,3 +41263,9 @@
 @Psychonomics-101
 @Raw_Brit_Tale
 @WasistpassiertYT
+@WW2Chronicles_01
+@Prof.NikanorAcademy
+@TuxDaily
+@kenakighoul-s9o
+@Project-Expositor
+@TheHumanArchive-t2z
