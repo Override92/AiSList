@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40604
+! Total Channels: 40605
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8207,7 +8207,6 @@
 @DezainSensei
 @PremiumBrainrotOfficial
 @best-aiorg
-@HerHiddenTruth-Story
 @DomainfilmsA.I
 @CosmoRyderTributes
 @MarcRyderProject
@@ -10999,7 +10998,7 @@
 @dadneverforgot-d2e
 @usamatheshadow
 @littlestorypages-c9i
-@quietstories-n3k
+@moonlitmanorromance-z4k
 @vnkvofficial
 @comfortdramastoriess
 @tynadigitalfolktales
@@ -40620,3 +40619,5 @@
 @oddspacehub
 @thelastdaytheory
 @ai_videos_making_1
+@thedukeslantern-v8s
+@corporate_casualties
