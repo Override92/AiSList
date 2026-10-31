@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40874
+! Total Channels: 40877
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40890,3 +40890,6 @@
 @barely-noticed
 @Tech-Ratings
 @Mindstrenth
+@precisionvalleytv
+@BeforeUs97
+@Lumitoons0915
