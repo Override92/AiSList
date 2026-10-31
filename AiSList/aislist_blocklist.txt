@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40606
+! Total Channels: 40616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40622,3 +40622,13 @@
 @SlowMoneyStories_1
 @Sharing2D
 @UntoldHistory-x3g
+@TheworldTimeXHistoryHub
+@Become_the_Legacy
+@EmpireMinutesTV
+@MyTwoup
+@PastPilot-z6n
+@Wearthegags
+@CompanyAtlasHistory
+@BrandAanatomy
+@West_Arthur1
+@themoneymachine_01
