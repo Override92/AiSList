@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41978
+! Total Channels: 41988
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41994,3 +41994,13 @@
 @NoctiaOfficial
 @XxpireD.
 @BeautifulSummerSunsetMelodies
+@alekto81
+@HistoricasCuriosidades
+@BibleScriptura
+@ASpeakingHuman
+@Fr%C3%B6kenmetal
+@TGvisuals84
+@LORDVOLCOS
+@TheObsidianElf
+@mooneclipsew6
+@ValeriaAshveil
