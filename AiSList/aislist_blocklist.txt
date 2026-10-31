@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41740
+! Total Channels: 41735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35044,9 +35044,7 @@
 @DianaMoonlightStories
 @LeonaDrama
 @Dominaalphastories
-@AlphaCrownStories
 @BLDarkRebirthAnime
-@EllaRomanceLibrary
 @Shortdramaking-v9w
 @VeloraDramaStories
 @SilentDominance99
@@ -35080,7 +35078,6 @@
 @thefacelesspierrots
 @BadrBadr-z3s
 @CoreFactory-x6v
-@epicstoryland-7
 @KawalisFactory
 @alertnewslive
 @DramaDen-e6q
@@ -35091,7 +35088,6 @@
 @AlphakingGentleStorytime
 @DramaSphereOfficial1
 @AkhirahFocus9
-@WolfCrownSaga
 @HaloDrama-n4j
 @EchoesofHistory-s5q
 @SilkenPromises-e9l
@@ -35115,7 +35111,6 @@
 @hfybattle
 @terran-unbound
 @ThelastHiddenKey
-@EarthHiddenPower01
 @ka8tieandjuliana
 @WarbornHumans
 @HFYDeathworldExtra
