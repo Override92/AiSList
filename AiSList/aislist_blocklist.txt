@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40671
+! Total Channels: 40681
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40687,3 +40687,13 @@
 @WhatIfHistory-e3b
 @MiraSignal
 @venythwave
+@Umbramyth
+@TheHistoryKeraaz
+@TheSleepWithHistory
+@christinemulama-m7c
+@thelearniverse-r1r
+@researchmaster1827
+@HistoryForSleep-t11
+@EraLapse
+@TheVampireKing-26
+@dynastyofsecrets6
