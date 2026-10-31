@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41283
+! Total Channels: 41288
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41299,3 +41299,8 @@
 @NorthAmericaTradeDesk
 @DebtFrontierr
 @paperink7
+@TalesofWWII-h8r
+@ForgottenWWIIStories02
+@TractorGrandpaStories
+@FarmsteadSecret_Stories
+@GoldenAcresWoman
