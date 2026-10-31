@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41300
+! Total Channels: 41305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41316,3 +41316,8 @@
 @mutelofimusic
 @CruiseandCo
 @HeartAlertyee
+@BelieveVibes88
+@RayKesslerChannel
+@legardiendessavoirs
+@JohnMosesYT
+@EstrangedExposed
