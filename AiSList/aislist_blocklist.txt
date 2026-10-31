@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41325
+! Total Channels: 41335
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41341,3 +41341,13 @@
 @HiddenChapter786
 @WayofWisdom-n1y
 @RealStorysharer
+@maitis-ai
+@GreekMythologySecrets
+@BattleTalesWW2
+@MyCottageEscape
+@TheEditorUnsealed
+@PennyBloomfield
+@ElvishEchoes
+@HardwareBytes-q3t
+@ThorneLothbrok-Music
+@DarkMetalEngine
