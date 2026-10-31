@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42072
+! Total Channels: 42082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42088,3 +42088,13 @@
 @DJBULJAN
 @Teenflix_stories
 @SRBackPorchMusicVibes
+@La_Santa_Noche
+@AstroNexus-1
+@FeralAngels
+@relaxingmind-studio
+@RAVENFJORD-t7e
+@ESSDocumentaries
+@ValkyriesVerdict
+@AiokaVR
+@TheBadologist
+@EdenglowPublishing
