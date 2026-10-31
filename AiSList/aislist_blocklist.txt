@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42255
+! Total Channels: 42265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42271,3 +42271,13 @@
 @MUSEStorytelling-x7d
 @HOAStoriesUSA-v8o
 @akira-c3u7j
+@politics-c6y
+@Well-g9x
+@OnlyGame-r1s
+@NextTake-v4v
+@CANADATOMORROW-c5q
+@VaultofAges-b8h
+@TrueNorthHub-j7n
+@GrantParker-f7x
+@PaperEmpires-l2k
+@FutureFoundAI-h2x
