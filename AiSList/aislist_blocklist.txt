@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41222
+! Total Channels: 41227
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41238,3 +41238,8 @@
 @didyallknowthat
 @VelvetTwilightStudio
 @Mr.xenn-1
+@SilasEliYoder
+@TheStellarVanguard-h8f
+@EUROPEREFRAMED
+@TechColleague
+@ElisaYoderYT
