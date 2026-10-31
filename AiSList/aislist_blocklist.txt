@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40788
+! Total Channels: 40798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40804,3 +40804,13 @@
 @Grassce
 @OnceThisWasNormal
 @GirlsPayback
+@druidchant
+@Minddecoded.official-1
+@TheDeathworldDoctrine
+@GrindspireMotivation
+@OopsYouExist
+@RevengeNotion
+@ImperialLibrariumX
+@AutoXperia-m2k
+@chronicle.arcanum
+@Harlans-Regency-Romances
