@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41745
+! Total Channels: 41740
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11431,7 +11431,6 @@
 @Pihukefact
 @curiousvision3485
 @MillionYearJourney-d7n
-@SeaGrace1
 @BiteSizeTwist
 @bismillah89-j9m
 @TheOrangeWorld11
@@ -34946,14 +34945,12 @@
 @ElensWerewolfRomanceCollection
 @MysticCrownLore
 @BubuDrama-cm
-@Pocket_Fm_Digital_Opera
 @Binge-Drama-v2z
 @LoveBinge_Drama
 @MoonlightChroniclesOfficial
 @AlphaOmegaStories28
 @Medivalstoriess-s5v
 @MarriageFallout
-@Pocket_FM_Love_Drama
 @SugarDrama-j2t
 @SandrasSupernaturalWorld
 @AlphaKingLegendse
@@ -34986,7 +34983,6 @@
 @ShadowAlphaTales
 @ZayaWerewolfRomance
 @ClarasAlphaLibrary
-@FatedHeartsLibrary
 @thebutterflyromance
 @NancyRomanceCollection
 @dramawithbestie
@@ -34994,7 +34990,6 @@
 @FeralHeartsRomance
 @reelshortapp
 @VelvetRomanceLibrary
-@SOLARCHORNICLES
 @AmazingDrama-FDS
 @DramaFull-l7c
 @JK_Author
