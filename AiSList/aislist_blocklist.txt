@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40649
+! Total Channels: 40655
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40665,3 +40665,9 @@
 @SilverVeilStudio
 @HumanityBeyondStars2026
 @TradeWaveAI
+@FrostbornMelodies
+@NextGenInvestGlobal
+@Paleox-m7l
+@AfricanSerenityChoir
+@SnakeOilFinance
+@TheOddonautChannel
