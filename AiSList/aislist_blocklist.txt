@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40626
+! Total Channels: 40636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40642,3 +40642,13 @@
 @NextgenHistorian
 @TheStickCEO-o7q
 @MarginDecoded
+@SimpleBusinessExplained
+@ChronoShifttttt
+@monocle.official
+@SuddenlyYouTV
+@DayOneHistory
+@CEOzoned
+@OnceUponATimelineYT
+@ScopeOnYouTV
+@Scale-Unknown-i7p
+@StillStandingHistory
