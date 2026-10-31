@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41064
+! Total Channels: 41069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41080,3 +41080,8 @@
 @TheCommunicationMind
 @WW2Canada12
 @FrontierMountainHouse
+@EchoesofWWII01
+@BattlefieldSniperTales
+@ConsumerProductFeatures
+@StellarHumanity-New
+@MoneyILive
