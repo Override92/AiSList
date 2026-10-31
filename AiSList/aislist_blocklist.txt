@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40605
+! Total Channels: 40600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5642,7 +5642,6 @@
 @MidlifeAdvice
 @sleepysecretsofhistory
 @JudithCarverSeniorAlerts
-@HowToGuys
 @AIQuantoma
 @FinancePuppyStudio
 @THEDELISTED
@@ -13499,7 +13498,6 @@
 @MiniChefItalia
 @AiAnimalscooking
 @healingjourney-l2x
-@MangaAIUniverse
 @aiclipzforyou
 @CopsLucAi
 @Soravideospov
@@ -32485,7 +32483,6 @@
 @THEDRAGONHFY
 @HFYVault-b1l
 @HumanDragonHFY
-@THEHFYSIGNAL
 @KingdomofLoveHFY
 @RescueOperationGalaxyHFY
 @DarkGalaxyHFY
@@ -34604,7 +34601,6 @@
 @AmericanWWIIFiles
 @GriotFiles
 @HeistFilesAnimated
-@contextfilesTV
 @LostContactFiles
 @ModernLoveFiles-x3w
 @HOABoundaryFiles
@@ -34612,7 +34608,6 @@
 @TheUntoldFiles-tvs
 @FoodFiles22
 @TheMafia_Files
-@BusinesFiles-Co
 @TheGunFiles
 @RoundhouseFiles
 @TheFarmhouseFiles-b4l
