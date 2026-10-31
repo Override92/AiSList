@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41569
+! Total Channels: 41579
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41585,3 +41585,13 @@
 @YTEchoesofGlory
 @PointdeFoot
 @MIO-22-55
+@wonder_9_channel
+@CoolToneCaf%C3%A9
+@MultiverseBard-fox
+@HowUSAWorksOfficial
+@giveupstory
+@subtle-bass
+@TechPixels1
+@GeorgiaDNA
+@LetCanadaExplainIt
+@ReactorCoreHFY
