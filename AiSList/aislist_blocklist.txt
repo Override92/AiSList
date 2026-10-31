@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42022
+! Total Channels: 42032
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42038,3 +42038,13 @@
 @faithandhope2026
 @CivilizationsTactics
 @OQALIA
+@NatoloStudio
+@Musilives
+@RUNECLAW
+@ChloedeSeine
+@VeraLarosa
+@LuciaMarenne
+@Arronas
+@Sintetika-Music
+@MythicFlame-m3n
+@TS_vlogs-ts
