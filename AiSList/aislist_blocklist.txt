@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41309
+! Total Channels: 41310
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41325,3 +41325,4 @@
 @MidoriLofi
 @MoonlitMatchTV
 @GoldenBrewSessions-b7u
+@Rootbeervr-z6f
