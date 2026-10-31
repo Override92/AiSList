@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40818
+! Total Channels: 40826
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40834,3 +40834,11 @@
 @TheAegisHQ
 @TheWanderingToadMusic
 @techbutwhy1
+@MythologyReimagined
+@Bitography
+@CatsUncovered
+@PurnaBobbala-r8l
+@thuongvan145
+@Ruvexa2026
+@MarginofPsychology
+@OmMahesh
