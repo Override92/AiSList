@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41749
+! Total Channels: 41759
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41765,3 +41765,13 @@
 @teatrodocoracao
 @amersentinel
 @gokhanok-w3e
+@AZDramaTales_721
+@SymphonicTP
+@DustbornLegendsS
+@CelticWhisper1
+@SoulWavesMusic-1
+@soulbookstudio
+@GoldenPrairie-r8i
+@MistakenMateDrama
+@VampireLoveUS
+@RockVenix
