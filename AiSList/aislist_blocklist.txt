@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41273
+! Total Channels: 41278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41289,3 +41289,8 @@
 @MidnightRomanceStories-h1u
 @techtipxx
 @TheEmployeesRevenge
+@cathelijnbonke
+@VerborgeneVergeltungDE
+@Ashes-of-Civilizations
+@SacredLoveSaga
+@Davidbekham-r2q
