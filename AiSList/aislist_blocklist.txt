@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41409
+! Total Channels: 41419
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41425,3 +41425,13 @@
 @RevengeDaily-y7g
 @RippleofKindness-w7s
 @OneMoveLater
+@VernaDiscovery
+@TheBoringPathwithHenry
+@HeartofKindness-b8v
+@AlphaKingMatrix
+@A%C3%A7%C3%BAcarnaJanela
+@RevengeConflict-n2r
+@Ravela-l6w
+@ch71jcProfitPioneers
+@HFYElysionHFY
+@kawaiimetalLab
