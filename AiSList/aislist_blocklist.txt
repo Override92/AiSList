@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41041
+! Total Channels: 41044
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41057,3 +41057,6 @@
 @ItsWhyVerse-YT
 @BuriedDramaStories
 @Markus2.00
+@YourWealthStory
+@LiamsRevenge2
+@NovellaLove-d1r
