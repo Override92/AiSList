@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41749
+! Total Channels: 41750
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21572,7 +21572,6 @@
 @globalcinemadecode
 @pashtoaivideo-r3g
 @cpasilent
-@untoldwartales-1945
 @japan-ahead
 @behindthemachinese
 @キラキラハート-z7s
@@ -41765,3 +41764,5 @@
 @ZuhlanNocturne
 @SarvamKrishnaStudio
 @K-PopLovers11
+@cpa_nirob_world
+@filmnacht56
