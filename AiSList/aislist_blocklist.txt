@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41290
+! Total Channels: 41300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41306,3 +41306,13 @@
 @pffx-t3p
 @EpicAnime-n9u
 @SticklyLore
+@109.observe
+@zhaozhongguandian
+@tinglbell
+@WeiseUhr
+@VelvetQuietEcho
+@SylunaSounds
+@someday.playlist
+@mutelofimusic
+@CruiseandCo
+@HeartAlertyee
