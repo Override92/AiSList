@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41928
+! Total Channels: 41938
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41944,3 +41944,13 @@
 @HEX_HER
 @RejectedLunaStories
 @SavageCrow-i2l
+@COZYTALE_2
+@michelle.evelin49
+@atmolp
+@DarkwaveCathedral
+@whju2559
+@VertigePriv%C3%A9
+@HistorischePfade
+@Ikum-zq5ig
+@ChroniclesOfBeyond
+@Runecraftconceptstudio
