@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42112
+! Total Channels: 42122
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42128,3 +42128,13 @@
 @cityroots101
 @fatmonkey_flyingpig
 @DotHistory1
+@NovaAdvWorld
+@DARAWENTERTAINMENT
+@AnthemsVikings
+@Aleks_Sol
+@kaelironwolf
+@Riseofthewolves
+@ErnieRodgersMusician
+@VOKTUM
+@MahmutAudio
+@KHARON-q3h
