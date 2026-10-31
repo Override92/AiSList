@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41616
+! Total Channels: 41626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41632,3 +41632,13 @@
 @raremindstv-h3p
 @HFYVelmoraSci-Fi
 @SerpentOfDecayOfficial
+@InfiniteEternalHFY
+@infowild95
+@TheInnerPilot10
+@HFYHORIZONVEXON
+@SlumberGuyYT
+@LAtelierAudio
+@MagnoliaStories.us22
+@TheWildlifeDraft
+@hoapowercheck1
+@PsychoVerse-p4q
