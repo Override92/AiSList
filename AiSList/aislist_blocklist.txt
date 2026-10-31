@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40869
+! Total Channels: 40874
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40885,3 +40885,8 @@
 @Armacore-y8x
 @JasijoAcademy
 @Britain.at.War26
+@TrizztYT
+@WSP-Media
+@barely-noticed
+@Tech-Ratings
+@Mindstrenth
