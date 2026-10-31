@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40854
+! Total Channels: 40859
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40870,3 +40870,8 @@
 @ScienceDomainHFY
 @theExfilStudios
 @primitiveblend
+@OldMansVerdict
+@Innerly-g5k
+@Arka-b.2t
+@aidreamscapes
+@Flox3r
