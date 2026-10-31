@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40600
+! Total Channels: 40602
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17842,7 +17842,7 @@
 @UrbanMyths-757
 @storytalkhub007
 @PrimeFocus-s1y
-@NSMovieflix
+@officialsatyaveerrajput
 @Giant_world_ai
 @sarvatrahindutva
 @DigitalTwinKit
@@ -40616,3 +40616,5 @@
 @ai_videos_making_1
 @thedukeslantern-v8s
 @corporate_casualties
+@velvethavenjazz-n8l
+@silentvalkyrie-p2
