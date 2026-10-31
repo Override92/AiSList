@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41085
+! Total Channels: 41090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41101,3 +41101,8 @@
 @TerribleTimelines
 @PrimitiveX-cr7
 @MieloriaDrama
+@ThePowerLedger-n3d
+@POVMoneyLabofficial
+@PrehistoricWorld-9
+@IronCataclysm-v2r
+@WealthLifePOVUS
