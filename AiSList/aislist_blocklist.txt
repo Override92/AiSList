@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41059
+! Total Channels: 41064
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41075,3 +41075,8 @@
 @BeyondRoads2
 @StoneAgeStories-b8g
 @Claritics
+@ColdBootShow
+@VOIDARA-h2l
+@TheCommunicationMind
+@WW2Canada12
+@FrontierMountainHouse
