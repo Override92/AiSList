@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40616
+! Total Channels: 40626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40632,3 +40632,13 @@
 @BrandAanatomy
 @West_Arthur1
 @themoneymachine_01
+@EmpireOrigins-1M
+@Cavistory
+@theedgeofgalaxy
+@CEONIXOFFICAL
+@theunknownly
+@foundersonpaper
+@IamCurioX
+@NextgenHistorian
+@TheStickCEO-o7q
+@MarginDecoded
