@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40808
+! Total Channels: 40818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40824,3 +40824,13 @@
 @Mindvexor
 @TheFactoryRecord
 @MindfullyExplained
+@ObscureWWIIChronicles
+@GodMythWanderer
+@gameofthronesinsider
+@Tubsticky
+@MammothMachines
+@RelicSystemsTV
+@PsychisDecoded
+@TheAegisHQ
+@TheWanderingToadMusic
+@techbutwhy1
