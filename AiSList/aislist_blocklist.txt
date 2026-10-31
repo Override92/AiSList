@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42042
+! Total Channels: 42052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42058,3 +42058,13 @@
 @OdinfallHymns
 @LuvEchoRecords
 @SapnoKaGaonASMR
+@GhibliCozyChills
+@MoonveilASMR7890
+@DelvonRay
+@LaReinaCarmes%C3%AD1
+@Gothic_Nova-0
+@AfroWorldBoom
+@ThistleLegion
+@retro.metro.studio
+@BangerAIMovies
+@mommatofficial
