@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41168
+! Total Channels: 41173
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41184,3 +41184,8 @@
 @ModernGadgetScout
 @CuriouslyHumanExplains
 @layertheory-k8n
+@PeakGadgetFinder
+@ParadoksyIn%C5%BCynierii
+@Whyhumansarethewaytheyare
+@zackexplains.official
+@BruceLeeSpirit-26
