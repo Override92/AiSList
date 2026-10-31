@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41202
+! Total Channels: 41207
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41218,3 +41218,8 @@
 @veilcoremusic
 @TerraVitaTV
 @JakeTechnos
+@BeyondtheBattlefield02
+@PrairieRoseTractorTales
+@OldFarmFriendship
+@WW2Unmasked-p9j
+@WW2Rewind-d7h
