@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40958
+! Total Channels: 40968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40974,3 +40974,13 @@
 @GreyZone0
 @ArchiwumWojennym1945_YT
 @enddreamFM
+@WWIIOldSoldiers
+@TattooPlays
+@GroundHold
+@kingofprep
+@PennyBritain
+@safezonerelax
+@WhispersOf%C3%89ire-WOE
+@LawAndLead
+@SecretLovesaga-o6f
+@PhoneTrollNation
