@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41606
+! Total Channels: 41616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41622,3 +41622,13 @@
 @WW2UntoldStories12
 @BlueprintChroniclesWW2
 @TheIronTuskChronicles
+@LawStudentExplainsMoney
+@OrcForgedRomance
+@ScreenCultureYT
+@ThelastWitness-q4i
+@costconfidential_tv
+@RustFarmEchoes
+@LonelyFarmTales
+@raremindstv-h3p
+@HFYVelmoraSci-Fi
+@SerpentOfDecayOfficial
