@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41798
+! Total Channels: 41808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41814,3 +41814,13 @@
 @Thekoalatales
 @MaximusInValhalla
 @chernotone
+@kissencemusic
+@VeilOfUmbra
+@ByondTalesbyPurity
+@SedaLatinaa
+@MUSICAII-c5m
+@DRIMDARK-q4s
+@MikiANGLEOFFICIAL
+@eventusverse
+@hunkychunky
+@Golfshot_deu
