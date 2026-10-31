@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40948
+! Total Channels: 40958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40964,3 +40964,13 @@
 @TheQuietOutlaw-k4n
 @soft404error
 @StickGraffiti
+@KnowingPhi
+@SoldiersLegacy-c7c
+@hardwarenexus-p6k
+@Techlogicguy
+@Whiskeyriverradio-s6d
+@NexorCruz
+@JohnnyDotti
+@GreyZone0
+@ArchiwumWojennym1945_YT
+@enddreamFM
