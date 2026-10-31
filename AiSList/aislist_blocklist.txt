@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41732
+! Total Channels: 41737
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41748,3 +41748,8 @@
 @LifeLineCorner2
 @KathaAIYatra
 @CieloFlamenco-f5p
+@ETHERIONDUB
+@MortelHouse
+@LUSSD21
+@MidnightViolinHouse
+@VALHALLAEchose
