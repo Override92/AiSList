@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40758
+! Total Channels: 40768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40774,3 +40774,13 @@
 @MayaWealthUSA
 @lost_sector
 @Hubbiesxx
+@StarbornHumanity-i6n
+@Sci-Fi-Legends
+@LegendsUnfold123
+@Frostburn101
+@BrainFossils
+@myLernoora
+@PastHistory3
+@MysticRomanceHeir
+@Plumiq
+@PacificFury_6886
