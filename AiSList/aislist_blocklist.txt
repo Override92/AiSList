@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41803
+! Total Channels: 41798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35118,7 +35118,6 @@
 @G%C3%B6khanOk-w3e
 @vitalAgehealth1-f1f
 @HumanSupremacy-y2k
-@HFYStoryArchives
 @HFYscifistories-c9r
 @HFYinterstellar77
 @BattleCoreHFY
@@ -35135,7 +35134,6 @@
 @VeltraxisHFY
 @SternenlanzeHFY
 @HFYAmongSpace
-@FinalHumanSignal
 @HiddenStoryVault-d8p
 @NexryonSci-Fi
 @SciFiFly
@@ -35147,13 +35145,11 @@
 @WARHAMMERTALE
 @BeyondtheWebway-c2q
 @loredocumentaries
-@ImperiumArchivesOfficial
 @FateUnwritten
 @HopeIncarnateHFY
 @HFYAscentend
 @XylarionHFY
 @anthropovictusprime
-@HinterlandStarsHFY
 @HFYAircraft
 @HFYGalacticEmpirefall
 @SUSHFY
@@ -35163,7 +35159,6 @@
 @UnyieldingDawnHFY
 @GalacticWonders-c4q
 @Sci-FiInfinityWar
-@SCIFIZENITH
 @HFYShortStory-n5o
 @StarPrincessHFY
 @HFYSCI-FI5
