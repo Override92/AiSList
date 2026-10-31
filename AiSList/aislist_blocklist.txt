@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41335
+! Total Channels: 41345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41351,3 +41351,13 @@
 @HardwareBytes-q3t
 @ThorneLothbrok-Music
 @DarkMetalEngine
+@JohnLennonTheUntoldStories
+@NyxRevengeOffice
+@ObscuraMetal
+@DarkTideRevenge
+@RichardBEchols
+@snoopycozymelodies
+@NileLifeDecoded
+@MiracleofKindness-m5u
+@MRDETECTORYYT
+@veiled.cathedral
