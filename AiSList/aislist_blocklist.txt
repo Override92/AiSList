@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41104
+! Total Channels: 41109
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41120,3 +41120,8 @@
 @RustOracle-4
 @DramaSweetDomination
 @celebsquirrel
+@Theforbiddenpast-s5y
+@Zajonc_stick
+@ScenarioLabY
+@DinheiroComHistorias
+@whatifstickstv
