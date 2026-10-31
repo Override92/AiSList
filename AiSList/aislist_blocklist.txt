@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42122
+! Total Channels: 42132
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42138,3 +42138,13 @@
 @VOKTUM
 @MahmutAudio
 @KHARON-q3h
+@LexLorenzi
+@DubHorizons
+@OravaSystem
+@LatinHeatSounds
+@JazzLoungeVibes-180
+@In4mationStation007
+@TheDustShift
+@Fyxxate
+@CRIMECOUNTRYrmx
+@OzzysIronSanctuary
