@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40849
+! Total Channels: 40854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40865,3 +40865,8 @@
 @MaplenMain
 @Soft_Girl_Dark_Empire
 @CurrentProductOverviews
+@CherryAvalon
+@swordandpaper
+@ScienceDomainHFY
+@theExfilStudios
+@primitiveblend
