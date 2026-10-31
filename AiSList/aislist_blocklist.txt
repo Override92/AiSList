@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41667
+! Total Channels: 41672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41683,3 +41683,8 @@
 @MarkenBreakdown
 @TheKennyCult
 @midland_post
+@UnseenMind77
+@Celevora-u5y
+@ForgottenAmericanTVShow
+@galenarticusm41
+@rand.nerdAJ
