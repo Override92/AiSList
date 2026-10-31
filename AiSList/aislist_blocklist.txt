@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41759
+! Total Channels: 41769
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41775,3 +41775,13 @@
 @MistakenMateDrama
 @VampireLoveUS
 @RockVenix
+@Lulacozyghibli
+@EttaRayneBlues
+@AlphaThroneStories-z4t
+@NorthernHearth-o7e
+@actionmove_2a
+@Love-Without-Limits-usa
+@sarvi_ai_world
+@MeadowAndMemories
+@HijaDelRey.O
+@AudioGalaxy-o4u
