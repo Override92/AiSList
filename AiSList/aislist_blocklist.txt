@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41120
+! Total Channels: 41125
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41136,3 +41136,8 @@
 @nullredux_exe
 @StoryTimeReddit-g2w
 @PastAlive-p6i
+@InnerLogic-n1n
+@DBFauves
+@user-pk6su1zx7n
+@PixelAlmanac
+@KYRAXOFFICIAL
