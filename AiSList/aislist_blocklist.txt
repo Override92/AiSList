@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40748
+! Total Channels: 40758
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40764,3 +40764,13 @@
 @SimplyExplainedeua2
 @AffairConfessions-p4e
 @Rex-fhBattlefront
+@mafiacurvediaries
+@SilentWarriors-b2q
+@MoonlitInkBL
+@ORBIX-g5g
+@MythsForTheNight
+@HiddenRevengeLegacy
+@EthanGalacticw2k
+@MayaWealthUSA
+@lost_sector
+@Hubbiesxx
