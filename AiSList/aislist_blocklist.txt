@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40602
+! Total Channels: 40600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21556,7 +21556,6 @@
 @vibeswithshariq_786
 @slicoralab
 @hekayatianour
-@quietinvention-q7j
 @rusttorevival-o7j
 @talesbywaveandhistory
 @mt15dreamer12
@@ -25881,7 +25880,6 @@
 @zippyzoo_lolo
 @buzztatler
 @iastutoai
-@petertheshiba
 @tryvanholt
 @adewunmi09007
 @flowanimationasmr02
@@ -28231,7 +28229,6 @@
 @ProfessorLionOfficial
 @LegoRecords-q5p7s
 @RedaktorOrangutan
-@DrBrightExplains
 @BraincellArchives
 @ThinkingWest
 @EisenbahnChronik
@@ -40618,3 +40615,4 @@
 @corporate_casualties
 @velvethavenjazz-n8l
 @silentvalkyrie-p2
+@nurseclairehollis
