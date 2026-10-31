@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41207
+! Total Channels: 41212
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41223,3 +41223,8 @@
 @OldFarmFriendship
 @WW2Unmasked-p9j
 @WW2Rewind-d7h
+@QuarantinedSpeciesHFY
+@IndoorJazzCabin
+@WW2MilitaryRecords
+@Yiestudio
+@TimberFarmMemories
