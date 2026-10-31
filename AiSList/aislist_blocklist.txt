@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41818
+! Total Channels: 41828
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41834,3 +41834,13 @@
 @MoonfangRoyals
 @URRomantic
 @EyeofDeep
+@LunarApothecary
+@NordicAtmosphere-1
+@DrumsoftheNorth
+@hsh_music
+@PuraniDastaan8
+@FutureEra8d
+@EtherealCascade94
+@GoldenDuoMusic
+@Doo-Wop-Letters
+@KylixOfficialMusic
