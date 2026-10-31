@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41075
+! Total Channels: 41080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41091,3 +41091,8 @@
 @LifeBeforeToday-i2l
 @EvergreenStories7696
 @HOAOverride
+@DeathOfKings
+@thetalestories
+@BryanRevengeStories
+@BlackHaloEcho
+@madbris
