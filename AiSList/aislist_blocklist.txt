@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41036
+! Total Channels: 41041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41052,3 +41052,8 @@
 @OutofFrameUSA
 @Canhsat11
 @SymphonyOfElyndra-123n
+@INFERNALRIFFS-i6p
+@SmoothJazzMoments-u7t
+@ItsWhyVerse-YT
+@BuriedDramaStories
+@Markus2.00
