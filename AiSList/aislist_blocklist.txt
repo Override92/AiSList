@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41288
+! Total Channels: 41290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41304,3 +41304,5 @@
 @GleeWildlife
 @outbreakfiles_yt
 @pffx-t3p
+@EpicAnime-n9u
+@SticklyLore
