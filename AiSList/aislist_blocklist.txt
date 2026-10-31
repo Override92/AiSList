@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40928
+! Total Channels: 40938
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40944,3 +40944,13 @@
 @StoriedPastTV
 @HerPayback-l7p
 @AncientMythsYT
+@Strategic-Haulers
+@v%C4%91f-t2w
+@the.ravensmusic
+@WatchDrollery
+@BruceLeeRebirth
+@VictoryWithin-x5u
+@Mr-Arsenal-vp
+@realityfracture1
+@Laws-H55
+@WorldMemoriesEN
