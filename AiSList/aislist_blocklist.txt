@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41479
+! Total Channels: 41489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41495,3 +41495,13 @@
 @Krempelkunde
 @ReceiptRegretYT
 @ShowroomExplained
+@IvanOldArmy
+@MenschlicheWurzeln-s1y
+@AncientRomansSQ
+@TechmateSuperman
+@HyperTecxx
+@SatisfyingDramaStories
+@LIFELONGHEALTH1
+@Rockmaster01
+@dayslongago
+@Trentbaker1987
