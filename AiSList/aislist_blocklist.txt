@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41130
+! Total Channels: 41135
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41146,3 +41146,8 @@
 @ElNoctyrah
 @Healthimprovingtips
 @OrvenAnimal
+@JeffTracingHumanity
+@TacCore
+@firstspark0
+@SurvivalChronicles8
+@Feralogics
