@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41808
+! Total Channels: 41818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41824,3 +41824,13 @@
 @eventusverse
 @hunkychunky
 @Golfshot_deu
+@DramaChuckleShack
+@depththeoryofficial
+@Le-Fran%C3%A7ais-en-Histoires
+@far-signal
+@midnightremix-y1r
+@DarkDesireAfterDark
+@nhanpanha-R
+@MoonfangRoyals
+@URRomantic
+@EyeofDeep
