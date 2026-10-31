@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41779
+! Total Channels: 41789
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41795,3 +41795,13 @@
 @CanYouBeholdHim
 @SecretStoriesRevealed-ssr
 @chansonsdamourdautrefois
+@Emberlark-Tavern
+@AncientTestament_Hq
+@VampireDawnfallChronicles
+@echoRandB
+@LunavexAudio
+@StormMatrix-k7g
+@Evarastoryworld
+@RosadeHavana
+@Legadodeenoc
+@SerenataMorena
