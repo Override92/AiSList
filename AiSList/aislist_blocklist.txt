@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41799
+! Total Channels: 41803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41815,3 +41815,7 @@
 @Lifeaidiaries
 @BiblicalStoriesReimagine
 @Following2AM
+@DieVerlorenenChroniken
+@Thekoalatales
+@MaximusInValhalla
+@chernotone
