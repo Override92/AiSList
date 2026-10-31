@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40768
+! Total Channels: 40778
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40784,3 +40784,13 @@
 @MysticRomanceHeir
 @Plumiq
 @PacificFury_6886
+@ForbiddenFixes-1
+@legendsandloremythology
+@MythologyArchives2
+@laugh_lolhouse
+@we.lockin
+@ZoyasRomance
+@Railhead2812
+@wcudzej_sk%C3%B3rze
+@thunderfang-br
+@waltersarmsyt
