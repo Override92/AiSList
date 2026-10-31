@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42008
+! Total Channels: 42007
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14978,7 +14978,6 @@
 @Worst-criminal
 @MetaMuscle-v6f
 @emberandcinder
-@TheSpaceRaceYT
 @TheUKTable
 @Galaxy_shortdrama
 @HistoryInsideWW2
