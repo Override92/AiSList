@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41596
+! Total Channels: 41606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41612,3 +41612,13 @@
 @FirstToKnowFinance
 @OriginToEmpireUS
 @TATANKAvideo
+@BuiltByThemAll
+@RustToRoad28
+@RanaSohaibTalib
+@ThePremiumJourney
+@MrsDorisLunchLady
+@MindCanvasWorld
+@toolsnow1808
+@WW2UntoldStories12
+@BlueprintChroniclesWW2
+@TheIronTuskChronicles
