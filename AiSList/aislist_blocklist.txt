@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42290
+! Total Channels: 42292
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42306,3 +42306,5 @@
 @HiddenFrontier-p6m
 @InsideCurrentAffairs
 @PureLifeHabits-x4s
+@TheWarStrategyRoom
+@THEHIDDENFRONTIER-f9t
