@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 40604
+! Total Channels: 40603
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5491,7 +5491,6 @@
 @500DaysofReddit
 @HOADramaYT
 @KarenSpeaksYT
-@hoachronicles23
 @TheHOAFiles-e5b
 @KarenConfessionsYT
 @HOAExposer
@@ -22228,7 +22227,6 @@
 @PoPoSweetDrama
 @TheUntoldJimiHendrixStories
 @demonhuntersAI
-@TansenBluesClub
 @KarmaDramaStories-j8n
 @KarmaNeverForgets-p1y
 @AxisStudio-q3e
@@ -32436,7 +32434,6 @@
 @OddletExplained
 @BananaExplains7
 @IndustrialExplainedChannel
-@MysticPetsExplained
 @Hiddentruthexplains
 @MoneyExplained-ME2
 @HominExplains
@@ -40620,3 +40617,5 @@
 @HistoryLullaby-uk
 @yanhuigang
 @grow-with-leaticia
+@timelinehistory_official
+@oddspacehub
