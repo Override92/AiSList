@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41044
+! Total Channels: 41049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41060,3 +41060,8 @@
 @YourWealthStory
 @LiamsRevenge2
 @NovellaLove-d1r
+@fameshah-x5k
+@EAT-NEX
+@SurvivingtheAIAge
+@Epokk-y9c
+@Samurai-Chronicles-JP
