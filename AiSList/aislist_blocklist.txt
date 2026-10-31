@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41183
+! Total Channels: 41187
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41199,3 +41199,7 @@
 @felixfox-588
 @genstickman
 @IFalo001
+@farawaylands-fl
+@felixandsilver
+@DeanFinanceUS
+@LogansSilverDisc
