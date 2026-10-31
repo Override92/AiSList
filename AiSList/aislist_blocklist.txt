@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41449
+! Total Channels: 41459
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41465,3 +41465,13 @@
 @BetrayalLedger-x9v
 @VeltharaUniverse
 @TheWarRecords09
+@HisQuietness
+@TheTofuGolem
+@rockstarsecrets3
+@Povfinacelab-US
+@GoodFellasMusicGM
+@TheExpainora
+@VisionVerse-c7n6p
+@shadihowtos
+@DARKSYMPHONIES
+@MALONEYMETALSALERT
