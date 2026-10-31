@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42052
+! Total Channels: 42062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42068,3 +42068,13 @@
 @retro.metro.studio
 @BangerAIMovies
 @mommatofficial
+@SaraenelTiempo
+@LEDICIASOUNDS
+@CozyBitebloom
+@vegalithmusic
+@asmrhutan3
+@XDEEPMIXLANG
+@CelticHearthMusic
+@DamRise
+@wave_motion_radio
+@thesingingtrails
