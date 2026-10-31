@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41090
+! Total Channels: 41095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41106,3 +41106,8 @@
 @PrehistoricWorld-9
 @IronCataclysm-v2r
 @WealthLifePOVUS
+@SoldiersJourneyHome
+@TheCuriousEra-explainer
+@HumanWarChronicles
+@StepintoIf
+@quazora-544
