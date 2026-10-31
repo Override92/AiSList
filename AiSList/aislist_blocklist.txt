@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41672
+! Total Channels: 41677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41688,3 +41688,8 @@
 @ForgottenAmericanTVShow
 @galenarticusm41
 @rand.nerdAJ
+@TheWilliamStandard
+@TrampaDigital
+@satisfyingrevengestories123
+@MarkLedger
+@therailaspect
