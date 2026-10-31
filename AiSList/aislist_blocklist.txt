@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41268
+! Total Channels: 41273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41284,3 +41284,8 @@
 @P-rimalLogic
 @ArmsInContext
 @StrangelyWe
+@VESCinema
+@Darkest_Mindss
+@MidnightRomanceStories-h1u
+@techtipxx
+@TheEmployeesRevenge
