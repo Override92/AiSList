@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41006
+! Total Channels: 41016
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41022,3 +41022,13 @@
 @TechTutoring0
 @SteelSymphony-m6o
 @ECLIPSEVANGUARD-c8h
+@JapaneseZenLegends
+@GothicMetalEmpire
+@AIMetalMachine
+@WarmDoghouseRadio
+@synthcrewfm
+@IronbornRiffs
+@BigRigArchive
+@mindsteramedia
+@bodeo1235
+@LucasHarper-b3s
