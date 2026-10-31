@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 41642
+! Total Channels: 41648
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41658,3 +41658,9 @@
 @nguyennguyen3797
 @WWIIMilitaryArchives
 @HFYLorecraft
+@ChillDudeProExplains
+@mizunagara
+@FlameGuardHFY-i6q
+@TruckNationUS
+@GalacticCalmHFY
+@AmericaUncovered-e3g
