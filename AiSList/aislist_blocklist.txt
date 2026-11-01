@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43875
+! Total Channels: 43885
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43891,3 +43891,13 @@
 @AURALUXmusicAI
 @Machiavelli_Perspective
 @konvosdj
+@WomenofFaith-yt
+@EternalWisdomLedger
+@TripHopDreams-z5j
+@JS-EDM
+@almostrichYT
+@GroovzaSoul-n3s
+@MindfulMiloo
+@NebulaRiddim
+@BBIGKEV
+@UncommonMorals
