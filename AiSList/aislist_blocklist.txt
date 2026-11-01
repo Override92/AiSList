@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44279
+! Total Channels: 44289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44295,3 +44295,13 @@
 @Deutschlandlogik
 @nuevo-b7c
 @NoCodeAbode
+@BalladsofForgotten
+@ritathepoetokc
+@LUC-IA-MUSIC
+@SilentBadgeDramas
+@Real_Face_AI
+@our_lady_in_shadow
+@FATHERSGUARDEDREVENGE
+@The_Infinity_Virus
+@PlotTwistAnim
+@RUSSIAN_COVERS
