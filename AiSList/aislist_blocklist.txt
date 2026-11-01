@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43551
+! Total Channels: 43561
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43567,3 +43567,13 @@
 @LA_Studio_LasVegas
 @SignalsMacros
 @SyntheticFuture-m4o
+@Trentwealth-usa
+@BeforeUsers
+@NavajoTraditionalTeachings
+@ManhwaPowerRecaps
+@PageMunchComicReview
+@YouInThePast
+@ProfessorKatze
+@AmericaBeyondtheTextbook
+@Explain-Matics
+@TheHumanStory8
