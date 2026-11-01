@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42311
+! Total Channels: 42320
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42327,3 +42327,12 @@
 @FictionalworldGenz
 @taletoppings-z7x
 @Chirkutfilms-90
+@Vahap-Vakas
+@Toonfusiondilip
+@petTIME-n6x
+@roadbumpfilms
+@RainlitVillage
+@ineyfilm
+@PappaPlanets
+@GhibliRasoi-l5r
+@Nagori_Studio_official
