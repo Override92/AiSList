@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44289
+! Total Channels: 44299
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44305,3 +44305,13 @@
 @The_Infinity_Virus
 @PlotTwistAnim
 @RUSSIAN_COVERS
+@SkipCI
+@RisingRhythm
+@rthtrhtrhrreyrth-r5n
+@OrangeGearEntertainment5678
+@egemendax
+@%E6%B5%AE%E5%85%89%E6%BC%AB%E5%89%A7%E7%A4%BE
+@KazladurMusicChannel
+@RevengeHubYT
+@ZeroFrame8520
+@XTrace_ai
