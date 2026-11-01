@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43522
+! Total Channels: 43531
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43538,3 +43538,12 @@
 @BookRankChronicles
 @StreamGood-j7l
 @TheScienceGoon
+@HoodLineCinematics
+@TheKnowledgePodcast7
+@Junanor100
+@FutureTechnology-p6e
+@isekaivlog
+@KpopDemonJourney
+@Aoosikheai
+@Lupo_Grey_Wolf
+@Factverse-1299
