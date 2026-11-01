@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43103
+! Total Channels: 43113
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43119,3 +43119,13 @@
 @AnimeAiShots
 @1.4MillionView
 @AiLife-u2g
+@PINCHOFHISTORY-VB
+@VitalsLiving
+@funandfacts-y5c
+@HistoryPower-m2s
+@thegorymat
+@wildlycurious15
+@MonkeyFatCat
+@AIAnimationTV-i2b
+@nepalkinfolk-r6n
+@Factology-facts-m8c
