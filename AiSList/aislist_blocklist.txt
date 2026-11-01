@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42365
+! Total Channels: 42375
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42381,3 +42381,13 @@
 @AfricanTalesbyElovyn
 @Inspiringstoriesafrica
 @SskAivlog
+@TheProblem_Squad
+@AICartoonstudiobyzahidul
+@AussieCentralAi
+@AfricanFolktales-e9j
+@KathaAnugrah
+@real_life_stories-001
+@Historyvlogs055
+@NitroAIFilms
+@AiCartoons-r5o
+@GoodAfricanStoriesbyM
