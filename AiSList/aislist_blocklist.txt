@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44739
+! Total Channels: 44749
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44755,3 +44755,13 @@
 @Goldenharmony_official_26
 @IsllaSwarden
 @PeachProjectAi
+@Devendra436
+@CandlelightBallads
+@VintageHaven3001
+@Animata_Historia
+@CrazyHeartDrama
+@SPECIALWONDERR
+@Paintify7
+@%EB%B2%84%EB%B8%94%EB%8B%A8%EB%A7%89%EA%B7%B9%EC%9E%A5
+@tarafulai
+@FunkWizzle
