@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42301
+! Total Channels: 42311
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42317,3 +42317,13 @@
 @AICooking2.0-26
 @Bibletruthtv-tv
 @Storiesforyeou
+@Miniature-MiniatureCooking
+@Elevar%C3%A9-20
+@MadamCat1
+@Desiparallel
+@KozakintheMatrix
+@NoorVerseFamily
+@kidsStoryAI-j5g
+@FictionalworldGenz
+@taletoppings-z7x
+@Chirkutfilms-90
