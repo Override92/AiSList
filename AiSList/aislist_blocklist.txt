@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42296
+! Total Channels: 42291
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11443,7 +11443,6 @@
 @DonKhan-d2q
 @DarkTrapNationz
 @Inersense
-@geopoliticalabyssreport
 @bassglyph
 @savedata.mp3
 @Globalconflictwatch-k4u
@@ -15266,7 +15265,6 @@
 @usavibeyt
 @3mex
 @MARVEL.Ai00
-@AIVerseTrailers
 @TheMiniatureKitchen1001
 @Tiny-TawaAI
 @CrumbCraftAI
@@ -22694,7 +22692,6 @@
 @MeowDramaStudio
 @catStory-q7h
 @Kitstory-l6h
-@BellaFearTales
 @FunnyFurries-786
 @KittyCraze-v4j
 @LilytaChannel
@@ -26484,7 +26481,6 @@
 @AI_tools2024
 @GMSKY-g8u
 @rumirescuesquad
-@rumidemonslayer-e4h
 @VizionBit
 @MoonStoryGt
 @AlexBej-vk3ss
@@ -26730,7 +26726,6 @@
 @FaizanAliStudioOfficial
 @NextDoorFootageAI
 @thesanjoyroom
-@NeuroTrailers
 @RandomDailies-vi1so
 @80sFMMusic
 @aimetalforge1
