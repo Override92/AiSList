@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44119
+! Total Channels: 44129
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44135,3 +44135,13 @@
 @sciencetechnology247
 @DEV-WRAP
 @SecondFloorBlues-w5k
+@VioraTech
+@VoicesofUncleRussell
+@BitterFamilyRevenge
+@NDESITMUSIK
+@DecodedbyJack
+@black_heart_0731
+@KarmaReturnsUSA
+@ReverseWorldA
+@PulseGenXx
+@AIJAPANMUSIC-s9b
