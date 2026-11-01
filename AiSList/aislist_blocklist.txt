@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42455
+! Total Channels: 42465
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42471,3 +42471,13 @@
 @Ghibli_Tales07
 @AICOOKING1153
 @Aianimationcartoon-l2t
+@KabeerKhan-007
+@Aidrama1128
+@KainatAnimatedStudio
+@cooking-r6i
+@AITOONS-q4w
+@MyGhibliDiaries
+@PawOfSeries
+@AfricanStoryverse-tv
+@urpeacockgirl
+@PocketChefTales-u1m
