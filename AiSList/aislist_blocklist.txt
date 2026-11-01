@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44479
+! Total Channels: 44489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44495,3 +44495,13 @@
 @SamTechtics
 @RedlineGuitarRadio
 @FATHERSSTILLREVENGE
+@DevLogic-3.14
+@AR_Studioz
+@MysticSongWriter
+@Mission_Pandora
+@xmyw28
+@EnlightenedExistence
+@CosmicHFYRomance2
+@elaineparkcreates
+@BrightBerry_TV
+@PolarisSoundWave
