@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42715
+! Total Channels: 42721
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42731,3 +42731,9 @@
 @ai_veggie_travel_vlogs
 @holoverseofficial1
 @elvoratales47
+@MidnightStoryStudios
+@UniverseCha
+@Daniya_Ab
+@datascienceinyourpocket
+@MohdNadeem-v5p
+@HistoriaeHistory
