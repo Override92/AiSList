@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43063
+! Total Channels: 43058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35619,12 +35619,10 @@
 @midnighttalesofafrica
 @FateFolktales
 @AfricanStoriesByLeda
-@AfricanTalesByA1
 @Tales_by_adaeze
 @talesofafrica26
 @NativeAfricanTales
 @untoldafricantale007
-@IfysTales
 @Talesbydavid01
 @kiddiesbedtimefolktales
 @AfricanFolktalesByOnyi
@@ -35639,14 +35637,11 @@
 @Talesbychikah
 @Zainabafricantales
 @Africantalesbyeva
-@AfricanTalesbyelle
 @AfricanUrbanFolktales
 @AfricanEchoTales-us
 @africantalesbykaira
 @the_fictionaire
-@storyby_becca
 @AfricanfolktalesByAjay
-@TalesbyAkyaa
 @AfricanTalesSarah
 @CindysTales
 @EpicAfricanFolktales
