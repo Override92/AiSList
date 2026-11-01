@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43113
+! Total Channels: 43123
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43129,3 +43129,13 @@
 @AIAnimationTV-i2b
 @nepalkinfolk-r6n
 @Factology-facts-m8c
+@top5clips.de-funn
+@Quickcrazezone1
+@historicalAI02
+@Funniest.Animals.Compilations
+@studio_pope
+@Brooklynn-o5g
+@2dHistory-v8m
+@AIPlinyTheElder
+@KageMangaRecaps
+@TheTimeWarpChannel
