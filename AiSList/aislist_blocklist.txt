@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42285
+! Total Channels: 42282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10532,7 +10532,6 @@
 @systmsexplained8185
 @Oncamera-23
 @RennStudio
-@stickverse-n5x
 @offmode0
 @builtfromz
 @GoblinDownInk
@@ -15522,7 +15521,6 @@
 @echoeswisdomztv
 @bubbleblissasmr01
 @pocketbalmfolktales
-@wuxialegendstheater
 @somedumbbchannel
 @inspiringstories24h
 @teddymusic-j4r_fan_made
@@ -17230,7 +17228,6 @@
 @Manekklaser
 @ChicCountryMusic
 @RedArtMediaAI
-@AIMadeEasy-c5t
 @佐藤2022
 @DreamyAnimal-art
 @claudia_ai
@@ -22783,7 +22780,6 @@
 @babeepixstories
 @EbonyTalesAI
 @folktalesbyOnyiiscorner
-@StoriesBysomi18
 @talesbyhamseid
 @Mrwahalaofficial1
 @EchoesoftheCivilWar
@@ -42301,3 +42297,4 @@
 @台灣齊心向前邁
 @callahanfilesyt
 @ακριτεσ
+@edenflix254
