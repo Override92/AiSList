@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42395
+! Total Channels: 42405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42411,3 +42411,13 @@
 @BibleChapter247
 @FunBunCartoons-v1q
 @TroisFoisTrois
+@Seaart.ai_Official
+@AfricanStoryForge
+@SoundsMadeUpHistory
+@AiCartoonWorldYT.9t9
+@Tudor_History1500s
+@Talesbyesther-p3o
+@AItoonskids-2025
+@Nexyvora786
+@CozyvillageToons-k4q
+@StoryTalesbyHappy
