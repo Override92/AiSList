@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44075
+! Total Channels: 44080
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44091,3 +44091,8 @@
 @GrandmaPearlsKitchen
 @PiggyStoryStudio
 @ELYRIA-ASTRA
+@AnimationStudioByImon
+@soundocusmusic
+@EloraDaphne
+@cozygamebgm
+@Gamselot
