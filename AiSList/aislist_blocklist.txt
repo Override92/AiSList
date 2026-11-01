@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43958
+! Total Channels: 43968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43974,3 +43974,13 @@
 @HiddenCrownFilms
 @CreativeCarRestoration
 @TheMoneyAudioBook
+@A_tale_of_sound
+@Roran-Fantasy
+@ThriftyMaureen
+@softcatvideo
+@BlackSoulCinema
+@monaco-soul-stories
+@YardDubStation
+@aixiaobao
+@PandaMakingMoney
+@Reavron
