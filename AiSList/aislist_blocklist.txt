@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43263
+! Total Channels: 43273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43279,3 +43279,13 @@
 @aitimewarps
 @AIKittyChef
 @dineshkdrvlogs500
+@AiRichRisee
+@Cyber_Idol_Lab
+@SleepyyFuture
+@Aitools52
+@SouthlineStatic
+@HeavensBlueprint05
+@OsirisPerseus
+@Do.It.Different
+@Tommyworld8716
+@GenAiwiz
