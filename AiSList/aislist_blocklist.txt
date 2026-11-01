@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43421
+! Total Channels: 43428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43437,3 +43437,10 @@
 @AnimatedFruitTales
 @hananstalent9142
 @fmspinechiller66.6
+@aristotto-ai
+@%E8%81%96%E3%81%AA%E3%82%8B%E5%AF%BA%E9%99%A2
+@TylersJunkyAI
+@AniCoverMax
+@Grow_With_Amit_07
+@KhadDrawingAcademy
+@Anjali_AI123-u6u
