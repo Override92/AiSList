@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44091
+! Total Channels: 44096
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44107,3 +44107,8 @@
 @SAVANNA_EXE
 @HowToMakeGamesWithAI
 @Techeitips
+@bevo-ai-music
+@MedalsBeneaththeScrubs
+@SolarisHFY
+@JanChrisArteMusic
+@zaiden.vonstoll
