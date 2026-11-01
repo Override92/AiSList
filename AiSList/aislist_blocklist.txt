@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44809
+! Total Channels: 44815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44825,3 +44825,9 @@
 @WisnuAIPro
 @AICopium
 @fauzan.dramastudio
+@techsingular
+@Giddomagictv
+@ReligiousHistorian
+@KanunPS
+@DIYSmartCode
+@Wildankidgenius-e9i
