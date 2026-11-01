@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44769
+! Total Channels: 44779
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44785,3 +44785,13 @@
 @Blinker_Optional-y1y
 @callesdeantes
 @builtmysteriestv
+@asapguide
+@darkuni
+@DivyaBhaktiVerseYT
+@vedicanurag
+@allyourtechai
+@DestelloBreve
+@easy_riders
+@70RockVerse
+@trentslade83
+@SchizoDev
