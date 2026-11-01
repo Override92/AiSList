@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42297
+! Total Channels: 42296
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16082,7 +16082,6 @@
 @EadaoinSongs
 @AILokMantra
 @SchroederLucysInspiration
-@Spiritual_guide17
 @TheRhythmOfEternity
 @Britzph
 @NativeSoulRomance
@@ -24179,7 +24178,6 @@
 @orsonwild1
 @bettystorytales1
 @free_fire_pb07
-@wizkidoficial
 @strangestoryfiles
 @novatales-e1l
 @AutomationCentral
@@ -42313,3 +42311,4 @@
 @timexplainsmoney-x9e
 @girls-era-animation
 @umbrarequiem
+@bezexa_ai
