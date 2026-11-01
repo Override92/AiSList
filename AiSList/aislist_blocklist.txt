@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43002
+! Total Channels: 42997
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9046,7 +9046,6 @@
 @TheStillNorthFilms
 @SoundPulse-mv6jk
 @FullProcessRevealed
-@HerSecretHeart-l5h
 @industriesprocess
 @EngineeredTheFactoryProcess
 @nextgenworld.10m
@@ -10824,7 +10823,6 @@
 @synthdub_reggae
 @NeoCraftStudio
 @onemoreshot-ai
-@VeraMusic04
 @KaifRamzee
 @shulmanator
 @GenZHabeshaMusic
@@ -13897,7 +13895,6 @@
 @ShortReelSparks
 @AfricanfolktaleswithFlo
 @GoldenShortDrama
-@SuperTheater-q3t
 @HoneyBlissFilms
 @African_Folklore_Tales
 @SovereignShortDrama
@@ -23850,7 +23847,6 @@
 @nano-charges
 @revengetable-h2z
 @justhenryfr
-@earthbornhfy-g5k
 @reafton
 @tasty-confessions
 @aethernalpictures
@@ -35422,7 +35418,6 @@
 @DarkPlantationStories
 @ChainsofSlaves
 @deppast
-@WildWestHeartChronicles
 @QuennandJackOfficial
 @RavensmereTales
 @buriedinsilenceyt1
