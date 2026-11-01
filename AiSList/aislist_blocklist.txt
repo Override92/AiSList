@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44139
+! Total Channels: 44149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44155,3 +44155,13 @@
 @GalacticTalesSci-Fi
 @AbyssMarionetteMetal
 @nfaimusic
+@TCMusicGlobal
+@NotOfThisWorld_Ministry
+@AlteFront
+@brifixit1962
+@aiwithkumailyt
+@More-Ai-Generated-Arts
+@pumpman_official
+@GhostInTheMachineAI
+@3D-Agent
+@metriontech
