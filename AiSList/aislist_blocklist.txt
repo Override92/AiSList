@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43203
+! Total Channels: 43213
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43219,3 +43219,13 @@
 @PowerfulHistoryKnowledge
 @AiMarvel-x4x
 @shivamedit.ai01
+@Amelia-p9i2b
+@WonderVenue
+@DimeLabsCreative
+@VaultsofHistory
+@VikingCatBeat
+@TingenuityAI
+@Islamichistory786-w5b
+@TOONCORE3D
+@AIAnimeStorytime
+@thedeepdiveanaipodcast
