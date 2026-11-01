@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44149
+! Total Channels: 44159
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44165,3 +44165,13 @@
 @GhostInTheMachineAI
 @3D-Agent
 @metriontech
+@reverie_ai
+@FactoryCentral-f2o
+@MoodConstruct
+@HighwayEmberRadio
+@vivi_radio
+@CreationUnified
+@StoryScapes-y8c
+@MeloZonia2026
+@InfiniteAudioLabsOfficial
+@MythicalMelodiesDnDMusic
