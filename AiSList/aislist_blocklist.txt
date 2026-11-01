@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42286
+! Total Channels: 42281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35367,11 +35367,9 @@
 @FINALBETRAYAL-c5y
 @prythalize
 @LocalhostFocusVibes
-@Black_Code_Lab
 @%E7%BF%94%E5%B9%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB
 @WhispersofWesteros-l9w
 @SleepyHistoriansYT
-@spiritualreliefchannel
 @ImperivmSPQR
 @HiddenEchoes2
 @Heritagehubyt
@@ -35430,16 +35428,13 @@
 @SleepyCrown
 @HistorywithYounes
 @TheEternalMysteries
-@HistorysForgottenPeople
 @CrownedByFateOfficial
 @CodeSource
 @TheForgottenHistorians
 @HighlandChronicles1
 @everydayexplainer-yt
-@CrucibleHistory
 @MidnightArchivesMedia
 @LoreBelow
-@FootnotesOfFear
 @DarkPlantationStories
 @ChainsofSlaves
 @deppast
