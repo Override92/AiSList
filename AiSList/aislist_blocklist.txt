@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42415
+! Total Channels: 42425
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42431,3 +42431,13 @@
 @Mintaka-Pictures
 @Al-NabaWorld
 @AiAfricanStoriesTV
+@rio_ai_yt
+@LuxuryStructuralDesign
+@MahiWorldPK
+@DarkRevengeDrama
+@p.ai08-ml
+@FilmWay_ae
+@CozyGhibliKitchen
+@mamacatanimation393
+@AIKidsAnimationOfficial-s5s
+@AfricanStoryCinemaTV
