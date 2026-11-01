@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43003
+! Total Channels: 43001
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5761,7 +5761,6 @@
 @BayVienNgocRongVN
 @malvaAI
 @rawrustrestore
-@seniorrevengestories
 @bkcrypto-l2e
 @warhournews
 @behindhoastories
@@ -5770,7 +5769,6 @@
 @wibumaingu
 @aamirfoundation.1
 @heyvideoeditor
-@amitraveli
 @aikahani-e8e
 @tuconsejeronocturno
 @ninaknowswhy
@@ -5805,7 +5803,7 @@
 @grahamsfiles
 @AIDiscoveryOfficial
 @itsRoland23
-@EpicWarsOfficial
+@hammadalameer
 @farzanfilms
 @Claysplained
 @onceuponabritishtime
@@ -16234,7 +16232,6 @@
 @UnwindLofiRoom
 @PM-GGH020
 @toneand
-@groovepocketUS
 @jpoprebirth
 @DallasCoverStudio
 @J-POP_Quality
@@ -43019,3 +43016,4 @@
 @the_untold_Bharat01
 @MyanmarAIUniverse-b3f
 @PixPretty-AI
+@vintagesignal-n5d
