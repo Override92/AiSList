@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43968
+! Total Channels: 43978
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43984,3 +43984,13 @@
 @aixiaobao
 @PandaMakingMoney
 @Reavron
+@join_ailab
+@diaryofbenjamin
+@TechyNoob1818
+@KhrisMusicTV
+@AISeeKing
+@Mindtomotion-g1p
+@aicautebaby
+@Nutel_Life
+@ato.sounds
+@GlobalAiCinemaByVic
