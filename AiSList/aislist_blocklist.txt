@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44229
+! Total Channels: 44239
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44245,3 +44245,13 @@
 @PhilipG-BlackChronicle
 @IntenseJINN
 @Desi_ai_tunes
+@hitechnomy
+@AIMovieTrailers-g7n
+@BuildWithAI14
+@Frecuencia80sDisco
+@ReeltoReelBlues
+@KareemScope
+@carlyhillcoaching
+@GelasNada
+@Dreamora_79
+@ai-and-videogame-realms
