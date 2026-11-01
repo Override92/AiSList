@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43333
+! Total Channels: 43343
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43349,3 +43349,13 @@
 @BusSongAdventures
 @RumiHK09
 @HulkKichannel-b3k
+@LupoMiria
+@lt671171
+@miniaturecook11
+@DemonHuntersMusic
+@wearepixarrow
+@KalipsoFilmAI
+@magictoons.wold.07
+@animeaivideos-d5o
+@ArtofCombat_15
+@KatieThroughTime
