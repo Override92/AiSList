@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42963
+! Total Channels: 42973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42979,3 +42979,13 @@
 @The_American_Pirate
 @TechnovaSystems-26
 @plastic.matrix
+@CaressLullabies
+@QuietRouteCinema
+@marvelaitransformation
+@AudioPodcastOdia
+@IndianstoriesbyAI
+@jamkkanman_tv-p5i
+@ANIMEAI-l4l
+@villagetales-z4i
+@nofacerevealed
+@AutoWaveAI
