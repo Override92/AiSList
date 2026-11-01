@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42280
+! Total Channels: 42285
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42296,3 +42296,8 @@
 @翔平ジャーナル
 @theworldwariarchives
 @HondaCulture1010
+@aistoryverse-i1n
+@estaswood
+@topdealstoday815
+@BrokeBrilliantYT
+@manmadegear
