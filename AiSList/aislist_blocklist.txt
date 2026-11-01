@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42545
+! Total Channels: 42555
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42561,3 +42561,13 @@
 @talesbybella01
 @LordSnippet
 @AIChefPro
+@AiDadikidunia
+@KitchenoraAI
+@kitchenverse-kiki
+@chefai888
+@Memeboxd
+@SmishaAI
+@ErfolgLabs
+@VersatileXAIVideo
+@LaluTvNurseryStory
+@FunAnimationTV-y6e
