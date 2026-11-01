@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42645
+! Total Channels: 42655
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42661,3 +42661,13 @@
 @Tinytalesstudio-1-2
 @ONN_production
 @AiNotAHumann
+@TheBalanceBot
+@NULLFORM-z7u
+@TheWondersArchive
+@VrFilms-ai
+@Two-T-Studio
+@AITravelChronicles
+@TheBibleExplainedByAI
+@CookingwithAI2
+@LifeAtMinus71C
+@BambuForge
