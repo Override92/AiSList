@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43701
+! Total Channels: 43711
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43717,3 +43717,13 @@
 @CCU1845
 @khalidhassan1039
 @worldofmysterie
+@MiraKpopMoments
+@StormtrooperAdventures
+@AmitCinematicUniverseOfficial
+@SimranAIVlogs
+@CraftedWell-andFunky
+@MPQnews1
+@VLOG_D_JACK
+@tkmarketing489
+@HardwareScope
+@JoyLoop.32
