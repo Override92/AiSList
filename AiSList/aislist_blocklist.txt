@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44729
+! Total Channels: 44739
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44745,3 +44745,13 @@
 @dreamweaversounds-sufigazhal
 @DJBABBOOSH
 @RelaxRhythmsMusic
+@Starlitdrama-b6i
+@NomadMusic2026
+@AuranMusicStudios
+@escola.aplicativos
+@Fantastical_Grimoire
+@FlamencoSpirit
+@AI%E7%9F%AD%E5%8A%87%E7%8E%8B%E5%9C%8B
+@Goldenharmony_official_26
+@IsllaSwarden
+@PeachProjectAi
