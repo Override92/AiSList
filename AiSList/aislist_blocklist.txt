@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42282
+! Total Channels: 42281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13882,7 +13882,6 @@
 @taoyaoshortfilm
 @DramaBreak-i2u
 @FallenSoulsRomance
-@山海A049
 @CupidCutsDrama
 @ManhwaSenpai99
 @Pinnacle_Drama
