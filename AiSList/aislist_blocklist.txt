@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44319
+! Total Channels: 44329
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44335,3 +44335,13 @@
 @verdict.of.empires
 @QuietPsalms-w1w
 @DramaHatiWanita
+@novairehq
+@Animadversion-u8z
+@dr.marcusreid
+@JanjiAsmara-Drama123
+@Battlewithin-c5b
+@MLVisualized
+@DariNolJadiHebat
+@brenosantanabruno
+@TriverseAi
+@RavenRiftRap
