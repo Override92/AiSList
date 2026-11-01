@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42625
+! Total Channels: 42635
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42641,3 +42641,13 @@
 @AiLadyTECH
 @rajvibes-u2g
 @LilaandFelix
+@NeonFrameAI-x1j
+@AnimationislandAI
+@NazaAiSeries
+@AfricanAIStory-5
+@BibleMusicLab
+@KidsStoryWorldAI-j6x
+@lphaRise-DramaA
+@UBOdyssey
+@ghibliworld__ghibligirl
+@AfricanTaleStudio-q1l
