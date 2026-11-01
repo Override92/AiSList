@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42405
+! Total Channels: 42415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42421,3 +42421,13 @@
 @Nexyvora786
 @CozyvillageToons-k4q
 @StoryTalesbyHappy
+@HistoryDriven
+@TimeTravelerVlogger
+@HistoryFiles-NA
+@MainWilliamsAIFilms
+@anime_tower_Boss
+@NamizaAfricanStories
+@TheBeginnersBibleAI
+@Mintaka-Pictures
+@Al-NabaWorld
+@AiAfricanStoriesTV
