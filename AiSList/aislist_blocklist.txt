@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42279
+! Total Channels: 42281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42295,3 +42295,5 @@
 @callahanfilesyt
 @ακριτεσ
 @edenflix254
+@theamericanstoryvaulttv
+@spun_com
