@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42515
+! Total Channels: 42525
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42531,3 +42531,13 @@
 @BrightKwadwo-u2z
 @GlitchAI-204
 @khadija-n6c8b
+@SlyTales-1
+@AICARTONCHEF
+@TalesByTeeTV
+@Techrajdeepak
+@AiDreamscape-m9k
+@aikidsstory0001
+@MysteryAIFilms
+@BibleWhisper-r8b
+@Vyomanimationreal
+@AIShortFilmsIndia
