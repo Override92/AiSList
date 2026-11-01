@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42335
+! Total Channels: 42345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42351,3 +42351,13 @@
 @kids-story-ai1
 @AIcartoon-q3q
 @BibleToonsai
+@digerai
+@TheAfricanAIStories
+@EliteStudioAI
+@PhimNg%E1%BA%AFnAI-k5u
+@AfricanstorybyTemi
+@TalesKonda
+@kidstorytime464
+@Indianhistory.AI1
+@AfricanTalesDaily1
+@cooking-with-AI-09
