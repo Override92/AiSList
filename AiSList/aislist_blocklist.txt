@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44049
+! Total Channels: 44054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44065,3 +44065,8 @@
 @TheSpiritStory
 @CommitSmall
 @GeekLab_AI
+@WolfhelmWhite
+@ROROWAVE-PLI
+@ThePastTrack99
+@EsseX_TheDarkMatters
+@LaTavernedAgu
