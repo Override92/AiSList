@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42291
+! Total Channels: 42289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9021,7 +9021,6 @@
 @TheSealedRoom
 @PureEconomy
 @NinjaEconomicCollapse
-@BannedCampeing
 @SeniorInsight60
 @Fixvival
 @ForgottenDiscoveries2026
@@ -22669,10 +22668,8 @@
 @Santos_storyverse
 @KechiBravo
 @MaleLoveBook
-@RegencyLoveTales
 @KuyaKiy
 @TheDrawingRoomHQ
-@DeeLoversArchive
 @TheHiddenDukeChronicles
 @BehindtheCopperDoor2
 @VelvetDukeRomanceLibrary
@@ -35312,7 +35309,7 @@
 @allencriptan
 @parestesiatube
 @desiretv-fg
-@OnThisDayStick
+@feralplanetbattles
 @Bulusears
 @PastExplained-1
 @bitwonder
@@ -42307,3 +42304,4 @@
 @umbrarequiem
 @bezexa_ai
 @ottomansaga1
+@moviedrama-i3e
