@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43845
+! Total Channels: 43855
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43861,3 +43861,13 @@
 @LeafAvenueArt
 @TVArtin4K
 @EvergreenAmbienceTV
+@EtherealTVArt
+@MoonlitFantasy-q2d
+@Frametvart-r5z
+@frametv.art4k
+@NaasGallery
+@CreativeTVArtGallery
+@pittura_tv
+@FrameTVArt.
+@CanvasNCalmTV
+@Amazon2Expert
