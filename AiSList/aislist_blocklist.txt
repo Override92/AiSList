@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43283
+! Total Channels: 43293
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43299,3 +43299,13 @@
 @AIDreamAnime
 @AlexandLea_LostinTime
 @cartoonstar-x8f
+@GlobalUSAAi-k3b
+@chromekingdom
+@AmeliasTimeTravelVlogs
+@ameliaWendyusa
+@OtakuSSJ4
+@AIfruitdramashorts
+@The-Real-Amelia
+@SDdailyvlogs1011
+@FINALORBIT-x5c
+@Youth-Tube
