@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42287
+! Total Channels: 42286
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13812,7 +13812,6 @@
 @MediacollapseYT
 @howitsmadefactories
 @BeyondFacts
-@megawealthcraft
 @AfricaGospelStories
 @Myveiltales
 @DrumsbeforeDawn
@@ -16213,7 +16212,6 @@
 @dinadailyenglish
 @Fluffyanimalai
 @TheNewBlack-AI
-@VanishedHistoryYT
 @built.with.ai.period
 @worldclassstories
 @candyappl3ai
@@ -16228,7 +16226,6 @@
 @Manumoments67
 @LoveVerseStories-x1t
 @Explainify67
-@azhanvfx
 @africanaidrama
 @anim.video007
 @complexAI
@@ -42303,3 +42300,5 @@
 @hybrid.akilan
 @secretsducoeur-q9x
 @台灣齊心向前邁
+@callahanfilesyt
+@ακριτεσ
