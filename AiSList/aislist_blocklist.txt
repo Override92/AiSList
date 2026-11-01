@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43497
+! Total Channels: 43492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35647,10 +35647,7 @@
 @EpicAfricanFolktales
 @StoriesWithMissTosin
 @EchoesofAfrica-f2m
-@Talesofstrength-mgl
-@ReimaginedTalesbyLynda
 @nikkytales
-@Faithanimationstories-l5e
 @TeesTimelessTales
 @FolktalesKingTv
 @FolktalesWithKhama
@@ -35676,7 +35673,6 @@
 @afritalesofficial1
 @EchoesofAfricanLegends-us
 @GoldenTaleTime-o9m
-@folktalesbyudonkem
 @TalesbyJudy01
 @MoonfireLengends-o8r
 @tunhouzestudiostories
@@ -35700,7 +35696,6 @@
 @Eons96-d6k
 @FreshView-z9r
 @dogchart
-@MariyaAkther-m9k
 @AIVideoFactoryYT
 @ssowmiya-j5k
 @AirDrop-c8w
