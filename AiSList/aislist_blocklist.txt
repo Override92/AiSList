@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43512
+! Total Channels: 43522
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43528,3 +43528,13 @@
 @YaSTOLYARcrypto
 @AnalogCatm
 @nnotscared
+@Machinesongs-v2d
+@7Movie-n3k
+@Filmohouse-ge8zx
+@ApexAction1
+@DEEPest-u4l
+@SlatewatchAI
+@RosewoodCinema-s9v
+@BookRankChronicles
+@StreamGood-j7l
+@TheScienceGoon
