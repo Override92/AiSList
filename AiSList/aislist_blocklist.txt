@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43541
+! Total Channels: 43551
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43557,3 +43557,13 @@
 @Ascendance-OriginUniverse
 @TheVeiledEpoch
 @islandlols
+@imoseai
+@Almost.Human.Studio
+@Monkeytraveler23
+@ZannyCost-n6v
+@ManhwaVault02
+@MarvelRMVlog
+@LeoManhwa1
+@LA_Studio_LasVegas
+@SignalsMacros
+@SyntheticFuture-m4o
