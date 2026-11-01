@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43373
+! Total Channels: 43383
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43389,3 +43389,13 @@
 @niS_sha
 @Qalbe_junoon
 @allyearcheers
+@rumisecrets
+@Encrypted-Decryption
+@KpopDemonPowers
+@Glowberryai
+@PreshyLove-o5c
+@thebasketbrewingshow.com-f1y
+@AiDisneyofficial
+@Mohidxai
+@CatDog-s8m
+@GeekSavvy
