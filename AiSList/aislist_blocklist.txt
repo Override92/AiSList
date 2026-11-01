@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42435
+! Total Channels: 42445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42451,3 +42451,13 @@
 @MOHITVERMAFILMS7
 @AI_Chef_Yosshi
 @vjAIfilms
+@MdnNafish
+@LittleGhibliVillage5
+@MiraVsTimeOfficial
+@TheAIChef-f1o
+@GrPrinceVFX
+@TalevixoAI-x1p
+@TemplarGregorianSanctum
+@BibleOnFilm
+@CartoonVerseYTOfficial
+@MSShortsStudio619
