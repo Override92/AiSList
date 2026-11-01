@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44689
+! Total Channels: 44699
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44705,3 +44705,13 @@
 @GiantStory.0
 @Aimehndidesign
 @SugrbladeRec
+@ShanthMelodyStudio
+@%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B%D0%A1%D0%A1%D0%A1%D0%A0-%D1%879%D1%8C
+@EnochErnestHQ
+@FOCChronicles
+@HeartelleDrama
+@ELYRIA-ALPHA
+@get-into-zone
+@DholFun
+@artificial_mirage
+@MockMasterRO
