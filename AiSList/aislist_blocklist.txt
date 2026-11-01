@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42615
+! Total Channels: 42625
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42631,3 +42631,13 @@
 @Mystery_Docc
 @AIFutureDail
 @DavidPinkFilms
+@digitalworkAI
+@MiaMaldini
+@GrandmasPlayhouseStudios
+@TimeTravelwithAI-b3k
+@MomoMixB
+@ForbiddenPassion-n9m
+@canshecraft
+@AiLadyTECH
+@rajvibes-u2g
+@LilaandFelix
