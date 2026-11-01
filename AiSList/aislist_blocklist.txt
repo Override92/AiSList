@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42288
+! Total Channels: 42287
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29728,7 +29728,6 @@
 @%E7%86%8A%E8%B2%93%E5%8A%87%E5%A0%B4
 @WholesaleTed
 @PartyTunesOfficial
-@actuallycarterpcs
 @ramshasultankhan
 @bennettbeyond99
 @echbiettuot-g4n
