@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43153
+! Total Channels: 43163
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43169,3 +43169,13 @@
 @BpopAnimation
 @GenPawsForge
 @Storyofaiofficial
+@TAAstronomy
+@JuniyarPandey
+@FireRecap
+@Omni-Fi
+@Mr_jae
+@Lionaura74
+@Appscribed
+@ZenithManhwaRecap-n2p
+@zacmeofficial
+@GeneralInfoviral
