@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42284
+! Total Channels: 42286
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22759,7 +22759,7 @@
 @AICONTENT-47-09
 @RaayanAIMagic
 @Tiny_DuckAdventures
-@CatStories-e4c
+@legends-through-time-z3i
 @ASMR_20.6
 @dadajiaivideo007
 @FATHERSSTERNREVENGE
@@ -35435,7 +35435,7 @@
 @CodeSource
 @TheForgottenHistorians
 @HighlandChronicles1
-@OfficialEverydayExplainer
+@everydayexplainer-yt
 @CrucibleHistory
 @MidnightArchivesMedia
 @LoreBelow
@@ -42300,3 +42300,5 @@
 @bezexa_ai
 @ottomansaga1
 @moviedrama-i3e
+@翔平ジャーナル
+@theworldwariarchives
