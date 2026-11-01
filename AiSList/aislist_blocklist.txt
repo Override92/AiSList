@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42729
+! Total Channels: 42739
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42745,3 +42745,13 @@
 @MadamMatrix
 @SkyPassApp
 @VeraNovaFilms
+@NiloAIFilms
+@TheAIBibleTranslation
+@ZetaAlphaZorp
+@BongUCreators
+@CookingwithClaudeAI
+@vlogger_monkey_baba
+@TheSmallDoorFilms
+@TINYFORGEX-n825
+@kitchenaivideos
+@Emotales-ai-story
