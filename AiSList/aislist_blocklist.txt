@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44033
+! Total Channels: 44038
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44049,3 +44049,8 @@
 @LateNightStari
 @ScandalAndSilk
 @Kinoaix
+@SipSoundBGM
+@WhenItWorked
+@TheHowGuide1
+@asphyxy
+@madahstudiooficial
