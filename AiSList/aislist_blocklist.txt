@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42784
+! Total Channels: 42794
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42800,3 +42800,13 @@
 @CartoonvideoAI-i7b
 @CartoonAIRhymes
 @Ibrahimramdani_AI
+@aimovietrailers365
+@TheAIReporter-o7f
+@TinyFeastAI
+@AICREATEDMOVIES
+@NOVAWorld-pak
+@GlobalRoastNetwork
+@NeuroviaAI-s9u
+@TomorrowsIntelligence-f3y
+@NeonByteGame
+@Ailiferealitieshisto
