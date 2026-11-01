@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42505
+! Total Channels: 42515
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42521,3 +42521,13 @@
 @MiniLuxAI-o5j
 @vai_motion
 @Aianimation-z4i
+@OGFLEXTV
+@GhibliCookingDuniya
+@Minichefbuddy
+@allandrelmary
+@ContemporaryAfricanFolktales
+@NewAfricanFolktales-r3c
+@AIkidsstory-l9i
+@BrightKwadwo-u2z
+@GlitchAI-204
+@khadija-n6c8b
