@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1147
+! Total Channels: 1146
 
 ! Entries:
 @PapaMeat
@@ -1158,7 +1158,6 @@
 @SUN_CASTLE7
 @ExplainForge3DCG
 @vlade21
-@JasonJaySmart
 @DavidIsNotAI
 @DINODUELS
 @Dev_Girl
