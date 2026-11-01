@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43661
+! Total Channels: 43671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43677,3 +43677,13 @@
 @StoryKavi
 @NotebookLmGuide
 @RebornDestinyDrama
+@aiverse-30
+@notebooklmtv
+@Notebook-L6M
+@BibleCinematicUniverse-02
+@AIFolktalesofAfrica
+@TheGeotrategyReport
+@HASSANINFORM
+@Gaming_hoarder
+@TheNationalDiscovery
+@TimeCapsuleTalez
