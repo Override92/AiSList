@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43776
+! Total Channels: 43783
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43792,3 +43792,10 @@
 @AlphaOmegashow
 @KeyStudio_ai
 @World_in_Depth
+@TechCos_AI
+@AIHustleHub-m4t
+@feynmanreadermedia
+@ai-vlogs-76-a
+@AIHistorium
+@AIDreamStudio-d3h
+@unholydragon8123
