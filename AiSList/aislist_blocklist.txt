@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44189
+! Total Channels: 44199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44205,3 +44205,13 @@
 @CadaPatente
 @Sound.Glider
 @Musicdhun90
+@TrackingStationHQ
+@JAXAIMusic
+@PopCultureHarmonies
+@djsnikks
+@SenpaiStudios-135
+@InfiniteTomorrow1
+@GeoVectorInsight
+@mayavi_films
+@HeartofthePrairie-l5j
+@RohimBayen-b3v
