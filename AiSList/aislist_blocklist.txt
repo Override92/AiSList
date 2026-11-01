@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42635
+! Total Channels: 42645
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42651,3 +42651,13 @@
 @UBOdyssey
 @ghibliworld__ghibligirl
 @AfricanTaleStudio-q1l
+@AfricanstoryCinema-z2p
+@CNC_3D_Film
+@dk2026hindi
+@NaveenKharwar-x2s
+@CONSTRUCTRISE
+@TimelessBibleTales-e8b
+@DrioQ
+@Tinytalesstudio-1-2
+@ONN_production
+@AiNotAHumann
