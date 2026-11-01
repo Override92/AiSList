@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42555
+! Total Channels: 42565
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42571,3 +42571,13 @@
 @VersatileXAIVideo
 @LaluTvNurseryStory
 @FunAnimationTV-y6e
+@3DanimationAI-b9c
+@AiAnimation-h7b
+@all28things
+@AriaSterlings
+@HappyToonyTown
+@Menasvibes
+@MysteriesofFaith-2m-views
+@Kunalx007-v9l
+@AIFilmSchool-h3i
+@MagicStoryKidsAI
