@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42953
+! Total Channels: 42963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42969,3 +42969,13 @@
 @Sami-Ai-Studios
 @CholyAI1
 @AiKids2.0-x7i
+@peacehavennew
+@animenova.019
+@shilpiuniquelifestyle157
+@NourkidsAI
+@FOOD_AI_ASMR
+@Aicat-z3r8q
+@gduckstudios
+@The_American_Pirate
+@TechnovaSystems-26
+@plastic.matrix
