@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42297
+! Total Channels: 42298
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5158,7 +5158,6 @@
 @frontlinewarstoriesww
 @secretoses
 @expedientemexicomx
-@misssamantha_ph
 @capitalpivot
 @bosknll
 @softstepsasmr-yt
@@ -42313,3 +42312,5 @@
 @yoruwearusa
 @beanie-survival1
 @monitorsobitiy
+@timexplainsmoney-x9e
+@girls-era-animation
