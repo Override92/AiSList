@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43082
+! Total Channels: 43087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43098,3 +43098,8 @@
 @a_key_ki
 @EchoesofPrehistory-m8c
 @earnwithell
+@vVIBE_CHECK
+@ai_podcast__7
+@CineCraftedAI7980
+@Grayson-editsb8o
+@mojo_who
