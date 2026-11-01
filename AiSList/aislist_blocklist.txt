@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44389
+! Total Channels: 44399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44405,3 +44405,13 @@
 @HerDarkRevenge-d9n
 @TheForgottenFrontYT
 @aipoweredmusic1
+@HerFinalRevenge-US
+@shakerrrAI
+@%E8%8D%92%E5%A2%83%E6%B1%82%E7%94%9F%E5%BD%95
+@AsroadTales
+@Lush-ReelDaily-d6t
+@TKStoryhouse
+@%E3%81%A4%E3%81%8F%E3%81%97%E8%8C%B6%E5%B1%8B
+@daltonBaishnab
+@AtlasUnfoldedMaps
+@MrUpdate360
