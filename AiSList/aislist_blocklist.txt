@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42943
+! Total Channels: 42953
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42959,3 +42959,13 @@
 @AiLifeUpdates
 @BaskiTalks
 @AiVideosforeveryone-y9u
+@strawberinoAi
+@ainewspodcast-l9k
+@vivektelugutech
+@NekoFX.90
+@AIAndyShorts
+@sumaimakhan7040
+@techmysteryai
+@Sami-Ai-Studios
+@CholyAI1
+@AiKids2.0-x7i
