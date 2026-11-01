@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43009
+! Total Channels: 43008
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17266,7 +17266,6 @@
 @GodIsChill
 @EncounterArchives1
 @TheSecret-c1f
-@ClassifiedOrigins-z9v
 @UnexpectedMoments-tn20
 @the_observer_effects
 @VULTUS-US
