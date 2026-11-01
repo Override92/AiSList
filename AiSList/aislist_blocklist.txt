@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43978
+! Total Channels: 43983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43994,3 +43994,8 @@
 @Nutel_Life
 @ato.sounds
 @GlobalAiCinemaByVic
+@SonaraEpicMusic
+@SebastianHardyAI
+@danielbrooksyt
+@NextLevelYtOfficial
+@%E5%BB%BA%E7%AF%89%E3%81%AE%E8%AC%8E
