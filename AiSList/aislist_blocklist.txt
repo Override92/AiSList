@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44359
+! Total Channels: 44369
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44375,3 +44375,13 @@
 @SkeletorTclaws
 @MarisOriginalsTV
 @DustDestiny-e8d6n
+@ArchivosHispanos
+@TheVCrownPodcast
+@TheyAlreadyKnew-q6s
+@Crissfilemon
+@HerSecretBillionaire
+@mocchi-tensura
+@FamilySecretsUncovered-l9f
+@PharaohExplains
+@Verm%C3%A4chtnisderGeheimnisse
+@SilentBond-h8b
