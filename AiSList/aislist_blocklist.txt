@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44159
+! Total Channels: 44169
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44175,3 +44175,13 @@
 @MeloZonia2026
 @InfiniteAudioLabsOfficial
 @MythicalMelodiesDnDMusic
+@Zenthovar
+@Playworlds-ai
+@chemverseai1008
+@EnkaSoulAI-c1e
+@kakarotlab
+@SmokyCatClub
+@AdoAIUniverse
+@EverythingAIML
+@BenHorusOfficial
+@X-Scale-b2k
