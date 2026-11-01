@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43393
+! Total Channels: 43403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43409,3 +43409,13 @@
 @TimelessWorld-o9v
 @Qwikinfo
 @Allatonce-h3e
+@Kpop-y7b
+@CAALOODAI
+@BabyJook-f7j
+@mand82
+@Movii-labs
+@WigglyStarRhymes
+@FunNlearnKiddo
+@RyuVerseOfficial
+@ChefStudio-official
+@FactBurstHD
