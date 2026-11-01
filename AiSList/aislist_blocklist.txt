@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42575
+! Total Channels: 42585
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42591,3 +42591,13 @@
 @DesiPitara-v8d
 @Adrianthearchitect
 @BibleRevealed01
+@TheAIArea
+@zyrrafilms
+@MiniBibleAdventures
+@AIGC-LOVER-px
+@StoryBuddy500
+@SoraLanding
+@AfricanFolkAI
+@aiShortFilm45
+@Ukkutoonstv
+@indian_goku9
