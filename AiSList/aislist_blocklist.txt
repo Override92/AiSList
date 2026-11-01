@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42983
+! Total Channels: 42993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42999,3 +42999,13 @@
 @AnimaUshortstories
 @bakbakwithseema
 @marvelbutai
+@AICinematicEntertainments
+@JishurDaraMohima
+@CatAi071
+@aisarkar83
+@TechnoVishal-p6r
+@SoraDoorbell
+@NovaMbt
+@Aianimalvideos2050
+@AnimeAIStudiu
+@AIFilmmakingAcademy
