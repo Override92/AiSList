@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42289
+! Total Channels: 42284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22698,7 +22698,6 @@
 @arbaz1613khan-zq5catsarbaz
 @S-CatStory
 @AiMeowZone
-@AistoryMOTIONs
 @NatureshockTV2
 @meowcatales-23
 @GoMeow-n7u
@@ -35342,7 +35341,6 @@
 @TheEternalCipherUS
 @BOLLYWOODWALAWRITER-p9b
 @noema-272
-@WerewolfDominion
 @BeingStoic365
 @GraceStoriesHub
 @WisdomLight_9999
@@ -35350,7 +35348,6 @@
 @DivineMysteriesoftheSaints
 @divineligthgonosticacademy
 @DivineTruthUS
-@StarEvolution90s
 @RevelationsOfTheSaints
 @iceberg5670
 @KrishnaMessageToday1111
@@ -35361,13 +35358,11 @@
 @ObsidianVeil-n9y
 @TheLastNurse
 @yungparham7599
-@Th%E1%BB%8BnhNGUYENHUUTHINH-z5h
 @RevengeReading
 @SamsDiary-v5f
 @Ultrarecap-h2n
 @GinRecap01
 @ManhwaRushYT
-@JaxsRevengeDomain-y2h
 @StoryConfession
 @FINALBETRAYAL-c5y
 @prythalize
