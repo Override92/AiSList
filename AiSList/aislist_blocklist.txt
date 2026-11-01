@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42298
+! Total Channels: 42297
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13680,7 +13680,6 @@
 @AFRICANSTORYFIRE556
 @TheWisdomTree-story
 @AncestralFiresideTales
-@Joxxstorytime
 @jamjamtales
 @afrotalescinema
 @YourFavouriteStoryteller-q2j
@@ -13701,7 +13700,6 @@
 @IfysAfricanTales
 @TalesbyLunchtime
 @WhenTheAncestorsWept
-@streetstories4
 @TalesByNkiru
 @WealthlegendAfrican112
 @StoriesWithOge
@@ -42314,3 +42312,4 @@
 @monitorsobitiy
 @timexplainsmoney-x9e
 @girls-era-animation
+@umbrarequiem
