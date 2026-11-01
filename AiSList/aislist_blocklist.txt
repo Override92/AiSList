@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44023
+! Total Channels: 44028
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44039,3 +44039,8 @@
 @HUMANNATURE-r2u
 @Vidiaai-l3j
 @DanceWildAi
+@FredSchank
+@IshpataAI
+@MetatronT1
+@Emberlore
+@builderstackhq
