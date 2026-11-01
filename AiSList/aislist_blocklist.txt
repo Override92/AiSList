@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42281
+! Total Channels: 42279
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5265,7 +5265,7 @@
 @ShiningStories-nbt
 @RetroHeartwarmingStory
 @Betrayal_Chronicles1
-@revengeactually
+@softspokendramachannel
 @RevengeRange-k9m
 @user-bo4en9vd8l
 @GwendolynsStories
@@ -14015,7 +14015,6 @@
 @EverythingSquatch
 @My_Ballz_Smell2
 @TalesAtDawn
-@Talesbythatigalaqueen
 @Aivlog19
 @Africantaless
 @YouCraveAfricanFolktales
@@ -25864,7 +25863,6 @@
 @usa80526
 @farm-echoestold
 @clikbgamesxxxxxxxxxxxxxxxx
-@thedragonchronicles.1
 @rajeshhansdah-47
 @velvetradionights-u1u
 @vision_synk_flow
