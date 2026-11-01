@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42535
+! Total Channels: 42545
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42551,3 +42551,13 @@
 @ApexBuildTech
 @KiddoodleAI
 @DKvlog-1Million
+@AIVaultFilms
+@theaichefuk6993
+@Sportoxyconcept
+@BibleStoriesbyPiers
+@OlegseyAI
+@MiniDramaGalaxy
+@EpoxyMaster43
+@talesbybella01
+@LordSnippet
+@AIChefPro
