@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44815
+! Total Channels: 44814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33621,7 +33621,6 @@
 @DuniaDracin
 @AutoPulse-0
 @PetangDrama
-@GF-ChinaCrush
 @%E6%AC%A3%E6%AC%A3%E7%9C%8B%E5%89%A7
 @JSKJBYyinni
 @Funnyanimations001-y6v
