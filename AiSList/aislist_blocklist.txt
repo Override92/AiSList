@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44044
+! Total Channels: 44049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44060,3 +44060,8 @@
 @BabyLaughFactoryLOL
 @UniverseGoneCraze
 @kuro_showtime
+@UntitledFrequency
+@Nollywoodnigeria-z2r
+@TheSpiritStory
+@CommitSmall
+@GeekLab_AI
