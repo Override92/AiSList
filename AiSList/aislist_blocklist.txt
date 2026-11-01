@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42721
+! Total Channels: 42729
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42737,3 +42737,11 @@
 @datascienceinyourpocket
 @MohdNadeem-v5p
 @HistoriaeHistory
+@WONDERFACTORYFILMS
+@AiStorycottonkids
+@Niopi-Designs
+@aikiduniya-t3y
+@EpicUniverse2
+@MadamMatrix
+@SkyPassApp
+@VeraNovaFilms
