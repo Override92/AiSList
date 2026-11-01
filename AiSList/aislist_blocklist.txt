@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44369
+! Total Channels: 44379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44385,3 +44385,13 @@
 @PharaohExplains
 @Verm%C3%A4chtnisderGeheimnisse
 @SilentBond-h8b
+@Deep-MindSI
+@DelamereCollective
+@the_10x_stack
+@CariIdeTV
+@SilentRevenge-223
+@DutyThunder
+@DrMarcusOfficial
+@BladeOfHistory
+@Badlakahani-n9j
+@RGirlTV
