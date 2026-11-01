@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44799
+! Total Channels: 44809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44815,3 +44815,13 @@
 @Conciencia_Artificial
 @MoneyMasteryhub.
 @yadampyeon
+@essentialtechbd5389
+@Blackropi
+@retrostellarstudios
+@SoftAtelier
+@GensparkAIOfficial
+@jmdarkside
+@ExtraordinaryVisualArt
+@WisnuAIPro
+@AICopium
+@fauzan.dramastudio
