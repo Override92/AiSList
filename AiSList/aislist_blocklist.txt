@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42655
+! Total Channels: 42665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42671,3 +42671,13 @@
 @CookingwithAI2
 @LifeAtMinus71C
 @BambuForge
+@Prabhakar_ai_animation
+@animations-v8
+@ChefTiger_ai
+@thecrAIzyfiles
+@coppermountainstudios
+@MOVEAi-t1f
+@HollowFrameAI3
+@aiduniyase
+@Pixelverse_TV
+@Uploadedmediatv
