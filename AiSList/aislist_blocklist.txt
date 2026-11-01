@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44619
+! Total Channels: 44629
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44635,3 +44635,13 @@
 @TartarianChronicles
 @%EB%B3%84%EB%B9%9B%EC%88%8F%EB%93%9C%EB%9D%BC%EB%A7%88
 @beckytheAiGirl
+@ScinTech17
+@FutureFictionAcademy
+@aiboss324
+@%E3%81%8A%E3%81%95%E3%82%8B%E3%81%AE%E6%83%91%E6%98%9F
+@xiaoqimanguan
+@taoxinjuchang
+@UltiDuniyaAI-c7n
+@what-matters-what-moves
+@creativecinematics
+@TheWayWeWere-d9m
