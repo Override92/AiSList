@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44179
+! Total Channels: 44189
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44195,3 +44195,13 @@
 @RockSoulOdyssey
 @GaayatriDagar
 @behindthestudio11
+@MannSur-Ai
+@JarvisAIPodcast
+@NandDevTech
+@NeRiaL_AI
+@KXMOfficials
+@L%C3%98PFM-s3q
+@LitVisionBooks
+@CadaPatente
+@Sound.Glider
+@Musicdhun90
