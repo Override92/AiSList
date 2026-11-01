@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43243
+! Total Channels: 43253
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43259,3 +43259,13 @@
 @ThinkBot.297
 @Fun_bz7ou
 @historymind79
+@MyAiLife
+@DaniDom%C3%ADnguez-b9g
+@RezuanaSiddique
+@DeaAmelia-q9g
+@JakeVlogg
+@History-Went-Feral01
+@CynicznaBabka
+@AshEchoesCinematic
+@AmericaNeedsaLaugh
+@NaynavsHistory
