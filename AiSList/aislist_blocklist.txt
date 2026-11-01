@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42844
+! Total Channels: 42854
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42860,3 +42860,13 @@
 @JesusIsLordTV-j9g
 @AbundantAI
 @QuickThink98s
+@FutureAIStory-o9z
+@bensonnaturespreschool
+@Aiinstarecipe1
+@OldGoodies-r5m
+@Uniquepodcast2004
+@BeingHuman-r4w
+@AIHistoricalHits
+@BrainRotTV-y2b
+@HassanAistudio-123
+@darkside_of_moonAI
