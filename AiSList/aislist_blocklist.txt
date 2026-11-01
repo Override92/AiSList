@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42749
+! Total Channels: 42759
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42765,3 +42765,13 @@
 @SinghFutureFlicks1313
 @FutureTaleAI123
 @YorubaAIFilms
+@AifilmsTV-r9v8y
+@AIBeastFilmsAnimalBattles
+@minianimationworld-r8t
+@AI_Time_Traveller
+@Aivideofilms26
+@RahulAiWorld.94
+@TorontoCinema01
+@PixelSeoul
+@CoolCalmCorrected
+@AIStoryVerse-n5e
