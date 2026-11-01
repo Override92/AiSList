@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44379
+! Total Channels: 44389
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44395,3 +44395,13 @@
 @BladeOfHistory
 @Badlakahani-n9j
 @RGirlTV
+@METALLIC-AI
+@SweetTheater-z9p
+@NNFSadLyrics
+@freightclub
+@dimaniaii
+@GeschichteEwig
+@SmartGadgetPicks-1
+@HerDarkRevenge-d9n
+@TheForgottenFrontYT
+@aipoweredmusic1
