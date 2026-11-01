@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 42997
+! Total Channels: 43006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43013,3 +43013,12 @@
 @vintagesignal-n5d
 @dreamboxcinema
 @秘事剧场
+@snoopysdreamyloops
+@AllDayLoFiChannel
+@Lofialpacapaca
+@PeopleWHYS
+@EuropeanTheatre
+@DarkTalesLab-q7y
+@w.f.syourdoctor
+@RainForestSleepAmbience
+@MilitaryHistory-c9b
