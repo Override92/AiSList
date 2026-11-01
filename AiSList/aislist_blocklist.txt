@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 43825
+! Total Channels: 43835
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43841,3 +43841,13 @@
 @maestropodcast
 @AImaginationTales-l7m
 @AXAfamily2026
+@FrontierFlame-c4s
+@ArtiVisualIntelligence
+@Comfortable_soil
+@everystage1
+@Skippy-Roo
+@gokucoreirl
+@AnimeZoneReviewAnimeAI
+@TomorrowsMetropolis
+@hkthe6
+@AIASLab
