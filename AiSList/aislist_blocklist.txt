@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44805
+! Total Channels: 44802
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6162,7 +6162,6 @@
 @caits_edm
 @narrativedrivenart
 @globalharmonydark
-@omnisoundsoul
 @noskinyt9497
 @mave_official
 @maikaz
@@ -21651,7 +21650,6 @@
 @LucydLoopASMR
 @Veluna-Asmr
 @AI__ASMR-Lab-e
-@SUSHI_asmr08
 @BioImpactt
 @ASMRDreamLab-g3g
 @AIASMRRealms
@@ -21741,7 +21739,6 @@
 @AI_SOUL_ASMR
 @SoftRill
 @plotglitch-en
-@abaddonia
 @fintechiq320
 @joystories11
 @egyptemeconnue
