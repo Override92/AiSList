@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45704
+! Total Channels: 45714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45720,3 +45720,13 @@
 @KittyDramas-1
 @AfroKoreanStories
 @Steven-Maredudd
+@MaggyStories-Tv
+@Nexiron-w5p
+@Koreandramanetflix-bd9ck
+@Afro-KoreanMafiaLoveStorie-s4d
+@StarbornVengeance
+@mn-AI-Studio
+@LOL_Hunters
+@Rathorehub25
+@FablesofAfrican
+@MorniKids12
