@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45064
+! Total Channels: 45071
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45080,3 +45080,10 @@
 @AgriSolarTech
 @LunaDeVirgo85
 @Double-Tap-i2k
+@StayAskew
+@TinfoilTheory
+@HomelabTheRightWay
+@TheMachinesOfHistory
+@Heleryon
+@j.a.vazquez5946
+@TheMachineNotebook
