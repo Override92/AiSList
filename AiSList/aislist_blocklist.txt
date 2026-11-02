@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45199
+! Total Channels: 45204
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45215,3 +45215,8 @@
 @thedrunkenimmortaltavern
 @ameliaveyra
 @lunavaldes_blues
+@tavernarez
+@e5withuarcive
+@slaintesessions
+@storyversex-5
+@sofiaalcazarr
