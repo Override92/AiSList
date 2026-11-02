@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44920
+! Total Channels: 44930
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44936,3 +44936,13 @@
 @expairock
 @kakurega-cafe
 @Undertone.channel
+@NISRANMOTIONPICTURES
+@slopstudiogames
+@deutsch_mit_rk
+@textcad
+@tokslab
+@CosmosOnRecord
+@WonderlyMysteries
+@SeniorTechSupportWithLarry
+@TwistTalesMangaDub
+@filezerohd
