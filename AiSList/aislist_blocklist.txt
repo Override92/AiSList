@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44813
+! Total Channels: 44808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35713,13 +35713,11 @@
 @ChildrensStoryHouse-1
 @naic22
 @KiddieQuest-e4e
-@YBRFolktales
 @MementoPast
 @ELE123-q8s
 @WowStories-s8s
 @WizFunKids
 @TheStoryOfTheUniverse1
-@Elowen_Yu
 @CalmingChronicle
 @HistoryyReloaded
 @TheStoryFireplace
@@ -35732,7 +35730,6 @@
 @Mulan88899
 @hermesdaniel4526
 @Gilded_Grievance
-@FairyTalesAll
 @filmgeekkyle001
 @Editors_voice
 @ordinarybranch
@@ -35748,7 +35745,6 @@
 @DarwaazaDastaan
 @DreamSeedStudioz
 @dynastypical
-@DukeStoriesByKay
 @HardwareNexus-t4b
 @dreamiaStudio
 @BeluStories-q6o
@@ -35801,7 +35797,6 @@
 @SilentDesire2.0
 @PrimalPulsePlots
 @XSoundStories
-@DuskRhythmStories
 @younesbaizid7552
 @CoffeeTales-l9g
 @TheBookofRebirth92
