@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45208
+! Total Channels: 45212
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36290,7 +36290,7 @@
 @TheAfterHoursRoom
 @chakrawellnesswithdag
 @LifeinWaryaume
-@iivonneeeeeeeee
+@ephrastudios
 @Negodyaev-f1y
 @wonderslam.official
 @RainMoodStudio-j2r
@@ -45224,3 +45224,7 @@
 @emberwoodjazz-g5n
 @quietwhisper2027
 @thevikingblues
+@elaveirasolenne
+@joao-h1j7u
+@lascronicasimposibles
+@lost-machines
