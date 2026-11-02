@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45199
+! Total Channels: 45201
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19989,7 +19989,6 @@
 @MindNuggetsssss
 @BossCatStoryVEVO
 @TabbyDays-o4u
-@cat.nyantaro
 @RAOSR87
 @kawaii_neko_kuru
 @cat-yu-chan
@@ -45215,3 +45214,6 @@
 @homeofmovies-247
 @annie_ai_tales
 @future-lore-af
+@foooieworldkitchen
+@igorotanimation
+@axelstory0
