@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45198
+! Total Channels: 45199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19890,7 +19890,7 @@
 @NekoDiary-z3m
 @HLMeowMeow888
 @neko-nan
-@AalamAIWorld
+@the_aalam_show
 @AngryEagleAi
 @magnific_ai
 @its.layers
@@ -24169,7 +24169,6 @@
 @wildernesssheltersbuilds
 @magic_kitchen_1k
 @transformimaan
-@everything_food_channel
 @aikazo-official
 @greatbelieve2021
 @thelastpayback-i5x
@@ -45214,3 +45213,5 @@
 @villagelifeinsouth
 @pappy_stories
 @homeofmovies-247
+@annie_ai_tales
+@future-lore-af
