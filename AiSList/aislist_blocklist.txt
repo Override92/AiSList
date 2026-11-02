@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45388
+! Total Channels: 45398
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45404,3 +45404,13 @@
 @AfricanMysteryVault-g5d
 @ConquestChords
 @ShockingAfricanTale
+@jojoaivisualzone-ahmad
+@wondernestkids2.0
+@CalmLittleMinds8
+@vikingoathstorm
+@RuneskaMusic
+@EchoVerseMusic-dome
+@mythologicalstoriesinhindi
+@AfricanNoblestories
+@Prodigium.Documentaries
+@ParadoxLab-12
