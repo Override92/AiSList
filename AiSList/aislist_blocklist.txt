@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44810
+! Total Channels: 44813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44826,3 +44826,6 @@
 @BCDrama-kk
 @EvercrestDrama-123
 @FallenSurgeDrama
+@DramaUHigh
+@ExoSci
+@SGNIGHT-p2i
