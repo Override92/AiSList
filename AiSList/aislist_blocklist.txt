@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45768
+! Total Channels: 45778
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45784,3 +45784,13 @@
 @Villagewonderai10
 @AfricanTalesBySomma
 @SweetPlotStudio
+@madebyJPproductions
+@baratstoryai
+@AlkotMusicLofi
+@RoyalAfricanDrama
+@AfricanTalesbyidia
+@LeosQuest
+@asmr_jellybot
+@shinystories99
+@PlotTwistHub-k2v
+@AylaRomanceStories
