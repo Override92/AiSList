@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44955
+! Total Channels: 44965
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44971,3 +44971,13 @@
 @RiseAndRuinPro
 @AmericaCutOpen
 @DarkrootEngine
+@kpopzone-off
+@7EightMade
+@AISoundCatalyst
+@Boraversemix
+@SparkXora
+@mintmarkhistory
+@NolanEntertainmentPH
+@LifeTold-z6t
+@ShreddersSerenity
+@VelvetReckoning999
