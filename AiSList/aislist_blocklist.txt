@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45988
+! Total Channels: 45993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46004,3 +46004,8 @@
 @synthesizersexplained
 @P-Talks-Alot
 @EliasYoderGardening
+@OPsRedditStorm
+@MobDocket
+@TheExecutiveReckoning
+@HowThough6
+@Psycherics
