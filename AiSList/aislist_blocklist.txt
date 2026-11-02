@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45655
+! Total Channels: 45665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45671,3 +45671,13 @@
 @HeartGritStories
 @vsion91
 @AfroDramasStories
+@Eichensturm
+@AfrikStory1
+@%E3%82%B3%E3%83%88%E3%83%90%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF
+@Storieggiando
+@AfrokoreanStoryHub-t9t
+@TheStorySyndicate-f6b
+@strawberrycat-animation
+@NovaTerran1
+@TearsThatTeachUs-%C3%A1
+@lunamourasmr
