@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45032
+! Total Channels: 45037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45048,3 +45048,8 @@
 @AtlanticFrontline
 @AsianGuyYT
 @DuskAtlasTV
+@UniverseDecodedHD
+@HiddenTruthsofJudgment
+@HFYForge88
+@LeidMusic-her
+@realuniversedecoded
