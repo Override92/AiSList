@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45298
+! Total Channels: 45308
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45314,3 +45314,13 @@
 @GoblinTavernMusic
 @sleepingbabytavern
 @TheHornlessUnicorn
+@AmbrosiatavernTales
+@KadetheBard
+@FluxStateLab
+@TalesFromTavern
+@BetterRespecRPG
+@carproblemsmax
+@DerekFiechter
+@Lord_of_Abundance
+@WanderersOakInn
+@EmberglowTavernSongs
