@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46003
+! Total Channels: 46008
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46019,3 +46019,8 @@
 @futureteknos
 @Solved_1
 @HumanityMilitaryHFY
+@WW2BattleFrontline3212
+@Savage-Peaks
+@papercat_lofi
+@Stahlriesen
+@NurseandBlueStories
