@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45077
+! Total Channels: 45081
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45093,3 +45093,7 @@
 @impactfactoryai
 @Aura.StudioYT
 @Hellboy-c2q
+@AskBarry
+@ThePromptShow
+@leonidabyte
+@OddlyTrue-m5y
