@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45398
+! Total Channels: 45408
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45414,3 +45414,13 @@
 @AfricanNoblestories
 @Prodigium.Documentaries
 @ParadoxLab-12
+@PocketMagicStories
+@MIRGRAV
+@UntoldSpaceStories-m3n
+@Africanlegendstories-q2t
+@Africanstoryversebyola
+@ZevianNyraStories-p7i
+@TheZenigma
+@ImagionKids
+@RavenSagas
+@BaobabFiresideStories
