@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1158
+! Total Channels: 1159
 
 ! Entries:
 @PapaMeat
@@ -1180,3 +1180,4 @@
 @NumonicLabs
 @WildCompanionsSurvival
 @MegaBuilds-US
+@walkthroughdatabase
