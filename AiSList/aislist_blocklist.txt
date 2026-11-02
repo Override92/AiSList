@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45168
+! Total Channels: 45178
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45184,3 +45184,13 @@
 @SCENOTELAB
 @ShogoLabs
 @Geisterprojekte
+@MoneyCovered32
+@ShortsNovaX
+@NEVRA-w3
+@BRAINcubed
+@ColoursMusicAi
+@NoctisBallroom
+@JNSGYn
+@NearlyPossibleOficial
+@MINOAS1900
+@Thebloomspacebygabriellabloom
