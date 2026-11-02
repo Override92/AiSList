@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45665
+! Total Channels: 45674
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45681,3 +45681,12 @@
 @NovaTerran1
 @TearsThatTeachUs-%C3%A1
 @lunamourasmr
+@UntoldAfricanlegends-n6u
+@hfysci-fizentra
+@xXSilverShadAmyXx
+@EchoesofValhallaOF
+@JackMusicOrigin
+@VikingMusicOfficial
+@MireyaMuse
+@AfroKoreanStories-u1w
+@HFYSternenChroniken
