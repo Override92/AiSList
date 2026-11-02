@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45368
+! Total Channels: 45378
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45384,3 +45384,13 @@
 @AncientStoryteller-h5y
 @magdalenalecznar8133
 @LostLamentHQ
+@aishamusa6245
+@UnsaidbySomya
+@AfricanHeritageStories-p9x
+@MythsofMidnight
+@AstroCycleStories
+@PappusiMagicLand
+@Nordforge-z2k
+@BeyondHumanity76
+@pakiaiasmrvideos
+@Colorful.ABCKids
