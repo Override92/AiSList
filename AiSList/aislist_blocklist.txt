@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44814
+! Total Channels: 44813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21631,7 +21631,6 @@
 @firdavs_qosimov
 @pooja-r3i6g
 @joker9898-x7i
-@pastloremedia
 @marujeong
 @thenightwhale
 @AItalesbyminah
@@ -23001,7 +23000,6 @@
 @F_Ceations_F
 @Mr.PeterForeverLoveStories
 @thestorycanvas01
-@GlobalFilipinoStories
 @AINIMALWORLD
 @AImaginary87
 @AIVideoCreativator
@@ -44830,3 +44828,4 @@
 @KanunPS
 @DIYSmartCode
 @Wildankidgenius-e9i
+@porquepasaesto1989
