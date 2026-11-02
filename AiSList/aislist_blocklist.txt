@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44975
+! Total Channels: 44985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44991,3 +44991,13 @@
 @lunaria._ofcc
 @MaxExplainsAI
 @WW3-Now
+@WeatherPath2
+@weatherChronicle
+@Visi%C3%B3nCu%C3%A1ntica1
+@HiddennovaOfficial
+@USAAndCanadaTradeWar
+@SSEOJINOfficial
+@MINAUDI%C3%88RECIN%C3%89MATIQUE
+@ainucucom
+@AI%E4%B8%80%E9%A1%B5%E4%B9%A6
+@OfficialUniverseDecoded
