@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45071
+! Total Channels: 45077
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45087,3 +45087,9 @@
 @Heleryon
 @j.a.vazquez5946
 @TheMachineNotebook
+@BrendaCleans
+@CaesarsBeats
+@AskJoanWhitaker
+@impactfactoryai
+@Aura.StudioYT
+@Hellboy-c2q
