@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45282
+! Total Channels: 45284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36354,7 +36354,7 @@
 @requiemnoirdarkwave
 @BelladonnaBlaze
 @LittleEasy_Th
-@SOULVNROOM
+@solarisenigma13
 @SarkTv-Eng
 @tsukimalrakmedia
 @mathewweichel1050
@@ -36450,7 +36450,7 @@
 @RhialtoCanada72
 @Beyondai-r3q
 @WillowLantern-r9g
-@losthistorytapes
+@streamingwarsai
 @SoundsOfpeace-2
 @AhnenrufEnglish
 @HelianaFulgarth
@@ -45298,3 +45298,5 @@
 @POVQuietFortune
 @Finance_In_Silence
 @GoldenSoulVibes-n2k
+@thelacrimora
+@эхоэра
