@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45606
+! Total Channels: 45616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45622,3 +45622,13 @@
 @StormRiderMusic
 @STORYTIME_NG
 @IstoriiNavsegdaGold
+@UcheChukwuStories
+@Thesongsofme-6725G
+@IronFjordX
+@HomeofAfricanStories
+@AstridStormborn
+@afroKoreanStories-g1p
+@diddistorytime
+@AfricanStoryVault2
+@TheFairyTaleVault99
+@HFYVanguard-l8u
