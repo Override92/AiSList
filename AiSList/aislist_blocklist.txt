@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45318
+! Total Channels: 45328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45334,3 +45334,13 @@
 @BackgroundFantasyMusic
 @ImmersiveFitGame
 @SoftMelts
+@TavernoftheDamn
+@PetFantassy
+@LittleDonsUniverse
+@LayaRhymes
+@taverncrowd
+@KIDSSHOW-i2j
+@Tubba-14
+@LumitaleKids-w2s
+@illeagulseagullzz
+@Planet-ASF
