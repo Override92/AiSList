@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45838
+! Total Channels: 45847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45854,3 +45854,12 @@
 @KevinPro-k1j
 @MythicPOVTales
 @HFYUniverse560
+@PearlStories-x8x
+@SunsetMelodyRadio
+@CozySmoothJazz-n5k
+@souleasee
+@TimelessNightBlues
+@FadedHarmony
+@relaxofficialstudio
+@vintagegrooveplaylists
+@Bestrivernois
