@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45866
+! Total Channels: 45873
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45882,3 +45882,10 @@
 @VinylWhiskers
 @DREAMALLIANCE
 @HyggeHearth
+@Sound.eScapes
+@HearthboundTavernMusic
+@stonesandembers
+@FrontierHopeOfficial
+@HighlandHermit-p1y
+@TheTNABOYZ
+@TheIronFrontier-r4b
