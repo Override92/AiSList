@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45744
+! Total Channels: 45754
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45760,3 +45760,13 @@
 @AsmrHUB-d8r
 @TearStories-9
 @RagnarokCircuit
+@CarolynDrama
+@african_cinema-999
+@WIldWestRomances-e4f
+@KaelvarIronvoice
+@shujaastories
+@EchoesofChivyne
+@Rhyen_Viking
+@BlackWealthTales
+@Nazghash
+@ShashaTales
