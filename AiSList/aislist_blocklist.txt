@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44813
+! Total Channels: 44815
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44829,3 +44829,5 @@
 @SGNIGHT-p2i
 @coltarchivesyt
 @kahaniverse264
+@POVrank2
+@WarCompass-v8p
