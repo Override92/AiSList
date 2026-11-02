@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44808
+! Total Channels: 44806
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29453,7 +29453,6 @@
 @Human-ElvesFiles
 @EveryRankPOV
 @Legendarypov-d3p
-@SuzyTheTimeTraveler
 @NextCivilization-e4n
 @curious_ape10
 @OrktenFilms
@@ -29464,7 +29463,6 @@
 @TechnologicalOrigins
 @100newjapancar
 @irfanhaider6621
-@Stick-c6y
 @Dreams_2_Destiny
 @PrimaryhistoryENG
 @WerpyK
