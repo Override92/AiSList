@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45808
+! Total Channels: 45818
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45824,3 +45824,13 @@
 @MrMeow-f6i
 @AICutieWorldOfficial
 @MojiASMR2
+@alexAI-j2t
+@DreamyASMR-r7x
+@OddlySatisfyingAIASMR-y2x
+@ASMRJESSI-u8j
+@ASMRCute1212
+@Asmr8.2MSubscribers
+@AbcAsmr-e3y
+@AI_DuckOfficial
+@RaiKhan-i5n
+@wolfstori
