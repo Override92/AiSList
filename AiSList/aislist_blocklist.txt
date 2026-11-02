@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45308
+! Total Channels: 45318
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45324,3 +45324,13 @@
 @Lord_of_Abundance
 @WanderersOakInn
 @EmberglowTavernSongs
+@BardsnBeats
+@LoreWielders
+@TheBardsCodex
+@TheLastLute
+@GoblinEXE
+@TalesUnderTheOak
+@LegendsofAfrican
+@BackgroundFantasyMusic
+@ImmersiveFitGame
+@SoftMelts
