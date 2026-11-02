@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44940
+! Total Channels: 44946
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44956,3 +44956,9 @@
 @TonyTheDoodle
 @FirstFire.v
 @Upgrade_Radar
+@TheBonsaiHaven
+@irisangelsinger
+@ChramboBeats
+@thedeepisalive
+@ladyofesponia
+@hallucinationhits
