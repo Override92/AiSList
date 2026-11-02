@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45828
+! Total Channels: 45838
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45844,3 +45844,13 @@
 @MagicMeadowReadsalong
 @DarkTaleStudio99
 @FenThePup
+@TinyTunesClub-k1r
+@west-storyes
+@FallingAsleepinHistory
+@WildWestStories-d4n
+@Unclefrancistales
+@LumoraTalesTV
+@MYTHORIA-x7i
+@KevinPro-k1j
+@MythicPOVTales
+@HFYUniverse560
