@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45798
+! Total Channels: 45808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45814,3 +45814,13 @@
 @TheRedKing
 @africanfolktalesbyamaka-e5y
 @african-history-fountain
+@TheEggsmr
+@HavenFlowASMR
+@KidSparkStories4kids
+@StellarBattleships
+@Ovafrokoreanstories
+@unreal-n3i
+@SugarBerryASMR
+@MrMeow-f6i
+@AICutieWorldOfficial
+@MojiASMR2
