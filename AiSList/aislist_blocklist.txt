@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45508
+! Total Channels: 45518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45524,3 +45524,13 @@
 @KikiWorldofficial
 @Linda-SagaStudio
 @StorySparksLesson
+@soldier_history-j3b
+@AfricanFolktaleMabeth
+@RavnbornLore
+@TheChroniclesOfProfessorTime
+@Tinglfy
+@African-Heartbeat
+@mdcreat-tv
+@OmegaFateChronicles
+@FenrirsCall
+@Forgotten_Sagas
