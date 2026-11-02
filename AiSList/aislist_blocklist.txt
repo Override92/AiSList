@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46033
+! Total Channels: 46035
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46049,3 +46049,5 @@
 @Sea.fury.89
 @FILMO-Xx
 @peach_and_friends
+@Faithafricanstories-l5e
+@RoseAfricanFolktales
