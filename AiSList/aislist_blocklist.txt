@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46026
+! Total Channels: 46033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46042,3 +46042,10 @@
 @thinkjesusnetworkwithbenjamin
 @HuhReallyPOV
 @povHistory-j7l
+@VanessasHOA
+@MikeKnight461
+@AIRecastOfficial
+@DeadCuriousHistory
+@Sea.fury.89
+@FILMO-Xx
+@peach_and_friends
