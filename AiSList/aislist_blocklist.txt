@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44910
+! Total Channels: 44920
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44926,3 +44926,13 @@
 @CabinHoursAmbience
 @KpopWaveWorld
 @FILMLIKE-AI
+@CaseReplays
+@StoneAgeFirsts
+@NeuralMusicHall
+@MinayuiAiMusic
+@ddal-P-m4s
+@nagitsuki_music
+@SKZVIBES-r3v
+@expairock
+@kakurega-cafe
+@Undertone.channel
