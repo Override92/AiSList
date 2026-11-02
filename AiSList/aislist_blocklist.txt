@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45037
+! Total Channels: 45045
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45053,3 +45053,11 @@
 @HFYForge88
 @LeidMusic-her
 @realuniversedecoded
+@HiddenTruths-y8
+@MapleStudioMusic
+@ianovelasdrs
+@HiddenTruthsUncovered-k9p
+@CanalDi%C3%A1riodoMundo
+@HiddenTruthStories-r1s
+@VELORAOfficial-ryu
+@HiddenTruthStories-c1e
