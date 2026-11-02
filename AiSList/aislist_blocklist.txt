@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44877
+! Total Channels: 44880
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44893,3 +44893,6 @@
 @kuroto2000
 @TheEarthMuseum
 @isidoritofilms
+@MicroCinema-g3e
+@DailyHealingPrayers
+@SoniA-LCM
