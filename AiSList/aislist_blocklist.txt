@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45873
+! Total Channels: 45879
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45889,3 +45889,9 @@
 @HighlandHermit-p1y
 @TheTNABOYZ
 @TheIronFrontier-r4b
+@PrairieHearts-vn
+@Thenamelessgunman
+@nightsniperwoman
+@RealKarLevel
+@MaestraCharlotte
+@Maestra.Kaelen
