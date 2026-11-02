@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45518
+! Total Channels: 45528
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45534,3 +45534,13 @@
 @OmegaFateChronicles
 @FenrirsCall
 @Forgotten_Sagas
+@fenrirsongs
+@ThePlayfulMunchkins
+@PlagueTerranHFY
+@vibewithpamasFolktales
+@Luna_ai_asmr-365
+@AfricanStoriesByDaks
+@nadorich-f4y
+@SunsetAfricanStories
+@TheVelvetMoon-f9t
+@ZamiraFolktales
