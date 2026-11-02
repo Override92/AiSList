@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45919
+! Total Channels: 45929
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45935,3 +45935,13 @@
 @mayatanakacleansyt
 @EarthNewsDocs
 @Capitol-Signal
+@DuiLingDing
+@AryanEditz101
+@J44d3_Music
+@Alex_Ronnie23
+@WW2Arsenalst1
+@CobbHollow
+@BroadusVittum
+@TheMonochromeArchive
+@RealFictionStudio
+@WW2LifeUncovered
