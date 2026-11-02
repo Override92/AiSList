@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44890
+! Total Channels: 44900
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44906,3 +44906,13 @@
 @FuuMaroMusic
 @abhishekjha2719
 @gensohatago
+@vibecodedmoney
+@WildAI-10
+@BeforeLongTV
+@gwangya_ai
+@forvexdev
+@AJMythicFrame
+@aikitten-g3d
+@AIVisualStudio-YT
+@LaCuentaDelLapiz
+@AIWorkflowHubHQ
