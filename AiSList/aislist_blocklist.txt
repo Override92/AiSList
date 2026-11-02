@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45197
+! Total Channels: 45199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26005,7 +26005,6 @@
 @AloraSaraii
 @kikaifilms77
 @AI-Films-Hub
-@MythicTalesAI-y4l
 @YanLe_AIGC_Films
 @AISTUDIO-1-l1r
 @JH-kk31
@@ -36122,7 +36121,7 @@
 @jeffreyshieh335
 @wacananta
 @JesusEncountersMusic
-@Filmaishow
+@frecuencianocturnax
 @mohamedabdelsalam2066
 @LumiaCreations
 @halowakemusic
@@ -45213,3 +45212,6 @@
 @igorotanimation
 @axelstory0
 @thinkly-x8j
+@thedrunkenimmortaltavern
+@ameliaveyra
+@lunavaldes_blues
