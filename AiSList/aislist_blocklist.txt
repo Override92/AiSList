@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45023
+! Total Channels: 45032
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45039,3 +45039,12 @@
 @FinanceFocus-HQ
 @DNAsBuriedHistory
 @DailyCareUpdate
+@Chronologies-k2w
+@BlackHorizon-i8o
+@BlackHorizon-c2k
+@BeyondOriginsMedia-5
+@BattleSignal-l3d
+@Axiom-Horizon
+@AtlanticFrontline
+@AsianGuyYT
+@DuskAtlasTV
