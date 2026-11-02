@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45724
+! Total Channels: 45734
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45740,3 +45740,13 @@
 @bread.asmr_295
 @HFYDeutschland
 @LawaiMusic
+@Myfolktaletv
+@africanlichi
+@StorytimeByLilly
+@JellyHamsterASMR
+@EchoesofAfricanFolklore
+@%EA%B9%A8%EB%AC%BCASMR
+@mrmandaratvmain
+@Honeybee-AsMr
+@GRIMDARK40000
+@BrainRelaxTV1
