@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45045
+! Total Channels: 45054
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45061,3 +45061,12 @@
 @HiddenTruthStories-r1s
 @VELORAOfficial-ryu
 @HiddenTruthStories-c1e
+@SensorToShelf
+@DadHiddenTruths
+@Voltmind-o7t
+@HiddenTruthsTV-q1t
+@akari_sasayaki
+@TheFutureArchivesTV
+@ReSound_Gaming
+@rualab
+@PurpleUniverseD-b7w
