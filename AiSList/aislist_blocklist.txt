@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45128
+! Total Channels: 45138
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45144,3 +45144,13 @@
 @ShunkanSignal
 @BUNNIXMUSIC
 @Fire%E6%B6%85%E6%A7%83%E5%8A%87%E5%A0%B4
+@InsideModernMaking
+@neilthenumbersguy
+@xingaicook
+@larbomusic
+@StrangeUniverseChannel
+@andersolofsson8066
+@ai_studiomusic
+@DivineEcho555
+@OtoyasumiASoundBreak
+@theofflinesignal
