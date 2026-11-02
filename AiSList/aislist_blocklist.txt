@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44900
+! Total Channels: 44910
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44916,3 +44916,13 @@
 @AIVisualStudio-YT
 @LaCuentaDelLapiz
 @AIWorkflowHubHQ
+@the_briefing_desk
+@JoecarriganYT
+@TheFrontierLedger-j1s
+@storyofamericanpeople
+@SomethingOnlineAudio
+@voduai
+@TechScope-c9p
+@CabinHoursAmbience
+@KpopWaveWorld
+@FILMLIKE-AI
