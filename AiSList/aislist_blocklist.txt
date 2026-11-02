@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45148
+! Total Channels: 45158
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45164,3 +45164,13 @@
 @AmericanSpotlight-z8b
 @KarmaRift
 @TheForgottenFrame247
+@promptsig
+@Sons_do_Futuro
+@AISAIMusicandStuff
+@after_lorn
+@Universodasfrutass
+@AIKellogg
+@Jack-Knows-How
+@Quantum-v6f
+@JayJessExplore
+@adelowotobiloba8800
