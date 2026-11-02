@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45097
+! Total Channels: 45102
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45113,3 +45113,8 @@
 @Hauntedharyanvi
 @TheDustMusic
 @GildedAlmanac
+@Ikaros_Music
+@RakutenMobile_Real
+@MAKIEXISTS
+@SidequestSignalTV
+@KAZEVAstudios
