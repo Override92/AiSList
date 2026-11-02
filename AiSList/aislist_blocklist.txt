@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45857
+! Total Channels: 45866
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45873,3 +45873,12 @@
 @SilbermondSaga
 @VollmondAlpha
 @AdelsstolzLeidenschaft
+@BattleMarshalStories
+@HeartlineStories9
+@JenniesSecretVerdict
+@MarcinSmith-v9z
+@Psylora-YT
+@2DDigitalAnimatino
+@VinylWhiskers
+@DREAMALLIANCE
+@HyggeHearth
