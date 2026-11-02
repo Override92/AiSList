@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44803
+! Total Channels: 44798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -26922,7 +26922,6 @@
 @HistoryforSleepTonight
 @M%C3%BAsicaB%C3%ADblicaInstrumental
 @SancteFortis
-@DustandGloryRadio
 @VeilofEmbers
 @AnimalThrough
 @BC-kk08
@@ -28403,7 +28402,6 @@
 @CosmicMysteriesTV9
 @EdgarPlays-b3r
 @SwordSpeed
-@UtalkMedia-Gh
 @PortraitAI
 @TheCapitalDocket
 @hiddenheritage51
@@ -28557,7 +28555,6 @@
 @dpcartoonai-v6k
 @aiomoあいおも
 @musicabiblicainstrumental
-@pupcafe-r4u
 @sergiopinto-k5t
 @kiransoundlab
 @iasked-ai1
@@ -35981,7 +35978,6 @@
 @midnightmonktv
 @the_zenmasters
 @Buddhasfootsteps2
-@VictorianSleepStories
 @TheSleepyChroniclesYT
 @JungAtNight
 @Night_Prayer-p2m
@@ -36007,7 +36003,6 @@
 @JewelVerdict
 @Turbotalk-u7i
 @FlatTire-TV
-@WildRevivalYT
 @footnotes-of-azeroth
 @BrandRewindUS
 @explainedsimplywhatif
