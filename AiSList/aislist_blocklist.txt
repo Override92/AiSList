@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44930
+! Total Channels: 44940
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44946,3 +44946,13 @@
 @SeniorTechSupportWithLarry
 @TwistTalesMangaDub
 @filezerohd
+@ChiamakaEuniceAIhub
+@SShadowMusic
+@FeelItReal-1
+@TheoriaRooms
+@synap_sua
+@ChloeKao0914
+@SajuSagorMusic
+@TonyTheDoodle
+@FirstFire.v
+@Upgrade_Radar
