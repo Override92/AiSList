@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45788
+! Total Channels: 45798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45804,3 +45804,13 @@
 @taleswithogenne
 @NatsuSurrealASMR
 @SlowEnglishwithTommy888
+@FolktalesbyEliAnimations
+@AfricantalesbyIfem
+@xyrobrainrot
+@3DCOR
+@HindiParivarSangam
+@OpeyemiiStoriesSpot
+@KittensDreamYT
+@TheRedKing
+@africanfolktalesbyamaka-e5y
+@african-history-fountain
