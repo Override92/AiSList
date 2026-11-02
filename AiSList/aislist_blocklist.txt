@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45102
+! Total Channels: 45108
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45118,3 +45118,9 @@
 @MAKIEXISTS
 @SidequestSignalTV
 @KAZEVAstudios
+@KavithaMunipalli-u4k
+@PocketProfessorPro
+@knowledgeloophq
+@theyellowbubbleofficial
+@EpochThread1
+@oldlightsleep
