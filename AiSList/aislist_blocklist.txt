@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45338
+! Total Channels: 45348
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45354,3 +45354,13 @@
 @GooberBeatz
 @vidar_company-j5d
 @HFYNexus-i9n
+@galaxyscifiknowledge
+@TinyWorldASMR-222
+@SanaEntertainment-m6p
+@ValstyrUK
+@giglegarden
+@CowboyIronwood
+@fantasynextdoor
+@StoryForgeByEtioma
+@TheEpicTavern
+@SensoryAIASMR
