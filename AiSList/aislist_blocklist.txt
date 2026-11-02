@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 44867
+! Total Channels: 44877
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44883,3 +44883,13 @@
 @DisasterToday
 @PureZenSpace
 @Music_Channel02
+@MilitaryFactory2026
+@neuralstack-p5d
+@theresanaiforit
+@NerdyRodent
+@Prasstwn22
+@KuBiLab
+@ASURAGI
+@kuroto2000
+@TheEarthMuseum
+@isidoritofilms
