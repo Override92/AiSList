@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45458
+! Total Channels: 45468
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45474,3 +45474,13 @@
 @Africanfolktale-e9b
 @Epic_North
 @DarkAfricanStoriesYT
+@Janice-y2w5o
+@FredTheEternal
+@TerranSagaHFY
+@wadehinson
+@EchoesofNorr
+@EternalLoveNovelsus
+@VoicesBeyondLegends
+@HfyUnknownHumanUniverse
+@szeptucha.official
+@vincentpham5920
