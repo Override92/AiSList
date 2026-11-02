@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45092
+! Total Channels: 45097
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45108,3 +45108,8 @@
 @aidocumentry2.0
 @TechPulse-op
 @floriankovacs3261
+@CosmicResonance_Lab
+@NAK_Tech
+@Hauntedharyanvi
+@TheDustMusic
+@GildedAlmanac
