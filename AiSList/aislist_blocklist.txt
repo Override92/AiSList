@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 45081
+! Total Channels: 45087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45097,3 +45097,9 @@
 @ThePromptShow
 @leonidabyte
 @OddlyTrue-m5y
+@MidnightEcho-9
+@DollyDress-Up
+@Farcrest
+@CuriousCosmosFiles
+@izumijapanart
+@ForgottenMinesofOregon
