@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46488
+! Total Channels: 46498
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46504,3 +46504,13 @@
 @Techfeel-h8k
 @PerspectiveOfMind-i4f
 @LegendsoftheOldWest-p8n
+@Nagomi-Room
+@ytnoteworthy
+@Dreamline_movies
+@DJRocDaemon
+@talesfromaboveofficial
+@ch1pcs2
+@TroveofAmbience
+@TheCaveofIdeas1
+@mggodstudio
+@AMYVEO-n1g
