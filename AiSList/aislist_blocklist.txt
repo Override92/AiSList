@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46284
+! Total Channels: 46287
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46300,3 +46300,6 @@
 @GEOLOGYINFO
 @UltaX-e8g
 @%E7%9C%A0%E3%83%8E%E3%83%9D%E3%83%8B
+@TheChillestPalace
+@VoiceofPurpose-w7g
+@HitchResurrected
