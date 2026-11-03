@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46454
+! Total Channels: 46455
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46470,3 +46470,4 @@
 @PaperTrailStoriesYT
 @rebequeofficial
 @bootcampstories-re
+@HavenAmoria
