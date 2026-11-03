@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46341
+! Total Channels: 46340
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12266,7 +12266,6 @@
 @ElizabethsHiddenStories
 @Neighborsfromhell-k3b4k
 @RedditStoryHour
-@UnderSparked
 @Prodigy_Tales
 @loveandfreedompath
 @KarenStoriesCentral
