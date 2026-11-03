@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46344
+! Total Channels: 46343
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9817,7 +9817,6 @@
 @ReenuSahu-wx3ho
 @slai_darktrail
 @raydoesai
-@top100real
 @BrrRotAmazeOfficial
 @iShowDiscoveries
 @dhawanth27
@@ -27310,7 +27309,6 @@
 @sinenottr
 @corridossinregreso-n1w
 @bunnybeartunes
-@legacyrevivestudio
 @philip-anthonymitchell-b6w
 @goldenbrownbgm
 @WorldOfArt2026
@@ -46360,3 +46358,4 @@
 @inspectormews
 @dossiersmoteur
 @marvelonearth5
+@humanoriginlabevolution
