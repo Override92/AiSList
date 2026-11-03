@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46345
+! Total Channels: 46344
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13123,7 +13123,6 @@
 @bonaIdeaPro
 @officialsoundrave
 @nightfallmusic-w2p
-@timelesong
 @amishtraditiontv
 @foreignersreactyt
 @glos-wiary0
