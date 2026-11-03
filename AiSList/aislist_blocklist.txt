@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46347
+! Total Channels: 46345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15346,7 +15346,6 @@
 @Doorbell_Video-m7t
 @CaughtByTheDoorbell
 @DoorbellCCTV
-@jordanjerome7569
 @KnockAIVideos
 @DoorbellHub
 @PorchChaos
@@ -20564,7 +20563,6 @@
 @HOACourtFiles
 @chivo7666
 @CrazyHOATales1214
-@HOAPULSE-x7e
 @hoaofficialstories
 @hoakarentales_786
 @HoakarenTales786
