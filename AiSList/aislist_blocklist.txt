@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46448
+! Total Channels: 46453
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46464,3 +46464,8 @@
 @DaltonDiscovery
 @TractorsBusinessYT
 @GentleScrubStories
+@GritGlowHFY
+@Numeronaut
+@ForgottenBases
+@HerJustRewards
+@PaperTrailStoriesYT
