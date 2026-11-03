@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46379
+! Total Channels: 46385
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46395,3 +46395,9 @@
 @VikingStrengthMix
 @BerserkrViking
 @VALHALLACALLING.viking
+@VikingScream
+@CHRISTIANVIKING-l1k
+@Vikingspirit_ms86
+@VikingChronicles3
+@ChristianVikingMusic
+@FijordMoonlightViking
