@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46214
+! Total Channels: 46224
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46230,3 +46230,13 @@
 @TheRiderWithoutHome
 @Epicnightstories
 @WildwestLoveStory71
+@FieldLegendsYT
+@BoringHistoryStoryRelaxing
+@WesternRedridge
+@WhispersoftheWildWest-n1k
+@MysteriousWildWeststories
+@WestboundTalesStories
+@Lyraromancelibrary
+@WorldRomanceStories
+@lovelines257
+@RomanceBeyondThePorch
