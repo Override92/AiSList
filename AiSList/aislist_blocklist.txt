@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46642
+! Total Channels: 46651
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46658,3 +46658,12 @@
 @abdelrahmanraef4270
 @ChromeRequiem9
 @CrimsonEchoesUS
+@QuietlyToldNewYork
+@cinemeticpoprock
+@BeatHollow-d5h
+@DustyRoadhouseBlues
+@Midnight-Jazz-Blues
+@MidnightHollowBlues-n4k
+@MidnightDivines
+@DeepSoulMelodyBlues
+@ParisMelodyLounge
