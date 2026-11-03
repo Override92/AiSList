@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46234
+! Total Channels: 46244
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46250,3 +46250,13 @@
 @MelaninRomanceStories
 @Moonbeamfictionstudio
 @ProductionPulse69
+@storiesbyariavale
+@SoothingPod
+@JonsFinanceForge
+@LoveBeyondRules
+@thelegendaryvoice
+@BedtimeRomanceStoriesForSleep
+@HDNOVELSTORY
+@AdriansFiresideStories
+@SweetRomanceStoriesLB
+@BossMaidRomance
