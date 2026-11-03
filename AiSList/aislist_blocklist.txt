@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46558
+! Total Channels: 46568
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46574,3 +46574,13 @@
 @ZapomnianaPrawda-x3t
 @ZapomnianeImperium
 @Luxomnis
+@ZapomnianeTwarze
+@Larwill-OmniGothic-NeoFuturist
+@ZapomnianePojazdy
+@OmnixStories
+@global_list
+@SomniLore1
+@SomniaAcademy
+@YouOmnisent
+@OmniLoreDaily
+@ZEMLYAPOMNIT
