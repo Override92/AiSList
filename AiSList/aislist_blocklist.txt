@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46610
+! Total Channels: 46612
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46626,3 +46626,5 @@
 @nightleash-k6o
 @wararchiveschannel
 @GrillWithBillGWB
+@AmericanMilitaryNetwork
+@Chriskimbleshow
