@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46244
+! Total Channels: 46254
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46260,3 +46260,13 @@
 @AdriansFiresideStories
 @SweetRomanceStoriesLB
 @BossMaidRomance
+@RomanticStories-v
+@VelvetCrownStories-l5c
+@TwistedHeartsStories-f7g
+@ChloeBennett127
+@AlmightyShadow-l3v
+@sliverstorye
+@Forbiddenloveab94
+@dreamscaperomance
+@RomanceandLoveStories
+@ShelfiePublishing
