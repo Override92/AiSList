@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46343
+! Total Channels: 46345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24635,7 +24635,7 @@
 @chase-profit
 @TenyAiZone
 @EousufYTC
-@mojasshendage2716
+@mojasshendge07
 @vuela-ai-video-generator
 @Segmind_ai
 @GrowWithMosh
@@ -46359,3 +46359,5 @@
 @humanoriginlabevolution
 @texaspulse-yt
 @kron-3d-tv
+@speaksphereindia
+@afterwordstales
