@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46588
+! Total Channels: 46594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46604,3 +46604,9 @@
 @sora.clips1
 @ProfessorAdventureHQ
 @NadaBersorak
+@SorayaBevington
+@NatureSoraTV
+@professorantares
+@SoraMelody-g1b
+@TheCausora
+@JellaandJollytheFriendlyPets
