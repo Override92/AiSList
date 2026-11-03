@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46346
+! Total Channels: 46341
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18643,7 +18643,6 @@
 @OddHistoryBites
 @FolktaleDynasty
 @VictoriaStoryverse
-@BanditStories9
 @VillageEchoStories
 @nickiperrystudio
 @AfricanTalesStudiosTV
@@ -23124,7 +23123,6 @@
 @son_music-21
 @brain_cave-v2c
 @ailuna_official
-@explainerlensus
 @Frontiertales7
 @TheWesternLegends-28
 @TalesFromMercyRidge
@@ -37051,7 +37049,6 @@
 @luckytoons9
 @Aicartoons2027
 @aloogobhitv75
-@Ai_Toons_7
 @vegcartoonsvideos
 @aicartoonscreen
 @Kartoonio
@@ -37296,7 +37293,6 @@
 @WonderWilds-r2k
 @BrightSavingsUK
 @WhereFoodBegan
-@alex_emia
 @ShamisenSerenity
 @potatomusicstudio
 @autoupdates10
@@ -37338,7 +37334,6 @@
 @EdNashsMilitaryMatters
 @THEstoriesofHumans
 @battlefieldchronicles02
-@TheQuietVeteran
 @KindNurse-m3q
 @SheFightsFirst
 @feastzone01
