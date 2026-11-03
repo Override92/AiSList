@@ -31,16 +31,16 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 8576 |
-| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 6889 |
-| 🥉 3 | [@www2](https://github.com/www2) | 4272 |
-| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 3545 |
-| 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2226 |
-| 6 | [@magikarp](https://github.com/magikarp) | 589 |
-| 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 399 |
-| 8 | [@Beavermafia](https://github.com/Beavermafia) | 382 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 9157 |
+| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 6938 |
+| 🥉 3 | [@www2](https://github.com/www2) | 4293 |
+| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 3548 |
+| 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2230 |
+| 6 | [@magikarp](https://github.com/magikarp) | 756 |
+| 7 | [@BallsMcTits](https://github.com/BallsMcTits) | 400 |
+| 8 | [@Beavermafia](https://github.com/Beavermafia) | 385 |
 | 9 | [@Oflogon](https://github.com/Oflogon) | 342 |
-| 10 | [@tomjas1963](https://github.com/tomjas1963) | 319 |
+| 10 | [@tomjas1963](https://github.com/tomjas1963) | 320 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
