@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46342
+! Total Channels: 46348
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46358,3 +46358,9 @@
 @%E6%80%80%E7%AE%80%E5%89%A7%E5%9C%BAshortTV
 @ForksofWar
 @JChanellStudios
+@VikingRapMusic
+@VikingBloodOfficiall
+@VikingBassRealm
+@Dachshund_Hersheycookie
+@RavenAstros
+@ErikRune.official
