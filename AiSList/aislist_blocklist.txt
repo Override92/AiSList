@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46287
+! Total Channels: 46294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46303,3 +46303,10 @@
 @HitchResurrected
 @pommi1m
 @happykitchen-g3l
+@USSRUncovered
+@TheUSSRDossier
+@HangarFiles22
+@JusticeCourt-n5h
+@JimJChronicles
+@atFullPowerAmerica
+@MochiKittyzzz
