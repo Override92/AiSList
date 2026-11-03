@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46528
+! Total Channels: 46538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46544,3 +46544,13 @@
 @loveolive-Miz
 @paulmccartneyarchives
 @astraveo
+@radnostalgia
+@TechMi
+@Coreveo-yt
+@VDMuscle
+@ELTEMPLODELTAO
+@ArchiveoftheUniverse1
+@gutaiart
+@GunsYouCantLiveWithout
+@grinchannel68
+@ImmortaLineUs
