@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46369
+! Total Channels: 46379
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46385,3 +46385,13 @@
 @MelodineViking
 @VikingosDePalo
 @VikingStromSong
+@USMilitaryArea1
+@VikingFlame
+@ChristmasJazzInstrumentalMC
+@SailingintheNorth
+@VikingsoftheCross
+@VIKINGS_MUSIC_RADIO
+@CelticVikings
+@VikingStrengthMix
+@BerserkrViking
+@VALHALLACALLING.viking
