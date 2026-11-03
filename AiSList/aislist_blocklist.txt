@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46453
+! Total Channels: 46454
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12213,7 +12213,7 @@
 @ITellComic
 @Galaxyoftitans
 @TheNellop
-@watcherstories
+@ayykubaa1
 @WarhammerTheorist
 @FlightTales-x3w
 @TheWornRecord
@@ -25387,7 +25387,6 @@
 @BophiromMao
 @Mr_SkeletonAI-d6q
 @Marvel-DC_AI
-@z_edits_07-f3b
 @AICinematicUniverse5
 @SoundMotionAI
 @AiUniverse-w8u
@@ -46469,3 +46468,5 @@
 @ForgottenBases
 @HerJustRewards
 @PaperTrailStoriesYT
+@rebequeofficial
+@bootcampstories-re
