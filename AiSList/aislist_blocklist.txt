@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46294
+! Total Channels: 46295
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20545,7 +20545,6 @@
 @주식을예술로
 @northtexasunexplained
 @castuniversee
-@finance.wood.creativity
 @TheWealth_Logic
 @ReactorMind
 @FairyLogAI
@@ -46310,3 +46309,5 @@
 @JimJChronicles
 @atFullPowerAmerica
 @MochiKittyzzz
+@pakistangotlatentofficial
+@fairylogofficial
