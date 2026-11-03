@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46129
+! Total Channels: 46136
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46145,3 +46145,10 @@
 @DisturbingHorrorStories-r8f
 @TheTalesOf_History
 @storylitehindi
+@StoreysMedia
+@DreamPassport4dreams
+@Storiesandtales-c5l
+@TheDarkArchiveDocs
+@CowboyLongmesa
+@TheManWithNoName-yt
+@wild_westernlagcey
