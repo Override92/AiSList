@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46548
+! Total Channels: 46558
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46564,3 +46564,13 @@
 @FOE.FiveofEverything
 @MagicBoatai
 @Cryosciurid
+@INSOMNIFACTS
+@KoronaZapomnianychDziej%C3%B3w
+@SomniaRomana
+@OmniSonicHorizon
+@InsomniacChronicler
+@SleeplessInsomniac17
+@Bnzomnia
+@ZapomnianaPrawda-x3t
+@ZapomnianeImperium
+@Luxomnis
