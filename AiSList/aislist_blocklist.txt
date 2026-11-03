@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46254
+! Total Channels: 46264
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46270,3 +46270,13 @@
 @dreamscaperomance
 @RomanceandLoveStories
 @ShelfiePublishing
+@Vintagemic-tales-k9f
+@Ebonstories-iq4nv
+@LikeOnMusics
+@GayStoriesChronicles
+@Crown-Roses-Lovestories
+@AlphaLunaTales
+@Heart.Echo.Guitar
+@CedarsChristianAnimation
+@FrameNarrative-o6z
+@FallenAngel077
