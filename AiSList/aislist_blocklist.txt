@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46408
+! Total Channels: 46418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46424,3 +46424,13 @@
 @Wondrcore
 @TheSteadyMechanic
 @pasttimetravelsyt
+@WW2Battlegrounds-d5z
+@StarShowdownsTV-03
+@DramySudby-90
+@FieldManualYT
+@draftdriftmusic
+@WadesUTVGarage
+@%D0%BF%D0%B5%D1%80%D0%B2%D0%BE_%D0%B1%D1%8B%D1%82%D0%BD%D1%8B%D0%B9
+@WarzoneCompass
+@1nners0phy
+@StoicDavid
