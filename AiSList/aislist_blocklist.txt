@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46388
+! Total Channels: 46398
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46404,3 +46404,13 @@
 @imstudent100
 @dreamdiggers-z3d
 @facts_with_fun_07
+@LulaMaggardKitchen
+@HFYRetribution
+@TheOtherSideofWW2-d8y
+@MagicTurdFish
+@HumanVictories
+@HONORPLATOON
+@GalacticHFYStories-k8q
+@whyinmotiontv
+@HFYGrimDeathworld
+@BitterHeartStories
