@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46156
+! Total Channels: 46166
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46172,3 +46172,13 @@
 @margaretwadewestern
 @ForgottenWildWest
 @TheWildWestStories01
+@Mruzi8
+@Maryswesterndiaries
+@WesternRedcanyon
+@WildWestLove-m7b
+@CowboyNightmesa
+@LoganStories
+@WesternFrontier9
+@HumanAlienPhilosophy
+@HiddenGrace08
+@EpicBoringHistory
