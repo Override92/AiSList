@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46342
+! Total Channels: 46341
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13083,7 +13083,6 @@
 @EpicPokeMusic
 @AI_Verse_Music
 @J-POP-AI-MetalCover
-@AstridFrost-c2n
 @EchoForge-Mythos
 @AI-MUSIC-BOX-d4s6x
 @AI音楽-c1b
