@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46681
+! Total Channels: 46691
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46697,3 +46697,13 @@
 @RoadAngels12
 @UnspokenOathsGH13
 @JuanjoPanal%C3%A9s
+@SilentHeartsofHealing
+@GanglandChronicles19
+@BrokenBikerOath
+@WildDesireFullerton
+@MAITHILA_FILMCITY
+@ChuckNorrisLegacy
+@Continuumstories
+@VoiceStarsTV
+@FreddieUntoldChapters
+@SOULHEARTV
