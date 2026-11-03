@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46176
+! Total Channels: 46186
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46192,3 +46192,13 @@
 @riversteward
 @WildSkyStories1
 @WildwestChronicles-h9g
+@WesternRustwind
+@WesternSoulStories
+@StoriesUntold-p6j
+@WesternRelics
+@DreamHavensleepstories
+@CowboyConfessions-s3n
+@HDAWWIIUntold
+@StoriesoftheWest-z1r
+@wildwestlovestory7
+@WhisperedLifeStories-c4x
