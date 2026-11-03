@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46709
+! Total Channels: 46719
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46725,3 +46725,13 @@
 @TheReactionRoom-g7o
 @AlphaKing_Romance
 @DramaAlerts1
+@RomanticRoyalty
+@DarkAlpha-t2n
+@Selenes-g3c
+@RoyalInstinct9
+@RejectedLunaLibrary-z5t
+@lily-e4k7z
+@SilentRealmStory
+@AliceRomanceLibrary
+@EvieMoonsRomance
+@chloeromancelib
