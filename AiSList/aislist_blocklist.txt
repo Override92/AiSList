@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46136
+! Total Channels: 46146
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46152,3 +46152,13 @@
 @CowboyLongmesa
 @TheManWithNoName-yt
 @wild_westernlagcey
+@shafiqbhatti1133
+@CowboyLonefire
+@olpeteslair
+@WesternFlintdust
+@FromWildWest
+@WhispersofOutlaws
+@SilentWestTales
+@FrontierLoveDiaries
+@RideintoRomance
+@NightfallWesternTales
