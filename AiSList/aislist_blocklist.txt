@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46726
+! Total Channels: 46721
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37585,8 +37585,6 @@
 @Rm_kholwad
 @MagicIslam-y4q
 @Psygorithm
-@TheMindzenn
-@HeroicAnimal-e3e
 @EarlyhumanX
 @secretnations-z7k
 @DrivenToWinnn
@@ -37597,12 +37595,10 @@
 @HoldUpPast
 @wingsofwar-n7z
 @TheChinaJuggernaut
-@AncestralSecrets-F9x
 @captainpov1
 @DanielleJackson-u4m
 @ancientuntamed
 @unseenvibes-r8f
-@newstory4U-x5v
 @FocusCafeRooms
 @ShadowMarshalAI
 @SerenataSax
@@ -37617,7 +37613,6 @@
 @DollarExplainsDaily
 @TheWealthTribune
 @SmartAxenExplains
-@JamesCole-w5l
 @MissyWillExplain
 @austin_knows
 @TheWitcherChronicles1
