@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46796
+! Total Channels: 46795
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7478,7 +7478,7 @@
 @SafetySenior1
 @NordicArt
 @ZumaltenKrug
-@GodofwarAnime
+@primelegends-z9b
 @aicontentking
 @TubeMagicASMR
 @LawCaliber
@@ -7573,10 +7573,8 @@
 @gmc-n7b
 @planetadescubierto01
 @exiledlunatales
-@abundanceprosperitywealth-x1m
 @moderndefenseglobal
 @eyepatrol_yt
-@mediaairecords
 @restorefusion
 @퍼피휴게소
 @piotrcienwronski
@@ -46812,3 +46810,4 @@
 @драма-молния
 @thebibleunfolded-p7i
 @reviewcotam-p9h
+@covertwarstories
