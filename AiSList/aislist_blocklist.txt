@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46797
+! Total Channels: 46798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6964,7 +6964,6 @@
 @DenysLVox
 @ValhallaEchoes-i2n
 @SoulfireSounds
-@CTRLALTRIFF
 @TechFrontier-AI
 @SekretIstnienia
 @MiędzygalaktycznySzept
@@ -46813,3 +46812,5 @@
 @夕風微劇場
 @የሀበሻai
 @traceecrite
+@aerownofun
+@전문가추천템
