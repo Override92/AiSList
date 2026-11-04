@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47028
+! Total Channels: 47031
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38941,7 +38941,7 @@
 @USVIBRA2
 @StinkPotStudios
 @ScienceSimplified4All
-@Caveman_TV-e8w
+@intellectrush
 @memeverse-e7o
 @ChubbyAi-y5u
 @AICheck-e4c
@@ -38991,7 +38991,7 @@
 @LedByDonkeys
 @AiCartoonKidzzz
 @aicartoonland2007
-@AiCartoonofficial-q7r
+@heighspeedcarrace-q7r
 @TYLRStudio
 @Aicartoons-g9o
 @AICartoons-u1e
@@ -47044,3 +47044,6 @@
 @westwardwhoatv
 @neonflow-101
 @northuncovered-l7z
+@diegrosserechnung
+@historysbigwhy
+@ramishakhtn1
