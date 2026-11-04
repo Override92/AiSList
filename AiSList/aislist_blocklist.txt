@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46741
+! Total Channels: 46736
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37694,14 +37694,12 @@
 @WildflowerStories-i8g
 @UntoldTruths-t9b
 @Revengepie-p7l
-@LifeWhy-j5g
 @VeiledSecrets-z4c
 @RomanNarrates
 @TheUnseenLedger68
 @POVExplainerrr
 @WomenofJustice-j1x
 @Toldme444
-@ExpensivePsychology9
 @PetalDreamsGarden
 @MeanwhileintheUSSR
 @MusicGrove-p6g
@@ -37718,14 +37716,12 @@
 @lofichillnightz
 @wrestlinglegends-s2j
 @Strive28-s7h
-@CarrerasRehkop-y8p
 @gsefs-r1s
 @LisaAnderson-c4w
 @CarolynHernandez-j6y
 @2-nv5sv
 @sabidur-m1q
 @TheFactfulBro
-@MaraDelune
 @DavidBrown__DB
 @ENERGFACTS
 @ContraryTrends
@@ -37749,7 +37745,6 @@
 @sticksandsword
 @HerLedgerYT
 @Evening-Science
-@HistoryAfterDark888
 @TheLastDays-l5e
 @melo_fm
 @TheEverydayLifeJournal
