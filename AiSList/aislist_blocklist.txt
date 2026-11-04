@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47031
+! Total Channels: 47026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13124,10 +13124,8 @@
 @晚燈書敘
 @dawn-d4o7c
 @有道养生
-@南師智慧講堂
 @ZenithPursuits
 @洗心禪語
-@曾老說智慧
 @CORNELLJULEE
 @禪心之道
 @architecttony92
@@ -16818,7 +16816,6 @@
 @exi-stories
 @ringcameravids-x2k
 @LabubuVerse-v4n
-@Visioncraft1355
 @AuraVerse_Studios
 @Doorbell-c8k
 @BiscuitsKitchenAI
@@ -31410,7 +31407,6 @@
 @LoveBlossomTales
 @KarachiTales-b1o
 @EpicAfricanTales-Q
-@GalacticTales-kj8in
 @AfroKoreanTales-j7h
 @FunmiFolktales
 @SilentMiracleTales
@@ -38982,7 +38978,6 @@
 @HazelWest-q7e
 @PixelReveal
 @africanaistory-c1u
-@AfricanAiStory-u1i
 @Africanaistoryteller
 @AfricanAistoryworld
 @Africanaistudio-h4q
