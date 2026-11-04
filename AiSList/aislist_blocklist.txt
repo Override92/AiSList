@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46799
+! Total Channels: 46809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46815,3 +46815,13 @@
 @melies-ai
 @EsotericOnly
 @jerry-ze
+@JFScience-FictionFantasy
+@Ezehsdiary
+@DarkLightFilmStudios1
+@khonsuhotepatum6048
+@Foster_Cinema
+@MONSTARTOL
+@TRGNY080
+@trainedaim
+@EPICAICINEMA1709
+@NorthlightCinema
