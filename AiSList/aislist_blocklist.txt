@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46800
+! Total Channels: 46798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10045,7 +10045,6 @@
 @rosangarden
 @MoonlightinKorea-Dana
 @KoreanFolktaleRadio
-@talesfromthefarshore
 @KoreanHistoryTalesKR
 @소래야담
 @historysleepytime2
@@ -21247,10 +21246,8 @@
 @crazy_kahaniya_yt
 @gspider9999
 @beonosound
-@fantasy-yuki
 @malahistoria99
 @enemytolovers
-@philipmindset-l3m
 @speed_clip6
 @flexpro.entertainment
 @historymakesyousleep
@@ -46816,3 +46813,4 @@
 @전문가추천템
 @EssentialGearReviews-b2z
 @AncientSecrets-n1n
+@thetrueflicks
