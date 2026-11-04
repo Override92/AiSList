@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46804
+! Total Channels: 46799
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37861,8 +37861,6 @@
 @BuriedOnline
 @TheLastScribe-d2z
 @RuthlessVengeance
-@VeilOfRevengeTV-e1o
-@TryleAnderson
 @behindwalls1
 @Primal-b5e
 @COMICSSTORM-l7p
@@ -37871,7 +37869,6 @@
 @SimpleExplain2
 @OggaBooga10
 @bycalmorasound
-@RainAmbienceStudios
 @RainpaneStudio
 @GnosticTalk
 @YohanClips-s4t
@@ -37880,7 +37877,6 @@
 @HiddenFamilySecrets-v4o
 @AIGirlfriend-fg9xr
 @AICreatorKIM
-@RyanCollins.16
 @TheTinyHumanTheory
 @WarRegistry1
 @StillHuman-z6l
@@ -37931,7 +37927,6 @@
 @ai_food_lab_123
 @AImeowkitchen_16
 @theaifamily-12
-@Aitastykitchen01
 @AICoockingCreations
 @Foodholic-yt
 @Zuri_AI_Studio
