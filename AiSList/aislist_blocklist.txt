@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46797
+! Total Channels: 46792
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38002,7 +38002,6 @@
 @vskinexplains
 @SilverSpurStory
 @GrimdarkDoodles
-@HistoryCode-p3n
 @TimeTravelerPOVMT
 @FamilyRevengeSecrets-u4v
 @TruePaybackStories-t9i
@@ -38016,10 +38015,8 @@
 @SmartInvesting-w8w
 @recall_this
 @Zolvr7
-@CaverStick
 @Witlore
 @TheAncientReason
-@YoussoufKonate-h9x
 @Leafeey
 @ForgottenChroniclesChannel-w5s
 @PlantsCare-v2c
@@ -38028,10 +38025,8 @@
 @SparkDrama-p2w
 @GeheimnisDeutschland-z7o
 @FatoRapido-r4w
-@ManhwaRise-h1d
 @PROFDRAMA-n5s
 @unboxinguniverse-f6u
-@SharoonSahotra-i6j
 @CarterCook-y1i
 @PrairieHearts-v6m
 @UnbrokenLegends-o2v
