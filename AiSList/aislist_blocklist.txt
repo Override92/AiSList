@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46819
+! Total Channels: 46814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37761,7 +37761,6 @@
 @blackcasejournal-k3i
 @JusticeReclaimed-x6q
 @StoryGrove-c2o
-@UnderworldStories-w3v
 @SoulEngine-n9g
 @NatureSleepHaven-v5b
 @ToonTownUSA-m8v
@@ -37783,15 +37782,11 @@
 @MysteryBox-w2n
 @VintageComedyVault-mu2zp
 @FundedFrog-sc6hp
-@discoverEDM
 @Oops-v1p
-@Faktencheck-w9i
 @Locked-b1x
 @RainyFlowersLofi
 @franz.aimusic
 @moneypermile
-@Egyptiansway
-@Fenz0009
 @vioexplains
 @Feral-YTC
 @papercutcrimes
