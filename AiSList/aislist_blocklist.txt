@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46800
+! Total Channels: 46804
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37726,7 +37726,7 @@
 @ENERGFACTS
 @ContraryTrends
 @TheTrollTabby
-@Oddlyhooman-m4i
+@counterfact1
 @Lizzyafricanstory
 @LivingMiracleswithJesusBible
 @PhilosophyAcrossTime
@@ -46816,3 +46816,7 @@
 @3d_dreamer
 @StickmanCapitalism-q5s
 @Truenature-x7g
+@tiefberuhrt-z2u
+@明かされた起源
+@kaufkonig-o3h
+@душевнаянота-ь9у
