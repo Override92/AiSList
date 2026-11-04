@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46991
+! Total Channels: 46993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47007,3 +47007,5 @@
 @insideplans
 @다음생엔고양이다
 @月聲計畫
+@freyvessa
+@阿卿-8663
