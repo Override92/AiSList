@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47026
+! Total Channels: 47028
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18305,7 +18305,6 @@
 @viralpawblems
 @lryyhann
 @bunnymandrill
-@aimechanic0101
 @wheretalesremain
 @lostamericanhistory
 @gachastories17
@@ -47042,3 +47041,6 @@
 @diegrosserechnung
 @historysbigwhy
 @ramishakhtn1
+@вопросыиответы-ъ4м
+@snowfallhavenasrm
+@histnap
