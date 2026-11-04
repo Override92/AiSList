@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46798
+! Total Channels: 46800
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46814,3 +46814,5 @@
 @traceecrite
 @aerownofun
 @전문가추천템
+@EssentialGearReviews-b2z
+@AncientSecrets-n1n
