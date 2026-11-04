@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46976
+! Total Channels: 46985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46992,3 +46992,12 @@
 @CapoVeil
 @FinanzasPOV
 @Hisorypov
+@bizpovinsider
+@POVFiles_HQ
+@PovMoneyLogic
+@Mr.POVExplaineed
+@povstoryguy
+@ItsCuriousPOVGuy
+@PovestiPierdute
+@CamPublicRecordPOV
+@rupturadopovo
