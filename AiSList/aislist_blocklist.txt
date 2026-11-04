@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46764
+! Total Channels: 46759
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37747,25 +37747,20 @@
 @Evening-Science
 @TheLastDays-l5e
 @melo_fm
-@TheEverydayLifeJournal
 @TheMachinesThatBuiltAmerica
 @VXFinances
 @builderprotocol
-@TrustMeMan-y2s
 @ToxicFamilyTheater
 @HarmonyHeartsLifestyle-ul5yv
 @Karmatales-q5l
 @Revenge-c4g
 @ChineseDynastyculture
-@ancientegyptiansHQ
 @AncientSecrets-g5g
 @KenjiExplainsUS
 @TiefBer%C3%BChrt-z2u
 @blackcasejournal-k3i
 @JusticeReclaimed-x6q
 @StoryGrove-c2o
-@EclipsedDesire-g2m
-@HeartoftheMafia-z1t
 @UnderworldStories-w3v
 @SoulEngine-n9g
 @NatureSleepHaven-v5b
