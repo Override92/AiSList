@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46798
+! Total Channels: 46801
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46814,3 +46814,6 @@
 @bonytony_com
 @CallamIngram
 @FaultTheory-w
+@homeyvibe1
+@Puffcon
+@SabinMechanical
