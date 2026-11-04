@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46736
+! Total Channels: 46731
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37546,7 +37546,6 @@
 @DestinedAfricanHearts
 @PlainFinance-r5x
 @WhyXStudio
-@WorldCupPulse-official
 @SoulGlowMixes
 @Focus-Engine99
 @therecvibe
@@ -37560,7 +37559,6 @@
 @ForgottenFarmTruths
 @TheArcaneReads
 @BeefReel-q2n
-@%EC%98%A4%EA%B7%80%EC%84%A0-u1t
 @Letsupp01
 @impoinfo-o9k
 @StupidRichMathy
@@ -37573,12 +37571,9 @@
 @oppie_poppie
 @simplyodd0
 @WealthierWaysYT
-@AbhishekPandey-j9g
 @sketchystories26
 @Forge_History
 @ToniTheMoney
-@Mr.ProfitSecrets
-@greedblin
 @TheWealthCheck
 @ZoomOutPerspective
 @legacymovies3m
