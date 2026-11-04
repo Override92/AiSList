@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46798
+! Total Channels: 46796
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11275,7 +11275,6 @@
 @DariusNarrator
 @SecondKoreanStories.2k
 @HumanSurvivalProtocol
-@BetrayedandAwakened
 @BloodChronicles
 @ThroneboundChronicles
 @ROYAL_EXECUTIONERS
@@ -14525,7 +14524,6 @@
 @VelvetLiquidDnB
 @neonglitch3.0
 @VehicleLifeGuide
-@omas.hausgeheimnisse
 @HinterdemGlanz-f9d
 @DasGedachtnis
 @verborgenebühne
