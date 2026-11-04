@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46741
+! Total Channels: 46736
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37475,7 +37475,6 @@
 @Anecdotes-g1s
 @NIGHTSIGNAL-g2w
 @Livinginhistory-n8r
-@TheBrickArchive-m5z
 @MythicChronicles-j9h
 @sleepingaudit
 @PodcastAI-t6k
@@ -37508,8 +37507,6 @@
 @Nari_VA
 @EchoTraceDocumentaries
 @POVSpiritual
-@FeynmansCuriosity-j9u
-@PerspectiveBroooo
 @tuyennguyenthikim7338
 @iExplainMoney
 @Epoch-Mysteries-offical
@@ -37524,7 +37521,6 @@
 @ringdoorbell-k8c
 @AI_Videos-goat
 @HistoricalHector
-@SwingVoltage-p8k
 @RarelyCivilized
 @TylerInFinance
 @JalandriKhan-x7c
@@ -37538,7 +37534,6 @@
 @HOWHUMANITYSURVIVED-h7u
 @StickHuman68
 @Factopia-0786
-@xiaogouxiaogou-e8p
 @DeepEchoTechno
 @PaperThrones
 @primepovofficial
