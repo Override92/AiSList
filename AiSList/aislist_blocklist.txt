@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47003
+! Total Channels: 47006
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31496,7 +31496,6 @@
 @FlamesofLoveTales
 @jocmotionpictures
 @talesbykamsi
-@HFYinfinitytales
 @KaviraFolktales
 @TalesofWisdombyElEmperor
 @Darkmafiatales-o9r
@@ -47019,3 +47018,7 @@
 @ashlarhistoryofficial
 @kissatenjapan
 @graceafricantales
+@경제코드-kr
+@g.kwisdon
+@talesbyjchris
+@ゴール裏リズム部
