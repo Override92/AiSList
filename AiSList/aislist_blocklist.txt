@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46721
+! Total Channels: 46716
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37620,7 +37620,6 @@
 @stophelping
 @JuanQuintanaMedina
 @EconomicsUncoveredTV
-@MrMarginOff
 @FracturedRomanceVault
 @pootleshow
 @AstroVantaa
@@ -37654,7 +37653,6 @@
 @ageofjeremy
 @MicroMinutex
 @Primal.EchoAtlas
-@WW2GermanPOW
 @ww2silentvalors
 @Antiquio
 @suhopulse
@@ -37673,13 +37671,11 @@
 @MelodicVibe-x3g
 @HungamaHits-b4i
 @UniversityofSuccess-jt2fd
-@milaz-h1x
 @HiddenTies-y7t
 @FamilyTruths-x6z
 @AuroraStories-g7g
 @Ancient_Greekss
 @Elendy-u6t
-@RizwanAli-rh6fk
 @Elite-j9c
 @TheSilentWitness-t5m
 @TruthWithin-d4n
@@ -37689,7 +37685,6 @@
 @FarmLifeStories-r5n
 @QuietAcresStories
 @StoriesofElena-j8u
-@SilentGoodbye-g1d
 @DutyLine-n3o9d
 @JusticeLine-i3f5p
 @HumbleDadStories-t5b
