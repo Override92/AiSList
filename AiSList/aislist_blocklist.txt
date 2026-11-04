@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46842
+! Total Channels: 46852
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46858,3 +46858,13 @@
 @POVSimpleFinance
 @MoneyLifePOV2.O
 @POVWealthTruth
+@POVMoneyChronicles
+@mhyoui
+@FinancePersonally-f1p
+@POVTheWealthEffect
+@RichsonPov
+@IBuiltWealth
+@SmartFinancePOV
+@MarketVerge-q6n
+@HustleManPOV
+@Money-POV-Journey
