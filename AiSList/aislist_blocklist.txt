@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46748
+! Total Channels: 46750
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46764,3 +46764,5 @@
 @GulshanGeeks
 @NiceGamLii
 @SlowEnglishStoriesFamily
+@MortisMedia
+@TowardsEternity
