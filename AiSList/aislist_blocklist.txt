@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46746
+! Total Channels: 46741
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6762,7 +6762,6 @@
 @thesalehhamed
 @Skywalker_Stories
 @AIAbigailAdams
-@LiyanaFemme
 @echotronu
 @HistoriaPancerna
 @sillyme6906
@@ -14094,7 +14093,6 @@
 @HarutoRecapsAI
 @skyrevoramusic
 @OrcSwornRomance
-@FlyGalaxyHFYFly
 @ApexHumanityHFY
 @Susurrosdrama
 @xingdongxingdong-wz1pb
@@ -28685,7 +28683,6 @@
 @bezaleelmovies
 @vornhall7
 @虹巢音樂
-@thehomefrontwithmadeleine
 @ayykubaa
 @flintivo
 @musicsplash_ms
@@ -37455,7 +37452,6 @@
 @nullmicgo
 @EliYoderAgriculture
 @PollPosition-i5y
-@SilentScience-n8n
 @MeowWorld-y9t
 @JuniperBeats
 @KarmasScript-v6r
@@ -37465,7 +37461,6 @@
 @RiftCaster-k9z
 @aether.sounds.official
 @QuantumBeatsUnlimited
-@TheKitchenLab-375c
 @MythsTheyNeverToldYou-k3o
 @LegendsOfMythology-l2n
 @BlackGenius-s9f
