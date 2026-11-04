@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46736
+! Total Channels: 46746
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46752,3 +46752,13 @@
 @Storyfactory48
 @CozyCatmeow-w5o
 @AsifaFairyTale
+@Willstarfilms
+@gurudevToon
+@TubeRise-001
+@EventDrivenAI
+@Aicore-u
+@Storyai-d7x
+@ytMinifablefever
+@tntrecordsmixandbeats
+@WorldsofTomorrowMovie
+@CinemaEXAIFilms
