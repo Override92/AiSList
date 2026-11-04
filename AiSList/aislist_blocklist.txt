@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46716
+! Total Channels: 46721
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46732,3 +46732,8 @@
 @MortisMedia
 @TowardsEternity
 @mmachronik0
+@kennethstocktonstudio
+@noirville-p4l
+@sublevel-tv
+@nightrainrelaxing1
+@wartimeplaces
