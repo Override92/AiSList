@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46998
+! Total Channels: 47001
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38405,7 +38405,7 @@
 @NocturnalHistoryen
 @HistoryinDarkness
 @HistoryBeforeSleep-p3i
-@HistoryofTonight
+@historyfortonight
 @DriftThroughHistory-d4c
 @Lowfire-History
 @History_Whisper8
@@ -38480,7 +38480,7 @@
 @WORLDSLEEPINGHISTORY
 @BelowRomeHistory
 @Historybyscottz
-@HumanHistoryExplainer35
+@nuelxplains89
 @HiddenHistory-07
 @ReincarnatedInHistory
 @DarkHistoryFilescinar
@@ -47014,3 +47014,6 @@
 @nordicsongs.bjorn
 @entretronoseveus
 @fatebound-realms
+@로즈팝스튜디오
+@哦哦的
+@stickoutsurvival
