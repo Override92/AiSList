@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46985
+! Total Channels: 46980
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -260,7 +260,6 @@
 @AIPalette-CuteCreatures
 @LilyVideoAi
 @Transformationthroughai
-@kittyaistory6
 @MeowverseAI-g9s
 @FluffyBox715
 @BauhhVv
@@ -9480,7 +9479,6 @@
 @SciencetoSleep13.8
 @Orchiverse
 @LesGrandsEmpiresduMonde
-@StyleMorphAI
 @WaveWarpStudio
 @roboblues
 @iwatipis
@@ -10031,7 +10029,6 @@
 @JanesAlphaRomanceStories
 @Bellas-Romance-Library
 @YorynAuthor
-@CatAIFilmsGo
 @Createwithmimi-d9j
 @AIDanielMedia
 @FearToonzTV
@@ -38031,7 +38028,6 @@
 @genius_history01
 @D-HistoryT
 @NoOrdinaryHistory
-@AmyTouhey-w1e
 @TheKarenFiles-i8o
 @HOAStories-i1c
 @hoastories-p6p
@@ -38119,7 +38115,6 @@
 @capitaltheoryjournal
 @rdzenkolosow
 @QuantumMakers
-@SF--CH--l--235
 @FlightPath-t9z
 @Marlitha
 @MaviGadgets
