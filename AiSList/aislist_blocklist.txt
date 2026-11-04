@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47001
+! Total Channels: 47003
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47017,3 +47017,5 @@
 @로즈팝스튜디오
 @哦哦的
 @stickoutsurvival
+@ashlarhistoryofficial
+@kissatenjapan
