@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46809
+! Total Channels: 46819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46825,3 +46825,13 @@
 @trainedaim
 @EPICAICINEMA1709
 @NorthlightCinema
+@1001Storys
+@medialterations
+@RolandStudio
+@CinematicAIFantasy
+@StudioLofi29
+@Wild-Battle-Arena8388
+@JeffSynthesized
+@NeoCinematicAI-u6t
+@3d_dreamer
+@StickmanCapitalism-q5s
