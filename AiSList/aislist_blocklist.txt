@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47028
+! Total Channels: 47030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3191,7 +3191,6 @@
 @ForerunnerArchive
 @psychronix-b8e
 @ElPoderdelaPalabra-biblia
-@DailyNYCReporter
 @thesurrealmind
 @FactWyse
 @TheLogicRoom
@@ -47044,3 +47043,6 @@
 @вопросыиответы-ъ4м
 @snowfallhavenasrm
 @histnap
+@tony-icdia
+@globaltech_tv
+@civilisationspresentees
