@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47026
+! Total Channels: 47021
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3434,7 +3434,6 @@
 @SoulfulRomance-Channel
 @MysticLoveStories
 @MyPassionDiaries
-@TimelessLoveStories-q1b
 @linasromantasycollection
 @SoulStories-c8y
 @BookFlickShare
@@ -39345,7 +39344,6 @@
 @ClubBeatsRadio
 @midnightjazzradio
 @LittlePrincessAggie_Flow
-@QuantumZenRadio
 @EnchantedLibraryRadio
 @ProfessorNexusAcademy
 @Starsfamous7
@@ -39354,8 +39352,6 @@
 @ViceFluxFM
 @FragranceZoomer
 @AfricanBrokenSouls
-@AfricanFolktale-forchildren
-@Truthuncovered-h7k
 @ConquerTheGalaxy-v3g
 @Smartsounds_lofi
 @Space-DnB
@@ -39368,7 +39364,6 @@
 @TripleRRRMusic
 @KiteScapes
 @GlitchJungleFlow
-@intelligent_pulse
 @pennyexplainsfinace
 @analogstatefiles
 @americathroughtimee
