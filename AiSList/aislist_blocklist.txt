@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47097
+! Total Channels: 47103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47113,3 +47113,9 @@
 @hatimsshorts
 @NoblePresidents
 @GlobalPresidents001
+@SteveCopperDogs
+@SteveCooperPets
+@Nestoramom
+@SteveCooperZoo
+@cudaroo
+@activistru
