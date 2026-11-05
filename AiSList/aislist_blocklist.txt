@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47189
+! Total Channels: 47190
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8625,7 +8625,7 @@
 @WolfKingsRomanceLibrary4755
 @jksfantansies
 @annromancelibrary
-@anciently-b1v
+@buriedkingdoms-g7n
 @MoonlightMatesLibrary
 @DeWolf-official
 @Ivyuniquelibrary
@@ -22230,7 +22230,6 @@
 @AmazingStoriesJustForYou
 @POVHistoryGateAI
 @MatanMintz
-@ThePOVguy-55
 @Histairy_filmss
 @Weird_Ai_Yanksamich
 @AI-POV4u
@@ -47205,3 +47204,5 @@
 @EliasYoderDeutsch
 @OrloExplains
 @KarimAshfordFinance
+@redtabbureau
+@ማዕዶተሰማይ-8ረ
