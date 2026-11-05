@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47012
+! Total Channels: 47007
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3767,7 +3767,6 @@
 @CarmenteCuenta
 @historiasdecastigo
 @NoEraParaContarlo2006
-@VenganzaconElena-b7v
 @DescifrandoElSecreto
 @Redditpremiumop2
 @HistoriasDeVida-j8x
@@ -21381,7 +21380,6 @@
 @parkjungil_aikorea
 @mechanizmypl
 @CurrencyArcInsight-1e
-@felixdullu
 @EveryLifeExplainedofc
 @Chanakya2858
 @Funnyfablestudio-i5e
@@ -31712,7 +31710,6 @@
 @mapsundone
 @TheWhyX
 @mechanic-hank
-@StevieRayVaughanArchives
 @KiroLionExplain
 @The-Invisible-Economist
 @Arthvyuh
@@ -31789,7 +31786,6 @@
 @RiseDoseEnglish
 @TALES-BY-EMAN
 @FiksGriotProductions
-@soullovestories-v6g
 @FolktaleDipo
 @TheDisputeDen
 @PlayNdrama01
@@ -39355,7 +39351,6 @@
 @zestora-x1o
 @silvasantus
 @t69x2
-@dreamterminal404
 @halfawakemp3
 @Ricciscape
 @nocturnaleng
