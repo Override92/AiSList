@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47127
+! Total Channels: 47122
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32311,7 +32311,6 @@
 @HFYGalacticLegendsUS
 @hfyShipVerse
 @HFYXaltherra
-@HFYApexHumanity-c4w
 @GlitchUsHFY
 @AstralVanguardHFY
 @MechStormHFY
@@ -32333,7 +32332,6 @@
 @UniverseofHFY
 @ChronovexHFY
 @OathRageHFY
-@TheGalaxyHFY1
 @HFYPrimeOfficial
 @hfyscifidxzerreturns
 @MemeFireHFY
@@ -32367,7 +32365,6 @@
 @HFYVanguard-w8y
 @DrxRunHFY
 @MelodicFlow-b3n
-@AncientSticky
 @GodsWhisperNow-R
 @hfybetrayal
 @AstraHum_HFY
@@ -32395,13 +32392,11 @@
 @VoicesAvalon
 @RioNReedus
 @WarhammerInit
-@VibeofCreationn
 @UniverseInsideYou
 @LoneDesireSherman
 @LUNARITHM-X
 @MysticLadyAmbience
 @SkaldicMusic
-@WhispersoftheOldWest-z
 @TeutonicRituals
 @Ulfrheim
 @BibliaVivayoutube
