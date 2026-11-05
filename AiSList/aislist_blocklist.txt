@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47004
+! Total Channels: 46999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31925,7 +31925,6 @@
 @AlphakingClassicStorytime
 @TorisWolfFantasies
 @MidnightRomance_Tales
-@FatedAlphaStories
 @TheIronAlphaKing
 @GalaxysSci-Fi
 @RosysSecretCourt
@@ -39425,7 +39424,6 @@
 @ASHOKYadav-s4v2x
 @ArchiveRockOfficial
 @MIRAGEORCHESTRAJP
-@murro-tweets
 @TheThoughtSmuggler
 @trackID-w6h
 @inhispeace-d2y
@@ -39436,7 +39434,6 @@
 @BeefMixedJohn-s3o
 @kayla_manuel
 @TheHiddenGriot-w4v
-@AfricanFolktaleKingdom-s6z
 @AmazingFolktale-u2v
 @English5Days
 @AfricanSilentEchoes
@@ -39453,12 +39450,10 @@
 @Allinone-m16
 @MinecraftIronpickaxe
 @DrBurger-h1w
-@ItaliaDimenticata-b7q
 @LegendsandMyths21
 @DAYROOVE-k7w
 @fallen_ambient
 @ToonsWithAIClips
-@animalscounter
 @AiEngineer-755
 @wealthpath-l8y
 @HaloRevenge-u8i
