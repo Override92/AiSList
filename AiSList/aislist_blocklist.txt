@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47105
+! Total Channels: 47107
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47121,3 +47121,5 @@
 @activistru
 @imstickmanold
 @theguidedpathstory99
+@vision-vault-777
+@TailWardPets
