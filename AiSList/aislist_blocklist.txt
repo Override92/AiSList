@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47014
+! Total Channels: 47013
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21388,7 +21388,6 @@
 @QuantumBuzz-s3m
 @emotionalsupport90
 @warhistoryusa-e6v
-@mellowbloxasmr
 @nightofyfvt
 @WealthTalebearer
 @CrystalStories-w6j
@@ -23344,7 +23343,6 @@
 @CalmSpaceToSleep
 @CaminarBíblico-s1b
 @CanadaInsightTV
-@CarAag765
 @Carupdater-b1b
 @CasualCarDude
 @CasuallyChaoticDude
@@ -47030,3 +47028,4 @@
 @glurpzzz
 @buzzbursthorror
 @reohan1
+@iflord
