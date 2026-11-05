@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47122
+! Total Channels: 47124
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47138,3 +47138,5 @@
 @DiscoverywithHannah
 @AmbroseFaithYT
 @RyanLauDiscovery
+@hafeezvlogs-m2i
+@lostarchivesfilms
