@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47030
+! Total Channels: 47025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39244,7 +39244,6 @@
 @AutoVision-u2i
 @ThoseWeretheDays-o4n
 @ChroniquesdelHistoire-g9x
-@WarhammerChronic
 @LINA-l1n7f
 @luminavibes-e6e
 @strayngemile
@@ -39252,7 +39251,6 @@
 @suvpickup
 @EV_Horizon_tech
 @AfternineStudio
-@SoulFunkAddict
 @LiquidHourDnB
 @VISION84-No5
 @NEONDREAMSREBORN
@@ -39289,13 +39287,10 @@
 @TITANSOUNDSOfficial
 @CleanLoopAI
 @AcneExtractionOfficial
-@excavatorfuntunes
 @holger-joachimmorlo9859
 @MelodicCode-no1
 @Vikingtimes123
 @CrimsonMirageMusic
-@TinyPaperDolls
-@OutlawPsychedelicBlues
 @westwindstoriesreal
 @FrontierWhisperStories-w4r
 @CrimsonRomanceStories-c1u
