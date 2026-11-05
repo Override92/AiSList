@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47035
+! Total Channels: 47030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3085,7 +3085,6 @@
 @BuffettMoneyMentality
 @boardroombillions
 @WW2Echoes09
-@TODAYSTORIES6t
 @WarRecalled
 @IndependentFinancialHistorian
 @TheSilverThesis
@@ -39143,7 +39142,6 @@
 @FactBytes
 @DeepHouseGrooves
 @OrbitalAtmo
-@UziCumell
 @EndlessDriveFM
 @RadioOffDrive
 @SwingFunTime
@@ -39164,7 +39162,6 @@
 @Kedibeats
 @NEXOR2890
 @SuciLestari-w7c
-@silens.ambient
 @melodictechnoroom
 @FreshRomanianWaves
 @RelaxStudio77
@@ -39181,7 +39178,6 @@
 @parabellumhistoriapl
 @AshfallOficial
 @SagewindNomada-k7s5p
-@DeepFanRoom
 @DarkPostRockFM
 @SekretyZakonnicy
 @SamierDeepVibes
@@ -39246,7 +39242,6 @@
 @AUTOVERSE-i3b
 @GearUp_Garage-e4f
 @AutoVision-u2i
-@JOHNKnowledge-b6y
 @ThoseWeretheDays-o4n
 @ChroniquesdelHistoire-g9x
 @WarhammerChronic
