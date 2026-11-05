@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47210
+! Total Channels: 47220
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47226,3 +47226,13 @@
 @RedditStory-i2e
 @ManishDharve-o9d4d
 @BF2025-j7x
+@THE_VECTOR_SHOW
+@BMWMotoLab
+@BMWMotoGuide
+@UtopiaFlix
+@BeeLightStudios
+@Technoprophet
+@Aicreatefilms.studio
+@MaxProcess-d4m8n
+@FantasticAIFilms
+@MythoriaFantasy
