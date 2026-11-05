@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47024
+! Total Channels: 47026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3284,7 +3284,6 @@
 @FKCARREVIEWS
 @AutoReview-fe1
 @autonextlevel
-@EchoesfromPyongyang-911
 @SemillasAncestrales2000
 @Explica2-dos
 @ElDiabloteLoPinta
@@ -47040,3 +47039,6 @@
 @harvestthefrost-f8u
 @cozyautumnhouse
 @aggieandsleepypaws
+@royalverdict-k8e
+@secretsofmilitaryhistory
+@adheyaistory
