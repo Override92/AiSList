@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47055
+! Total Channels: 47061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47071,3 +47071,9 @@
 @WealthPOV-s9c
 @Wealthpov_014
 @nextgenwealthpov
+@WealthPOV-0
+@EVERYDAYWEALTHPOV1
+@WealthPOVv
+@WEALTHPOV1s
+@HeyWealthPOV
+@WealthPOVDailyUs
