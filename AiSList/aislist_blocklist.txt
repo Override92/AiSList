@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47109
+! Total Channels: 47108
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5425,7 +5425,6 @@
 @ShadowSelfRevealed
 @therealeconomy9
 @The-Capital-Desk
-@YourJohnAGYT
 @YourJohnRO
 @ProfitMindset-r6h
 @KyricFinancial
@@ -32183,7 +32182,6 @@
 @josh_can_explain_stuffs
 @EverythingMilitaryExplained
 @AURA-Explain
-@Lucasexplains0
 @TazenExplains
 @WildlyExplained01
 @Human-BehaviorExplained
@@ -47125,3 +47123,4 @@
 @TailWardPets
 @PawsNestify
 @CalmTailsCo
+@indiapurmusic
