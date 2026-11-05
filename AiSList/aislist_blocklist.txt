@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47025
+! Total Channels: 47020
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39292,7 +39292,6 @@
 @Vikingtimes123
 @CrimsonMirageMusic
 @westwindstoriesreal
-@FrontierWhisperStories-w4r
 @CrimsonRomanceStories-c1u
 @RnBSoulSessions12
 @EdenRomanceStories
@@ -39330,7 +39329,6 @@
 @LaksmiFun
 @ChicagoSoulNights
 @Calmrelaxing-m2d
-@DJ.CHERREMIX
 @ZYNTHmix1
 @megacitymusicrecords
 @MeowWorldChannel
@@ -39345,12 +39343,9 @@
 @fightingwowchannel
 @darkhoursofhistory
 @Sonavolt
-@SleepyScienceMRI
 @ClubBeatsRadio
 @midnightjazzradio
 @LittlePrincessAggie_Flow
-@EmpireDriveRadio
-@IslandFlow_Radio
 @QuantumZenRadio
 @EnchantedLibraryRadio
 @ProfessorNexusAcademy
