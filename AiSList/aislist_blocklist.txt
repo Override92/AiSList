@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47019
+! Total Channels: 47018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3503,7 +3503,6 @@
 @Huellas_Eternas_0000
 @HistoriadeHispania-d3s
 @ElHistoriadorConsciente
-@LoQueSomos-es
 @Ruta-Narrada
 @CUENTOSSDEPASIÓN
 @LeccionesdeVida11
@@ -28861,7 +28860,6 @@
 @drglobechannel
 @RewriteMindHistory
 @BiographiesoftheSaints
-@TheSaintsGod
 @CanalCatolicismoExplicado
 @DecodeScripture
 @SpiceScroll
@@ -47035,3 +47033,4 @@
 @chinaluprosper
 @90thminutestudios
 @CourageousVoices-i4g
+@professorplus
