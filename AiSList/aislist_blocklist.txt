@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47007
+! Total Channels: 47002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39352,7 +39352,6 @@
 @silvasantus
 @t69x2
 @halfawakemp3
-@Ricciscape
 @nocturnaleng
 @by.sidian
 @INFINIRA
@@ -39368,7 +39367,6 @@
 @LostSignalRadio-v4w
 @postvelvet
 @LoadingMemoriesps1
-@OrangeDubSession
 @nevokDnb
 @SnoopyStationJazz
 @Odobasian18
@@ -39413,16 +39411,13 @@
 @historyworldmilitary
 @Novacat-o7h
 @SmartHealthGuide-e1h
-@StrategicEdge-c7v
 @DOGCAT-podcast
 @lionofjudahmotivation
 @AlphaAffirmations
 @RocknRollOriginalMusic
-@Aibabyjokes-h1p
 @BeeviAi
 @MissRedStudio
 @ReactionaryPolitics
-@RootSignalY
 @pebblethemusic
 @Britishhomesyt
 @BritishNostalgia
