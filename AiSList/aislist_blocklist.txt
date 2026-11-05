@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47308
+! Total Channels: 47316
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47324,3 +47324,11 @@
 @DailyStoicWay-c2m
 @EddiesDeepDive
 @Rizwan-x7r3m
+@TelltaleBoats
+@DieDunkleChronik
+@judgereaction-f8o
+@TheSystemYT-o1n
+@TheCeoChair-TCC
+@TechWatch-f9w
+@TrouvailleLab-i5b
+@EntiendeTuMente-x8h
