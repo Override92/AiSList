@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47018
+! Total Channels: 47015
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13323,7 +13323,6 @@
 @HindiBassHubAI
 @TuduDjMusic
 @ShailuTheVloger
-@1AITV-b1r
 @bucaonthebeats
 @Ai_music7077
 @AFROINKA-o3s4t
@@ -23312,7 +23311,6 @@
 @80sMusicLegends-v9d
 @AFRICASONUS
 @AcreHunterCanada
-@After1000Years
 @AirportUnderbelly
 @AlmaErrante-c7z
 @Alternatejournals
@@ -23323,7 +23321,6 @@
 @AnnaHall-u2l
 @ArcturianFrequency
 @ArmedNations
-@Athletehub3
 @voiceofrevivalfire
 @AudioVideoMusica
 @AustraliaKnows
@@ -25723,7 +25720,6 @@
 @africanstories-by-oma
 @mrbeaztwood
 @raymondsoy
-@tucasaenpaz
 @hardearnedwealth
 @purelynewborns
 @nxhaidizileri
@@ -47034,3 +47030,4 @@
 @CourageousVoices-i4g
 @professorplus
 @bodycamworldx
+@xox_finance
