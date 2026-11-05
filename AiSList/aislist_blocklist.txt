@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46989
+! Total Channels: 46984
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39599,7 +39599,6 @@
 @MidnightThoughts-h9g
 @thelifegem-s7m
 @NanaMurz
-@RebinLegend
 @TastyTouch-e9e
 @tahnees-v8x
 @RanaCooking-y4s
@@ -39609,7 +39608,6 @@
 @WashingtonTruth
 @finanzenDE-o1r
 @TCDExplains
-@biblestories-yt1
 @aminulgaming16
 @HypeRaker
 @ReAImaginedNewoldsong
@@ -39619,13 +39617,10 @@
 @barsandriffs
 @MidnightGroovesUnplugged
 @Anything-n9u
-@MuhammadMahi-e9z
 @ai-ASMR-123-p7l
 @Void2.o-n6g
-@Rukhsana-i1r
 @WatchLotEm
 @techcore4
-@Fizi_Explains
 @InsightForgeHQ
 @moneyelevate12
 @ShellgameUS
