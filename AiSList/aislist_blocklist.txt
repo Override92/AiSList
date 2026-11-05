@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47278
+! Total Channels: 47288
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47294,3 +47294,13 @@
 @EissaProfits
 @EnglishSingsing
 @unreal_ai_videos
+@AIanimalforce
+@AIFlowOfficial
+@Viral-AI-School
+@Magica.official
+@theaigarage
+@sacredstuff
+@GingerTV-f5y
+@DreamWildOfficial
+@Zhebrd
+@AI_LightAndMagicCGI
