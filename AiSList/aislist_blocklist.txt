@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47220
+! Total Channels: 47230
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47236,3 +47236,13 @@
 @MaxProcess-d4m8n
 @FantasticAIFilms
 @MythoriaFantasy
+@FantasyStarAI-w6s
+@reimagined_video
+@theartist-lk
+@sterlshineproductions
+@RealFantasyStudio
+@EPICAILAB-f4r
+@FenomenaFilmsAI
+@enigma-ai-productions
+@rivethd
+@MadeinDavid
