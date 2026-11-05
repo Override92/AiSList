@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47288
+! Total Channels: 47298
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47304,3 +47304,13 @@
 @DreamWildOfficial
 @Zhebrd
 @AI_LightAndMagicCGI
+@VoicesofKorriban
+@Dark-Entertainment-s7d
+@starwars-what-if
+@richardfilmproductionslt6338
+@Kyberis
+@TheEconomicMatrixYoutube
+@G1ng3rdr
+@FarmMechanics1
+@ColdWarVault-u1w
+@H.of.H
