@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46994
+! Total Channels: 46989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8107,7 +8107,6 @@
 @SeniorHealth_health
 @ExpertFida
 @Ella_Rey
-@primitivecooklife
 @FactoryProductionProcess-g1x
 @Biovision2.0
 @AgriTechSmart
@@ -39548,7 +39547,6 @@
 @tomorrowengineeredofficial
 @RoberttheBeaver
 @EnjoyJazzPianoDaily
-@RevengeStoryHub-e7o
 @BehindTheScene-t5i
 @btsarmy-c5p6h
 @AuraeRecords
@@ -39574,16 +39572,13 @@
 @SleepyCatHey
 @NastySydney-i2o
 @MacCrunch
-@CasinoTruthsUncovered
 @StoryFeel-q7i
 @Primehealth-v5m
 @MINIDRAMA777-u1w
-@maruko.maruko
 @cuteanimalsworld7817
 @Caroliini
 @Justaman-nu1qm
 @meltmusic-n3i
-@Stickmanwholelife
 @KevinMartin450-m1d
 @LearnwithFun-h7c
 @MakimaRecaps-c7p
