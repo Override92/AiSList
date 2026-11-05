@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46984
+! Total Channels: 46989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47000,3 +47000,8 @@
 @sri_gita_gyan
 @salome-u5v
 @tien-v6v
+@thelunaalpha
+@grandmarecipebook
+@eveilphilosophique
+@lemondemedieval
+@krolewskiswiat-j7e
