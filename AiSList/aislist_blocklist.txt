@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47112
+! Total Channels: 47107
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21883,7 +21883,6 @@
 @KARENRevenge1
 @SecretSymbiosis
 @ValorSniperStories
-@VelvetTruthsHT
 @goodmorning-AIStudio-8channel
 @PaintManiac-u5v
 @HollywoodAiTrailers
@@ -32041,7 +32040,6 @@
 @LegacyofFinanceus
 @TheAGFinance
 @TheJiangFinance
-@UkpFinance
 @Animation_POVs
 @LevelLivespov
 @MrRichesPOV
@@ -32237,7 +32235,6 @@
 @MovieGuyExplains
 @explaindotexee
 @Bub.Explains
-@GalacticCoreHFY
 @TheTerranChronicles-HFY
 @hFyrEpReSeNtS
 @GalacticChroniclesHFY
@@ -32269,7 +32266,6 @@
 @AlienCubChronicleshfy
 @THEDRAGONHFY
 @HFYVault-b1l
-@HumanDragonHFY
 @KingdomofLoveHFY
 @RescueOperationGalaxyHFY
 @DarkGalaxyHFY
@@ -40159,7 +40155,6 @@
 @DeepSleepHistoryOfficial
 @spiritus.script
 @CuriousMinut3
-@INHPictures
 @Archer.Finance
 @morningstar505jk
 @ToniKrasteff
