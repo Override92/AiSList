@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 46989
+! Total Channels: 46984
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4304,7 +4304,6 @@
 @PsyDubMusic
 @DeepFocusGroove-e2w
 @PAISATRACKER
-@ZenoFinance01
 @BrandonInvests
 @TheEconomicShock
 @WebsterOfficial2
@@ -39621,7 +39620,6 @@
 @Void2.o-n6g
 @WatchLotEm
 @techcore4
-@InsightForgeHQ
 @moneyelevate12
 @ShellgameUS
 @S1mpleExplained
@@ -39629,8 +39627,6 @@
 @BuriedEra-p4x
 @TheHowItHappened
 @eZxplained
-@Alesha-b7i
-@ARSRevengeTales-o4i
 @FaithSpark-f5k
 @BuriedOrigins-u9l
 @SkullWarfare-j9h
@@ -39640,7 +39636,6 @@
 @CourtSentinel-l5u
 @JudgeWatch-v4j
 @WESTVERDICT-g6b
-@Lawisequal-r8e
 @JusticeStrike-l5p
 @BaileyCourt-v8z
 @JusticeOrder-y1t
