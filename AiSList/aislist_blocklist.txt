@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47144
+! Total Channels: 47154
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47160,3 +47160,13 @@
 @MacroIntelOfficial
 @MastiIndianHacker-n7z
 @FARAHKHAN03
+@aarjavcomedy
+@moviemith
+@AncientPathways
+@TalesbyDeeOsaru
+@MarkFinance-p8y
+@YouBuilt_it_animation
+@the-indian-historian
+@HistoryOnSecond-c9v
+@oldisgold-05
+@AmericanPastReel
