@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47230
+! Total Channels: 47240
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47246,3 +47246,13 @@
 @enigma-ai-productions
 @rivethd
 @MadeinDavid
+@blissyinfinityAifilms
+@Thewholesky
+@aishorts-1z5
+@AuramanTheBeginning
+@Epicaimovies2026
+@eldrynglobal
+@openviewtv
+@EverlightFilmsAICinema
+@CarbeniaTales
+@AXMofficials
