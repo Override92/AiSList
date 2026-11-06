@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47419
+! Total Channels: 47429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47435,3 +47435,13 @@
 @RaynesAI
 @aimanifest
 @EllariaRiseofLegends
+@GhibliNatureWhisper
+@YunasWorldsAway
+@Y70zcc
+@IgorSkoglund
+@FantasyAtlantis
+@InfiniraSurrealAI
+@CinematicDreamRealms
+@SurrealismToday
+@SixteenNoir
+@CozyArtTown
