@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47772
+! Total Channels: 47782
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47788,3 +47788,13 @@
 @QuietDignity-g6g
 @SecondWorldWarLegends
 @FutureGalaxyHFY
+@sebis567roblox9
+@ethonvossHFY
+@SciFiTime
+@SciFiTimeHub
+@parwez-z6x
+@Sci-FiFrontier0
+@NeoXelion
+@AstronixHFY
+@HfyHumansareterrifying
+@EcheForgeHFY
