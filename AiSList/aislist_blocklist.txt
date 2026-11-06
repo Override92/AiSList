@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47469
+! Total Channels: 47479
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47485,3 +47485,13 @@
 @AudiobookatNight
 @RealmOfT
 @BedtimeLoreoftheRings
+@TheSonicLibrary
+@ShadowsofMiddle-earth
+@AudiobookAvenues
+@loreverse123
+@TheElderDarkness
+@StoryMosaic1
+@LoreoftheOne
+@OfficialLegendsOfArda
+@TheMostEntilted
+@Whispers-of-wisdom-Sonic
