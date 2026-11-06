@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47693
+! Total Channels: 47703
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47709,3 +47709,13 @@
 @HumanityRisingSci-Fi
 @EmpyreanChronicles
 @NightWardHFY
+@chibinhnguyen1304
+@VoidgrimSci-Fi
+@AstrovengeHFY
+@DarkspaceAudio
+@LumniHFY
+@MafiaHateToHeart
+@LifeLessonsDrama
+@TheHFYunfold
+@ughumanHFY
+@TheLastChroniclerHFY
