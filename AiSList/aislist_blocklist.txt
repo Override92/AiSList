@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47653
+! Total Channels: 47663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47669,3 +47669,13 @@
 @GajaagaMangu%C3%A9
 @AncientSecretsFR
 @vince5427
+@SuperSmartClub
+@cheekychimp3
+@LostNostalgic-h6h
+@TheDreamhouse_Project
+@NDnewdiscovery
+@GracefortheStrays
+@LetsLearnCrystal
+@FarmHoofExperts
+@FactoryExplained-g2f
+@NotYourBoomersFinance
