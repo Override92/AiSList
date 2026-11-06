@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47332
+! Total Channels: 47335
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47348,3 +47348,6 @@
 @peculiarexplained
 @BrothersofSteel-m5n
 @VelmoraTV-i8v
+@PsychologyUnlocked-r4v
+@MSIReviews-tj1lj
+@KINORASTUDIOS-j3b
