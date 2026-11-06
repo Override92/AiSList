@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48015
+! Total Channels: 48018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40866,7 +40866,7 @@
 @Davidbekham-r2q
 @TheNorthernArchive
 @TheFinalDeed
-@NorthAmericaTradeDesk
+@canadadesknews
 @DebtFrontierr
 @paperink7
 @TalesofWWII-h8r
@@ -48031,3 +48031,6 @@
 @PadreEzekielMoody
 @iNewsPortugal
 @Primalverse55
+@김하은-d1q1d
+@arden_explains
+@raund30
