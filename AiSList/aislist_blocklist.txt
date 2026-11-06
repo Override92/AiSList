@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48063
+! Total Channels: 48062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8317,7 +8317,6 @@
 @ZennyCandyASMR
 @ModernFactory-r4q
 @ModernFactoryFlow68
-@graceenglishdaily
 @NewGenFactoryOfficial
 @OldThingsFactory
 @SamsFoodFactory
@@ -34767,7 +34766,6 @@
 @NobleSecrets-z5d
 @flareflowapp
 @graceywerewolfbank
-@The-official-LRL
 @Summer-Theater
 @yaoiblossombox1
 @RenaRomance
@@ -48079,3 +48077,4 @@
 @petverityextra
 @ontherecordcam
 @ghiblidaisy20
+@1145cinema
