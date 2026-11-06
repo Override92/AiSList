@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47317
+! Total Channels: 47318
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47333,3 +47333,4 @@
 @TrouvailleLab-i5b
 @EntiendeTuMente-x8h
 @DeadSilenceTV-u7g
+@CrewLife-c3f
