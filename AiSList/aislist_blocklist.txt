@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47318
+! Total Channels: 47328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47334,3 +47334,13 @@
 @EntiendeTuMente-x8h
 @DeadSilenceTV-u7g
 @CrewLife-c3f
+@hevend-r2w
+@LegendaAlphaAI
+@SinetronCinta-d3d
+@Smile-c9m3i
+@DramaSantuy-q2b
+@sona99-k2b
+@ViralinAja-u2n
+@Musiccinta-y4e
+@%E6%98%9F%E6%98%9F%E6%95%85%E4%BA%8B%E6%9C%83-r2y
+@HFYStalkersx
