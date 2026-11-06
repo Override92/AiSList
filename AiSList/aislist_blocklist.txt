@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47723
+! Total Channels: 47733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47739,3 +47739,13 @@
 @StrataGemPrimeHFY
 @UnknownHfy
 @DeathworldReignHFY
+@ranausman-l8z8h
+@NeonAliens-o3q
+@SurvivalOfHumans
+@GalacticCouncil.1
+@BBQDirectiveHFY
+@TerranCosmicFury
+@LegendenvonHfy
+@VermilionGateHFY
+@HFYHomeworldCubs
+@HFYSciFiRealm
