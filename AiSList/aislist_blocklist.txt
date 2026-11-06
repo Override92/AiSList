@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48056
+! Total Channels: 48051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12644,7 +12644,6 @@
 @ViralContentbyFoxcue
 @CatPodcastTV
 @CodeKittyai
-@RotHub_7
 @PawsOnAirxD
 @MeowEase
 @GatherRound-h6l
@@ -40877,8 +40876,6 @@
 @pffx-t3p
 @EpicAnime-n9u
 @SticklyLore
-@109.observe
-@zhaozhongguandian
 @tinglbell
 @WeiseUhr
 @VelvetQuietEcho
@@ -40896,7 +40893,6 @@
 @MidoriLofi
 @MoonlitMatchTV
 @GoldenBrewSessions-b7u
-@Rootbeervr-z6f
 @VowticaTV
 @JW-KK32
 @Lofiinbloom
@@ -41099,7 +41095,6 @@
 @niktorn-e5d
 @GoldWaveMusic-r6b
 @JyotiBokadia-i8w
-@AnimalSik1
 @HQ_l%E1%BB%8Bchs%E1%BB%AD
 @khamphatancung
 @huyendereview
