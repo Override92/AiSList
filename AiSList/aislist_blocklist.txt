@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48062
+! Total Channels: 48065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48078,3 +48078,6 @@
 @ontherecordcam
 @ghiblidaisy20
 @1145cinema
+@universocanalhafas-r2o
+@ghiblihomeasmr07
+@sofiabolero
