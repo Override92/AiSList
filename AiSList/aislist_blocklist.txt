@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48074
+! Total Channels: 48073
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19465,7 +19465,6 @@
 @SamsDragonStories
 @CelebrityTalk100M
 @ZenithAIFilms
-@PokémonPark19
 @AD_Visuals_06
 @Zunibo_Kids_AI
 @UnboxForgeAI
