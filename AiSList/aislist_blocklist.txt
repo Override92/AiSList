@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47673
+! Total Channels: 47683
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47689,3 +47689,13 @@
 @BrodyMemesOfficial
 @WatchMAMMALIA
 @ultimatexplainer
+@NextGenUnboxed-w3b
+@thestorydose0
+@Wild2Build
+@lifesciencesAI
+@QuizWit-q5b
+@AscensionofMan-official
+@HelionHFY
+@HFYNarations
+@HFYCena
+@ConqueredHFY
