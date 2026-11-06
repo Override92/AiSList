@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47389
+! Total Channels: 47399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47405,3 +47405,13 @@
 @3histories
 @FantasyExplorers
 @rickyversestudios
+@fabianmosele2321
+@Hul-AI
+@18kukki
+@truthhidden_de
+@ViMusicAI
+@an1mevaultofficial
+@FutureFrames23
+@Panda25231
+@MelonheadIndustries
+@VerloreneEpochen
