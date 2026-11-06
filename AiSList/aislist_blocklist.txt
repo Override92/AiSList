@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47489
+! Total Channels: 47499
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47505,3 +47505,13 @@
 @UntoldMysteries-w6k
 @StoryScapeAudio_Official
 @ClassicAudiobooks-u3m
+@CivilisationsOubli%C3%A9es-c8r
+@TalesfromArda
+@ChugguYeoljeong
+@Deepsleepstories-o3b
+@Gaming458-c8r
+@BIBLESHORTS-c8r
+@BibleShorts-ai
+@BibleScoop
+@biblesongsai
+@BiblestoriesAi2299
