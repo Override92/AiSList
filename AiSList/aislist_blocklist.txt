@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48076
+! Total Channels: 48071
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2740,7 +2740,6 @@
 @UnbreakableandArmed
 @HQStories-r2w
 @The_Unbroken_Trident
-@USEliteWomen
 @moviessexplained
 @bballexplainedd
 @TheMewment
@@ -2799,7 +2798,6 @@
 @TombGuardFables
 @TombGuardTales
 @HeartlandCowboyTales
-@UndercoverTales-m1v
 @SilentStories-c4y
 @LuvsStories
 @AmericanBloodlines
@@ -10283,7 +10281,6 @@
 @ForbiddenloveStories-b6z
 @dailystory68
 @QueenModetales
-@ThriveWithDr.Jocelyn-f7p
 @LoveTruth03
 @HiddenTales-y4k
 @UnderthePorchlight-i5f
@@ -22381,7 +22378,6 @@
 @muftprachar
 @umsatzde
 @ryanbrooksai
-@news_today001
 @timer5555
 @TheSilentBoss-i5l
 @bighankwildweststories
@@ -41846,7 +41842,6 @@
 @MUSEStorytelling-x7d
 @HOAStoriesUSA-v8o
 @akira-c3u7j
-@politics-c6y
 @Well-g9x
 @OnlyGame-r1s
 @NextTake-v4v
