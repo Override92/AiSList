@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47409
+! Total Channels: 47419
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47425,3 +47425,13 @@
 @SaKuRiTa_SaKy
 @orkhanbalashdarkness
 @KiranCalm-ASMR
+@UM1000-t2x
+@TVFrameArtChannel
+@theultimatehausernewschann9971
+@AuraMenS
+@MeteoMusic
+@EtherealKingdom-o1p
+@aiventurespot
+@RaynesAI
+@aimanifest
+@EllariaRiseofLegends
