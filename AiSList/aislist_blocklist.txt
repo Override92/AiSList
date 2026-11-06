@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48051
+! Total Channels: 48049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15107,7 +15107,6 @@
 @BeyondtheWs
 @podcast12-o1t
 @Unknownnexus
-@DoorbellWildlifee
 @whatifchannel.shorts
 @domsdaydoorbell
 @Therawvideos5
@@ -15913,7 +15912,6 @@
 @TheVikingPath
 @RuneMaidens
 @Rahexmusic
-@Jadewolfsoundscapes
 @BeyondInfiniteVeil
 @CelticSoulsMusic
 @ArmyofBagpipes
@@ -15949,7 +15947,6 @@
 @lifewithann1016
 @dinovfx_1
 @tinyfoodworkers0
-@germandaily-e1t
 @PlayOwnAi
 @vivago_ai
 @themorphverse_9
@@ -48067,3 +48064,4 @@
 @oncebefore_0
 @b.msoltai
 @plotcrave-m9n
+@beanpire-k9f
