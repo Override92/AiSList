@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47941
+! Total Channels: 47947
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47957,3 +47957,9 @@
 @whispersofeire-woe
 @paradoksyinzynierii
 @bisernicazemun
+@beluluga_film
+@latentixx
+@MoviesRe-illustrated
+@WadeBenson-8888
+@OtakuAI2345
+@LEE01-l5o
