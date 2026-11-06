@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47577
+! Total Channels: 47586
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47593,3 +47593,12 @@
 @DailybibleversesAI
 @DADIKIKHANI-j4e
 @DarrenClayton-t2e
+@DailyGenZ-x6u3y
+@DevendraRajak-t2r
+@DanishCharak-j3r
+@DigitalDeepak-m9q
+@Delulu_AI-j5l
+@DesiAICreator26
+@Desihealth_ai
+@DhruvAgarwal-o8t2
+@DollysAfricanStories
