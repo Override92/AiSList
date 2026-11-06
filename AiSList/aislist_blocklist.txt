@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48075
+! Total Channels: 48077
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41605,7 +41605,7 @@
 @TheForgottenPortals
 @BizarreAiArts
 @charitycreate
-@LiaStudio-f7q
+@luckystarfilms
 @rebellisstudio
 @shinemon-encho
 @CozywithNimaa
@@ -48091,3 +48091,5 @@
 @ArunKumar-z4y1x
 @battledoctrine-x7j
 @DarkVanguard-g6m
+@판타지공주
+@lareinacarmesi1
