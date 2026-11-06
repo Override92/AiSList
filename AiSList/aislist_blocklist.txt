@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47479
+! Total Channels: 47489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47495,3 +47495,13 @@
 @OfficialLegendsOfArda
 @TheMostEntilted
 @Whispers-of-wisdom-Sonic
+@StoriesfromtheStars123
+@ArmaanDavid-rp3eh
+@LegndsofMidlearth
+@AudioVerse-soniclibrary
+@MiddleEarthArchive
+@UnboundHistorian
+@GalacticMyths123
+@UntoldMysteries-w6k
+@StoryScapeAudio_Official
+@ClassicAudiobooks-u3m
