@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47625
+! Total Channels: 47634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47641,3 +47641,12 @@
 @GLOBALAICINEMA-p7e
 @GraceGigglesAIBiblestories
 @Godsays-e7t
+@GoggleFlow-p9e
+@GokulChaudhary-y5s
+@HammedAliyat-k8u
+@GoluAIVlogs
+@HannahJohnston-br7wh
+@HarshMeena-v7t
+@Guddu-Bandar-Vlogs-f9k
+@SamuelEstela-z8d
+@Middle_earth_mysterie
