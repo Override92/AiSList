@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48077
+! Total Channels: 48072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16996,7 +16996,6 @@
 @cielbleu-q7k
 @dora-u5e7y
 @mechatransformations
-@tinyroast-g2d
 @cutedesigns8
 @cattoonixt
 @inews_magyarorszag_info
@@ -41662,7 +41661,6 @@
 @wave_motion_radio
 @thesingingtrails
 @Astraphasee
-@FatedVampireTales
 @NatashaSteel
 @MalinaArtProstranstvo
 @LeviBrown33
@@ -41686,7 +41684,6 @@
 @Roxie_Rust
 @heroesandgiantsband
 @QuietlyToldAnimation
-@UrielzuzuToons
 @elixgamingvt
 @LeightonChaim
 @GodsGladiatorEpic
@@ -41792,13 +41789,11 @@
 @Sci-FiZen-g3v
 @HFYMax102
 @HFYGalacticTales-yt
-@HUNTERZYRON
 @Lichtjahre-i6y
 @FlashRageHFY
 @sota.sounds
 @IMAXTV-3e
 @sudais_official_12
-@RonaldEllis-j1v
 @TheDeckhands-f8b
 @ImmortalHearts-w5v
 @scarlet-t8q
