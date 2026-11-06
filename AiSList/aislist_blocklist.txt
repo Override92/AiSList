@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47831
+! Total Channels: 47841
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47847,3 +47847,13 @@
 @WarLightHFY
 @scifiworld-q2s
 @GalaticHFYNights
+@HFYAREA
+@Sci-FiHFYStories-x5b
+@TheGaiaGambitHFY
+@CosmicStorytime6
+@SciFiRevenge
+@Sci-FiHFYReddit
+@FireDragon-r9l
+@RoxyHFY
+@Sci-FiQueen
+@HFYDragonPulse
