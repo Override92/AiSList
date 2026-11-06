@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47899
+! Total Channels: 47909
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47915,3 +47915,13 @@
 @Stories2ChangeLives
 @EchoesOfTheAncesstors
 @talesbyomachy
+@Talesofthewind-v6e
+@Fixitfast-r3g
+@savannaanimatedstories
+@Livingscripturecepher
+@Cloixchronicles
+@TalesbyBlessingCeo
+@GoldenNovelCinema
+@NaturalLifeStoryLessons
+@cinewood_explain
+@Storiesbyefua
