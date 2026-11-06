@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47459
+! Total Channels: 47469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47475,3 +47475,13 @@
 @promptblueprint
 @AnabransToonTV
 @CampfireDunedain
+@Ringbearer07
+@RealmsUnravelled
+@LotRLorecast
+@AudioBookverse
+@thesleeplorians
+@The.Lore.Seeker
+@InfiniteNarratives123
+@AudiobookatNight
+@RealmOfT
+@BedtimeLoreoftheRings
