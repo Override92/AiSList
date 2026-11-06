@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48052
+! Total Channels: 48051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12556,7 +12556,6 @@
 @Zeitflüstern0
 @brycecarneviller
 @Geheimnisse_der_UdSSR
-@FunnySoraAiVideos
 @ZEICHENDESENDES
 @SDarkwaveBloom
 @EchoDerAltenZivilisationen
@@ -16986,7 +16985,6 @@
 @WhispersBeyondTime95
 @CineKrinoStudios
 @Voicesoftheancestor_s
-@ajenetvofficial
 @GriotsofMotherland
 @Glimmer-t9y
 @GentleWavesMusic421
@@ -48068,3 +48066,4 @@
 @MOYO_Afro-Soul
 @oncebefore_0
 @b.msoltai
+@plotcrave-m9n
