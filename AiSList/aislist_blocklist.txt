@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48061
+! Total Channels: 48062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12789,7 +12789,6 @@
 @PlayThePrompt
 @ThePhantomSlate
 @DigitalFloatsAcademy
-@MyliRome0
 @mj24basa
 @Aicatstory8z
 @hearth.beyond
@@ -22383,7 +22382,6 @@
 @MelodyDrama1-j5r
 @Singledadkindnessstories
 @StarLegacy9
-@rocco.m4a
 @creativeebanobe
 @muftprachar
 @umsatzde
@@ -48077,3 +48075,6 @@
 @cooltonecafe
 @carolstonec
 @solebtemanfruher
+@dd214hq
+@thebeyondcanon
+@petverityextra
