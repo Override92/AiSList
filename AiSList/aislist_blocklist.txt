@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47567
+! Total Channels: 47577
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47583,3 +47583,13 @@
 @ChrioAiBible
 @ChukuwdumJuliet
 @comedy-pi6w
+@CiliaAfricanTales
+@ClarityBibleAi
+@creating_ai_things
+@CozyAfricanLifeAI
+@CRAZYAI-OFFECIAL
+@CreatorMintAI
+@DailyBible-c8u
+@DailybibleversesAI
+@DADIKIKHANI-j4e
+@DarrenClayton-t2e
