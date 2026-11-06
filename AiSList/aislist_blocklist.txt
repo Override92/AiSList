@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47909
+! Total Channels: 47918
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47925,3 +47925,12 @@
 @NaturalLifeStoryLessons
 @cinewood_explain
 @Storiesbyefua
+@AfriEcho-s6y
+@SmallcontentcreatorssupportCon
+@TaleswithFrances
+@AfroEmpire-us
+@DarkRootsStorytelling
+@BrokenHeartTales1
+@HFYMidnightVault
+@Read_RedditStories
+@FamilyEchoesUnseen
