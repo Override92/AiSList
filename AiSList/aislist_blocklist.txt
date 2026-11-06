@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47940
+! Total Channels: 47941
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24026,7 +24026,6 @@
 @before_history_0
 @capcen01
 @theworldrevealed1
-@oladooculto-k3o
 @intothewild_0543
 @smashedvinyl
 @toonduniya100m
@@ -47956,3 +47955,5 @@
 @vdf-t2w
 @volkanman
 @whispersofeire-woe
+@paradoksyinzynierii
+@bisernicazemun
