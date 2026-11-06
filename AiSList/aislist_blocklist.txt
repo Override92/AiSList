@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47935
+! Total Channels: 47936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14889,7 +14889,6 @@
 @GodOurRefuge
 @FortifyinChrist
 @the.faithfulbuilder
-@shortjesusprayers
 @GuardianAngelBlessings
 @ThinkEnglishAcademy
 @angelmessagesjoy
@@ -47951,3 +47950,5 @@
 @wcudzej_skorze
 @okrucienstwoprzeszlosci
 @szczegolowezbrodnieizaginiecia
+@psychetideyt
+@alysaliuskatingstar
