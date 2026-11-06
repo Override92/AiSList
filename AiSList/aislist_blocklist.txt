@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47644
+! Total Channels: 47653
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47660,3 +47660,12 @@
 @BlackQuillSociety
 @PurelySatisfying88
 @thesleepysith
+@GalacticAtlasLore
+@StomedyYoutube
+@ZenkaiTV-lv2vh
+@Insidefactoryprocess
+@CleaningX-u4w
+@FutureXProcess
+@GajaagaMangu%C3%A9
+@AncientSecretsFR
+@vince5427
