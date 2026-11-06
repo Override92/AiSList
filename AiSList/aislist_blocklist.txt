@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47743
+! Total Channels: 47752
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47759,3 +47759,12 @@
 @TheHumanFrontier-r1s
 @LegacyofTerra
 @StartboundHFYstories
+@HFYLoveStories-w5o
+@FictionalReimagined
+@SciFiTimeZone
+@PulseSci-Fi
+@Sci-fiJourney-w7l
+@VintageClassicsChannel
+@HFYNexus-k4m
+@buildthehouse1990
+@scifiempress
