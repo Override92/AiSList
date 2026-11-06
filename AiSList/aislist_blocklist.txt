@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48077
+! Total Channels: 48075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8496,7 +8496,6 @@
 @Recessionwarnings
 @RootsofSurvival.1
 @BuriedSurvivalSecrets
-@TheArchiveofWhispers
 @dadsrawrevenge
 @TheGlobalLens123
 @MobileAlert-p4v
@@ -16410,7 +16409,6 @@
 @akiyama-design
 @mertwla
 @minifood125
-@aiveggieverse1
 @legacyfinance1
 @AITunesIn
 @A.IdelasAlas
