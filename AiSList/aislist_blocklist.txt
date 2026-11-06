@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47330
+! Total Channels: 47332
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47346,3 +47346,5 @@
 @HFYStalkersx
 @women_of_thebible
 @peculiarexplained
+@BrothersofSteel-m5n
+@VelmoraTV-i8v
