@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47957
+! Total Channels: 47967
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47973,3 +47973,13 @@
 @ch46jc
 @MoneyStickman-l6b
 @WWIIHIROSHIMA
+@FreedomFinance-US
+@MoneyCode-k6e
+@TheWWIIChronicle-v1f
+@MoneyStories-USD
+@PrimalBanter
+@Norton-r3z
+@StickFoundry
+@FamilyReceiptsUnsealed
+@FrannieOnHerOwn
+@CaddenStabell
