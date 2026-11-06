@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47349
+! Total Channels: 47359
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47365,3 +47365,13 @@
 @ReelFakeMedia
 @NazmaulFanFilms
 @FrameHub-746
+@BVFilms12
+@Bointhehouse
+@Darktronics
+@TunnelVisionFilm
+@DigitalDreamsCinema
+@Nexus_AI_Cinema
+@lynnbutzlaff1507
+@QuidPodQuo1
+@Echoesofarda
+@XxCaoDeBrigaxX
