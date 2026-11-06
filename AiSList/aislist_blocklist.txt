@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47762
+! Total Channels: 47772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47778,3 +47778,13 @@
 @HumanSupremacyStories
 @outtaworld
 @HFYprince
+@StarboundHumanity-f6y
+@HistoryRewritten-g2c
+@FBXFilms
+@WhisperingHearts-d1c
+@NebulaNarratives5
+@HFYAlienGuard
+@fictional-storytime8
+@QuietDignity-g6g
+@SecondWorldWarLegends
+@FutureGalaxyHFY
