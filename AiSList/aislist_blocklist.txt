@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47634
+! Total Channels: 47644
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47650,3 +47650,13 @@
 @Guddu-Bandar-Vlogs-f9k
 @SamuelEstela-z8d
 @Middle_earth_mysterie
+@FellowshipoftheLore
+@AtMidWhispers
+@TheDual-Wielder
+@MiddleEarthTales
+@Artreii
+@KingsAndRings
+@OrdemNerds
+@BlackQuillSociety
+@PurelySatisfying88
+@thesleepysith
