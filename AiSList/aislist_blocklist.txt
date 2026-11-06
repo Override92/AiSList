@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47940
+! Total Channels: 47935
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17800,7 +17800,6 @@
 @UNIQUETIME_BD
 @Ancient_Signal000
 @CollapseTheoryUS
-@SpaceXInsider247
 @Driftscape-l2l
 @CalmSpace369
 @UnrealWorldTravel2026
@@ -32618,7 +32617,6 @@
 @Neurocartel
 @SensoryOddities
 @TheCareerChronicles-k5d
-@Allisa-Carter
 @TheMuscleCartel
 @mocomocoroomdiary
 @EmmaCarrelo-c3f
@@ -34318,7 +34316,6 @@
 @TheSuppressedFiless
 @HoaDramaFilesDaily
 @foodbrandfiles
-@PaperTrailFilesAnimator
 @AncientLoreFiles1
 @TheSpyFiles-i5b
 @nofacefilessss
@@ -40352,7 +40349,6 @@
 @Sci-Fi-Legends
 @LegendsUnfold123
 @Frostburn101
-@BrainFossils
 @myLernoora
 @PastHistory3
 @MysticRomanceHeir
@@ -40480,7 +40476,6 @@
 @QuietMindWisdom19
 @wanidapromchat5338
 @Oops_Americans_Everywhere
-@TacticalAges
 @TwistofFateStories-g9i
 @MuraAudio
 @MoneyInsiders-l2j
