@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48073
+! Total Channels: 48075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48089,3 +48089,5 @@
 @CONTRAMANO-m7n
 @melhornao-c8l
 @diegocarmesielenavargas
+@Otebe-u8r
+@ZooBuzzz
