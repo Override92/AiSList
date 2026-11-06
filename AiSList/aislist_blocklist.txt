@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48073
+! Total Channels: 48072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35072,7 +35072,6 @@
 @elzoratv
 @pixelcasemedia
 @clone.creatives
-@WavesVinyl
 @fellnahde
 @GetPuzzleNest
 @festivevinyl
