@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 47538
+! Total Channels: 47548
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47554,3 +47554,13 @@
 @Britstoryai
 @bulldoglife-v4n
 @CARTOONAIANIMATIONS
+@CartoonAimagic-p6c
+@BalkanCrossroads
+@cartoondhamaka-w7v
+@Cartoonist-o5n
+@Cartoonaivideos-w3l
+@LegacyTunes-g3r
+@CARTOONAiVIDEOS-x2p
+@cartoonbankai
+@CartoonForKidsAI-1
+@CartoonKidAI9
