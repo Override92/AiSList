@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48247
+! Total Channels: 48257
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48263,3 +48263,13 @@
 @hostilisfiles
 @유저al
 @幻想ヒロイン
+@AlaukikVenunaad
+@iamskn_yt
+@FutureLineFactory
+@backporchsoul-music
+@Ghiblicinema-u2h
+@AdamCantanhede
+@anel-tok
+@Kindrelia
+@hanybahgat
+@thierrybezier
