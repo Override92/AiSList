@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48518
+! Total Channels: 48528
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48534,3 +48534,13 @@
 @IronCreekRidge-IC2
 @PLAYSounds-e3g
 @EchoStories-s4v
+@ShantiuniversbyChandu
+@AlphaVowStories
+@MrWinner-f3v
+@BookArtbyAmai
+@EnigmaMysticSounds
+@ARQ.Studios
+@MultiGameplaygod
+@MichaelWalker-z9e
+@HiddenAura-n9k
+@SurrealinMotion
