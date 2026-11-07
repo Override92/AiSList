@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48685
+! Total Channels: 48695
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48701,3 +48701,13 @@
 @STARWORNKNIGHT
 @mjsecretromance
 @SeasideRainRetreat_68
+@Drekruna
+@HistoricEnglishAudio
+@FiresideHaven-1w2
+@MellowRain-g1q
+@Herconfidence-s61
+@FreyaDrama-f5d
+@echosphererafael
+@TGDaniHearts
+@HFYLustrum-n2t
+@melodyvisuals_channel
