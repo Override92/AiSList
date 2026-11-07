@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48344
+! Total Channels: 48354
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48360,3 +48360,13 @@
 @melodyboxhub
 @softghiblistories27
 @Lysonaevision
+@NeshAIOriginals
+@AyushiUnwritten31
+@medieval.lovestory
+@EmmaBlake-79
+@SoundsofTorlom
+@DramaPages-k8z
+@EverythingJackson-J5
+@AcceptingLove
+@DynastyofGods
+@favouredtales
