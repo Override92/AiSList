@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48224
+! Total Channels: 48219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8116,7 +8116,6 @@
 @animaterdia
 @zycieoczamikotow
 @starozytnehistorie24h
-@starozytne_historie
 @WealthStrategyRoomfanchannel
 @TrippyTapesFM
 @EchoesofBabylon
@@ -42601,7 +42600,6 @@
 @vintagesignal-n5d
 @dreamboxcinema
 @秘事剧场
-@snoopysdreamyloops
 @AllDayLoFiChannel
 @Lofialpacapaca
 @PeopleWHYS
@@ -42624,17 +42622,14 @@
 @Cheekyranks.11
 @Adamconstruction-y6m
 @TMaxMoment
-@BeyondTheSolarSystem
 @TorqueTruth-k4u
 @analogdreamer_official
 @ValerySobgoum-r5j
-@LawrenceWilkersonAnalysis
 @Cheekyymedia
 @ChristinaCriscioneFanChannel
 @MilitaryAirPower
 @AlertaChacal
 @bestfuturetechs
-@BLfirearms05
 @moto__junkies
 @AbandonedBuildsASMR
 @Flavorrebels
