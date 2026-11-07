@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48235
+! Total Channels: 48245
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48251,3 +48251,13 @@
 @Koden_obscure.official
 @whyfaster
 @HowMeetsHistory
+@WildWestSurvivors
+@theslowwaychannel
+@OldWestLegendStories
+@WitchEstherRadio
+@Human_Animal_Crime25
+@TonyAngelAIVEVO
+@MystKadeMX
+@ReverieLabs
+@lastactionhero7888
+@MadHistoryTV
