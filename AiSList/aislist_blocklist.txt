@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48187
+! Total Channels: 48196
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48203,3 +48203,12 @@
 @WeirdlyWired-e5n
 @ScienceUncoveredd
 @WheelWisdom-v7z
+@silentpsychology-s8f
+@Elitecars-r7u
+@christofferskoog9210
+@britrewind-d6u
+@UNveiled-h1k
+@UnsolvedUSA-j1l
+@TheMaking-r9d
+@Wetube-i4o
+@EchosdesKosmos-w4l
