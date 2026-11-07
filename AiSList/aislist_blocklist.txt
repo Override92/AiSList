@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48209
+! Total Channels: 48219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48225,3 +48225,13 @@
 @高橋ゴードン
 @gowripriyamss
 @ltcai-h7p
+@Tigerthe_Rottweiler
+@EliBigs
+@moying-2
+@MotionMangaTV
+@VOIDHExCULTURE
+@LYManhwaRecap
+@TrueRevengeStoriesUS1
+@OfficialironJarl
+@thetailoredfarm
+@VirtualAiLab
