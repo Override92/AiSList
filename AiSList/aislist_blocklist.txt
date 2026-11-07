@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48075
+! Total Channels: 48082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48091,3 +48091,10 @@
 @diegocarmesielenavargas
 @Otebe-u8r
 @ZooBuzzz
+@SewWithNora
+@HumanityBeforeUs-n1j
+@WojakAtlas23
+@GrimdarkBreakdown
+@KlugePsychologie
+@CRYPTIS1
+@PoliticalLife-y1p
