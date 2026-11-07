@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48286
+! Total Channels: 48294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48302,3 +48302,11 @@
 @AbdulHameed-o6i1o
 @OlvidadosdelaBiblia
 @Sikimonty
+@SPAMhooligans
+@lapecadoramusic
+@elroydsouza8671
+@DeepRestLoungee
+@HELIOSPROTOCOL
+@CountryTrapCoOfficial
+@SECRETPASSIONS
+@DukesSecret
