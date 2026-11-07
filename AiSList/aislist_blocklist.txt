@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48702
+! Total Channels: 48700
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29268,7 +29268,6 @@
 @RealHorrorStories-666
 @goldenhistory-n9h
 @XP-historiesmyths
-@RootsStories-p9n
 @Strawberitastories
 @mrbirdexplains
 @RomelinHistory
@@ -29354,7 +29353,6 @@
 @Nightwindreels
 @TechExplainerGuy
 @AnnaBackInTime
-@StoicDerrick
 @thisguyknowsstuffyt
 @DnDWilliam
 @GhibliArtstudioG.A.S
