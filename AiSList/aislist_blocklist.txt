@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48216
+! Total Channels: 48220
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48232,3 +48232,7 @@
 @UsmanPromax-g3w
 @USADigitalWorld-t9m
 @TheAiStudio-q6x
+@FunnyClipsUSA-d1j
+@DailyPetNews-j1b
+@AiVideo-k5l6r
+@Magicalai-k7m
