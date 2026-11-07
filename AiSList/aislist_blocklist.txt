@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48508
+! Total Channels: 48518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48524,3 +48524,13 @@
 @lesny_kazik
 @ai드라마극장
 @yadam_mindam
+@PureResilienceMusic
+@SadieStClaire
+@MorganRitaSoulBlues
+@LittleWeatherJournal
+@MafiaHiddenDevotion
+@Sound_Art_Exploration
+@TheChroniclesofLegendsUS
+@IronCreekRidge-IC2
+@PLAYSounds-e3g
+@EchoStories-s4v
