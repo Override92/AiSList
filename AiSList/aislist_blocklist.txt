@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48220
+! Total Channels: 48223
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48236,3 +48236,6 @@
 @lumieredessecretsmystiques
 @LoveStoryManga-c1g
 @N%C3%B6rd-s5g
+@TipsForAHappyLife22
+@manhwarecap14
+@UnrealHearts
