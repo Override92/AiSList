@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48548
+! Total Channels: 48558
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48564,3 +48564,13 @@
 @islapersia
 @CozyTinyWorld-h1v
 @XIRATofficial
+@EchoesOfJenny
+@Scifilegendtube
+@aimusic9919
+@Xeranoa
+@theovmofficial
+@Betterthanyoulol-v8h
+@NostalgicGhiblistory
+@CrusavoxTemplar
+@NOCTE_music
+@OutlawFrequency-v8e
