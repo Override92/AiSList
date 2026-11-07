@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48538
+! Total Channels: 48548
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48554,3 +48554,13 @@
 @TheJadeArchives
 @FaelvoriaHarp
 @luantodd8876
+@manunafilms
+@TonightattheDramas-l9c
+@SOLARISSOUNDS
+@Talisa_sys
+@Conquest-Collapse
+@AlphasHiddenMate
+@MoonboundShortDrama
+@islapersia
+@CozyTinyWorld-h1v
+@XIRATofficial
