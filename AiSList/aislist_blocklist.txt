@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48214
+! Total Channels: 48209
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4452,7 +4452,6 @@
 @AdamBriefing
 @PastFutureSounds
 @techpulse_uk
-@NarrativeStories0
 @unconqueredhistory00
 @ensenanzasderaydalio
 @norgemilitar
@@ -9011,12 +9010,10 @@
 @HFYStoriesToday
 @HFYSci-FiStoryx1
 @HFYSci-FiTerravicta
-@HFYStories-stories
 @AIKilledTheArtist
 @AIStudyHub.18197
 @AIVision-h5t
 @AnimatedGeopoliticss
-@BreakingPoliticsUSA
 @Pacifierpolitic
 @HumanDecode-g6s
 @DruckenmillerGuide
@@ -13876,7 +13873,6 @@
 @TheNot-So-DistantPast
 @TheSopranoFiles
 @nickinvestsUS
-@Meshachstories
 @GMUpdate1
 @auriculardiscovery
 @SoldiersofAlmighty
@@ -42147,7 +42143,6 @@
 @LordSnippet
 @AIChefPro
 @AiDadikidunia
-@KitchenoraAI
 @kitchenverse-kiki
 @chefai888
 @Memeboxd
