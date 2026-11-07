@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48226
+! Total Channels: 48227
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48242,3 +48242,4 @@
 @李日语
 @聖なる寺院
 @9ridich-j7m
+@AntonioSabatella-j6y
