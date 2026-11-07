@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48228
+! Total Channels: 48223
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22779,7 +22779,6 @@
 @timinglinestories
 @KinoderSchatten
 @JaydenKeva
-@AlphaMoonStories-US
 @AlphaOmegaTales26
 @kaye_creative
 @Crescent_Shadow_Tales
@@ -42632,7 +42631,6 @@
 @AbandonedBuildsASMR
 @Flavorrebels
 @dialitdown
-@GentleDadJourney
 @VibeLandCentral
 @MusicCuts-k2d
 @Jigyasa-e
@@ -42674,7 +42672,6 @@
 @TeriAnxio
 @TimeTravelerVlogs-m3k
 @Jorgenicolas02
-@CozyGhibliCartoons
 @YAYA-g7y1g
 @HistorysSecretsRevealed-q7x
 @StarToons424
@@ -42909,7 +42906,6 @@
 @GrandpaNitrox
 @SecLabNewsEng-h9j
 @rumibabybaby
-@MavonExtraa
 @goattothemoon
 @TavernMusicbox
 @smilebehappyworld5064
@@ -43121,7 +43117,6 @@
 @CreatewealthwithYogendra
 @YaSTOLYARcrypto
 @AnalogCatm
-@nnotscared
 @Machinesongs-v2d
 @7Movie-n3k
 @Filmohouse-ge8zx
