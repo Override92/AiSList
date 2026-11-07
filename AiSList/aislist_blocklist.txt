@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48206
+! Total Channels: 48216
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48222,3 +48222,13 @@
 @LongevityMoves-s3r
 @Dr.JohnMeyersSeniorHealth-h3w
 @SeniorHealthPro-s5o
+@HealthSimplified-y4i
+@Advicefortheelderly
+@InfiniteWellness-f8h
+@StickToons-t5g
+@usdaily-g6m
+@CityAnimals-zs1ci
+@mehboobali-ls4vo
+@UsmanPromax-g3w
+@USADigitalWorld-t9m
+@TheAiStudio-q6x
