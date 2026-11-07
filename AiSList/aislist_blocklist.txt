@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48213
+! Total Channels: 48211
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5159,7 +5159,6 @@
 @shidharthamondal2084
 @SurvivalUnfiltered
 @LARRYSURVIVOR
-@laucam.studio
 @DignidadSinFIltro
 @MidnightStorytelling-g9g
 @JusticeOnTape
@@ -13890,8 +13889,6 @@
 @NajibDigital6
 @AfricanTalesbyme-o3n
 @focus_flow99
-@Factory__Secret-p4o
-@FactorySecret2025
 @Zeebioreni
 @RealmsUncoveredOfficial
 @CanSec-o1n
@@ -48229,3 +48226,4 @@
 @ajayvlogs0349
 @aiartpoonam93
 @kpopbrasil02
+@sweethoneydrama-1
