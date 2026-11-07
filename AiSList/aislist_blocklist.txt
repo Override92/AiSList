@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48504
+! Total Channels: 48508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48520,3 +48520,7 @@
 @AI.CINEMA.STORIESS
 @SnapDramaLab-j8r
 @FateComesBack
+@futurewealthai-stocks
+@lesny_kazik
+@ai드라마극장
+@yadam_mindam
