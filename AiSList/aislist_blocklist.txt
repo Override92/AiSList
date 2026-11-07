@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48148
+! Total Channels: 48158
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48164,3 +48164,13 @@
 @HowThingsAreMade-r2k
 @NextGenManufacturingprocess
 @Machinisst
+@BiblicalEntitiesRevealed
+@DiscoverAustralianCities
+@LockFramee
+@HabanaEterna
+@La_Clave_Music
+@ItaliaMelodies
+@DarkDocsSkies
+@originsandtales
+@HydroCoreEngineering
+@ForgottenPlantRemedies-w1d
