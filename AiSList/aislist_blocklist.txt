@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48219
+! Total Channels: 48221
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42083,7 +42083,7 @@
 @jasonbeingridiculous
 @LittleWondersAI-i8w
 @GrigorCreator
-@NnNN-d1v6j
+@ainaimstories
 @ChefNehaAi
 @Reyanshi007_ai
 @Rajaaistoryhub2
@@ -42293,7 +42293,7 @@
 @CrazyMonkeyAI01
 @BlissByTripura
 @kidsstoryai-sb
-@NEUROUZAI
+@maktabkontentuz
 @NovaCineLabStudio
 @Unlimit3StudiosTelugu
 @swamy_aicooking
@@ -42354,7 +42354,7 @@
 @TorontoCinema01
 @PixelSeoul
 @CoolCalmCorrected
-@AIStoryVerse-n5e
+@story_7272
 @AiCartoonAnimation13
 @storyteller-l2v
 @TinyAIKitchen_1
@@ -48235,3 +48235,5 @@
 @OfficialironJarl
 @thetailoredfarm
 @VirtualAiLab
+@naat_wali_90
+@funkingdom247
