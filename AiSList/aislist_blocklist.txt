@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48364
+! Total Channels: 48374
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48380,3 +48380,13 @@
 @CaspianWren-y2i
 @LegadoYVerdad
 @Eva_Lan
+@JayShetty84
+@GMB-Records
+@sparksoflightmusic333
+@Mystic%C3%89ireMelodies-b3w
+@MoonofRevenge
+@RubyNoirMusic
+@HolyScriptureAI
+@TianNexTech
+@lyutaya1mba
+@LaVozDeJes%C3%BAsMedia
