@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48498
+! Total Channels: 48504
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48514,3 +48514,9 @@
 @이세계로망
 @ai短劇王國
 @버블단막극장
+@ZeetalxStudio
+@sia_be_or_not
+@ParisAIDrama
+@AI.CINEMA.STORIESS
+@SnapDramaLab-j8r
+@FateComesBack
