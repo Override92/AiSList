@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48129
+! Total Channels: 48131
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48145,3 +48145,5 @@
 @Thinkbeyond-e6z
 @EXPLORIUM-h3v
 @Creative-i6
+@BookOdyssey-k1x
+@MOZ-ISLAND
