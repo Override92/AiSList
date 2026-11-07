@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48230
+! Total Channels: 48225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5803,7 +5803,6 @@
 @EmberVengeance
 @RevengeByFacts
 @Zoeslesson
-@thephantomdon
 @LessonsFromLongLife
 @SeniorBookYT
 @TheBigFootRecord
@@ -15432,7 +15431,6 @@
 @echoeswisdomztv
 @bubbleblissasmr01
 @pocketbalmfolktales
-@somedumbbchannel
 @inspiringstories24h
 @teddymusic-j4r_fan_made
 @sertanejo_por_ia
@@ -43442,15 +43440,12 @@
 @AmbientArtDisplays
 @LunaSkyeTvArt
 @LeafAvenueArt
-@TVArtin4K
 @EvergreenAmbienceTV
 @EtherealTVArt
 @MoonlitFantasy-q2d
 @Frametvart-r5z
-@frametv.art4k
 @NaasGallery
 @CreativeTVArtGallery
-@pittura_tv
 @FrameTVArt.
 @CanvasNCalmTV
 @Amazon2Expert
