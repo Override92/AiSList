@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48123
+! Total Channels: 48126
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17363,7 +17363,7 @@
 @Varizzz
 @WakaRecap
 @the_firstdawn
-@solardreamjj
+@littleheartstories21
 @A.I.VideoStudio
 @Sci-FiVault
 @EchoRealms-y7m
@@ -48139,3 +48139,6 @@
 @CrazyAIShortsUSA2026
 @PresAFK
 @AIafterhoursShorts
+@officialinnovationbreakdown
+@mellowdaysjazz
+@dooory.official
