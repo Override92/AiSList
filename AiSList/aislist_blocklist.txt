@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48655
+! Total Channels: 48665
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48671,3 +48671,13 @@
 @pianoinrain8888
 @CelticGoesRight
 @%E9%A2%91%E9%81%9323-e9b
+@silvermoonvault
+@talesbyalexa
+@Jaynoviamusic
+@VALORIAFANTASY
+@CelticFolkEcho
+@StoicHenry-g9o
+@MoonveilJazz
+@TheComputationalUniverse
+@NolansFiresideStories
+@ObeseLady
