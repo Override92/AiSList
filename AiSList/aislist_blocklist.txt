@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48082
+! Total Channels: 48092
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48098,3 +48098,13 @@
 @KlugePsychologie
 @CRYPTIS1
 @PoliticalLife-y1p
+@LastToybox
+@CosmicWhispers-k3v
+@TheUKCurrent-f5v
+@SamAncientWorld
+@%EB%A0%88%EC%8A%A4%EA%B8%B0-e9v
+@KrishnaTalks%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE
+@helloexplainer-r8u
+@SpacePaint-c5c
+@PowerDeinLeben-c3u
+@CarlJungsSchl%C3%BCssel
