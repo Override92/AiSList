@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48481
+! Total Channels: 48486
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48497,3 +48497,8 @@
 @世情档案馆
 @涨鱼剧场
 @lefelinnoir
+@快看好劇tv
+@별별필름byeolbyeolfilms
+@goldenebuhne-v8r
+@별빛숏드라마
+@おさるの惑星
