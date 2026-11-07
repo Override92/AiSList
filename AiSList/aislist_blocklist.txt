@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48568
+! Total Channels: 48575
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48584,3 +48584,10 @@
 @CountryRockPrayer
 @elpoderdelacanci%C3%B3n
 @BeyondRealmsStories
+@Nexora_studio-u2k
+@AasifNoorAi_1M
+@ZAHRA-b7b6z
+@DiePsychologiedahinter-f1u
+@UnravelAncientHistory
+@RefugiodePaz-u1u
+@Historiasb%C3%ADblicashoyHD
