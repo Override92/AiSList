@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48112
+! Total Channels: 48122
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48128,3 +48128,13 @@
 @Schrattlgraf
 @TheRockEconomy
 @MarcusSurvives
+@TheTimeShift2
+@TechOnCue
+@BommelandBrosel
+@TheAI_POV
+@TheAIpointofview
+@ANIMALSAI-or7ic
+@CrazyAIStudioBD
+@CrazyAIShorts-l9m
+@CrazyAIShortsUSA2026
+@PresAFK
