@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48102
+! Total Channels: 48112
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48118,3 +48118,13 @@
 @CineScope-pm4ve
 @MrPotato_TV
 @RevengeDiary-i8m
+@AmosMiller-q9l
+@AMZMusic-g3n
+@BehindMarginStories
+@why_it_works-wiw
+@Rumistoryworld-e7z
+@momo-ic7zk
+@ThePawsyPals
+@Schrattlgraf
+@TheRockEconomy
+@MarcusSurvives
