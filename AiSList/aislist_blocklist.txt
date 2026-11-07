@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48211
+! Total Channels: 48210
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13900,7 +13900,6 @@
 @LetANonagon
 @ClipCove
 @AIアメリア
-@SolixYoutub
 @Reel2Real-TV
 @Omniautica
 @imlogz1
@@ -24013,7 +24012,7 @@
 @AiAnimation-u2v
 @PaintedClassicTales
 @monumental.shorts
-@john-uncle-official
+@japanesemethods-officials
 @thenutrientcodetv
 @eagletraderict0330
 @marketwise-j1e
