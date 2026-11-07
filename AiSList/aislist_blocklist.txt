@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48413
+! Total Channels: 48423
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48429,3 +48429,13 @@
 @TheAfricanMythos
 @AfricanBedtimeStoriesbythefire
 @AfroChron
+@AfricaUntoldOfficial
+@TrueAfricanCulture
+@Africosmos1
+@AfrikanFolkloreVault
+@that-africanchic
+@FolkloreAfrik
+@Griots_Of_Africa
+@AfricanStoriesTeller
+@FolkloreAfrica547
+@RootsofAfrica-s7w
