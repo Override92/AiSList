@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48389
+! Total Channels: 48399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48405,3 +48405,13 @@
 @銀髮心靈電台
 @대한한수
 @dramaraicesdefortuna
+@africanbychichi
+@MythsLegendsofAfrica
+@AfricanEchoesbyLois
+@SecretsAncestorsAfrica
+@EpicAfricanMyths
+@Africanfolktale-s2i
+@AFRICA_STORY
+@AcresOfAfricanstories
+@AfricanWisdomStories-i1q
+@EchoesofAfrica193
