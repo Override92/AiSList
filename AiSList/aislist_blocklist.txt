@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48220
+! Total Channels: 48215
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1139,7 +1139,6 @@
 @mifrahtabassum
 @animalai-c1t
 @aishorts-h4o
-@aicartoonh5121
 @ai.storypk
 @toddlersstoryworld
 @amit_offical649
@@ -4904,7 +4903,6 @@
 @Neow-AI
 @HappyMeowMeow93
 @phonkhub68
-@StrategicLedger-r7n
 @ShannonBream9
 @AgEconomy
 @FeynmanLightFiles
@@ -15945,7 +15943,6 @@
 @HiddenTheoryai-i1q
 @SolemnHourOfficial
 @HistoryhouseChannel
-@RelaxingBoringHistoryForSleep
 @AfricanaVoices8
 @ElanAfro
 @JiffanAzakho
@@ -16451,7 +16448,6 @@
 @ihuomaengineeringgroup
 @Aimonkeyoffical
 @AIWorldUnseen
-@aiworlds-mht
 @nyanrisa2
 @aicreation-d4v
 @AIWorldSudha
@@ -26595,7 +26591,6 @@
 @AIFruitStories-c1f
 @AI-FRUIT-ISLAND
 @Anshaidrama
-@fruitsaistories23kac
 @Fruit_Talk_AI
 @ai.fruits.storiess
 @DastaanHub-i9w
