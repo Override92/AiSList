@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48625
+! Total Channels: 48635
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48641,3 +48641,13 @@
 @rubyoutlaw
 @TheQuranChronicles-Zee
 @SatisfyPlanetASMR
+@EcosdeElara
+@RansomCreed-GFM
+@Fonlord
+@theheirloomheart
+@StoicRobert-s8b9m
+@WeatherLans
+@TheTalePsyche
+@realverse_studios
+@WILL_WORD_8
+@DanijelHajduk
