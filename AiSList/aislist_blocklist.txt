@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48300
+! Total Channels: 48305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48316,3 +48316,8 @@
 @meridianrelax6863
 @HealingWhispersVlog
 @RainbowSnailMusic
+@LindaStone-Epic
+@artoffx7717
+@dreamwithinus
+@UnlostWithChrist
+@pauserepeatnordicmusic
