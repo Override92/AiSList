@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48489
+! Total Channels: 48494
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48505,3 +48505,8 @@
 @蛋炒饭剧场
 @숨은장부
 @식질노예
+@팬심공방
+@조선재즈
+@兔瓦斯甜劇
+@柚子youzi-j8k
+@橘子海耽美館
