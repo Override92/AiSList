@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48219
+! Total Channels: 48217
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1150,7 +1150,6 @@
 @extreme_ai_s
 @saicartoon-v7w
 @ai_adventures_xo
-@unreadableai-00
 @aishortvideoa4i
 @sumanbhakat-w3y
 @aivideos1.1a
@@ -15969,7 +15968,6 @@
 @AfroSoundLab-d6x6c
 @MaskandiVibes-p8o
 @CityRhumba
-@FlavourBEntertainment
 @rugwemedia
 @AfroVibeNation-j7z
 @AfroIzzayBey
