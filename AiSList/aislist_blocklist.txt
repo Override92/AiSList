@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48223
+! Total Channels: 48218
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5836,7 +5836,6 @@
 @MRJ_Metal
 @TexasBluesVibes
 @WhiskeyBluesRelax
-@CozyGuitarRoom
 @PsycheDesert
 @Cello_Classica
 @THELASTOUTLAWRADIO
@@ -43117,10 +43116,8 @@
 @CreatewealthwithYogendra
 @YaSTOLYARcrypto
 @AnalogCatm
-@Machinesongs-v2d
 @7Movie-n3k
 @Filmohouse-ge8zx
-@ApexAction1
 @DEEPest-u4l
 @SlatewatchAI
 @RosewoodCinema-s9v
@@ -43140,7 +43137,6 @@
 @DemonMusicEs
 @Book_Summary_podcast
 @CaseClosedPodcast1
-@GreenMedia-b2y
 @RealBigFootIRL
 @TimeFragment-t
 @Ascendance-OriginUniverse
@@ -43164,7 +43160,6 @@
 @YouInThePast
 @ProfessorKatze
 @AmericaBeyondtheTextbook
-@Explain-Matics
 @TheHumanStory8
 @Datchunckyseal
 @DessieJ
