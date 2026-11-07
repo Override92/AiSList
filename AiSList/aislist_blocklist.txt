@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48267
+! Total Channels: 48277
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48283,3 +48283,13 @@
 @martonbohn
 @GypsyLord4069
 @Alex_The_AI-1.0
+@romainyvos
+@centausun5908
+@uphantasy
+@SoldierX_NICK
+@weaselyoutube
+@DJ_Pru
+@ProjectorOfficial
+@zivinka_
+@blackstoneaudio-ob
+@DioCountry
