@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48695
+! Total Channels: 48703
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48711,3 +48711,11 @@
 @TGDaniHearts
 @HFYLustrum-n2t
 @melodyvisuals_channel
+@MissionAurelia
+@SEIDR_official
+@ViolinVibeMusic
+@ZaymaraDreamWorld
+@GoldenEchoesofEgypt
+@Echo9-Channel
+@RedHollowRoad
+@dorapooh25
