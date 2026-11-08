@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50458
+! Total Channels: 50468
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50474,3 +50474,13 @@
 @SathishTeluguMedia
 @afrorelaxingmusic
 @H2BeatsOfficial
+@AfroSeoulDiaries
+@GigaTravel
+@AfricantalesBylope
+@dkgujaratimotivational
+@Afro-koreanRomance
+@eileennoise9515
+@AfrobeatGoodVibes
+@AutumnHaven91
+@afro-koreanlovetales1
+@stormvargofficial
