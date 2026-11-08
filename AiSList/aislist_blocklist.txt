@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51250
+! Total Channels: 51260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51266,3 +51266,13 @@
 @Carcry
 @svetlanakuleshov9829
 @TheGardenOfTheKnowledge
+@TrueCrimeExplained9
+@simulaverse
+@before.civilization35M
+@HockeyBlizzard1
+@AlloftheAbove50
+@MAGAZINE-mw1qm
+@Histoney
+@TruthOverTears
+@EPluribusUnum-OutofManyOne
+@Tearstales123
