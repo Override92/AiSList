@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49584
+! Total Channels: 49594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49600,3 +49600,13 @@
 @ValhallaFrequencies
 @shetellsafrica
 @Salma-Africa-Folktale
+@KingdomsandSpirits
+@AfroKoreanStories0
+@AfricaMythologyExplained
+@Afro-Koreanfusionstories
+@afrokoreanromance-storytime
+@AfricanLorebyElla
+@MotherlandAfricaSpeaks-d2p
+@TheIbrahimLetters
+@everything_africa007
+@AfrokoreanStoryvault
