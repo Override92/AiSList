@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51231
+! Total Channels: 51241
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51247,3 +51247,13 @@
 @Diagnosis_Glitch
 @PashaRebane
 @VidasqueTransforman-n8y
+@BedTime-w2z
+@CozyCornerLofiMusicChannel
+@Incrediblediscoveries-p2f
+@DiscoverySkills-wh4fu
+@BehindTheMurder-4k
+@HumanityBeyondLimits-u3s
+@HFYGalacticChronicle
+@TheRedGalaxy-t5p
+@HFYRegrettedIt-e5h
+@HFYHumanity-q3i
