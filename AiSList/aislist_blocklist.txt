@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51626
+! Total Channels: 51621
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25790,11 +25790,9 @@
 @manoikura
 @comicsoon-c1w
 @Romesecrets
-@AIMagic-rr
 @TinyWorkers-3
 @UKThrillo7
 @MiniChefAI-Official
-@ChefHabibAI
 @behind-the-chef-ai
 @Animalchef01-r5g
 @Minikitchen_ai
@@ -25853,7 +25851,6 @@
 @fortunestories-k6u
 @WhyYouDoThat-c1d
 @StarShortPlay-e1i
-@LegendToon-l7o
 @muchomono
 @neon.orchestra.project
 @OpusReimagined
@@ -44887,14 +44884,12 @@
 @SatisfyingRestorations-v5d
 @PineGlassMusic
 @DeepPsychology-y8v
-@HIDDENHACKS-24H
 @DANTECHELECTRICALS
 @AccidentalScholar
 @everythinggoddess1111
 @TwilightFantasy-3
 @ChillGame60s
 @HuntrixWow
-@PandaBreaksItDownn
 @GoblinTavernMusic
 @sleepingbabytavern
 @TheHornlessUnicorn
