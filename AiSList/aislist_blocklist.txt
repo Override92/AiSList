@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49384
+! Total Channels: 49393
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49400,3 +49400,12 @@
 @Professor_Doodle_1
 @ifnation-f4z
 @frostandthorn
+@chuckabeat
+@silentnorthmusic
+@winteroath
+@VikingAsh
+@Gerardmusic26
+@FOLK_CYBERIA
+@RexResonator
+@Iron-Peak
+@DARKVIKINGSRAP
