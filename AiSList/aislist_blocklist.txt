@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49023
+! Total Channels: 49033
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49039,3 +49039,13 @@
 @Shivtatvauntold
 @meridianofsilence
 @VintageItaliaStudio
+@RRISECORE-i2x
+@house33.studio
+@El_don_divino_de_la_voz
+@Autumncozyvibes
+@Rabinia_official
+@Bigfootfrachand
+@EmberRainSleep-c9b
+@Iskarioto
+@Luc%C3%ADadelaNoche
+@staticandsugar
