@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50823
+! Total Channels: 50833
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50839,3 +50839,13 @@
 @realidadeempane1
 @SahibAlSoal
 @emberwithshadow
+@ScaleShock-m2u
+@GraceEnglishLearning
+@LarryfromtheBasement
+@ElMapaAnimado
+@Sardox10
+@GeoSwaps
+@Final_Sight
+@Learn_with_Jesse
+@Geodudex
+@Mr.Doomsday2
