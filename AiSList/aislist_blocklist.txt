@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48863
+! Total Channels: 48873
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48879,3 +48879,13 @@
 @royaleblackswan
 @DRCMystery-t2n
 @OutlawUS-p4c
+@Littledreamsstudio-h1u
+@RustikaleRange-Legenden
+@NEKHO.V
+@BackroadOutlaws-j9q
+@Tellltraw
+@SecretHeartStories-7u
+@NANA-w2u4b
+@TheVisionIsReal26
+@casiorigin
+@SecretGL-m2k
