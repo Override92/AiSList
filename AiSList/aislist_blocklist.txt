@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48813
+! Total Channels: 48823
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48829,3 +48829,13 @@
 @QuantumAlphaKing
 @tranquilforeststudio
 @KronelixMC
+@Demona-Darkness
+@AIVOIDFLUX
+@AmaraReyesVEVO
+@CourageEternal
+@EchoesofTao
+@NightRainRelaxing
+@fekubaba-p4o
+@ArtworksByRokii
+@Olympianmuseyt
+@AmarixKalo
