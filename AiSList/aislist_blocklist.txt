@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49221
+! Total Channels: 49231
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49237,3 +49237,13 @@
 @PBC.BibleStudios
 @DarkX-888
 @DramaPop-h9g
+@GyansOfGaruda
+@GiaVossMusic
+@F%C3%A9emDeusSempre-v2c
+@SereneRainwoodSounds
+@onaisunderrated
+@FantasyRealmFilms
+@lostworldsofthebible
+@LoviqueMusik
+@kaivonlabs
+@foxysLab
