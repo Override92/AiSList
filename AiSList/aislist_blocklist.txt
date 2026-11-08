@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50408
+! Total Channels: 50418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50424,3 +50424,13 @@
 @LostinLove1950s
 @EchoesofSacredAfrica
 @GANGSTERDEEPHOUSE
+@afro-fy
+@ShivVishnuRahasya
+@KingdomofAfricanFolktales
+@ALHIXA
+@TheAfro-SeoulStoryteller
+@devasirius
+@AfroKoreanRomanceLove
+@AIFANS-ONLY
+@afrokoreanstoryverse
+@florestaadormecida
