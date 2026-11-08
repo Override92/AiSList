@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49291
+! Total Channels: 49301
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49307,3 +49307,13 @@
 @Eldrwyn
 @JocelynAIFilms
 @LunaShortDrama-d2n
+@ReddirtSouthernAnthem
+@Citl%C4%81liAn%C3%A1huac
+@ForeverCountryLyrics
+@TheEmotionalEdgeYT
+@obsidiansymphonyc
+@TwistFableDrama
+@insanitymusic
+@0-EchoGhost
+@ReverstormMusic
+@SweetDestinyStudio2
