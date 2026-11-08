@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50501
+! Total Channels: 50511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50517,3 +50517,13 @@
 @Overclockedseries
 @MaxedWhatif
 @average_ideas3
+@OnlyyIf
+@skeletronirl
+@OnePowerAway
+@MicrodreadHQ
+@MindMetrics-2k2
+@RavenAndRuneMusic
+@CompariData
+@TheSpaceQ
+@coeurlourd
+@RememberThisForMe
