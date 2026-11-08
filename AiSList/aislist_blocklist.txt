@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50968
+! Total Channels: 50978
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50984,3 +50984,13 @@
 @%EC%83%88%EC%BD%A4%EC%9E%AC%EC%A6%88%EC%83%81%ED%9A%8C
 @FutureVisionAIOfficial-k9k
 @PoponChill
+@MachineChronicle
+@whatisClaroscuro
+@EverythingDoodled
+@CarmenTheWaifus
+@War_Sci-Fi
+@virtualwealthai
+@chimpsexplains
+@PawStory-y5g
+@NextFoundry-z3y
+@AXIDEXA
