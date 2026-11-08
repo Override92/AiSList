@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48843
+! Total Channels: 48853
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48859,3 +48859,13 @@
 @VoidgraveSci-Fi
 @WereldVanJan
 @SuperheroineStoriesAI
+@GoldenZenGuzheng
+@hfy-hour
+@CalmedCabinAmbience-ddc
+@ChosenDivineVoice
+@TranceMars
+@StellarAwakening
+@RavensCall_be
+@GFL_Council_Messages
+@RainyHarbor-k7k
+@Ironhelm-esp
