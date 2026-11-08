@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48883
+! Total Channels: 48893
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48899,3 +48899,13 @@
 @FaithScripture-t6p
 @RiseShinePride
 @thevelvethourfusion
+@stoicmarty
+@AlvaVeld
+@MovieMagicm2
+@StarseedMusic-q2b
+@UNGHOSTY
+@NightriseRecords
+@SnowySerenity-e9s
+@LifeHiddenChapters-com
+@Dark_Ar1a
+@Limp-Noodle-AI-Movies
