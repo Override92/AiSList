@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51597
+! Total Channels: 51606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51613,3 +51613,12 @@
 @3Dstoryworld-w9i
 @EVOLUTION_OF_EVERYTHING-i5k
 @curiosityfactbased
+@QuietHarborStories-o9s
+@ItchyPixel
+@NovaExMachina
+@strangearchive68
+@RenovaTimeClips
+@NostalgicYesterday-q8g
+@curiouslyHub-k7x
+@WHATIFLAB2-j7i
+@KatiCorado-j7j
