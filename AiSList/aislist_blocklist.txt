@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48763
+! Total Channels: 48773
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48779,3 +48779,13 @@
 @RedClassicAdagio
 @TalesoftheOldWest-t4v
 @RabbitOdyssey
+@Musicmoonveil
+@flower_intelligence
+@PositividadDivina
+@AVENCRY.0
+@ZeroRough
+@hex_space
+@BedtimeMythsMysteries
+@rainabrava
+@EchoRaum7
+@CityRainRhythms
