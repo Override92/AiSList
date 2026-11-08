@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49809
+! Total Channels: 49819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49825,3 +49825,13 @@
 @MidnightPulse.888
 @sanatanyatra3784
 @ShahidChronicles19
+@EchoDriveSound
+@TheStoryRoom_Ez
+@Noor-e-Hikayat-5488
+@SerenAfrika
+@BeatsRush-p4m
+@africfolktaletv
+@PaulDaBreda
+@AfricanStoriesDaily-t8u
+@ALYEN17
+@GiwuTales
