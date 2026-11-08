@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50561
+! Total Channels: 50563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50577,3 +50577,5 @@
 @RedFrameTales
 @elunakaelr
 @FamilyRevengeStoriesUS
+@PASTINCOMMAND-q7e
+@MetaPuppet
