@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50763
+! Total Channels: 50773
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50779,3 +50779,13 @@
 @NieSenny-l8s
 @WarmNoiseJazz
 @Xx0WN3DxXtv
+@TakhayalLo
+@MoodMindsVibes
+@quasepossivel
+@ManKyoutube
+@oscsekai
+@HOMELANDAi
+@SignalNonsense
+@wowITNews
+@NordcraftMusic
+@anoukaverse
