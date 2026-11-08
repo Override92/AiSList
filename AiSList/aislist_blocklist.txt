@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49405
+! Total Channels: 49415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49421,3 +49421,13 @@
 @ZindagiFile
 @PandorasMask-i5r
 @ivealy
+@MapTally
+@MapleHoursTV
+@AtlasNumbers
+@MapEmpirex
+@K-SeoulFairytales2
+@EnglishThroughAfricanStorie
+@AfricanStoriesHub-NG
+@TheBaobabAfricanStories
+@AfroKoreanMafiaStories01
+@AfricanStoriesChannel
