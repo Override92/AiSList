@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50803
+! Total Channels: 50813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50819,3 +50819,13 @@
 @WorldForgeFilms2026
 @Iexploretheuniverse
 @CosmiCreator75
+@PrimerNivelPOV
+@blackwirevow
+@hit-vokal
+@21stCenturyApologetics
+@ThatOneTyler7
+@shion_ambience
+@SuperLogicReal
+@ZapGrowin
+@WhyThatYoutube
+@JapanTimeMachine
