@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50723
+! Total Channels: 50733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50739,3 +50739,13 @@
 @lowkhid360Music
 @theAIDENsense
 @MoviezStationStudios
+@AstonSpace1
+@longmanstudios
+@HistoverseUS
+@afro-carpathic
+@CaveCrushLore
+@VikingThunder-y5
+@TheIronFarmerYT
+@ScaFra
+@MindsetPhilosophyYT
+@AnujBhati
