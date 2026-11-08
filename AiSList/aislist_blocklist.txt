@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48722
+! Total Channels: 48725
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48738,3 +48738,6 @@
 @EleanorSpeaks-l2l
 @EchoesofKindness-h2z
 @MoneyMetricsLab-o5w
+@MadeonEarth-u7q
+@FactoryFlow-h2d
+@ManufacturingSecrets-o7t
