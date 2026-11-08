@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48973
+! Total Channels: 48983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48989,3 +48989,13 @@
 @RenzoBellano
 @QUANTUMZION1
 @vanDutchNL
+@SweetStory-g8w
+@Velora989
+@SYLVORA206
+@DreamyLee81
+@SonoraMusicSG
+@AlbadelSur_Music
+@DogmaDogWarrior
+@luxvibemusic100
+@LuziadoFado
+@AlternateImageInc
