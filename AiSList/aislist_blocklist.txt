@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50027
+! Total Channels: 50037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50043,3 +50043,13 @@
 @afrokomultiverse
 @SerenityArt-Official
 @Starlaceafrokorean
+@TinyBigDrama
+@AfricanFolktalesByJuliet-p2l
+@AlmadoFado
+@AfroKoreanAngle
+@ElDondelaVoz
+@ifelseworlds-yt
+@AfrokoreanMafiaStories
+@LluviaRelajante4K
+@firststepfilmsofficial
+@Afro-koreanDairies
