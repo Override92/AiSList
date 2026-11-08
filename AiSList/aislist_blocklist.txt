@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50097
+! Total Channels: 50107
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50113,3 +50113,13 @@
 @FRANKLINAFRICANSTORIES
 @unsaidfilmshq
 @AfroSaga-d8t
+@SillyHistorian
+@afrokoreanstoriesbyenduran-h2p
+@ifitallhappened
+@africanbillionairelovestories
+@ElLocoAlex1
+@irene_bosscreates
+@N8sWhatIf
+@AfroK-DramaHubAfro-koreanStori
+@TheTrace-23
+@KaeloveAfrokorean
