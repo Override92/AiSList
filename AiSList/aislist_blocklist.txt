@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48803
+! Total Channels: 48813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48819,3 +48819,13 @@
 @shamankailonami
 @RainyCozyHaven6262
 @MedusaMelodies
+@BasquePulse
+@kapa85
+@deadridersbr
+@SteelAndFreedomMusic
+@AzureBossa-r3u
+@SacredEchoesGregorianChoir
+@ResonantSix
+@QuantumAlphaKing
+@tranquilforeststudio
+@KronelixMC
