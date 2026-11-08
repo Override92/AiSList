@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49665
+! Total Channels: 49675
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49681,3 +49681,13 @@
 @FromLevelZero1
 @dayonekaifilms
 @Mr.AlmostReady
+@SurvivalLab-b6
+@Mindbean-p3k
+@UnthinkableLab
+@Bennreveals
+@unknownexplainer-r9z
+@stickman.explainerr
+@destinyrockmusic
+@kristiannammensma9104
+@human.exe11
+@Blink_Explains
