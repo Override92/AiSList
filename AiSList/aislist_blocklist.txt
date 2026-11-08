@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48793
+! Total Channels: 48803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48809,3 +48809,13 @@
 @Vinterdrommer
 @DjRaid-Raiden
 @NoctivaneRain-n5z
+@Dreadova_Official
+@MaggieHollowayOficial
+@SophieSkiesTV
+@AylaCruzOficial
+@markkshn
+@BlueExitTripHop
+@WarmMeowLullaby
+@shamankailonami
+@RainyCozyHaven6262
+@MedusaMelodies
