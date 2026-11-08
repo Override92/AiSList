@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50428
+! Total Channels: 50438
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50444,3 +50444,13 @@
 @TruthofDharma0912
 @KAfroTales
 @DAILYDEVOTIONAL-n1u
+@AfricanTalesbyMuni
+@ThaTrenchez
+@AfricanTalesByKofi-us
+@faevivid
+@AfroKoreanLoveStories-m4w
+@SecretstheBible
+@Afro-KoreanStories32
+@DramaSmokeSignals
+@African.Destiny.Narratives
+@sciencemysterylab
