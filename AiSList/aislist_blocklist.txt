@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49013
+! Total Channels: 49023
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49029,3 +49029,13 @@
 @Dev_Rahasya
 @ORBITAL_FLOW_FM
 @Worlds.Somewhere
+@KeellaTaylor
+@SilentSecretsAI-i5y
+@RainDarlins-countrymusicplace
+@BangerBeats1
+@JokerAwakening-s8h
+@EveSahira
+@Ravenborn-2026
+@Shivtatvauntold
+@meridianofsilence
+@VintageItaliaStudio
