@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50489
+! Total Channels: 50491
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50505,3 +50505,5 @@
 @AfroPulseFrequency01
 @MamaAfricaAi
 @AfroHouseMix-vibe
+@AmoraBossa-u2l
+@FuriousCars1-g3t
