@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50918
+! Total Channels: 50928
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50934,3 +50934,13 @@
 @RootRiot81
 @DilSargam-w6d
 @DarkFrameMind
+@thetylerbarnes0
+@Jaysinvestments
+@Agent100-doc
+@Tunes-zone
+@ControlledDemo-g6g
+@AtlasofOrdinaryThings
+@Nullsville
+@aiearnifyhub
+@LoculusCoreEngine
+@VibeTheoryShorts
