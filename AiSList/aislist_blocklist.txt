@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51078
+! Total Channels: 51088
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51094,3 +51094,13 @@
 @GlobalRhythmAI
 @EarthEngineered-v2t
 @CLASh-r9d2c
+@Dieren-Uitgelegd
+@RuangCDrama
+@VESTROL5OFFICIAL
+@elementanova_music
+@lunabunmusic
+@RiseWiser-hn
+@FoxAvengers
+@marfildraws
+@BLACKROOTS-d9f
+@jaylen_animations
