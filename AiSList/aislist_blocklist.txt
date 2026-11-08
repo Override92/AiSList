@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51068
+! Total Channels: 51078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51084,3 +51084,13 @@
 @SecretsoftheWildPlanet
 @SilentSniperCommand
 @Night-m2l
+@joshuamoses-investigator
+@SleeplessCitiesMusic
+@DoodleDude777
+@SilentObsession-w8c
+@speedrunoftime
+@Inspired_by_Huntrix
+@yamaken_onchi
+@GlobalRhythmAI
+@EarthEngineered-v2t
+@CLASh-r9d2c
