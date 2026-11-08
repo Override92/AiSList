@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51260
+! Total Channels: 51270
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51276,3 +51276,13 @@
 @TruthOverTears
 @EPluribusUnum-OutofManyOne
 @Tearstales123
+@CriticalCulture-saw
+@Historylovescompany
+@TheBasedPlato
+@DecodePhysics12
+@AletheionStudios
+@IFTHEWORLD-j6y
+@HistoriologyHQ
+@CelestialDiscovery
+@TheGrimPainter
+@Sydtravella
