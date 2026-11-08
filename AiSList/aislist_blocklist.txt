@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51038
+! Total Channels: 51048
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51054,3 +51054,13 @@
 @magna-c
 @38thScroll
 @MightyDavidAiCinema
+@K-PopDemonHuntersFanDance
+@Dr.MarcusWells4
+@OptimizedHuman1
+@SonveraStudio
+@S...B_CREATION
+@%EC%83%8C%EB%94%94%EC%9D%98%EC%A7%80%EC%8B%9D%ED%83%90%ED%97%98
+@Surmilan-w8c
+@AbhishekKumarHoney
+@AIPopPinas
+@HeyMikeyBand
