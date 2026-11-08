@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51008
+! Total Channels: 51018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51024,3 +51024,13 @@
 @opentheothertab
 @VelvetSeoul93
 @TheProudSalute
+@workbotstudio
+@moshimoshowa
+@EchoRealmStudios-d8z
+@DayTwenty-Nine
+@aviationintelligenceofficial
+@interludeai
+@muzario-ai
+@TheEnchantedHearthStudio
+@ciprianstefanplesca
+@Sonatara-music
