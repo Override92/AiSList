@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50793
+! Total Channels: 50803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50809,3 +50809,13 @@
 @WildNexa-o5z
 @MadhaLawWorld
 @HowThingsAreMadeT
+@MaestroBlink
+@AI_KPop
+@Noah_Ketalsi
+@Ancientai_realms
+@atlaseta
+@PetNookOfficial
+@Lexo29
+@WorldForgeFilms2026
+@Iexploretheuniverse
+@CosmiCreator75
