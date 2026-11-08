@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49839
+! Total Channels: 49849
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49855,3 +49855,13 @@
 @ThinkSplice786
 @AfroKoreanStoryverse-g2p
 @PLATINUMNOIRMUSIC
+@AfroKoreanObsession
+@MovieRecapsShow
+@AfroSeoulcinema
+@NoirWhisper-mm
+@AfroKdramaCinema
+@weida3350
+@Afro-KRuthlessLoveStories
+@CozyRainSounds-e2l
+@afro-koreanchronicle222
+@RueMelodiess
