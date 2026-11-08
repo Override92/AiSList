@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50278
+! Total Channels: 50288
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50294,3 +50294,13 @@
 @OutlawBones1
 @QuinnAfroKoreaDiaries
 @EvoMaps
+@The-Quantum-Grimoire
+@AfrokDynastyStudios-v5h
+@untilsunrisefilms
+@PY-KK03
+@AfroKoreDiaries
+@FilmMoodCurate
+@Afrokconfessions
+@leishheikar
+@CogitoHermetica
+@Afro-KRomanceFairytale
