@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48721
+! Total Channels: 48716
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19474,7 +19474,6 @@
 @nightskyghibli
 @aipro867
 @UncLeonAfterDark
-@MarcusColeLaw
 @midnightsessionsofficial
 @MarcusExplainsHQ
 @WorldofstoriesTv1
@@ -19570,7 +19569,6 @@
 @everylevellore
 @TheFrontlineDirective
 @ZonaEspacial-es
-@Narciscope_klo
 @Narcist-jk
 @MindRelationshipHub
 @TheEmotionalEdgeHQ
@@ -27081,7 +27079,6 @@
 @EpicPoketunes
 @WorkWithAi-m9f
 @B4sGeneral
-@DouyinDrops.oficial
 @EngineeringTheLegacy
 @JayAI38
 @KiraHeat.01
@@ -44578,7 +44575,6 @@
 @WW3-Now
 @WeatherPath2
 @weatherChronicle
-@Visi%C3%B3nCu%C3%A1ntica1
 @HiddennovaOfficial
 @USAAndCanadaTradeWar
 @SSEOJINOfficial
@@ -44594,7 +44590,6 @@
 @Techsentinel1
 @SpotlightStars-m6n
 @TechCoreReport
-@SumerianSecretss
 @StoneShiftScience
 @Steel878Warzone
 @Roadside-Justice
