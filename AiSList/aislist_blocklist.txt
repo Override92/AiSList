@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51128
+! Total Channels: 51138
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51144,3 +51144,13 @@
 @MickeyFandome96
 @Theaiexplorerpro
 @RAODSMUSIC
+@TommyWexford
+@Walis-WindowtoSoundscapes
+@magicworld3657
+@AIVisionary-7710
+@Ai_Music-je3kk
+@Aisoaiasmr
+@Milia-JP
+@GusLindqvistFish
+@holuschki
+@ManluNature
