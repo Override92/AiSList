@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49374
+! Total Channels: 49384
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49390,3 +49390,13 @@
 @animalstv-v3e
 @strong-with-custom-songs
 @nimie_da_shy-witch
+@gocphimxin102
+@sunriva-music
+@chrisgufilm
+@ScenarioBased
+@kai.verse_maybe
+@Mr.Scarse-3z
+@OrganDramaEnglish
+@Professor_Doodle_1
+@ifnation-f4z
+@frostandthorn
