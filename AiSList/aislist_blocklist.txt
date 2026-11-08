@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51534
+! Total Channels: 51544
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51550,3 +51550,13 @@
 @USAPlantFactory
 @ToolLabX
 @SweetMANGAS-t7t
+@ProductionPathway
+@QUICKFACTSHUB-d6w
+@MathewNayes
+@RomanMonzon-w6l
+@Jason_yq95l
+@filmrush-n7c
+@misovpn
+@xihuanni-m5z
+@TheJerseyDossier
+@DailyDoseOfStoriesForYou
