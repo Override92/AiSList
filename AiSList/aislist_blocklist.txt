@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51627
+! Total Channels: 51626
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35094,7 +35094,6 @@
 @westrostheorist
 @theloreweaverpodcast
 @RoyAllLore
-@DavidLightbringer
 @PyxidaMythical
 @TheDisputedLands
 @Fantasy-focused
