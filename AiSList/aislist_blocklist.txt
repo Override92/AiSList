@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48753
+! Total Channels: 48763
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48769,3 +48769,13 @@
 @oreoandsoda
 @CozyChopASMR-01
 @spiritlantern-t3r
+@Faithigniteddaily-k5i
+@Predicto-q5v
+@VividCapitalist
+@WangXianAudio
+@Jukebox_Fever
+@EmberVale1
+@CoastalMorningJazz
+@RedClassicAdagio
+@TalesoftheOldWest-t4v
+@RabbitOdyssey
