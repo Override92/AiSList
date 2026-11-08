@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48718
+! Total Channels: 48717
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18797,7 +18797,6 @@
 @MrPig-c5y
 @AIbugUSA-OM
 @Wackyranking-n9u
-@AINova_Vision
 @TiinyTimProductions
 @RealStrangeAI
 @insectsaiart
@@ -26815,7 +26814,6 @@
 @Adonispolo1
 @AudioBookFactory-d9v
 @NeuraTales26
-@S%C3%A9rgioPinto-k5t
 @cobalt.measure
 @Bigfootvlogs_off
 @Fluxrableai
@@ -48734,3 +48732,4 @@
 @ManufacturingSecrets-o7t
 @musicbylapo
 @quitedesire
+@xiaohuaanimation
