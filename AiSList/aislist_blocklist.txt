@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50773
+! Total Channels: 50783
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50789,3 +50789,13 @@
 @wowITNews
 @NordcraftMusic
 @anoukaverse
+@ClariPsyche
+@W0lfByt3_Studios
+@hexhive
+@Jack2552-f8p
+@Pondero23
+@SenseiKenHealth
+@exsayne
+@monan017
+@LastSurvivorar
+@talkvids
