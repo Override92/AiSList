@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50833
+! Total Channels: 50843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50849,3 +50849,13 @@
 @Learn_with_Jesse
 @Geodudex
 @Mr.Doomsday2
+@Map_animationX
+@theoanimationofficiel
+@KHDailyEnglish888
+@EricExplainsYT
+@KeroLearnsJapanese
+@FaktaGilaID-u6h
+@OneYearInside
+@DisastersExplained1
+@BeoneReacts
+@ViggoIronside
