@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49351
+! Total Channels: 49361
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49367,3 +49367,13 @@
 @kahanikalash214
 @DramaVerseNova
 @nordicveil
+@Dramafordaily
+@laBibliaparaTodos
+@MerlinNovela
+@SoyPotens
+@NoctisCorvusMusic
+@RoniEti-g6m
+@nebuladriftMIX
+@thebytepit
+@DramaVisualGrammar
+@WayneBodieBooks
