@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49947
+! Total Channels: 49957
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49963,3 +49963,13 @@
 @The_Paint_Story
 @HomoChillens
 @IfStories-1
+@TheIfstitute
+@Finnactions205
+@tEDthefailure
+@endtostart_c
+@IfPlayerYT
+@JustACatTechnician
+@SideEffectsMayVary-tv
+@ifiction-t1t
+@underexplanation
+@NoOffSwitch-real
