@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49406
+! Total Channels: 49405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35981,7 +35981,6 @@
 @DareHorizonWorship
 @Stacinema-q
 @GermanVibes2026
-@GoldenJukebox1950s
 @KhanzaStudio-09
 @WorldstoEscape
 @LUNARETH4u
