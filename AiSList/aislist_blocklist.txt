@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50248
+! Total Channels: 50258
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50264,3 +50264,13 @@
 @Akansha-o4e
 @Afrokorea-j7t
 @Space_Sim_Guy
+@bluetidejazz8386
+@AfroSeoulCinematicStories
+@IfPowers
+@MaxandtheMagic
+@AfrokoreanStoriesByJanet
+@mind_over_broke
+@SaddleRadio
+@africavoices-r4w
+@WhatIfYou-03
+@IndianGhibliArt
