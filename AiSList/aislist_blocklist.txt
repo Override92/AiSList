@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49829
+! Total Channels: 49839
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49845,3 +49845,13 @@
 @MoviqAfrica
 @WestTownBlues
 @africanstoryvaultv
+@MoonboundLegends-k17
+@AfroKoreanStoryNation-e3f
+@cch100
+@AfroKoreanStoriesEmpire
+@AiridisChimera
+@TalesbyladyD
+@projectforlorn
+@ThinkSplice786
+@AfroKoreanStoryverse-g2p
+@PLATINUMNOIRMUSIC
