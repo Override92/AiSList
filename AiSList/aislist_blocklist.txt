@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51270
+! Total Channels: 51280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51286,3 +51286,13 @@
 @CelestialDiscovery
 @TheGrimPainter
 @Sydtravella
+@UnrealAIFootball
+@MaritimeMishaps-wi2dl
+@IRON_GENERALS
+@Goodworksrighthere
+@TheOmittedAge
+@InnerPeaceMediation
+@L%C3%AAS%C3%A1ngReview
+@PlatinumWheels-l5i
+@KrijamAIMusic
+@DataVerse-i8b
