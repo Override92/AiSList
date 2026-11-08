@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49042
+! Total Channels: 49051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49058,3 +49058,12 @@
 @QuantumAwakening-1
 @Kveldor
 @BlackFrameMovies
+@DramaSnackStack
+@Mar%C3%A9aCaf%C3%A9DelSol
+@WFRBikerClassicRock
+@LoveFateHub
+@CantusVaticanus
+@LegadoRock
+@LMTORIGINAL1
+@velvetgloomofficial
+@RetroRivieraStudiobyEmma
