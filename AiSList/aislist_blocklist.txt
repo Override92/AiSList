@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50521
+! Total Channels: 50531
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50537,3 +50537,13 @@
 @ifsimfilms
 @impactsimulations
 @1Dot-tv
+@R.tTalks
+@Khayali8
+@Lameeh1
+@VikingLegends.u
+@thoughtsim
+@b4writing
+@OnlyBrainzTV
+@StayAliveRules
+@IFUniverse137-c
+@Edgecount
