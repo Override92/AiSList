@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50753
+! Total Channels: 50763
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50769,3 +50769,13 @@
 @ViceModeRP
 @EveryTrim
 @ManhwaFriend
+@HIDExplainsYT
+@atlasofwhydoco
+@chernyy_yashchik
+@VOXLAGU
+@Esicine
+@KyotoCyberTechno
+@TopDigitalTools
+@NieSenny-l8s
+@WarmNoiseJazz
+@Xx0WN3DxXtv
