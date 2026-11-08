@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49675
+! Total Channels: 49685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49691,3 +49691,13 @@
 @kristiannammensma9104
 @human.exe11
 @Blink_Explains
+@Claude-x5z
+@Curious_Kitty_official
+@beyondif22
+@Blizzard_Pizza
+@PlotX15
+@tenfoldscale
+@IfItNeverStops
+@DowarWarah
+@TakhayyalLawTV
+@Planetarium3D-App
