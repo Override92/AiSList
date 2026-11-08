@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50478
+! Total Channels: 50488
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50494,3 +50494,13 @@
 @iREDRecordings
 @afribeats
 @Dramaaddict-tv
+@AfriTaleByVicky
+@indianclassicalmeditationmusic
+@AfroHouse1012
+@SolBuildsASMR
+@JASMINEAMBWAUDIOBOOKS
+@amara__zion
+@AfricanTalesByMlu
+@AfricaTaleByT
+@AfroPulseFrequency01
+@MamaAfricaAi
