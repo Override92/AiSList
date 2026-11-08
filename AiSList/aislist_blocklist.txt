@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51370
+! Total Channels: 51380
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51386,3 +51386,13 @@
 @INFO-FILMS-Ai
 @LegendsAndLores-s5o
 @Paul-k5u2o
+@HistoryPOVAI-h2s
+@BDDrama-j4l
+@Rexu-n2s
+@AncientfactsPOV
+@ANDHISTORYPOV
+@Muy-q4d
+@HistoricallyPOV
+@POVAncientWorld
+@real-Apex-POV
+@aicinema-c9z
