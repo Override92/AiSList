@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48716
+! Total Channels: 48714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19614,7 +19614,6 @@
 @TheSoldierDiaryCZ
 @DjPeãoBeat
 @GlobalCurrent9463
-@StillnessandHistory
 @Courtiva
 @GoldenTrophyNews
 @PawsofCourage-s7d
@@ -21614,7 +21613,6 @@
 @OpentheRecords
 @AnalogSoulFM
 @yapay_zeka_sarkilarim
-@grownupglitches
 @aminascozykitchen
 @jaymataji-o4q
 @analisisglobal77
