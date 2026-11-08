@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51436
+! Total Channels: 51446
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51452,3 +51452,13 @@
 @KittenRevenge-i2f
 @RastaHai-p2w
 @karmaLabOfficial-j5o
+@DonSopranoo
+@FrenchOutlaws
+@CelebsLegacyData1
+@TheMafiaLores
+@oddmeasure
+@ragboyfilm
+@TOWNSOK
+@Type_Talk_Official
+@nocleanexit
+@KishorPatil-tech
