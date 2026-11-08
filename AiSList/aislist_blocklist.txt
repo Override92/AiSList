@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48723
+! Total Channels: 48718
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10825,7 +10825,6 @@
 @myYellowMeow
 @AICuteCatFamily
 @StoryCatAI-8
-@AiDNAmix
 @MeowPapa-w3e
 @MeowPapaStories
 @PapaKitty22_US
@@ -17465,7 +17464,6 @@
 @thejazzink
 @DeltaDustRecords
 @WhiskeyBluesBallads
-@elwoodbethep
 @LonelyGentlemanBlues
 @whiskeybluessessions
 @SmokyGuitar
@@ -26717,7 +26715,6 @@
 @e-aisyouji
 @ROCK_JOSHI
 @aimusic.jpop00
-@24nyon_bgm
 @TechSiftYT
 @TheAnthropologistAI
 @TechWorld-HD
@@ -35513,7 +35510,6 @@
 @RupantorZone
 @WoofsFiction
 @CozyMeowsCafe
-@UntoldRevengeStories-522
 @elisecoton5104
 @TinyLoveDiary
 @OddlySpecificLives
@@ -43918,7 +43914,6 @@
 @TriverseAi
 @RavenRiftRap
 @Myavizion
-@aiteekhamusic
 @Blackshorot
 @QuietVoicePodcast
 @AncestorsWereWild
