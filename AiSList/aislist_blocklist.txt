@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48732
+! Total Channels: 48742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48748,3 +48748,13 @@
 @SoftNightAtmosphere
 @FOCUS365-j4h
 @MusiqueBossaClub
+@aratobeats
+@NOVALOGICMUSIC
+@MidnightRainSleep_AGV
+@GraceRiverStudio
+@SolasStillness
+@DiosNosHablaEscucha
+@TheVeilSpireBand
+@BronzeAgeCollapse1
+@ArtandKeyboard
+@SerenityEllipse
