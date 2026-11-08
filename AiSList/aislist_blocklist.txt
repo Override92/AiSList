@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50878
+! Total Channels: 50888
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50894,3 +50894,13 @@
 @visiontechzone
 @stoiccole
 @moviebento
+@sairahulai
+@MythicWorldlines
+@scitechnewsdaily
+@asktheowlfacts
+@REVELVEXUniverse
+@Tidehold
+@BeforeTheLogoTV
+@grandpaearlsgarden
+@BentinhoExplica
+@BeyondFlameStudio
