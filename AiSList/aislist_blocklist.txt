@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48923
+! Total Channels: 48933
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48939,3 +48939,13 @@
 @ATaleOfTwoHers
 @NOXFOCUS
 @HABIBI2031
+@ChillingCalmMeow
+@RaindropsRelaxin
+@VengefulRebornQueen
+@GaelwynSkye
+@Quietly-Hers
+@TexasBluesVintage
+@OldMossJack
+@HUACEGLOBALNOVASTUDIO
+@paxan999
+@RahasyadiariesAI
