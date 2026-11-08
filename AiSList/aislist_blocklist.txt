@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51028
+! Total Channels: 51038
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51044,3 +51044,13 @@
 @AlbaDelMondoIT
 @Polarisyn-y8n
 @OtakuVision-t9k
+@NotarAiCreations
+@forgottenmelodies-n4y
+@BioskopAI1
+@TheKnowingClub
+@DigitalDive918
+@MarlenesVorratAG
+@PastelPopBGM
+@magna-c
+@38thScroll
+@MightyDavidAiCinema
