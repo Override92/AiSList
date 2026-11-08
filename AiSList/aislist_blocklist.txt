@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49435
+! Total Channels: 49445
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49451,3 +49451,13 @@
 @GoldenAgeAfrica
 @Afrokoreanstories101
 @AfriTalesByFaithTV
+@PrestigeAnimeAfrica
+@africananimation-g4p
+@AfricanStoryfireTv-g6s
+@AfroTaleWorld
+@African_Folklores
+@Afro-KorRomanceDiaries
+@Africanfolktale_cc
+@darkgriot.africa
+@BeautifulAfrica-e5h
+@storytimewithafrica
