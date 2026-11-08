@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50378
+! Total Channels: 50388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50394,3 +50394,13 @@
 @SoundAudioMusic
 @AfroSeoulStoriesTV01
 @djbeatsthemagicofsounds
+@Seoul-Africastories-p6f
+@LonghornDeerShortDrama
+@AfroKoreanTalesTV-1
+@Kuantix
+@MojiAfricanTales
+@PoetryKode
+@AfroKoreanRevenge
+@itsKarstenMusic
+@Afro-KoreanStories
+@hsstoriesworld
