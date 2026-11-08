@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48853
+! Total Channels: 48863
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48869,3 +48869,13 @@
 @GFL_Council_Messages
 @RainyHarbor-k7k
 @Ironhelm-esp
+@ICapturedEvolution
+@KYRRA-official
+@mettlingjerome
+@ChrisCastor
+@SoundoftheYOUniverse
+@Shreekrishna-Sk9
+@WhisperofAvalon-o2e
+@royaleblackswan
+@DRCMystery-t2n
+@OutlawUS-p4c
