@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50531
+! Total Channels: 50541
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50547,3 +50547,13 @@
 @StayAliveRules
 @IFUniverse137-c
 @Edgecount
+@BagaCrico
+@AtlasPopMaps
+@finaryx-yt
+@thewhyvo
+@off_thescale
+@pedrothesurvivor
+@user-nn2fy5wr4y
+@TheClimbFilms
+@DoDooDash
+@Dr.Genius.Strange
