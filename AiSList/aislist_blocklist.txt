@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50733
+! Total Channels: 50743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50749,3 +50749,13 @@
 @ScaFra
 @MindsetPhilosophyYT
 @AnujBhati
+@2ndActChronicles
+@CosmicPulseOfficial
+@EtSiLab-n6k
+@WearYour-Story
+@BinaryBongos-ksk
+@ThinkBeyond21
+@RacingHistories
+@GoldenAuraFrequencies
+@BradikininVideos
+@deadcaptainhfy
