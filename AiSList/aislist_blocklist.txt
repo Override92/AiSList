@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51380
+! Total Channels: 51388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51396,3 +51396,11 @@
 @POVAncientWorld
 @real-Apex-POV
 @aicinema-c9z
+@TheGoldenTruth-k9s
+@POVHistory-y5g
+@POVHistorym8q
+@UNETHICAL-e2z
+@ReelsRUs-m7v
+@FrameByFrameFacts-x4b
+@modern-off-grid-living
+@Melissajr-q6m
