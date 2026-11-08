@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51620
+! Total Channels: 51622
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51636,3 +51636,5 @@
 @SandipKapoor-n8s
 @TechCheese-e5m
 @DurgaAmbika-r3g
+@DakshinaKali-u6p
+@KarmaUncovered-e8t
