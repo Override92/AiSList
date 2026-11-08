@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48713
+! Total Channels: 48718
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48729,3 +48729,8 @@
 @somethingarcade
 @cubebornstories
 @minaudierecinematique
+@ai一页书
+@thelegalnorth
+@canaldiariodomundo
+@veloraofficial-velora
+@veronicatech2
