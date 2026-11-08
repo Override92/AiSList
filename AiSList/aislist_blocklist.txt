@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49081
+! Total Channels: 49091
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49097,3 +49097,13 @@
 @SilverTaleStudios
 @KL041-mj
 @enigmaticsounds1
+@jjpique55
+@KitParedao
+@DarkWestLegendsVer2
+@TheHFYGalacticAdventures
+@FuriannaNoctis
+@ContinentalCover
+@PowerAnime-d5o
+@SarahThomsonOfficial
+@QueenRisingStories003
+@Secret_Grove
