@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50573
+! Total Channels: 50583
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50589,3 +50589,13 @@
 @africanstories42
 @MiltonOnHardMode
 @HFY_Chronicles_2X
+@PicoTumble
+@NebulaFrequencyOrbit
+@MikaLOL02
+@TeddyAfro18
+@GooglyMapsAnimation
+@NovaFreeSounds
+@lifeissappy
+@yeshuafrequencies432hz
+@BrokenDudeHQ
+@AfricanBusinessRevolution
