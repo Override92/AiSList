@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 49594
+! Total Channels: 49604
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49610,3 +49610,13 @@
 @TheIbrahimLetters
 @everything_africa007
 @AfrokoreanStoryvault
+@LightofJerusalem
+@Afro-KTrueloveStoriesbyEssie
+@Voices_of_Athos_St_Nicholas
+@AfrOTaleCentral
+@AramaicSacredChants
+@habsafrokoreanstories
+@MountAthosChants
+@teestory-w5r
+@LetopisTV
+@African-Resonance
