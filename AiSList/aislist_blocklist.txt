@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 48712
+! Total Channels: 48714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44491,7 +44491,7 @@
 @CloudlineRoom
 @AnimatedTales-l5u
 @FuuMaroMusic
-@abhishekjha2719
+@spinachlabs
 @gensohatago
 @vibecodedmoney
 @WildAI-10
@@ -44526,7 +44526,7 @@
 @NISRANMOTIONPICTURES
 @slopstudiogames
 @deutsch_mit_rk
-@textcad
+@텍스트캐드
 @tokslab
 @CosmosOnRecord
 @WonderlyMysteries
@@ -48728,3 +48728,5 @@
 @xiaohuaanimation
 @桂花短剧
 @云漫社
+@somethingarcade
+@cubebornstories
