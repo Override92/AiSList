@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51625
+! Total Channels: 51627
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51641,3 +51641,5 @@
 @ToXicCouncilXHFY
 @TheHumanFrontier-r2q
 @HoaVo-lo1md
+@sketchofmindpsycho
+@HOACasepoint
