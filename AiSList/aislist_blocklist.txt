@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 50693
+! Total Channels: 50703
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50709,3 +50709,13 @@
 @gbafreview
 @StickSaga-n4z
 @SSAIFilms
+@afterdarktunesofficial
+@TalksDailyTech
+@Ifovian
+@NightfallNarratives-b9s
+@StevieRayVaughanTheSoulofTexas
+@NostalgiaFrames
+@AstroRanked-f3e
+@innland
+@Dozer4xero2
+@stilesmanhwafresh
