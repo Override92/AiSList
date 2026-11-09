@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52926
+! Total Channels: 52936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52942,3 +52942,13 @@
 @Vergessenes%C3%9Cberlebenswissen
 @GeschichteInBloecken
 @AutoNostalgie
+@rickyleon9342
+@WorldofHistory-Geschichtsdokus
+@LangweiligeGeschichteTV
+@KosmischerPuls
+@RestroDish
+@heretico00
+@Nexadocumentary-v3u
+@GeoWelten1
+@VIVEKABHISHEK
+@VergesseneGigantenYT
