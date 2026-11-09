@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52310
+! Total Channels: 52319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52326,3 +52326,12 @@
 @TheInTheoryOnly
 @HauntVale_207
 @ShadowDesire26
+@Avelenn56
+@KeHeng_AI
+@TheSwornFileNews
+@OBTMovieAI
+@BecomeCGPro
+@OohDrama-01
+@MarioStoryWorld
+@Floradrama
+@iwankofficial-u9o
