@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52662
+! Total Channels: 52672
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52678,3 +52678,13 @@
 @ThroneDrama
 @DramaSemangka
 @SixGunSiren
+@CreatorSetMemes
+@CashAr7
+@kanegi.station
+@ManuAGI
+@DramastoryAi92
+@TIANQIAOAIDrama
+@%EC%A1%B0%EC%84%A0%ED%81%B4%EB%A6%BD
+@NengkEntertainment
+@TheUnitK9SpecialOps
+@kanonsisters
