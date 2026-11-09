@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52433
+! Total Channels: 52443
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52449,3 +52449,13 @@
 @GenXManufacturing
 @LeMonopoleNiel
 @KahaniZone9.0
+@Silent_Dad_Revenge
+@bluehourstudio_o
+@NevaVira
+@ProezasAereas
+@NativeAmericanGardening
+@7dayVIBE
+@AiShortFilm123
+@empiretrailerofficial
+@Zippy-r1h
+@AICurveWars
