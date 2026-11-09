@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51743
+! Total Channels: 51753
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51759,3 +51759,13 @@
 @DeepDiveHistoryPodcast
 @GrainandGravity
 @Sanzu-h5l
+@WeltderQuadrate-m8q
+@americasbiggesthoarders-n7o
+@UntoldRevengeStories-n5s
+@TheRightsReport-w8r
+@Frontline1941-u2y
+@WW2TalesUSA-y3t
+@StoryHub25
+@HistoryUnveiledDK
+@AjdaBulut
+@SimpleB-i6x
