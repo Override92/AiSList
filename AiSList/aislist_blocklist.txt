@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52966
+! Total Channels: 52976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52982,3 +52982,13 @@
 @Root_to_bloom-l2g
 @Sriai-t5o
 @USA108-d8h
+@ViralAi_Videofy
+@gamingchallange-h3f
+@AFX-m9f
+@DarkTripHopAI
+@ByteBits-y3b
+@ZenGardenSanctuary-l4x
+@RelaxCorner-q9k
+@AbgetauchteEpochen
+@kittymarvels
+@MeisterwerkederTechnik
