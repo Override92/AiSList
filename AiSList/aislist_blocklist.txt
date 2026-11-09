@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52270
+! Total Channels: 52280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52286,3 +52286,13 @@
 @TheWarTheyFilmed
 @PrimeAIMind
 @LoveAndDeepSpace-z3s
+@NarcoHuntersTV
+@Axis_Divide
+@rosewellstories
+@davewang_ai
+@MaxcarrauIA
+@LifeRaw100k
+@Drama_Pendek_Mimpi
+@ncvanelzakker
+@nicvandewetering
+@%E6%9C%AA%E6%9D%A5%E3%83%AC%E3%82%A4-i8d
