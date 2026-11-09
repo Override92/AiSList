@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52553
+! Total Channels: 52563
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52569,3 +52569,13 @@
 @repochad
 @MinhNhatGo
 @SolyxKSound
+@SerendipiaDrama
+@FakeFrameStudios
+@EkLarkiEkKahani
+@EeAiAnnex
+@ForesightMatrix
+@Shiho_Tamiya_Official
+@historiapunta
+@%EC%96%B8%EC%98%A4%ED%94%BC%EC%85%9C%EC%95%84%EC%9D%B4%EB%8F%8C
+@Sunset-Shimmer
+@My%C5%9Bli_bez_tytu%C5%82u
