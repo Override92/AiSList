@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51809
+! Total Channels: 51811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51825,3 +51825,5 @@
 @mccrackenstudio-official
 @the-what-if-one
 @romancediariesx
+@QuantumEasyExplained
+@AbrMedia-f1c
