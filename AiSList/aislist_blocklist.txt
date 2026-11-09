@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52250
+! Total Channels: 52260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52266,3 +52266,13 @@
 @AI_mi_krok
 @The-Ai-Loser
 @AntariusEntertainment
+@TheAppalachianSage
+@SecretWhispersoftheHeart-h8rt
+@orithe_studio
+@ProfessorBurpHQ
+@PlatinumTunes-f3b
+@PurpleOrbitDub
+@HarrierAI
+@KirinukiTL
+@MetalIA-q3b
+@BrickBeatSatire
