@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51907
+! Total Channels: 51914
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51923,3 +51923,10 @@
 @TechnologyAtlas
 @drGrimAnatomy
 @quietlyrichus
+@themoneymad
+@HFY.X
+@TheForgottenKitchen-m3f
+@Astroflect
+@HEGEMONEY365
+@EliasWinterSecrets
+@Bestape
