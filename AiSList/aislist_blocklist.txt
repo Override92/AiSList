@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52453
+! Total Channels: 52463
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52469,3 +52469,13 @@
 @DormirConCiencia-YT
 @WorldsInMelody
 @DramaFusion-t9b
+@marvIovr
+@ShowaCoffeeJazz
+@Biblica_Historica
+@dsbrain
+@AIVibesSong
+@Mermaid-c1k
+@SepiaRockVault
+@TechWithMala
+@A-IllusionCreative
+@PajYeeb_Universe
