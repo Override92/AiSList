@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51632
+! Total Channels: 51642
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51648,3 +51648,13 @@
 @コトバブレイク
 @tearsthatteachus-a
 @LouiseSmith-w2b
+@%EA%B3%A0%EC%9A%94%ED%95%9C%EC%9A%B0%EC%A3%BC-l9v
+@%EC%9A%B0%EC%A3%BC%EC%9D%98%EC%86%8D%EC%82%AD%EC%9E%84-d3m
+@FactSparkAI-x7y
+@InfiniteSlice01
+@Naturewithtaha
+@harshsurvival6868
+@FootballSongs-p5u
+@GavelGap-f8e
+@GavelCases-u8w
+@AIForTheCulture
