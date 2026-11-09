@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51897
+! Total Channels: 51907
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51913,3 +51913,13 @@
 @suin-w2x
 @puran21-w3o
 @UfoChannel001
+@NeverQuiteFine
+@Obsidian_Soundscapes
+@0xconcepts
+@CertifiedCheapskate
+@AndyFinance-z9d
+@Jony_Finance
+@ProCapitalistMarkets
+@TechnologyAtlas
+@drGrimAnatomy
+@quietlyrichus
