@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52837
+! Total Channels: 52847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52853,3 +52853,13 @@
 @Ashra-q8p
 @PEONYRU_Official
 @nightowlstorii
+@SortedSTEM
+@LynxaUnity-k6j
+@CuriousGhost-f8o
+@Mr.Techyy-x1g
+@The-Money-Tales
+@Weiologytv
+@King88-k2f
+@sciencelens-x5f
+@Snoozy_Space
+@PrimeContent-f7o
