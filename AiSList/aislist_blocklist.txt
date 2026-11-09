@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51821
+! Total Channels: 51829
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51837,3 +51837,11 @@
 @WhyIt_Happens
 @TheLastFlag-tlf
 @TradeoffLayer
+@history.stories-s9r
+@RealityMargin
+@histocode
+@SplitDecisionLiveTV
+@YashPankaj-t4w
+@SleepyHistoryVaultOfficial
+@SleepyHistorywithChristopher
+@RumiWonderverse
