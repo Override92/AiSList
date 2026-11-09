@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52543
+! Total Channels: 52553
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52559,3 +52559,13 @@
 @2dAnimator-1
 @mr_omix
 @KingfisherSurvival
+@BuiltUncoveredUS
+@CRA_I_Music
+@Chole1616
+@ailofimuzic666
+@lobsbl
+@worldnewslabb
+@SonicCodeMedia
+@repochad
+@MinhNhatGo
+@SolyxKSound
