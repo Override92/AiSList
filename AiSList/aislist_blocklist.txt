@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51628
+! Total Channels: 51631
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45148,7 +45148,7 @@
 @FolktalesbyJIC
 @ShadowofSeoul
 @RavnJarl
-@Glascuttingasmr_12
+@ai_asmrworld12
 @RagalIronbullcloud
 @Riseofempires11
 @novadragonstories
@@ -45270,7 +45270,7 @@
 @HFYSternenChroniken
 @AfroKoreaDiaries01
 @Afro-KoreanTrueStoriesTV
-@cwjAiKraken
+@cwjai-kraken
 @HeavenSleep-y7h
 @AfrokoreanStoryDiaries-s5l
 @BerserkerBallad
@@ -51644,3 +51644,6 @@
 @outermindproductions
 @welorel_legends
 @jeronzstudios
+@toldbyvivian
+@コトバブレイク
+@tearsthatteachus-a
