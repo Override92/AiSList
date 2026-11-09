@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52976
+! Total Channels: 52986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52992,3 +52992,13 @@
 @AbgetauchteEpochen
 @kittymarvels
 @MeisterwerkederTechnik
+@halfawaked
+@Chronohieros
+@PrimeDaily-v2o
+@TruthonStage-s7v
+@GoodForMe-y3w
+@JeneZeit
+@R%C3%B6ntgenStahl
+@JerryMovies-f5l
+@MohabbatKhan-y2v
+@NeoAtlas-u7p
