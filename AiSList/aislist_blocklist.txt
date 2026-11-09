@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51824
+! Total Channels: 51819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45657,7 +45657,6 @@
 @AfrokoreanMafiaStoriesTV-b4c
 @MarsAfro-KoreanStories
 @EndlessLoveStory-TH7
-@fairy_tale_vibes
 @urduhindistory1
 @Syndicateseoulstories
 @DramaGhar-o1h
@@ -45669,7 +45668,6 @@
 @AfroKoreanTales56
 @Story_Time_Urdu834
 @KoreanSeoulStories
-@KimsRomanceStories
 @The-Seoul-Chronicles
 @StoryThatEcho
 @K-EternalLoveStories
@@ -45705,13 +45703,10 @@
 @okaboka.official
 @ShamyaMukundhan
 @HiddenFrameStories-123
-@miniatureindiankitchenytt
 @Yaarekkaamtha
 @dratulpatil
 @DisturbingHorrorStories-r8f
 @TheTalesOf_History
-@storylitehindi
-@StoreysMedia
 @DreamPassport4dreams
 @Storiesandtales-c5l
 @TheDarkArchiveDocs
