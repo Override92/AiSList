@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52091
+! Total Channels: 52093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10376,7 +10376,7 @@
 @SurrealVerse_ASMR
 @AISMR-BY-ANUJ
 @iafavasmr
-@MeltLabASMR
+@explainering
 @RakuenAIASMR
 @Jelly_World_ASMR
 @lavenderdiaries-1111
@@ -52107,3 +52107,5 @@
 @christmas-glow-melodies
 @survivalworld-yt
 @oulalatvx
+@trainsteinchess
+@usmanbhatti155-d2y
