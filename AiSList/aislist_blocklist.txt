@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52726
+! Total Channels: 52728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52742,3 +52742,5 @@
 @TheLostSide-e8q
 @Pachu-y5v
 @Gneef
+@citytimelapsemaps
+@vidzaraofficial
