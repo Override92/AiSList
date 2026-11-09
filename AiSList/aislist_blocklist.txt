@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52339
+! Total Channels: 52345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52355,3 +52355,9 @@
 @gogolfusa
 @EDMRealmYT
 @Anna.Fenrir
+@pinzolochan
+@ZalimRishtay
+@DeepBassDubs
+@PetiteValsedeParis
+@echoesofunknownofficial
+@EmpireOfTears
