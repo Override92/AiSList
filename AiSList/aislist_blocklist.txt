@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51845
+! Total Channels: 51847
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36779,7 +36779,6 @@
 @ShreeMiniToons-SMT
 @EthanToons
 @doremontoons-08
-@CatvsDogToons
 @TalkyPawsToons
 @kaatoons-n7y
 @AhamToons.387k
@@ -51861,3 +51860,6 @@
 @giovannafrigolet8772
 @lumique.animation
 @LostRoadsofAfrica
+@lamedicinatienehistoria
+@眠ノポニ
+@ahamtoons.3d
