@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52107
+! Total Channels: 52102
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20436,7 +20436,6 @@
 @HOA-9
 @DivineMessenger-p2d
 @HOAStories24
-@HOACourtFiles
 @chivo7666
 @CrazyHOATales1214
 @hoaofficialstories
@@ -45820,11 +45819,9 @@
 @RomanceandLoveStories
 @ShelfiePublishing
 @Vintagemic-tales-k9f
-@Ebonstories-iq4nv
 @LikeOnMusics
 @GayStoriesChronicles
 @Crown-Roses-Lovestories
-@AlphaLunaTales
 @Heart.Echo.Guitar
 @CedarsChristianAnimation
 @FrameNarrative-o6z
@@ -45865,7 +45862,6 @@
 @fairylogofficial
 @stash_war_military
 @FORGOTTENHISTORYCHANNEL
-@ForgottenFleetsWW2
 @VoicesofWar-k6h2z
 @JarToonyt
 @pastbites1.0
@@ -45885,7 +45881,6 @@
 @WWIIBehindEnemyLines
 @QuietPower167
 @QuietBearing2
-@autoexpertchanel
 @%E3%81%AA%E3%81%B6%E3%82%8A%E3%81%A1%E3%82%83%E3%82%93
 @ViralGlance_Official
 @PRLnaDw%C3%B3chKo%C5%82ach
