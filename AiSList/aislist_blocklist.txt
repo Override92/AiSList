@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52106
+! Total Channels: 52107
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23004,7 +23004,6 @@
 @NaravaStory
 @DramaStoriesHub88
 @UniqueStoriesZone
-@weaversafricanstories
 @KreenToon
 @QueenAnimates
 @OakstoneStories
@@ -52122,3 +52121,5 @@
 @LeCarnetdeS%C5%93urMadeleine
 @RustbornRevival0
 @TemptingDramas
+@kkuritosil
+@dramafilms-x7d
