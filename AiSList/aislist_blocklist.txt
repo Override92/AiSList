@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52395
+! Total Channels: 52405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52411,3 +52411,13 @@
 @BackToThe80sRock
 @CalmAndQuiet-EN
 @DomISprz%C4%99t
+@industrialvault
+@AetherFallOfficial
+@WindborneAnime
+@Mementomori-n1w
+@AlmaLatinaMusical
+@entropy-rus
+@ENTrueTales99
+@OfficialEverHeartStudio
+@VoixdesCendres
+@LazyDreamsStudio
