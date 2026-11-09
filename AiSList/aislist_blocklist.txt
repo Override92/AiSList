@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52173
+! Total Channels: 52181
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52189,3 +52189,11 @@
 @AyeshaVillageFamily01
 @InKirix
 @lunasofia-c2b
+@SANM_Vibes
+@TinyCaveman-m6b
+@Iovedrug
+@VowVice
+@GraceToneWorship
+@raeventh
+@BLACKROOTENGINE
+@alan_seebaran_world
