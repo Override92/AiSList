@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51829
+! Total Channels: 51830
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25898,7 +25898,6 @@
 @ElGenioSabelotodo
 @ComidaAntigua
 @TranquilityTempleYt
-@ChillKnightVibesz
 @LoreSnapMovie
 @EchoStation-i1x
 @Solivine-sonata09
@@ -51845,3 +51844,5 @@
 @SleepyHistoryVaultOfficial
 @SleepyHistorywithChristopher
 @RumiWonderverse
+@oldcrewrailroad
+@chill.dharma
