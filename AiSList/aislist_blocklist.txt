@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52900
+! Total Channels: 52895
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8373,11 +8373,9 @@
 @musestories3
 @ElvarStories9
 @LOLOTICAStories
-@anuskysa
 @JordanJoaquin-f8o
 @QuietDadStories
 @PhoenixEchoes3
-@HealingTales88
 @HeroDad.Stories
 @YuewenShortsDrama
 @Manifestyoursuccess123
@@ -20793,7 +20791,6 @@
 @AsphaltGhost86
 @KoreSession
 @MúsicaQueEdificaElAlma-o8x
-@Infiniteverse-s3i
 @Lyricshubb
 @MusicBuzzmedia
 @CrownofValhalla
@@ -25958,7 +25955,6 @@
 @laughriot68
 @officialjohnog
 @mytharionfilms01
-@bbmbbm0402
 @prostelicap
 @cruisecabininsider
 @brodrickthecreator
@@ -32836,7 +32832,6 @@
 @theobjectsweheld
 @TheHiddenMind-z9v
 @QuietRestraint
-@WhatChangedAmerica
 @tozpembe2856
 @WhatPoweredAmerica
 @RobertLainereports
