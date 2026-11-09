@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51973
+! Total Channels: 51983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51989,3 +51989,13 @@
 @SVETVFILMS
 @VoicesofUncleHenry
 @B-ryn_official
+@CosmicDesertMirage
+@arvintagehistory
+@howitholdsyt
+@PurpleDarkO
+@EtherealTavernMusic
+@calmgrandmastories
+@neonpuszta
+@Aiguidepath
+@PravishasDuniyaAndVlogs
+@LANGBACBO1995
