@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52779
+! Total Channels: 52789
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52795,3 +52795,13 @@
 @Sharedanime-b7x
 @AtlasThread-e9p
 @Suckervulgar-l7p
+@USAEnglishZone-t6c
+@Fugru-x2c
+@HHHQQQZZZ-s2i
+@GoalZone-s5c-q3w
+@WHOWHYHOW-DECODEENGINEERIN-j3n
+@LethalQueens
+@BlackCatsTavern
+@Wolf-Fox26
+@GalacticChronicles-i7p
+@HFYAxarion
