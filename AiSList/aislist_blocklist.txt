@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51738
+! Total Channels: 51733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12900,7 +12900,6 @@
 @RapKingRecords
 @InfiniteHarmony-p6f
 @Rap-Checker
-@BABA_808
 @SameSound-2026
 @OldSchoolStudio
 @realistkixng4990
@@ -44892,7 +44891,6 @@
 @GoblinTavernMusic
 @sleepingbabytavern
 @TheHornlessUnicorn
-@AmbrosiatavernTales
 @KadetheBard
 @FluxStateLab
 @TalesFromTavern
@@ -45198,7 +45196,6 @@
 @NordicFlowSociety
 @BrightLore-u9x
 @StormRiderMusic
-@STORYTIME_NG
 @IstoriiNavsegdaGold
 @UcheChukwuStories
 @Thesongsofme-6725G
@@ -45248,7 +45245,6 @@
 @Gaminggurux69
 @HeartGritStories
 @vsion91
-@AfroDramasStories
 @Eichensturm
 @AfrikStory1
 @%E3%82%B3%E3%83%88%E3%83%90%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF
@@ -45561,7 +45557,6 @@
 @JanviKapoor-z8l
 @ACorruptedSave
 @baxtergarrison8718
-@GrimoiresTV
 @MoneyCipher-t2z
 @Arden-k8g
 @RhettFirearms
