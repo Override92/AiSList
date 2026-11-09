@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52717
+! Total Channels: 52716
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20795,7 +20795,6 @@
 @MúsicaQueEdificaElAlma-o8x
 @Infiniteverse-s3i
 @Lyricshubb
-@cronicadeljuicio
 @MusicBuzzmedia
 @CrownofValhalla
 @CelticMistSoundscapes
