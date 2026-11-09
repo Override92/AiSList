@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51830
+! Total Channels: 51828
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28342,9 +28342,7 @@
 @romatoonwars
 @beyondthegoalsbehindtheglory
 @mr.tod.d
-@CuriousMolecules
 @SurmaAkter-v8i
-@ulg-y
 @ColeRanchStories
 @Wissio_YT
 @Panny55
