@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52345
+! Total Channels: 52355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52361,3 +52361,13 @@
 @PetiteValsedeParis
 @echoesofunknownofficial
 @EmpireOfTears
+@greenghostgal
+@LocomotiveLedger
+@neonidol-3333
+@ZeeshanAluTV
+@thegamescoutofficial
+@SeniorBenefitsThomas
+@iamkhan-712
+@maskofAI
+@Heartbeats-o4b
+@Whispering_Tune
