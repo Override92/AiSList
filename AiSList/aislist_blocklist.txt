@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52098
+! Total Channels: 52093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7195,7 +7195,6 @@
 @jameslimSFA
 @saqibshahbuilds
 @tracyzhu8515
-@NewsInsight-n8n
 @mistyrain1413
 @ManamisSwingBeats
 @MacroHistoryReal
@@ -7428,7 +7427,6 @@
 @finalpayback-h4c
 @tekingame
 @thesilverrabbi
-@rexdayoutube
 @letters.to.myself_in
 @жизнь-х3п
 @mrcat-2002
@@ -8325,9 +8323,7 @@
 @linuxaistudio
 @ReasonOverRituals
 @BlackoutBriefing-b1j
-@Canada-Daily-Brief
 @GlobalFinanceBrief-j7y
-@thomaskellerbrief
 @EthanColeReport
 @FrontlineReportMedia-b4j
 @LateNightReport-u6m
@@ -13972,7 +13968,6 @@
 @NigerianDiary
 @MotherlandFolktalesStories
 @AfricastoriesbyOma
-@LionHeartAfricanFolktales
 @Prexy_stories
 @StorytimewithGongo
 @Lisette-o6u
