@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52201
+! Total Channels: 52211
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52217,3 +52217,13 @@
 @Beercapstory
 @aijpradio
 @TokyoJapanNewsAISong
+@mrevidence01
+@RichSoundMix
+@SymphonyofMetalShadows
+@Code_Of_Silence
+@Untoldstoriesaii
+@AnimeLensavsr
+@your_lolitaa
+@SingleDadTwist
+@finalyearsd
+@Novelasclaudiane
