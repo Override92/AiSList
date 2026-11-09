@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52181
+! Total Channels: 52191
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52197,3 +52197,13 @@
 @raeventh
 @BLACKROOTENGINE
 @alan_seebaran_world
+@MusicFusionAI
+@ColdFamilyJustice-h2z
+@Maitrixium
+@DramAIPop
+@UNSPOKEN3CM
+@HooligansMusicHub
+@ShadowFrequenciesMsc
+@OldFlick
+@CocoTheater
+@kh45-l8n
