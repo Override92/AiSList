@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52104
+! Total Channels: 52105
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20565,7 +20565,6 @@
 @Africannigthstales-i7q
 @YashwantRao5811
 @AIAfricanStories
-@mayank_leo_1
 @AfricanAIStories-m9v
 @QuickpulseAl
 @AfricanEchoesByEnkay
@@ -52120,3 +52119,5 @@
 @prlnadwochkolach
 @桃桃-c7o
 @whatifdata
+@nuvohistory
+@christmas-glow-melodies
