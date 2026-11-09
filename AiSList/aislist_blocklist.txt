@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51827
+! Total Channels: 51822
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18071,7 +18071,6 @@
 @StoryFrontier-w3u
 @SilentBadgesStories
 @NollyWood_Studio
-@Unforeseentales-o5m
 @victoriapeter6732
 @TimelessAndTales
 @MysteryTales-l6x
@@ -36708,7 +36707,6 @@
 @LureliaSiren
 @livingspaceadore
 @djdoublefire
-@echoesfrozennorth
 @HiddenTruthStories-k9l
 @eva-0259
 @natealcorn9395
@@ -45637,8 +45635,6 @@
 @ritmodelamor-z9g
 @mochimo3d
 @ins.think21
-@afrokorean-hq
-@k-afropopkoreantales
 @forbiddenromancestories-r7y
 @AfroK-Narratives
 @Realseoulstories
@@ -45649,7 +45645,6 @@
 @AfroKMafiaTales
 @LoveWorldStory
 @Elyorastories
-@SeoulMuseAfrica
 @UntoldAfrokoreanStories9
 @FolktalesdramabyNana
 @UnbrokenLoveStories
