@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52463
+! Total Channels: 52473
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52479,3 +52479,13 @@
 @TechWithMala
 @A-IllusionCreative
 @PajYeeb_Universe
+@Samsugamusicai
+@AmpMetalOfficial
+@RidamMusicStudioOfficial
+@FankoAIPractice
+@aidrama_house
+@Shield_Wolf91
+@Splattergummies
+@AdejokeStudio
+@3DShort-BigCreator-DramaCinema
+@Talkingworld-e
