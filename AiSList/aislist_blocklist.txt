@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51819
+! Total Channels: 51814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45708,12 +45708,10 @@
 @DisturbingHorrorStories-r8f
 @TheTalesOf_History
 @DreamPassport4dreams
-@Storiesandtales-c5l
 @TheDarkArchiveDocs
 @CowboyLongmesa
 @TheManWithNoName-yt
 @wild_westernlagcey
-@shafiqbhatti1133
 @CowboyLonefire
 @olpeteslair
 @WesternFlintdust
@@ -45722,7 +45720,6 @@
 @SilentWestTales
 @FrontierLoveDiaries
 @RideintoRomance
-@NightfallWesternTales
 @WestboundStories
 @WesternBlackridge
 @WesternFrontierTales12
@@ -45741,7 +45738,6 @@
 @LoganStories
 @WesternFrontier9
 @HumanAlienPhilosophy
-@HiddenGrace08
 @EpicBoringHistory
 @WesternTalesLegends
 @TheBestWildWestStories-y6p
@@ -45758,7 +45754,6 @@
 @StoriesUntold-p6j
 @WesternRelics
 @DreamHavensleepstories
-@CowboyConfessions-s3n
 @HDAWWIIUntold
 @StoriesoftheWest-z1r
 @wildwestlovestory7
