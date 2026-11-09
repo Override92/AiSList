@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51733
+! Total Channels: 51743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51749,3 +51749,13 @@
 @ForgottenAmericanSchoolDays
 @DoMixiTales
 @DasSchweigenderFamilie-i5h
+@DeathworldChronicles-r1c
+@BigfootBigshoeOfficial
+@spacezone-j1b
+@UKFootyAnthems
+@TheRevengeStories-v9d
+@Lostdimensions-o3f
+@AIBearAttacks
+@DeepDiveHistoryPodcast
+@GrainandGravity
+@Sanzu-h5l
