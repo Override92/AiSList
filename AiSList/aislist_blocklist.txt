@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51622
+! Total Channels: 51624
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51638,3 +51638,5 @@
 @HOACasepoint
 @dirkstmusic
 @ninetynine_records
+@HeartstringHarmonies-v7j
+@loremp4-ytb
