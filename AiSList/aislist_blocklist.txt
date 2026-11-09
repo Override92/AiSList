@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52603
+! Total Channels: 52613
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52619,3 +52619,13 @@
 @movend_studios
 @AiAUDIOFIL
 @kami_noid
+@NovrixMovies
+@Irohanemusicstudio_citypop
+@geekermag
+@01001ORYU
+@MAKEMAKE4
+@Splorgvision
+@MotionCutXedit
+@EVLSound
+@Pokpomusic
+@moonveilstudio_kr
