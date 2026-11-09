@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52672
+! Total Channels: 52682
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52688,3 +52688,13 @@
 @NengkEntertainment
 @TheUnitK9SpecialOps
 @kanonsisters
+@siebfothers
+@AIandTechforEducation
+@emily-lucky7
+@BraveEchoes1
+@kannadaFanBoy_Masuti
+@djedix
+@AIForHumansShow
+@UltimateDreamFilms
+@%EC%9D%B4%EB%94%B4%EA%B2%8C
+@FictionRankerOfficial
