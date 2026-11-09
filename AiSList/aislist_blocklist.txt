@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52093
+! Total Channels: 52103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52109,3 +52109,13 @@
 @dumbflix1
 @DJASHISREMIX2.0
 @capybarabuilding
+@SoulsBlood115
+@Eidolon_Reverie
+@kiopstudios
+@VelvetStoryhouseStudio
+@J-POPAI%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF
+@DoomsdayCinema-i3h
+@ghmcovers
+@aisongs-i9m
+@FeverDreamRecordsAI
+@HistoriasdeVenganza%C3%8Dntimas
