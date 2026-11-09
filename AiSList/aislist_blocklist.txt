@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52473
+! Total Channels: 52483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52489,3 +52489,13 @@
 @AdejokeStudio
 @3DShort-BigCreator-DramaCinema
 @Talkingworld-e
+@dungerzone
+@Mutalkzzz
+@ArmisanDocumentaries
+@SoulGame1981
+@changfeng_ShortTV
+@TimeTravel90s
+@epic_kathalu
+@AIanisonch
+@hiputyan
+@JYG_studio
