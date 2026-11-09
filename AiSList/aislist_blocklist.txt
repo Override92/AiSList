@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52503
+! Total Channels: 52513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52519,3 +52519,13 @@
 @Jackscompany
 @Rollinloop
 @id3ntd
+@Newchapterfilms-4u
+@NielDramIA
+@ChufisTales
+@holyllog
+@FreeAIAcademybyDanielTanimawo
+@CoordinatesoftheUnknown
+@SSUrduTv1123
+@GrowWithMimi-n6y
+@Writsu01
+@reviewsgalacticos
