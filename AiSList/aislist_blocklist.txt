@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52405
+! Total Channels: 52415
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52421,3 +52421,13 @@
 @OfficialEverHeartStudio
 @VoixdesCendres
 @LazyDreamsStudio
+@Ariwerse
+@SymphonyOfDystopia
+@KatAICovers
+@%ED%95%B4%EB%82%98%EC%9D%98%EC%B7%A8%ED%96%A5
+@halflight.studio.k
+@zerosYT00
+@MathstationPj
+@AmericanaNostalgia
+@PictoMinute
+@IndiaMegaprojects
