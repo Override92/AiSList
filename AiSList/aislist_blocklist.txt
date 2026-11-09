@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52691
+! Total Channels: 52701
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52707,3 +52707,13 @@
 @blainehenry593
 @ElSistemaExplica_YT
 @REVREVIEW-f2w
+@DexAnimes
+@LoginHelps
+@V-Kee-Q
+@ZacharyLLM
+@Luna-AIMusic
+@%EC%A4%91%EB%85%84%EC%95%A0%EC%B0%BD%EA%B3%A1
+@popment
+@Theneedwentcrazy
+@TinkuVlogsN
+@ReelShift-n4p
