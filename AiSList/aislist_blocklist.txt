@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52290
+! Total Channels: 52300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52306,3 +52306,13 @@
 @johnnyidolx
 @Mrs.TerrorX
 @SurvivalZeroUSA
+@uumm_studio
+@SavinaDrama
+@TitanHeavyMetal
+@tihiye_dengi
+@loungeexpress
+@EcoInnovaTech
+@shina_matsu
+@ManiStudios9
+@FFeiiif
+@JokeDOSETV
