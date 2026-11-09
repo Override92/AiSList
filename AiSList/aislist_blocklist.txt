@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52423
+! Total Channels: 52433
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52439,3 +52439,13 @@
 @MeowMastiCinema
 @a.i.s.a_music
 @thehypekevin
+@lingheartmusic
+@NightSchoolYT
+@Dramacenntre2026
+@VelvetDramaCinema
+@AiKedoMet
+@lewdyart
+@MahkotaKisahStudio
+@GenXManufacturing
+@LeMonopoleNiel
+@KahaniZone9.0
