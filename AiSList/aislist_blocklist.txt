@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 51814
+! Total Channels: 51809
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45758,7 +45758,6 @@
 @StoriesoftheWest-z1r
 @wildwestlovestory7
 @WhisperedLifeStories-c4x
-@SoldierStories-o3b
 @MrStorytelling-d2u
 @WesternSolace
 @oldwesternoriginal
@@ -45769,7 +45768,6 @@
 @WildFrontierDiaries-e3q
 @CowboyChronicle-o4q
 @WesternBonds
-@WildWestRomanceStories-i3s
 @KindnessDust
 @truegayinfidelitystories
 @EchoesofTheWildWest-f5d
@@ -45788,7 +45786,6 @@
 @WildwestLoveStory71
 @FieldLegendsYT
 @BoringHistoryStoryRelaxing
-@WesternRedridge
 @WhispersoftheWildWest-n1k
 @MysteriousWildWeststories
 @WestboundTalesStories
@@ -45812,12 +45809,10 @@
 @LoveBeyondRules
 @thelegendaryvoice
 @BedtimeRomanceStoriesForSleep
-@HDNOVELSTORY
 @AdriansFiresideStories
 @SweetRomanceStoriesLB
 @BossMaidRomance
 @RomanticStories-v
-@VelvetCrownStories-l5c
 @TwistedHeartsStories-f7g
 @ChloeBennett127
 @AlmightyShadow-l3v
