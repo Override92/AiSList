@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54182
+! Total Channels: 54192
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54198,3 +54198,13 @@
 @the_filmix
 @MikaYoshida-j1q
 @Moneymapchroncle
+@Top5TechGiant-p7s
+@aparnabugatha7799
+@PCOnlineUS
+@FormulaCoreDaily
+@HumanChronicles-w9b
+@the_Finance_logic
+@Dr.EvanBrooks-s1x
+@TechUnveiled-f6i
+@CrowFinance
+@RoyPearson-m6p
