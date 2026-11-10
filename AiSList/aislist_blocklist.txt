@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53661
+! Total Channels: 53663
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53677,3 +53677,5 @@
 @MarketClaw
 @ydyrzpdb
 @ReelsSound
+@dailygunslawupdate
+@wowdiscovery11
