@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53052
+! Total Channels: 53062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53068,3 +53068,13 @@
 @PlanetDramaTV
 @TheFootnotestudios
 @physicscandy770
+@whimWalker
+@IfCraftFilms
+@hatpurpleguy
+@Blotwise
+@MapMood_nimation
+@canonhole
+@StatsWarsOfficial
+@sketchedcosmos
+@StickTheory-h2n
+@BrainZap0099
