@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52981
+! Total Channels: 52982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25235,7 +25235,6 @@
 @bookzeta
 @AITrailerPro
 @DJKOREAIMusic
-@AItrailersMovies
 @AiCineTrailer
 @VideoMovieLab
 @MarvelHungamaai
@@ -52997,3 +52996,5 @@
 @ScienceKingdom-z7x
 @%E5%B0%8F%E9%87%87-w2c7f
 @怀简剧场shorttv
+@itsmelodine
+@billsciguy
