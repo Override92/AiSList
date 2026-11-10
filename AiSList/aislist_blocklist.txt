@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54132
+! Total Channels: 54142
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54148,3 +54148,13 @@
 @MacroPlusTV
 @Financialzig
 @Weird_On_Purpose
+@AlaricBaenen
+@HFYStarsmithTales
+@alexchenbuildsai
+@TheUnbrokenSpecies-w2b
+@Britain-Breaking
+@TheoCounts
+@CineMonks-l1e
+@vgmarcheologist
+@OrdinaryTimeMedia
+@engineering_systems_r9
