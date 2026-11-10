@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54052
+! Total Channels: 54062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54068,3 +54068,13 @@
 @Ja3Starr
 @Econlume
 @UntoldMinutesTV
+@signal_to_noiseHQ
+@dharshini.norway
+@angelibanez75
+@NoEntryAtlas
+@AfterDarkAmerica-u8k
+@getmeextracheese
+@WWII-Legends-i4e
+@LegacyArchives-d9s
+@WeightofSilenceOfficial
+@DavidEyijo
