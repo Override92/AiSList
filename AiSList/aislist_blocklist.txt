@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53477
+! Total Channels: 53474
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7539,7 +7539,6 @@
 @exiledlunatales
 @moderndefenseglobal
 @eyepatrol_yt
-@restorefusion
 @퍼피휴게소
 @piotrcienwronski
 @tysiacletniehistorie
@@ -10071,7 +10070,6 @@
 @manhwapast
 @cdlgeneralknowledge
 @antversetv
-@megaproduccion7353
 @anatolianspacesociety
 @dr.davidharris
 @AIBabiesandmore
@@ -30275,8 +30273,6 @@
 @WhileYouStillCan8
 @usa_economy01
 @Gladis-u6g
-@TheCatchShow
-@dailyfinancenewstoday
 @MarkTalksInvesting
 @MoncrieffMoskau
 @analogystudio07
@@ -53493,3 +53489,4 @@
 @StickVerse-h8f
 @strategicforecaster1
 @Two-WheelTruth
+@deepdread1000
