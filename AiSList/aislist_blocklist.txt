@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53149
+! Total Channels: 53158
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53165,3 +53165,12 @@
 @posledniydolg
 @julienaiart
 @REVE-MOTION
+@CadernodeHistorias-kids
+@JosefinaLab
+@Babyverse-f2c7k
+@BGM-sakuram
+@elpixel6135
+@felixhmohr
+@FMNeonPulse
+@LunaYTTV
+@TaekookAIFiction
