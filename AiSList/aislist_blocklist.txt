@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53781
+! Total Channels: 53791
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53797,3 +53797,13 @@
 @CosmicTitans-c2h
 @XenaraStories01
 @TheHollowFamilies
+@WorkbenchYard
+@OriginFinds-g5o
+@ChicGadgetPicks
+@Bothsidehistory
+@IJust-SatDown
+@Pennexplains
+@SmartBuyExpress-d6h
+@AnimusSynths
+@RicafortLabs
+@historycodexdocs
