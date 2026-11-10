@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53476
+! Total Channels: 53475
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30415,7 +30415,6 @@
 @Jumo_KoreanTales
 @TheOrcHumanTales
 @TimeTravelTales-n4t
-@mimi__tales33
 @folktalesbymoonlight-b5g
 @juliafolktales
 @TalesBeyondTime-e8h
@@ -30446,7 +30445,6 @@
 @Talesbysignora
 @ifeomaAfricantales
 @MoonlightFolktales-v4c
-@MrGoodsAfricanTales
 @WesternFrontierTaless
 @WesternPrairietales
 @ChinemeluAfricanTales
@@ -53492,3 +53490,4 @@
 @deepdread1000
 @Zappy-n3r
 @SkateRiotRadio
+@mittikiduniya-r6w
