@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53738
+! Total Channels: 53739
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30671,7 +30671,6 @@
 @AFRICANFOLKTALESBYKAYLIE
 @3mpowerU
 @OrcDevotionTales
-@ShishisTales
 @ORCBOUNDFATE
 @BetrayalTales-b6f
 @OopsLegacy
@@ -53754,3 +53753,5 @@
 @HFYBeyondEarth-t9i
 @NyxaraSci-FiStories
 @TwelveReasons
+@movieversehq01
+@commoncentspov
