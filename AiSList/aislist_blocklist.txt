@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52987
+! Total Channels: 52982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21030,7 +21030,6 @@
 @pagalKarahi
 @HasibulExplores
 @seekhlo_ai
-@TinyTaskersAI29
 @RSStoryWorld12
 @aIanimalcartoons0
 @gods-heroes-unveiled
@@ -29599,7 +29598,6 @@
 @CalmFatherStories
 @buffstories
 @BrokenVowsInfidelityStories
-@BrokenHeartStories-k8f
 @BrightHeartStories2.0
 @BraveDadStories
 @BrainrotStories-w6v
@@ -29813,7 +29811,6 @@
 @WildFrontierStories-i7r
 @WhisperStories999
 @whatifstoriesw
-@WesternRomanceStories-f9p
 @wealthpowerstories2002
 @WatchRevengeStories
 @WarfrontStories26
@@ -29838,7 +29835,6 @@
 @TechHistoryStories
 @bitesizestoriesTV
 @StoriesWithJack99
-@newagestorie
 @TrueEarthStories1
 @History_Stories_Daily
 @LihimngPusoStories
@@ -29932,7 +29928,6 @@
 @FruitsStories4you
 @Fruitstories-d5x
 @AiFruitStory-g6y
-@Aifruitsvideos-x7v
 @Fruitzyword
 @FruitStoriesAifun
 @Fruitaivideo9
