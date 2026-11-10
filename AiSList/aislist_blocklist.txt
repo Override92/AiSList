@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52983
+! Total Channels: 52993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52999,3 +52999,13 @@
 @IfWorldStories
 @inkdudev4
 @ZedZombieStickman
+@HalfLit1
+@startnowfilms
+@QuietShadowFilms
+@HeyDeskHistorian
+@InsideTheScamm
+@BurnRate-v2o
+@TheStickAgeCave
+@RQPTD-N9
+@BrainLoopSa
+@thetesseralabs
