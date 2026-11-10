@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54162
+! Total Channels: 54172
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54178,3 +54178,13 @@
 @MasonDixonBBQ
 @CatPurrsuits
 @TheHiddenHouse-j6i
+@HistoryExplained-c6s
+@PreyforthePath
+@TheOrdinaryRoman
+@WealthHerozil
+@CosmicOdysseyEn
+@JapaneseOffgridSurvival
+@LiveWellScience
+@AMERICASVALOR
+@GraniteStories-h5m
+@watchnorion
