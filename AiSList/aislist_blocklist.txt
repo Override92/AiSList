@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54232
+! Total Channels: 54242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54248,3 +54248,13 @@
 @azet_carx
 @FrankLawsonAirlines
 @Eondocss
+@ProfessorRedcap
+@Psycuro
+@ifinity3d
+@ChefHiroshi
+@hunch-lab
+@EliteValorRecaps
+@YangS_90
+@BerthasOrderHacks
+@TheMathofWealthyt
+@Algowars
