@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52980
+! Total Channels: 52975
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8563,7 +8563,6 @@
 @EpicSciFiStoriesOfficial
 @beautynotesedit
 @TheSilentSpecies
-@LivingThroughLove-z5t
 @MotorCityTunesA.I
 @深海幻像
 @DeltaDriftCodex
@@ -46161,7 +46160,6 @@
 @wararchiveschannel
 @GrillWithBillGWB
 @AmericanMilitaryNetwork
-@Chriskimbleshow
 @TheYankeeLife
 @Tactical_Toolbox
 @thefinalshiftDocumentary
@@ -46176,21 +46174,18 @@
 @MICHAELBENNET8
 @SoulStation190
 @DarkroomStories-l3b
-@TheElderCollection
 @RodeoCountryStudio
 @darkomihajlovic-muzika
 @MelodyVerse-v8s
 @dreamewaves
 @theworshipwelost
 @CosmicNarratives-s3e
-@SPECIAL-TEAM-x2j
 @HealingShiftDiary
 @InfidelityCasesStories
 @ToxicRelationship-s5b
 @AshestoPowerTV
 @SilentRetribution-w8z
 @abdelrahmanraef4270
-@ChromeRequiem9
 @CrimsonEchoesUS
 @QuietlyToldNewYork
 @cinemeticpoprock
