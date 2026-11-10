@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53068
+! Total Channels: 53069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32949,7 +32949,6 @@
 @mtfdellanima
 @billionscalefactoryandlofi
 @WhatIfAnimations2
-@IcelysUnnecessary2ndChan-gv1bq
 @minute_zero_extra
 @suitbreach
 @AIDramaSeries-o6i
@@ -53084,3 +53083,5 @@
 @qurantilawat-x8k
 @yueqidrama
 @aifilmsethiopia
+@flightpathchannel
+@oyasumi_ehon-u2p
