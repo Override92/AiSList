@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54292
+! Total Channels: 54300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54308,3 +54308,11 @@
 @WarbornWorlds
 @TheSiliconPixel
 @WaltsCounter
+@NewBeyondHFY
+@HotelsinJapan365
+@RankExplainedyt
+@LittleXenosHFY
+@lanceroygames
+@GLOVARQ
+@LindaMaynes07
+@Dangerous_Chemistry
