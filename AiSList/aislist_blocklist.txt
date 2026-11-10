@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53579
+! Total Channels: 53589
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53595,3 +53595,13 @@
 @tracesanciennesyt
 @Coreteks
 @MUXIBOSH
+@TheHobbyTrap
+@NoVillainsAreSAFE
+@HeroicEpicVibes
+@ruinfalldarkmagictraces
+@NatureRebuilt
+@RedditTalksStory
+@LearningCanteen
+@RippleofKindness7
+@WhenJusticeTookFlight
+@TalesFromTheShadowside
