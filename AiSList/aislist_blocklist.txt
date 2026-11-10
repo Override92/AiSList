@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53972
+! Total Channels: 53982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53988,3 +53988,13 @@
 @usbdump
 @PrepVault-m3u
 @CookingJosie
+@FieldAndStory
+@mmiridirenwanokwara
+@metamoneytv
+@SpaceUmbra
+@HFYDominionTales
+@S-Scottek
+@Review-Lab312
+@TheHeiressBehindTheCurtain
+@judysullivanfuneralinsider
+@FarmAnimalLegends
