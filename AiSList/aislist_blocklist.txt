@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53702
+! Total Channels: 53708
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53718,3 +53718,9 @@
 @TheFinanceEquation.Official
 @natbrat088
 @mobita7
+@SolArmadaHFY
+@HeadtoHeadGlobal
+@HumanParadox-r6w
+@HFYGalaxySmith
+@humanswried
+@HFYGalacticSaga
