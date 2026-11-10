@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52973
+! Total Channels: 52968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46220,12 +46220,9 @@
 @SlyBayley
 @BikersHeartbeat
 @RoadAngels12
-@JuanjoPanal%C3%A9s
-@SilentHeartsofHealing
 @GanglandChronicles19
 @BrokenBikerOath
 @WildDesireFullerton
-@MAITHILA_FILMCITY
 @ChuckNorrisLegacy
 @Continuumstories
 @VoiceStarsTV
@@ -46241,7 +46238,6 @@
 @SwingwaveRadio
 @MaxJusth
 @Jully-Romance-Libray
-@MidnightRomanceEmpire
 @MidnightDrama-b6e
 @WildHeartDramas
 @ShifterRomanceAudiobooks
@@ -46253,7 +46249,6 @@
 @DarkAlpha-t2n
 @Selenes-g3c
 @RoyalInstinct9
-@RejectedLunaLibrary-z5t
 @lily-e4k7z
 @SilentRealmStory
 @AliceRomanceLibrary
