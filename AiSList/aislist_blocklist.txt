@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53628
+! Total Channels: 53637
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53644,3 +53644,12 @@
 @PrayerPowerCenter
 @the_humancraft
 @HealingAngelLight
+@FrontierMedia786
+@GodsPromiseNow
+@PowerfulPrayerMoments-v3x
+@ThelightOffaith2026
+@GodAlwaysSpeaks
+@DivineMessageofMichael
+@Nicojimmi
+@Sendero_Biblico
+@LaVidaEterna-Biblia
