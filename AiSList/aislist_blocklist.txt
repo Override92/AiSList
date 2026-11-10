@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53677
+! Total Channels: 53683
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53693,3 +53693,9 @@
 @AlienWorldStories-k5m
 @GalacticStormSciFi
 @HollowTitan-g2e
+@Arcaneexplains-l4j
+@TheGadgetGuru777
+@TakzioTech
+@InfluenceRoom
+@Tu%E1%BA%A5nPh%E1%BA%A1mCh%C3%AD-y7z
+@HFYHiddenAlienWorlds
