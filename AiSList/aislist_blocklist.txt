@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53070
+! Total Channels: 53073
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53086,3 +53086,6 @@
 @alexexplainsasia
 @thedecisionrecord
 @larchivestudio
+@saifiq-1989
+@relatosdelmalsueno
+@syntheticcinemai
