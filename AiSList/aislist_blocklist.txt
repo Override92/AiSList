@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53062
+! Total Channels: 53072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53078,3 +53078,13 @@
 @sketchedcosmos
 @StickTheory-h2n
 @BrainZap0099
+@CuriousDude4K
+@Borninlore
+@QuirkScienceTV
+@CosGax
+@SpencerGrant-Us
+@doggysurvives
+@TechsExplained
+@BouStoriesTVs
+@WTFCDFoxy
+@CosmicFuse
