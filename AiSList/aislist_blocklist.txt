@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53345
+! Total Channels: 53355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53361,3 +53361,13 @@
 @Gahang-t6e
 @The_Tonys_Garage
 @PocketSagaFans
+@GamingisCultureOfficial
+@WhatMakesItRun
+@TheCodingGopher
+@neveroffschedule
+@errataexplains
+@monsterDNB-y6b
+@bugx
+@CrazyStickBros-f7m
+@lively-o4c
+@learnthatstack
