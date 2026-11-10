@@ -31,12 +31,12 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 10171 |
-| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 7167 |
-| 🥉 3 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4838 |
-| 4 | [@www2](https://github.com/www2) | 4544 |
-| 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2241 |
-| 6 | [@magikarp](https://github.com/magikarp) | 995 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 10215 |
+| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 7175 |
+| 🥉 3 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4840 |
+| 4 | [@www2](https://github.com/www2) | 4592 |
+| 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2244 |
+| 6 | [@magikarp](https://github.com/magikarp) | 1083 |
 | 7 | [@dv](https://github.com/dv) | 643 |
 | 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 548 |
 | 9 | [@Beavermafia](https://github.com/Beavermafia) | 452 |
