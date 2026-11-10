@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53071
+! Total Channels: 53069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37216,7 +37216,6 @@
 @MythicChronicles-j9h
 @sleepingaudit
 @PodcastAI-t6k
-@WildRanked-f3z
 @AiMovieMarvel
 @Ailife-o6x
 @AiUnlimited4u
@@ -37252,7 +37251,6 @@
 @OrangeExplains7
 @TimeBuried1
 @DarkJazzSessions
-@HUMAN-ISH88
 @vu-mtg
 @wow-1124-s8m
 @aidoorbellAi
@@ -37303,7 +37301,6 @@
 @Peasant_Pete
 @getmindwire
 @LilLineGuy
-@NightJazzRelaxing
 @Jarko-l3n
 @MindArmy5
 @oppie_poppie
@@ -53087,3 +53084,4 @@
 @ThreeEyedTheorist
 @3dFilm-j4i
 @alexexplainsasia
+@thedecisionrecord
