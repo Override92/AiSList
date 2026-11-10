@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53414
+! Total Channels: 53424
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53430,3 +53430,13 @@
 @HeritageNewsAmerica
 @HechoParaRomperse
 @SoftlyJazz.No1
+@GentleBluesSound
+@ShelbyStreetBlues
+@GameflowTunes
+@KRONVEIL1
+@SimpleTechEN
+@SpiritualPersianLute
+@EternalWarhammer
+@longwaytotherock
+@Rogue-oo-raa
+@hablemosdepeliculasyseries
