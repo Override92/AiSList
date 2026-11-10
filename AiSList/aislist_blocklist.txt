@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53109
+! Total Channels: 53119
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53125,3 +53125,13 @@
 @MapVignettes
 @par2labs
 @AISingings
+@TheAilenHumanStoryUS
+@Storylore_ai
+@CordaViva-q8o
+@RAIDShadowieeeLore
+@ukkarinojo
+@ReadiowavesAudiobooks
+@EverydayWondersExplore
+@hustletestedyt
+@theancientyou.369
+@HeritagehuntAi
