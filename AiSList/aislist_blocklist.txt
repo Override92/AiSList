@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53089
+! Total Channels: 53099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53105,3 +53105,13 @@
 @NorthShelfPicks
 @WhatWouldHappenSci
 @StaticNoirTV
+@kinlore.official
+@o_sabio_sabia
+@Huntrix888music
+@TechScope-c7
+@SticklyTubeYT
+@GalactusHFY
+@VARGYRN
+@ancientsecrets111
+@MarineDogStories
+@MUSENIQ8888
