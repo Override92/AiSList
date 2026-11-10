@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53663
+! Total Channels: 53658
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14424,7 +14424,6 @@
 @JazzwithChrist
 @hopeafterdespair-i6t
 @asfakshaikh19
-@HappyinChrist-y5w
 @Luzdeesperanza_TV
 @alexeditz-e8j
 @TruthCast-03
@@ -30634,7 +30633,6 @@
 @AfricanFolktalesWithBubbles
 @DarkTimesTales
 @PassionRomanceTales
-@TheStardustTales
 @RejectedOmegaTales
 @CurvyHeartsTales
 @RosiePosieTales
@@ -46465,13 +46463,11 @@
 @theCompound_life
 @POVTimeMachine-g1j
 @pov-did-you-know
-@Pove%C8%99tiT%C4%83cute
 @HistoryPOV01
 @PovSlide
 @Novi_povs
 @aitensionpov
 @HistoricalSleepover
-@POVYOUAR
 @BillionairePOVStories
 @POVityASMR
 @AtRiskPOV
@@ -46479,7 +46475,6 @@
 @ArponFinancePOV
 @POVBrokenFamilyMoney
 @POVwithJason
-@RichLifePOV-US
 @HistoryPOVstory
 @thefolklorestudios
 @nulltrace_nulltrace
