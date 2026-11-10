@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54062
+! Total Channels: 54072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54078,3 +54078,13 @@
 @LegacyArchives-d9s
 @WeightofSilenceOfficial
 @DavidEyijo
+@MarcyHollisSurvival
+@humanityascendant_ha
+@Curious_Doodle1
+@WWIILEGACYARCHIVESyt
+@MemeNovaHFY
+@JokerSpeaks2.0
+@Matar-era
+@GrowingMoneyHQ
+@justtsuppose
+@Beanscapital
