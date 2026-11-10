@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53609
+! Total Channels: 53619
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53625,3 +53625,13 @@
 @OldGloryDays77
 @Whoremembersusa
 @SagaofSurvivall
+@WillowFarmStories
+@NativeWesternTales
+@RescuedbytheRidge
+@OldWestCampfire
+@MountainMadeYT
+@oldhumancraft
+@ArchangelMichaelUrgentMessage
+@TheGodsGentleVoice
+@VoicesoftheChosenaz
+@TheGodsOpenDoor
