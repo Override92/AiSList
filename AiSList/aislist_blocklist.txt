@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52986
+! Total Channels: 52985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12074,7 +12074,6 @@
 @EchoForge-b4t
 @NexifyTunes
 @SkylineMusic-y1n
-@everlastinggrace-n3k
 @HymnsHorizons
 @IndianJukeBox-kr2jo
 @moderntunes001
