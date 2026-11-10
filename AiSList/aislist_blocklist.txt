@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53076
+! Total Channels: 53071
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6896,7 +6896,6 @@
 @house-yt10
 @daichiencavancan-no1
 @trendyshortz2444
-@seniorhealthdoctoranderson
 @cartoonvibe2.0-o8p
 @primediscoveries-n4v
 @RichardDavis-d4e
@@ -37153,7 +37152,6 @@
 @Engineering_school_9
 @mnforklift724
 @WONDERBOX2-c
-@HelaStory
 @aimechanicvibes
 @EngineeringUndercover
 @Fivertechpasindu
@@ -37330,7 +37328,6 @@
 @DrivenToWinnn
 @Zenora-i8o
 @Whyld_official
-@hasiburrahman_letsknow
 @ThePrimalWhy
 @HoldUpPast
 @wingsofwar-n7z
@@ -37421,7 +37418,6 @@
 @TruthWithin-d4n
 @HOAClashes-h9u
 @HOADisasters-e5y
-@HiddenPayback-u4f
 @FarmLifeStories-r5n
 @QuietAcresStories
 @StoriesofElena-j8u
@@ -37429,7 +37425,6 @@
 @JusticeLine-i3f5p
 @HumbleDadStories-t5b
 @PatientDadStories-i5e
-@Familymemoir-u1e
 @RealTruth-d8y
 @WildflowerStories-i8g
 @UntoldTruths-t9b
