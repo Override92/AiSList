@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52982
+! Total Channels: 52979
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30016,7 +30016,6 @@
 @Flickai-7
 @IdeasComeAlive-hp
 @DreamFrameAI2272
-@PawTalesAIstories
 @ShortlyAIStories
 @purrfecttales_ai
 @BibleStoriesReloaded-g3c
@@ -30051,14 +30050,12 @@
 @UniVersalThoughtStories
 @Hinarys
 @rasoikiyaadein26
-@MegaBeatsAii
 @TheDeadBardsJournal
 @HiddenCrownTales-USA
 @The-QuietVirtue
 @TheUnseenHero-g2j
 @Lensa51
 @Omklem
-@EchVidAIMusic
 @AIFilm-y
 @AiDramastories123
 @LifeFrameStories-r3z
