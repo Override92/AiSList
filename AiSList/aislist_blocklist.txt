@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52985
+! Total Channels: 52986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15367,7 +15367,6 @@
 @neu-youtube
 @deepsignal1
 @behindthe_market
-@bruceleelegacyfanfiction
 @magneticjazzclub
 @dramaanime-p3u
 @mayhongtv25
@@ -53001,3 +53000,5 @@
 @nocturn_creed
 @risewithmindd
 @zebsal
+@rraphcat16
+@shashygames
