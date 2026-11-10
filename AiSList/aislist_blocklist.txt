@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54032
+! Total Channels: 54042
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54048,3 +54048,13 @@
 @BlackCEOJusticeStories
 @HauntoftheLost
 @Cognevo
+@KolozsMarcel
+@cwm606
+@TheVanishLegacy
+@StarbornFrontier
+@desmondcole-k3z
+@CuriofinanceExplainer-h7w
+@AmericanBattleArchives-j6r
+@ElijahsVoiceovers
+@SamMoneyStory
+@rafaelahassell4503
