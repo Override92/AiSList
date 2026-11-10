@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52986
+! Total Channels: 52985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11010,7 +11010,6 @@
 @zorryranks
 @rockattackofficial
 @samhallsinformation
-@mrteng-tv
 @daisymeow1
 @deepworkschannel
 @pizarramental-m3v
@@ -23803,7 +23802,6 @@
 @lafabricadealvaro
 @xiliz_prime_studio28
 @ryszardkowalczyk0
-@corporatekarmabywalter
 @romaticpianomusic249
 @officerevengebyjack
 @Marklife-ID
@@ -53002,3 +53000,4 @@
 @solsilkmusic
 @nocturn_creed
 @risewithmindd
+@zebsal
