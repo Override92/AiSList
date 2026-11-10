@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54002
+! Total Channels: 54012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54018,3 +54018,13 @@
 @HarveyMindset11
 @Mark_Retire
 @MatzVeenstra
+@TomKessler4
+@TheTerranUprising
+@Stickman-Finance-official
+@CoolContentCreator-67
+@frontier-signals
+@SouthernLorestead
+@KazukiMangaRecap222
+@LostAtlasHistory
+@hfystories_hub
+@AncestorLog
