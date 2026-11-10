@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53882
+! Total Channels: 53887
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53898,3 +53898,8 @@
 @DasDunkleRom
 @ExtraGardener
 @DarkFleetHFY-r1h
+@ziad.halabi9
+@BenFinance79
+@enigma8bit
+@LastManStandingHFY
+@ElaraR%C3%ADos
