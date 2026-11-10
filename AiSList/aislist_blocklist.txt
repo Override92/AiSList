@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54272
+! Total Channels: 54282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54288,3 +54288,13 @@
 @InitZeroSH
 @martijnkiers
 @GalactictCourtHFY
+@BrightSoulStoriess
+@TheModernYogi-d1v
+@eautobiography.e
+@GameTuber123-b8y
+@TerranPledge
+@RoyHendricks1
+@FredHarrison1
+@LenaHunterHFY
+@ForgottenHomeDesign
+@HumanAscensionHFY-g3i
