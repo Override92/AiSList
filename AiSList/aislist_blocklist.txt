@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54142
+! Total Channels: 54152
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54158,3 +54158,13 @@
 @vgmarcheologist
 @OrdinaryTimeMedia
 @engineering_systems_r9
+@MasterReview-Top5
+@Lightedweb
+@WatchPocketWhyy
+@SpaceLedger-u7w
+@MindSnap-b4s
+@The-Tech-Verdict-11
+@TonyBaker-w8o
+@GalacticJudgment
+@CaseyDigitalMusic
+@InfinitDeathworld
