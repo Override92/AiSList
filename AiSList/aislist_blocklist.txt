@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 52969
+! Total Channels: 52973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52985,3 +52985,7 @@
 @primedrama-v7e
 @김이글ai
 @MsGloriaCleans
+@heartbeat_animations
+@yigitzade-l9h
+@letzteloyalitat
+@roseecarlatee
