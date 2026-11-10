@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53674
+! Total Channels: 53677
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53690,3 +53690,6 @@
 @ThinkFlux1
 @DrPcMaster
 @BestofAmazonReviews
+@AlienWorldStories-k5m
+@GalacticStormSciFi
+@HollowTitan-g2e
