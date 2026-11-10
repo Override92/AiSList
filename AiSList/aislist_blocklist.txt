@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 53237
+! Total Channels: 53247
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53253,3 +53253,13 @@
 @ChoiceVincimedia
 @FRUITDRAMAHOUSE-1
 @aidramahub2346
+@TadkaToonsAI6
+@FruitCourtYT
+@Slicentra8
+@WorksOnMyGPU
+@AITOOLSEXPLAINED-f7w
+@LunaNovaBeats
+@PawRoomStories
+@JurandirJ%C3%BAniorSeuJura
+@ai.ikikafadar
+@tuhafmatik
