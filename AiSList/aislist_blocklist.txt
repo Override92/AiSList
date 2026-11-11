@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54408
+! Total Channels: 54418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54424,3 +54424,13 @@
 @AfterHoursStories-s1o
 @StarRadar01
 @VintageCars-s4y
+@TheAutomotiveCentral
+@CineBuster77
+@NextoolXofficial
+@PsychLedger
+@PostcardsFromBritannia
+@JGigs
+@VideoGameGuyVids
+@MarkedTerror
+@RealHisHiddenHeart
+@Unlearn16-d8k
