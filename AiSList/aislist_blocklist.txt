@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55261
+! Total Channels: 55268
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55277,3 +55277,10 @@
 @TimeTravelAI-3000
 @HeyFloLive
 @Mintly-AI
+@OrangeAINEWS
+@AIWITHISLAMIC0786
+@kungohtech
+@ghiblirasoi-o6o
+@jonasweisswie
+@GhibliVillage-i9z
+@OneminutewithAi
