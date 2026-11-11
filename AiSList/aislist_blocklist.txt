@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55357
+! Total Channels: 55367
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55373,3 +55373,13 @@
 @AImagic.com01
 @SeaVibeses
 @CodeKittyTales
+@magic-kids-animation-3d
+@MAFIACATO-1
+@AIMagicWorld-835
+@PixelMindGb
+@MiniChefWorld2018
+@AIfitss
+@MandarTheTimeTraveller
+@TinyFirstMoments-e6g
+@AIvibesss-28
+@realedwardlongbottom
