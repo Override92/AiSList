@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56129
+! Total Channels: 56139
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56145,3 +56145,13 @@
 @QueenieFlicks
 @Fruit.DramaAi
 @KarenStoryhq
+@atlas-o4i
+@CrownCurtain
+@QuickStory-g4z
+@DuskyLaurel
+@sorasgalore
+@GuillermoValderas
+@aeristhoughts
+@TheManorChroniclesTV
+@HistoryInvisioned
+@DLorettasKitchen
