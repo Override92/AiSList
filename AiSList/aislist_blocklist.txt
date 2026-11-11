@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56805
+! Total Channels: 56813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56821,3 +56821,11 @@
 @Astra-z5s
 @motion.chapters
 @BeyondBetrayalUS
+@calieclip
+@DrownedStates
+@AtomicPrawn
+@ParadoxNews-o1h
+@ShashankParekar
+@Jackthommpson
+@Chrono-v3y
+@Stellar1odyssey
