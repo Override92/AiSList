@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56608
+! Total Channels: 56618
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56624,3 +56624,13 @@
 @Betty_Larsen
 @samuel.cinematic
 @TaleRoomSecret
+@Ashleytriesai
+@TheLostPantry
+@AICHEFrocks
+@TheCurtainFiles0
+@InsightNeonAI
+@CHUCKBERRYARCH%C4%B0VES
+@CcoAI
+@JamesWhitfield-g4l
+@mcxv.3
+@frugalevelyn
