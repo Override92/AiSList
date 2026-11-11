@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54430
+! Total Channels: 54429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38085,7 +38085,6 @@
 @ElunRaum
 @apotikabali-tv
 @HuMeng-y4m
-@hassysstudio
 @Aisekainime
 @dreal936
 @LeahJones-y9k
