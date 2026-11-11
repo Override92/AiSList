@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55037
+! Total Channels: 55047
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55053,3 +55053,13 @@
 @FaithAITales
 @BaabubhaiyaAi1610
 @mini.machine-ai
+@HeroicCinemaAi
+@SubhamKumar-yb7jr
+@WeenBoy
+@maroofkhanbangartv
+@MidnightTape1988
+@storiesbynishant
+@CityPopVault
+@CineForgeAIOfficial
+@PinkHourCityPop
+@theaishortdrama
