@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54438
+! Total Channels: 54448
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54454,3 +54454,13 @@
 @RustyProductio
 @SpiritualDive
 @DIYAlchemyOfficial
+@ShadowofVegas
+@theforgottenp4st
+@FactopiaExpress-n7i
+@SimplySapiensOfficial
+@potlikker_official
+@ASTRALFORGE-u6g
+@Maestropulse
+@scarednight100M
+@macilcat
+@RbxNews-TV
