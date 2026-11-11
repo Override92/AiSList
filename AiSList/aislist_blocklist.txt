@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56479
+! Total Channels: 56489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56495,3 +56495,13 @@
 @Fortis-Machiavelli
 @Orcasclips
 @TrueNorthLaw
+@ChiomaGray-q7d
+@Stoicedge-0
+@CaraBuilds7
+@cortzstory
+@SanvyBuilds
+@walter_tillman
+@FruitDrama10-o4o
+@3HoursofSurvivalKnowledge
+@blanktabmedia
+@ZuriStoriesYT
