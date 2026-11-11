@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54547
+! Total Channels: 54557
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54563,3 +54563,13 @@
 @canalsambadefamilia
 @LatinaRemix
 @SalsaDeCali
+@DreamBassWaves
+@CaliSalsaRadio
+@TembokRatapan-r2u
+@echosepouvante
+@DgMusic-BassBoosted
+@DustyGroovesMusic
+@GlobePulse-u6n
+@G.G.bander-f3i
+@TsukiFrame-q7s
+@aifantasygameoriginalsoundtrak
