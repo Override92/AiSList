@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54384
+! Total Channels: 54388
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54400,3 +54400,7 @@
 @KeynoteKitchen
 @HollywoodTimeVault-b7m
 @NaValChanel
+@investor_weekly
+@WindowsChimp
+@Crimedecoded-v8o
+@MoneyTalk-r3b
