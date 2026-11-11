@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54633
+! Total Channels: 54642
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54649,3 +54649,12 @@
 @tokyojazzkissa-o6d
 @VIRUMproduction
 @InterestingFactsAndAnimations
+@AmericanLifeStories-w5s
+@NextLevelAmerica-m5v
+@AIANIMATION-b7p
+@Shelly7999-q7o
+@SparkShift-j1o
+@AiThroniX
+@Bloxora_AI
+@ShahFaisal-z2m
+@MovieVaultTV-i6x
