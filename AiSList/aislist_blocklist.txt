@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55347
+! Total Channels: 55357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55363,3 +55363,13 @@
 @TransformDIY-Home
 @Aitalesbyramsi
 @Mr.ThophyExperiment
+@shorttales.withAI
+@KidizCartoon-4
+@NaniAutoTech
+@storyversestudioY18
+@TheAnimationGalaxy123
+@MysticAurora-17
+@EmaansAIWorld
+@AImagic.com01
+@SeaVibeses
+@CodeKittyTales
