@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54983
+! Total Channels: 54991
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54999,3 +54999,11 @@
 @SimplifyDude2
 @epicfilmcore
 @SilentHearts-q8q
+@Tamil_off01
+@MidnightJazzRoom-m2u
+@cookwithjaya-70
+@DNWhatIf4.0
+@ChefAI_Now
+@SleepyTimeOrigins
+@LearnWithHassanAI
+@iixc0lexii
