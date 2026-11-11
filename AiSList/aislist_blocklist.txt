@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55487
+! Total Channels: 55497
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55503,3 +55503,13 @@
 @Nostalgia_Canvas
 @Ghiblistyle.93
 @Cartoon_Naveed_1242
+@FatalDecisions-iok
+@sunnysmartzz16
+@GhibliKitchen-002
+@YourLifeAsLevel
+@Ghiblihenamotina
+@AIMagicWorld-v6v
+@CamdenAndJesus
+@GrandmaGhibliKitchen
+@Preciousstoryventure
+@NaserTimeTravels
