@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56952
+! Total Channels: 56962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56968,3 +56968,13 @@
 @BlindHonor
 @Ugchiggs
 @StreetBlueprints
+@MultiAiGrowth
+@C%C3%A2uChuy%E1%BB%87nV%C3%ACSao
+@TinyKitchenTales3
+@MentorDecodedWar
+@AfriEchoes-k8n
+@VanLifeExplainedYT
+@thecozy_escape
+@MayaStoryUT
+@MSvilogger
+@WW2SpecialOperations
