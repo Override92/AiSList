@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55979
+! Total Channels: 55989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55995,3 +55995,13 @@
 @WWII-Naval
 @charisma.prompts
 @LowEffortExplained98-3z
+@Niranjan-kumar287
+@BeyondtheAisle-c3r
+@WmemeGuy
+@DaMiaoDrama
+@AilienAgency
+@InhabitHistory
+@AI_ViralZone
+@MuktaPatil-fo6eq
+@Thenumber1AI
+@RiseoftheHomestead
