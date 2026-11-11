@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55739
+! Total Channels: 55749
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55755,3 +55755,13 @@
 @LostAmericanTVNights
 @SnapClips-x6y
 @SammExplainsMoney
+@xJare-s1m
+@TungstenStories
+@AiFruitys
+@ChamaChama-b1i
+@AniNova1313
+@UntoldArchivesYT
+@arshibabycartoonnetwork
+@ryangeographyyt
+@ailifestory-l6x
+@GideonElements
