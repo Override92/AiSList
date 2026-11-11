@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55397
+! Total Channels: 55407
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55413,3 +55413,13 @@
 @CurioPulse-p8q
 @ghiblianimationfood
 @WaitReallyAnimated
+@minaikitchen4
+@gedankenwerk_de
+@SahedAiFilms
+@loadbearingfacts
+@AMZSTUDIOHOUSE
+@myworkabdalla
+@Holy_story_hub
+@shubhangagarwal1536
+@GhibliChefAI
+@TheAiGrid
