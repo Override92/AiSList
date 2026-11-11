@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54437
+! Total Channels: 54432
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2818,7 +2818,6 @@
 @HistoryUncovered-q2k
 @PhilosophicalCafe
 @HiddenCanvasTales
-@True-Terra
 @Pastwithmax
 @simplemindmap1
 @ExplainingEverythingChannel
@@ -3087,7 +3086,6 @@
 @UpgradeYourSelf_Knowledge
 @SmarterWhileYouSleep
 @DarkPsycheZone
-@Mindplicit
 @SecondBrainChannel
 @DarkPsychologyTricksIndia
 @yourmindisyoursuperpower
@@ -13160,7 +13158,6 @@
 @LupinLabb
 @osefilms44
 @RanjitSingh-b9y1l
-@MisterJcStudios
 @ASHOKMUSICFANTASY
 @designwithbhargav
 @moonlightsoundstales
@@ -33848,7 +33845,6 @@
 @NajiiManga
 @Bedtimescientist-icdi
 @longgangsternights
-@MoreThanADad-u3s
 @foodmark
 @Azmiya-z1e
 @40KArchive
@@ -38689,7 +38685,6 @@
 @AfricanAistoryworld
 @Africanaistudio-h4q
 @AfricanAITales-y1p
-@AfricanAnimationAI
 @LedByDonkeys
 @AiCartoonKidzzz
 @aicartoonland2007
