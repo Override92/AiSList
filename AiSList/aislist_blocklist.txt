@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54421
+! Total Channels: 54420
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54432,7 +54432,6 @@
 @itzcuriositylab
 @oneplanet-n1m
 @christmasradio2027
-@doctormyro
 @bobdinar36
 @truecrimejournal-f7v
 @personalfinancefunshow
