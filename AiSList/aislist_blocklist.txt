@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54324
+! Total Channels: 54334
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54340,3 +54340,13 @@
 @HomerLore
 @pundahekima
 @theunivers18k
+@MovieListInsider
+@MrPlotJunkie
+@comicstalkYT
+@MovieRecapsMax
+@movierecapsofficial
+@synocap
+@movielounge_2025
+@HOUSEALL100
+@Sukhdev04
+@Cloud_Canyon
