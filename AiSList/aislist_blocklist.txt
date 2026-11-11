@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55557
+! Total Channels: 55567
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55573,3 +55573,13 @@
 @TinyHomeDoll
 @dreamvillageaikitchen165
 @AiShortFilms-designbyroxy
+@TomTravelLogs
+@juliaxworlds
+@todayiwannacookforyou
+@empiresEye
+@DoomsdaySurvival01
+@ParallelFilmsAi
+@ghiblikithen
+@Ghiblivisuals1506
+@Rita-p8n7x
+@GhibliGlow-q1h
