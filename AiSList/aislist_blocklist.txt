@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54850
+! Total Channels: 54860
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54866,3 +54866,13 @@
 @SingleDadHeart-x3c
 @Chis_k5-x6f
 @TheCEOTheSingleDad-z8b
+@GermanRevengeDiaries-g6i
+@BraveWesternTales-n7m
+@SilentPowerStories-b2k
+@Echoesofkindness-l1w
+@KaizenGarage-p2s
+@TheResilientFarmer-j1u
+@HFYMenschheit-g6j
+@FightBack-u5y
+@VergessenesDeutschland-p8q
+@Hofgeheimnisse-x5y
