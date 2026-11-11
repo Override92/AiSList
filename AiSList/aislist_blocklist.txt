@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55167
+! Total Channels: 55176
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55183,3 +55183,12 @@
 @VeloraDramaHQ
 @CreatorMagicAI
 @kamanqi
+@PerlasDram%C3%A1ticas
+@XeroRemixes
+@MicroChefKitchenAI
+@LegendaSultan-FULL
+@RobRaffety
+@aistory-b9p8f
+@TimosaTales
+@BaS%C3%B4Audio2603
+@AIKitchen555
