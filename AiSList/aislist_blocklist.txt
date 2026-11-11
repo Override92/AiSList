@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55067
+! Total Channels: 55077
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55083,3 +55083,13 @@
 @AtajodeIA
 @Zivro-t4b
 @HopeforgeStudios
+@Ghibli-l7c
+@EmberGoldCinema
+@ShadowVerse-h5n
+@chortomlyk
+@AIVibes2026AI
+@Sp4nnerMusic
+@TVV.collectives
+@WildflixOfficial
+@quranreaderoffical
+@HerOwnWiring
