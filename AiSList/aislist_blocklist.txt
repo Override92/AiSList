@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54607
+! Total Channels: 54617
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54623,3 +54623,13 @@
 @AegeanSoul-g2m
 @CUVANAMusika
 @MusicaLatinaTK22Official
+@DaikoLatino
+@puroviejo
+@WWESlamUS
+@CriticalMoment-n4j
+@Y%C4%B1ld%C4%B1zCover
+@popnable-tr
+@Anima_AI28
+@AiLevelStore
+@foxaivideostory
+@classicrendersai
