@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54308
+! Total Channels: 54303
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -359,7 +359,6 @@
 @alpssstudio
 @FluffyHardWorker
 @Fluffytime-x4t
-@tinyexplrrs
 @PenguinOrbit
 @UniversumDeutsch
 @TinyKitchenStudio
@@ -10112,7 +10111,6 @@
 @AiCreatesNostalgia
 @Themusicmemories-13
 @AI_Zayan
-@ShiftAIAudio
 @RavensMourning
 @NarzaryMelodies
 @ArikeMusic
@@ -30656,7 +30654,6 @@
 @MoodCapsules
 @TimelessFairyTales-gv2yf
 @Sweethear-TV
-@HeartbeatTales-n9e
 @BitByBitExplained404
 @WhisperingPrairieTales
 @yaboityler2617
@@ -30714,7 +30711,6 @@
 @WildDecodeTV
 @Sleepyy-Tales
 @PerchGuide
-@DestinyRomanceTales
 @GunsLab1
 @TalesbyID
 @MafiaLoveTales-b6y
@@ -30790,7 +30786,6 @@
 @SleepyLoveTales
 @OrcbornTales
 @TheTimelessTalesLibrary
-@BlackVerdictTales
 @wildweslovetales
 @DukeLoveTales
 @CelestialWarTales
