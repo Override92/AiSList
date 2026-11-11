@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54374
+! Total Channels: 54384
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54390,3 +54390,13 @@
 @LuxuryRelaxJazzLounge
 @LofiOkay
 @RelaxLiveScreen
+@LazyLemonLoaf
+@KitspysDreamland
+@LofiShop24h
+@MeowMixChillhop08
+@ZenBuffalo1
+@mellowcatlofi86
+@zunzunmelody
+@KeynoteKitchen
+@HollywoodTimeVault-b7m
+@NaValChanel
