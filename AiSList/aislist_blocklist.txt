@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54953
+! Total Channels: 54963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54969,3 +54969,13 @@
 @DagatiMevo-q5h
 @SleepInOrbit
 @QuietTriumphs-us
+@MontmartreChill
+@DragonRiseTV
+@WesternFables
+@theancientambient
+@DreamDramaStudio-g6g
+@ArchivesOfTheLastDawn
+@TheMateoExplains
+@SlowScienceLab
+@celestialstuffYT
+@mewmewjazz
