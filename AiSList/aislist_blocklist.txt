@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55203
+! Total Channels: 55208
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55219,3 +55219,8 @@
 @Vel_universe_original
 @Ai4kidsstory
 @zmnstudio
+@ViralVortex329
+@dreamora_ai-g7r
+@Ghiblicooking-d2l
+@Muskan100TV
+@GhibliKitchenSpark
