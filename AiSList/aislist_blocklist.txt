@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54426
+! Total Channels: 54430
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54442,3 +54442,7 @@
 @Rovskysound
 @mysteryrecappedofficial
 @Asexplaining
+@fastforwardclipss
+@DiTiRecap2
+@TwistRecapss
+@ZenithRecaps36
