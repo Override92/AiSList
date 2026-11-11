@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55107
+! Total Channels: 55117
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55123,3 +55123,13 @@
 @Xanh2807
 @cloud.jr.m
 @aibezjaj
+@myrobox32
+@AlkanaPRO-C94
+@SANATKAJUGAAD
+@GLOBALDRILLVIBE-b
+@khalidshaikh92
+@AniXStudio04
+@WhatIFChannel447
+@VexoraForce
+@The-AI-Land
+@DAYOFFofficialmusic
