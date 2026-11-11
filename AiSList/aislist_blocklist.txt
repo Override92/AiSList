@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55587
+! Total Channels: 55597
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55603,3 +55603,13 @@
 @Ai_Videoss12
 @3DcartoonVideos-7319
 @90stamilnaduGhibliStyleVideo
+@Funzotoons-Vq
+@afsudramaTV-b4w
+@povversess
+@SachinCreative-45
+@bahtiyorachildiev1908
+@shaunstimetravel
+@Ghiblivillagekitchen_13
+@CozyGhibliCorner-r8t
+@CurioForgeCreative
+@RamyDramaStories
