@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56833
+! Total Channels: 56843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56849,3 +56849,13 @@
 @AIdoorbellfootage-u2g
 @AnarRustamov-o7w
 @MarvelAIWorld-l2c
+@BobJonesCars
+@ATVstudio-v8p
+@XY_CARTOON1
+@TheOnyxLevels
+@MrSinghvlogs-g3
+@AILaboratory-x7y
+@Lukemaloneyt
+@QuietlyObsolete
+@ThatsNotRealTV
+@Magixianime
