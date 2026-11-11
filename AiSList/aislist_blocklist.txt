@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54426
+! Total Channels: 54421
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9002,7 +9002,6 @@
 @digital.soulclub
 @RustBluesRadio
 @TheInteractiveArchive
-@ChronoScripts
 @ToJestPL
 @Hidden_in_History-o7m
 @BuilttoRotYT
@@ -16527,7 +16526,6 @@
 @UKSpotlight-k4g
 @CrownInsight-w3o
 @zenvoratalk-r9b
-@TheShockVerdict
 @FallenAmericaFM
 @SundayStoriesHQ
 @TheDimonAnalysis-i1v
@@ -31394,7 +31392,6 @@
 @NeonCubTales
 @PureKindTales-o9z
 @HistoryTales55
-@TalesoftheMafia
 @Dark-Mafia-Tales
 @Talessfromthemotherland
 @TrendsTales0
@@ -31432,7 +31429,6 @@
 @BratvasVowTales
 @BLUniverseTales
 @GoldenFolk-Tales
-@AlosAfritales
 @TalesByLoho
 @darkbookertales-s8g
 @BedtimeFolktalesTV
@@ -33276,7 +33272,6 @@
 @ScoutsTheory
 @PolyFilmsOfficial
 @callmhewolf123
-@farmsecretsdaily
 @realmofenchantedtales
 @breakingtimenow
 @IndusForge-k7q
