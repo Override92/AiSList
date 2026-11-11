@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55337
+! Total Channels: 55347
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55353,3 +55353,13 @@
 @afterglowradiohq
 @CartoonVerseAI-i3s
 @DJ.SleepingRaccoon-k1j
+@TastyKitchenAI24
+@Shanghai_Tan
+@ahsanvlogs-h7s
+@City-Pop-Universe
+@MagicalVillageHindi
+@retrocitypop
+@Maskalesangam
+@TransformDIY-Home
+@Aitalesbyramsi
+@Mr.ThophyExperiment
