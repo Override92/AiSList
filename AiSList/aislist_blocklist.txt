@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57031
+! Total Channels: 57041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57047,3 +57047,13 @@
 @BlackoutFox-d1m
 @Animal_Happenings
 @WhispersofVengeance055
+@Qianq_ian123
+@CurtVandell
+@Fryeai
+@projectgenesistv
+@lindsay_morales
+@DollyPartonTheUntoldLegacyYT
+@sethian_gnostics
+@DonInvestsChannel
+@parthailife
+@user-xx9gu4ll2e
