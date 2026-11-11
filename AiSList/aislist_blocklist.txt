@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54701
+! Total Channels: 54711
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54717,3 +54717,13 @@
 @AsukaRecaps-v4m
 @Ls30sounds777
 @CasualAI-o8t
+@lasaguaro_music
+@FamilyFallout-c7j
+@YenNguyen-vg5is
+@DarkAngel-h2r
+@HomeUpgradeLab-f9c
+@TheHiddenBlueprint-n8j
+@Auzura-i2e
+@ALEXBROWN-v4z
+@Vzestupap%C3%A1d-h3m
+@SEALDogChronicles-r6h
