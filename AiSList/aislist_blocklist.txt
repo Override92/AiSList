@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56469
+! Total Channels: 56479
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56485,3 +56485,13 @@
 @RevengeAllosaurusUS
 @PevitaHistory
 @MafiaSecrets01
+@ViralWowsWhims
+@DepressionEraSecrets
+@MESSYFRUITY
+@BuriedEvidence3
+@ZH_HONG_KV
+@Mr.DoomStick
+@aihistorychannel27
+@Fortis-Machiavelli
+@Orcasclips
+@TrueNorthLaw
