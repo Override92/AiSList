@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54860
+! Total Channels: 54868
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54876,3 +54876,11 @@
 @FightBack-u5y
 @VergessenesDeutschland-p8q
 @Hofgeheimnisse-x5y
+@LetzteWahrheit-i5e
+@EasyTrue-d1q
+@PriyaShukla-n4y
+@RevyQuinn
+@kainekaine1
+@user-bk9ui7vj8q
+@boardgamecritique
+@MatthewBishop-s3b
