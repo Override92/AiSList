@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54433
+! Total Channels: 54434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3286,7 +3286,6 @@
 @BrotherJamesStories
 @TheRecord_yt7
 @BlackLivesStorie
-@SecretsofSilentBadges
 @RootsofNaija
 @UnheardRawStories
 @HOAcase
@@ -54449,3 +54448,5 @@
 @Infographicus
 @TheDataRace-h1g
 @Factora.Visuals
+@talesbyjaylasmum
+@sweetkissdrama-q6r
