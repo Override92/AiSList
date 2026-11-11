@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54642
+! Total Channels: 54652
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54658,3 +54658,13 @@
 @Bloxora_AI
 @ShahFaisal-z2m
 @MovieVaultTV-i6x
+@sunhindianimation-i4i
+@AIMisteryLab
+@MenteAscendente-z6e
+@The_Daily_Oddity
+@AnnieJoy-t3d
+@mellowathome-d5s
+@PlantAI-l5u
+@ParvindKumar-c6y
+@ReubensAIRevolution
+@TiffanySloane-e9n
