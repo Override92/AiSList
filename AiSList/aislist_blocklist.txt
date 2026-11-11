@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56229
+! Total Channels: 56239
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56245,3 +56245,13 @@
 @FeralStates
 @Icreateaivideos
 @SarahRickshaw
+@tokyophantomanime
+@Thedukevow
+@AiManhwaExplainer9
+@SilasInvests1
+@SalihTutorials
+@WaltxHarmon
+@xkai.codesx
+@AussieMoneyWithMick
+@Fruitalesai
+@GradyBuckCowboy
