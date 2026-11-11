@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55639
+! Total Channels: 55649
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55655,3 +55655,13 @@
 @BoringScienceToSleep
 @apnidunia-4d
 @EverydayWithUncleKenji
+@RoadofHonor-v2l
+@EliYoderAcre
+@LevisFirepit
+@EverydaySecrets-m9l
+@MilitaryHonorStories-dlp
+@UnderstatedWealth23
+@craftpena2545
+@PolarRevenge-k6z
+@EarthDocumentary-s9o
+@HlogiLisa
