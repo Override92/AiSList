@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55989
+! Total Channels: 55999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56005,3 +56005,13 @@
 @MuktaPatil-fo6eq
 @Thenumber1AI
 @RiseoftheHomestead
+@AlisaVlog-1
+@ForgottenDriveTech
+@Chronogirltravel
+@LoveCaptain-m4q
+@kidsaistory101
+@RayCarterYT
+@aistorie1
+@MoneyDecisions-j5p
+@Kidscademy
+@EliasMercerYT
