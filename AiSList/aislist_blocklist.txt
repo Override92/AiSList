@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55879
+! Total Channels: 55889
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55895,3 +55895,13 @@
 @LindaHartwell1
 @Aicreatorfunny-p2c
 @AmericaUnbelieved
+@TWISTRECIPE
+@CanaDKA-d4r
+@damarisayles5736
+@ColeonTarget
+@relaxwithme918
+@TheHarmonWay
+@AIRAMREACTION
+@RevengeMagnoliaUS
+@DramaFruitAI
+@Marty-Hayes
