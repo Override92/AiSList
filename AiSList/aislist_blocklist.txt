@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55507
+! Total Channels: 55517
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55523,3 +55523,13 @@
 @GhibliDreams_BG
 @KIDSAi2.0-d1r
 @marknwoo
+@doctorskitchen-b5u
+@Ghibli_Spirit_io
+@CozyGhibliMoments1
+@StoryAiWorldd
+@Ghiblirasoi_7
+@dreamyvillage000
+@GhibGlobal_ASMR
+@Ghibli678
+@Princeaivideo900
+@MyCamp-6p
