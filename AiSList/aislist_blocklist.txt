@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56992
+! Total Channels: 57002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57008,3 +57008,13 @@
 @Odessa_Mae
 @DreksEditzz
 @Real_DavidGrant
+@KittyAnime-neko
+@terukoimaii
+@Anoma-toon
+@mayatanakayt
+@YaAiMan-m9b
+@SingleDadEmpire
+@Veyani-h1m
+@GeorgeKnowsWhy
+@Silent-otaku1
+@EliasStoltzfus
