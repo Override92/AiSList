@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54801
+! Total Channels: 54811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54817,3 +54817,13 @@
 @DreamChroniclesStories-l7w
 @SingleDadLife-b5j
 @StoryHorizon-k8t
+@OldWestRoad-q6z
+@LegendsoftheFrontier-f5b
+@FrontierEchoes-x6m
+@OldWestRomanceTales-t4o
+@BetweenTwoWorlds-h2a
+@ethanstories-g7r
+@LifeUnfoldedStories-s1i
+@TheStoryLab-p9k
+@VerborgeneSchicksale-v2b
+@SilentValorStories-y4z
