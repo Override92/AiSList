@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56489
+! Total Channels: 56499
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56505,3 +56505,13 @@
 @3HoursofSurvivalKnowledge
 @blanktabmedia
 @ZuriStoriesYT
+@theirfuai-is
+@WW2WomenAtWar
+@AICatStories-TV
+@TheHillbillyWay
+@Comedy.AI.Special
+@EliasYoderBrother2
+@aiBYhaze
+@FragileLuxury
+@NeonSkelly2
+@FarmAnimalWorld-r6r
