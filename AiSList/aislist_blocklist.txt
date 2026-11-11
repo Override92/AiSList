@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55669
+! Total Channels: 55679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55685,3 +55685,13 @@
 @ToldWithLove
 @MiniaturecookingbyPrak
 @HouseMath-usa
+@Meavel.avengers
+@InkwiseExplains
+@Mick.Media1
+@Revengepass
+@Jeremdoesai
+@japanwithteruko
+@MdAfzalOfficialYouTubechannel
+@Amelia.Revenge
+@ShortSceneStudio11
+@PantryLogic
