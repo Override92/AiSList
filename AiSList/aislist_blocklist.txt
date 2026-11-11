@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54432
+! Total Channels: 54431
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38241,7 +38241,6 @@
 @LandedHistory
 @Historymeetsminds
 @historyunfolded90
-@ashlarhistory_0
 @HistoryExplainedSimplyy
 @historyshock-k3
 @SleeplessAlsoHistory
@@ -38250,7 +38249,6 @@
 @UntoldHistorySecrets-c7w
 @SleepyHistoryCorner
 @BuriedHistory8
-@thehushedhistory
 @Darkhistorywithstickman
 @CompleteHistoryHQ
 @TrappedInHistoryOfficial
@@ -54448,3 +54446,4 @@
 @OlyruneRadio
 @MidnightCityPop-o8l
 @DrunkenHeartMelody-h78s
+@thewrongowl
