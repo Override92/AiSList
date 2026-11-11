@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54434
+! Total Channels: 54429
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2168,7 +2168,6 @@
 @h0astories-t8y
 @meetkaren7
 @hoafiles-x1d
-@karencurbsidetales1
 @novawisdomtales
 @unmarked-casebook
 @realhoastorytime
@@ -31246,7 +31245,6 @@
 @Globalarcanatales
 @OmegaBondTales
 @FrontierCampfireTales
-@darkwerewolftalesUS
 @MTTales-z8p
 @Folktaleswithemmy
 @TrueDestinyTales
@@ -31311,7 +31309,6 @@
 @Africantalesby_Mira
 @AfroKorean_Tales
 @WildWestTaleslove
-@familytalesbyaf
 @TheSciFiTales1
 @AfricanFolktalesByUC-m2t2i
 @talesofafricabyzhinny
@@ -37918,7 +37915,6 @@
 @aicreatorstools
 @JanaCuteMusic
 @Music-for-all-PS
-@ApexAudioAI
 @CosmosMusicPro
 @Softly-Unbreakable
 @blood_eternal
@@ -38194,7 +38190,6 @@
 @ChangeHistory-m8z
 @HistoryToSleepBy1
 @SleepHistorywithIram0
-@ForgottenSleepHistory
 @sleepwithhistoryofficial.x
 @MotiurHistoryofficial
 @NYSHISTORY
