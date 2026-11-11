@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55241
+! Total Channels: 55247
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55257,3 +55257,9 @@
 @MartinKesslerBuilds
 @FRUITPKYA
 @worldwidelocalmaps
+@VybeAI-s9k
+@ai_vibesssy
+@ChuchiPuchu
+@zayan.explains
+@bitesizeatlas
+@POVBusinessTV
