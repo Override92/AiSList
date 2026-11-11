@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55387
+! Total Channels: 55397
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55403,3 +55403,13 @@
 @MoranguixTv
 @GhibliRasoiVillage
 @historiacomia-2025
+@AI_KIDS_STORY_1.1
+@FRAMESIA
+@CookingWithAI-a1
+@Malukz-s8sgulosaogostodehomens
+@ShortplayFilms-ai
+@NEX-%EB%84%A5%EC%8A%A4
+@Kinetiq-Mind
+@CurioPulse-p8q
+@ghiblianimationfood
+@WaitReallyAnimated
