@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55117
+! Total Channels: 55127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55133,3 +55133,13 @@
 @VexoraForce
 @The-AI-Land
 @DAYOFFofficialmusic
+@hieu.aifilmmaker
+@abiyyumalikmusic
+@TheCapitalPerspective
+@emmastudio99
+@Rock-1122
+@DethlordProductions
+@hieuphuong-hp
+@user-tp6xw2zq8q
+@BeyondtheNoise_107
+@HojaAI
