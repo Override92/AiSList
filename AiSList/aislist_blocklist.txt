@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55497
+! Total Channels: 55507
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55513,3 +55513,13 @@
 @GrandmaGhibliKitchen
 @Preciousstoryventure
 @NaserTimeTravels
+@Hiddenearth-r9g
+@survivorsbuild
+@HarshusGhibliInspiredTales
+@GhibliASMR-GA
+@GhibliQuietDays5
+@Ghibligirl12
+@GhibliStyleVideo-j7b
+@GhibliDreams_BG
+@KIDSAi2.0-d1r
+@marknwoo
