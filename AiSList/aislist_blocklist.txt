@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54597
+! Total Channels: 54607
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54613,3 +54613,13 @@
 @ArchangelSpeaks
 @ThePersonWho-b2b8h
 @DivineWhispersBlessings
+@GodsEternalLight-v3c
+@HopeFromHeaven-u1k
+@TheLastWall-d1x
+@JapandramaTimes-o3n
+@InquiryMind-k1k
+@eslab%C3%B3n-k6o
+@CarBeatEDM
+@AegeanSoul-g2m
+@CUVANAMusika
+@MusicaLatinaTK22Official
