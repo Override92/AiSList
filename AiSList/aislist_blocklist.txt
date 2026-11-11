@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54428
+! Total Channels: 54433
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54444,3 +54444,8 @@
 @TwistRecapss
 @ZenithRecaps36
 @thediaryofemotions
+@TinyBabyLogicAl
+@USInfographics
+@Infographicus
+@TheDataRace-h1g
+@Factora.Visuals
