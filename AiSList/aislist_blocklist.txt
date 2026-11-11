@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54527
+! Total Channels: 54537
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54543,3 +54543,13 @@
 @MHINFO-v8h
 @nassa-s4j
 @Mengmeng-u7m
+@TaylorNepoose-r4i2l
+@TaylorNepoose-un5ps
+@TaylorNepoose-x5c
+@Resonant-Silence-c3k
+@1940sMusic
+@AnalogNostalgia_Oldies
+@therockabillystation
+@UncollectiveMusicRecords
+@StoryOdyssey-v4o
+@Tonefold-s3l
