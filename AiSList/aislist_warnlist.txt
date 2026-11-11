@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1266
+! Total Channels: 1267
 
 ! Entries:
 @PapaMeat
@@ -1288,3 +1288,4 @@
 @urabshorts
 @howfunny_itis
 @sunaowo
+@BPChinaInsight
