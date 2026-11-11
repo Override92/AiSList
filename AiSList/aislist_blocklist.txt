@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54963
+! Total Channels: 54973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54979,3 +54979,13 @@
 @SlowScienceLab
 @celestialstuffYT
 @mewmewjazz
+@HearthsideStoryClub
+@MoonveraTales-h4l
+@WanitaPerkasaDrama
+@dustyrose456
+@aimoney-c4b
+@MidnightMoodNetwork
+@AIjoke-s9q
+@CosmosOn%C3%ADrico777
+@cinematic_ai82
+@DadCEOLove
