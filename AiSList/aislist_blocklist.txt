@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56269
+! Total Channels: 56279
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56285,3 +56285,13 @@
 @kwuivihhclip
 @UnmaskedStarsYT
 @Deepscozyvibes
+@TheCanadianPast
+@growthgrid_yt
+@lostamericansurvivalcooking
+@mediabyemj
+@RevengeFamily-s9b
+@MusaBailey-n1j
+@HERHIDDENACRES-h8s
+@LittleDaysOfficial
+@CarolinaLiving-c9l
+@AIPantryStudio
