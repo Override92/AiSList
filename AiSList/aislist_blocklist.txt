@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54428
+! Total Channels: 54426
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16194,7 +16194,6 @@
 @dr.p.upload
 @Raniiiitv-s8x
 @Redpillcouncil
-@BREAKINGTIME-s7l
 @madpeoplemadlook1
 @ScurvyDogsYT
 @neoarc-xmusic
@@ -23852,7 +23851,6 @@
 @DriveMorph
 @HealingHarmonyPiano-s3
 @MotoChrono
-@americancarexcellence
 @AmurDriveBeamNG
 @AmplifocusLab
 @DriveShift786
@@ -31420,7 +31418,6 @@
 @Mirellefolktales
 @EchotalesbyKen
 @DianasRomanticTales
-@ScifiTalesHub
 @AlphaOmegaTales-q3r
 @darkwerewolftales
 @engtales1234
@@ -54444,3 +54441,4 @@
 @landuncovered
 @insomniacexplains
 @4urinfow
+@futurepredictions-w3o
