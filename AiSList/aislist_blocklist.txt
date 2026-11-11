@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54943
+! Total Channels: 54953
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54959,3 +54959,13 @@
 @ShieldofSol-x2b
 @latenightcoffeechannel
 @penroselearning
+@Endless_Heartbeat
+@CrisDrop999
+@ChillForge777
+@BlazeGuides
+@TheOfficeVerdict-b5b
+@Shahidkhan-ve8jt
+@SpaceAfterMidnight-o3n
+@DagatiMevo-q5h
+@SleepInOrbit
+@QuietTriumphs-us
