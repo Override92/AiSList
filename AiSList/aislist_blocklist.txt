@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54672
+! Total Channels: 54679
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54688,3 +54688,10 @@
 @TAZOLINKmusic
 @K-CrownRomance
 @BlackVelvetCurves-t8c
+@MafiaBossBloodline
+@MidnightZ-l6k
+@GarrettEllsworth-r7b
+@HiddenEmber-r9b
+@MoneyChuck
+@RomeUnmasked-x1p
+@Indexdue-d6d
