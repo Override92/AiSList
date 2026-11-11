@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55949
+! Total Channels: 55959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55965,3 +55965,13 @@
 @EarlTruckingGuy
 @Hectorandhiggs
 @WW2ForgottenFiles
+@aspectcuts_YT
+@TheBattlefieldArchive-LD
+@Ai-AnimalzZZ
+@IronFrontArchives-l6f
+@ONLYFORISLAMI
+@ForgottenGIStories
+@Noor-e-Hidayat1-N1H
+@AmericanWarChronicles-w9i
+@lexeelove9863
+@MafiaCalden
