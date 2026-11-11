@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55759
+! Total Channels: 55769
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55775,3 +55775,13 @@
 @AnikSen-f6h
 @DoorbellAI02
 @PearlsHouseHacks
+@TheAiHistorian18
+@SergeantMills
+@JeremyUgc15
+@Bienvenidosa2050Humanos
+@FunnyBanana_AI
+@kiroinvests
+@Maxelex72
+@askunclevern
+@aiiconicstory-m5f
+@DadThoughts-i2p
