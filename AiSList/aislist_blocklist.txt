@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56558
+! Total Channels: 56568
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56574,3 +56574,13 @@
 @SingleDadRomance-u7h
 @ShabutaAI
 @FinalRefuge
+@AI-UNIVERSE-19
+@OttoFischer8
+@StoryoffAILife-123
+@MagicDramaWorld-h9g
+@shortsaiworld12
+@ScrapandShelter435
+@BrainyToonsAI-x5h
+@OldFoxStories
+@TheInner-Realm
+@DickColterWinterproof
