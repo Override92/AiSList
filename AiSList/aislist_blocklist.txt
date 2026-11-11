@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55631
+! Total Channels: 55638
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55647,3 +55647,10 @@
 @Simplepovrank
 @TheCreativemind000
 @NightVoyageMedia
+@TheForgotten-diaries
+@PaulMcAllisterDocs
+@SleepyHistoryShow
+@hypothetica.studio
+@martindecoder
+@KnowTube_off
+@BoringScienceToSleep
