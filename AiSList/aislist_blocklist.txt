@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55157
+! Total Channels: 55167
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55173,3 +55173,13 @@
 @Uniquefilmstudio
 @AfroloveShorts
 @oo.studio.youtube
+@MiniFoodLab-c8k
+@LakasngPagbangon
+@appwright-ai
+@QuantumBuildz
+@SH-KK197
+@Pearlzz-p9l
+@AiMagicWorld-n9b
+@VeloraDramaHQ
+@CreatorMagicAI
+@kamanqi
