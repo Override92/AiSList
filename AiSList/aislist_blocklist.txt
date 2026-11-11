@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56942
+! Total Channels: 56952
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56958,3 +56958,13 @@
 @thesteadyfarmerofficial
 @WeInSeconds
 @GaryBackupPowers
+@Ai-sora-s1m
+@WW2Regiments
+@Catslife-o3x
+@RuthTheMortician
+@TheCozyGhibliWorld
+@PowerWealthCode
+@wildwoodentertainments
+@BlindHonor
+@Ugchiggs
+@StreetBlueprints
