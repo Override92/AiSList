@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 55909
+! Total Channels: 55919
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55925,3 +55925,13 @@
 @WWIICombatArchives-u4s
 @letsCookWithAI
 @CaveCurious-k6e
+@Christopeher-k1y
+@DavidGrant-s3j
+@randomclips77777
+@Gritandmortar
+@layZ.interviews
+@FathersReckoningStories
+@Aifoodstory-h3v
+@GrandpaLifeTales
+@jamezdfilmz
+@WadeTucker
