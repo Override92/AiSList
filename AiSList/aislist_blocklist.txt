@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56329
+! Total Channels: 56339
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56345,3 +56345,13 @@
 @auretail.uncovered
 @%E5%80%BE%E5%9F%8E%E6%BC%AB%E5%89%A7EmpireDrama
 @StoryVelyn
+@goatfun7
+@BetterDays-e3m
+@WhimsicalWizard99
+@jshvdkaghdhd5353
+@ailifestory7
+@TheStarbornWoman
+@yellow_fruit_ai
+@GigantaTaless
+@Ringdoorbellai
+@DangerousGrounds-d7d
