@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 54430
+! Total Channels: 54428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38884,7 +38884,6 @@
 @Loginesia
 @UnrealRadioFM
 @chill-dreams-lofi
-@uswatulhasanah2249
 @WestCoastFinest99
 @parabellumhistoriapl
 @AshfallOficial
@@ -38920,7 +38919,6 @@
 @ZiaAsgedom
 @MoonCrystalMusic
 @TranceCrowd
-@Sunrooftechnomix
 @DeepMelody68
 @BlackForest_Underground
 @HypnoticTranceMixes
