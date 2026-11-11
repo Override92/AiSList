@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 56159
+! Total Channels: 56169
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -56175,3 +56175,13 @@
 @AmossInvaders
 @AIVIDEOS24-ktr
 @livingplanetwithfrank
+@TkHalloween
+@Gaminggenix881
+@cartoonland_AI
+@MoneySimplified-b7o
+@AIKidsZoneee
+@TheTaleHouse-c4z
+@AIWalaCartoonist
+@HeartstringsStories-d5c
+@AI_TVUK
+@Soft-Serve-Shorts
