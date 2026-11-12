@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57856
+! Total Channels: 57861
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57872,3 +57872,8 @@
 @StaticHeatwave
 @LegendEnginesUS
 @arkivetdokumentar
+@bestreviewshows
+@GalacticEchoes-j6d
+@ritamsbd
+@LegendsBeyondStars
+@ElegantJazzNotes
