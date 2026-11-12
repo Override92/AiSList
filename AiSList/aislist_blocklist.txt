@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60148
+! Total Channels: 60143
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2175,7 +2175,6 @@
 @hoastorytime1
 @storytimewithshorts-t6p
 @hoastorytime-j5s
-@realhoastorytime-o5q
 @heavybikeinfo-f7e
 @tanimalik-f9q9b
 @realhoastorytime-r2e
@@ -34040,7 +34039,6 @@
 @suspirosdecine
 @rainverelle
 @povestiuitate
-@whisperedpray3rs
 @confusing-firearms
 @panescale
 @thelongnightwithin
@@ -39663,7 +39661,6 @@
 @10MinuteMoneyMindset
 @boringsleephistoryforadults
 @airframelab3d
-@ManhattanPCN
 @WorldHistory-b6y
 @SleepHistorye
 @severehistory
@@ -39696,12 +39693,10 @@
 @RouteTheoryTV
 @TheOffscreenFiles
 @DreamThroughHistory-d5y
-@archivalhistoryoffical
 @GhostFrequency-Channel
 @drift_into_history
 @BigHistoryGuy67
 @pov_portfolio
-@USXSTORIES
 @Infinite__Mindset7
 @Rajbambooclub
 @suzanne-y3b
