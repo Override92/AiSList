@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57565
+! Total Channels: 57570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57581,3 +57581,8 @@
 @AndrewFraserDefence
 @CrimeLore-10
 @DrMax_Revive
+@jameswhitakeryt
+@WalterHaleTv
+@CondaMedia
+@proofofconcrete
+@placeshistory
