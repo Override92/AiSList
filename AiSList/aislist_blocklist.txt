@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57847
+! Total Channels: 57852
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57863,3 +57863,8 @@
 @itsninacoates
 @shushantlakhyani
 @ArcheoAdventures
+@ArkivetDanmark
+@ArchivDeutschlandTV
+@ArkivetSverige
+@ArkistoSuomiyt
+@TheArchivebrand
