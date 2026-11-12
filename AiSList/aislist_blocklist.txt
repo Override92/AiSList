@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59353
+! Total Channels: 59363
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59369,3 +59369,13 @@
 @GhibliStories-r4
 @Miniature_cooking_AI-e6e
 @Minifoodlab-o4z
+@Villagekitchenai01
+@Akash_Cook
+@MiniChefWorld-t5w
+@Little_Story_AI
+@ReverseVerse-b1v
+@THEPAGLUJOKER
+@chefai-v
+@RealLionChef
+@aivideosbyshamikh
+@Ghibli-k5v
