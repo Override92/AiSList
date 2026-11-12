@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57555
+! Total Channels: 57560
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57571,3 +57571,8 @@
 @BeforeWeBuiltLife
 @ExplainInSimple-e2e
 @stampoos-w8q
+@AncientEpoch7
+@AncientHabitats
+@InfiniteStarSystems
+@prehistoricmeal
+@WesWarns
