@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59911
+! Total Channels: 59921
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59927,3 +59927,13 @@
 @BiaspalyTV
 @tinykitchenai2.0
 @TheGreenTimeLapseOfficial
+@BryceBarker-q7c
+@cukielgato
+@techumayur
+@AI_Magic_World_k3h
+@TinyFoodChefs
+@GhibliMeow
+@GloryGhibli
+@TimeTravelVlog-r5r
+@Aistoryforkids8924
+@sadshayaricentre13
