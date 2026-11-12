@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58279
+! Total Channels: 58284
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58295,3 +58295,8 @@
 @FruitDramainc
 @SanatanCU
 @TheCinematicUniverse1
+@Doorbel-e4u
+@mahmudvlogs_1k
+@MilaVerne
+@eraexplorers-8
+@Emio-ai
