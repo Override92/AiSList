@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58178
+! Total Channels: 58183
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58194,3 +58194,8 @@
 @TomorrowCircuit_uc
 @GG895-q4f
 @FIFAWorldCup2026-p3v
+@vlog_with_monkey04
+@fruitdrama-g5m
+@GhibliMaya-Fire
+@theaikitchen_02
+@MrCreator8810
