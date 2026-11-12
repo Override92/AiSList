@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57718
+! Total Channels: 57723
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57734,3 +57734,8 @@
 @ItsVinta
 @StickStonesyt
 @MakuTaga
+@MysteriesByMalik
+@AxanCool
+@Zogcurious
+@thecavemanfiles-n7z
+@HumanOriginsUSA
