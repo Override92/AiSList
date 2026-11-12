@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60021
+! Total Channels: 60016
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4419,7 +4419,6 @@
 @AuthorityTalesYT
 @HOAKarenDrama-g3o
 @HOAOverlordsExposed55
-@RealHoaStorytime-p6u
 @HOAStori
 @HOAStoryEntertainment
 @TheFrontDoorClips
@@ -13258,7 +13257,6 @@
 @BleakRecordz
 @BinipSongAi
 @SingAndWalk
-@GoldenNostalgia-z2p
 @AUSTYoutube
 @TunesHQ-s3u
 @CrownWaveMusic12
@@ -31556,7 +31554,6 @@
 @LOLZ-224
 @Taleswithenglish
 @storysparkbymeena
-@LifeGoldenCompass
 @voiceintherise
 @LifeDiamondCompass27
 @WisdomofHope
@@ -31602,7 +31599,6 @@
 @HerWalkInFaithCollective
 @PorsheChronicles
 @storiesbytega01
-@soulfulwarmingstories
 @folktalekingdom
 @MainStorytellingking
 @ANStoriesReal
@@ -33999,7 +33995,6 @@
 @NerdHistoryNS
 @SleepyUKHistory
 @StoryLoverHubwithRANO
-@sedated-history
 @storymessage
 @HistoryinPicturesENG
 @STORYMITRA0
