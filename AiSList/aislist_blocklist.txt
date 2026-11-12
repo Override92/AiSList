@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59373
+! Total Channels: 59383
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59389,3 +59389,13 @@
 @HABUDDIES
 @siliconchef_official
 @FantasyVerse.Studio
+@Aistorykids-i3n
+@ChefRYRecipes
+@Aistoryworld-kids
+@MagicKitchenAI-x8t
+@Naturesaikitchen-r6p
+@Ai_chef_4u
+@aicheffluffcookingofficial
+@SharjeelAiAnimation
+@Aichefverse
+@AnimationKids-h5f
