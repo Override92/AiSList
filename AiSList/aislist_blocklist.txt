@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57934
+! Total Channels: 57939
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57950,3 +57950,8 @@
 @Ber%C3%A4ttelser
 @ComicRealm-SQ
 @ApexRoar-q8t
+@HFYLegendsRising
+@JulPicks
+@DoItHFY
+@HiddenHeiress-n5x
+@oscar-soirey
