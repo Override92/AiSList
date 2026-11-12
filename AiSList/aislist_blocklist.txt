@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58964
+! Total Channels: 58974
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58980,3 +58980,13 @@
 @TECHNOOFFICIALHISTORY
 @Timing-9
 @SatoHanzoStories
+@Kids_story_official_2.0
+@ChefWhiskers-b4j
+@chef.orange
+@tinykitchen19
+@TinyTadkaKitchen_tv
+@ChefKajuAi
+@videosbybean-1z
+@Teeclarke123
+@AiCooking-z7g
+@Kanhax2.0
