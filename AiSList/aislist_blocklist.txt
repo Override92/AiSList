@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58804
+! Total Channels: 58814
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58820,3 +58820,13 @@
 @althea-j7h
 @LegendsofMarvel-e9b
 @AiRewritesHistory1
+@Gtp_gemar111
+@CatChefAI-d8c
+@TheChefsCove
+@TravellersPOV77
+@DirectPOV-i6q
+@AIFilmsCinematic
+@kidschannel3dcartoon
+@NeuroCraftYDK
+@bodybuttons
+@TheMithiMithiLife
