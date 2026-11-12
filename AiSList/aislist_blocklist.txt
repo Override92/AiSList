@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58289
+! Total Channels: 58294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58305,3 +58305,8 @@
 @Aadiai-l8u
 @AncientLivesYT
 @PastAlivePOV
+@Fruiteaistorys
+@AscendDailyKnowledge
+@aistoryvillagecinema
+@XyleZestroPodcast
+@dorahio-k5b
