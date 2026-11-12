@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57954
+! Total Channels: 57959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57970,3 +57970,8 @@
 @yourShoppingManager
 @ojamboshop
 @TheVintageBench
+@RebelReturnStories
+@Tomw0852
+@lucaswme
+@DramaManisPermen
+@EraExposed
