@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57473
+! Total Channels: 57478
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57489,3 +57489,8 @@
 @Unfolded-05
 @TheLauraEffectYt
 @StickeryYT
+@Brain_Before_WiFi
+@earldawsonn
+@JacobYoderHomestead
+@AnnaHollowayLiving
+@huskexplains
