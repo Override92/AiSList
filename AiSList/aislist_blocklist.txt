@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58584
+! Total Channels: 58594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58600,3 +58600,13 @@
 @ChefCat-c3o
 @AadiEatsAI
 @kidsstoryai_90
+@MusicZ-w1r
+@AI_VLOG_VILLAGE
+@sumitKiKahaniOfficiql
+@ai.cooking.2026
+@AIlatestcooks
+@KidsFunAnimationTV
+@Catoonsanimation
+@aikidsstory2.0-z7q
+@aiadda-x7v
+@TechAIMatrix
