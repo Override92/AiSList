@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57939
+! Total Channels: 57944
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57955,3 +57955,8 @@
 @DoItHFY
 @HiddenHeiress-n5x
 @oscar-soirey
+@AexilonWhisper
+@TASPlayerGaming
+@CaffenaJazz
+@MemeBlazeHFY
+@NeutronHFY
