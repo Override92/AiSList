@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57596
+! Total Channels: 57602
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57612,3 +57612,9 @@
 @Mr_resist1010
 @thecalmermindofficial
 @Professorwtf
+@drzaivor
+@Zennstickman1
+@CanadianCarLife-yt
+@OtisFreemanOfficial
+@Dr.HudsonYT
+@StickmanExplainer.Official
