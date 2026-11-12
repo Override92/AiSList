@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58077
+! Total Channels: 58082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58093,3 +58093,8 @@
 @KoreDa%E3%82%B3%E3%83%AC%E3%81%A0
 @KERNMEDIAA
 @GuidePulse-145ghif
+@thetechbff
+@bytemotiontv
+@HorizonEngineered
+@VintageTrains-n5c8l
+@GearsFlicks
