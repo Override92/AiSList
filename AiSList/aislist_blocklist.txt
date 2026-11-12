@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57090
+! Total Channels: 57099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57106,3 +57106,12 @@
 @AliciaP-h1i
 @RajputYT-l2r
 @RoyCallahanYT
+@BritainMachineVeterans
+@GaryBensonYT
+@WW2PilotLives-fg
+@consumertruthyt
+@WonderTraced
+@ElChefdeCasaa
+@BallisticSims
+@VintageStatesChannel
+@MindandMatterSpace
