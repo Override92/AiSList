@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59602
+! Total Channels: 59612
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59618,3 +59618,13 @@
 @FRUITAIVIDEOSP
 @minai_screen
 @KidsStoryAITv
+@dhruvkumar-p9q9u
+@vandro-vloggr
+@AITailGuard
+@Oventrax
+@TheAIChef1
+@RealNoiseEntertainment
+@FurNovaAI
+@aarnanighut08
+@CookingAiSMR
+@gavingraciasaifilms
