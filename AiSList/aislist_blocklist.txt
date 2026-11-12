@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59184
+! Total Channels: 59194
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59200,3 +59200,13 @@
 @EmberFlix
 @Doorbelladventures
 @itsYumeVerse
+@DJHI8JRR
+@AIMagicShorts-h1k
+@dailylife.ai15
+@GravityPlayyy
+@aicinemastorie
+@RobotoonMoon
+@Ganu.mo.volgs.18
+@Ghibliaivideo-o
+@minicookingai02
+@AIStoryWorldKids
