@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58061
+! Total Channels: 58066
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58077,3 +58077,8 @@
 @LongExplains
 @TheHorseKeeper-w2c
 @Chicaverse
+@AlexsMangaJourney
+@noeticajazz
+@Blech_und_Erinnerung
+@reueltechnology
+@ForgedOrigins
