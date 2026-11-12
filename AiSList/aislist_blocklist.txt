@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60072
+! Total Channels: 60082
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60088,3 +60088,13 @@
 @instinctthatkills
 @eixo01
 @TheProgressArchives
+@repeticionmaxima1
+@LadyNocturne123
+@ThePsycheFrontier
+@diarionadanormal
+@nevmake
+@DasharathBhagat-w7p
+@underload3d
+@simplepaintcompilations
+@GalacticFuriesHFY
+@TomAndJerryExplains
