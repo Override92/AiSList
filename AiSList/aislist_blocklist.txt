@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57924
+! Total Channels: 57929
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57940,3 +57940,8 @@
 @GameOverAchieved
 @NorthernPerspective-n2n
 @user-vj4mq7vg6g
+@Stickmansummits
+@RavencrestAudio
+@Blastline2
+@DumbKnowsEverything
+@COSMOS-w1z
