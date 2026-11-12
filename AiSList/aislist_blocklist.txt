@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57525
+! Total Channels: 57530
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57541,3 +57541,8 @@
 @BeyondHuman-u6q
 @EarlHawke
 @Thehumanglitch.25
+@lumo-g3o
+@InkEyes-00
+@DianeProtects
+@TrueNorthPrepared2
+@OfficialVyronex
