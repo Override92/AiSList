@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58157
+! Total Channels: 58162
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58173,3 +58173,8 @@
 @Y-Mon-h7j
 @thecartoonsworld-b3k
 @Ghiblicookingvideos1
+@ShortFunnyVideo-Channel
+@Fruitygiggles-i3n
+@Laurasia2050
+@FutureScopeIdeas
+@sarahbennettai
