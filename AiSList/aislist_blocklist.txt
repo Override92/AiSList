@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57653
+! Total Channels: 57658
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57669,3 +57669,8 @@
 @MulukExplainer
 @HistoryCoveredYT
 @ancientpeople8
+@HistoryDoodleX
+@SmartHistoryDrawn
+@GlobalStadiumVision
+@Mikko_27YT
+@dakexplains
