@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59363
+! Total Channels: 59373
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59379,3 +59379,13 @@
 @RealLionChef
 @aivideosbyshamikh
 @Ghibli-k5v
+@LofiCottageDays
+@TinyTastyKitchen.20
+@AiCookingAsmr_Videos
+@Islamictower-l5e
+@HypeGlow-r9m
+@hack.n.cookpk
+@BeasAnimation-84
+@HABUDDIES
+@siliconchef_official
+@FantasyVerse.Studio
