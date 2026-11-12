@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57853
+! Total Channels: 57856
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57869,3 +57869,6 @@
 @ArkistoSuomiyt
 @TheArchivebrand
 @carsenginesfan
+@StaticHeatwave
+@LegendEnginesUS
+@arkivetdokumentar
