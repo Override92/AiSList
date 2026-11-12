@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58347
+! Total Channels: 58357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58363,3 +58363,13 @@
 @littlechefai-248ai
 @AIDIGITALTOP
 @TheCyberChef-w8q
+@Oniq%C3%A9hassy
+@mytimetravelstories
+@RFXDrive
+@Funtimecartoon-u1y
+@TechRoberAI
+@AIMiniKitchenASMR
+@AICookingQueens
+@aiminiworldme
+@TinyChefDiariesofficial
+@Afreen_vlog-g
