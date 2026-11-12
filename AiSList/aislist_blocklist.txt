@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59333
+! Total Channels: 59343
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59349,3 +59349,13 @@
 @AIFoodCooking-m2l
 @storysynth120
 @ZOZOPOVStory
+@Cookingrecipewithai
+@NovaClips-j7u
+@SkeletonYtube
+@kidsStory-e8r
+@PushkarRajThakurofficel-t1l
+@AiCartoonKidsStoryEnglishWorld
+@CreativeHub-y8k
+@Tinycookingchannelaivideo
+@AIstorykids13
+@Chefzina
