@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60042
+! Total Channels: 60052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60058,3 +60058,13 @@
 @AngelicChants
 @TheBennettLecture
 @promotech-28
+@PeoplePatternsPsych
+@iamlinfeng
+@FireflyMiniDrama
+@MrSkellyXD
+@BedtimeToonTales-m5s
+@EighthArchives-s7q
+@jiugongzhu8866
+@alexdemuner1
+@FateNo1ShortDrama
+@TechEvolutionSpot
