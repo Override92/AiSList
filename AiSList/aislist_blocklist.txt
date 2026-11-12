@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57424
+! Total Channels: 57433
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57440,3 +57440,12 @@
 @TheChineseKitchen-i3g
 @NancyRichYT
 @hpuncutz
+@Sunisacooks
+@Maureen_Doyle
+@TheAncestralMindset1369
+@VexaCool
+@AskTucker-l9n
+@AmosYolder
+@Dr.LeoHartwell
+@KennCool
+@DesoTubee
