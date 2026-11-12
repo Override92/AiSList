@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59994
+! Total Channels: 60004
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60010,3 +60010,13 @@
 @HitboxStories
 @silentpast-k5v
 @FragmasoftSolutions
+@HFYGalaxyRebels
+@DumniWeterani-b4u
+@SYSTEMEIGHTYT
+@ActuallyEasyMeals
+@teddyexplainsit
+@TheEuropeEffect
+@uzhniypolus
+@backitupcyber
+@Monkeytomodern
+@cavemanly0
