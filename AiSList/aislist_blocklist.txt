@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58914
+! Total Channels: 58924
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58930,3 +58930,13 @@
 @AB_vlogs-z
 @PrasenToonAI
 @Iman_AsmrAI
+@tiny.animechef
+@Ponniyan_AI_Vlogs
+@ZexEdit00
+@Noxyth-c8u
+@FruitsStoryonly
+@Fruitstoriesdrama
+@TinyAIKitchen-z1e
+@noorofislam-n2r
+@Farhankhan0321
+@RazaAbbas-v6w
