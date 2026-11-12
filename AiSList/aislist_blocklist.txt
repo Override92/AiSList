@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57358
+! Total Channels: 57368
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57374,3 +57374,13 @@
 @MindRulers07
 @VincentTheMediocreYT
 @BrightSideGlobal
+@hinocode
+@DrEthanColeSeniorHealth
+@BuyBye972
+@TheCheapFix
+@PrairieMysteryTales-H
+@thehiddenpantry0405
+@LostSecondBell
+@ConstructionLegends
+@thesamsamashow
+@pistontTV4k
