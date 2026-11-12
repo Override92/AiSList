@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59523
+! Total Channels: 59533
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59539,3 +59539,13 @@
 @GhibliKitchen-b4e
 @TinyTastyKitchenAI
 @CorporateChef-Co
+@AiKidsstory-45
+@AiStudio224
+@mov18-h12
+@yayawarah
+@AiVlogs_786
+@StoryCore_9
+@TimeWarpEgypt
+@GhibliKitchenTalesGhibliKitche
+@SoftGhibliTales-j6i
+@AiKidsStory-b8o
