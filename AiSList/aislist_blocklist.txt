@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57602
+! Total Channels: 57607
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57618,3 +57618,8 @@
 @OtisFreemanOfficial
 @Dr.HudsonYT
 @StickmanExplainer.Official
+@STRATENIQ
+@AmarjeetSingh-je7xs
+@JohnHomeSafety
+@DeclassifiedYTT
+@Wonderifyy
