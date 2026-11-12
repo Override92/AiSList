@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57984
+! Total Channels: 57989
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58000,3 +58000,8 @@
 @econimated
 @hronikivselennoy
 @Strufzy
+@LegendsHFY
+@us.armoredforcess
+@GerardLavalleKitchen
+@Jenseits_der_Sterne
+@DiscoveryRamba
