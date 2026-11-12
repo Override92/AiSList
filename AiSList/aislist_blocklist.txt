@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58162
+! Total Channels: 58167
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58178,3 +58178,8 @@
 @Laurasia2050
 @FutureScopeIdeas
 @sarahbennettai
+@VanithaVani-l7y
+@thesoikotstudio
+@StickVerse_7556
+@NextGenAI-b1b
+@aibossbabyvlog
