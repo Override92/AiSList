@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57263
+! Total Channels: 57273
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57279,3 +57279,13 @@
 @HeartlandHonorWarriors
 @DistressMisdirectedHFY
 @JhonConstruction
+@RagingWolffe
+@ChaviesWeasel
+@WarriorCadetsHfy
+@SilasMercerCooking
+@agelesssilverchic
+@AussieFinanceWithLuke
+@HFYNebulaStories
+@jackskitchenYT
+@Forbes78617
+@DarkMysteries68
