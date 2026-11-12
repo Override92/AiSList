@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58377
+! Total Channels: 58387
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58393,3 +58393,13 @@
 @TimeLoopwithRicky
 @GlobalMotionAi-j7t
 @NIKHILYT7890
+@MiniAIKitchen1
+@babychefworld420
+@ai_singaaram
+@TruckFMlk
+@Hyperclips1001
+@Selix-n6b
+@AIKidsStories456
+@SmartChefAi4
+@MiniMonsterChef
+@Mystrymasters-750
