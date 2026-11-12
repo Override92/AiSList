@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60144
+! Total Channels: 60145
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39858,7 +39858,6 @@
 @Darkhistoryreloaded-p5
 @CircadianHistory
 @MacroTaless
-@imhumanoodle
 @Why-Finance
 @SleeplessDarkHistory
 @itMindAll
@@ -60160,3 +60159,5 @@
 @DrAlya11
 @GeniusPicks-u4y
 @GroWith_Dani
+@povfinancewealth-yt
+@coverthistory-c8y
