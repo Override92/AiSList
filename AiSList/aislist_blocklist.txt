@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59513
+! Total Channels: 59523
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59529,3 +59529,13 @@
 @AiAnanyaVlogs
 @NammaAICooking
 @TeluguAiAnimations
+@ai.bytevision
+@aikidsanimatedstory
+@QuantumChefAI
+@AIkidsstory-YouTube-k
+@AiAnimationHindi_tr
+@AI-Shorts-LAB1230
+@ytholyjesusfr
+@GhibliKitchen-b4e
+@TinyTastyKitchenAI
+@CorporateChef-Co
