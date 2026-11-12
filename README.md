@@ -31,15 +31,15 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 10297 |
-| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 7186 |
-| 🥉 3 | [@www2](https://github.com/www2) | 4903 |
-| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4840 |
-| 5 | [@FedupOfAI](https://github.com/FedupOfAI) | 2255 |
-| 6 | [@magikarp](https://github.com/magikarp) | 1315 |
-| 7 | [@dv](https://github.com/dv) | 758 |
-| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 550 |
-| 9 | [@Beavermafia](https://github.com/Beavermafia) | 456 |
+| 🥇 1 | [@crazypillx](https://github.com/crazypillx) | 10360 |
+| 🥈 2 | [@Thibaultmol](https://github.com/Thibaultmol) | 8376 |
+| 🥉 3 | [@www2](https://github.com/www2) | 4972 |
+| 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4842 |
+| 5 | [@magikarp](https://github.com/magikarp) | 2664 |
+| 6 | [@FedupOfAI](https://github.com/FedupOfAI) | 2264 |
+| 7 | [@dv](https://github.com/dv) | 768 |
+| 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 551 |
+| 9 | [@Beavermafia](https://github.com/Beavermafia) | 460 |
 | 10 | [@tomjas1963](https://github.com/tomjas1963) | 364 |
 
 <!-- LEADERBOARD:END -->
