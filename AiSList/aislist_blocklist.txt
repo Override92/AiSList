@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58874
+! Total Channels: 58884
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58890,3 +58890,13 @@
 @AIChefKITCHEN22
 @MagicToonanimation-g3g
 @CookToonVillage
+@MalikSaqib-u6t
+@Animissoinmi
+@EduVisionAi-d8u
+@RenderVerse-u7h
+@Monatales-e9j
+@zelivomedia
+@ai_animation2300
+@POV_AI_VIDEOS
+@Cook_with_Jazz
+@GhibliVillageVlogs-26
