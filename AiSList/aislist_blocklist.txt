@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60090
+! Total Channels: 60100
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60106,3 +60106,13 @@
 @evren-77
 @KEELNORTH-CA
 @neyronnn
+@simplepaintai
+@LPPS-1
+@cerebroempauta
+@linel_official
+@cooolsam
+@FabioZicarelliOfficial
+@astroproofs
+@KosmosKlartext
+@YaekoAmi
+@80sCityPop-g6s
