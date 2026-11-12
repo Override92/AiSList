@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59393
+! Total Channels: 59403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59409,3 +59409,13 @@
 @AiModel-b9p
 @Ghiblirasoi0102
 @FantasyGhibliStudio
+@Tinytadka199
+@VillageCookingAiStudio
+@Brahvion
+@meowchef23
+@Aichefstudiowithlove
+@ifwht
+@WhatIfUniverse07
+@KidsStoryTime-AI
+@RinkuDevi-q8h9o
+@MiniAIKitchen_0
