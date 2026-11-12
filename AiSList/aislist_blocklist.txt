@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57758
+! Total Channels: 57763
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57774,3 +57774,8 @@
 @EmZeeTheReal
 @SecondBreath_TK
 @UtoVerse1
+@VAULTHYM
+@AtavistDecodes
+@RyzoHistory
+@TheUnexpected4K
+@PrehistoricHumansinVietnam
