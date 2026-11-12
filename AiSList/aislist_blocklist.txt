@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59433
+! Total Channels: 59443
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59449,3 +59449,13 @@
 @ridddhu
 @BarbieDreamsWorld-l1l
 @RobotChefIndia
+@mayastudios_ng
+@Vaqrino
+@LooseCannonStudio
+@sonalipanditbhardhwaj
+@Aiminikichten1725
+@MarvelComics-u1x
+@Thenex-q9x
+@the_aistoryteller6
+@AiTravelDairies
+@itsme.vanshuu
