@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58604
+! Total Channels: 58614
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58620,3 +58620,13 @@
 @thinghabit1
 @luvxMochii
 @AIChef1989
+@OgeTop5
+@rtavijit
+@gibliASMRandcooking
+@TheAIKitcheno
+@Dreamquaks2
+@AiAnimated-p1u
+@pandupagluvlogs
+@crazyDoorbells67
+@storyaikidsurdu
+@ZenithAnime-e1n
