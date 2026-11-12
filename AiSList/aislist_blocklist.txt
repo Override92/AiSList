@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57803
+! Total Channels: 57808
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57819,3 +57819,8 @@
 @MindFossil1
 @AncientNudge
 @StoriesLifeLessons-d4u
+@InkTales11
+@TheLongAgoStory
+@BoneAndStone
+@AncientlyLogic
+@Ancienthumanstories-q9h
