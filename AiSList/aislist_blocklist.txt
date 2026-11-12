@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58367
+! Total Channels: 58377
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58383,3 +58383,13 @@
 @NanhiAiChef
 @UnitedStatesAi66
 @woodCraft-w1z
+@FutureMovies-TV
+@ShortsAdda05
+@YouRevers
+@nightreelrenderedai
+@Hitesh_Decodes
+@TinyAIKitchen.7
+@AIKidsstory289
+@TimeLoopwithRicky
+@GlobalMotionAi-j7t
+@NIKHILYT7890
