@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57723
+! Total Channels: 57728
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57739,3 +57739,8 @@
 @Zogcurious
 @thecavemanfiles-n7z
 @HumanOriginsUSA
+@FlashBackDailyStories
+@PuckFlash
+@axepofficial
+@AncientExplainer-p6f
+@TheFinovexa
