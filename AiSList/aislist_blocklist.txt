@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59004
+! Total Channels: 59014
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59020,3 +59020,13 @@
 @BalthortheUnfiltered
 @Bhauvlogs-h8k
 @BartholomewGnome
+@1soramovies
+@AI_Magic_World_0001
+@graphicat_the_designer_cat
+@CatPalsAnimation
+@1better-d8n
+@AncientHistoryPOV
+@KIDSAISTORY-e5u
+@7oda_studio
+@EchoStoryPodcast
+@AIinspirationalStories786
