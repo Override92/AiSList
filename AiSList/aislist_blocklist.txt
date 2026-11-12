@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57443
+! Total Channels: 57448
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57459,3 +57459,8 @@
 @BlockheadTheory
 @FrontiqFiles
 @Kokoexplainer
+@JimBeglinTips
+@LivesFromFarms
+@FeralQ9
+@VEXLOPULSE
+@thingframe
