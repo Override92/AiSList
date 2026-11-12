@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58397
+! Total Channels: 58407
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58413,3 +58413,13 @@
 @PotatoChefAdventures
 @AI_finance_advice
 @VeytrionAI
+@SmartBanoAIMAX
+@Aianimationstory-b8u
+@Wonders-vlogs
+@AITimeTravel-q9u
+@MiniKitchenWorldAI
+@MiniWorldMagicAI-j8b
+@dawoodsheikh-q8c
+@AlloToons-f6h
+@AI_DRAMA-six7
+@Storytime_AI_Like
