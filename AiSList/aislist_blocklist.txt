@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58115
+! Total Channels: 58125
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58131,3 +58131,13 @@
 @CoffeePotRevenge-c6n
 @LaPreguntaCuriosaYT
 @TheAncientScope
+@xxplainer18626
+@BrandonNinja
+@MohanDas-cd3he
+@terrygraves3993
+@BruteForceLab
+@SvenskaBilar
+@TheUnspokenMindd
+@StateofRidiculous
+@RecapNexor
+@FromDesktoPower
