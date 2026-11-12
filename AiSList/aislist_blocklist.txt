@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58864
+! Total Channels: 58874
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58880,3 +58880,13 @@
 @AICokrey2026
 @TinychefIndia
 @Aistorieskidz
+@ToonsbyAisha
+@MagicalAiKidsStory
+@angelz-p8c
+@UsajoyMondal
+@AICookingFun
+@AIKidsStory-93
+@AITimeTravel-t1z
+@AIChefKITCHEN22
+@MagicToonanimation-g3g
+@CookToonVillage
