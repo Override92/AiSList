@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60130
+! Total Channels: 60140
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60146,3 +60146,13 @@
 @%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.%D0%9C%D0%B0%D1%82%D0%B2%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE1
 @Understory00
 @Sturm_Krieger
+@RedditTalesNook
+@DigimonArchive
+@azreviewspro7574
+@EngineInsiderOfficial
+@Haushaltsphysik
+@TheVeletTrenches
+@melancholyacademy
+@LightboundSpace
+@Mattlab4000
+@VeiledSecrets_01
