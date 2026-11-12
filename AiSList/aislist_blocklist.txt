@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58004
+! Total Channels: 58010
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58020,3 +58020,9 @@
 @lonelyscholarr
 @ManhwaMagicRV
 @njznationalist
+@SpaceMission2026
+@HFYREVENGESHIP
+@Kwento-ng-Puso
+@VistterTV
+@CozyHauntedNights222
+@Warcharts
