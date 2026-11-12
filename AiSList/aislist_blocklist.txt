@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58314
+! Total Channels: 58319
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58330,3 +58330,8 @@
 @atlasofthoughtdocs
 @LostRealmsPOV
 @ForbiddenFruitsAI
+@TrigonEntertainmentStudio
+@Fruitdrama1010
+@NagrajCinematicUniverse
+@Aidoorbellclips-p5p
+@StudyGood-i4x
