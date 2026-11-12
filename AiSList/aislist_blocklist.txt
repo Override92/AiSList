@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58094
+! Total Channels: 58099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58110,3 +58110,8 @@
 @BluntExplainers
 @britainbackthenpov
 @oldcountrymonsters
+@DVDRewind2026
+@Boringstorytofallasleep
+@AmericaLostBrand
+@USANewsnow-z4i
+@StageLegendsYT
