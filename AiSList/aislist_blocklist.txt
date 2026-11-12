@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60100
+! Total Channels: 60110
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60116,3 +60116,13 @@
 @KosmosKlartext
 @YaekoAmi
 @80sCityPop-g6s
+@ArminnAI
+@Od-Explains
+@TrueCivilWarSoldiers
+@lokrvqclips
+@itsSeenFromHere
+@Vinylconfessions-v2g
+@goldenyearsdaily
+@KuldeepKumar-k6p6e
+@LuisandDame
+@AstroReads2u
