@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58152
+! Total Channels: 58157
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58168,3 +58168,8 @@
 @Zeestories-786
 @Tiny-FixStudio
 @TheAiMatrix-m1z
+@SYNCAERODrama
+@HassonPatton
+@Y-Mon-h7j
+@thecartoonsworld-b3k
+@Ghiblicookingvideos1
