@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59632
+! Total Channels: 59642
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59648,3 +59648,13 @@
 @nisaraliai
 @Turkeyedit-c5c
 @MiniStoryAI-7325
+@AIworldtravel1
+@cartoonworld01-sameer
+@DhanjeetPatel07
+@GhibliRecipeShorts
+@foodiekitchenAi
+@pcb.ai3d
+@DesiGhibli-p8d
+@Mortyeditz
+@Ghiblicookingstory
+@blafieldJessick
