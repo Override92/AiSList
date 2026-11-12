@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57896
+! Total Channels: 57902
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57912,3 +57912,9 @@
 @PepperChords
 @npl-f8m
 @LuccaandMiguel2
+@KostyaLatunin
+@MinimalistSetup
+@ItzNightmare_YTandFriends
+@GuneExplicabr
+@Sci-FiNexus12
+@Black_Coursed_Roses_Music
