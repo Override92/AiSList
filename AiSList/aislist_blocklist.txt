@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60082
+! Total Channels: 60090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60098,3 +60098,11 @@
 @simplepaintcompilations
 @GalacticFuriesHFY
 @TomAndJerryExplains
+@KeeperAmosWren
+@Lacad%C3%A9mieF%C3%A9line
+@Earthbio1
+@Synthesis_HQ
+@short_hacker_news
+@evren-77
+@KEELNORTH-CA
+@neyronnn
