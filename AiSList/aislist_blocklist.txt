@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58664
+! Total Channels: 58674
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58680,3 +58680,13 @@
 @TimeLens-ReelAi
 @aikitchen5233
 @NuzhatKhan-km1hv
+@BrainBoostAI11
+@Low.KP1
+@GmNcho
+@StormVerseStudios
+@WhosThere-y3n
+@Chrono_Vlog26
+@yugsminikitchen
+@AIAutoForge-n1o
+@AI.EDITER_INFINITY
+@UNREVIAOfficial
