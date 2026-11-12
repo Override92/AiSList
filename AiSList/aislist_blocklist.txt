@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58764
+! Total Channels: 58774
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58780,3 +58780,13 @@
 @RealityShiftAIStudio
 @Kiroeyes
 @AIkahaniVerseOfficial-1
+@charosoy_ai
+@BuildMagicAI-7A
+@PeelVerseAI
+@VeloceAIStudio
+@carunboxingvideo4.0
+@OrangeFluffyChef
+@Talkify2026
+@AIKidsStory-r4z
+@AI_wali_bakwas-p2t
+@AITOANIMATION-t1t
