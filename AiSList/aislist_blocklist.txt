@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58125
+! Total Channels: 58133
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58141,3 +58141,11 @@
 @StateofRidiculous
 @RecapNexor
 @FromDesktoPower
+@TheCuriousGeek-v2s
+@FrankLedgerWW2
+@%EC%9E%A1%ED%95%99%EB%8F%84%EA%B9%A8%EB%B9%84
+@Dr.MarcusHale
+@WW2Colorized
+@dungaman18
+@WhisperingMelody6368
+@TikTakDraw
