@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57828
+! Total Channels: 57831
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57844,3 +57844,6 @@
 @FirstFolks-u2b
 @BonesBeAware
 @whenyourise
+@The-doodle-explainers
+@PictureThisBro
+@MidnightCatJazz-u7g
