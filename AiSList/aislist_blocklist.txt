@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58228
+! Total Channels: 58233
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58244,3 +58244,8 @@
 @AllahBakhash-f5z4x
 @memeslab
 @Aifruitdramaohno
+@SadiaIrfan-kenty
+@FruitDrama-v7m
+@GaonKiGuriyaFunnyVlogs
+@fruitsecretsyt
+@AICATVIDEO-f7q
