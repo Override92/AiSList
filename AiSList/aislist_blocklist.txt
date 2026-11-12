@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57540
+! Total Channels: 57545
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57556,3 +57556,8 @@
 @CalebDawson84
 @ToshiroHayashiLife
 @cesarpineda5675
+@CuriousHumanOfficials
+@InkLoreExplains
+@MarcusBennetDIY
+@NorbertDanielsYT1
+@mindworks101
