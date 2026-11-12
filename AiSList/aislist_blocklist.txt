@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59203
+! Total Channels: 59213
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59219,3 +59219,13 @@
 @POVHistory-v1t
 @AICU7959
 @TinyBiteAI-k9j
+@TalkingFruitai
+@RealaiStory99
+@CastleONBattle
+@Chef_AI_Twister
+@fruitdramafilms
+@JerryTinyAIKitchen
+@AIchefwars
+@TiffGreen-r6s
+@AImagic_world99
+@DikyAI
