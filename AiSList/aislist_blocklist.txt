@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57763
+! Total Channels: 57768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57779,3 +57779,8 @@
 @RyzoHistory
 @TheUnexpected4K
 @PrehistoricHumansinVietnam
+@Primal-Stick
+@CompanyChaptersExplained
+@bonecodeofficial
+@Mattyexplains0
+@MrYes-MindsetPsychology
