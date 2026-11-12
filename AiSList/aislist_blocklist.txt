@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58238
+! Total Channels: 58243
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58254,3 +58254,8 @@
 @aivideos23421
 @Aifruitdrama-m2d
 @Aistorykids_15
+@Terrypipi
+@aistorykids06
+@KidsAIWorldTV1
+@Islamicvideoai2026
+@CanvasCosmosCinematicUniverse
