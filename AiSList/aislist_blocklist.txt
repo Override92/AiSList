@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57929
+! Total Channels: 57934
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57945,3 +57945,8 @@
 @Blastline2
 @DumbKnowsEverything
 @COSMOS-w1z
+@GordWallaceCA
+@Sci-FiStoryToday-k1q
+@Ber%C3%A4ttelser
+@ComicRealm-SQ
+@ApexRoar-q8t
