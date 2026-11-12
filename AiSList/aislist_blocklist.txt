@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58467
+! Total Channels: 58477
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58483,3 +58483,13 @@
 @MrNaatuAnimation
 @Laaluyadav-bihari
 @UnknownGirlfriendoffcial
+@TheFruitDrama-e6b
+@ReimaginedspacesDG
+@missaichef
+@AIMagicWorld_35
+@CyphreNox
+@RedesignXAI
+@MINICOOKINGAi-z7n
+@AzhagiyaAIWorld
+@msacinematic-munesh
+@NovaVibeAI.50
