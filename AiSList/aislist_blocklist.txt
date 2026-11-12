@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60143
+! Total Channels: 60142
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31793,7 +31793,6 @@
 @SecretFamilyTales-SFT
 @african.tribal
 @SecretTales-ST
-@AfricanTalesByAnna
 @ShortTales-v8e
 @AfricanTalesbyNsinah247
 @HistoriaAfricana
@@ -31842,7 +31841,7 @@
 @CelebrationUniverse68
 @Chachakidszone
 @Forgottenline-u8l
-@hibana_jazz_lofi_lounge
+@hibana_chill
 @HOABoundries-7
 @HOACrimeFiles911
 @HOADiaries-g3d
@@ -31872,7 +31871,6 @@
 @TheCelebrityFiles104
 @TheGeneFiles
 @WeaponizedFiles
-@D4rkfiless
 @FlightFiles09
 @MonsoonFiles1
 @ObjectFilesUS
@@ -60159,3 +60157,4 @@
 @EmergentGarden
 @geofate
 @urbisanno
+@stevecooperdogs
