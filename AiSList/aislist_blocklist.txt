@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58514
+! Total Channels: 58524
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58530,3 +58530,13 @@
 @TimelapseConstruction84
 @VoxlarkAi
 @MagicAIKitchen0
+@VeerToons04
+@lunawhiteeats
+@lSaeedtech
+@DigitalDivas-v5o
+@corehindianimation-j2r
+@MoToonsAi
+@MayaAndPipAI
+@xdinmeinviral
+@KawaiiSushiTempura
+@AIConstruction13
