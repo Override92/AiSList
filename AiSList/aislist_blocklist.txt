@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58944
+! Total Channels: 58954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58960,3 +58960,13 @@
 @WildTalesAI-1
 @AiMiniverseStudio08
 @ItsJokivoBali
+@timeslipshorts
+@ToonVerse-q8z
+@MastiVerseAI-x7l
+@chronoverseofficials
+@MiniFoodIndiaOfficial
+@KarisAdoraTv
+@DreamFrameAI-lk
+@Shifashifanaz-d1w
+@HistoryVaultDaily
+@ayeza_aikitchen
