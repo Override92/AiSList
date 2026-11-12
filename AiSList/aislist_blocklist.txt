@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57387
+! Total Channels: 57396
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57403,3 +57403,12 @@
 @chalaexplains
 @Earthlens.2026
 @AstralWarlordQueen
+@TheHonestProAudio
+@RetroRewind60s
+@SupremeBossDramas
+@2002yusu
+@younggichomessage-p7w
+@Astropia-k9c
+@NoLongerHere-001
+@skippingreality-b4p
+@Franklin_Carter
