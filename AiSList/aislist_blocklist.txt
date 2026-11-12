@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58208
+! Total Channels: 58213
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58224,3 +58224,8 @@
 @aifruitofficial.1
 @MoneyAaluCartoons
 @NextMindAIFuture-s1o
+@funkyfruit-i2l
+@TinyChef-r6k
+@EGNSTUDIOSOFFICIAL
+@AIFRUITDRAMA-j2h
+@svstavvy
