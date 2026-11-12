@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57433
+! Total Channels: 57438
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57449,3 +57449,8 @@
 @Dr.LeoHartwell
 @KennCool
 @DesoTubee
+@Doubletheink
+@JelqskaPlincner
+@DrNova-q3f
+@zaynexplainer1
+@DoodleTales67
