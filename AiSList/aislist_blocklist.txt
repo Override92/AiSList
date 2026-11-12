@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57793
+! Total Channels: 57798
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57809,3 +57809,8 @@
 @Anc1vox
 @avyn-3
 @THEKNOWLEDGEBYTE-05
+@InkedEpoch
+@AxenAncientTV
+@HUMANCHRONICLES11
+@mack92
+@MysteryCapsule-003
