@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59702
+! Total Channels: 59712
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59718,3 +59718,13 @@
 @Kranosjia
 @AiLifeSpectrum
 @AIMagicWorld-u3r
+@official_dramafruite
+@youcouldntmakethisup.aistories
+@PastRewritten-w6z
+@Manasi123-j4c
+@gyaneshhbti
+@AGNOfficial24
+@AICinematicUniverse-k3j
+@sciencearc-r3g
+@kawaiikitchendelights
+@TalesoftinykitchenMiniatureai
