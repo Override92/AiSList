@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57520
+! Total Channels: 57525
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57536,3 +57536,8 @@
 @CenturyScrollTV
 @HealthyBytes-e5i
 @films-ai26400
+@primalink691
+@oldinstinct-tv
+@BeyondHuman-u6q
+@EarlHawke
+@Thehumanglitch.25
