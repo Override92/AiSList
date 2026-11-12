@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57637
+! Total Channels: 57643
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57653,3 +57653,9 @@
 @DoctorLauraHub
 @sinrakmt
 @humanbehaviorexplained-f5r
+@Axend-j1n
+@AnnExplainerofficial
+@ExplainMatics
+@PsychoTruths-p7c
+@bro_hearmeout13
+@Instinct009
