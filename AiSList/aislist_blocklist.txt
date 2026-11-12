@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 59473
+! Total Channels: 59483
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59489,3 +59489,13 @@
 @penguinshortz
 @TatianaLidker
 @TechShAim
+@TrendMatrix-c5n
+@GhibliStory-h7t
+@FunPopAnimation
+@WhatIfNexus0
+@TitanAIStudios
+@miniaikitchen
+@Aicookingvlogs
+@AI_Chef_34
+@sentimentalstoriesfilms
+@factifyaichannel
