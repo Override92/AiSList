@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 58198
+! Total Channels: 58203
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58214,3 +58214,8 @@
 @amitsshetty
 @NotebookLLMvideosexplainer
 @aiadventure-79
+@IttyBittyKitchen-o8s
+@aicartoonstory-67
+@Ai-Stories-48
+@USAAIKids-k9o
+@AiKidsstory-j7q
