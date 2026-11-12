@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 57632
+! Total Channels: 57637
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -57648,3 +57648,8 @@
 @A.PoulMiller
 @HardTimesHandbook1
 @ClaraKincaid99
+@FrankMillerHomeDefence
+@TheSafetyFiles-t6m
+@DoctorLauraHub
+@sinrakmt
+@humanbehaviorexplained-f5r
