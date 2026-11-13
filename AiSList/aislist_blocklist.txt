@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60155
+! Total Channels: 60158
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60171,3 +60171,6 @@
 @theforbiddenarchives-01
 @星星故事會-r2y
 @2bmgaming
+@BoothStories
+@RecapX01
+@youSeeWhyOfficial
