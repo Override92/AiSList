@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60806
+! Total Channels: 60801
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1591,7 +1591,6 @@
 @ONLYREALMESS
 @DerLegionarEng
 @NCrimby
-@Aiworld053
 @britainweremember
 @nostalgicbritain
 @thenostalgiabritw
@@ -40744,7 +40743,6 @@
 @VisionVerse-c7n6p
 @shadihowtos
 @DARKSYMPHONIES
-@MALONEYMETALSALERT
 @HearthfireTavernSongs
 @veltrixfm
 @riffFace
@@ -40776,7 +40774,6 @@
 @dayslongago
 @Trentbaker1987
 @RumiWorldStories1
-@VeloriaMafia
 @GearGenius.Official
 @SevenLikes
 @MarcusInvestsHQ
@@ -40923,10 +40920,8 @@
 @NeuroKnightDJ
 @nguyennguyen3797
 @WWIIMilitaryArchives
-@HFYLorecraft
 @ChillDudeProExplains
 @mizunagara
-@FlameGuardHFY-i6q
 @TruckNationUS
 @GalacticCalmHFY
 @AmericaUncovered-e3g
