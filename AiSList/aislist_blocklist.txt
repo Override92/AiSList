@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60156
+! Total Channels: 60161
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60172,3 +60172,8 @@
 @storyroomstories
 @IUKrazy
 @Emon00897
+@a.a.bakori
+@Story-SparkDaily
+@SanctuaryOfAges
+@Sari-creations
+@AICineversemovie
