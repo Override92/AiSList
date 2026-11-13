@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60176
+! Total Channels: 60181
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60192,3 +60192,8 @@
 @CORIHA-x4t
 @SnipNewsNetwork
 @voiderisexe
+@BrainSnackDotExe
+@AGMORA_Studios
+@AiDogShorts-y9
+@Faith_Stocks
+@handloai
