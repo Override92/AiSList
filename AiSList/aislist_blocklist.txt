@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60275
+! Total Channels: 60277
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60291,3 +60291,5 @@
 @aionvelstudios
 @古短剧场ancientshortdrama
 @civilisationsoubliees-c8r
+@PaperBillionsTV
+@CleanRideStoriess
