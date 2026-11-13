@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60545
+! Total Channels: 60556
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60561,3 +60561,14 @@
 @Talesfromtheoldworld
 @LittlestorylandWithAlexandra
 @HadithiTalesKids
+@Heritagetales_byCsola
+@DESEERAI
+@Peace4Jah
+@GRILLZTALES
+@MiracleNwoye-m5c
+@Motivationalbiano
+@Goldenvoicefilms
+@talesbydammy1
+@OTVS14
+@english-story-harbor
+@moonfiretalestv
