@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60606
+! Total Channels: 60616
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60622,3 +60622,13 @@
 @HFYUniverse-h5s
 @Ascendanthfy
 @HumansAreInsaneHFY
+@HumanityUnbound-m2b
+@HeartlandStoryMoments
+@HFYGalacticWarfare
+@tungtran8080
+@HFYCosmicWar-2
+@HFYVelstormSci-Fi
+@HumanitysRoar
+@HFYVORVANE
+@HFYDeepSpace-j1z
+@HFYGalaxy-h6p
