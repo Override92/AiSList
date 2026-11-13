@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60906
+! Total Channels: 60908
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60922,3 +60922,5 @@
 @weldpro23
 @audiovibrations
 @dogworldorder
+@redlinefg2gb5
+@BlueSabbath420
