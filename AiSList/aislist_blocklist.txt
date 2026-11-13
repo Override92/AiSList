@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60229
+! Total Channels: 60239
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60245,3 +60245,13 @@
 @limitlesssurfer
 @UnrealPlanet-1
 @Mofvi
+@Noodyssey
+@WaitWhatStories-1
+@EverythingEngineered
+@TommorowMaybe
+@DuniExplains
+@PlanetClinic
+@EngiReview
+@Ifworth
+@IFversify.theories
+@shortline_stories1
