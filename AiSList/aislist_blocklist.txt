@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60285
+! Total Channels: 60280
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47250,7 +47250,6 @@
 @PurelySatisfying88
 @thesleepysith
 @GalacticAtlasLore
-@StomedyYoutube
 @ZenkaiTV-lv2vh
 @Insidefactoryprocess
 @CleaningX-u4w
@@ -47262,17 +47261,13 @@
 @cheekychimp3
 @LostNostalgic-h6h
 @TheDreamhouse_Project
-@NDnewdiscovery
-@GracefortheStrays
 @LetsLearnCrystal
 @FarmHoofExperts
 @FactoryExplained-g2f
 @NotYourBoomersFinance
-@Oblivyxz
 @spjichannel40
 @FactoryProcess1Official
 @FactoryProcess2.0-v8g
-@EXTREMEHOOFCARE
 @SkyGamer_109
 @360khampha
 @BrodyMemesOfficial
