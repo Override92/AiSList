@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60157
+! Total Channels: 60155
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32361,7 +32361,6 @@
 @HackTheMexicanWay
 @TheMexicanMothersBible
 @BerthaCleanHome
-@BerthaSister
 @OtisCleanHome
 @MarlenesCleaning
 @99fromscartch
@@ -32370,7 +32369,6 @@
 @Cartridge-Graveyard
 @arcaneapothecary
 @fileandfield
-@CelticArrow
 @BriefAero
 @IronDoctrine1
 @carcarecompare777
