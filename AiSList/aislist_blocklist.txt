@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60277
+! Total Channels: 60272
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47337,7 +47337,6 @@
 @hfyastralpulse
 @TheHumanFrontier-r1s
 @LegacyofTerra
-@StartboundHFYstories
 @HFYLoveStories-w5o
 @FictionalReimagined
 @SciFiTimeZone
@@ -47361,15 +47360,11 @@
 @HistoryRewritten-g2c
 @FBXFilms
 @WhisperingHearts-d1c
-@NebulaNarratives5
 @HFYAlienGuard
-@fictional-storytime8
 @QuietDignity-g6g
 @SecondWorldWarLegends
 @FutureGalaxyHFY
-@sebis567roblox9
 @ethonvossHFY
-@SciFiTime
 @SciFiTimeHub
 @parwez-z6x
 @Sci-FiFrontier0
