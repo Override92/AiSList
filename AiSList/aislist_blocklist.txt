@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60209
+! Total Channels: 60219
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60225,3 +60225,13 @@
 @careerstanding
 @HistoryReExplainedHQ
 @WildAboveAI
+@kianexai
+@GeschichteUmschreiben
+@quietcosmosdaily
+@Hpkistory
+@lostmonkeytale
+@Sleeper.013
+@StreetFindsDaily
+@MiniAnimalWorld5
+@WideMarginmath
+@matthias.coletta
