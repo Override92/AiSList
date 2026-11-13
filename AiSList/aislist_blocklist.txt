@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60535
+! Total Channels: 60545
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60551,3 +60551,13 @@
 @RememberWhenY2K
 @ElroiAnointedScreen
 @DecodeswithIvy
+@Folktalesbymandy32
+@Nightfiretalesgh
+@kingstale-o5n
+@Pricilia1Okeoghene-v7g
+@IjapaTheWiseOne
+@StoriesbyChidera-v6s
+@Pinastorytime
+@Talesfromtheoldworld
+@LittlestorylandWithAlexandra
+@HadithiTalesKids
