@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60596
+! Total Channels: 60606
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60612,3 +60612,13 @@
 @TerraUnbrokenHFY
 @HiddenAtlasShorts
 @GalacticVanguardTV
+@OrbinCool
+@HFYPinnacle-o3d
+@HumanityUnchained-z7v
+@HFY_Astravion
+@HFYUniverseHQ
+@HFYOverdrive-r2r
+@IsharTiNi-z2l
+@HFYUniverse-h5s
+@Ascendanthfy
+@HumansAreInsaneHFY
