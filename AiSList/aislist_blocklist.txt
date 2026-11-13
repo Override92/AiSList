@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60262
+! Total Channels: 60260
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9506,7 +9506,6 @@
 @FuncerASMR
 @FRUITY_ISLAND
 @FruitSlashASMR
-@FinanceLoreYT
 @FinanceOrbit786
 @FinancialDisclosures
 @financialoutline
@@ -26032,7 +26031,6 @@
 @myanmarverse3
 @draft_blueprint
 @wolteasmr
-@ෆzarah-leecutiechanෆ
 @snoopyjazz-g8l
 @slydalton
 @primiumcarpro
