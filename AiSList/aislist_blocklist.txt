@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60290
+! Total Channels: 60285
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47127,7 +47127,6 @@
 @BibleUnveiled-y3u3h
 @BIBLEVERSES-c1p
 @BibleVerseDailyAI
-@BibleVersesAiVideo123
 @biblevisions-h8t
 @Bigfootvlogs-b4l
 @BibleVisionsAI-w9w
@@ -47135,7 +47134,6 @@
 @BibleWithAI-p9m
 @BiblewithAI-x9w
 @big4AI
-@BijayLakhua-ajb
 @BiteWorld_ai
 @Bloomtales_Ai
 @BLUBUBUKIDS
@@ -47199,7 +47197,6 @@
 @DigitalAutomationStudio-f8t
 @DogAndCatPodcast-b6b
 @DreemixAi
-@EgogoAI
 @DUMMYCREATIONS-s3n
 @eaglefilmz-u4y
 @Echoes_of_african_tales
@@ -47247,11 +47244,9 @@
 @FellowshipoftheLore
 @AtMidWhispers
 @TheDual-Wielder
-@MiddleEarthTales
 @Artreii
 @KingsAndRings
 @OrdemNerds
-@BlackQuillSociety
 @PurelySatisfying88
 @thesleepysith
 @GalacticAtlasLore
