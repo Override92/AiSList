@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60394
+! Total Channels: 60399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60410,3 +60410,8 @@
 @BeyondReality-e9i
 @Wow-Whatif-y8i
 @ButWhatIfBro
+@stick.watchit
+@WhatIfCorey
+@WhatIfStickYT09
+@YeagerSlop
+@WhatIfLeoDid
