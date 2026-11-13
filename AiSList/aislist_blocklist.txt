@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60556
+! Total Channels: 60566
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60572,3 +60572,13 @@
 @OTVS14
 @english-story-harbor
 @moonfiretalestv
+@NovaNettt
+@TalesByDara-e8x
+@AcaciaTalesStories
+@BUBELOVEFOLKTALES
+@blessinguyanga9545
+@amdawei6909
+@KoraandChalk
+@OrjiakorCollins
+@Steevetale
+@TheIsaacLynda
