@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60715
+! Total Channels: 60724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60731,3 +60731,12 @@
 @WildwoodStories-e4e
 @MrBlack-y2p
 @GeniusOrigins.Official
+@Ataide-c1w
+@Man%C3%ADaMotera-h3c
+@OutdoorOasis-c7n2c
+@ElsieMayor-t1u
+@MrWerkzeuge-g3z
+@SilaCorum-t1d
+@WhylyOfficial-c5k
+@avihsa-e8z
+@SlotStudioAI
