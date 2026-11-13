@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60193
+! Total Channels: 60199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60209,3 +60209,9 @@
 @PinkiAicartoon
 @WatchTheWhyShow
 @PlAInSight-10
+@TheOtakuAI
+@WhatIfHappens-if
+@PawZingoAI
+@StatueSurpriseHub
+@NotMadeOfMoney
+@zaydstrangemedicine
