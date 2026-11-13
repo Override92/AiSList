@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60186
+! Total Channels: 60193
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60202,3 +60202,10 @@
 @MilosMindShorts
 @curyfilms
 @POPMP4
+@TimmyGlesel
+@blutideboys
+@AICinematicHub1
+@GOLD.S_OFFICIAL
+@PinkiAicartoon
+@WatchTheWhyShow
+@PlAInSight-10
