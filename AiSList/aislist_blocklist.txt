@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60840
+! Total Channels: 60850
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60856,3 +60856,13 @@
 @GlitterRiott
 @Rock-Chinnom
 @EnchoesOfClassicRock
+@Deepmusic805
+@ARTEM_KOMLEV
+@W_studio_id
+@WesternLegendsUnfolded-YT
+@FrankTellsStories
+@BritishRewindYT
+@LesMyst%C3%A8resAnciens
+@Flicqtra
+@bzackarma
+@TruePatriots-l4k
