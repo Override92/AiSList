@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60779
+! Total Channels: 60789
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60795,3 +60795,13 @@
 @jangrasya7941
 @CreativAiRTS
 @fathian_Al
+@bluesrockz
+@RockxBlues
+@RockSAvenuePH
+@p17ulasmusic
+@RockRebelsCyprus86
+@AfterVerseMusic
+@dansutier
+@shawncontreras
+@AIMetalCore-1
+@BAMSixOfficial
