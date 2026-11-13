@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60799
+! Total Channels: 60805
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60815,3 +60815,9 @@
 @malayalamaichristiansongs
 @AiSNTSoren
 @LyricsCowboy
+@BrieKindRewind
+@RockFlowPH
+@IllegalOutdoorsman
+@RiffRebels-j3x
+@thisisaremixyt5071
+@FilmVerse-l2y
