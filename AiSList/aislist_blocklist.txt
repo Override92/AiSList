@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60830
+! Total Channels: 60840
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60846,3 +60846,13 @@
 @Darksteellmusic
 @ShatteredHits
 @danielmalone3985
+@Vyriths
+@tinh-khuc-bat-hu
+@jadsd56
+@ambawangforceproduction715
+@DucatChannel21
+@VeteranPawJustice
+@Oldies2195
+@GlitterRiott
+@Rock-Chinnom
+@EnchoesOfClassicRock
