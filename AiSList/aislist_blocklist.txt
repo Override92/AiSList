@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60851
+! Total Channels: 60861
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60867,3 +60867,13 @@
 @bzackarma
 @TruePatriots-l4k
 @galacticfeararchives
+@FarmersBestFriend-w8p
+@UnforgettableStories-b5s
+@Mackcolak-xf5bk
+@StorySphere-l2j
+@DeanMartin-BriefMemoirs-c7z
+@Wagon_Trail_Romance
+@BackroadsFarmChronicles
+@GroundTruthFarm
+@EchoesofStories-w4d
+@DeepWithinStories
