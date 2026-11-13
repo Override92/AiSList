@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60146
+! Total Channels: 60147
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60162,3 +60162,4 @@
 @afterhourtheories
 @POPZELLA
 @driftflexzone
+@HumanWarChronicles-b9c
