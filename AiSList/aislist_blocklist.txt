@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60682
+! Total Channels: 60692
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60698,3 +60698,13 @@
 @%EB%B0%B1%EC%B0%BD%EC%A3%BC-o9y
 @AegisofOrion
 @StarbornVanguard
+@TheStarsHFY
+@HFYAxorian
+@TheLastArchieves
+@NEXORAStories_HD
+@Primatesofwar
+@ChroniclesGalactic
+@adeleswilley
+@hfx-humanitystories
+@ContactHumanityHFY
+@sci-fi-neon
