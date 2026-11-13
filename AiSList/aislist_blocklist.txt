@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60153
+! Total Channels: 60156
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60169,3 +60169,6 @@
 @kunoiceage
 @星魚工作室
 @thebmwheads
+@hinddocumentary-3d
+@leitbuilt
+@theforbiddenarchives-01
