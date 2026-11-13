@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60861
+! Total Channels: 60870
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60877,3 +60877,12 @@
 @GroundTruthFarm
 @EchoesofStories-w4d
 @DeepWithinStories
+@HighwayChronicles-c1w
+@TheDeegen
+@ArchfiendoYouTube
+@Kweedle
+@ZeroDayPrompts
+@EntAIProductions
+@lllxxxxx
+@MotorHeadsYouTube
+@Skilaww
