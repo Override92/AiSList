@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60158
+! Total Channels: 60153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32198,7 +32198,6 @@
 @ForbiddenShifterKiss
 @herolc-nexus
 @kingmshrm773
-@TinhPhamTan
 @RachelStarkidGleek01
 @official.musicREBORN
 @DukeLagendsExtra
@@ -34334,7 +34333,6 @@
 @theancientbible4ME
 @BibleChronicles21
 @BibleFactsDaily_God
-@BibleQuestionsMadeClear
 @TheBibleChronicles-u2j
 @AncientBibleEpics
 @Thebibleunveiled-r4k
@@ -46893,7 +46891,6 @@
 @Promptocracy
 @TalesofJuniorAdventurers
 @SynthVision_01
-@Kam-Aivdio
 @ai_ditor
 @AIAnimals-9x
 @LULANKO
@@ -46919,7 +46916,6 @@
 @TheEconomicMatrixYoutube
 @G1ng3rdr
 @FarmMechanics1
-@ColdWarVault-u1w
 @H.of.H
 @TheHiddenLeverage1
 @NewYorkBrief
@@ -46962,7 +46958,6 @@
 @NobleEngine1
 @scoutautomobile1
 @globalartiisans
-@nguyenthaotrang-m8s
 @TrieuXuansinglegirl-rs3pl
 @VPpeople
 @TheLoresmith
