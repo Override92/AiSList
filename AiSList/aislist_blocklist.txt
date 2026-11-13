@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60279
+! Total Channels: 60289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60295,3 +60295,13 @@
 @OnlyHumanvideo
 @YouButAnimated
 @FactNado1656
+@Iffythegoat
+@Roxz_Chess_id
+@AlphaScientiae
+@UzayDefteri
+@Enigma.WorldX
+@onetweak
+@GRAYGOD100
+@MythGorz
+@TheGreyTide
+@mathflow.official
