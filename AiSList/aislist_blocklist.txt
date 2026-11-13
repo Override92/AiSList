@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60400
+! Total Channels: 60395
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14935,7 +14935,6 @@
 @ThePortalCinematic
 @Ai_MarvelHulku
 @MarvelMocks
-@khawaja_yt
 @marvel.mb89
 @TotalMarvelLegends
 @Marvel-h8g
@@ -16873,7 +16872,6 @@
 @Blessingtales
 @DoveFolkTV
 @GloAfroTales
-@novasmash-i2d
 @PerfectMerakiystory
 @IGAFRICANSTORYS
 @TheAIPOVYT
@@ -40370,7 +40368,6 @@
 @HumanDocumented
 @TerribleTimelines
 @PrimitiveX-cr7
-@MieloriaDrama
 @ThePowerLedger-n3d
 @POVMoneyLabofficial
 @PrehistoricWorld-9
@@ -40626,7 +40623,6 @@
 @HardwareBytes-q3t
 @ThorneLothbrok-Music
 @DarkMetalEngine
-@JohnLennonTheUntoldStories
 @NyxRevengeOffice
 @ObscuraMetal
 @DarkTideRevenge
@@ -47598,7 +47594,6 @@
 @AfroEssence-l9j
 @AfricanGodsandHistory
 @StoriesByEnyinna
-@SAfrosounds26
 @schooloflovetales
 @StoriesofOldAfrica
 @AfroRhythmKingdom-t1p
