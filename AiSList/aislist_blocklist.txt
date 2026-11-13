@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60820
+! Total Channels: 60830
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60836,3 +60836,13 @@
 @keytone77
 @SanctuariumMetalli777
 @BlackforgeMetal
+@BlackvoltRiffs
+@SunsetSilicon
+@StaticLegends
+@angasnggitara
+@godysky532
+@FireguardTV
+@CR_FACTORY
+@Darksteellmusic
+@ShatteredHits
+@danielmalone3985
