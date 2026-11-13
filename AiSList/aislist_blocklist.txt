@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60566
+! Total Channels: 60576
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60582,3 +60582,13 @@
 @OrjiakorCollins
 @Steevetale
 @TheIsaacLynda
+@animeanime375
+@KingTalesTv
+@TheHumanArchive79
+@Sci-FiTalesPulse
+@BlackstarProtocol
+@HFYWorldStories-f3e
+@HFYChronicles-n4h
+@lullorsleep1
+@jenin2101
+@HFYGalacticLore
