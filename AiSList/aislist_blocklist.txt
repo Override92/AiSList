@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60289
+! Total Channels: 60292
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60305,3 +60305,6 @@
 @MythGorz
 @TheGreyTide
 @mathflow.official
+@drpvnaik
+@FadeFlip
+@ItsAvangel
