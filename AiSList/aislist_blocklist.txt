@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60646
+! Total Channels: 60655
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60662,3 +60662,12 @@
 @thelastterran-c9g
 @Tu%E1%BA%A5nL%C6%B0%C6%A1ngv%C4%83n-s8x
 @HFYPrimeStories-h4i
+@Sci-FiHFYExtra
+@ContourBattles
+@RollTriP
+@brandonSadams
+@HFYSCIFIZYKER-e2n
+@HumanityAscendant-f9p
+@NexusStoryNetwork
+@LUVIA-LUVIA
+@BlazeWardHFYUniverse
