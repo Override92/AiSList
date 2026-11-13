@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60375
+! Total Channels: 60385
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60391,3 +60391,13 @@
 @Whatfinity
 @polygonity
 @EntiretyLab
+@HowFar-m6o
+@tridimen13
+@ForceUncapped
+@FirstHumans
+@CurioSphere-m7c
+@KinshipKarma-v8d
+@JaxsonBlueMusic
+@baysky
+@thefunnyleaders
+@UlvarMusic
