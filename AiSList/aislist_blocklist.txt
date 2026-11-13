@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60465
+! Total Channels: 60475
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60481,3 +60481,13 @@
 @DeathworldDiaries-u2x
 @Deathworlders-c6n
 @HumanityAscendant-j6r
+@GalacticNovaHFY-2K9
+@TerranLegends-u4e
+@GalacticVerdictHFY-m2e
+@ZenithProfile
+@HumanityUnleashed-g4r
+@HFYRedditSagas-v2o
+@HFYGalacticChronicles-b4s
+@HaiNguyen-k6m7y
+@GalacticHFYWhispers
+@SoulStories-t4k
