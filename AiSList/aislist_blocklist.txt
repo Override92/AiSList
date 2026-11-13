@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60267
+! Total Channels: 60262
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1350,7 +1350,6 @@
 @insidemodernfactory
 @modernfactoryinsight1
 @modernfactorysecrets-john
-@factoryprocessinside
 @factorytourprocess
 @modernfactoryprocess-hq
 @insideeveryfactory
@@ -40180,7 +40179,6 @@
 @DriftNovaPulse
 @QuietMindWisdom19
 @wanidapromchat5338
-@Oops_Americans_Everywhere
 @TwistofFateStories-g9i
 @MuraAudio
 @MoneyInsiders-l2j
@@ -47487,19 +47485,16 @@
 @AfriEcho-s6y
 @TaleswithFrances
 @AfroEmpire-us
-@DarkRootsStorytelling
 @BrokenHeartTales1
 @HFYMidnightVault
 @Read_RedditStories
 @FamilyEchoesUnseen
-@RevengeSilence30x
 @HomeDIYTips
 @mbarretta77
 @BorrowedCentury
 @abdymotors
 @Vsefotonz
 @themathematiker88
-@EDOnoir-g8m
 @SnowyEveningStudios
 @MK-faxts
 @RobyThomsan
