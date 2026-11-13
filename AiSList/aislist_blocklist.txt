@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60266
+! Total Channels: 60267
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1319,7 +1319,6 @@
 @meowmovesx
 @catcitten-x7t
 @cartoonvideos99-u3y
-@meowmix-g2s
 @catfillm
 @meowcat09-c3n
 @prettyaikittens
@@ -60282,3 +60281,5 @@
 @storyvanceenglish
 @cronicasdelimperioestelar
 @cronistaapocaliptico
+@therefugeefiles
+@cheapupgradeguy
