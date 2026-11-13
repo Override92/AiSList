@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60505
+! Total Channels: 60515
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60521,3 +60521,13 @@
 @Gerryh123456
 @hilsliver5770
 @monkchi_dude
+@conspiracymusic
+@Velocity-1-n7x
+@TheAntiquityAtlas
+@MilitaryAnimationChannel
+@DeadVaultYT
+@vandaoaudio
+@ElMecanismoYT
+@CrazeCeleb-k1m
+@Anitha-g7r5j
+@LewisPearson-m9x
