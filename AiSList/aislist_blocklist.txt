@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60259
+! Total Channels: 60269
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60275,3 +60275,13 @@
 @IFologynist
 @The-MissingSignal
 @XHood0
+@outsideordinaryyt
+@Stikinetic
+@WorldDataReport
+@TheExplaainerr
+@theifstein
+@PocketCosmosLab
+@boltandorbit
+@Health.Talk.eclaireMD
+@LifeGlitchAnimated
+@UltraDynamic-1
