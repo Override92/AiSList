@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60395
+! Total Channels: 60396
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40612,7 +40612,6 @@
 @CLI_StackYT
 @HiddenChapter786
 @WayofWisdom-n1y
-@RealStorysharer
 @maitis-ai
 @GreekMythologySecrets
 @BattleTalesWW2
@@ -60411,3 +60410,5 @@
 @YeagerSlop
 @WhatIfLeoDid
 @fantasy-r3l
+@na2evolution
+@静寂の裏切り
