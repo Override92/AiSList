@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60801
+! Total Channels: 60803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60817,3 +60817,5 @@
 @thisisaremixyt5071
 @FilmVerse-l2y
 @leyendasdelimperio-d8e
+@steelblueprint-p7s
+@sleepyhistorianafterdark
