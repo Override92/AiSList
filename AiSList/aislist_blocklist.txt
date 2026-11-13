@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60267
+! Total Channels: 60265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14779,7 +14779,6 @@
 @Semi24-w3w
 @massiveinside
 @InsidethePlant-g4d
-@Spinoza.philosophy
 @SecretList-q3q
 @TheLostCodex-c6n
 @thebibleawakens
@@ -39965,7 +39964,6 @@
 @RavenTrapEmpire
 @IchorHistory
 @MOSTBORINGHISTORYOFEVER
-@WhatIfHistory-e3b
 @MiraSignal
 @venythwave
 @Umbramyth
@@ -39989,7 +39987,6 @@
 @HindsightMoments
 @HISTORYBURNS-1
 @SabInvests
-@vandral-q1g
 @TabeerAiASMR
 @MeoRuby-t6t
 @%E5%A5%BD%E7%9C%8B%E7%9F%AD%E5%8A%87
@@ -60283,3 +60280,4 @@
 @cronistaapocaliptico
 @therefugeefiles
 @cheapupgradeguy
+@zaynxshort
