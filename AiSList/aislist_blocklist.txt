@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60158
+! Total Channels: 60153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -151,7 +151,6 @@
 @MindfulAICreations
 @aifactory77
 @aifussionhub
-@animatenow14
 @FrogAteMyWifii
 @ViraNocturne
 @SoftPixelAI
@@ -5597,7 +5596,6 @@
 @MetalPrompt
 @BriefingDeck
 @IronLensBodycam
-@SurvivalCamping7
 @MapleMarketbrief-e2z
 @Ayyan-h7p
 @warandwealth-x5k
@@ -31859,7 +31857,6 @@
 @newmemory.mp3
 @ParadeNation
 @TheHollowHearth
-@TheOnewhoaboveall
 @ZwarteDossiersOfficial
 @AtomicWarFiles
 @TheFalloutFiles123
@@ -32100,7 +32097,6 @@
 @HFYHumanRisingUS
 @WarFuryHFY
 @NationalCadetsAcademyHfy
-@UniverseofHFY
 @ChronovexHFY
 @OathRageHFY
 @HFYPrimeOfficial
@@ -46825,7 +46821,6 @@
 @OverlookedRichUS
 @EliasYoderDeutsch
 @OrloExplains
-@KarimAshfordFinance
 @redtabbureau
 @ማዕዶተሰማይ-8ረ
 @BlackVoltageRock
