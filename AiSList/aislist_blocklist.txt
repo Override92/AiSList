@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60525
+! Total Channels: 60535
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60541,3 +60541,13 @@
 @VelvetJazzLoungecafe
 @Firesidewithkemi
 @CCIAnimations29
+@GoldenFolktale-x3k
+@storiesbymrsBen
+@Tellmystoryanimated
+@bolatitoyusuf6721
+@Kikisstoriesandfolktales
+@KoraLorestories
+@ChristineCinemaTV
+@RememberWhenY2K
+@ElroiAnointedScreen
+@DecodeswithIvy
