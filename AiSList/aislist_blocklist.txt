@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60808
+! Total Channels: 60810
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60824,3 +60824,5 @@
 @breedrama
 @mountainmanromance-mmr
 @shortmax-karma
+@christianlafleur9186
+@1World_Lyrics
