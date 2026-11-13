@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60199
+! Total Channels: 60209
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60215,3 +60215,13 @@
 @StatueSurpriseHub
 @NotMadeOfMoney
 @zaydstrangemedicine
+@Mr.Ordinary-g3f
+@al.fraydo
+@marenhopemusic
+@Backspace_off
+@Sweetcornshuffleplay
+@MonkeyAI_LifestyleYT
+@K_POPmusic666
+@careerstanding
+@HistoryReExplainedHQ
+@WildAboveAI
