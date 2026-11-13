@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60266
+! Total Channels: 60265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1483,7 +1483,7 @@
 @fruit-asmr-cutting
 @foodflowasmr
 @aivideoasmr-n2k
-@aiasmrsatisfying0009
+@gta6xtreme
 @ai-aassmmrr
 @asmrofficial_ai
 @eripu-f7j
@@ -15695,7 +15695,6 @@
 @PastProof-pp
 @UnsolvedChronicles-w6j
 @HistoryUnlocked55-r4v
-@AllExplaineddaily
 @AncientDigitalAI
 @ageborne
 @thecatmythos
