@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60665
+! Total Channels: 60675
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60681,3 +60681,13 @@
 @The-Hidden-Narrative
 @SliceTherapyStudio
 @scifistories_5
+@EnduranceMind-y3l
+@HFYGalacticTales-x8y
+@StarlightMatesLibrarynew
+@HFYStarvorn
+@GalaxyUnveiled-n1q
+@HFYTerranWarLegends
+@HFYGalacticBattlelines
+@MianAliJaved-m9n
+@HfyAllTimeHit-i8r9p
+@NebularOutcasts
