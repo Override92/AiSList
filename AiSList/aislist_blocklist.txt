@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60724
+! Total Channels: 60734
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60740,3 +60740,13 @@
 @WhylyOfficial-c5k
 @avihsa-e8z
 @SlotStudioAI
+@imrealgaming-o4d
+@FamilyLegacy-v4f
+@HFYStarChronicles-q8d
+@PixelPantheonMyths
+@HFYStellarEmpire
+@InfinitePhysics-c3l
+@%EA%B9%80%EB%8C%80%EA%B7%9C-m2k
+@nevergiveupanimations
+@%EB%A7%8C%EB%B3%B5%EC%83%81%ED%9A%8C-f5t
+@Stiqnity
