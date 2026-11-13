@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60810
+! Total Channels: 60820
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60826,3 +60826,13 @@
 @shortmax-karma
 @christianlafleur9186
 @1World_Lyrics
+@ArabianGroove-h6t
+@bestccovermusic
+@MisterChimpRock
+@battledroneband
+@therebelroad
+@W8mannUniverse
+@animatedalbumcovers
+@keytone77
+@SanctuariumMetalli777
+@BlackforgeMetal
