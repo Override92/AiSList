@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60158
+! Total Channels: 60153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17679,7 +17679,6 @@
 @YakutNomadStories
 @TheCorporateSystem
 @MoneyTruthTV
-@StormTrooperVlogs
 @SoulfulRhythmsLofi
 @Pluviophile_Lofi
 @YumiDreamsMusic
@@ -46869,9 +46868,7 @@
 @eldrynglobal
 @openviewtv
 @EverlightFilmsAICinema
-@CarbeniaTales
 @AXMofficials
-@monika_ai293
 @EchoCorEAart
 @AndroLectric
 @OlympusMovies-k6t
@@ -46889,13 +46886,11 @@
 @ARkhan-t9b
 @DaljitKaur-h7h
 @didyouknow1385
-@hoodbabyztv
 @patrickhernandez785
 @2001MiWorld
 @ScarletDoll-o3h
 @viralkidaivideos
 @MXOStudio
-@CutePetAI-q1s
 @AletheonAI
 @77chrisosullivan
 @Promptocracy
