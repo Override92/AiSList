@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60734
+! Total Channels: 60744
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60750,3 +60750,13 @@
 @nevergiveupanimations
 @%EB%A7%8C%EB%B3%B5%EC%83%81%ED%9A%8C-f5t
 @Stiqnity
+@DesmontandoOMundo
+@OthersideNarrations
+@Brictherobot
+@HumanValor-t9r
+@GalaxiesHumansHFY-w9n5j
+@LeoValenti-i68i
+@science-consciousness
+@NotDevology
+@DominionReport-y3d
+@MysteryVaults-h6r
