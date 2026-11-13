@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60260
+! Total Channels: 60261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40520,7 +40520,6 @@
 @ElapsedYT
 @alexmercuuk
 @DeutscheTechnikgeschichte
-@bandintellect
 @TheFourQuestions
 @BeforeUsTribe
 @ForgottenHustle
@@ -60276,3 +60275,5 @@
 @hollowcreekpreacher
 @vantabluehistoria
 @badscenario26
+@hadronscope
+@prof.nikanor
