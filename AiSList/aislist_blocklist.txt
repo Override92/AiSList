@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60156
+! Total Channels: 60157
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22214,7 +22214,6 @@
 @kvmamathareddy
 @GigglePlanet7
 @CalmAi_Explorer
-@Nur-AAI
 @DanianVreugd
 @ronitaaicreator_21
 @aicook09
@@ -60172,3 +60171,5 @@
 @hinddocumentary-3d
 @leitbuilt
 @theforbiddenarchives-01
+@星星故事會-r2y
+@2bmgaming
