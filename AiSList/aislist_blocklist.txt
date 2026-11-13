@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60884
+! Total Channels: 60886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41171,7 +41171,7 @@
 @SacredhiddenStories
 @TheNeonQueens
 @Deeper_than_night
-@NevaehRoseOfficial
+@thecozyhoursofficially
 @Nectrix-z7k
 @LunaVale-st
 @Oliviavelogs
@@ -60900,3 +60900,5 @@
 @Mr.SatireMan
 @Mr_DRMX
 @PulsarFusion
+@um_style_music
+@vigdiseiryn
