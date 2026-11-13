@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60626
+! Total Channels: 60636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60642,3 +60642,13 @@
 @LovingThisFood
 @HFYALERT
 @TheSolChroniclesHFY
+@HFYSleepRelaxAlbum
+@HFYFirestorm-s1l
+@HFYTalesHQ
+@EarthfallHFY
+@HFYDeepSpace-x1c
+@dominicseow
+@HumanityUnleashed-w3f
+@GalacticStoriesHFY-l9z
+@HumanPrimeHFY
+@jfoli12
