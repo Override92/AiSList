@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60297
+! Total Channels: 60292
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46981,7 +46981,6 @@
 @XxCaoDeBrigaxX
 @VAces
 @brettcooper7788
-@dreammakerlab
 @LoreTone1
 @HomeBottego
 @theracingguru3271
@@ -46993,7 +46992,6 @@
 @filmmm_zone
 @AzielObryngameverse
 @HakawyAflam
-@Thegreatvortexwizard2.0
 @Half_a_hamburger
 @deepframelabs
 @Limbomundo
@@ -47030,13 +47028,11 @@
 @orkhanbalashdarkness
 @KiranCalm-ASMR
 @UM1000-t2x
-@TVFrameArtChannel
 @theultimatehausernewschann9971
 @AuraMenS
 @MeteoMusic
 @EtherealKingdom-o1p
 @aiventurespot
-@RaynesAI
 @aimanifest
 @EllariaRiseofLegends
 @GhibliNatureWhisper
@@ -47073,7 +47069,6 @@
 @%E5%8F%A4%E7%9F%AD%E5%89%A7%E5%9C%BAAncientShortDrama
 @Mylisaadol
 @CandyBellyAi
-@VisualMeltASMR
 @TrendreactHQ
 @AI4Next
 @promptblueprint
