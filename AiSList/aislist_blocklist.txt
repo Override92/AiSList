@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60249
+! Total Channels: 60259
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60265,3 +60265,13 @@
 @UnknowTVOfficial
 @PlanetPalsTVshow
 @StrangeButTrueSci
+@GlobeWarz
+@whatifitaliano
+@NOTREXIE
+@GaiaArtProductionsOfficial
+@talktolaura
+@whatifchinese
+@BelowTheLightOcean
+@IFologynist
+@The-MissingSignal
+@XHood0
