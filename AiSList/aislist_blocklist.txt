@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60295
+! Total Channels: 60290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47072,7 +47072,6 @@
 @TrendreactHQ
 @AI4Next
 @promptblueprint
-@AnabransToonTV
 @CampfireDunedain
 @Ringbearer07
 @RealmsUnravelled
@@ -47081,7 +47080,6 @@
 @thesleeplorians
 @The.Lore.Seeker
 @InfiniteNarratives123
-@AudiobookatNight
 @RealmOfT
 @BedtimeLoreoftheRings
 @TheSonicLibrary
@@ -47105,10 +47103,8 @@
 @StoryScapeAudio_Official
 @ClassicAudiobooks-u3m
 @CivilisationsOubli%C3%A9es-c8r
-@TalesfromArda
 @ChugguYeoljeong
 @Deepsleepstories-o3b
-@Gaming458-c8r
 @BIBLESHORTS-c8r
 @BibleShorts-ai
 @BibleScoop
@@ -47120,7 +47116,6 @@
 @BibleStoriesAI.01
 @BibleStoriesAnimatedr
 @BibleStoriesArtificial
-@BiblestoriesGodisrealai
 @biblestoriesinaislens
 @BibleStorieswithAI-j8
 @BibleStoriesPowerfulPsalms-l3p
