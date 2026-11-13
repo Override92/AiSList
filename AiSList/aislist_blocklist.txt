@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60280
+! Total Channels: 60275
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -47285,7 +47285,6 @@
 @ConqueredHFY
 @ScarsintoStories
 @HFYSciFiRelic
-@HFYLucidNeon
 @MIDNIGHTARCHIVE-official01
 @hfyhumanity-v4m
 @HFYSci-fiStory5i
@@ -47302,7 +47301,6 @@
 @LifeLessonsDrama
 @TheHFYunfold
 @ughumanHFY
-@TheLastChroniclerHFY
 @igorgerasimoc5144
 @Sci-FiCompass72
 @GalacticIncident
@@ -47314,7 +47312,6 @@
 @GalacticStoryTime-z7s
 @HFY-Galactic-q9g
 @HFYGalaticWarStories
-@DarkFrontHFY
 @HFYStoriesExtra
 @SmileHFY
 @MytharaHFY-x7q
@@ -47331,12 +47328,10 @@
 @TerranCosmicFury
 @LegendenvonHfy
 @VermilionGateHFY
-@HFYHomeworldCubs
 @HFYSciFiRealm
 @StarClashHFY
 @GritBurstHFY
 @RimeRageHFY
-@HFYStoryForge22
 @Hfy_Scifi_Legends
 @SciFiTales1
 @hfyastralpulse
