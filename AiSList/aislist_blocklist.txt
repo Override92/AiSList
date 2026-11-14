@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61153
+! Total Channels: 61154
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2412,7 +2412,6 @@
 @supercats-i4j
 @meowkittenie-k9l
 @fuzzybuddyanimation
-@cataianimation-r6s
 @meoowtoonstudio
 @bdanimation20
 @ai-cat-producer
@@ -61169,3 +61168,5 @@
 @thegeniusmoves
 @curiousjourneyspace
 @thereckoningbegins-x7d
+@retrofuturaofficial
+@atladotempo
