@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61251
+! Total Channels: 61261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61267,3 +61267,13 @@
 @AfricanStoryUniverse-d4y
 @MTR-AUTO
 @AfricanTalesbyImani141
+@DongengAI-2026
+@AIadaa_0
+@ChinaTech-CLS
+@aianimation-d4k5z
+@MaterialsThatChangedEverything
+@AiAnimation7908
+@PulseMusicAsia
+@AIAnimationForKids2025
+@squirrel-universe-ai
+@AIAnimationSeries
