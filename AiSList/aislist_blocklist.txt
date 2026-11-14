@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61152
+! Total Channels: 61153
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41443,7 +41443,6 @@
 @BoringHistoryUSA67
 @ArloHiddenHistory
 @HistorySomnia
-@KernelFaultHistory
 @PeopleFromHistoryYT
 @historyofafrica07
 @PillowTalkHistory-h7h9
@@ -41474,7 +41473,7 @@
 @TonyTalksHistory99
 @111AMHistory
 @echoesofancienthistory8
-@The-Secret-History-of-Things
+@wydzialnocny
 @paintedhistory67
 @darkhistorydaily21
 @OldMoneyPenny
@@ -41520,7 +41519,7 @@
 @PeleExplainss
 @SquireExplains
 @howgiantbegan
-@povempire_US
+@autobuan
 @EmpireAnimationsINC
 @MindStick-h9k
 @Simplyyyeasy
@@ -61168,3 +61167,5 @@
 @B.C.-A.D.HeavyMetalChronicles
 @EduardoJRodriguez-t8y
 @thegeniusmoves
+@curiousjourneyspace
+@thereckoningbegins-x7d
