@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61587
+! Total Channels: 61597
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61603,3 +61603,13 @@
 @Bajwaanimation
 @aihindistoryanimation12
 @ArfeenCinema
+@EpicBitesAI-v6j
+@aishorts-i6f2o
+@AICatCooking-x7v
+@ai_Cooking0
+@LittleCookWorld-j9y
+@DreamKitchenAI-t1l
+@TaleriumAistories
+@CozyGhibliArt
+@Ghibli_Village0
+@SundayMorningBoyfriends
