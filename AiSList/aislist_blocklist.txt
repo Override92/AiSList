@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60927
+! Total Channels: 60937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60943,3 +60943,13 @@
 @AlphasRoyalLore
 @AlphaMoonboundChronicles
 @dramavillagebox
+@RiseoftheAlphaKing
+@AliceRomanceStories
+@thisplotgotme
+@Quick-Drama-w3d
+@PrimeRuler9
+@MonsoonDrama
+@thealphaluna
+@ObsidianRomanceRise
+@AriaLopez-i9z
+@MoonsAlphaRomanceStories
