@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61395
+! Total Channels: 61393
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8921,7 +8921,6 @@
 @NinjaEconomicCollapse
 @SeniorInsight60
 @Fixvival
-@ForgottenDiscoveries2026
 @DoctorSusanMiller
 @Canadainsider-k5q
 @FollowingChrist-6886
@@ -13608,7 +13607,7 @@
 @rootfiretales
 @MamaKamithestoryteller
 @Storiesandtalesnetwork-m6f
-@AKSStudios.A
+@atlasframe-p7g
 @WHISKORAMOVIES
 @emmanuelstales
 @TaleNovaAfrica
@@ -22277,7 +22276,6 @@
 @moodloopsai
 @TheEarthUnbound
 @FredFroeseAIFilms
-@QuietLittleTowns
 @SurrealDreamy
 @Unrealideas
 @TheLiminalGarden
@@ -22340,7 +22338,6 @@
 @HausaStoriess
 @Nbancineluxe
 @Afro-KoreanSeoulStories-97
-@K-Dpop-w
 @SecretsoftheKoreanMafia
 @AfroKoreanFilm
 @DarkRomanceStudio
@@ -61411,3 +61408,4 @@
 @motherland_stories01
 @赵壮壮-l1o6c
 @themovieloudge
+@dhuntoldfacts
