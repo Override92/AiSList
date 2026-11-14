@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61407
+! Total Channels: 61402
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3144,7 +3144,6 @@
 @Motivandohastaeléxito
 @Raizmental01
 @MenteenMovimiento-l8x
-@YokoiKenjiPsicología
 @HumanidadPrimero
 @Zen_Vibes_Station
 @Voces-Africanas
@@ -3575,7 +3574,6 @@
 @eltioreal
 @porquesextranos
 @motivandohastaelexito
-@yokoikenjipsicologia
 @luincelticmusic
 @detrasdelmercadofinanzas
 @exploradorcuantico
@@ -4608,7 +4606,6 @@
 @SilverGoldAnalysis-f7q
 @ashwinmahesh3793
 @signaldeargent
-@EconomicTales-v1y
 @Nerdtown-e5m
 @W.A.RMedia
 @MarketAcme
@@ -41494,7 +41491,6 @@
 @CedricCallahan-m8o
 @IsabellaWren-g7u
 @psynovastar-v4m
-@RenownedGrace
 @mostafahatem-m5m
 @DDOR
 @SimplyCurious-2004
@@ -47657,7 +47653,6 @@
 @KlugePsychologie
 @CRYPTIS1
 @PoliticalLife-y1p
-@LastToybox
 @CosmicWhispers-k3v
 @TheUKCurrent-f5v
 @SamAncientWorld
