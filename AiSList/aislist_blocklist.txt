@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60966
+! Total Channels: 60975
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60982,3 +60982,12 @@
 @NathaGophane-h5z
 @AlphaMoon-i9n
 @UGBADALI-n6w
+@TertuliaDram%C3%A1tica
+@Caja-Minidrama
+@VampireKingEmpire-y6n
+@AlphaVortex-z6f
+@quynhtravel22
+@KingsoftheMoon
+@AstraDrama-h5e
+@PFM_Shows
+@PrimalWisdom9
