@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61241
+! Total Channels: 61251
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61257,3 +61257,13 @@
 @AfircanStoriesTv
 @keikomori-i8i
 @AfricanLoveTalesTv
+@TastyWorld-z4i
+@AfricanManAiChannelsTv
+@JiglooWorld
+@Africanmotivationalstories-e1f
+@wildgaze-ai
+@AfricanStoryHub360
+@DIBALIKCERITA-D1a
+@AfricanStoryUniverse-d4y
+@MTR-AUTO
+@AfricanTalesbyImani141
