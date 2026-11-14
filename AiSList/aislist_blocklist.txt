@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61343
+! Total Channels: 61353
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61359,3 +61359,13 @@
 @HiroAIstorys
 @SamurAIStudioHQ
 @AiHimHungry
+@AIUnlocked-f1m
+@timetravel_with_ai
+@AITravelDiaries-01
+@crazyayush1
+@Funnything-j3e
+@Africanstoriesandtalesbyetana
+@Africanstorieshub-p4d
+@Africanstorystudio-m9t
+@AfricantalesbyHermani
+@AfricanTalesbyZagobe
