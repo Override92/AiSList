@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61645
+! Total Channels: 61641
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16050,7 +16050,6 @@
 @OrivonHorizon
 @everypixel-matters
 @AI戏精剧场
-@SPUN_AI
 @UnwindLofiRoom
 @PM-GGH020
 @toneand
@@ -23865,7 +23864,6 @@
 @PaintedClassicTales
 @monumental.shorts
 @japanesemethods-officials
-@thenutrientcodetv
 @eagletraderict0330
 @marketwise-j1e
 @tamannavibes19
@@ -27920,7 +27918,6 @@
 @MannersMattersChannel
 @StoicTraining
 @StoicLethobel
-@WhileTheresTimeWisdom
 @StoicRelationship
 @StoicMindsetAcademy1
 @senior_rise
@@ -29021,7 +29018,6 @@
 @miniseriessanookjang
 @dailyminiseries-j2z
 @thelasttransmissionchannel
-@tinytearstv
 @arabella.vs.celebrity
 @nixwareek
 @TheHYFUnleashed
