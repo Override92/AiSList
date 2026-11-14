@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61188
+! Total Channels: 61190
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8646,7 +8646,6 @@
 @Kiraslovestories
 @KindredEchoStories7py
 @Afrotales1
-@TalesbyJazmyn
 @helenfairytales2023
 @Creat0rMusicChannel
 @Icytransformation66
@@ -61204,3 +61203,6 @@
 @thegoodtakeoff
 @NaughtyTalesbyBala-p8w
 @HeavyMetalOrchestra
+@nebulifegame
+@oldamericahank
+@holdzofinance
