@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61503
+! Total Channels: 61513
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61519,3 +61519,13 @@
 @designzion
 @MSeriesStudios
 @chefverseai-c6t
+@MGAIstudio
+@FilmsIAFR
+@AshuKumar-q5j
+@AjitSharma-fi6qm
+@AI_LOL_Factory-x3d
+@FunnyAiFactory29
+@NepaliAIJokes
+@CuteHeroWorld
+@wonderstorystudio-x2e
+@IdreesKhan-l4g3f
