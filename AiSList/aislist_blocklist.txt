@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61403
+! Total Channels: 61398
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -993,7 +993,6 @@
 @cutecatshortsai
 @catbloomai
 @aicats87
-@cutecataifantasy
 @9cuteaicat
 @aicatdaily22
 @cutecatofti-k2c
@@ -4928,7 +4927,6 @@
 @RobinhoodInvestor001
 @WorldFinanceHistory-3
 @FandomTopics
-@Wiedzaoczasie-Polska
 @PrawdaOPieniadzach
 @BeasTube_N1
 @FilozoficznaRzetelnosc
@@ -9585,7 +9583,6 @@
 @TheHiddenEconomy2.0
 @mercyisromancetales
 @TheYesterdayVault
-@politicalfallout10m
 @quizonaofficial
 @revengequeen3
 @thedoctrineco
@@ -47651,7 +47648,6 @@
 @PoliticalLife-y1p
 @CosmicWhispers-k3v
 @TheUKCurrent-f5v
-@SamAncientWorld
 @%EB%A0%88%EC%8A%A4%EA%B8%B0-e9v
 @KrishnaTalks%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE
 @helloexplainer-r8u
@@ -47755,7 +47751,6 @@
 @WeirdlyWired-e5n
 @ScienceUncoveredd
 @WheelWisdom-v7z
-@silentpsychology-s8f
 @Elitecars-r7u
 @christofferskoog9210
 @britrewind-d6u
