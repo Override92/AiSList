@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61301
+! Total Channels: 61311
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61317,3 +61317,13 @@
 @beyondtales-us
 @BibleTalesT
 @BrightSideAmerica
+@cataivideo98
+@catflixai_official
+@CynthiasAfricanFolktales
+@GhanaTwistMovies
+@Lipsykiss-tv
+@MaureenKamso
+@RaGoWithAi
+@REAl_A.I_YT
+@SAflixer
+@TanrajCreates
