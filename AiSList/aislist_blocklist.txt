@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61028
+! Total Channels: 61038
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61044,3 +61044,13 @@
 @Duc_Lab
 @SecondLookTM
 @darkcountry77
+@frontiermysteries
+@MafiaBossMe
+@NOCRAZYLINES
+@EnglishMediumStories
+@KdramasRecap
+@pinoyxstorya
+@RomanceGrove
+@VictorianRoyalsStories
+@Dukesroyalchronicles
+@meganshifterromance
