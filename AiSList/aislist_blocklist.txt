@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60995
+! Total Channels: 61005
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61011,3 +61011,13 @@
 @wildwest-n1u
 @TheCowboyChronicle-yt
 @WildWestSundust
+@CowboyDustMemory
+@WesternDesire-youtube
+@CowboyDusk
+@BulletsBallads
+@StoriesLeftBehinds
+@FrontierJusticeStories
+@MountainOath
+@OldWestShortStories
+@SurvivalChronicles-l5r
+@wellspire-c5q
