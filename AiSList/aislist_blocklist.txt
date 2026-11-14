@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61494
+! Total Channels: 61503
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61510,3 +61510,12 @@
 @DonutDrama-o6d
 @SerenTale-v7b
 @LoveatFirstFrame
+@RevengeSagas-v1m
+@DonghuaRecapFilipino-c7j
+@Indiana-Ai
+@rk-gaming7-l7b
+@Abdullah0707-m1b
+@SobuzVerse
+@designzion
+@MSeriesStudios
+@chefverseai-c6t
