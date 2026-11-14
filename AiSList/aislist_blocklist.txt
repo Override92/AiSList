@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61186
+! Total Channels: 61184
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3145,7 +3145,6 @@
 @Raizmental01
 @MenteenMovimiento-l8x
 @YokoiKenjiPsicología
-@SabiduríadeJung
 @HumanidadPrimero
 @Zen_Vibes_Station
 @Voces-Africanas
@@ -3572,7 +3571,6 @@
 @ai.darkhorizon
 @movie_shortssss
 @hfy_en_espanol
-@derracheresp
 @eltiofrontal
 @eltioreal
 @porquesextranos
