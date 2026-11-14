@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61118
+! Total Channels: 61128
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61134,3 +61134,13 @@
 @starenvelop
 @NsibidiFablesProduction
 @RealAfricaTales-j6s
+@FolktalesbyFirelight-d4h
+@CinematicStoriesStudio-j5j
+@icliniq
+@NeuralBeats-w2m
+@realtoon-b7c
+@AVADHESHKUMAR-v3e
+@%EB%A7%88%EB%96%BC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
+@HighwayTrooper
+@SantasticAI
+@AiMinicookings
