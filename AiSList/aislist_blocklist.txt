@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61108
+! Total Channels: 61118
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61124,3 +61124,13 @@
 @PaidForwardStories
 @StoryVerse-f2v
 @storytime-s5x
+@AhamadullaHasan-jk6yd
+@StilleHelden-v7i
+@TheMidnightArchive-y9g
+@ComfortTales-c7p
+@G%C3%BCtekommtzur%C3%BCck
+@Herzgeschichten-k7d
+@FloraTales-y9b
+@starenvelop
+@NsibidiFablesProduction
+@RealAfricaTales-j6s
