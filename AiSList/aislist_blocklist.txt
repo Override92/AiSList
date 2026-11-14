@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61636
+! Total Channels: 61637
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42046,7 +42046,6 @@
 @TinyAIKitchen_1
 @GiftedStorylineStudios
 @AkademiSiapAIIndonesia
-@FoodUniverseAi
 @AI.Films2026
 @AiIslam360AiIslam36
 @AIMagicWorld-122
@@ -61652,3 +61651,5 @@
 @VANGUARD-w2n
 @aidaramaworld_n5h
 @ineffablekarsh
+@acstoriestv
+@alchemy_media
