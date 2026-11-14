@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60918
+! Total Channels: 60917
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34762,7 +34762,6 @@
 @creation_current
 @ManvsEarth-p2w5r
 @itsStoriesAncients
-@DivineMoviesENG
 @Divinecode25
 @WisdomEvolved256
 @GizemLaboratuvar%C4%B1
@@ -41296,7 +41295,6 @@
 @BattlefieldHypotheses
 @AnalysisAndReports
 @rvwithhank
-@ringsideremix
 @生活防衛術
 @gizemlaboratuvari
 @historiasepicasbiblia
@@ -60934,3 +60932,4 @@
 @AlphasForbiddenMate
 @MidnightThirstStories
 @AirbooDrama
+@strataaaa
