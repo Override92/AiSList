@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61068
+! Total Channels: 61078
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61084,3 +61084,13 @@
 @SlowBurnRomanceStories
 @feralheartslibrary1
 @TheSpicyPodStories
+@PoojaVoiceStory
+@alphamoon26
+@FantasyStories13
+@Chipsdrama368
+@yawn-channel
+@SonicAudioBook
+@FreeFantasyAudioBooks
+@TheDragonsLibraryYT
+@FablesofFae
+@Abhinovelworld
