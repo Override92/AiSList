@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61426
+! Total Channels: 61436
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61442,3 +61442,13 @@
 @ScreamingEdge
 @VEXLUX1
 @aicreatedvideo-u9s
+@BrygenAI
+@AINepalHub
+@WatchWithLucky01
+@Averon-g4b
+@AIArtMagic-m7v
+@Niteshparve
+@WOODCARVING-u4c
+@Aminashahzadi_ai
+@AIHOUSEMADE-g6e
+@YasinAIStudio.f4
