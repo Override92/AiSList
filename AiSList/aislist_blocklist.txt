@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61406
+! Total Channels: 61405
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44185,7 +44185,6 @@
 @wroken
 @WintaGroove
 @CaveStoriesOfficial
-@neuronautics_Lab
 @TechnicalKaramSingh
 @TurboDriveAvenue
 @DirectorPsycho
