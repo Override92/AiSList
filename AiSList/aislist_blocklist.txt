@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61626
+! Total Channels: 61636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61642,3 +61642,13 @@
 @VoxEternaMusic
 @Orferus
 @NoctivaraSymphonicMetal
+@IronHowl-u6g
+@OrionProjectOficial
+@TheMetalCornerAI
+@MichaelAnderson-x8d
+@HiddenSaga-q7y
+@TrueStoryMovie-z7o
+@SYN-RISE-music
+@anjaliwaiba6264
+@BAM-SORYN
+@MaxMakesAIMusic
