@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61058
+! Total Channels: 61068
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61074,3 +61074,13 @@
 @thestoryhaven68
 @FamilyRevengeStories
 @FelicityRomanceStories
+@RomanceStoryNarrator
+@TheRomanceStories
+@GildedAgeLoveStories
+@RomanceStoriesss
+@FullNightLoveStory
+@TiannaLoveStories
+@loverscove
+@SlowBurnRomanceStories
+@feralheartslibrary1
+@TheSpicyPodStories
