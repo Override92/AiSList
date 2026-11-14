@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61399
+! Total Channels: 61408
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61415,3 +61415,12 @@
 @Kaldrsong
 @dikaratasmusic
 @sumtin4nuttin
+@Confessions-s5m
+@Sundownranch
+@JohnnyJackson-k8j
+@%EB%BD%80%EC%82%90-z5p
+@GotchaaCam
+@SmoothJazzVibes-c5m
+@PNAEntertainment-y9k
+@WWIIFrontlineStories-m9x
+@%EC%9A%B4%EB%AA%85%EB%8C%80%EB%A1%9C
