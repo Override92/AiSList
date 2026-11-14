@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61484
+! Total Channels: 61494
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61500,3 +61500,13 @@
 @nomanAi_Vlog98
 @KrishnDevAIstudio
 @RoyalCybernetics
+@ELITEPSYCHOLOGY-t2b
+@FiveminutesAI-n5c
+@HeartDramaFever-v8o
+@UnbrokenCrown-w4c
+@ReinodosDramas-s5x
+@byulnabee
+@FlashDrama-f5x
+@DonutDrama-o6d
+@SerenTale-v7b
+@LoveatFirstFrame
