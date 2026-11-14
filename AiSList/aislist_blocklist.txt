@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61580
+! Total Channels: 61587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61596,3 +61596,10 @@
 @kidsstory-o3y
 @Ai_chefwala
 @VipinThakur-u7z
+@aikidsstoryofficial1
+@miku.aifilms
+@clayfun3
+@Chotuchef-16
+@Bajwaanimation
+@aihindistoryanimation12
+@ArfeenCinema
