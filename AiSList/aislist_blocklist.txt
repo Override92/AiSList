@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61398
+! Total Channels: 61399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23850,7 +23850,6 @@
 @fantasyheart
 @docdrift
 @orsonwild1
-@bettystorytales1
 @free_fire_pb07
 @strangestoryfiles
 @novatales-e1l
@@ -47755,7 +47754,7 @@
 @christofferskoog9210
 @britrewind-d6u
 @UNveiled-h1k
-@UnsolvedUSA-j1l
+@unsolvedusacases
 @TheMaking-r9d
 @Wetube-i4o
 @EchosdesKosmos-w4l
@@ -61414,3 +61413,5 @@
 @carljungsschlussel
 @taglichemotivation-j6m
 @coeurdelune-d1s
+@jackswesterntales
+@きの-y4o
