@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61393
+! Total Channels: 61403
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61409,3 +61409,13 @@
 @idolcarvings
 @GNGStudioBots
 @SyntheticCinemaAI
+@svirone
+@CityAges
+@SuperPurpleAI
+@Marvel.ai.official
+@Marvel-AI-777
+@GhibliVideo_07
+@neogoolee
+@Dhiraj_945x
+@aicinematicuniverse786
+@Veri-AIStudios
