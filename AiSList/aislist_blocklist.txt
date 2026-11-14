@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61389
+! Total Channels: 61399
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61405,3 +61405,13 @@
 @shadowxgaming89
 @ironroadguardians
 @merakimoon_official
+@BoundlessLegends-y8c
+@WarpTaleStudio
+@TheRealSlimBoni
+@EarBlissOfficial
+@S7M-Music
+@JoverseRecords
+@Evyara_music
+@Kaldrsong
+@dikaratasmusic
+@sumtin4nuttin
