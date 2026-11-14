@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61406
+! Total Channels: 61404
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4778,7 +4778,6 @@
 @GentleVengeance
 @cat_telltales1
 @SingleDadStories10
-@MothersRevenge
 @StoriesofVengeance
 @FixRevenge
 @motors2569
@@ -9234,7 +9233,6 @@
 @ClaudioAIArtSound
 @windsofavalon
 @airetrofuture1
-@CosmicVideoAI
 @ArmoryAtlas-11
 @Cozy_Jazz_Tunes
 @brielleromancestories
