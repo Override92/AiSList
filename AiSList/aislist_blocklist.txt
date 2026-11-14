@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 60975
+! Total Channels: 60985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60991,3 +60991,13 @@
 @AstraDrama-h5e
 @PFM_Shows
 @PrimalWisdom9
+@Sci-FiVoice
+@The_HFY_Vault
+@RealCaptainHFY
+@HumanityPeakHFY
+@BlackCaptainHFY2K26
+@interestingscifistories
+@HyperGalaxyHFY
+@Littleadventurersbyakosua
+@RroyalHeritage
+@EnduringElegance-r9j
