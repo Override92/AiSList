@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61281
+! Total Channels: 61291
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61297,3 +61297,13 @@
 @AIJB-m2d
 @Robloxmontero
 @AIKidsCartoon-0
+@FlicksinFocus2.0
+@AIKidsCartoon-AI
+@AnimalVerseAI95
+@AIKidsCartoon0.1
+@aikidshub
+@AItruth-o5g
+@AiVipin-d5l
+@AIwithRajan-h4s
+@aiyarn88
+@AIyellowduckkidscartoon
