@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61641
+! Total Channels: 61636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5213,7 +5213,6 @@
 @MorgueSecrets
 @StoriesOfOurLife_1
 @SarahsLifeTales
-@TheStoryNook-c7x
 @Vintagesoulstories15
 @Wild_Western_Dreams
 @BaylessDAmbra
@@ -5722,7 +5721,6 @@
 @her-life-storie
 @forbiddencamp
 @notsuitguy
-@profjiang123
 @fabiendekosmos
 @ArcticSurvival-tv
 @FarmerTales_YT
@@ -7907,7 +7905,6 @@
 @FurRiffStudio
 @Timeless-Investing-q
 @Value-Voyager
-@MoonwaveLoFi-j3m
 @Objectionai
 @ASMRAiLabs
 @Smokysdreamlab
@@ -7944,7 +7941,6 @@
 @rondonfusebox
 @theinstinctinvestor
 @RETAILMORTIS
-@updatefanpage
 @FrontlineReport-b5z
 @AIInsiderTalk
 @InsideBuffettMind
@@ -13823,7 +13819,6 @@
 @OldOakGardening
 @Mr.Mistiq
 @justrewind939
-@LoveHubbyMagdaKay
 @HONORLINE-j2i
 @MurthyFinanceAcademy
 @PlagueTimeASMR0707
