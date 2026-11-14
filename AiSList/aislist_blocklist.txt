@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61637
+! Total Channels: 61636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41764,7 +41764,6 @@
 @Badri_But_AI
 @biblestoriesmadewithai
 @PLAYDUNE4877
-@hashuandfatmo
 @ONUMOVIES
 @abdullahrajparofficial
 @Aimastiworld-o4h
@@ -41881,7 +41880,6 @@
 @AIChef-z4y
 @FSAistudio-7
 @ZELQYON
-@African-T
 @ExploreHistorywithShahid
 @MrAIToonz
 @TinyVillagekitchen-j9s
@@ -61653,3 +61651,4 @@
 @novaexplainstv
 @VANGUARD-w2n
 @aidaramaworld_n5h
+@ineffablekarsh
