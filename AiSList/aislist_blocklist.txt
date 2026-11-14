@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61363
+! Total Channels: 61373
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61379,3 +61379,13 @@
 @AIStorytellingAfrican
 @ClearBibleChannel
 @Danielsuniverse1
+@hillzafricantales
+@HypeofSecrets
+@INTERESTINGTALES-g3L
+@Jimmy-c8k6j
+@KhalidAIVlogs
+@mclewiz
+@Mirandantale
+@moonlighttales245
+@MOVIEBOXAI-01
+@NextGenUSAVlogs143
