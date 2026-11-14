@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61211
+! Total Channels: 61221
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61227,3 +61227,13 @@
 @ClaytonGingrich
 @pedrobuildsai
 @WhiskerWillow-l4n
+@ai.bybogdan
+@codychesscoach
+@Cinematic_Timeline
+@DarkMinuteStories-DMS
+@See_Awareness
+@OnceUponAnIf
+@sheyAi_Studio
+@HumansBackThen
+@NOSY_GUY
+@thebronzewake
