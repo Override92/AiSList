@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61641
+! Total Channels: 61636
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19328,7 +19328,6 @@
 @SurfGeier
 @OrchestralMasterpiece
 @SeniorBenefitsOwen
-@BenefitsWithSophia
 @BoydClewis
 @JohnMartinII
 @GeniusFlashcardsApp
@@ -26685,7 +26684,6 @@
 @quietjazzrooms
 @MarkRoberts-w3k
 @AIFlavorStudio
-@kiranbeatshindi
 @novelrextv
 @FishermanSculley
 @hypeuniversal
@@ -26803,7 +26801,6 @@
 @AMQAiFusionLegend-P1
 @maigenerator
 @AICatDaily-d8v
-@MRCOMEDYAI-o5h
 @Pankajtech2550
 @ANAS-d9w6h
 @MeowTechAI-e1z
@@ -44275,7 +44272,6 @@
 @Roadside-Justice
 @NewsNowToday-f4v
 @JRMotivation-n7s
-@LivingLifeTalesy
 @InstantTipsDaily43F
 @LifeMadeSimple68G
 @MechanicSecretsLab
@@ -44324,7 +44320,6 @@
 @SensorToShelf
 @DadHiddenTruths
 @Voltmind-o7t
-@HiddenTruthsTV-q1t
 @akari_sasayaki
 @TheFutureArchivesTV
 @ReSound_Gaming
