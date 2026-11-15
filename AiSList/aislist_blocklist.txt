@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61635
+! Total Channels: 61630
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19367,7 +19367,6 @@
 @MarcusExplainsHQ
 @WorldofstoriesTv1
 @luvrgrlmusic
-@nicemen.6276
 @KINGFATBOY1
 @EchoesOfTheForceYT
 @Dude.LongLife
@@ -19599,7 +19598,6 @@
 @Sci-FiLines
 @JNagaraj-f3t
 @MakeAiGreatAgain1
-@OnTheRecord-q6s
 @DiaryInfluencer
 @GrowWithKaz
 @BrainBracket
@@ -19616,7 +19614,6 @@
 @apetcareguide
 @PurrfectCareTales
 @DNARevaliation
-@TheHiddenCat-US
 @Growwfruit
 @Manhwa_StormX
 @hellopetcarevet
@@ -22843,7 +22840,6 @@
 @jiashustroy
 @masteringaitool
 @asmrexpert-k1o
-@gouruera120
 @therankempire
 @canada2050-s1i
 @mycatstoryland
@@ -44342,7 +44338,6 @@
 @CaesarsBeats
 @AskJoanWhitaker
 @impactfactoryai
-@Aura.StudioYT
 @Hellboy-c2q
 @AskBarry
 @ThePromptShow
