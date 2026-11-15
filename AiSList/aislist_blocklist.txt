@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61639
+! Total Channels: 61634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48754,8 +48754,6 @@
 @SarahAIFilms
 @ParallelFM-music
 @Pravielle
-@neuralafterglowstories
-@PBC.BibleStudios
 @DarkX-888
 @DramaPop-h9g
 @GyansOfGaruda
@@ -48799,7 +48797,6 @@
 @dewdropsstudio
 @DreamAndDesireAI
 @voidwestmusic
-@AstralSoulAwakening
 @ghost_frame_clips
 @RX-Howl
 @StefZakofficial
@@ -48841,7 +48838,6 @@
 @EricL-bj6jx
 @PsychedelicWesternRock
 @thrll
-@AmbienceRelaxingMusic001
 @DivineBibleStories1
 @1111RockRealm
 @professor-grimoire
@@ -48858,7 +48854,6 @@
 @gyaanssagar
 @Drum_and_Rise
 @HistoriadorRomano
-@QuantumDiveNew
 @studioveloscuro
 @DarkBluesNotes
 @DreamAddictionMusic
