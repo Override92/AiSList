@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61630
+! Total Channels: 61627
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19565,7 +19565,6 @@
 @ai_asmr_hub09
 @abrokeproducer
 @TrainFunTv
-@AiVibeStudio_2
 @FruTopiaStories1
 @Fruitopia-k5s
 @Zonex_Alpesh
@@ -19580,7 +19579,6 @@
 @AiASMR-v8m
 @Aiman_0619
 @AITLDR
-@Skelly_Explains
 @TwinkleTales0407
 @KING-AIFruitopia
 @weirdai-786
@@ -19621,7 +19619,7 @@
 @allneedknow
 @TheEnglishDogtor
 @AINatureGrow-l5p
-@Aitravelnomad
+@sirdanishkhanresercher
 @FluxMusic_uc
 @SatisFyX19
 @NoorNoor-n7q9v
@@ -35502,7 +35500,6 @@
 @tom2_live
 @easy_pace
 @yourstorywins
-@aalamansariwild
 @mrwhy99-j3w
 @DARKSTARSCIFI
 @Duke_Romance_Diaries
