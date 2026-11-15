@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61637
+! Total Channels: 61635
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42917,7 +42917,6 @@
 @VibeWithRonTV
 @KYLARMAX15
 @RomanceDecoded
-@SamuraiBusinessFiles
 @Birdking_ai
 @MunManhwa-f8z
 @TheBusinessEconomics
@@ -43152,7 +43151,6 @@
 @AURALUXmusicAI
 @Machiavelli_Perspective
 @konvosdj
-@WomenofFaith-yt
 @EternalWisdomLedger
 @TripHopDreams-z5j
 @JS-EDM
