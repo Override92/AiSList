@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61636
+! Total Channels: 61638
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61652,3 +61652,5 @@
 @nord-s5g
 @dreamvalenight
 @how-things-work-tv
+@history_squeeze
+@kakucosmosgod1
