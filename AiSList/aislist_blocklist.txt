@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61633
+! Total Channels: 61628
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48476,7 +48476,6 @@
 @paxan999
 @RahasyadiariesAI
 @quiet-f5y
-@ILYD%C3%81DA
 @DreamyRainNights-123
 @DiosmiEsperanza7
 @EtherealShadows-j1k2g
@@ -48513,7 +48512,6 @@
 @TimberWorkshop-p6h
 @Eldrunamusic
 @RenzoBellano
-@QUANTUMZION1
 @vanDutchNL
 @SweetStory-g8w
 @Velora989
@@ -48552,7 +48550,6 @@
 @Lyra-Rec
 @jun_pabon
 @Khanak.creation
-@Dev_Rahasya
 @ORBITAL_FLOW_FM
 @Worlds.Somewhere
 @KeellaTaylor
@@ -48577,7 +48574,6 @@
 @staticandsugar
 @WhispersOfGraceWorship
 @HomeTransformm
-@sailorsenshimultiverse
 @HeavenlyDirection
 @VOXA_music
 @HypnoticNightSessions
@@ -48603,7 +48599,6 @@
 @TemplarGregorianSanctuary
 @novamusiclab1
 @KeilahMinistry
-@ai_kass
 @HeidelHighlights
 @TakemeEverywhere-lq8zr
 @GoldenMoonFairytales
