@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61630
+! Total Channels: 61625
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48301,14 +48301,12 @@
 @CozyChopASMR-01
 @spiritlantern-t3r
 @Faithigniteddaily-k5i
-@Predicto-q5v
 @VividCapitalist
 @WangXianAudio
 @Jukebox_Fever
 @EmberVale1
 @CoastalMorningJazz
 @RedClassicAdagio
-@TalesoftheOldWest-t4v
 @RabbitOdyssey
 @Musicmoonveil
 @flower_intelligence
@@ -48391,7 +48389,6 @@
 @WereldVanJan
 @SuperheroineStoriesAI
 @GoldenZenGuzheng
-@hfy-hour
 @CalmedCabinAmbience-ddc
 @ChosenDivineVoice
 @TranceMars
@@ -48426,7 +48423,6 @@
 @TheMortalMyths
 @HikariQuietRoom
 @WrathandRadiance
-@EditAura-v6p
 @FaithScripture-t6p
 @RiseShinePride
 @thevelvethourfusion
@@ -48469,7 +48465,6 @@
 @thenumberspublishing
 @ATaleOfTwoHers
 @NOXFOCUS
-@HABIBI2031
 @ChillingCalmMeow
 @RaindropsRelaxin
 @VengefulRebornQueen
