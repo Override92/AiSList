@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61637
+! Total Channels: 61632
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -41628,7 +41628,6 @@
 @kidstorytime464
 @Indianhistory.AI1
 @AfricanTalesDaily1
-@cooking-with-AI-09
 @spidey_on_travels
 @NdichieNdichienaumuada
 @WhiskerFrameFilms
@@ -41776,7 +41775,6 @@
 @DOYOUFILMS
 @promptsdrop
 @aichefofficial
-@KidzLandAI-v2n
 @Quintaple
 @TOTPFGenerative
 @worldstatus333
@@ -42293,7 +42291,6 @@
 @DarkTalesLab-q7y
 @w.f.syourdoctor
 @RainForestSleepAmbience
-@MilitaryHistory-c9b
 @Quizzleo
 @justpastvision
 @just.stars.evolution
@@ -42387,7 +42384,6 @@
 @FAMILYRUMI-x5f
 @clivedobson8656
 @agripodcastai
-@Hulk-d5h3p
 @AnimeAiShots
 @1.4MillionView
 @AiLife-u2g
@@ -42411,7 +42407,6 @@
 @AIPlinyTheElder
 @KageMangaRecaps
 @TheTimeWarpChannel
-@Divinecartoonstudio-3ir
 @Cookingland-ps3zk
 @Kpop-y3g1i
 @akash75atikur
