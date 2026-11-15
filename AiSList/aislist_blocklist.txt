@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61633
+! Total Channels: 61634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42771,7 +42771,6 @@
 @DARKPARCHHAYI
 @MarvelShifters
 @ChayaFrameAiStudio
-@maraym2013
 @PsychologySucces
 @AICinema-j9r
 @BlueButterfly-Yan29
@@ -61649,3 +61648,5 @@
 @BugsBunny-07-h2j
 @DarksideLabTV
 @pufu.crochet
+@lancisius
+@antonio_sabatella
