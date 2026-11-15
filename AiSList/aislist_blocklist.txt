@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61645
+! Total Channels: 61640
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43660,7 +43660,6 @@
 @TheForgottenFrontYT
 @aipoweredmusic1
 @shakerrrAI
-@%E8%8D%92%E5%A2%83%E6%B1%82%E7%94%9F%E5%BD%95
 @AsroadTales
 @Lush-ReelDaily-d6t
 @TKStoryhouse
@@ -48096,7 +48095,6 @@
 @Nickiminiclips
 @TheJadeArchives
 @FaelvoriaHarp
-@luantodd8876
 @manunafilms
 @TonightattheDramas-l9c
 @SOLARISSOUNDS
@@ -48196,10 +48194,8 @@
 @DanijelHajduk
 @DreamyCornerASMR-1415
 @MJRSr-h5m
-@WhispersoftheSoul666
 @SuperCarhome1
 @NicolParisVibes
-@CabinAmbience-w5k
 @hagnyaveslam
 @Sanctum432Hz
 @TheTranceSymphony
@@ -48235,7 +48231,6 @@
 @Kingdom-prayers-p6q
 @ExistenceFootage
 @koutsoujim
-@azramusic409
 @Qiopy-MidnightVinylCafe
 @Potteria_World
 @StrongDuchessLoveStories
