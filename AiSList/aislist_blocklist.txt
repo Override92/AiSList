@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64297
+! Total Channels: 64307
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64313,3 +64313,13 @@
 @shiyi.film.11
 @SynthCinemaTV
 @Half-Nice
+@Kanchana.OnFire
+@Daily_Brain_Melts
+@MastiZoo-US-VL
+@AIMONTU001
+@ChefMouse_USA
+@vihaan2224
+@AKAIEpoxy
+@MalfoidAI
+@FUNNYKIDSLAND27
+@Papadoy2.0
