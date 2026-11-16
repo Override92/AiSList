@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64815
+! Total Channels: 64825
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64831,3 +64831,13 @@
 @LordLitness
 @VlogWithSaba-k9d
 @IntesarAlam-k1x
+@IShowAiArt
+@ZogbhaivlogsAi
+@yasir380-r3j
+@SHAHIDHUSSAIN-co8tv
+@6666sk-k9d
+@Jaseem_vlogger
+@Amazing.Lankaai
+@echogen_aii
+@Planet.AI_
+@Reaper_ai_video
