@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62830
+! Total Channels: 62840
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62846,3 +62846,13 @@
 @DIYMASTERR09
 @aiboom_shorts
 @Aikidsstory7
+@Umarusmanfamily
+@ComedyGoldGlobal
+@Nazzyaitv
+@AiComedyShortsduniya
+@CozyGhibliVillages
+@peterai15
+@NeuralVocalUniverse
+@ourafrica-p2p
+@shiftreality-9
+@FoodChallengeWorld-p9p
