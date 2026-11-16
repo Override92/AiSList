@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63967
+! Total Channels: 63977
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63983,3 +63983,13 @@
 @NordvaneMusic
 @RetroQuestX
 @AiStory-g8f4n
+@EpoxyLuxeDesign
+@AIVerseNova-m7z
+@TimandJeffyUsa
+@Savitarana2765
+@Tales_byjane
+@HumanityTimeline-m5c
+@panda.path99
+@TejasVerse_official
+@AILOLWorld-n7j
+@CineMaxStudio-e1w
