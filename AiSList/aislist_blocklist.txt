@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62730
+! Total Channels: 62740
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62746,3 +62746,13 @@
 @GhibliCurry
 @EsmiringhoyTV4
 @ghibli10mn
+@LifeTalesAI-e4c
+@gyanmishra_vlog
+@AiAnimation-i5o
+@MochiMorsel
+@MarketiQint
+@BrowniesKitchen35
+@vloger_vishu_001
+@Ghiblivillageai09
+@ZionVanta-h7f
+@AIMagicWorld907
