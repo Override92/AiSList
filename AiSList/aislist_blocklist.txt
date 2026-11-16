@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64417
+! Total Channels: 64427
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64433,3 +64433,13 @@
 @UnhingedHistoryYT
 @Arun-army-s4v
 @MiniTunerAI
+@TheLothbroks
+@TwistedCrownStudio
+@MiniArabalar-y5k
+@veilorafilmsyt
+@MemeCuts7
+@mohit_vlog_explorer
+@AlooMaloo-12
+@BAKCHODAIREELS
+@StoryForge-q1f
+@MiracleFavourites
