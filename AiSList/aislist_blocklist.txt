@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64942
+! Total Channels: 64952
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64958,3 +64958,13 @@
 @hidden-h1w
 @MarinMusicEDM
 @ChoicePilotHQ
+@bdvlog-e5u
+@TorqueAthletic-t7m
+@lyratech16
+@SourceWhispers
+@FGDFGf-j6p
+@TheTechPulse11
+@Logcabintv1
+@SensorSecrets
+@GraftCadence
+@ShearHorizon
