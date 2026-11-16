@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63617
+! Total Channels: 63627
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63633,3 +63633,13 @@
 @ShortZilla2K
 @AIUniverse2026
 @seztoons
+@SubhamAICreat
+@USAcomedy60
+@Diogenes_fun
+@AI_Funny_Bachha
+@emenwaglobal
+@PremAnandkalakar
+@comedyaicontent
+@ZYNTRIX-y
+@Ayeshi78
+@Foundexa-Podz
