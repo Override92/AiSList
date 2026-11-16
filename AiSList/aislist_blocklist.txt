@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64900
+! Total Channels: 64904
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64916,3 +64916,7 @@
 @KlausHoff-p7e
 @MarkerExplained
 @WildSecrets-v3k
+@UntamedMomentsWildlife
+@wild_chronicle9
+@WildCore-j6i
+@WildTalesTVOfficial-e9d
