@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62870
+! Total Channels: 62880
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62886,3 +62886,13 @@
 @Ansari4Anas
 @Ridanvlogs-i6r
 @AIVideoYTV
+@TinyAIKitchen-d9u
+@CosmicInquirerAI
+@KaalchakraChronicles
+@animationai-t7x
+@QestraFilmsInfinity
+@ExploreWithTime0
+@Maria_Tabassum_official
+@BushraKhanCartoons
+@Miraclejoy-n3s
+@AI-Animation-2.0-0
