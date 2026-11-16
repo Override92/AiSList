@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64127
+! Total Channels: 64137
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64143,3 +64143,13 @@
 @MostlyGoodBruno
 @rankriot-c3t
 @RuthBellKitchen
+@AIthaliworld
+@FaithWittness
+@Reallyvoiceofislam
+@Evijan
+@%E7%99%BD%E7%8B%97%E5%8A%87%E5%A0%B4
+@KhaufKathaHindi_AI
+@myaiminiature
+@THGHotFilms
+@cookwithnafisakhan-9ov
+@Somkaycreations
