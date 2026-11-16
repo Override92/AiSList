@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65255
+! Total Channels: 65265
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65271,3 +65271,13 @@
 @CozyGhibliDays-t9y
 @SleepyCrimeStories-4u
 @RainyFairytalesForSleep
+@CienciaFit-v4v
+@ZeeshanKasim-g9b
+@IrcOo-k7y
+@CalmLofiRoom-l3s
+@ThenTime-e9t
+@Vibe_Roots_Radio
+@EndlessFlowLofi
+@JazzLab-b2h
+@CafeHours-z4e
+@cell-it7ym
