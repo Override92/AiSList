@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63510
+! Total Channels: 63520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63526,3 +63526,13 @@
 @TinayTastyASMR
 @Tony69-Ai
 @Grace.Nahs5
+@Thefarmingtoon
+@MaxTheTimeTraveler
+@DoorbellGuy-q5s
+@ThePastPortal-p3u
+@Cozyanimecooking-h4i
+@TheGhibliTube
+@GhibliPeacefulLife-m7u
+@Ghibli-SorayaWorld
+@SinghGhibliASMR
+@AIChef-Studio
