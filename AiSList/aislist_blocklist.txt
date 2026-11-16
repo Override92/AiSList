@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62532
+! Total Channels: 62542
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62548,3 +62548,13 @@
 @RooftopsThroughTime
 @DeeMmaAikitchen
 @FlavorNestai
+@HistoricalStoriesWithAI
+@hummingseed
+@ShadanKung
+@sibaniofficiallymusic
+@SkeletonVerseAnime
+@Craveframe-g2y
+@africawild-ai
+@UnpredictiveHistory
+@TheAIKitchen2206
+@rahulking4397
