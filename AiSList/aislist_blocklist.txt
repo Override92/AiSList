@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63602
+! Total Channels: 63607
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63618,3 +63618,8 @@
 @aivocalroom
 @FameFantasia
 @joshhongmakes
+@ai_babystyle
+@hiyakaru
+@Issa_Adler
+@ComedyAI-i2d
+@Bandarteradost
