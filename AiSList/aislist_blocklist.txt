@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62980
+! Total Channels: 62990
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62996,3 +62996,13 @@
 @minicrafterlab
 @aisabzicartoon-j4j
 @MiniTinyTails-l4q
+@CerielCastro
+@TheHiddenchefAi-f8p
+@Africanstoryx
+@BibleAIBibleChat
+@IbehOliviaAdaeze-o4x
+@Aibiblestoriesbyjames
+@Shivam1296-t9h
+@mukeshsaini.54
+@chronovoyagerCV
+@thefigmentlab
