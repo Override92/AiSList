@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63580
+! Total Channels: 63590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63596,3 +63596,13 @@
 @GhibliVerse4U
 @LifeLessonsVideoStories
 @FruitVerse3
+@TimeLapse-22me
+@AirplaneModeOn-v5t
+@ManAiCreator
+@beyondthewhatifsnow
+@saitalkes
+@DabaMulisa
+@ggfilms_yt
+@GhibliFooods
+@GhibliAroundWorld77
+@Aicartoonanimation-c5n
