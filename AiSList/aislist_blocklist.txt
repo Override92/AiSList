@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65345
+! Total Channels: 65355
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65361,3 +65361,13 @@
 @BEFORESAFETYTV
 @offbalance1
 @TheHumanPast.03
+@insurvivaltwo
+@AncientMinds.2
+@MindFableYT
+@NYLIX-MUSIC
+@StickleyExplain
+@QuillyExplains
+@STICKWHY-o8b
+@UnknownExplained-w3m
+@LostWorlds-01
+@RusselYudigakov
