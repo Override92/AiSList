@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64027
+! Total Channels: 64037
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64043,3 +64043,13 @@
 @lucia-w0o
 @pavlin-aivideo-aimusic
 @Favyworld-f5e
+@CitiesThroughAges
+@Nadim4040-r3u
+@HAMZAAIHUB2.0
+@AI_NEXTFRAME
+@MiniDrive47
+@Dimaagfryai
+@Amanthapliyalai
+@Sora_Slop
+@AI_Toon_Magic
+@zanite03
