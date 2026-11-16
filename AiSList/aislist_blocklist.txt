@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61661
+! Total Channels: 61656
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35752,7 +35752,6 @@
 @cozynest88
 @FarolHits-s7y
 @PawsitiveLofiVibes
-@VikingBlue-j6i
 @Elav%C3%A9iraSolenne
 @StoweeTellaStella
 @TyrInTheStatic
@@ -49292,7 +49291,6 @@
 @ModernistAfricaFolktale
 @AfroKoreanStoriesByDehkola
 @TreasureHunterXX
-@cherriemorales04
 @myrza_khan
 @FrankyvonM
 @RacismNetwork
@@ -49306,7 +49304,6 @@
 @RelaxingFutureAmbient
 @Influenxis
 @DRAGENVAR
-@%E5%97%91%E5%AD%A6%E7%99%BE%E5%90%88TV
 @airemasteredvideo
 @BingeToon-m2v
 @masumhasanshiblu
@@ -49508,7 +49505,6 @@
 @danielw.gebriel
 @user-tizyt
 @Sanatan_Akhil
-@Millenium_Stories-p3r
 @soyelseptimosello
 @girlfriendsAI
 @Caf%C3%A9CubaSonBoleros
@@ -49840,7 +49836,6 @@
 @Metaliction
 @AfroKoreanLoveEmpire
 @Dear_Divyaa
-@VelmoraGL
 @AfricanStoriesByGlory
 @VoidTag
 @Blancobillyofficial
