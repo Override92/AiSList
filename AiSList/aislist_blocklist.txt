@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65464
+! Total Channels: 65469
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65480,3 +65480,8 @@
 @CoradelloSongs
 @TimelessBaroqueMusic
 @RainWhisperClassics
+@classicaloasis
+@MoonriseListening
+@CrashCulture-cc
+@ZAZStudiogames
+@FioraAmbience
