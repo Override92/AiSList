@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63927
+! Total Channels: 63937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63943,3 +63943,13 @@
 @ReverseWorldUltiDuniya
 @HiranKathaAI
 @ailifestory.0
+@nobokai
+@LilithSpike
+@FinnishAl
+@Newyorkdecor
+@KhathaFlixNk
+@Velvet__Frame_ai
+@aistorieshardinkuchnaya
+@pataka_putti
+@EverydaymixwithAI
+@DHAKSHANRAJ-c7e
