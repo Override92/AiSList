@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65295
+! Total Channels: 65305
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65311,3 +65311,13 @@
 @Classical-Music-Playlist
 @GauravRaj-p7c
 @KidsLover-k1g
+@Classical-Instrumentals
+@PhDStickman
+@TheNicheMind
+@Nagnasatyam
+@DarkStrategiese
+@JungianRole
+@HomeEducation01
+@WalterDoyleMechanic
+@Lapinoushorts
+@DANNYonPC
