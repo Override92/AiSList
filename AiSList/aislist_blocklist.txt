@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63490
+! Total Channels: 63500
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63506,3 +63506,13 @@
 @Car-ToonSparkleTV
 @Cookingtastytales
 @the_Ghibli_time
+@sizzlepath
+@BoboKids-j2m
+@AIAfricanmovie
+@Bx2_yt
+@SoraVids762
+@Historyvlogs0
+@WhisperingSeasons-h1b
+@GhibliFoodStoryYt
+@GhibliAdda1908
+@Jungle_StoriesAI
