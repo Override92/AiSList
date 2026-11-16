@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61691
+! Total Channels: 61696
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61707,3 +61707,8 @@
 @새콤재즈상회
 @incriveisinvencoes
 @샌디의지식탐험
+@america_explainedtv
+@soundnex-z4c
+@ふるふる
+@kokubunji_petbottle_sounds_lab
+@甜甜的ai
