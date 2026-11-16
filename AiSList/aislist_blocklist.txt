@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63607
+! Total Channels: 63617
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63623,3 +63623,13 @@
 @Issa_Adler
 @ComedyAI-i2d
 @Bandarteradost
+@Faujijunoon45
+@maurizio-cibelli
+@AIvideocartoon-p2h
+@AIGenCreates
+@Aifun-i3e
+@ReviveLegacy-f3b
+@AIBNEGADON
+@ShortZilla2K
+@AIUniverse2026
+@seztoons
