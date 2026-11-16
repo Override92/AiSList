@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63767
+! Total Channels: 63777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63783,3 +63783,13 @@
 @TimeleSSPanavision
 @MorsusFabulaeFilms
 @wowneverseen
+@AImagicworldutkarshdixit
+@UtkarshWonderWorld
+@Govindanikhil-v7s
+@TIMBER_TITANS-TT
+@Tapasvine
+@StoryVerseAI-n7d
+@LoveBetweenUs-e7l
+@booski710
+@LivingScrollStudios
+@AiMagicWorld1109
