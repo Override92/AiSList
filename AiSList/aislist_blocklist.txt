@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65355
+! Total Channels: 65365
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65371,3 +65371,13 @@
 @UnknownExplained-w3m
 @LostWorlds-01
 @RusselYudigakov
+@heartlinedadstory05
+@FreshPeachesStory
+@RedFlagDiaries9
+@Nguye-f9d
+@Mellow-planner
+@304WivesClub-m5c
+@joaobiato3764
+@WhenHeartsStay
+@RevengeAfterLove-m7g6q
+@Crownrecapsofficials
