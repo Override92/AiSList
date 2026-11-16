@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65522
+! Total Channels: 65528
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65538,3 +65538,9 @@
 @MiaRoss-k1w
 @FourPetalPlaylist
 @TECHFRAMED-c3y
+@asuka-kdg
+@William4-t9o
+@KindSoulTv-d2o
+@PulseScience-r9w
+@TheCanadianDominion
+@NaturalClassical68
