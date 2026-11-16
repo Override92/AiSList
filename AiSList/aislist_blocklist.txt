@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62232
+! Total Channels: 62242
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62248,3 +62248,13 @@
 @WoodenWheels-n1x
 @CozyGhibliVibes-r9i
 @Mohammedanasdailyvlogs
+@FrameForgeAIFilms
+@DreamTaleFilms1
+@OfficialZuviWorld
+@experimentwithgenai
+@CivVaultTv
+@Aiminiecooking16
+@FANTACY_UNIVERSE_SM
+@RaizuAi-c2I
+@SynthIdolVerse
+@doodoongji_fam
