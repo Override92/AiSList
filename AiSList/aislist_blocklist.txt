@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65482
+! Total Channels: 65492
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65498,3 +65498,13 @@
 @NaeNaeCafe
 @FeelClassic-26
 @cy7music
+@mameen1012
+@DoghouseMidnightJazz
+@Rabenchronik
+@CelestialVocalTrance-m2j
+@Socrat-Aka
+@LifeWithShadowdog
+@DigitalCraftsLoop
+@archibaldwetherby
+@AnimatedMind
+@RuptureRampage
