@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65560
+! Total Channels: 65570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65576,3 +65576,13 @@
 @OeilAff%C3%BBt%C3%A9-y3d
 @PowertrainLogic-x2w
 @DailyTechWorks-u6s
+@treasuretrove121
+@ScienceAmazed-d2n
+@DivineGanesha-o1r
+@CryptoThor
+@TheWildLoreYT
+@HiddenbyHabit
+@thehigherstandardYT
+@DoodleLabDaily
+@MoonlightBabyMusic
+@hafsachemaura
