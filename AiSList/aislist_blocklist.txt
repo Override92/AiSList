@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61902
+! Total Channels: 61912
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61918,3 +61918,13 @@
 @OfficialAiModelX
 @rkdaifilms
 @AKASHViSiONAi-g3m
+@NiteshAIFilm
+@aicartoonworld-R2R
+@aivaanianimation
+@aiminivlogs-d6i
+@NamanAIVlogs
+@AnimationToonsAi
+@AIHamsterAdventures
+@storyline-ai-t6l
+@trendversevlog
+@K-vlogs87k
