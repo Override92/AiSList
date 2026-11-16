@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65580
+! Total Channels: 65590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65596,3 +65596,13 @@
 @ZacReed_Music
 @ListeningGallery
 @valyxaofficial
+@doodlescene
+@RandhirSingh-p7h
+@KidsfunAnimation-sj6dn
+@Kaliyugi-t8w
+@AibuddhaShorts2
+@MaaChaaKids
+@JackLondres-x4e
+@ThePsychologyMastery
+@TinyTotsWorld-m23
+@KPopix-r2d
