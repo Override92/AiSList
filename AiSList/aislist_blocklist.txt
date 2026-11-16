@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61772
+! Total Channels: 61782
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61788,3 +61788,13 @@
 @Amelia4-p7c
 @USAViralZone-l7t
 @Hip_Joseon
+@OBJECTTALK-g1z
+@Tinytadka-y7l
+@LobosAIandRobos
+@TooneticAIanimation
+@jasminslittlediary
+@AICookingStudio-i1g
+@TinychefstudioUsa
+@alooaiofficial
+@SupeshDhote8308
+@MankeshVlogsYT
