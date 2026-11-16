@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64690
+! Total Channels: 64685
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50968,7 +50968,6 @@
 @IndustriousBeaver
 @StructuresExplainedSimply
 @LearnSpanishWorld
-@PeterNyerohowo
 @AbinashJesti-c6e
 @WristTheorys
 @HenryWatchCounter
@@ -50978,7 +50977,6 @@
 @mini-content-e4e
 @UltraMystic-e8l
 @TheSilentArchive-j1i
-@user-zh2bp4tz8t
 @GaryMillerYT
 @HelenWhitmoreCats
 @RomanShortsss
@@ -50991,7 +50989,6 @@
 @RawToRun
 @Mackin144
 @KarmaClips-c4f
-@asfasg-c5l
 @LalKamal-j3v
 @StoriesPalace-g8e
 @jalaminahmed-bv8qj
@@ -51011,12 +51008,10 @@
 @INDUSTROVIA
 @leatherfactoryshow
 @FactoryTitan
-@USAPlantFactory
 @ToolLabX
 @SweetMANGAS-t7t
 @ProductionPathway
 @QUICKFACTSHUB-d6w
-@MathewNayes
 @RomanMonzon-w6l
 @Jason_yq95l
 @filmrush-n7c
