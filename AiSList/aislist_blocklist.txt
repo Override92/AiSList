@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61633
+! Total Channels: 61634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35800,7 +35800,6 @@
 @VERA.ELLISON
 @nemix4423
 @arcphobic
-@ViajanteB%C3%ADblicaDOCS
 @Vikingwarsong-s2c
 @PritamNath-t5q
 @LeCowboyStory
@@ -61649,3 +61648,5 @@
 @cellblockhistory-n9q
 @ayeshacozynest88
 @realstory-c2b
+@deeptechnovibe
+@storyverseadesanmi
