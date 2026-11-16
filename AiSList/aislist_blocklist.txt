@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65195
+! Total Channels: 65205
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65211,3 +65211,13 @@
 @RateRush-w3e
 @SleepMusicRelaxZone
 @AgriGadgetPicks
+@audiovisual-life
+@TrapGates-u8y
+@ProductProReviews-r2l
+@Top_rated_gadgets-t8r
+@ReviewSpectrum-w5q
+@ReadySetPicks
+@powertoolscompare-l7k
+@Shemigo
+@sekandarreview
+@frooria12
