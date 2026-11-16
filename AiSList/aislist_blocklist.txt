@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64776
+! Total Channels: 64786
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64792,3 +64792,13 @@
 @echoestales-u1s
 @wealthnextdoor1
 @여부세요-p6u
+@FosilPedia
+@StoryMovieRecapOfficial
+@DogBondChronicles
+@a2zreview42
+@computerportitsolutions
+@lacvaoquakhu
+@ShortSaga-v2m
+@KkubongDreamArchive
+@Red_Star_Odyssey
+@TPG-b9c
