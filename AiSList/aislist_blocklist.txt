@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62622
+! Total Channels: 62632
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62638,3 +62638,13 @@
 @DivasAfricanheartstories
 @BibleLifeToday
 @IfeVlogsAI
+@legotech123
+@PassionofFruits
+@AIlifewithONYEKA
+@PawBitsy
+@MiniKitchenWorld-z5j
+@Mantosh_qq
+@SimonAiVlog
+@Pathikcomedian
+@jolly_vision_ai
+@Historrify1
