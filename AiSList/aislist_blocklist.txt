@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62182
+! Total Channels: 62192
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62198,3 +62198,13 @@
 @MiniFoodAI.official
 @Learnwithafreak
 @Shiro-s9w
+@AIANIMATION-Training-Institute
+@VlogwalaBandr
+@Jade.Exploring.History
+@UnidentifiedAih
+@karenLLC
+@TimeTraveI
+@ARcreation-s1k
+@ahlxr.01
+@AmericanShorts208
+@dannyblacky
