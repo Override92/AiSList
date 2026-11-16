@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64517
+! Total Channels: 64527
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64533,3 +64533,13 @@
 @DOOMSDAYCLOCK_JM
 @DanixhOP
 @Grace123-n9c
+@ConstructiveBuilds
+@JettandTilly
+@JESUSEVERYDAY-l4y
+@CinematicallyHQ
+@officialEpoxyRush
+@GleefulVibes27
+@Villegevloger_333
+@Nonstopmonkeyofficial
+@AI_VID_001
+@TheUltimateMatchups
