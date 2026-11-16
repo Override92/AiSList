@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65530
+! Total Channels: 65540
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65546,3 +65546,13 @@
 @AnalogChildhoodLo-Fi
 @FeynmanUniverse-b5s
 @saigon_bass_radio
+@TheFeynmanArchives
+@FeynmanScienceLab
+@AstralCuriosityUniverse
+@Feynman%C4%B1nZihni
+@FeynmanPhilosophy-b8g
+@TeseryofficialChannel
+@ShortsLaughCentral
+@EveryTypeExplained-2M
+@SlopRoach
+@CartoonsExplained
