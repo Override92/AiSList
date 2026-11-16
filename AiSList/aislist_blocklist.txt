@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62252
+! Total Channels: 62262
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62268,3 +62268,13 @@
 @Infinite_ChapterHQ
 @TheImaginaryCore
 @ChandanAIKitchen
+@Miniature.Motorss
+@Aroundtheworldin80dayswithai
+@GlobalAI-o3z
+@Littlebloom-n3m
+@AICARTOONFUNNY-295
+@musibat-w9e
+@Hogwarts_Vlogs
+@heykids123-s6r
+@JumbleMint-v4e
+@Ai_Videos-w4j
