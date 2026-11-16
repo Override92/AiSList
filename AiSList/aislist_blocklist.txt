@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61922
+! Total Channels: 61932
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61938,3 +61938,13 @@
 @TinyTalesTVanimation-x4v
 @CYBERGAMING-p6v
 @ViralKitchenAI
+@lalluhindianimation
+@AIChefFR
+@Aicreators3.3
+@Kaurvlogs91
+@ShortBibleStoriesforKids
+@storieswithai-h1p
+@AIMysteryStoriesOfficial
+@AIBibleSongsOfficial
+@SurajKumar-0.9
+@aicartoonanymation
