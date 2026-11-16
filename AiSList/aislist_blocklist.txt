@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64710
+! Total Channels: 64705
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50699,7 +50699,6 @@
 @MrCanada.01
 @MegaBuildssignal
 @EuropeTodayTheUntold
-@PlantProven
 @CrownlineOrigins
 @forgeinsider
 @RevengeWithoutVoice
@@ -50723,7 +50722,6 @@
 @RavenoftheNorth-q3x
 @DeepWithin-e3s
 @PrimalHeritage-d5p
-@Divinely-Chosen-l8t
 @EnelnombredeJes%C3%BAs-z1r
 @owaiskhan-r2g7p
 @HappyClub-t4p
@@ -50737,7 +50735,6 @@
 @VerseSci-FiStories
 @SiroccoVibes
 @ai.artforliving_editor
-@Sanarelcoraz%C3%B3n
 @AncientForensics
 @Diagnosis_Glitch
 @PashaRebane
@@ -50752,8 +50749,6 @@
 @TheRedGalaxy-t5p
 @HFYRegrettedIt-e5h
 @HFYHumanity-q3i
-@HFYSummit-u7k
-@HumanityUnleashed-u4b
 @GalacticPrimeHFY-d9m
 @Zeelu-x9x
 @HistorysWealthPlaybook
