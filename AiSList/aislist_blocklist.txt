@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61762
+! Total Channels: 61772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61778,3 +61778,13 @@
 @FuturelsAI
 @Mukeshshorted
 @EduPlayWorld-1
+@evethousandworlds
+@Aistudiosettu
+@SrisantaNayak07
+@AI_BuildWorld
+@tinytastyai-r7i
+@CookinglabsAI
+@puredrama-1.67
+@Amelia4-p7c
+@USAViralZone-l7t
+@Hip_Joseon
