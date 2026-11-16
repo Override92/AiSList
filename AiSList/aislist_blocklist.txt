@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64107
+! Total Channels: 64117
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64123,3 +64123,13 @@
 @HealingGhibliWorld
 @mantramugdha84
 @TimeTravelChroniclesPOV
+@Eman_AiStudio
+@Toonworld-z7i
+@TheWordBroughtToLife
+@Sheru_Ki_Life
+@AlyaSuCihanLoren
+@AIMarvelGo
+@ValhallaWolfVK
+@CosmicDust-Studio
+@bosuco24
+@AutoUnboxStudio01
