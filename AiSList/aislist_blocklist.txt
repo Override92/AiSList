@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62032
+! Total Channels: 62042
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62048,3 +62048,13 @@
 @TanvishreePihuVlogs
 @aivlog_world
 @BajpAi-f7n
+@Noonhindianimation
+@AiCinematicDesiVerse
+@DeepSeaOdditiesTV
+@AIKitchenTales-i2c
+@Cartoon-duniya-AI
+@viralviratanimation
+@TheDeepBrainHindi
+@sizzleandsilence19
+@IAen10segundos
+@Ai_cr045
