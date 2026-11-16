@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63560
+! Total Channels: 63570
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63576,3 +63576,13 @@
 @NayraHistoricalVlogs
 @AiKidsStory-g9e
 @SonamRajput-u6r
+@fails_19
+@YoulkRank
+@farahnaaz9084
+@StoryHavenWorld-o7b
+@Pluvius-x4x
+@ghiblirasoiai
+@Ghibli-World-Stories
+@RishuReformer
+@Citylights911
+@Farhanediting00
