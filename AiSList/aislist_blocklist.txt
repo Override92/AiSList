@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63400
+! Total Channels: 63410
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63416,3 +63416,13 @@
 @Maxo_Anime
 @YTDAILYUPDATES
 @AiVlog-m3j
+@GhibliEraDiaries
+@anteropee12
+@aipovideo-h2i
+@IndianGhiblimoments
+@ToonyPOV
+@shanaya.vlog_22M
+@AlexMorgan0983
+@StickWorldXD
+@effortlessdigita
+@JhaanviChauhan
