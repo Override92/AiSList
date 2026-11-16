@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65215
+! Total Channels: 65225
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65231,3 +65231,13 @@
 @MechanicaObscura
 @DemocraticLiveTrust-f9r
 @WayneStories-l3n
+@QuietlyBetter-g5p
+@FactZooTV-Official
+@Vibemusicmix-j5l
+@WowForeverClassic
+@Calmora-y8r
+@BehindTheWhiteCoat-Ikn
+@TheLostWeb-tlw
+@JsA-w3n
+@BardcoreNorth
+@Forexample-v3v
