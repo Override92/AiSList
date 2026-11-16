@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63320
+! Total Channels: 63330
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63336,3 +63336,13 @@
 @ghibli_couple
 @MapdotsUncovered
 @Gopalblog3x
+@RajdeepAIWala
+@FruitsandMellstroy
+@VinaTheCrown
+@QAAnimation-h2s
+@HubMovieVerse
+@Monkeyvlogger-y1u
+@RobinMonkeyVlogger
+@FactsByPushkar
+@TinyJoyShorts
+@AiFruitDrama96
