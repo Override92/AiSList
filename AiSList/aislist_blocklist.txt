@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65533
+! Total Channels: 65530
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44613,7 +44613,6 @@
 @Jiso_knight
 @SachinGoyal-c7c
 @olyndrom
-@THE_REAL_AI_GENRRATED
 @bhawanishankar7347
 @RejectedOmegaStories
 @SimSimKids123
@@ -44688,11 +44687,9 @@
 @SpiritualManifestation
 @Velvet_SeoulTv
 @ParableCanvas
-@Viral_Euphoria
 @QuantumHighs
 @WiseDonald
 @FunWithAi-d1h
-@cvanousis
 @Skaldborn001
 @norsehall
 @InkPulseAfricanStories
@@ -44763,7 +44760,6 @@
 @soldier_history-j3b
 @AfricanFolktaleMabeth
 @RavnbornLore
-@TheChroniclesOfProfessorTime
 @Tinglfy
 @African-Heartbeat
 @mdcreat-tv
@@ -65549,3 +65545,4 @@
 @ObscureEncounters
 @AnalogChildhoodLo-Fi
 @FeynmanUniverse-b5s
+@saigon_bass_radio
