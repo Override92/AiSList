@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61700
+! Total Channels: 61710
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61716,3 +61716,13 @@
 @ever-wild-stories
 @historiezbibliiswietej
 @panwyjasnia
+@KiraCore-c2u
+@AIStoryWorld-n6g2g
+@KIDSAIANIMATION5M
+@USAUrbanVibes99
+@Ghiblistylevideoai
+@AIChefSeries
+@AITravelStories-t9e
+@AITIMETA
+@AIVerse-jbd
+@FruitAI-1
