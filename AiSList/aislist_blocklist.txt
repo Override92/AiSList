@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63897
+! Total Channels: 63907
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63913,3 +63913,13 @@
 @BESTOFTHEGODS
 @mythicaicinema-e1x
 @SecretDramaAI
+@HatimsMusic
+@Earthandeatsofficial
+@SlavicCinematic
+@stroy-mood
+@Raisigma07
+@TheAccurateNonsense
+@TheMorphora
+@DriveNov-AI
+@BhuttaGram
+@Ai_TubeVid
