@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65469
+! Total Channels: 65472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65485,3 +65485,6 @@
 @CrashCulture-cc
 @ZAZStudiogames
 @FioraAmbience
+@MicahBlue_official
+@ClassicalImmortality
+@imperial.classics
