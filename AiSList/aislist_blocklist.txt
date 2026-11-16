@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65305
+! Total Channels: 65315
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65321,3 +65321,13 @@
 @WalterDoyleMechanic
 @Lapinoushorts
 @DANNYonPC
+@Factsin-g9e
+@geographyscoped
+@geographyunfold
+@secretIsles1
+@TheEastMadeSimple
+@unmappedearthYT1
+@EarthUnseen11s
+@SpeciesLabs
+@SidewaysSpecies
+@NatureLabExplained
