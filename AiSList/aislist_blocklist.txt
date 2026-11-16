@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63150
+! Total Channels: 63160
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63166,3 +63166,13 @@
 @CatgerysPodcast
 @Viking_Kolo
 @RichGirlNarritives
+@N00bTub3YT
+@GhibliFoodTales-h7n
+@AB-Ai-ai
+@LooplenzAI
+@GhibliVillageCartoon-v9p
+@90sNostalgiaGhiblivideo
+@aikidsstory01
+@lechatchef
+@onlySocialTech
+@Prmeowww
