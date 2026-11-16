@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61832
+! Total Channels: 61842
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61848,3 +61848,13 @@
 @reelix.aigenerate
 @KA-w7d
 @jama_ai_vlog
+@TalkingMonkeyVlogs
+@BibleFreeman
+@FOOTSHOOT.ONLINE
+@savitajadhav-24h
+@djgoondaddy
+@shortsk-video
+@ArbazVlogs001
+@AiMarvel0203
+@StellarCityStudio
+@aivloggerrrrrrr
