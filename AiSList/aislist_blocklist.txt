@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65540
+! Total Channels: 65550
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65556,3 +65556,13 @@
 @EveryTypeExplained-2M
 @SlopRoach
 @CartoonsExplained
+@SimplePaintPortugu%C3%AAs
+@MindsetSerious
+@SoulMind_22
+@FishWorld4K-5
+@segmentzero
+@ArchivoDelFuturoEN
+@TheApologeticsVerdict
+@PCJP_IN
+@Deep_Unknown2
+@LanguagesExplained2
