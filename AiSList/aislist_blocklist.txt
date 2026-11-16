@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62002
+! Total Channels: 62012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62018,3 +62018,13 @@
 @FreshFruitsAi_25
 @DLS-k9o
 @TheDreamyGhibli
+@MiniFoodVlogs-p3r
+@veggies_verse_offical
+@skylineyears
+@TurboKitchenAI
+@Ai_CreativeStudio13
+@AIVerse-4All
+@FakhaFiWarta
+@soumayapolley2329
+@OddlyASMR-q7t
+@WildNexa1M
