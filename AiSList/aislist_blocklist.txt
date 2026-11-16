@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63380
+! Total Channels: 63390
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63396,3 +63396,13 @@
 @MarvelxDCAI
 @RamuKumar-g1c8e
 @GhibliCalmvalelife
+@DeluluPOV
+@MyGhibliWorld-y6x
+@RayyanProMax-op
+@VikashKumar-z3
+@MyChintupintu
+@Toffeemuffy
+@hulkupromax
+@GhibliDailyLifeKitchen
+@tadkafunai
+@UEAI-j8l
