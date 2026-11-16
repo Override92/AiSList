@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65335
+! Total Channels: 65345
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65351,3 +65351,13 @@
 @SpaceLabAnimations
 @earthsnapsX
 @hiddennReasons
+@jiegamingstudio
+@therecoveryatlas
+@vineynz
+@kevy1
+@AmazingNatureHD
+@FactDoodle-7
+@explaintheunknown.official
+@BEFORESAFETYTV
+@offbalance1
+@TheHumanPast.03
