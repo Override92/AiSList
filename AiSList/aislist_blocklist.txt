@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63440
+! Total Channels: 63450
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63456,3 +63456,13 @@
 @amezinglab03
 @Maza_MonkeyVlogs
 @Eure_Kivideos
+@OldCodeYoutube
+@andrey.lukyanov
+@AiMagicKidsStory
+@WizardingW.T.F
+@SarangAiVid
+@AgentCatMoomoo
+@RahulODH-m8c
+@AIBatool
+@whatif.visual
+@motivation-december-18
