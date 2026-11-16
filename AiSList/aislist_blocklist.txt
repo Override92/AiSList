@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61932
+! Total Channels: 61942
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61948,3 +61948,13 @@
 @AIBibleSongsOfficial
 @SurajKumar-0.9
 @aicartoonanymation
+@arshwatson8485
+@kinomasin
+@AIMushups
+@AIVlogging-3413
+@car.craftai
+@AiBiswadip
+@CinematicAI_Official1
+@MagicUnboxingAI
+@ProjectOSAI
+@BASUDEV.REELS-B
