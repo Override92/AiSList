@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65424
+! Total Channels: 65434
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65440,3 +65440,13 @@
 @OZFantasy
 @Seagull_World
 @NichijouToGensou
+@PortalInnBGM
+@%E3%82%B3%E3%83%91%E3%83%B3-q8h
+@GensokyoTraditionalArrangement
+@%E5%AD%AB%E5%B0%8F%E7%B7%A3
+@KuroganeBeats
+@chanbamboo01
+@ShamisenOniGirl
+@FlightGoneWrong56
+@LoHua0810
+@%E7%A1%9D-RB
