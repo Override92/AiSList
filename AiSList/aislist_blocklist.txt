@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64067
+! Total Channels: 64077
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64083,3 +64083,13 @@
 @Michealjacksonkingofpopdance
 @TheAlchomyprocess
 @StudioAIKids
+@BhatiyaAIStudio
+@AIMagicWorld-i5j
+@mysteryfiles69
+@Tinyverse00001
+@Autoverse_AI-c7z
+@Aimastivlogs01
+@adelianodo
+@TemporalArchivesReal
+@TerraVoyageGeo
+@ZedAIStory-c3y
