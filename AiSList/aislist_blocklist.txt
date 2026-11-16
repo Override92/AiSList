@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61972
+! Total Channels: 61982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61988,3 +61988,13 @@
 @MYAIVLOG01
 @AiDreamyToons-w7s
 @AIStoryKids-i4g
+@thef.ruit_drama
+@Allabouteverything-t6t
+@YunSeolGwon
+@VyralioClip
+@MistiXAIcooking
+@Roshenwithdali
+@ASMRJibbhiStyleVideo
+@MANKUAI-i4n
+@echoes_beyond_silence
+@TheTinyFoodLab
