@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61982
+! Total Channels: 61992
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61998,3 +61998,13 @@
 @MANKUAI-i4n
 @echoes_beyond_silence
 @TheTinyFoodLab
+@SLCrazyMonkey
+@animatedbibletales_unfolded
+@RISEMIND1487
+@SparrowArtsAI
+@FruitlyDrama
+@Ai_Animation3s
+@salehart1
+@ZuhaibAliHingoro
+@AmakaAfricanStories
+@SARAMVLOG-o6w
