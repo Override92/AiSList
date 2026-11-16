@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64117
+! Total Channels: 64127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64133,3 +64133,13 @@
 @CosmicDust-Studio
 @bosuco24
 @AutoUnboxStudio01
+@FUNNY_AI_VIDEOpg
+@JamaaiBouyerHashirSongsar
+@Tinyboss9
+@ledflix
+@psych_alytics
+@Therhymenest
+@Aiwould-x5b
+@MostlyGoodBruno
+@rankriot-c3t
+@RuthBellKitchen
