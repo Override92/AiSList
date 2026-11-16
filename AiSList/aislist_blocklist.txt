@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62950
+! Total Channels: 62960
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62966,3 +62966,13 @@
 @Tinyminiature2026
 @cartoonspark-e8z
 @SrishtiAIComedy
+@AIWORLD0.4
+@VLOG-Ghost
+@TheHappyGoluChef_official
+@aistoryvideos8888
+@AfricanstoriesbyRafy
+@AfricanTalesByJuliana
+@Bible_Echoes1
+@TheBibleVault-s5q
+@tzyvo
+@lookatthisbear
