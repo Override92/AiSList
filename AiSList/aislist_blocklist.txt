@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63480
+! Total Channels: 63490
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63496,3 +63496,13 @@
 @GhibliMonsoonDiaries
 @SouthIndianVillageGhibli
 @Ghiblidairies_1
+@AmuluGhibliDays
+@ghibliword-channel
+@KitchenAI-q3y
+@mscube_repair
+@AfricanTalesandStories-t8l
+@POVAPeasantintheromanera
+@GHK-29
+@Car-ToonSparkleTV
+@Cookingtastytales
+@the_Ghibli_time
