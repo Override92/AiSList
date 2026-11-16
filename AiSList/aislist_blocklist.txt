@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63657
+! Total Channels: 63667
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63673,3 +63673,13 @@
 @srishtiAIworld98
 @EpicStoryFilms.cinema
 @polaraifilms
+@DeepCraftStudio44
+@KhusiyokiVishalDuniya
+@AIMagicTales-k4f
+@VELMORA.76
+@ASMRGarage25
+@AutomorphAI-f3b
+@filmsfromnowhere
+@AILifeTales-w2b
+@SatisfyVerseAI-p4g
+@FunnyAIVideo-c2t
