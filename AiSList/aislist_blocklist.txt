@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63592
+! Total Channels: 63602
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63608,3 +63608,13 @@
 @Aicartoonanimation-c5n
 @ArchanaArchu-y2f
 @moob7298
+@HerSecretDiary-k1d
+@ScrollTrap.Mp7
+@growthrescuehq
+@SurajAIMagic-d2s
+@Aistoryshortstudio
+@existrealll-f4q
+@MRXAICineLab
+@aivocalroom
+@FameFantasia
+@joshhongmakes
