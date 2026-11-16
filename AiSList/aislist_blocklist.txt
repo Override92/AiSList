@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63647
+! Total Channels: 63657
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -63663,3 +63663,13 @@
 @T2x2aii
 @Junaid-Ali-5
 @AIDuniyaVlogs-w7e
+@Deimoshorts
+@funny_Village2m
+@creativeinai
+@SoundsofHiraeth
+@ShowmansEntertainment
+@itsnaturepixel
+@InstantAIMagic
+@srishtiAIworld98
+@EpicStoryFilms.cinema
+@polaraifilms
