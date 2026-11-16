@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64714
+! Total Channels: 64724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64730,3 +64730,13 @@
 @TechHive-w6q
 @TechTableTalk08
 @SmartBuy-wx5dn
+@NeelSaraswati-p4r7j
+@TechHighGaming
+@BatukTech
+@vueltasdelavida01
+@NeuraTech-Official
+@Matangi55
+@PulsePromoters
+@UltraTech-123
+@Atcnaveed1
+@KineticOrdnance
