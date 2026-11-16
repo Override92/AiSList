@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65062
+! Total Channels: 65072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65078,3 +65078,13 @@
 @sunshinee-d1t
 @AbsurdProject-b7u
 @IABossTuto
+@TheWorldofFusion-u4u
+@CarlitosMelgar-b9l
+@BOLLEROS-c7b
+@PhimNg%C3%B4nT%C3%ACnh-e3s
+@YIyiManhua-i6g
+@HawaHawai-x7z
+@IbbiExplainers
+@english.grammar.vocabs
+@enzito.anaywilly
+@JunkRadarJR
