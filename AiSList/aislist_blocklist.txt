@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65593
+! Total Channels: 65596
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65609,3 +65609,6 @@
 @tunegalaxy-q2g
 @AuroraBalladsOfficial
 @Luk-r5x
+@GalacticHumanity-f6s
+@Gta6Domination
+@MayJohn-i2w
