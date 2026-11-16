@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65590
+! Total Channels: 65593
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65606,3 +65606,6 @@
 @ThePsychologyMastery
 @TinyTotsWorld-m23
 @KPopix-r2d
+@tunegalaxy-q2g
+@AuroraBalladsOfficial
+@Luk-r5x
