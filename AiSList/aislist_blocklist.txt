@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62880
+! Total Channels: 62890
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62896,3 +62896,13 @@
 @BushraKhanCartoons
 @Miraclejoy-n3s
 @AI-Animation-2.0-0
+@ZivoloKidsAI
+@animation-ai-ab
+@Choronova
+@africanhauntedtales
+@bigworm6929
+@KidzAdda34
+@Mini_FoodAI
+@AfricanLoveStoriesTV
+@BibleGirlie2025
+@ai_stories-566
