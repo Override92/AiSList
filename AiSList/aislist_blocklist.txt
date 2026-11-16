@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64702
+! Total Channels: 64697
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50836,20 +50836,17 @@
 @Earcation
 @poopstopasmr
 @WW2Uncovered-i3k
-@BlackTriumphStories-n8x
 @iPlayAi
 @AI_FUNTUBE_777
 @aicreations7099
 @erbass19
 @Shadow-Businesses
-@ThePunchlinePost-s7h
 @Ant4God
 @FactoryDiscovery_01
 @AscendantRealm-p4w
 @themarginproblem
 @Fennmd
 @MiniTake-z9r
-@aiminiaturecooking.official
 @RealMobStories1
 @JusticePress-n1p
 @CrookedLines-j4x
@@ -50889,7 +50886,6 @@
 @modern-off-grid-living
 @Melissajr-q6m
 @GarrettHolloway-c4b
-@MoneySecretr-f9r
 @HiddenInsights-c3l
 @%EC%9D%B4%ED%95%84%EC%A3%BC-x7q
 @MdMd-nz5fy
@@ -50898,7 +50894,6 @@
 @agritechmaster-v3n
 @amricas-y3b
 @NamNam-fd4gl
-@ProfessorJiangExplainedYT
 @NewDawn-w9v
 @cappuccinoestudio-k5w
 @BuildX-y6h
