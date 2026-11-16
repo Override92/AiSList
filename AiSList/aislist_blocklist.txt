@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64685
+! Total Channels: 64690
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64701,3 +64701,8 @@
 @さと旅
 @심원군
 @이필주-x7q
+@차홍범-b6f
+@냥투게더-e5x
+@dailydash-i1j
+@whyhere-j9g
+@テクネちゃんねる-o9u
