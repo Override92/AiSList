@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64685
+! Total Channels: 64694
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64701,3 +64701,12 @@
 @dailydash-i1j
 @whyhere-j9g
 @テクネちゃんねる-o9u
+@hereswhatyougaveup
+@TheHabsburgKing
+@ExplainingAboutYou
+@tellsvidetionary
+@ElonExplainedupdate
+@TheHiddenSecrets.online
+@GoldGallant-r3g
+@GoldLegacyX-v1e
+@GoldConsort
