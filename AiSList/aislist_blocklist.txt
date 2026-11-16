@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62222
+! Total Channels: 62232
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62238,3 +62238,13 @@
 @ParaVisionAI
 @AHKAiWorld
 @AIFLICKOfficial
+@StandingSince
+@AITouchStudio
+@BEYONDTHEFRAME-TV1
+@CASANDRASSTORYWORLD
+@TheAIPuppet
+@FruitStories643
+@AIworld_mimi
+@WoodenWheels-n1x
+@CozyGhibliVibes-r9i
+@Mohammedanasdailyvlogs
