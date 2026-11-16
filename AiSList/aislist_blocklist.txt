@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 64707
+! Total Channels: 64702
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -50758,7 +50758,6 @@
 @TrueCrimeExplained9
 @simulaverse
 @before.civilization35M
-@HockeyBlizzard1
 @AlloftheAbove50
 @MAGAZINE-mw1qm
 @Histoney
@@ -50780,7 +50779,6 @@
 @IRON_GENERALS
 @Goodworksrighthere
 @TheOmittedAge
-@InnerPeaceMediation
 @L%C3%AAS%C3%A1ngReview
 @PlatinumWheels-l5i
 @KrijamAIMusic
@@ -50793,7 +50791,6 @@
 @UltimateProductionLine
 @Factory.Vision2
 @SwiftLines4.0
-@FoodiesCorner115
 @harvestoriginsHQ
 @prodexa7593
 @MadeofWhatOfficial
@@ -50826,7 +50823,6 @@
 @healingpiano4K
 @Calmwaves22
 @PetDreamland612
-@innerhealingpeacemusic
 @%E3%81%95%E3%81%A8%E6%97%85
 @PeacefulTunes889
 @FOXTROTJAZZ
@@ -50835,7 +50831,6 @@
 @ReelTale-b1u
 @DailyWeatherAlert-o2g
 @JUSTICENETWORK-j4z
-@DailyRedditChronicles-t9w
 @judge-c8y
 @Pruiin
 @Earcation
