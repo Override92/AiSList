@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 63987
+! Total Channels: 63997
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -64003,3 +64003,13 @@
 @talkify.ai.verify
 @Histgyaan
 @BazzShortz
+@Aimagiwrold
+@sharvan_ai_voice
+@WildWaterStoriesOfficial
+@nidhlabs_ai
+@Vijay_Vlogs1990
+@NoXcusePower
+@m.l.devid.short2
+@raccoon_253
+@shermaarai4291
+@Echo-Duo-g9o
