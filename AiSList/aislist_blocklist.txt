@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62462
+! Total Channels: 62472
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62478,3 +62478,13 @@
 @AIfoodvideos-w7z
 @BrainrotDaily-w1e
 @AIMicroChef
+@Vishalkr02
+@Luxury_Kitchen.07
+@AiCooking0.1
+@Rub-b9h
+@miniaturestoriesai
+@ZivaMagno
+@MidnightChef-c5u
+@AnimatedBibleTales1
+@KahaniNovaStoriesAi
+@KrupaMusicstudio-e8s
