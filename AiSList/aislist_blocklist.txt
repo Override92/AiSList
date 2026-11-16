@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 61912
+! Total Channels: 61922
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -61928,3 +61928,13 @@
 @storyline-ai-t6l
 @trendversevlog
 @K-vlogs87k
+@ThadolyaUnivers
+@MumtazManek
+@DeepFlixAnimation
+@daisee01-u7h
+@Aihirstiolshorts
+@AiFamily-ai
+@AIFood-g7n
+@TinyTalesTVanimation-x4v
+@CYBERGAMING-p6v
+@ViralKitchenAI
