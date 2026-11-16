@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62810
+! Total Channels: 62820
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62826,3 +62826,13 @@
 @Bible3DAi
 @LumiDay29
 @TheInsightsLabx
+@AIworlddisney
+@AI_CHEF77
+@Shivsona_FX
+@aifoodcooking1
+@ShadanMansoori-d3h
+@AiTravelWithRafi
+@CrazyAnimalCamera
+@VRtoonsHindi
+@Cris.Chikezie
+@smartchef-d2o
