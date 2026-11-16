@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 62242
+! Total Channels: 62252
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -62258,3 +62258,13 @@
 @RaizuAi-c2I
 @SynthIdolVerse
 @doodoongji_fam
+@ISmovie-i6e
+@AzanRaees-h2z
+@NovaArmada
+@IncomewithWill
+@Bimlesh-e9x
+@PawToon1-g1l
+@Mad2371
+@Infinite_ChapterHQ
+@TheImaginaryCore
+@ChandanAIKitchen
