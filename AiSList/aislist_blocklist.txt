@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65596
+! Total Channels: 65591
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35975,7 +35975,6 @@
 @herraizsound
 @TheSentientSaga
 @NightfallKeys
-@AuroraDreamscape-123
 @EEE-EternalElementsEffects
 @MidnighttNoir
 @VagFilms_10
@@ -36024,7 +36023,6 @@
 @OnyxKyai
 @MorsyxLantern
 @CovenantMelodies-g4c
-@dreamyrainbedroom8686
 @EldermistMelodiesYT
 @KlownSmok3
 @AuroraFrequencies_Official
@@ -45071,7 +45069,6 @@
 @funflaretoon
 @Priyadarshini-p1m
 @SunnyStoryLane
-@MagicMeadowReadsalong
 @DarkTaleStudio99
 @FenThePup
 @TinyTunesClub-k1r
@@ -45117,7 +45114,6 @@
 @stonesandembers
 @FrontierHopeOfficial
 @HighlandHermit-p1y
-@TheTNABOYZ
 @TheIronFrontier-r4b
 @PrairieHearts-vn
 @Thenamelessgunman
@@ -51126,7 +51122,6 @@
 @ReviveBeats01
 @effectnepal10
 @boxy-oddlyhuman
-@truthtvdaily
 @%E5%89%A7%E6%9C%89%E5%BC%95%E5%8A%9B-t2c
 @GlobalEntrepreneursArchives
 @Decryptedd
