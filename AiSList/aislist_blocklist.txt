@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65999
+! Total Channels: 66009
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66015,3 +66015,13 @@
 @janiAiStudio12
 @TimelapseAi12
 @EternalLightYesuVani
+@WAAHBANARAS
+@rasoi_ai1308
+@AisauravVloggerOfficial
+@4SistersVillage
+@animationguide
+@MDJuyelTravelsAI
+@RishuAIWorld11
+@GouravKumarAi
+@ObitoXAI
+@machinemadeworld
