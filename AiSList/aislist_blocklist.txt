@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65625
+! Total Channels: 65634
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65641,3 +65641,12 @@
 @JenlisaWrites
 @DarkAarm
 @Glowria-k2p
+@The-Money-Behind-ss
+@echoesoftheblues1
+@velvet_moon_music
+@PixiLora
+@ChocoMintbeats
+@Eclipsers-u3i
+@solarasong
+@gkvideo464
+@quibble.x
