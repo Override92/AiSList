@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66159
+! Total Channels: 66169
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66175,3 +66175,13 @@
 @RealHarshitVlogs
 @KidsAI-Free
 @PlantLabAI-08
+@AhteshamTechAI-x3i
+@meeruchesedhithappu_ai
+@minifoods28
+@Lovekushvlogs-57
+@TheBibleByAI
+@VIRAT-video637
+@Cartoongully112
+@theafterlifevlogs
+@AniveraIA
+@KhusalSaini-j7e
