@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65936
+! Total Channels: 65931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11770,7 +11770,6 @@
 @SetyaAIAgent
 @AIDailyYT-d2u
 @Jack__ai-62
-@tinytalestudio21
 @chawbas
 @maddarkk
 @HistoryVerseAI-HQ
@@ -11874,7 +11873,6 @@
 @Aiteacherin
 @CraftIdeas-x2p
 @Lidori-n5n
-@BonkPals
 @StreatPawStories
 @HORROR_AI_24
 @ToffeeDiaries
@@ -29261,7 +29259,6 @@
 @bajrangbhakti-j1w
 @parentcarebrief
 @thevengeancevault-v8u
-@kahaniyonkiduniya7622
 @YangyangAI-h2d
 @whatif_irl_ai
 @Voicesoftheppast
@@ -52207,9 +52204,7 @@
 @curiousloop-1m
 @J%C3%BCrgen-e4r
 @Scarz1ikethese
-@user-yt1qn3yt1p
 @DigitalNarrative-DIY
-@VidaPrimitiva01
 @Primitive-x4q
 @lifeupgrade-d3r
 @heretohelp4
