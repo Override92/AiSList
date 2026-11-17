@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66479
+! Total Channels: 66489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66495,3 +66495,13 @@
 @Ai-gautammalik
 @TinyChef-f1u
 @MyAfricanTales-c1p
+@tinyt_ales0
+@Vverseanimationai
+@KannadaAIWorld-z1b
+@FUAICreator
+@leo-offcial-20
+@XploreStories1
+@AITimeLapseUSA
+@VirtualTarka
+@Most_High_Movies
+@AITIMEARCHIVE-t7q
