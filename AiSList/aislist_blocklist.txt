@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65916
+! Total Channels: 65926
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65932,3 +65932,13 @@
 @NCTechBR
 @IAMtheAiSlopper
 @%EC%A1%B0%EB%8C%80%EB%A6%AC%EC%9D%98_%EC%95%BC%EB%A7%A4%EB%8F%84%EC%84%9C%EA%B4%80
+@ViniApolonio
+@WhispherOrchard
+@PowerMoments-v5g
+@comoseconstroi-h4u
+@JuliaMcCoy
+@EngenhariaDasCoisas1
+@pictelate
+@KTVDigital-LLC
+@BeyondTheQuests
+@AlternateAzeroth
