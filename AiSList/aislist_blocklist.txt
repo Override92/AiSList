@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65937
+! Total Channels: 65932
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15245,7 +15245,6 @@
 @Automobilesgalaxy
 @CarsExpert-c7x3f
 @UsaCarUpdate44
-@carAutoCentre360
 @Defencetechworld-s3x
 @ShadowSymphonymusic
 @SmileMan1111
@@ -24393,7 +24392,6 @@
 @Jackthinks515
 @AIintervieww
 @haileythetraveler
-@Historyvlogg
 @Clipsector-z5b
 @officialLostWorldVlogs
 @TimeTravelUSA3
@@ -36799,7 +36797,6 @@
 @tulangneon
 @IyrosFilms
 @nuncavolvieron_es
-@masteryourmind360
 @abandonedmuse
 @timeline-philosophy
 @shauryakuls27
@@ -51799,7 +51796,6 @@
 @BecomeCGPro
 @OohDrama-01
 @MarioStoryWorld
-@Floradrama
 @iwankofficial-u9o
 @MoneyConfessions-p5n
 @RembulanDrama
@@ -52213,7 +52209,6 @@
 @vidzaraofficial
 @curiousloop-1m
 @J%C3%BCrgen-e4r
-@xyravonhfy
 @Scarz1ikethese
 @user-yt1qn3yt1p
 @DigitalNarrative-DIY
