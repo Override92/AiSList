@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65644
+! Total Channels: 65654
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65660,3 +65660,13 @@
 @MeowMovies-ig2tu
 @TraditionalSkills-e9h
 @SoulWave_01
+@HollywoodImmortals
+@8bitwhatif
+@Thusspokecef
+@HolidayProjections
+@HealthCartoons
+@erg-m5w
+@ThinkThenMelt
+@Sof%C3%ADa-yy2
+@RumiMiraaa
+@AncientSecretswithArcher
