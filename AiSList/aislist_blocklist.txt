@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65811
+! Total Channels: 65813
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65827,3 +65827,5 @@
 @Director_Gil
 @MalfoidDiaries
 @BuiltInChaptersOfficial
+@CEOpire
+@BeforeIt_WasBig
