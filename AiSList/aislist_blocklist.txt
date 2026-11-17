@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65932
+! Total Channels: 65936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65948,3 +65948,7 @@
 @veernaalhistory
 @bakecartoon
 @jurgen-e4r
+@historiasdeconfesion-es
+@sonsdaconsciencia
+@realidadeinvisivel-b3g
+@luckystaranimation
