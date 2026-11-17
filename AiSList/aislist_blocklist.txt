@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66189
+! Total Channels: 66199
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66205,3 +66205,13 @@
 @ClipFlix_Animation
 @Panther-63
 @Aichef_0576
+@AnimePixel_Magic28
+@YOUTUBER-1.5
+@NatureTimelapseai-p2j
+@Tariqaio
+@hinaautomation
+@AIStoryToonYT
+@yumvori76
+@SynthVibe_AI
+@AIMuseTheatre
+@viralaidrops
