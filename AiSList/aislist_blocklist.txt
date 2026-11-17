@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65867
+! Total Channels: 65869
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65883,3 +65883,5 @@
 @조선클립
 @이딴게
 @그려dream
+@TheMachiavelliMind87
+@Velmind-1k
