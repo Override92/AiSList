@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65714
+! Total Channels: 65724
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65730,3 +65730,13 @@
 @CanadianMortgageswithNathan
 @Dadar-Gulung-Drama
 @DramaCintaKilat
+@sundara-r3c
+@wavesoundcity
+@clearrecordtv
+@RUMIFRIENDSWORLD
+@FamePrice-d6p
+@RumiMute
+@rumiverse-a3
+@MusicalConnection-p2r
+@LANANH-f2r
+@Battle.Symphony
