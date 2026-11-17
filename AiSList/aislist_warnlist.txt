@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1320
+! Total Channels: 1321
 
 ! Entries:
 @PapaMeat
@@ -1342,3 +1342,4 @@
 @PlanetArmy8
 @jimika6544
 @FarFromAverage
+@JulianGoldiePodcast
