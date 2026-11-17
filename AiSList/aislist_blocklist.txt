@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65724
+! Total Channels: 65734
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65740,3 +65740,13 @@
 @MusicalConnection-p2r
 @LANANH-f2r
 @Battle.Symphony
+@K-Starai
+@Star_Storiesss
+@RumiStoryverse3D
+@Superstarkat
+@StarryMimi-f9b
+@brokenpricetag
+@KhangManhthanh
+@LittleStarsHindi87
+@PinkPixie-f9c
+@Aero-Nexo
