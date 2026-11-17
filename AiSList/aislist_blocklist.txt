@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66409
+! Total Channels: 66419
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66425,3 +66425,13 @@
 @DigitalDreamerAiStories
 @JumbalSirka-h6d
 @Aiillusion_sm
+@BeyondAIGames
+@ReelRealm-f2g
+@FUNNYSGAIContent
+@AadiVibeYT
+@ShortNesia-12
+@Craftaxis07
+@Film2Anime
+@UniverseJumps
+@upsilon2kappa
+@BibleReimaginedStory
