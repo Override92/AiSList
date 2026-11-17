@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66469
+! Total Channels: 66479
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66485,3 +66485,13 @@
 @OfficialAICreator16
 @Horras1
 @Animation_Heng
+@MiniToon_Ai_Animation
+@giantandministory
+@hardlofi7
+@Chefroohi.official
+@KDKIDS-w7o
+@SK_Kahani1
+@heatsal2025
+@Ai-gautammalik
+@TinyChef-f1u
+@MyAfricanTales-c1p
