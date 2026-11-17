@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66879
+! Total Channels: 66889
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66895,3 +66895,13 @@
 @RyanGonzales-017
 @Maya_sworld
 @SahibaQureshi-b9n
+@ArewaOfficial-u3f
+@UltraLeadersAI
+@AI_Universe_Daily
+@minturaaistory
+@Dick_Nick.T
+@HistoryShorts08
+@BibleKathaigalAI
+@JollyPaws-m5g
+@Catlogic-b4q
+@AI_politicalcomedy
