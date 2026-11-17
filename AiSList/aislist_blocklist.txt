@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65937
+! Total Channels: 65938
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65953,3 +65953,4 @@
 @realidadeinvisivel-b3g
 @luckystaranimation
 @JaimeAguirre-k4j
+@Rehearsary
