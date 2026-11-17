@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65843
+! Total Channels: 65842
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -14087,7 +14087,6 @@
 @fmoya-records
 @kembeats-l3b
 @lunara_vibes_official
-@polscycelebryci
 @GwenerVerse
 @SiaMarleyVibes
 @CharlesAIArt
@@ -20650,7 +20649,6 @@
 @nextrecapped
 @vaelerka
 @wildpasthq
-@PsychologyGenZ12
 @capitalize.oficial
 @DiscoverywithAmbrose
 @thenewglobalinsight
@@ -65859,3 +65857,4 @@
 @აღმოაჩინემუსიკა
 @kyrevox
 @tinndtorch
+@moneysimyt
