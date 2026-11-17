@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66809
+! Total Channels: 66819
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66825,3 +66825,13 @@
 @createsCosmina
 @Aitimelapse-k5c
 @muksanimation-b1i
+@MrcalebVideo
+@tiny_aryan10
+@AIHealthSage
+@MagicMindAI-k8r
+@BibleAiStories
+@ourstoriesunfold
+@TheBibleAi
+@FruitDramaAi-w8c
+@AiTimelapse-y2q
+@aitimelapsebuilds
