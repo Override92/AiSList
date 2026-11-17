@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65843
+! Total Channels: 65848
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65859,3 +65859,8 @@
 @사건잇슈
 @thedarkfiles-dp
 @인생15초컷
+@觉醒剧社
+@frontiereeternelle
+@逆袭纪元
+@dr.talk88
+@laultimaimagen
