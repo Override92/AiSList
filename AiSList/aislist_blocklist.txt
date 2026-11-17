@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66179
+! Total Channels: 66189
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66195,3 +66195,13 @@
 @aihousebd
 @CatsAnimationAi1
 @BabyHubAI0
+@ChefBlissTv
+@MR.RonnyShah
+@KIDOKOROSTUDIOMILANO
+@FictionAi-Art
+@TheFamilyKissa
+@AiWala-hu
+@A.S.RAJPUT-NF
+@ClipFlix_Animation
+@Panther-63
+@Aichef_0576
