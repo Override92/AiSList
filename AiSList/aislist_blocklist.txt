@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66139
+! Total Channels: 66149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66155,3 +66155,13 @@
 @ppleonline-ai
 @OmsanatanAI
 @ImmaculateAI
+@STBimla
+@ajanish1106
+@AIKidsStoryShorts
+@aibiblefun
+@AmzatAdemola-x5m
+@TheAiTimeLapse
+@Nautanki_vlog
+@AIFilms2050
+@AITimelapse_you
+@funkadoseofficial00
