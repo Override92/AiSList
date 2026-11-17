@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65827
+! Total Channels: 65834
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65843,3 +65843,10 @@
 @BrandChapters
 @Capital_Uncovered_Off
 @thedoodletherapist-d5h
+@TheHistoryWindow-p5h
+@undertheempire-tv
+@EmpireOrigins.01
+@builtstories123
+@TheCompanyFiles-w4o
+@TheBrandEpoch
+@Built-Big-yt
