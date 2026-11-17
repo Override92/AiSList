@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66029
+! Total Channels: 66039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66045,3 +66045,13 @@
 @MudahNgertiAI
 @novera-origins
 @dailykidsaistory
+@RupeshOffcail
+@FlashFunnies-v6l
+@AIStoriesKiDunia
+@AiProphecies-YT
+@Kingislam-54
+@UncoveredbyAiSa
+@EasyTamilLearningthroughAIAnim
+@Harshitaiverse
+@GospelTorch-h1t
+@BabyBooTV-b
