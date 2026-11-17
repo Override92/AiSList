@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67219
+! Total Channels: 67229
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67235,3 +67235,13 @@
 @Manahilkidsanimation
 @Buddhist-g2o
 @AIbiblestorytamil25
+@TheBibleAwaits
+@FreyaStormborn-t7z
+@Pen-Language-Pro
+@TinyWhiskersStories
+@Kidsbiblestory-x
+@AIBibleEpic
+@Unboxly-v4p
+@LoopNLaughAnimations
+@Anam_fatimaofficial
+@soltneuro
