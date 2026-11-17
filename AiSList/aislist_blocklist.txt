@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65877
+! Total Channels: 65886
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65893,3 +65893,12 @@
 @RustbornGarage26
 @JoraiLaurenceo
 @AskwhoCastsAI
+@jensentung
+@mrEndatah
+@juancarloss_ia
+@MakeMoneywithStacyLa
+@blockfilesyt
+@KisahSenja-f4r
+@PlotBalikDrama
+@%EB%82%B4%EA%B7%80%EC%97%90%EA%B2%BD%EC%A0%9C%ED%95%99
+@hersecondhalfpsych
