@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65896
+! Total Channels: 65906
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65912,3 +65912,13 @@
 @C_Drama_Capital
 @Himanshu-r7o8m
 @DeepTales-s2x
+@storywithfaam5.0
+@TamimwithAI
+@AradhanaSarkar98
+@mr.arabeeat
+@TheFactSprintYT
+@sovandalai1977
+@SagaCinemaAI
+@CuriosityEngineDaily
+@CapyBlooms
+@HarlanClimate
