@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66649
+! Total Channels: 66659
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66665,3 +66665,13 @@
 @AdeesAICartoon
 @AAITimelapse
 @xuanoidungso
+@ShadowProtocol2.0
+@Timetravelking
+@Itstinyaivisuals
+@BibleWarriorsTV
+@RahulAiunit
+@Animationvideo-g1y
+@AfricaUnseen2026
+@ErdemBozkurt-b6t
+@TheBibleLivesAI
+@FunnyBlast-y4p
