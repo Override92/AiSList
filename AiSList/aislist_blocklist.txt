@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66109
+! Total Channels: 66119
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66125,3 +66125,13 @@
 @Babychef-i5k
 @AiAfricanReal
 @Chef_Julie029
+@CalmAITimelapse
+@AIWorld-z4z
+@diycreation786
+@Mahadewaaishorts
+@AIbunkertimelaps
+@AnimationNetworkAi
+@ToonPawsAnimation
+@Divinite-ai-vision
+@op-animatonogi
+@DragonVerseStudios
