@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67059
+! Total Channels: 67069
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67075,3 +67075,13 @@
 @CapybaraCan
 @toonglowup
 @AIBibleHistory-t5x
+@Renderwars
+@aniqai
+@MODINAARMATI6.0
+@BibleChronicles-q9b
+@aifoji0
+@CaptaleAi
+@AfricanMoonStories
+@kids_cartoon_story_ai
+@OrbitHindiAnimation
+@AfricanStoriesfolktalesbyMercy
