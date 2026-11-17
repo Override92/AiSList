@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65843
+! Total Channels: 65844
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10315,7 +10315,6 @@
 @Jelly_World_ASMR
 @lavenderdiaries-1111
 @ASMRlab4u
-@EmamiaAI
 @fantasyASMRrooms
 @MugenPalette
 @DoorToAmazingWorld
@@ -65859,3 +65858,5 @@
 @mii-land
 @tsukutte-rekishi
 @浮生岁月音乐
+@gta-vi-o3
+@theplotrecaps
