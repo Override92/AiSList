@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65597
+! Total Channels: 65596
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17792,7 +17792,6 @@
 @HeartNest-US
 @Soulfulstories-s1d
 @CatsRevengeus
-@crownbeacon1
 @MildJusticeStories
 @RedditDailyChronicles-m4s
 @EmbersofEmotions888
@@ -20296,7 +20295,6 @@
 @senjadoa93
 @earthhq360x
 @loteriadiariomx
-@trade_vision_live
 @aimasterman49
 @SoulStirringStories
 @주식을예술로
@@ -65613,3 +65611,4 @@
 @ModernTechOfficial-z6e
 @SecretWhisperTales-u2l
 @inspectionhome-s7n
+@phatphap68-m7m
