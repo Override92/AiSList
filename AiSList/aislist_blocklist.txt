@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66499
+! Total Channels: 66509
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66515,3 +66515,13 @@
 @AfricanMovieTales-f6g
 @BibleAITales
 @ai.creator.worldq
+@Noor143-t9e
+@AIVerseAI-u2y
+@arnosticinematic
+@SAVASK%C5%AARYBOSBROKERIS
+@IndiPinaDiaries
+@AIDesiDuniya.19
+@AIChefIndia786
+@sapnakumari-g4v3q
+@RichardJuliet12
+@KennyRoyalsTVAImovies
