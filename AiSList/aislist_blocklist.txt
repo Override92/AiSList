@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65813
+! Total Channels: 65816
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65829,3 +65829,6 @@
 @BuiltInChaptersOfficial
 @CEOpire
 @BeforeIt_WasBig
+@wownexplainers
+@BrandStoryline
+@TheRealFinance12
