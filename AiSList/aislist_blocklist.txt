@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65759
+! Total Channels: 65761
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3599,7 +3599,7 @@
 @Hombres_con_Poder
 @Dr.FernandoMéndezsaludactiva
 @SaludMilagrosa
-@Dr.MateoCastillo
+@antesdelaconsulta
 @revengestorieswitholivia
 @truelifechronicles-d9o
 @ZooPhenomena
@@ -15339,7 +15339,7 @@
 @teddymusic-j4r_fan_made
 @sertanejo_por_ia
 @edwinovengua123ise
-@발로차기
+@po_hi_you
 @nowfifa-c2t
 @doaflipceo
 @hollywood_ai_studios
@@ -65775,3 +65775,5 @@
 @SharpShooter-b2x
 @apexmotorxofficial
 @firstcommitt
+@kruege_7
+@itssss-ss
