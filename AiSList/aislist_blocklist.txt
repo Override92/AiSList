@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66019
+! Total Channels: 66029
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66035,3 +66035,13 @@
 @TimelapseAI-y8d
 @AISoraAnime
 @AITimelapseOfficial
+@TimelapseAI-99
+@DreamBuildTimelapseAI
+@AvinashAiShort
+@AiMagicWorld-i3w
+@JADUIDUNIYAVLOGS
+@ai_artist_s3s
+@PreetiKeshavchaudhary
+@MudahNgertiAI
+@novera-origins
+@dailykidsaistory
