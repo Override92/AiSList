@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67296
+! Total Channels: 67298
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67312,3 +67312,5 @@
 @worlddramaus
 @Africanfolktalesbystoriz
 @Vgvlogs-04
+@AriKuschnir
+@VeeandMochi
