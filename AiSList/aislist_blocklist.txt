@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65596
+! Total Channels: 65605
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65612,3 +65612,12 @@
 @SecretWhisperTales-u2l
 @inspectionhome-s7n
 @phatphap68-m7m
+@TheAnimeVault-z1a
+@black-factum-official
+@nizzania
+@RewindHeartsMusic
+@Crimson_Thunderz
+@As%C3%ADnosfue
+@ivanfamil
+@todaytrendingtech
+@KazeTunes-v3b
