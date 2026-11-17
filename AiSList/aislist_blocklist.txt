@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65754
+! Total Channels: 65758
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65770,3 +65770,7 @@
 @banggtanniies7
 @flower-j5q9u
 @OffbeatPanels
+@zeriahstudios
+@favourunfolds
+@hiddenfortunechronicles
+@beneathafricanskies-tv
