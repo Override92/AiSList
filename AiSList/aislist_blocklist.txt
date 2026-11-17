@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65844
+! Total Channels: 65843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9598,7 +9598,6 @@
 @theuptowngangmusic
 @elaimusic_time
 @TimelessSelect
-@rhythmmusicstudios
 @RazzaProd
 @Addis-Taem1
 @promixworld
@@ -9625,7 +9624,6 @@
 @theragaprojekt
 @AI_Re_Sound
 @SunziqMusicCover
-@voxxaimusic
 @echomuvic
 @RockverseAI
 @J3ssn3ss_Records
@@ -10949,7 +10947,6 @@
 @雨の隠れ家
 @battlefieldlegends9
 @wondersproutsbalh
-@thewhittytwo
 @aitechoding
 @wondersprout-j9m
 @thereidtrack
@@ -65860,3 +65857,5 @@
 @gta-vi-o3
 @theplotrecaps
 @აღმოაჩინემუსიკა
+@kyrevox
+@tinndtorch
