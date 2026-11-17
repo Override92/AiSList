@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65799
+! Total Channels: 65806
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65815,3 +65815,10 @@
 @HPAcademy1
 @LunaLovelaceTech
 @0wnhistory.documentary
+@UnderTheLogoHistory
+@BrandOrigins-j6v
+@FoundedOnNothing
+@VrossaStudios
+@rise_of_Giants7
+@EmpireFilesyt78
+@GoldenScopeCinema
