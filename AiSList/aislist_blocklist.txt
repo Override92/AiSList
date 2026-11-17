@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66039
+! Total Channels: 66049
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66055,3 +66055,13 @@
 @Harshitaiverse
 @GospelTorch-h1t
 @BabyBooTV-b
+@SmartAITimelapse
+@CarXAIShorts
+@AI_Kitchen.16-u7d
+@AiBabyshorts-w7b
+@SubhanTimeTravel
+@heartbeatstoriesAl
+@VEGGIEAIVEDIO
+@EMFaithGospel
+@HelloVlogsUAE76
+@Priellastudio
