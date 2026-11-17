@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67009
+! Total Channels: 67019
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67025,3 +67025,13 @@
 @bobthesadcat
 @CineVerse-2831
 @toonpind66
+@Jesus-Speaks-TV
+@AfricanShortStoriesByTheAfrica
+@BibleChroniclesAI
+@BibleLight-h2w
+@biblequotes-ph
+@MichaelGibson-c3q
+@Mastikidukann
+@madztimetraveler
+@Cookwithrumanabir44
+@O-AIFilms
