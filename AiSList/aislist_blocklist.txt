@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65945
+! Total Channels: 65950
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65961,3 +65961,8 @@
 @NelsonAIcoach
 @InfiniteAIstories18
 @NotaBotBibleReading
+@WORSHIPJESUSPRAISEGOD
+@manvendra-nmh
+@TrendoraTV01
+@AIWITHADARSHH
+@PrajyotBeyondLine
