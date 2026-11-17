@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65760
+! Total Channels: 65762
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17972,7 +17972,6 @@
 @MysteryTales-y8i
 @TalesOfLife_YT
 @HeartlineStories11-7
-@talesbylestin
 @TaleVerse11
 @QUEENROBLOXabc
 @RegretLoverTales
@@ -65776,3 +65775,6 @@
 @beneathafricanskies-tv
 @TavernBardUnlikelyCompany
 @CEOdomain-k8t
+@nuvorareign
+@spinofftherecord
+@oddrunulf
