@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66559
+! Total Channels: 66569
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66575,3 +66575,13 @@
 @TheskeletonhubYT
 @AiPetsAnimation
 @BibleMessagesStoriesByAi
+@VeoBoostAi
+@AIStory000
+@GymMotivation-gc1wo
+@AiMagixAnimation
+@Animation-Ai-m8j
+@FaizPasha-x2o
+@joyanimationkids
+@TimeTravelHubb
+@AiVibes-k9s
+@Biblestoriesnutshell
