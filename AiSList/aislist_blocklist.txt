@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67029
+! Total Channels: 67039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67045,3 +67045,13 @@
 @BabyBanter-n5d
 @Aiandbikevideos
 @AIBibleUnplugged
+@BibleStudies_CA
+@AI_Films_by_Prerna
+@AashikMahmmad
+@Desi_AI_Fimls
+@AI-PoweredTimeTravelStories
+@Wizloons
+@CartonixAIHub
+@AfricanstorybyGina7422
+@AITutorials-x4r
+@KJV-BibleAIVisual
