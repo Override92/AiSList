@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65767
+! Total Channels: 65762
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51321,10 +51321,8 @@
 @AfricanTalesCinema-m9g
 @AfrocentricChronicles
 @JulioDeAfrica
-@yousafraza4885
 @Jaja-Tales
 @AFRICANTALESUNVEILED-95
-@AfricanFolkloreChronicles-i3n
 @AfricanFolktalesWithTemi
 @TalesBeneaththeBaobab-b3l
 @AfriLoree
@@ -51362,7 +51360,6 @@
 @TheHiddenWealthStory
 @SuperstoreSecrets
 @RetroGameVerdict
-@ghstsystm
 @Turning_Point08
 @QESUSDocumentariesUrdu
 @TheWarLegacy12
@@ -51372,7 +51369,6 @@
 @AmishJackYoder
 @DiscoverTheStates247
 @Techbite4567
-@BlueLights8
 @asifasadaf5569
 @kayyHistoryNeil
 @WW39-45
@@ -51529,7 +51525,6 @@
 @OvtedFatash
 @TheFinalSalute-j2l
 @ScarletDominion_26
-@Life-ChangingTrueStories
 @Vocalessence-l3u
 @ProjectKaebe
 @shijxiaixhu
