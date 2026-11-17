@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65834
+! Total Channels: 65836
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65850,3 +65850,5 @@
 @TheCompanyFiles-w4o
 @TheBrandEpoch
 @Built-Big-yt
+@giantrootsofficial
+@BuiltOnYou0
