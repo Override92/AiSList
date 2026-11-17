@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67139
+! Total Channels: 67149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67155,3 +67155,13 @@
 @AI.Kingdom84
 @SheenCvb-Official
 @RedLeaderRedsquadon
+@aikitchenlab07
+@ZayanHamzaCartoon
+@Anime4.07
+@AIBIBLEAIBIBLE
+@shakirullah-d4r
+@SmartAIChef
+@aicheftimothy
+@MarihaCorleone
+@BibleTriviaWorld
+@WatermelonFelon-v9f
