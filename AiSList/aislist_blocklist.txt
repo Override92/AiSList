@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65596
+! Total Channels: 65591
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45161,9 +45161,7 @@
 @EarthNewsDocs
 @Capitol-Signal
 @DuiLingDing
-@AryanEditz101
 @J44d3_Music
-@Alex_Ronnie23
 @WW2Arsenalst1
 @CobbHollow
 @BroadusVittum
@@ -51161,7 +51159,6 @@
 @HlasRozumu-c8t
 @TheAListInsider-f3g
 @vit-s3e
-@SmartHealthGuide-s1v
 @TheQuietHour-v9v
 @GlennStewart-k3w
 @Ka%C3%A7%C4%B1n%C4%B1lmazSevda
@@ -51172,11 +51169,9 @@
 @DadOfTheYear686
 @HiddenOrigins23
 @Silent_Father1
-@Hidden_Hearts_2x
 @ObsoleteYetIconic
 @naindigital
 @ttunboxing
-@TheHandsetHub
 @Trakinabhi
 @vicetechtz
 @gigahaber
