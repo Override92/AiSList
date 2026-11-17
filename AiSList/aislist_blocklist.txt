@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65839
+! Total Channels: 65842
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9260,7 +9260,7 @@
 @PeculiarTownStories
 @TheUnusualTown
 @Rebecca-r1s
-@VillageAi-n1r
+@flamecraft4k
 @SurrealWorld-j7m
 @BuddyisChaos
 @wakeningdreams
@@ -65855,3 +65855,6 @@
 @varshitthx
 @matijamatesmusic
 @the30thdayanimated
+@meetquill_3d
+@midnightphysics_1
+@mii-land
