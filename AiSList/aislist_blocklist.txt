@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65869
+! Total Channels: 65868
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12943,7 +12943,6 @@
 @AIちゅーん
 @jgirls47
 @FUJIYAMA-AI-Music
-@marcmarqueznewsin9min
 @ikahariawanai
 @JudgeAuditCourt
 @Yogirirecap
