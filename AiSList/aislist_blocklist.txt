@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65759
+! Total Channels: 65760
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65775,3 +65775,4 @@
 @hiddenfortunechronicles
 @beneathafricanskies-tv
 @TavernBardUnlikelyCompany
+@CEOdomain-k8t
