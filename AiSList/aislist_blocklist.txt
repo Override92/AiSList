@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66839
+! Total Channels: 66849
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66855,3 +66855,13 @@
 @BibleComicsAIPH
 @DazorAI
 @funminutemovie
+@AiFilmVault
+@NeoAfrica_Stories
+@simranswaraj-k1d
+@Marcothelife
+@anniethetimetraveler
+@IslamicMiniatureCrafts
+@AfricantalesbyDominica
+@BibleAICinematic
+@Aicreater_Abbzar
+@AIChefWorld
