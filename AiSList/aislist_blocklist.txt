@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 66339
+! Total Channels: 66349
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66355,3 +66355,13 @@
 @Aibledllab
 @aiworld-c6u
 @AfricanDreamStoriesTV
+@TheBibleStoryAI-n8f
+@Goodyaicinemas
+@ShortFilmsMikoLumi
+@TG4mingYT
+@AbbyVerse-e5p
+@vince19visuals
+@aicartoonanimation-03p
+@modernCartoon0
+@Raja0017
+@ChefPandaDiaries
