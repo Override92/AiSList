@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65763
+! Total Channels: 65762
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -36405,7 +36405,6 @@
 @Serenityuniverse-z2e
 @Malefic_Official
 @GhibliShubhi
-@MilenJustMusicAndGoodVibes
 @BrownandCozy
 @MyCozyWorld_1
 @NeresForge
