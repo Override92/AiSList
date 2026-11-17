@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65936
+! Total Channels: 65937
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -20706,7 +20706,6 @@
 @GreatShorts.12
 @ZOOMIFY-YT
 @sonicaiworks
-@elif004-r4v
 @clipsinko
 @skittl71
 @beepbeepbro
@@ -65952,3 +65951,5 @@
 @AIWithBob1
 @kabukluniyazi
 @veernaalhistory
+@bakecartoon
+@jurgen-e4r
