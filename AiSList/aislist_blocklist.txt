@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65595
+! Total Channels: 65590
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25760,7 +25760,6 @@
 @FutureCityAmbient
 @DarkGangsterTechno
 @TheWindowSeatView
-@AlissonReacts-v7i4v
 @Alone-movie-d8x
 @SlowSnails
 @SlopMaster-d7k
@@ -51173,7 +51172,6 @@
 @naindigital
 @ttunboxing
 @Trakinabhi
-@vicetechtz
 @gigahaber
 @basketballlegends67
 @military_world
@@ -51183,7 +51181,6 @@
 @NocturnoFiles
 @KnowledgeOasis999
 @quizclass4612
-@ThinkFusion777
 @QuizHaven4zk
 @QuizTimePubQuiz
 @RootsofRoyalFamilies
@@ -51208,7 +51205,6 @@
 @ForgottenAmericanSchoolDays
 @DoMixiTales
 @DasSchweigenderFamilie-i5h
-@DeathworldChronicles-r1c
 @BigfootBigshoeOfficial
 @spacezone-j1b
 @UKFootyAnthems
@@ -51225,7 +51221,6 @@
 @Frontline1941-u2y
 @WW2TalesUSA-y3t
 @StoryHub25
-@HistoryUnveiledDK
 @AjdaBulut
 @SimpleB-i6x
 @Elsewhen01
