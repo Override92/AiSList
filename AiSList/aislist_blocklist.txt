@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65744
+! Total Channels: 65754
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -65760,3 +65760,13 @@
 @BehindToolsChannel
 @Willow.Prankz
 @MVersechanel
+@K-AnimeStudio
+@PIXZY-n4j
+@Mirumi-g9t
+@MimiVerse-o2d
+@CalmAnime8
+@TheLastObservatory-z4m
+@CUTIELLA-o8s
+@banggtanniies7
+@flower-j5q9u
+@OffbeatPanels
