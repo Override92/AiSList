@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 65848
+! Total Channels: 65843
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8301,7 +8301,6 @@
 @faithandthefinances
 @Economicbreakdown1
 @EconomicCrises101
-@OrdinaryEconomics
 @StoicEconomist
 @Viraleconomicsoffical
 @WealthBeforeWealth
@@ -22886,7 +22885,6 @@
 @Mr.EdwardStories
 @animalasmrmukbangcute
 @Pixora1c
-@EmperorsfinestAI
 @OliviaAfricanfolktales
 @Africanstorytime-d7k
 @AfricanLifeStoriesOfficial
@@ -23586,7 +23584,6 @@
 @OldMoneyDynasty
 @UpperClassMarriage
 @jukebox-america
-@snoozetorian
 @GoldenGiants
 @rarelycaptured
 @HollywoodObserverHis
@@ -51722,7 +51719,6 @@
 @AVSStudio1M
 @onlyfunnyai
 @Babybanter00
-@MalamTerlarang-z5d
 @cartoonkudo-7
 @CueDot1
 @Yeongwol_AI
@@ -51805,7 +51801,6 @@
 @ShadowDesire26
 @Avelenn56
 @KeHeng_AI
-@TheSwornFileNews
 @OBTMovieAI
 @BecomeCGPro
 @OohDrama-01
