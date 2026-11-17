@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67298
+! Total Channels: 67300
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67314,3 +67314,5 @@
 @Vgvlogs-04
 @AriKuschnir
 @VeeandMochi
+@LanguageLines
+@scifidaily72
