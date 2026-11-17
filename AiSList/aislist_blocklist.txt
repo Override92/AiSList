@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67169
+! Total Channels: 67179
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67185,3 +67185,13 @@
 @VisionLightStories
 @SecretTales789
 @uyenstudio
+@AI.Tidbits
+@kidskingdom_Ai
+@Animationandaiedits
+@JesusHopeFaith-x1z
+@MadeOfPixelsYT
+@JayMhaeTravelz
+@Adelakunoluwakayode
+@totalanimationstudio-12
+@iamritikanimation_ai
+@GaonKaMechanic
