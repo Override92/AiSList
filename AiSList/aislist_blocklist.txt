@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67049
+! Total Channels: 67059
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67065,3 +67065,13 @@
 @Zaarah__tales
 @AIHistoricalFigures
 @TimeTravelAI-g1z
+@kidsaistory-50
+@Bible_ReAnimated
+@ChefRemyAI
+@GLICHEDFUN
+@timelessnarratorai
+@kidsstoryworld12
+@BibleAIDea
+@CapybaraCan
+@toonglowup
+@AIBibleHistory-t5x
