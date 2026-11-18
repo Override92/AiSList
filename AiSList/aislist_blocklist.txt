@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67282
+! Total Channels: 67281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29562,7 +29562,6 @@
 @Sci-FiHFYStories
 @SavagePepperStories
 @saddlecreekstories
-@SaddlebackStories
 @RyanStoriesChannel
 @RoyalTruthStories
 @RoyalixStories369
