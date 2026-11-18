@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67589
+! Total Channels: 67597
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67605,3 +67605,11 @@
 @RiftOwl
 @TheAfrican.StoryVault
 @TECHGALAXY1.0
+@DeepSeaFilesTV
+@ExclusiveVikingMetal
+@waitwhatchannelofficial
+@survaival101
+@WantedAtlasGTA
+@DataCraftAcademyHQ
+@onyemaobialex
+@IA_Desenhos_Design
