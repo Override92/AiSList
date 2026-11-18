@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67299
+! Total Channels: 67294
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18054,7 +18054,6 @@
 @ECHOOFTALES123
 @mfontales
 @TheSilentVerdict68
-@ToldbyElders.1M
 @QuietFamilyRevenge-j1p
 @TellingStoriesOfRevenge
 @TheAmericanCourtroom
@@ -27054,7 +27053,6 @@
 @AIPosted
 @Aimemelaboratory
 @VincenteAldoori
-@mypartytunesofficial
 @shadowbrain_ai
 @memenute
 @VIBIQ_brainrot
@@ -52318,18 +52316,15 @@
 @G%C3%B3cNh%C3%ACnKh%C3%A1c-t9b
 @Nhatvch-w3y
 @Amelia-p1f7c
-@ElaineChandler-g7k
 @techvortex-x3b
 @TechBeaconXR-r9g
 @TheMidnightHistorian-v9n
-@BTS_ARMY_Ai
 @MidnightMayhemTunes
 @ZenessX
 @projectflowofficial_1
 @WillieNelsonArchives-j2p
 @cindy_chan-h7t
 @DarkFind-l8x
-@zarubin-v2m
 @IndianBikeReview-f1k
 @CalmRelationshipStories-y2w
 @AZfacts-d1d
