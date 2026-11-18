@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67981
+! Total Channels: 67991
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67997,3 +67997,13 @@
 @ytghiblishorts
 @GhibliVibes-z3b
 @EchoesOfEmpiresAncientWorld
+@KitchenrecipeAI
+@villageandcityflavours
+@food_animation-b1x
+@AIfoodshorts25
+@ai_cooking_store
+@CosmicChronicles-x5n
+@OhWhatisThiss
+@TheWonderNest-28
+@Dreamina-FXai
+@historyteller-i6e
