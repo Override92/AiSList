@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67599
+! Total Channels: 67594
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6548,7 +6548,6 @@
 @No.music2026
 @BrokeButSmart_tv
 @shanoosy
-@FlipGender
 @Elixeo
 @MindsetCapital_Elite
 @BabyNewsNetworkYT
@@ -14130,7 +14129,6 @@
 @MomentsThatLinger-i2
 @user-v5g6i
 @Talesofhoney-o
-@MEAfricanTales
 @folktalebybenter
 @HeartofAfricaFilms
 @NollywoodVillageTv
@@ -14141,7 +14139,6 @@
 @talesbytyron
 @frankblase9050
 @lightedtalestv
-@florafolktalestory
 @KambiTales
 @LampoftheHeart-x4b
 @MythicalRealities2026
@@ -14210,7 +14207,6 @@
 @SmartPathFinance
 @ath_live
 @BangJulOtoritas
-@TheDebtLedger-d2k
 @HolyTruth7
 @Focuspheree
 @AIrchitect1111
@@ -52446,7 +52442,6 @@
 @BetterSketchOfficial
 @IfWorldStories
 @inkdudev4
-@ZedZombieStickman
 @HalfLit1
 @startnowfilms
 @QuietShadowFilms
