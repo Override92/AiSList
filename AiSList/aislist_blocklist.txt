@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68011
+! Total Channels: 68021
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68027,3 +68027,13 @@
 @therealai4444
 @relaxingghiblirecipi
 @AriyanAhmed-w1g
+@NeoKemetAI
+@thekidday
+@ComfortCorner1604
+@CookEatRepeatMukbang
+@GhibliCookingMagic
+@humanoid-robo
+@memory_retro_vibes
+@anoopkumar4722S
+@AI-Italia0
+@lucid_speed
