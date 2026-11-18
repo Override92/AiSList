@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67350
+! Total Channels: 67360
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67366,3 +67366,13 @@
 @sickomet
 @EasyGenius-e8n
 @Beyond_Human_Imagination
+@DashDriveway
+@VideoBibliaOficial
+@AlienFearSci-fi
+@CalmAura4K
+@GARDVEXO
+@nobodyiscomingshorts
+@mrtech_explainer
+@WideFrameFilms
+@BuiltInHistoryTV
+@sparkaiimagination
