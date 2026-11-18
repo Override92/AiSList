@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67287
+! Total Channels: 67282
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -27120,7 +27120,6 @@
 @Mr.Physicistk
 @AI4EduAfrica
 @FRC-Framework
-@TheFacelessAiProject
 @TheGraceandKnowledgeSeries
 @VeronicaWalshCBT
 @TheLearningVote
@@ -29402,7 +29401,6 @@
 @AfroKoreanStoriesH
 @AdamStoriestht
 @AndreStories26
-@BetrayedManStories
 @AuroraStories191
 @BittersweetStories88
 @CalmFatherStories
@@ -29474,7 +29472,6 @@
 @hoaStories-n8n
 @historyslifestories373
 @HiddenStatusStories
-@HiddenHeroStories-y9h
 @HFYStarworldStories
 @HFYGalaxyStories-u8b
 @HerPeacefulPowerStories
@@ -29533,7 +29530,6 @@
 @OnlyDadStories
 @Oliviahartstories
 @OldWestStoriesLegends
-@OldWestRomanceStories
 @OldWesternStories-n2r
 @OldLionStories
 @OfficeStories-r9h8f
@@ -29589,7 +29585,6 @@
 @ThePrinceofDarknessStories
 @TheFinalVerdictStories.1
 @TheExitClauseStories
-@TheDukesUntoldStories
 @the-stories-of-time
 @ThalricStories
 @TearsTriumph_Stories
