@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67549
+! Total Channels: 67559
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67565,3 +67565,13 @@
 @REINAS5_OFFICIAL
 @RUMEAAi
 @ProofreadFiles
+@ars-robotica
+@powermetalchronicles
+@Bagun%C3%A7a_Hist%C3%B3rica
+@debsolayinka6156
+@SecretFlameFilms
+@africantalesandcinema
+@HexTerminal
+@apocalol_ai
+@retrobooster
+@TheOverthinkerStudios
