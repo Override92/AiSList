@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67297
+! Total Channels: 67299
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67313,3 +67313,5 @@
 @lazyhammockfishing
 @1분사운드-b8f
 @hisstoryanimated288
+@shahzadkhalil-p9u
+@chalcefilms
