@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67811
+! Total Channels: 67821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67827,3 +67827,13 @@
 @IslamicVideoChannel-0
 @niyofeel
 @fruitdrama-p8m
+@quickaikitchen
+@MuhammadKhan-m1x6t
+@Rahul-c5y2v
+@thecomedykernel
+@TeddyStitchKitchen
+@Asmr.food.fruity
+@aitinykitchenrecipes
+@USAFunZone-b6b
+@AshishAIHub-1
+@Furry_Toons_ai
