@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67500
+! Total Channels: 67510
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67516,3 +67516,13 @@
 @saefilms7
 @AI_HumanLab
 @IA_JOIA
+@BibleAIAlive
+@nepaliai_video
+@aichristianbiblemusic
+@DigitalVisionaryManagement
+@OsMontag
+@AWNoorKids
+@immuyass
+@DarkFilesHindiKaalMystery
+@Najmulday
+@AfterScenedio
