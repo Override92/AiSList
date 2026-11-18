@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67289
+! Total Channels: 67287
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29408,7 +29408,6 @@
 @CalmFatherStories
 @buffstories
 @BrokenVowsInfidelityStories
-@BrightHeartStories2.0
 @BraveDadStories
 @BrainrotStories-w6v
 @BodySwapAIStories
@@ -29521,7 +29520,6 @@
 @NebulaCommand
 @NeanderthalStories
 @NaraivaStories
-@MythoriginStudio
 @mystories777
 @MultiverseStories111
 @MrSRichStories
@@ -36879,7 +36877,6 @@
 @FBIraid-us
 @astorio_rock
 @ThePhysicsAccordingtoFeynman
-@theunchaoticman
 @sakzbeatz
 @flashfeast1world
 @comfycrumbss
@@ -67305,3 +67302,4 @@
 @chalcefilms
 @vergessenesuberlebenswissen
 @rontgenstahl
+@xa_aimovie
