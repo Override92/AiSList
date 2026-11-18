@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67440
+! Total Channels: 67450
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67456,3 +67456,13 @@
 @SheikhXAi
 @BTS-ANCIENT-HUMANS-HISTORY
 @kamiruddinitz
+@StoryNexus-r4d
+@TabbyOfTales
+@OldCatManTalks
+@FarjanaAkter-66
+@ForlornHopeHFY
+@Five6Empire
+@Starforgepro
+@FruityVerseStudio
+@TheExplainerArt
+@TimeTravelAIOfficial
