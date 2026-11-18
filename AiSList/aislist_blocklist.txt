@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67861
+! Total Channels: 67871
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67877,3 +67877,13 @@
 @GhibliWhisk
 @FruitStoriesAI-m1g
 @karamaat_ai
+@THE_POV_VAULT-p4e
+@cozyvillageghibli
+@MyGhibliVillage24
+@GhiblistyleVide-o
+@TheRedShiftScrolls
+@claudiaatech
+@Gaonkithali-w4r
+@MiniTorque_Cars
+@minia.ikitchen
+@GhibliCookingYT
