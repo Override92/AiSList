@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67280
+! Total Channels: 67290
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67296,3 +67296,13 @@
 @nisardailyworld
 @kidsscienceacademyscl
 @christmholidamusic
+@VisualCraftsDaily
+@Nature_rise7
+@TheHOAKarenFilesOffical
+@aitechonology2378
+@AfricanTalesByEmilia
+@mindfactzone
+@funnyvibes0510
+@midnightsnackersofficial
+@bible-for-you-i8t
+@VastViralVideos
