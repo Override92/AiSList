@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68061
+! Total Channels: 68071
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68077,3 +68077,13 @@
 @TheHeroicHistory
 @RClips-e2d
 @RusticGhibliEats
+@EchoesoftheCitadel
+@Amri-j6i
+@ShortsCartoon-b6f
+@SanviGhiblivillage
+@islamictechlab
+@GhibliworldofJoeta
+@VKim-p7b
+@rajuankita-w5
+@Anubhav_AI
+@AI_hindi_story-n
