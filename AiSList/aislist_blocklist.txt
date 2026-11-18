@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67791
+! Total Channels: 67801
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67807,3 +67807,13 @@
 @AI_SPARK-g4y
 @MiniBiteyzzz
 @Prince_34_legend
+@3DAIMASTERofficial
+@UsmanGani-o9j
+@CrispyAI.8
+@Crazy_BILLO
+@xseniya_ai
+@kaalyatri10
+@MiniDelish12
+@FutureGenLab
+@MiniatureAICooking
+@HistoraVM
