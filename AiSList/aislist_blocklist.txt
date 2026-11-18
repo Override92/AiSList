@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67294
+! Total Channels: 67289
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52412,10 +52412,8 @@
 @PowerBookAnimations
 @AiVerse-e9h
 @nkechijane-em5gv
-@SCRIPTORA-thelivingwordstories
 @Christauraglobal
 @MvrcoTechs
-@CartoonTVTV-s1o
 @aiheaven-q2u
 @Chineseheavengate
 @PolarNight-AI
@@ -52426,8 +52424,6 @@
 @zhaou-w5t
 @flowmuseai
 @Root_to_bloom-l2g
-@Sriai-t5o
-@USA108-d8h
 @ViralAi_Videofy
 @gamingchallange-h3f
 @AFX-m9f
@@ -52442,7 +52438,6 @@
 @Chronohieros
 @PrimeDaily-v2o
 @TruthonStage-s7v
-@GoodForMe-y3w
 @JeneZeit
 @R%C3%B6ntgenStahl
 @JerryMovies-f5l
