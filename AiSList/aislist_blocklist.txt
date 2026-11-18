@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67821
+! Total Channels: 67831
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67837,3 +67837,13 @@
 @USAFunZone-b6b
 @AshishAIHub-1
 @Furry_Toons_ai
+@tinycraveasmr
+@lesschfake
+@GhibliStoryA
+@Papi-y3n
+@Word_Golem
+@MananStories-q9m
+@luvi-kiro
+@ApexDominionHFY
+@BackInTimeHF
+@GhibliVisuals-d3p
