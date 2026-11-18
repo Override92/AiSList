@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67400
+! Total Channels: 67410
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67416,3 +67416,13 @@
 @hyderabadibaiganai
 @onlinestudio10
 @AIWalaScene-m3q
+@Unnamed-Legacy
+@aiFaishalStudio
+@Bruce.Lee.Wisdom
+@studioaikatha
+@VexaraZero
+@Oliviathemountaindog
+@noahkuhn6273
+@Levende-Ru%C3%AFnes
+@Cosmiwhy
+@nova_ai_daily
