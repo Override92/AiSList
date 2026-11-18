@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67539
+! Total Channels: 67549
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67555,3 +67555,13 @@
 @ARCSOUNDST
 @RumiStarStudio
 @JayDoesAIAutomation
+@Rumihuntrix2
+@ARTificial-music-studio
+@LEOPRODUCTIONHOUSE
+@DoomsdayHistory-pvt
+@syloramusic8
+@SYLORASMUSIC
+@EverydayOpened
+@REINAS5_OFFICIAL
+@RUMEAAi
+@ProofreadFiles
