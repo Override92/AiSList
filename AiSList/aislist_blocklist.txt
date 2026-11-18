@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67277
+! Total Channels: 67278
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24668,7 +24668,6 @@
 @MarvelAIAdda
 @AIGurukul-India
 @CinematicAIUniverse1
-@MarvelAi-c4m
 @AiZyko
 @DevotionalUniverseTamilAI
 @AISpaceStudios
@@ -67293,3 +67292,5 @@
 @小采-w2c7f
 @fyzhistory
 @mrmanishhalder
+@needle_in_the_fog
+@abrothersworld
