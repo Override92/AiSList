@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68051
+! Total Channels: 68061
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68067,3 +68067,13 @@
 @GhibliFoodStudio
 @Love_N_steps
 @VisitorC137
+@generalvideochannel.93
+@GhiblistyledaysStudio
+@SavedByLoveLittleHeartsTale
+@ai-chef-168
+@gk_podcast-j4b
+@ChaoticCookingbyK3rin
+@tagescrash
+@TheHeroicHistory
+@RClips-e2d
+@RusticGhibliEats
