@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67921
+! Total Channels: 67931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67937,3 +67937,13 @@
 @CookingWithAI002
 @AIChineseMiniDramaStudio
 @UnboxMiniAI
+@PrototypeCarCollection
+@GhibliMagic-m4r
+@majdihakora
+@Muslim_Epochs
+@Ghibliwaliduniya-j5g
+@The_POV_verse
+@DesignitwithD
+@TimeTravelwithAyush
+@AIASMRKitchenOfficial
+@singhRajwinder13
