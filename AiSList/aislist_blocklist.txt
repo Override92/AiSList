@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67282
+! Total Channels: 67281
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29677,7 +29677,6 @@
 @USHistoryStories
 @2AMStoriesOnTheWeb
 @dailydropstories
-@reddit_stories_hub609
 @S.o.b.Stories
 @StilleStories
 @Ailifestories-wm4gj
@@ -29730,7 +29729,6 @@
 @AiFruitStory-g6y
 @Fruitzyword
 @FruitStoriesAifun
-@Fruitaivideo9
 @Talkingfruitsai-h7y
 @Aifruits-t1k
 @AiFruitsMyanmar
@@ -67298,3 +67296,4 @@
 @xa_aimovie
 @nocturneechoesoficial
 @caleyka_editor
+@banterino
