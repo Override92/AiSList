@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68031
+! Total Channels: 68041
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68047,3 +68047,13 @@
 @Clips67123
 @minimakerstudio03
 @Theunknownfiles21-k9l
+@AiKitchenCreation_21
+@AiJapneetvlogs_21
+@YUHIWAYGarage
+@ExperienceThePast
+@amrah_soulfood
+@yuvraj_zone932
+@TinyCookingWorld-g7r
+@B%C3%A9b%C3%A9_Thimoth%C3%A9e
+@Sami_Yahya.1
+@Time-HonouredTales
