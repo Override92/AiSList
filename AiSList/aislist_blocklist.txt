@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67527
+! Total Channels: 67526
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13942,7 +13942,7 @@
 @LC666ManhwaRecap
 @TransmigrationTales
 @NoOneKnowYourDarkness
-@Cops_Eye
+@inspector_kana
 @FaNTastiCAiCats
 @AIcatsstudio-h1l
 @SmartAIKitchen03
@@ -13952,7 +13952,6 @@
 @AICATVLOG-v4
 @Cat_Cookery
 @cat_ai_2025_ai
-@PawsomeAIToons
 @ai.cats.1
 @kreatif-s1n
 @InsightAI-12
@@ -15328,7 +15327,6 @@
 @100daysoftransformation
 @mrkrishnamorereacts
 @셀픽랩-z4i
-@neuralsoundwave-fan_inspired
 @moviedramaexplanation
 @novastorydrama
 @sroopsexplicadora
@@ -67543,3 +67541,4 @@
 @swaadwalaghar
 @oldcountinghouse
 @gyaankiduniya-777
+@beyond_yt79
