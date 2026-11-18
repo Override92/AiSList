@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67529
+! Total Channels: 67524
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6461,7 +6461,6 @@
 @MrNightwood2477
 @donsutahadventure5594
 @whatwhyhow-rw9
-@JesusMiracles-e6i
 @bigfootencounterstv
 @DogmanTalesYT
 @MilitaryVeteransArchives
@@ -24772,7 +24771,6 @@
 @RetroVibesStation
 @geomappings
 @Kdramastories1
-@PARALLELIDOL
 @ScarletHearts-f1y
 @VelvetVendetta-b7m
 @Truehubtales
@@ -25298,7 +25296,6 @@
 @MotoryzacjaNaBieżąco
 @bouzu-kira
 @DanielMeroz
-@VibeCrushX
 @Nneuronovai
 @AIdaCode
 @jannatmansoori2404
@@ -25367,7 +25364,6 @@
 @FUNAIKAHANIYAN01
 @VINTAGELABS97
 @rainydays-rud
-@ItsEIJI-13
 @relikvariy
 @TheMDDO-z5y
 @CSAutoMods
@@ -32703,7 +32699,6 @@
 @verdelunecafe
 @epicanimestory
 @ajfactoryflow1
-@mtfdellanima
 @billionscalefactoryandlofi
 @WhatIfAnimations2
 @minute_zero_extra
