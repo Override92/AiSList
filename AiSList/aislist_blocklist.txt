@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67510
+! Total Channels: 67520
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67526,3 +67526,13 @@
 @DarkFilesHindiKaalMystery
 @Najmulday
 @AfterScenedio
+@mosaictales
+@VirtualAIFilms
+@ahmadkerjieh
+@LuzDelaBliblia
+@yuriy_boyechko_film
+@RealKalluKiDuniya
+@Lariegal23
+@Skj%C3%B8ldar-Records
+@Aitechvinsa
+@AIMelody-1992
