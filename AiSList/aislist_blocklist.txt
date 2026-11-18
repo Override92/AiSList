@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67601
+! Total Channels: 67600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -45953,7 +45953,6 @@
 @AiLockup
 @KTimelinesOfficial
 @AiEverlast
-@ViralVibe-q2j
 @Evolflux
 @SantoshAImusicHub
 @NeyraVision
