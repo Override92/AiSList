@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67701
+! Total Channels: 67711
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67717,3 +67717,13 @@
 @RANKINGTHEGOATS
 @Aicar_16
 @TimeWarp_POV
+@DreamyGhibli-p7l
+@AIMagicLab47
+@DriveUnveil
+@aistudieo86
+@EchoRageLK
+@EntertairmentDary
+@minhazonair
+@aiawakensyt
+@AIMiniKitchen-2193
+@AiVideoTech2.0
