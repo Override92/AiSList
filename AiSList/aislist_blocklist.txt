@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67831
+! Total Channels: 67841
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67847,3 +67847,13 @@
 @ApexDominionHFY
 @BackInTimeHF
 @GhibliVisuals-d3p
+@SquidxGPT
+@MastiWorld96
+@Future11.11
+@CozyGhibliLifeAndTales
+@TinyTadkawithAi
+@Worthycuisinebites
+@hulkchacha0001
+@CarvionAI
+@PramilaEvane-t3y
+@TinykitchenAi_19
