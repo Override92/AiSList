@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67281
+! Total Channels: 67276
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7716,7 +7716,6 @@
 @DreamJournal-c3h
 @MOONLIT_BGM_Factory
 @tldrtheatr
-@ThorstenMeyerAI
 @AnhChàngGiảiThích
 @KeenCollective
 @thientamchidao
@@ -29644,7 +29643,6 @@
 @SilentStories_2026-p6m
 @LomuStoriesOnSpotify
 @SilentTruthStories-d2y
-@FADDYSTORIES
 @ReddivoStories
 @NextDubStories
 @financestoriesinspiration
@@ -29746,7 +29744,6 @@
 @healthyfruits-w8i
 @FRUITTONEJAZZ
 @MidnightDriveBeats01
-@DannyRulesAI
 @SoundoftheMyths
 @cavemandelta
 @DieselMechMusic
@@ -29782,7 +29779,6 @@
 @LastMissionK9
 @CEOStories-j4a
 @BrutalEncounters007
-@trinhmiuuu7805
 @AifamilyStories-001
 @SinfulEmpire26
 @LuneraStories-i5f
@@ -29873,7 +29869,6 @@
 @GaonkiRasoi-f
 @%E5%BF%83%E5%8B%95%E6%BC%AB%E6%98%A0%E5%9D%8A
 @TheAIDramaRealm
-@EliteDramaBox
 @Sgdramastories
 @StoryNovaAI-h7d
 @aistorydreams
