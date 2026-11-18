@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67881
+! Total Channels: 67891
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67897,3 +67897,13 @@
 @HANDSFIRST-t5y
 @Swocchoz
 @BirBabuComedy
+@beastescape-o3q
+@sygnkitty
+@DreamyGhibliVillagetales-j6n
+@DINOSAURWORLD-q3w
+@ShamuoAI
+@FruitAIDrama-n8n
+@AiTimeTravel_01
+@Tiny-kitchen-ai
+@CARZENIX01
+@SabrSparks
