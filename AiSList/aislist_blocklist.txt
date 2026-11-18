@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67620
+! Total Channels: 67615
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37084,7 +37084,6 @@
 @MoneyUndertheSurface
 @pricelogicoff
 @laughoutloud-4c
-@TinyEnterprise
 @SavageSummary-07
 @VikingTechnoMixOfMelodic
 @ChilledBonesChannel
@@ -37174,7 +37173,6 @@
 @what_if3D
 @GeniusNightScience
 @HowTechWorks14
-@TheNarrativeBrief-f7k
 @FocusSceneryLofi
 @truenorthyachts40390
 @sticksandsword
@@ -37310,7 +37308,6 @@
 @Jeremiahbyler-r9i
 @ProductPulse-x2h
 @HiddenFamilySecrets-v4o
-@AIGirlfriend-fg9xr
 @AICreatorKIM
 @TheTinyHumanTheory
 @WarRegistry1
@@ -52446,9 +52443,7 @@
 @InsideTheScamm
 @BurnRate-v2o
 @TheStickAgeCave
-@RQPTD-N9
 @BrainLoopSa
-@thetesseralabs
 @senseoverloadwhatif
 @AzaloXha
 @stickmology
