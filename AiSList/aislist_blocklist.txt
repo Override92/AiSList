@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 67598
+! Total Channels: 67600
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8134,7 +8134,6 @@
 @YourAIGuy09
 @memelover-alla
 @Ryanstorycorner
-@WolfAccumulate
 @fruitloveisland012
 @FruitLoveIslandAiSeries
 @AICS3345
@@ -67614,3 +67613,6 @@
 @جيرو-س8ط
 @enchantlyco
 @drexus_shorts
+@معركة_الذات
+@lastoneinside-files
+@freeium
