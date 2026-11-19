@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68912
+! Total Channels: 68922
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68928,3 +68928,13 @@
 @ChristianPianoInstrumental-Sam
 @RoniHealingMusic
 @TheStarTimeline-r5e
+@grandpa_sams_channel
+@WhatActuallyHappens3D
+@CloudTheory-o6y
+@CharlieChin-z2k
+@EthanEthanEthanEthan-u2x
+@Gooe1-m5l
+@vrsedits-f7k
+@ThinkWhat1
+@TheEngineeringCore-v
+@PossibilityParadox-o9i
