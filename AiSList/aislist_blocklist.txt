@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68538
+! Total Channels: 68548
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68554,3 +68554,13 @@
 @EchoesofAfricastories-d9t
 @Isabels-Diary
 @Talesbysheerah
+@Talesofthe-p2l
+@DecemberAfricanDarkTales
+@Ojayzstudio
+@aitafoolumese346
+@TheUntoldChapter-001
+@theconcourseyt
+@Queer_History_Explained
+@readable-z6b
+@ancientmike
+@DreAIming
