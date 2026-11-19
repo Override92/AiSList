@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69081
+! Total Channels: 69091
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69097,3 +69097,13 @@
 @ChidiEditz
 @VisualEvolutionEngine
 @RandomStories-m3g
+@PAR_Official7
+@YuvrajsinhRathod1994
+@Aiandislam-n3b
+@NextGenAI.youtube
+@daisy.studios
+@OddlyPoured
+@TechAllType
+@lukeeeugc
+@Aivibes-q8z
+@MaazAli-m6r9y
