@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68726
+! Total Channels: 68735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68742,3 +68742,12 @@
 @DutchieAI
 @TheUntoldStoryofPrince
 @TrangNguyen-rq9bh
+@TheFourNostalgiaStories
+@Fr.ChadRipperger
+@SapioryStudio
+@TheEvoExplainer
+@HumanEvolutionArchive66
+@DylanRush-j6q
+@Stick_ova
+@StickJoeExplainer
+@Harlanwoods1
