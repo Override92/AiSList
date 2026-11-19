@@ -31,16 +31,16 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@Thibaultmol](https://github.com/Thibaultmol) | 15087 |
-| 🥈 2 | [@crazypillx](https://github.com/crazypillx) | 10796 |
-| 🥉 3 | [@www2](https://github.com/www2) | 5250 |
+| 🥇 1 | [@Thibaultmol](https://github.com/Thibaultmol) | 15760 |
+| 🥈 2 | [@crazypillx](https://github.com/crazypillx) | 10820 |
+| 🥉 3 | [@www2](https://github.com/www2) | 5268 |
 | 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4844 |
-| 5 | [@magikarp](https://github.com/magikarp) | 2812 |
+| 5 | [@magikarp](https://github.com/magikarp) | 2824 |
 | 6 | [@FedupOfAI](https://github.com/FedupOfAI) | 2307 |
 | 7 | [@dv](https://github.com/dv) | 843 |
 | 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 567 |
 | 9 | [@Beavermafia](https://github.com/Beavermafia) | 475 |
-| 10 | [@tomjas1963](https://github.com/tomjas1963) | 367 |
+| 10 | [@tomjas1963](https://github.com/tomjas1963) | 369 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
