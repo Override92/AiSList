@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68661
+! Total Channels: 68671
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68677,3 +68677,13 @@
 @Anatomybyijeoma
 @LectureQuizLab
 @bodywtf
+@ZombiTronicJamz
+@FGSDZV
+@G-Logics
+@RealQuietRevenge
+@QuietRevengeStories-u7w
+@enako-1999
+@TheRevengeEnding
+@QuietRevengeStoriesX
+@CuriousDeepDives
+@thicksnaps
