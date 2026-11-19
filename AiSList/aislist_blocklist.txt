@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68840
+! Total Channels: 68850
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68856,3 +68856,13 @@
 @HolyEcho-w2o
 @KhudaKaKalamOfficial-j7b
 @Ai-talking-bible-tamil
+@livingworddaily-t4x
+@thewordalive-b6n
+@GloryHouseaichurch
+@cortexafilm
+@roveramitroy
+@GhibliLife-w7w
+@kaifvlog93
+@FatimaAIhub-i7k
+@javilopen
+@riverrealmlife
