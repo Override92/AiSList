@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68498
+! Total Channels: 68508
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68514,3 +68514,13 @@
 @TheLastSafeZone
 @VibeStick_shorts
 @AckermanManhwa
+@Late_Night_Blues_Vibes
+@RebornFilms-x3g
+@fargalaxy.studios
+@MidnightWhisperer-i7b
+@HtooRecap-e2l
+@ParallaxNine-n2h
+@HushfallDrama
+@WarumEigentlich-u2e
+@DistantFlares
+@WhatHabitsReveal
