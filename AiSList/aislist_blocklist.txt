@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68230
+! Total Channels: 68240
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68246,3 +68246,13 @@
 @MagicStoryHub-b4w
 @BillionaireOwnerStories
 @OrcRomanceTales
+@GalacticFrontlineHFY
+@wordwhyexplains
+@baseball-k2b
+@TramTran-bt4wt
+@WeirdScenariosOfficial
+@WhyItsBuilt2
+@DirtCheapLevels
+@2WardTheLimit
+@WildcardStories-u9b
+@CuriousInstinct-d5p
