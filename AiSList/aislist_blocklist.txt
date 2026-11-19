@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68140
+! Total Channels: 68150
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68156,3 +68156,13 @@
 @WhisperedSleepStory
 @MelancholyMelodies8
 @thesleepyhistoryfacts
+@SleeplessHistorian-v1w
+@timeoflife00
+@EpicBattlesAnimated
+@travismccarty2824
+@%EC%A7%80%EC%8B%9D%EA%BC%AC%EB%8B%A4%EB%A6%AC-f8j
+@HiddenEngineeringSecretss
+@RetiringInThePhilippines
+@VelvetTales-US
+@BookHeat-p8m
+@ForbiddenRoses
