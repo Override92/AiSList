@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68577
+! Total Channels: 68587
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68593,3 +68593,13 @@
 @TitanHumanityHFY-w4m
 @OrcTales-c3m
 @OrcAshboundRomance
+@AlienAscensionHFY-v2g
+@CalmPuppyMelody-12
+@CrimsonVeilChronicles
+@npl-k2n
+@RoyalHFYChronicles
+@MoneyDrawnOutDaily
+@BubbleNBust-d4q
+@sagasexplained
+@ScenesWeNeverSaw
+@HappyMeow86
