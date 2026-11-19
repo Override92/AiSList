@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68100
+! Total Channels: 68110
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68116,3 +68116,13 @@
 @KNRchannel13
 @officialrevera
 @CronoCr%C3%B3nicasProhibidas
+@RenderFuture
+@DeepChronicle24
+@RockIcon8
+@NoorCAD
+@RewindtoRetro
+@paulsimonarakkal329
+@tomelinamentor
+@ToolRush29
+@ScienceAndTechnologyOfficial
+@SP_vlogging_duo
