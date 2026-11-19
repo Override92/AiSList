@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68479
+! Total Channels: 68489
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68495,3 +68495,13 @@
 @TechPulseReviews-p4f
 @RA-Jake
 @Nicstylee
+@EerieStuffExplained
+@Curio-e9r
+@StrangeReasonStories
+@explainMe8
+@curious-caveman2
+@kairo-i7c
+@askcuriousquestions
+@Stickmanspace2
+@apefully-v8p
+@WhyHumansDoThat21
