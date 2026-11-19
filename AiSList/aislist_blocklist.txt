@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68450
+! Total Channels: 68460
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68466,3 +68466,13 @@
 @LeoAnimationTales
 @NordMotion-x9l
 @ColdCaper
+@OptimaSport-x9z
+@AfricanMoonTales-m3g
+@Philsdiaries
+@SoftRockLegacy-u2s
+@TiscarenoGaynor
+@TheSimple.Chapter
+@UnWoke-o5e
+@marrow-d3w
+@criminalempire-p6x
+@Backthen-t8l
