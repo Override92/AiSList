@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68090
+! Total Channels: 68100
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68106,3 +68106,13 @@
 @BROFLEX-x3f
 @GiovaniGonzalez-t2c
 @DRIVE.X-CARS-SPEED
+@minidiymachine2.0
+@ScrapFlows
+@BackyardLowTech
+@Elena-Morina
+@Theshredderzone1
+@SmartHomePicksUSA
+@HussainWorker
+@KNRchannel13
+@officialrevera
+@CronoCr%C3%B3nicasProhibidas
