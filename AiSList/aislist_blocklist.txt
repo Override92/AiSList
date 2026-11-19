@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68347
+! Total Channels: 68357
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68363,3 +68363,13 @@
 @MetabolicSecrets-g1i
 @RadioDarkAcademia
 @EatWithScience
+@healthylifestyle789
+@TheGutCode8697
+@Dr_Wisdomm
+@molly_kurashi_bgm
+@CozyGhibliDen-u8u
+@GhibliCookingChannel
+@CozyGhibli-v4x
+@SouikiBGMLab
+@RainJazz58
+@TheBoldNoir
