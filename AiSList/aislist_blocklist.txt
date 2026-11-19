@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68087
+! Total Channels: 68090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68103,3 +68103,6 @@
 @MTCAnimalWorld
 @TheEvolutionCode-y5f
 @WildCountryRadio-z5y
+@BROFLEX-x3f
+@GiovaniGonzalez-t2c
+@DRIVE.X-CARS-SPEED
