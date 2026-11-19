@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68821
+! Total Channels: 68830
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68837,3 +68837,12 @@
 @AIArt4Pets
 @AIARTBible
 @aibabycartoon-h3o
+@AiBible_Journey
+@AiBibleChatolic
+@AIBibleMessages
+@aibiblemotivationtelugu
+@aibiblemusicchannel
+@AfricanTalesByZii
+@AfricanTalesChannel1
+@KingdomMindsetRevealed
+@NUREXIS
