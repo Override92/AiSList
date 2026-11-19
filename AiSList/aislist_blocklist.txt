@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68328
+! Total Channels: 68337
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68344,3 +68344,12 @@
 @AnaCarolina-f5b5s
 @GrimSpeechJoker
 @Godsmessagenowforyoutoday
+@SoulConnection-9
+@DivineLightRevelation333
+@morusoficial
+@calmaeTV
+@obsidian_resonance
+@RedMetalStudio
+@BonkersLane
+@jazzycat2k
+@WealthWise-yt123
