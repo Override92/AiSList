@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68337
+! Total Channels: 68347
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68353,3 +68353,13 @@
 @BonkersLane
 @jazzycat2k
 @WealthWise-yt123
+@CatNoirBlues
+@BlackLegendsRevealed
+@EndiMonyoASMR
+@hxlar
+@BelowTheWingg
+@WandererKeep
+@AfterlightOutpost
+@MetabolicSecrets-g1i
+@RadioDarkAcademia
+@EatWithScience
