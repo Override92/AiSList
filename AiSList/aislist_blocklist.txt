@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68460
+! Total Channels: 68470
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68476,3 +68476,13 @@
 @marrow-d3w
 @criminalempire-p6x
 @Backthen-t8l
+@pakana-i9l
+@KronikarzNocy-d7e
+@SCPBites
+@SleeperAgent-c6q
+@ChinaPower-yu9mj
+@russell-w9s
+@thehardestbuild
+@BacktotheBook-b5q
+@TheyHurtTheWrongNurse
+@MoviePulseEngYT
