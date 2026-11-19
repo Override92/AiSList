@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68319
+! Total Channels: 68328
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68335,3 +68335,12 @@
 @MaximilianoCorbo-h8i
 @DarkSecretStories-h3b
 @Soulstories-k8h
+@DadsVelvetRevenge
+@KarmaChronicles-n8i
+@DarkPageStories-g1u
+@RevengeAfterDark-e9b
+@StronGDadsRevenge
+@AngelsAreCalling-01
+@AnaCarolina-f5b5s
+@GrimSpeechJoker
+@Godsmessagenowforyoutoday
