@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68697
+! Total Channels: 68707
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68713,3 +68713,13 @@
 @HeadbangersReign
 @AvinsuraSurSandya
 @BambamExplains
+@HeartsDontAge-j1m
+@DarkreachHFY
+@TheCoveredFire
+@Fivonic-m7y
+@MrZenithHFY
+@HFYVoidStories-p6q
+@HFYStory-l6o
+@CypressHollowBallads
+@LanternMarshTales
+@SouthernGothicBallads
