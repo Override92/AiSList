@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68528
+! Total Channels: 68538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68544,3 +68544,13 @@
 @novatales26
 @HeartlineStoriesbyNuella
 @HeartSecrets-r5j
+@Rosa-nk5wq
+@WendysAIMovies
+@duskiStoriesStudio
+@TalesFromAfrica-m7g
+@GrandmaTale00
+@GodstimeTV-j9h
+@whisperedtales-o6i
+@EchoesofAfricastories-d9t
+@Isabels-Diary
+@Talesbysheerah
