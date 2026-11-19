@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 68275
+! Total Channels: 68285
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68291,3 +68291,13 @@
 @Prof-Explains-It
 @BingeBuddha
 @MrWhereWhoWhy
+@meditationsbykokouna
+@nightwise_owl
+@WaitThatHappenedTV-z8t
+@TheInkAtlas
+@TheRealWhy-1
+@ScienceConcert-g2d
+@JohnSimeon-n9x
+@R%C3%A4derKetten
+@HerrStoiker
+@Zweirad-Report
