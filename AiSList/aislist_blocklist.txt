@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70226
+! Total Channels: 70234
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70242,3 +70242,11 @@
 @EarlTheHillbilly
 @PearlineSLifeHacks
 @EdnaJacksonFrugal
+@Sea1-n7
+@The_Forgotten_Hearth
+@RelaxingWorldzzz
+@AcousticSerenade_02
+@HeartstringMelodies01
+@Astronom%C3%ADaInexplicable
+@physicsloop.channel
+@EnochDecoded
