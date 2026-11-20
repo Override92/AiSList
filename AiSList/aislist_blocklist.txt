@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69341
+! Total Channels: 69351
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69357,3 +69357,13 @@
 @tynselbibleglobal
 @Naturechannel2
 @AMR-c09
+@TalesbySamdebby
+@kpopyolo88
+@AIStoryVerseDrama
+@noobrigammer33
+@Amakastudio1
+@GhibliFoodTale
+@AfricanCinemaStories001
+@DailyPrayerScriptures
+@FruitFablesAi
+@Spookyreve
