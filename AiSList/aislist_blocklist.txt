@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70105
+! Total Channels: 70115
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70121,3 +70121,13 @@
 @OldVictorianNights
 @TheQuietPasst
 @VelvetSociety-s7l
+@OpulentAffairs
+@QuietHistoricNights
+@yane.style34
+@notebooklm-c4y
+@NotebookLMKnowsItAll
+@LLMGenie
+@R0N1E
+@JanetteIsCool
+@SereneBeatsRelax
+@Casefilereport-c1i
