@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70005
+! Total Channels: 70015
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70021,3 +70021,13 @@
 @EasySoundsRelaxationChannel
 @LuminosScience
 @virtualcreativefactory6880
+@UnAlteredStudios
+@linuxteck
+@devlarhq
+@CloudStackStudio
+@SOCMinute
+@SonicoAI2
+@kelbalrai
+@ultimatechannel4643
+@Wraith-Song
+@starry_souls
