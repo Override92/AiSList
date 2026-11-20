@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69821
+! Total Channels: 69831
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69837,3 +69837,13 @@
 @FLOORALCHEMY1-z5t
 @Nexora2208
 @PastArchive
+@AutoScope-f8t
+@%EC%82%AC%EC%97%B0%EA%B7%B9%EC%9E%A5-z9o
+@%EA%BD%83%EB%B3%B4%EB%8B%A4%EC%A4%91%EB%85%84-m7l
+@ItzagudGamingDaily
+@cathythompson-m3b8r
+@ExplainMeDaddy
+@TSCS-Research
+@TimelineEngine
+@SilentFlame1
+@ThePokemonChronicles
