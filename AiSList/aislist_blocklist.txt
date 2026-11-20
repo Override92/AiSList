@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69551
+! Total Channels: 69561
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69567,3 +69567,13 @@
 @BabyGenAI-q3s
 @FateforgeDrama
 @suvarna-jesusmessages
+@GLPulseAsia
+@FactSoon-s2h
+@Tele_Draft
+@MyDramaTime0771
+@shibra_r55
+@DramaBingeBox
+@spideyy_ai
+@cozydreamstory
+@Crazy_AnimalTales
+@YUSUFFEZZAT.G
