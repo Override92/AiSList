@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69291
+! Total Channels: 69301
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69307,3 +69307,13 @@
 @RbxFlexi
 @cinekahaniAI
 @Bibleinbytes
+@aividoess-15
+@citygrowth3d
+@GhibliManiac
+@SuperEnergyCat
+@LoveSharma__.05
+@MAGICAI-k5u
+@livingwordalive
+@Ia_Fruit_skibidi
+@Sawariya9
+@AliandZara1378
