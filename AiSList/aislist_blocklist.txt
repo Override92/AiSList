@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70347
+! Total Channels: 70352
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70363,3 +70363,8 @@
 @ItsD%C3%A8miXO
 @herlittleworld20
 @%EB%B2%A0%ED%88%AC%EC%95%BC-f9x
+@StickmanAnakin
+@RisePathDaily-TV
+@LottieDrama
+@JasminandJames
+@AlexLeveledAI
