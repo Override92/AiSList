@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70065
+! Total Channels: 70075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70081,3 +70081,13 @@
 @TheMoneyMapUS
 @bntvlog07
 @TheNeuralSignal-u6p
+@freshtech_video
+@ScordalusVEVO
+@SebastindermitisVEVO
+@MissingMatter-n1w
+@NexZone-z2i
+@MoneySecretr-f9r
+@TheHelixArchive
+@Timeless_Fin
+@TheDNAOrigins
+@TheRecyclableFuture
