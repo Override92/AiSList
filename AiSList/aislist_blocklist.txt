@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70015
+! Total Channels: 70025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70031,3 +70031,13 @@
 @ultimatechannel4643
 @Wraith-Song
 @starry_souls
+@TribeSongMusic
+@battlecryworshipper
+@Psalmora
+@mightyoracleworld
+@TheSaintsChronicles
+@EchoesofHeavenchannel
+@1godmessage
+@ProjectofLove_biblesongs
+@ThroneofAgesMusic
+@HeartofWorship-j5w
