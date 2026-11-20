@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70196
+! Total Channels: 70206
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70212,3 +70212,13 @@
 @VelvetGrooveCM
 @SERATRACK
 @ByteAnatomy3D
+@civilizedish
+@beasteye1
+@AIBook-b3k
+@THEJESTERSMIND-b8k
+@MrSawyer-z8s
+@AliceGamesEntertaiment
+@CostVerse
+@MenteCuriosa-u4s
+@BeforePowerShow
+@FamilyDramaUS-l7i
