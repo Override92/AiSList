@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70151
+! Total Channels: 70161
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70167,3 +70167,13 @@
 @TheLuxeHearts-r4y
 @HiddenStoryLee
 @JassicaOpareTalkWomen
+@BeforeYouLeaveStories
+@OldManOliverStories
+@TheSilentGavel-c8g
+@BIKERSTORY-o2o
+@SecretPast-n8x
+@EPCover
+@KissReelDrama-z9m
+@JUFEIFANEXCITINGDRAMA-c6b
+@shortplay1-x7u
+@KissesBetweenCliffhangers
