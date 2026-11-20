@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69501
+! Total Channels: 69511
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69517,3 +69517,13 @@
 @TheRajuPrajpati
 @BibleInSeconds-i9b
 @mrfahadvlogs56
+@DigiComedyAI
+@Rahmat_TV_USA
+@ShanMalik-b7p
+@AI_Pulse_Bawal
+@rockybhaionly
+@TechnoArmyzoffical
+@GhibliJam
+@DramaScarlet
+@AIKitchenStudio-1
+@kidsstory-x7f
