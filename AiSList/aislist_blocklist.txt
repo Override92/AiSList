@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70206
+! Total Channels: 70216
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70222,3 +70222,13 @@
 @MenteCuriosa-u4s
 @BeforePowerShow
 @FamilyDramaUS-l7i
+@howitworksin60s
+@LocomotiveLoreYT
+@ElRecreoDigitalJB
+@WolfBoys804
+@PASTLIX
+@MoneyMovedHistory
+@WorldUnfoldend
+@thepapertrail1-g2b
+@PowerBehindVictory
+@SleeplessGnostic
