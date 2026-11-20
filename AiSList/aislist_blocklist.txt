@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69937
+! Total Channels: 69941
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69953,3 +69953,7 @@
 @Katselijafi
 @AzureBloxYT
 @21stcentertainment
+@ReelTheory-h2w
+@calebholcomb-k8p
+@a4-efx
+@CutawayHome
