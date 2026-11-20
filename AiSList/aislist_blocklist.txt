@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69967
+! Total Channels: 69976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69983,3 +69983,12 @@
 @SentinelKingPokedex
 @ShaggyGamers
 @MrSleepyStories
+@BollywoodMush-cq1lp
+@90sMelody-y5w
+@CloverPaw-t1c
+@BrokenTrust-s2v
+@Whyman-k7n
+@Noctelia-y5t
+@MrBallenFans1
+@UnknownWildss
+@TheNightmareVault1205
