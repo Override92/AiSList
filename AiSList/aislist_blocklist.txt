@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70075
+! Total Channels: 70085
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70091,3 +70091,13 @@
 @Timeless_Fin
 @TheDNAOrigins
 @TheRecyclableFuture
+@DNAdecode1
+@HandzyAistories
+@TheCosmicBrief-s4w
+@Crimezalert
+@DNAUnlocked-b5u
+@crystal_script
+@RewindDNA
+@Obliqw
+@anastasiasugabea8782
+@GeneticFiles
