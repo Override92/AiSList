@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70126
+! Total Channels: 70131
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70142,3 +70142,8 @@
 @MorningPrayerDaily-9
 @digitalwerk-xplore
 @BuiltToLastCo
+@dailyfitchannel
+@StreetVerdict-q2g
+@karim_yourself
+@makebigfilms
+@PeliculasenMinutoss
