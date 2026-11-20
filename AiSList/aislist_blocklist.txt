@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69841
+! Total Channels: 69851
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69857,3 +69857,13 @@
 @FitonomyMobility
 @J-Yfc_Music
 @EchoesReadingRoom
+@harleylucian
+@MidnightDramaBox
+@FLBAILGUY
+@MivyaMoments
+@tutumelonbook
+@AIDiggestPortugues
+@meowmeow-tv-j4w
+@MarvelAIAudiobookComicSeries
+@EchoesOfEmpireHistoryOfficial
+@GOLUGAMING-f6r
