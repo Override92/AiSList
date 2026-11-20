@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70336
+! Total Channels: 70342
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70352,3 +70352,9 @@
 @romanliveshistory
 @SurvivalTimer
 @TheStickofTime
+@AncientRomeDarkSecrets
+@AncientNathan
+@ChronoChefYT
+@Pryvello
+@OurWeirdSpecies
+@flipbookoo
