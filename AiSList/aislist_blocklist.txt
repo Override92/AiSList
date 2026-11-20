@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70131
+! Total Channels: 70141
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70147,3 +70147,13 @@
 @karim_yourself
 @makebigfilms
 @PeliculasenMinutoss
+@POLTRONASELVAGEM
+@StormyMuse_Official
+@Lazarus-Films
+@newssnakedos
+@Vaelissed
+@rafatheartist
+@TheAttractionCode-z7n
+@IsabellaRelationshipAdvice
+@TheLoveDynamic-c9u
+@FemmeTheory-w
