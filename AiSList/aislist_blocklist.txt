@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70266
+! Total Channels: 70276
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70282,3 +70282,13 @@
 @Life_On_Different_Planets
 @DeadliestChapters
 @TheHiddenFather-b1e
+@felunu
+@VelaNoire-n3q
+@FinalDestination-w7c
+@SurvivaloftheOldWorld196
+@SecretsWithin-s9g
+@FeynmanPhysicsLab12
+@ThePhilosophersFix-yt
+@TheJobThatKilledYou
+@secretsoflife3349
+@ChelseaMcclenahan
