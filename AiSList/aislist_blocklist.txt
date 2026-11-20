@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69943
+! Total Channels: 69945
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69959,3 +69959,5 @@
 @CutawayHome
 @shyrukiduniay
 @KismetDrama1
+@Jeezyys
+@blobtells
