@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69311
+! Total Channels: 69321
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69327,3 +69327,13 @@
 @pov_japan_ai
 @HolyBible01-e7s
 @DramaUniversoLite
+@navrachnaai
+@EmilyAi_41
+@duskromance.studio
+@tinycraftuniverse.offical
+@AICookingWithJuhina
+@SonuAbbasi-u9e
+@ShortDramaMaruko
+@AbuZarar-j9l8w
+@GhibliVillageStories4
+@KiviStudio-n2u
