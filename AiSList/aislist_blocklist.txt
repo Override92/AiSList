@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70234
+! Total Channels: 70241
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70250,3 +70250,10 @@
 @Astronom%C3%ADaInexplicable
 @physicsloop.channel
 @EnochDecoded
+@DonlyChimutuwaGlobal
+@qrk9
+@thelab.67
+@kaetcor
+@Polybrained
+@aidunz
+@RealitySimulatedReal
