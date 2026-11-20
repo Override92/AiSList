@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69161
+! Total Channels: 69171
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69177,3 +69177,13 @@
 @bigfootwithdreads
 @UnionJackedAI
 @TheUnseen.Journey
+@islamicFutureAibot
+@quickstudy1.2
+@AnimeXAI0x0
+@Aieducation-d7i
+@GhibliQween-v3v
+@Islamic-r8m8m
+@AmitFoodStories11
+@AI_Rasoi18
+@KiwiDrama81
+@genesisfaith
