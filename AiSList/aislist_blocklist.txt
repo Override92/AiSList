@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70261
+! Total Channels: 70266
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70277,3 +70277,8 @@
 @HowMade-y9o
 @FARZAD-FM
 @BarryBits
+@DedaandTyler
+@Smigski
+@Life_On_Different_Planets
+@DeadliestChapters
+@TheHiddenFather-b1e
