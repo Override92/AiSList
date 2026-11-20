@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70185
+! Total Channels: 70192
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70201,3 +70201,10 @@
 @WhereTheySummered
 @InAudiobookSpective
 @asbdata
+@Aitrepreneur
+@simulationstudiosofficial
+@mrsheyana-jl8mn
+@RarecutFilms
+@WW2EraStories
+@WW2Reforge
+@spacemattersdoc
