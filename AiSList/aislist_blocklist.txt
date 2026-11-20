@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 69851
+! Total Channels: 69861
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69867,3 +69867,13 @@
 @MarvelAIAudiobookComicSeries
 @EchoesOfEmpireHistoryOfficial
 @GOLUGAMING-f6r
+@MarvelAIZone1
+@MarvelAi-bros
+@Marvelai-z3w
+@lovepostingdaily
+@trynottolaughtoohard1014
+@Tale_Tapestry
+@LunarCrownTales-b8y
+@BrilliantDrama-u4r
+@Ai_story_hub_0451
+@KoaLaIa
