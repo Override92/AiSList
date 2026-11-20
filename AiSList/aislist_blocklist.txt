@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70251
+! Total Channels: 70261
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70267,3 +70267,13 @@
 @CathedralAfterDark
 @TryWhatNext
 @HeavenlyMelodies-m1g
+@lofi_on_tap
+@x.rayedd
+@thecreepychoice
+@GetMindDrop
+@brainy.visuals
+@Epoharium
+@morph_youtube
+@HowMade-y9o
+@FARZAD-FM
+@BarryBits
