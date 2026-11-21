@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70394
+! Total Channels: 70398
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70410,3 +70410,7 @@
 @Thegreatpowers-g6k
 @UltimateMartial
 @StoryofStickman2026
+@HWIS_1
+@JamesBrownDogTraining
+@DetroitAndBeyond
+@goldenlegends1809
