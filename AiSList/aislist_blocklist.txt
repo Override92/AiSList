@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70688
+! Total Channels: 70693
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70704,3 +70704,8 @@
 @DailyHealthAudit
 @WesFordham
 @PalerazStudios
+@WaltBrennan55
+@BeanFables
+@ShortsFantasia
+@LostPrototypes
+@MapMaple-r6u
