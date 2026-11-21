@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70723
+! Total Channels: 70731
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70739,3 +70739,11 @@
 @Airvex-f3d
 @%EA%B0%95%EB%AF%BC%ED%98%B8-b7y7z
 @RedWand-x
+@OathOfAshes
+@PsicologiaDescomplicadaOficial
+@AbelPatacaAP
+@PolarBearDestroyer-f3s
+@DolphinTales-u8x
+@TheSoulCollection888
+@lizzyaudio
+@ZoraWinslet
