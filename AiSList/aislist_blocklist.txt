@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70568
+! Total Channels: 70578
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70584,3 +70584,13 @@
 @Forgotten-b8u
 @EbonyRiseStories
 @BanksLoretta
+@AmericanHometown
+@airevealseverything
+@TedLudlow
+@betterchoiceYT
+@AutoInsider-n2u
+@EngineEuphoria0
+@SamuelsSpaceScience
+@KAKUCOSMIC
+@AncientHumantales-u4l
+@MindCompanion
