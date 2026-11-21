@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70588
+! Total Channels: 70598
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70604,3 +70604,13 @@
 @EvanChandler-l7m
 @ShopProofGarage
 @CouplesHomestead
+@ShatteredMirrorStories
+@InANut-n6g
+@AncientSecrets-g4m
+@AutoSleuth
+@MidwestBackRoads
+@ehcar_net
+@IronGhosts-u6m
+@Atlavo
+@GracielaVegaTrucosYT
+@TheForgottenRoadside
