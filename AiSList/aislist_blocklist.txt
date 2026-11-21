@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70362
+! Total Channels: 70364
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70378,3 +70378,5 @@
 @EchoZphereRadio
 @MelodiasCristianasIA-h9n
 @RizwanAbbas-h3n
+@scifiorthogonal
+@shadylinesYT
