@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70418
+! Total Channels: 70428
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70434,3 +70434,13 @@
 @EndToEndHistory
 @EmpireAnatomy-z9k
 @AFRIStoryLand
+@Desseryafricanfolktales
+@RoyalWeddingChronicles
+@howPrehistoriclives
+@archetrace
+@firrsstnov
+@HumanNature-f1f
+@JasmineCunninghamCoach
+@beyondthesingularity98
+@TheSenior-f4x
+@TheHomeFixGear
