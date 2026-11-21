@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70528
+! Total Channels: 70538
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70544,3 +70544,13 @@
 @GridAtlas
 @White_Owl_Studio
 @Karmaridge
+@Trician62
+@VehicleKnowledgehub
+@ThinkWiseChooseRight
+@keitruckfinder
+@ReubenCastle
+@ForeverWW2Stories
+@XSCENARIOS-n9w
+@SilasTreatments
+@sh44rds
+@MackWelsh1
