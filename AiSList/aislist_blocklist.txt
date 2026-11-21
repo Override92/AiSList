@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70508
+! Total Channels: 70518
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70524,3 +70524,13 @@
 @SarahWhitfieldrDecor
 @mindpath47
 @PaleDotLoop
+@ClearedandReady_official
+@OnceUponAnAfricanTale
+@Evolution_Simplified
+@amanda_drama_house
+@KatyasTruckLife
+@PastandPencil
+@Historio-u5w
+@AncientHumans-l9l
+@ConsultorioFelinoYT
+@HumanPowerhouse
