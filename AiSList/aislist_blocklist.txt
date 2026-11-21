@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70374
+! Total Channels: 70384
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70390,3 +70390,13 @@
 @DeepDynasties
 @archiveofprince3032
 @OfficialProfessorOwl
+@AntesdeNosotros45
+@DadReflections
+@OrbitChronicle
+@Knowledge_Panel
+@stickmanancienthumans
+@OliviaWeatherNews
+@OnTorqueYT
+@MountainManVirgil
+@AdrianaVegaYT
+@HalfAwakeYT
