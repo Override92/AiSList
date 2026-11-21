@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70408
+! Total Channels: 70418
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70424,3 +70424,13 @@
 @PainttheIdea
 @25troctober
 @WhatIfOllieTV
+@ArumuTV
+@FrederickBlankenship-w3m
+@OverSimple200
+@planetawkward
+@StickmanSagaYTanime
+@WhatIfSituations-r8l
+@LastLight-g7r
+@EndToEndHistory
+@EmpireAnatomy-z9k
+@AFRIStoryLand
