@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70398
+! Total Channels: 70408
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70414,3 +70414,13 @@
 @JamesBrownDogTraining
 @DetroitAndBeyond
 @goldenlegends1809
+@whatifhall
+@MT_alpha_explainer
+@prehisto-r
+@Vestige-exp
+@ancientfiles-treasures
+@EvoMindExplains
+@HARSHSHADOWX
+@PainttheIdea
+@25troctober
+@WhatIfOllieTV
