@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70769
+! Total Channels: 70777
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70785,3 +70785,11 @@
 @OfficialTapon
 @explainerbyasma
 @Locked_Melancholy
+@DaisukeTV-h9s
+@LuminayaPortal
+@KarmaxAR
+@BlackrealmStudios-g7q
+@Samuel1-e2n
+@OpenRoadFolkMusic
+@InspirationalCKEYS
+@otisgrangerbarn
