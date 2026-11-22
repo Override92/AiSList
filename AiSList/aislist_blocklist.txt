@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70768
+! Total Channels: 70769
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70784,3 +70784,4 @@
 @ZoroarkMich
 @OfficialTapon
 @explainerbyasma
+@Locked_Melancholy
