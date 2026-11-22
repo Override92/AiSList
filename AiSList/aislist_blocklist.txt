@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70762
+! Total Channels: 70768
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70778,3 +70778,9 @@
 @HerRebornDestiny
 @CurvyMafiaChronicles
 @DramaFlake
+@GoodShortEpisodes-m2d
+@DramaticX22
+@NBlue_Music
+@ZoroarkMich
+@OfficialTapon
+@explainerbyasma
