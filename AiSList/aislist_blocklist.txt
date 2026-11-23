@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70847
+! Total Channels: 70857
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70863,3 +70863,13 @@
 @TheBruceLeeChronicles
 @StevenSeagalKampf
 @OldTexasRoads
+@LegacyRushTV
+@Autodecoded-c
+@Brucelee_archieves
+@KazutheCarGuy
+@SergeantFrankDolan
+@OpenRoadReviews-r2d
+@RossHensley-f4d
+@TheVerdictRoom-z1b
+@Yukijapanesemethod
+@TheLateRealization
