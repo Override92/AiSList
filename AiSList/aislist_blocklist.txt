@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70807
+! Total Channels: 70817
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70823,3 +70823,13 @@
 @EarthUnrevealed-v6u
 @VoicesofPurpose-v7r
 @TechNana-h2r
+@MaryKowalskiCooks
+@uncleronniecooking
+@OntarioBackRoads
+@NatureTookOver
+@Yunus-w1h2r
+@BruceLeeChronicles-q6i
+@lindaogarciaa
+@AncientHumanResearch
+@AxenCoolUS
+@Emily-Johnson-n
