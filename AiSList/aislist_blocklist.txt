@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70804
+! Total Channels: 70806
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70820,3 +70820,5 @@
 @kellanhenneberry
 @RESETPEDIA-u9i
 @VesperquillStories
+@EarthUnrevealed-v6u
+@VoicesofPurpose-v7r
