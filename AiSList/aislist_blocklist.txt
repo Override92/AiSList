@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70906
+! Total Channels: 70908
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70922,3 +70922,5 @@
 @KindlyKiraStories
 @IAmCyborg21
 @its_avasterling
+@Virej
+@claudia.vraiment
