@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70891
+! Total Channels: 70897
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70907,3 +70907,9 @@
 @MenofReason-z4q
 @PanyaKorn-x5x
 @aevytv
+@BrennyMoon
+@luckyanime-m6i
+@Dr.ClownPhD
+@ghiblistudiotales
+@anabology
+@Viberholten
