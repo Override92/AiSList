@@ -35,7 +35,7 @@ Don't forget to set your username in the settings.
 | 🥈 2 | [@crazypillx](https://github.com/crazypillx) | 10867 |
 | 🥉 3 | [@www2](https://github.com/www2) | 5459 |
 | 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4914 |
-| 5 | [@magikarp](https://github.com/magikarp) | 3102 |
+| 5 | [@magikarp](https://github.com/magikarp) | 3169 |
 | 6 | [@FedupOfAI](https://github.com/FedupOfAI) | 2315 |
 | 7 | [@dv](https://github.com/dv) | 867 |
 | 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 567 |
