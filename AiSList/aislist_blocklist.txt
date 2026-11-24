@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70876
+! Total Channels: 70884
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70892,3 +70892,11 @@
 @MartinEllsworth
 @Tatertron-AI
 @peoplehistory-d5n
+@toonreality55
+@TransformationShortFilms
+@MOTai7924
+@MadelynSanchez-b9c
+@THEFIRSTFIRE-u1i
+@SceneSparkAI
+@CuteAI-11
+@DanishKhan-z9s8o
