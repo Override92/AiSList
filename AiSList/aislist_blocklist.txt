@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70897
+! Total Channels: 70902
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70913,3 +70913,8 @@
 @ghiblistudiotales
 @anabology
 @Viberholten
+@SystemPromptOfficial
+@LYFPGAMER
+@GeoPandaMaps
+@SweetieShort-1
+@project_hanno
