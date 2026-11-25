@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70942
+! Total Channels: 70941
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37462,7 +37462,6 @@
 @PrairieHearts-v6m
 @UnbrokenLegends-o2v
 @AiFrames-q1i
-@ZINOR-d8x
 @Saajid1-c8s
 @TheFamousCelebrity-p8q
 @Proxhima
