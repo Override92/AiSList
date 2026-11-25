@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70913
+! Total Channels: 70918
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70929,3 +70929,8 @@
 @dreams_little_world
 @Autopulse-y7b
 @MOKI-u7e
+@PokeAuraShorts
+@nobodycareswhatiswrittenhere
+@TenorshareOfficial
+@Gizvero_206
+@caistudio.official
