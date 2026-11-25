@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70941
+! Total Channels: 70942
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70957,3 +70957,4 @@
 @serayukeroncong
 @Pok%C3%A9Stories01
 @TradeServiceApp
+@VictoryTheater-c1e
