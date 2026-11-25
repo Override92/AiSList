@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70918
+! Total Channels: 70921
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70934,3 +70934,6 @@
 @TenorshareOfficial
 @Gizvero_206
 @caistudio.official
+@CodetocarbonAI
+@%ED%9E%88%ED%86%A0%EB%B9%84%ED%86%A0%ED%95%84%EB%A6%84%EC%A6%88
+@WeAreNYKIMA
