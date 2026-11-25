@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70956
+! Total Channels: 70959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70972,3 +70972,6 @@
 @samuelliverio
 @JetForceTactical
 @OverratedExplainer
+@thedisastermanual
+@TheAnciantStory
+@BESTDUBREGGAE-1
