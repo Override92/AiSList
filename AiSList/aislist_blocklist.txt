@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70971
+! Total Channels: 70970
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30190,7 +30190,6 @@
 @MoonlitAlphaTales
 @BrightTalesRoadside1
 @Authentic_African_Folktales
-@adeyemifolktales
 @TheExcelTales
 @Kikitalesz
 @MoonLightAfricanFolktales-n1x
@@ -30199,7 +30198,6 @@
 @MafiaAffectionTales
 @DarkTalesTold-fs4qp
 @TinyTales-TK
-@EmberHollowTales-r6w
 @InfinityloveTales
 @MythicShadowTales
 @silverphoenixafricantales
@@ -30293,7 +30291,6 @@
 @Amazinglitetales
 @OblivionTales-g6u
 @AfricanFolktalesandStoriesfor
-@TalesofWhisperingHearts-v4t
 @DamesFolktales
 @K-FolkTales1050
 @APACHETALES-p2u
@@ -70987,3 +70984,5 @@
 @sangkalanusa
 @zibandkro
 @merrymelodystation
+@girlyreset
+@thoughtsbywaba
