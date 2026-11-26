@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70975
+! Total Channels: 70976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7320,7 +7320,6 @@
 @IndustrialInsiderGlobal
 @Behindprocess07
 @Rowmaxo
-@GlobalFactoryProcess1000
 @behindthefactory1
 @NextGenDigitalSystem
 @IndustrialProcessTV
@@ -9984,7 +9983,6 @@
 @factrocityshorts
 @unVEIL-SeeS
 @FinanceGriffin
-@WarStoriesInspiredbyBillyWaugh
 @KawaiiBassHolic
 @luxetnoxinvictus
 @mostinworld
@@ -70991,3 +70989,6 @@
 @kayra-band.official
 @датотерр
 @gtachaos-g8j
+@sangkalanusa
+@zibandkro
+@merrymelodystation
