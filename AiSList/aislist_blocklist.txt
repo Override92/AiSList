@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70982
+! Total Channels: 70985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70998,3 +70998,6 @@
 @TheLongRunSim
 @pawkyn
 @Twistora-i9m
+@HollyyDrama
+@BingePlotRecaps
+@RoselleDramas
