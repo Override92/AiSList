@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70953
+! Total Channels: 70958
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70969,3 +70969,8 @@
 @hedgealphaai
 @quilltaleshistory
 @darkvelorians
+@codigobilionarioof
+@역사의빈칸808
+@galactusanimation2.0
+@리뷰레코드reviewrecord
+@anysofficial-l6p
