@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71000
+! Total Channels: 70999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37644,7 +37644,6 @@
 @GlobalGrooveSync
 @theinvestigatorhiddenmechanics
 @doyou라잌
-@인생안망함
 @veliasongs
 @felipesilveira_vfx
 @MachineMadeFilmsLLC
@@ -37654,7 +37653,6 @@
 @ravensoul85
 @StellarPrismAtelier
 @%E6%9C%88%E8%81%B2%E8%A8%88%E7%95%AB
-@ZolaVoice-tunes
 @The1950sDreamMachine
 @SkyvoraMusic
 @MJH_85
@@ -71016,3 +71014,4 @@
 @retro_ai_studio
 @by.nile
 @맹수관찰
+@nexalootstore
