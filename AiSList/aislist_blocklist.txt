@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70981
+! Total Channels: 70971
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -215,7 +215,6 @@
 @kitten.Storys
 @thebizarrevault
 @ReallyNotAi
-@Rapoh1
 @reallyweirdai
 @GeekRift
 @TheWokandAnok
@@ -9990,7 +9989,6 @@
 @aichakkara
 @BrokenEconomy_Official
 @SpaceEconomy-Explained
-@hiddeneconomy22
 @TheEconomicHype
 @rowanunderwood
 @ishowamspeed
@@ -30498,7 +30496,6 @@
 @TimelessTales-by-Dan
 @WarhammerMatt
 @ImaraTales
-@UncleSamAfricanFolktales
 @MidnightBLTales-q1s
 @TheAnimalPerson
 @FolktaleSparkLandTV
@@ -46077,7 +46074,6 @@
 @HistoryPOV01
 @PovSlide
 @Novi_povs
-@aitensionpov
 @HistoricalSleepover
 @BillionairePOVStories
 @POVityASMR
@@ -52934,7 +52930,6 @@
 @OroNyxYT
 @FishManiaTV
 @pouringraintears
-@AlexTalks095
 @hierfinden3551
 @BrokenJustice-7hhi
 @kochenmitgenuss6430
@@ -53033,9 +53028,6 @@
 @RedditTalksStory
 @LearningCanteen
 @RippleofKindness7
-@WhenJusticeTookFlight
-@TalesFromTheShadowside
-@OliverTalks095
 @RadiantStorytime
 @Story_ArcYT
 @When.Music.Mattered
@@ -53074,7 +53066,6 @@
 @PrayerPowerCenter
 @the_humancraft
 @HealingAngelLight
-@FrontierMedia786
 @GodsPromiseNow
 @PowerfulPrayerMoments-v3x
 @ThelightOffaith2026
@@ -53093,7 +53084,6 @@
 @LatidodeFeBiblia
 @TheSacredWhisper-gobe
 @godswordforyoutoday
-@EvilProtectionPrayers
 @MidnightPrayerRetreat
 @FuegoDelEsp%C3%ADrituSanto-FES
 @Oraci%C3%B3nnoturna
