@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70979
+! Total Channels: 70982
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70995,3 +70995,6 @@
 @EmotionalStoryTheater
 @StoryCrush1-l1f
 @DominionReels-t3s
+@TheLongRunSim
+@pawkyn
+@Twistora-i9m
