@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70985
+! Total Channels: 70993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71001,3 +71001,11 @@
 @HollyyDrama
 @BingePlotRecaps
 @RoselleDramas
+@AmitSharmanz
+@DramaVerseEN
+@UpTV_01
+@DoodleGulch
+@whichoneareyoudaily
+@FathomMedia-w1z
+@BRICKSTORY.Dollars
+@Tycoonized
