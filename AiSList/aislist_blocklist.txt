@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71003
+! Total Channels: 70993
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -446,7 +446,6 @@
 @only-ai-short-video
 @aicartoonvideo-j1i
 @aianimationvideo-z2j
-@infinityshortsvibes
 @aivideos-r6i
 @animalaishort-y8k
 @aitrindingshort
@@ -53498,7 +53497,6 @@
 @MemeNovaHFY
 @JokerSpeaks2.0
 @Matar-era
-@GrowingMoneyHQ
 @justtsuppose
 @Beanscapital
 @SmallTownRich
@@ -53518,7 +53516,6 @@
 @AlexFactEcho
 @MitosMark
 @AI-Decode132
-@cellfie-321
 @simplyspacethings
 @astroshadeanimations
 @SavageCoreHFY
@@ -53536,7 +53533,6 @@
 @looookkk-b3s
 @PollinatorYardGuide
 @ericinvests_US
-@techassetusa03
 @CheatingTalesCorner
 @QuickTechExplainer30
 @EternalRevengeDrama
@@ -53597,7 +53593,6 @@
 @WealthHerozil
 @CosmicOdysseyEn
 @JapaneseOffgridSurvival
-@LiveWellScience
 @AMERICASVALOR
 @GraniteStories-h5m
 @watchnorion
@@ -53620,7 +53615,6 @@
 @Dr.EvanBrooks-s1x
 @TechUnveiled-f6i
 @CrowFinance
-@RoyPearson-m6p
 @SmartMoneyPathway-o1c
 @crownandapron
 @StoryNebulaHFY
@@ -53671,7 +53665,6 @@
 @BerthasOrderHacks
 @TheMathofWealthyt
 @Algowars
-@JiangPlaybook
 @HumanitySkybreaker
 @Consumer-Reviews979
 @TerranAbyss
@@ -53762,7 +53755,6 @@
 @MovieListInsider
 @MrPlotJunkie
 @comicstalkYT
-@MovieRecapsMax
 @movierecapsofficial
 @synocap
 @movielounge_2025
@@ -53776,9 +53768,7 @@
 @MisterAI-o5k
 @UlmerWashington2
 @EmreKutlu-t9p
-@conxemconreview
 @StellarDriftex
-@BeastExplained11
 @ThePackCrown
 @WesternHeartsSouls-x3o
 @TusharReads
