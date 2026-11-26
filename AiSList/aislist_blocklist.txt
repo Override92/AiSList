@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70961
+! Total Channels: 70959
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15381,7 +15381,6 @@
 @esotericguardian
 @AmbienceDreamscape
 @EpicScroll-83
-@ascensioncurios
 @ChanLore
 @goldencinemaclips
 @Discover24hProduction
@@ -37497,7 +37496,6 @@
 @Wild_Instinct-MVP
 @DOOMPERK
 @sanatanimohini1994
-@%E1%8B%A8%E1%88%80%E1%89%A0%E1%88%BBAI
 @ThenWhat36
 @RicksClips3000
 @The_NuclearMan
@@ -37555,7 +37553,6 @@
 @ICaughtTime
 @TimeLapseLords
 @capitaltheoryjournal
-@rdzenkolosow
 @QuantumMakers
 @FlightPath-t9z
 @Marlitha
@@ -70977,3 +70974,4 @@
 @HistoryChroniclesHQ
 @reactiondes
 @thepastsimplified
+@anothershore-yt
