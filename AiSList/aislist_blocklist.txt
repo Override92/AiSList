@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70953
+! Total Channels: 70951
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -15418,10 +15418,8 @@
 @ThunderBluesRock
 @bestriverrelaxing
 @SusanCCornish
-@funnyverz
 @FarFlight
 @Soul70smusic888
-@EtherWaveMusic-w8v
 @SoulChronicleRadio
 @the90lens
 @LostHeartWhispers
@@ -20971,7 +20969,6 @@
 @malahistoria99
 @speed_clip6
 @flexpro.entertainment
-@historymakesyousleep
 @showww-f2r
 @animalactionreel
 @wsenpaiii
@@ -70969,3 +70966,4 @@
 @storiesfromthesecretplace
 @loudgulp
 @straylighttv
+@skytospare
