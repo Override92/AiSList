@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71002
+! Total Channels: 70999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12999,7 +12999,6 @@
 @NurtureWithNurse
 @TheMilitaryStories-r9d
 @BraveMafiaHeart
-@CalvinHOAStories
 @HOASilentWars
 @Hoaliars
 @FunHOAStories
@@ -23625,7 +23624,6 @@
 @aiauditions101
 @hebbyclips
 @dierentnerdeutschland
-@nobody.realized
 @HiddenThronesHistory
 @TastebudsAtlas
 @HiddenTruths9
@@ -30883,7 +30881,6 @@
 @Africantalesbykora1
 @Dramatalesroom
 @YellowLampTales
-@GraceAfricanFokTales
 @AfricanSoulTales-37
 @grandmaefe
 @HerSecretTales-n8q
@@ -30910,7 +30907,6 @@
 @SeoulEmpireTales-set
 @AfricanCinematicTales
 @AFRICANFOLKTALESBYVISTARR
-@Heartfeltduketales
 @KnottyTales-u3d
 @AfroSeoulMafiaLoveTales
 @Africanfolktalesnightly
@@ -32988,10 +32984,8 @@
 @MrCoop
 @PurpleGrapeDrama
 @DramasenCorto-w1m
-@FactoraX111
 @TheLastTrack48H
 @lipunodiavlog349
-@africanhistorybyadunni
 @mysteronixx
 @ana_stories12
 @sacredstoriesoffaith98
@@ -37919,7 +37913,7 @@
 @欣欣看剧
 @구독은응원입니다
 @오늘쓱봐
-@riseinchrist-v2y
+@divinetruth-i9z
 @EddieVanHalenHiddenStories
 @EddieVanHalenLegacyy
 @ConsumerVault1
@@ -71018,3 +71012,6 @@
 @쇼츠_부기
 @cccccvvv88
 @nobodyhistory
+@yoogi-animations
+@lipunvlog349
+@a_in_s
