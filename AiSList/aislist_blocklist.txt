@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70951
+! Total Channels: 70953
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11067,12 +11067,11 @@
 @here_is_joy-z8z
 @simple-society
 @Stellar_clipzz
-@StreamerHighlights01
 @etmojo.217
 @MuzikWorld232
 @PrimeClips-677
 @Mr.meme-funny
-@Twitchclips-fun
+@crimewise-b9k
 @BooThings-t2l
 @SecurityCamera-u2w
 @owencloses
@@ -70967,3 +70966,6 @@
 @loudgulp
 @straylighttv
 @skytospare
+@hedgealphaai
+@quilltaleshistory
+@darkvelorians
