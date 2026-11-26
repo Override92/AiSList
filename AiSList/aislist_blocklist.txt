@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70999
+! Total Channels: 71001
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -37763,7 +37763,6 @@
 @HoneyCrush-z
 @EntreTronoseV%C3%A9us
 @EpochTimelaps
-@Fatebound-Drama
 @KnightsofEternalFaith
 @NeonDemon1116
 @CineAISoul
@@ -37869,13 +37868,12 @@
 @Historybyscottz
 @nuelxplains89
 @HiddenHistory-07
-@ReincarnatedInHistory
 @DarkHistoryFilescinar
 @EasySleepHistoryCo
 @ancienthistoryman
 @SleepingHistoryZ
 @HizaHizahistory
-@bedtimehistoryyy2
+@recappedmov1es
 @HistoryRot
 @UntoldBoringHistory7
 @watchhistoryvault
@@ -71015,3 +71013,7 @@
 @by.nile
 @맹수관찰
 @nexalootstore
+@imaginaryworld-f2g
+@nysmelodrama
+@povhistoryusofficial
+@쇼츠_부기
