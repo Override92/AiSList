@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70957
+! Total Channels: 70947
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5798,7 +5798,6 @@
 @NomNomicsYT
 @SeniorFoodBlog
 @DrBenWalkerOfficial
-@HealthTipsEveryday-i7f
 @Doctors.Orderss
 @cecilymarrow
 @MichaelHarrisAnalysis
@@ -19054,7 +19053,6 @@
 @ChadRecklton
 @walterwatchwisdom31091
 @Finance_101m
-@MoneyJournal-v7d
 @Thepapertrail-w6p
 @JunkBondInvest
 @MOPOK-cw
@@ -19113,7 +19111,6 @@
 @maximlansiquot3331
 @shakelore-yt
 @viktormusic_kr
-@NeonEchoDistrict
 @iINTELLIGENCEiTechnology
 @ZoneOfGadgets
 @HardwareFrontier-q8p
@@ -22541,7 +22538,6 @@
 @SeedShift0
 @TreeLapse-v9h
 @aimagicshorts-r2k
-@AIPlantWorldOfficial
 @NillsAIHub
 @MZEYES-3
 @animated-aura-10
@@ -22598,7 +22594,6 @@
 @LouisFournie-b1b
 @BubblesPopStories
 @TenderFeelings-i3s
-@blacklegacychronicles9909
 @BillionaireTales-q2t
 @verdixgarden
 @Aitoons100-m8h
@@ -26431,7 +26426,6 @@
 @Official_AIuniverse
 @What-x1y
 @Scratch-karau
-@KangarooAIClips27
 @ai.storyedit-2
 @Altech-o4u
 @Nooruzzamaai
@@ -27672,7 +27666,6 @@
 @NightfallTactics
 @NEXO-v3h
 @Jayautos1
-@16EnglishEveryday
 @WorldStick1
 @ParliamentReckoning
 @MaximumGardenYield
@@ -27784,7 +27777,6 @@
 @CosmoExplainsYT
 @XplainedwithMushroom
 @AngelosItalianCooking
-@peopleandcars-o6k
 @PushRecap1
 @natashachernova471
 @mangahikikomori
@@ -43642,7 +43634,6 @@
 @AIVisualStudio-YT
 @LaCuentaDelLapiz
 @AIWorkflowHubHQ
-@the_briefing_desk
 @JoecarriganYT
 @TheFrontierLedger-j1s
 @storyofamericanpeople
@@ -47669,7 +47660,6 @@
 @FactoryProcessInsights-top
 @Mrcapital-b3v
 @EleanorSpeaks-l2l
-@EchoesofKindness-h2z
 @MoneyMetricsLab-o5w
 @MadeonEarth-u7q
 @FactoryFlow-h2d
