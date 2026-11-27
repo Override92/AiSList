@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71045
+! Total Channels: 71044
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7509,7 +7509,6 @@
 @sportsheavenus
 @honeybunbun_123
 @tasawergaming
-@slightly_dark_56
 @tiffytotstv
 @archiwahistori
 @birthdaypartymusicofficial
@@ -17370,7 +17369,6 @@
 @medievalfrontlinesde
 @AlphaDestinyStories
 @AlphaKingChronicles-e6v
-@MoonboundLoveStories
 @fatedalphamoon
 @TyneDemarion
 @RinasRomance2
@@ -17411,7 +17409,6 @@
 @SableThroneUS
 @VisãoBalística
 @HannamWhelihan
-@bossheartstories-l8m
 @ClaimedbyFate
 @MUSICKIJY
 @TheCandlelitHistory
@@ -31839,7 +31836,6 @@
 @aistorytoolAI
 @HeritonINC
 @SavageBloodlineFiction
-@LostArchivesFiction
 @JudgeHarlanCourtroom
 @HeatFiction
 @VoicesAvalon
@@ -31863,7 +31859,6 @@
 @EnochRevealedYT
 @KindnessTales-z2i
 @HopeTales-us
-@HiddenRankTales
 @HarvestTales-4u
 @GoodHeartTales2.0
 @soundflow_lab
@@ -33693,7 +33688,7 @@
 @NeftaliGholipoor
 @SamGarrettYT
 @Secretstatefiles-i5s
-@resolvestudioyt
+@resolve456
 @TheActualFashionFiles
 @therevengefilesss
 @theclippingfiles03
@@ -71061,3 +71056,7 @@
 @in_blackbox
 @3dvellix
 @explorewithambrose
+@thev8signal
+@holaceditz
+@friedpickle8
+@blc.meraj-07
