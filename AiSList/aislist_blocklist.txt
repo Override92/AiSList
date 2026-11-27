@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70974
+! Total Channels: 70967
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3236,7 +3236,6 @@
 @CarBeats-g4n
 @TopupcomingCar
 @FKCARREVIEWS
-@AutoReview-fe1
 @autonextlevel
 @SemillasAncestrales2000
 @Explica2-dos
@@ -8620,14 +8619,12 @@
 @dishantias
 @Ramzax598
 @Brain_BotAi
-@TheReconstructedHistoryYT
 @TheStudyZone7
 @KwinsAfricanFolktalestory
 @TalesbyProsper
 @Rachelsstorytime
 @CircleofAfricanTales
 @AfricantalesbyChiNwa
-@Adheyaistorytelling
 @africantalesin3D
 @folkloreafrica27
 @Africantalesbybee
@@ -38519,7 +38516,6 @@
 @Liquid4Music
 @megabassedm
 @melodivibes-s2g
-@ETERNALROCKVIBES1
 @InfinitraEDM
 @ElectroLatinVibes
 @LoFiRainEscape
@@ -38540,7 +38536,6 @@
 @MoonCrystalMusic
 @TranceCrowd
 @DeepMelody68
-@BlackForest_Underground
 @HypnoticTranceMixes
 @NovaJazzLike
 @MoonlightMocha-1
@@ -38672,7 +38667,6 @@
 @Sonavolt
 @ClubBeatsRadio
 @midnightjazzradio
-@LittlePrincessAggie_Flow
 @EnchantedLibraryRadio
 @ProfessorNexusAcademy
 @Starsfamous7
@@ -38693,7 +38687,6 @@
 @TripleRRRMusic
 @KiteScapes
 @GlitchJungleFlow
-@pennyexplainsfinace
 @analogstatefiles
 @americathroughtimee
 @psicologiafemenina-h9r
@@ -46168,7 +46161,6 @@
 @cozyautumnhouse
 @aggieandsleepypaws
 @royalverdict-k8e
-@secretsofmilitaryhistory
 @adheyaistory
 @fukashigi-renderer
 @edwardluca-h1q
@@ -70989,3 +70981,5 @@
 @tinyottertoons
 @planetaextremo07
 @viceatlaas
+@rainyumbrella.official
+@haaikaaystoryempire
