@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71028
+! Total Channels: 71018
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33983,7 +33983,6 @@
 @BibleStoryverseYoutube
 @TheBibleUnsealed-b7t
 @biblecopilot
-@BibleAcademiaTV
 @thebiblesoundaudio
 @DeepBibleInsights191
 @KidsBibleStoriesNsongsTV
@@ -68101,7 +68100,6 @@
 @JacksonZhangai
 @I_am_oLii
 @WAKILEDITZ7
-@TheCrossroadsMan
 @GusHollowayMusic
 @CatStories025
 @Alarm365sk
@@ -68122,11 +68120,9 @@
 @Ai_Creator1995
 @AnimaTubbe
 @suhhcreation
-@UdasiCreation6565
 @CelebrityLensChannel
 @Cinzocraze
 @egoist-isagi-007
-@PiyuTales3d
 @aistoryland281
 @mohibbeats8804
 @tobitheory
@@ -68147,17 +68143,14 @@
 @Epic_Rankz
 @AKVK-RK
 @ravenmoorlibrary
-@ultimatetiktokcompilation
 @AI.XENTRA
 @BiographiedMemoirs
 @LaughVaultClassics.k8668
 @Themediacatechisttv
 @after60-f1e
-@quorivex99
 @Nighttimelullaby3
 @ShatteredTrustFiles
 @HolyAthosChoir
-@WILDCATSKARATE
 @RSExplorer-p2l
 @theracture
 @health.us.1
@@ -68165,7 +68158,6 @@
 @LectureQuizLab
 @bodywtf
 @ZombiTronicJamz
-@FGSDZV
 @G-Logics
 @RealQuietRevenge
 @QuietRevengeStories-u7w
@@ -68204,7 +68196,6 @@
 @DarkreachHFY
 @TheCoveredFire
 @Fivonic-m7y
-@MrZenithHFY
 @HFYVoidStories-p6q
 @HFYStory-l6o
 @CypressHollowBallads
@@ -68249,7 +68240,6 @@
 @Rockvibenation
 @HeavyMetalEngine
 @BrightworkScience
-@DestinyPoint-h2h
 @ZyraStoryStudio1
 @DestrozandoHeroes-e8t
 @aidin.thinks
