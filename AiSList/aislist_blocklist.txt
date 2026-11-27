@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70990
+! Total Channels: 70986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2968,7 +2968,6 @@
 @TouchingBossStories
 @VeronicaNarration
 @WhispersBeforeSleepyt0
-@ForbiddenSecretLoveChronicles
 @HeartlandStory
 @EmmaLoveStories-p7b
 @VeteransVoiceYT
@@ -16511,7 +16510,6 @@
 @MiniLabYoutube
 @AIfantasylifestory
 @tinyverse_kitchen
-@ringdoorbellfootage0
 @GETINFORMATION-1
 @Mr.Histories1
 @marvelfightanimations
@@ -16529,7 +16527,6 @@
 @DoorbellMoments-m4q
 @Yomstudio-c8f
 @DogeshCU
-@PromptLabNow
 @MarioObiektyw
 @LostAndForgottenPlaces
 @LostCodexOfficial
@@ -16569,7 +16566,6 @@
 @SynopticWorlds
 @Ring-cam-ai1
 @Doorbellgonewildd
-@TheviarldoorAI
 @CinematicAiStories-i4
 @realkevrah
 @AI.Doorbell
@@ -33334,7 +33330,6 @@
 @Oceanrideer
 @WhatIfLogic-s3h
 @FernFlowerLore
-@Stickversetaless
 @kianodyssey
 @MikoIf
 @SceneSizzle-o4l
@@ -37979,9 +37974,7 @@
 @WisdomVault-b1f
 @FinanceIdeas-x2o
 @SketchTheEconomytv
-@biggerviewcasual
 @ParchmentEmpire
-@PersonalFinance-d8z
 @JMT-pz8qw
 @RomeCalculated
 @techopenedup
@@ -71006,3 +70999,6 @@
 @mythicearthlegends
 @wemrik
 @amberpinefolkytb
+@wasteddaily-k7r
+@factrocketsus
+@gta6momentsjj-o8u
