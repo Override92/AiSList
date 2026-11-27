@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71012
+! Total Channels: 71002
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32061,8 +32061,6 @@
 @TheMuscleCartel
 @mocomocoroomdiary
 @EmmaCarrelo-c3f
-@jamescarter1026
-@RevengeCarnotaurusUS
 @oldercarrey
 @DonCarter-g5m
 @The-Navalyst
@@ -68414,16 +68412,10 @@
 @HypotheticalClips
 @TheWhatIfLab-e7m
 @LemonSugarWater
-@JacquelineRidge-j3b
 @Soft_Hours_lofiandchill
 @RanTan_AI_Studio
-@HypeOfGarage
 @asmr-ai-k8q
 @Musizbox-x1t
-@ASMR-AI-Inspiration
-@SoftSleepASMR-t2i
-@AIASMR360
-@AdRelaxASMR
 @UnbelievableUSA-u2s
 @vaulttheoryforyou
 @giyamotv
@@ -68515,7 +68507,6 @@
 @GowthamConcept
 @mr.sk.sandeep
 @PixelNovaAI07
-@Loongkin_Fantasy
 @BabyAIMasti-r1e
 @vikashaipro
 @Aidigital-p6i
@@ -68530,7 +68521,6 @@
 @its-NovaNest
 @MitTDCute
 @ShubhamAIComedy-3419
-@morganmainasongs
 @Aianimationdigital
 @VibeEngines
 @Muskan_ai_universe
