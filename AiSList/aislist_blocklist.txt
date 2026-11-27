@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70981
+! Total Channels: 70971
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12550,7 +12550,6 @@
 @westaibeats
 @大谷インパクト-k1k
 @NOVARAARMENIA
-@AILifeStories.2
 @AROUNDTHEWORLDBROSIS
 @GeorgesHistoryHub
 @aipilot13
@@ -14794,7 +14793,6 @@
 @TinyFoodBuilders-o5y
 @minifoodstudioofficial
 @TinyWorldFactory-d8i
-@Tiny_Food_Factory-TFF
 @KaaliKaalu-d2x
 @SumoLife-z3p6q
 @OssumScottz
@@ -16865,7 +16863,6 @@
 @epicaistudioofficial
 @asktemmystories
 @animalsandnature001
-@memenovafood
 @paulvince-trance
 @RavenAstrids
 @bedtimestories.forsleep
@@ -25790,7 +25787,6 @@
 @redditnotes_0
 @snoopyjazz-g8l
 @slydalton
-@primiumcarpro
 @puremuslinhouse
 @blueprintamericaofficial
 @AnalogGuitarRoom
@@ -69551,24 +69547,18 @@
 @IsabellaRelationshipAdvice
 @TheLoveDynamic-c9u
 @BeyondLoveUS
-@IntimacyCoupleCircle
-@HiddenRelationshipPsycholo-g6p
 @PrestigePsychology-i1b
 @WayOfStoic-jc9vj
 @JillzGuerinPsychology-5M
 @Hidden_Female_Signals
 @TheLuxeHearts-r4y
 @HiddenStoryLee
-@JassicaOpareTalkWomen
 @BeforeYouLeaveStories
-@OldManOliverStories
 @TheSilentGavel-c8g
 @BIKERSTORY-o2o
 @SecretPast-n8x
 @EPCover
-@KissReelDrama-z9m
 @JUFEIFANEXCITINGDRAMA-c6b
-@shortplay1-x7u
 @KissesBetweenCliffhangers
 @BritishWarSteel.Official
 @Yuki_Brandt
