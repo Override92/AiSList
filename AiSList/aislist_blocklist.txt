@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70961
+! Total Channels: 70963
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35117,7 +35117,6 @@
 @Turbotalk-u7i
 @FlatTire-TV
 @footnotes-of-azeroth
-@BrandRewindUS
 @explainedsimplywhatif
 @forgottenhistoryechoes-r1z
 @fantasy_chapel
@@ -70977,3 +70976,6 @@
 @aecreations.101
 @juliannastudio
 @daily-backfire
+@viceclipstvma
+@ferns_lab
+@navia-dh
