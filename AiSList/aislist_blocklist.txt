@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71008
+! Total Channels: 71007
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -22004,10 +22004,8 @@
 @aibeatsandflow
 @FiftiesReplay
 @aimusictune-i3
-@theamericanWW2-n3m
 @musicwithmk26
 @Sounova7
-@BmBmusic-2132
 @sunolivetimegaana
 @kvmamathareddy
 @GigglePlanet7
@@ -34010,7 +34008,6 @@
 @BibleBedtime_HQ
 @Dailybiblepsalms-B
 @BibleshortstoriesforKids
-@BibleUncoveredEx
 @StoriesoftheBible-r5j
 @knowyourbible2025
 @Bible.c
@@ -46437,7 +46434,6 @@
 @Musiccinta-y4e
 @%E6%98%9F%E6%98%9F%E6%95%85%E4%BA%8B%E6%9C%83-r2y
 @HFYStalkersx
-@women_of_thebible
 @peculiarexplained
 @BrothersofSteel-m5n
 @VelmoraTV-i8v
@@ -71024,3 +71020,6 @@
 @relictvhistory
 @darkfantasystudiose
 @leonidahypetv
+@ggbbgiao
+@novadrama-e1k
+@qiyuanduanju
