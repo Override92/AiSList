@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71139
+! Total Channels: 71130
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30041,7 +30041,6 @@
 @AfricanTalesbyLabake
 @TwilightFairyTales
 @StarDominionTales
-@world_music_tales
 @TheGhibliNostalgicTales
 @EASTERNTALESWITHUNCLECHUKMA
 @EsheFolktales
@@ -30168,7 +30167,6 @@
 @TimelessTales-by-Dan
 @WarhammerMatt
 @ImaraTales
-@MidnightBLTales-q1s
 @TheAnimalPerson
 @FolktaleSparkLandTV
 @TheKindnessRoad
@@ -30199,7 +30197,6 @@
 @BritainsHauntedTales
 @EternalTalesAnimated
 @HerAfricanTales-u5z
-@BrokenTales-t1n
 @VelvetMafiaTales-r2c
 @AfricanTalesEchoes
 @QuietDignityTales9901
@@ -30224,7 +30221,6 @@
 @TheTimelessTalesLibrary
 @wildweslovetales
 @DukeLoveTales
-@CelestialWarTales
 @EchoTalesWorld-i4h
 @TimelessTalesByDora
 @talesbyunek
@@ -30314,7 +30310,6 @@
 @AlphaLunaLoveTales
 @KoreanMafiaTales
 @OyimsAfricantales14
-@MafiaBossRomanceTales
 @AFROKO-TALES
 @LunarVowTales
 @folktaleshubwithgrace
@@ -30324,7 +30319,6 @@
 @Floral-tales01
 @AfroMafiaBossTales
 @BeckhamTales306
-@SecondChanceRomanceTales
 @IronRidgeTales
 @OldWesttales-o3h
 @Neriahfolktales
@@ -45517,7 +45511,6 @@
 @cellularpov
 @UltimatePOV03
 @LegacyPOVStories
-@POVInvestorUS
 @povevolutionguy-01
 @POVFrontlines
 @ostapovhavrylenko
@@ -45526,7 +45519,6 @@
 @POVsSIMPLIFIED
 @HisIronicPov
 @POVYOURLIFE_YT
-@POVzeiro
 @TheFinancePOV
 @TheMentorPOV
 @Pov%C3%ADd%C3%A1n%C3%ADoAutechTch
@@ -52453,7 +52445,6 @@
 @HumanParadox-r6w
 @HFYGalaxySmith
 @humanswried
-@HFYGalacticSaga
 @HidbenMechanics
 @DomeliteHome
 @Mr_Lumiq
