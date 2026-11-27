@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70924
+! Total Channels: 70914
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54044,7 +54044,6 @@
 @GodsChosenVoice-u6f
 @gardenhoardnz
 @mrhousingg
-@officaltraumaflicks
 @EvidencePress
 @VisualMathLab-3.0
 @MrPhysik
@@ -54052,7 +54051,6 @@
 @OddlyHere
 @factssticks
 @simanachue
-@tomorrowsucks
 @ArchivesofNightLore
 @NatureSecretsRevealedl
 @InTheirBoots33
@@ -54066,25 +54064,18 @@
 @RoobaAkhtar-i8z
 @AyushKumar-e6y4c
 @MYSTICTALESAI-n9x
-@CartoonEdit-f9k
 @AIVisionStudioa
-@RajyadavYadav-f7g6l
 @storyfacts-z4q
 @aivideo_12k
 @SonuBadhai-c8m
 @FunFactYT-y6z
 @PoojasAIKitchen
-@AICOOKCONTENT-D
 @Gandhi-vs9ug
 @FahimaAkter-x8n
 @WhiskerTales-e9r
 @fantasyworldofmine
-@InternetInfrastructureExplain
 @NinjaGuidesHQ
-@TheUpcycleLab
 @hayestutorials
-@OccultOriginsExplained
-@Profiles-in-Politics
 @TechKingo360
 @QuietManatWork
 @Tech-Traverse-Tips
@@ -54095,7 +54086,6 @@
 @GONGSoftheMIND-o7w
 @VitrinedeFilmePrateado-dm8qx
 @Korp-Music
-@CapitolInsights-y6t
 @updatezone-r4t
 @Daniel88-d5h
 @jermainewatkins-r8s
