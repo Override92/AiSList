@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71018
+! Total Channels: 71008
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34033,7 +34033,6 @@
 @HolyBookAnimations
 @bibleverysimple
 @biblestories-s4n
-@BibleSay-z
 @JesusHeavenAi
 @JesusHope-g1h
 @WalkwithJesus11a26
@@ -68248,7 +68247,6 @@
 @RevelynStories
 @misteryofamericanwoods
 @Vothrin
-@HFYLegends-s1l
 @kinoman-h4r
 @HFYFrontier-c4e
 @Peaknadir
@@ -68257,7 +68255,6 @@
 @chronoflight
 @visitsnail
 @musicknowledgejs
-@Dr.EricWells
 @covermusicpopuler79
 @CountryRoadMusic-i7t
 @RetroNightDrivesFM
@@ -68277,7 +68274,6 @@
 @TheAstralEquation
 @EvanStride0413
 @DevVishnoi-y9s
-@NorthfireSound
 @TheRuntimeReport
 @VIBE_GENERATOR
 @ApexArena-s7u
@@ -68326,12 +68322,10 @@
 @Chirstvoicetelugu
 @SONofDaViDHopeStreams-Ai
 @OnlyYouChurch
-@prashantmaladhari8211
 @AshishSahani-p8b
 @CuteBabyDevil
 @giaidieuductin-thaochi
 @HolyEcho-w2o
-@KhudaKaKalamOfficial-j7b
 @Ai-talking-bible-tamil
 @livingworddaily-t4x
 @thewordalive-b6n
@@ -68370,8 +68364,6 @@
 @MuslimGirl-b8p
 @storiesmeantforyou
 @MoonBiteStories
-@Behindnature-q8b
-@BRDStoriesHub
 @CineAI.Studio-y3g
 @EditIllusions
 @DigiAi-Studio
@@ -68411,14 +68403,12 @@
 @CharlieChin-z2k
 @EthanEthanEthanEthan-u2x
 @Gooe1-m5l
-@vrsedits-f7k
 @ThinkWhat1
 @TheEngineeringCore-v
 @PossibilityParadox-o9i
 @TURNFELTFILMS
 @mundo_do_e_se
 @voceeseucrush
-@FlorOrihuela-c1m
 @ProtocoloSobreviv%C3%AAncia_Oficial
 @What-Iff2
 @TheLastLaughTales-n6r
