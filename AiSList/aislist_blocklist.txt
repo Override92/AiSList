@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71021
+! Total Channels: 71025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11526,7 +11526,7 @@
 @AICinematicCinema-x5n
 @AIMarvel3
 @AiTheater-9
-@AIGlitchTrailers
+@반전사돈극장
 @RUDRANSHRAJ-r2s
 @VaibhavKulkarni-t6o
 @akbarshaikh98760
@@ -71037,3 +71037,7 @@
 @crazyslimelab
 @thenowsoundmusic
 @aigemini180
+@themetalcodee
+@thewrongsideoftown
+@nova-sound-works
+@mythheadx
