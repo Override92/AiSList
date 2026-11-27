@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70971
+! Total Channels: 70961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -69659,12 +69659,10 @@
 @ChelseaMcclenahan
 @BodyVaultAi
 @catholicteachingsandbeyond
-@IronwakeCommand
 @BERLIN_PRESSURE
 @MuhammedGarba_Al-asad
 @YorMangaYT
 @To-proste_official
-@AmazingifyOfficial
 @Learn_Ology
 @ManhwaRise-d8j
 @Thrivemedia0
@@ -69672,7 +69670,6 @@
 @BookPassion0
 @FlowLab-m6m
 @CAR-c5e
-@KellyNunez-y8f
 @BlackthorneASMR
 @BollywoodJunction-oc3ko
 @KaelyraVoltagekiss
@@ -69787,7 +69784,6 @@
 @EvoMindExplains
 @HARSHSHADOWX
 @PainttheIdea
-@25troctober
 @WhatIfOllieTV
 @ArumuTV
 @FrederickBlankenship-w3m
@@ -69803,7 +69799,6 @@
 @RoyalWeddingChronicles
 @howPrehistoriclives
 @archetrace
-@firrsstnov
 @HumanNature-f1f
 @JasmineCunninghamCoach
 @beyondthesingularity98
@@ -69855,7 +69850,6 @@
 @ValuewithV
 @EntirelyExplained
 @InkIslandYT
-@Ducktails-eu
 @LongStrangeTales
 @Beyond_the_Hush_Tales
 @IllinoisUncovored
@@ -69871,7 +69865,6 @@
 @QuietAmericans
 @YauhYsia
 @Hankwilson1
-@MotorExposedYT
 @WealthUnframed
 @ChloeTheory
 @DellaKnowsHow
@@ -69881,14 +69874,11 @@
 @MaggiStupyDuggi
 @DelmarHoke
 @DevDoesDevThings
-@AncientPaintss
 @MXARPLAYSYT771
 @HankMayhew
 @MayaCabinCrew
 @thehiddendispatch1
-@SarahWhitfieldrDecor
 @mindpath47
-@PaleDotLoop
 @ClearedandReady_official
 @OnceUponAnAfricanTale
 @Evolution_Simplified
