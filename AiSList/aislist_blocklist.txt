@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71150
+! Total Channels: 71149
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -52050,7 +52050,6 @@
 @HealingHealth-l4c
 @seeingwhy
 @LexicallyPowered-4u
-@Anonymous-m1r
 @SaltwaterGameStudios
 @JarvisStark-g9t
 @LoreLabGaming
