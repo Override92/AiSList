@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70967
+! Total Channels: 70957
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21500,7 +21500,6 @@
 @AfricanFolkstories_80
 @NneAfricanTales
 @MercyInaStories
-@BaobabTales123
 @AfricanwisdomVault-d5e
 @MangoDramaStories
 @FavstarAfricantales
@@ -38649,7 +38648,6 @@
 @ReactionPoint-e7m
 @Dream.bass1
 @LaksmiFun
-@ChicagoSoulNights
 @Calmrelaxing-m2d
 @ZYNTHmix1
 @megacitymusicrecords
@@ -53807,10 +53805,7 @@
 @RustyProductio
 @SpiritualDive
 @DIYAlchemyOfficial
-@ShadowofVegas
-@theforgottenp4st
 @FactopiaExpress-n7i
-@SimplySapiensOfficial
 @potlikker_official
 @ASTRALFORGE-u6g
 @Maestropulse
@@ -53818,7 +53813,6 @@
 @macilcat
 @RbxNews-TV
 @frk_msc
-@StrategicPulse-b4q
 @TrainsTrainsTrains
 @%E5%A6%B9%E5%AE%9D-c1v
 @DailyAnalysis-p4q
@@ -53831,7 +53825,6 @@
 @CeMancam-u4p
 @controlalimentar
 @WhyAreTheyLikeThat-50
-@PureWisdom-d7k
 @SoftTwine
 @MentalCuann
 @neoanimeecho
@@ -53840,7 +53833,6 @@
 @aiwithrajofficial1
 @Thealerthub-prisha
 @top10technologychannel39
-@Behindtheknockout-k6x
 @Felix-f7s3s
 @rambhajan-keertan-20n
 @heavenlyislam786
@@ -53854,11 +53846,9 @@
 @WildLegacy22
 @Hy_roshan
 @IndustrialZone360
-@Aymanislamic-r5r
 @jafunny-l1y
 @wahidatunsholihah6281
 @Gautam_mandal_9359
-@SmartAgriYT
 @Top_Animalss
 @AIBhakti_videos-1
 @TasleemTvinfo
