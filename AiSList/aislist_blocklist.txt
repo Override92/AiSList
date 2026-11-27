@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70948
+! Total Channels: 70943
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34110,7 +34110,6 @@
 @BitterAftermath
 @CrownedDrama
 @Ultimate_Werewolf_Romance
-@Talaromanceaudiobook
 @ShadowAlphaTales
 @ZayaWerewolfRomance
 @ClarasAlphaLibrary
@@ -34183,10 +34182,8 @@
 @AlphaMonarch-j8u
 @MoonfangKing
 @Maschera_Tales
-@KingdomofShadows153
 @TheAlphasHeart
 @AlphaKingCampfireStories
-@AlphaKingdomStories
 @WildWestSurvivalStories
 @SophiasSanctuary
 @SilentHeartStories-m3y
@@ -34196,7 +34193,6 @@
 @QuickTheater
 @DramaStruggle-ux7gx
 @TheDarkEdit-y9y
-@ShortMax-Multilingual
 @TinySceneTV
 @Hot-Drama-q4f
 @MollyDrama-l4r
@@ -40549,7 +40545,6 @@
 @LUMISATUR_Official
 @LIVA_Animation
 @WingsOfLightMusic
-@dearlyshararomance
 @teatrodocoracao
 @amersentinel
 @gokhanok-w3e
@@ -40570,7 +40565,6 @@
 @actionmove_2a
 @Love-Without-Limits-usa
 @sarvi_ai_world
-@MeadowAndMemories
 @HijaDelRey.O
 @AudioGalaxy-o4u
 @GraveRoadCountry
@@ -70964,3 +70958,4 @@
 @gta6gameplayuntilgta7
 @gta6clips.5d
 @eragenglobalindustrie
+@frontierunfolded.2027
