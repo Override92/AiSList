@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70974
+! Total Channels: 70984
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70990,3 +70990,13 @@
 @DarkEchoesMetal
 @BLACKROSESYMPHONY-h8p
 @DUNKELKLANG26
+@MotoStar-Lss
+@VantaForgeMusic
+@StahlnachtRadio
+@hympaty_official
+@ECHOREQUIEM-q2o
+@ridersonthestromm
+@LuzdeOrionAlmaOficial
+@TheRiffJury
+@GEOUK-c7e
+@mashupacoustix
