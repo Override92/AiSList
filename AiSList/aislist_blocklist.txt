@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71112
+! Total Channels: 71102
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59832,10 +59832,8 @@
 @DonConceptino
 @DeathworldDiaries-u2x
 @Deathworlders-c6n
-@TerranLegends-u4e
 @GalacticVerdictHFY-m2e
 @ZenithProfile
-@HumanityUnleashed-g4r
 @HFYRedditSagas-v2o
 @HFYGalacticChronicles-b4s
 @HaiNguyen-k6m7y
@@ -59844,12 +59842,10 @@
 @HeroesoftheVoid-d4e
 @CosmicHFYChronicles-o6b
 @JamesSmith-d3j8p
-@DeepSpaceGalacticHFY
 @StoryFragments-u8f
 @humanisprime
 @BrokeBunny-p9z
 @ASMR-AI-15
-@undercurrentfile_s
 @NeoPhoenixFreak
 @HhH-o5m3x
 @NewaccountJi-b1k
@@ -59862,7 +59858,6 @@
 @TrulyHistorical
 @IdiotPotatoMan
 @thetapekeeper40k
-@AiAlbumcovers
 @Hi%E1%BB%83uTuongPham-b5f
 @ZahiraBeats
 @beautysher-d6q
@@ -59874,7 +59869,6 @@
 @conspiracymusic
 @Velocity-1-n7x
 @TheAntiquityAtlas
-@MilitaryAnimationChannel
 @DeadVaultYT
 @vandaoaudio
 @ElMecanismoYT
@@ -59885,7 +59879,6 @@
 @DramaManis-l6w
 @NeonOath-g5d
 @Carlton-q4c
-@RejekiNomplok-k1g
 @Dunia-i3j
 @StardustTV-Indonesian-l6u
 @VelvetJazzLoungecafe
@@ -59942,7 +59935,6 @@
 @lullorsleep1
 @jenin2101
 @HFYGalacticLore
-@khoctrongmua4571
 @GalacticSecrets1
 @Zelvoraby
 @HFYWarChronics
@@ -59955,7 +59947,6 @@
 @HFYStoryExtra
 @scifiadventure3000
 @HFYStarforge-r8b
-@hfyunboundhumanity
 @Zanxola
 @linzeylooloo89
 @SpeciesUnknownTerra
@@ -59965,7 +59956,6 @@
 @OrbinCool
 @HFYPinnacle-o3d
 @HumanityUnchained-z7v
-@HFY_Astravion
 @HFYUniverseHQ
 @HFYOverdrive-r2r
 @IsharTiNi-z2l
