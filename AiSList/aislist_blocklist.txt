@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71084
+! Total Channels: 71086
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39292,7 +39292,6 @@
 @ASA-Hacks-e3t
 @HourlyHistory247
 @AIFrontierHQ1
-@eMoneyInsight
 @thevibecoder111
 @HiddenHistory-09
 @zyro_hive
@@ -39334,7 +39333,6 @@
 @HumanOddityLab
 @HistorySleepy-i2j
 @LumaRein
-@historyinsleep-l6v
 @Tummypup
 @TechUnboxedLab
 @Snugosaur2026
@@ -39368,7 +39366,7 @@
 @BoringHistoryEchoes
 @ChiChiStorytime
 @HistoryHidThis
-@ground.work0
+@ground-workz
 @historysleepstoriesss
 @MythBustingHistory
 @THEWEALTHLAB-y5w
@@ -39429,7 +39427,7 @@
 @BedsideHistory
 @boringhistoryforsleeppppp
 @CalmHistoryNights3010
-@Darkhistoryreloaded-p5
+@warexplained-25
 @CircadianHistory
 @MacroTaless
 @Why-Finance
@@ -46182,7 +46180,6 @@
 @WealthPOV23
 @The-WealthPOV
 @wealthpov-c3z
-@JadeWealthPOV
 @YourWealthPOVtv
 @POV-g8i
 @WealthhPOV
@@ -71100,3 +71097,8 @@
 @heartveil-studios
 @theuntoldstory-cm
 @afterdarktaleyt
+@lifepov6
+@lacademiefeline
+@максим.матвиенко1
+@zugriff911
+@zionmotif7
