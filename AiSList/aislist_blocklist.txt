@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70937
+! Total Channels: 70929
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -10374,7 +10374,6 @@
 @MYAFRICANTALES-d6u
 @PhilipFolkTalesTv
 @NeonEnso
-@TopIdéiaseFusõesAI
 @TenderMayUSA
 @InsomniaRadio-49
 @EagleandCommandArchive
@@ -25384,7 +25383,6 @@
 @manoikura
 @comicsoon-c1w
 @TinyWorkers-3
-@UKThrillo7
 @MiniChefAI-Official
 @behind-the-chef-ai
 @Animalchef01-r5g
@@ -27561,7 +27559,6 @@
 @capsula_mental-r9u
 @stranezzametaloficial
 @luciadelcorazon
-@diegocarmesielenavargasoficial
 @mintmark-b4p
 @joxstorytime
 @생활미용꿀팁
@@ -47665,7 +47662,6 @@
 @WishCarefully
 @lafitteasks
 @WhatIfUClick
-@snakecomedy_001
 @theironfatherstories
 @RainwoodPianoVEVO
 @%EB%9D%BC%EC%9D%B4%ED%94%84%EA%B0%A4%EB%9F%AC%EB%A6%AC
@@ -48015,7 +48011,6 @@
 @jjpique55
 @KitParedao
 @DarkWestLegendsVer2
-@TheHFYGalacticAdventures
 @FuriannaNoctis
 @ContinentalCover
 @PowerAnime-d5o
@@ -48211,7 +48206,6 @@
 @uprightclassicoldies
 @BeyondBible88
 @TheQuietHoursYT
-@QuantumKeySignal
 @OrbitReel-j5p
 @TEMPLARPRAYERCHANTS
 @Scifistoryq2g
@@ -48275,7 +48269,6 @@
 @kahanikalash214
 @DramaVerseNova
 @nordicveil
-@Dramafordaily
 @laBibliaparaTodos
 @MerlinNovela
 @SoyPotens
@@ -48296,7 +48289,6 @@
 @3DSatisfyingCODE
 @SpaceLeagueNL
 @OrbitClashFun
-@animalstv-v3e
 @strong-with-custom-songs
 @nimie_da_shy-witch
 @gocphimxin102
