@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70964
+! Total Channels: 70974
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70980,3 +70980,13 @@
 @FeuerZon
 @CrimsonMetalSouls
 @RAMMSTEINAFTERDARK
+@RAMMSTEINEVANESCENCEREMIX
+@EisenBluttg
+@RebornMangingisda
+@GothicFireSymphony
+@RealmX-u1c
+@ashveinmusic
+@RealmX-w7z
+@DarkEchoesMetal
+@BLACKROSESYMPHONY-h8p
+@DUNKELKLANG26
