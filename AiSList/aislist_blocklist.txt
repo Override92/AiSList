@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71088
+! Total Channels: 71095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -58349,8 +58349,8 @@
 @MinimotionX-S111
 @Tinychefs-AI
 @TinyTaleWorldEveryone
-@HappySparks-d7u
-@MiaMoments-Ai
+@alys_ai_world
+@mia_cozy_haven
 @TheDailyDoorbell
 @povguy_12
 @AuraterraFilms
@@ -58412,7 +58412,7 @@
 @Ferozerind
 @Enter-tainmentpk
 @AIcookingguide
-@SmartChef.Ai_official
+@aichefeshwar
 @WithStanzen
 @Kidsstorybyai
 @TwoFold_31
@@ -71104,3 +71104,10 @@
 @ultldʉnly
 @realyoyoshii
 @corehighlightzdaily
+@masticommdy
+@builttofallvfx
+@geokoreastudio
+@vijaygaming1811
+@enter-tainmentai
+@thedrinklab05
+@aichefcat-mirr
