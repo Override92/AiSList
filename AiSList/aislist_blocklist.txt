@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71075
+! Total Channels: 71065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31503,7 +31503,6 @@
 @WW2TrueTales7
 @ZuhalTales
 @AspirationalFinance
-@CelabFinance
 @FINANCETHEORY-0009
 @Grey_Finances
 @Highfinance_View
@@ -64697,7 +64696,6 @@
 @SleepyCrimeStories-4u
 @RainyFairytalesForSleep
 @CienciaFit-v4v
-@ZeeshanKasim-g9b
 @IrcOo-k7y
 @CalmLofiRoom-l3s
 @ThenTime-e9t
@@ -64732,7 +64730,6 @@
 @nocturnedarkacademia3012
 @nocturnebindery
 @aistorychannelkids
-@aishortfilmsbyaqii
 @Classical-Music-Playlist
 @GauravRaj-p7c
 @KidsLover-k1g
@@ -64742,7 +64739,6 @@
 @Nagnasatyam
 @DarkStrategiese
 @JungianRole
-@HomeEducation01
 @WalterDoyleMechanic
 @Lapinoushorts
 @DANNYonPC
@@ -64786,13 +64782,11 @@
 @BEFORESAFETYTV
 @offbalance1
 @TheHumanPast.03
-@insurvivaltwo
 @AncientMinds.2
 @MindFableYT
 @NYLIX-MUSIC
 @StickleyExplain
 @QuillyExplains
-@STICKWHY-o8b
 @UnknownExplained-w3m
 @LostWorlds-01
 @RusselYudigakov
@@ -64810,7 +64804,6 @@
 @WatchTheStories2.0
 @savezackjoecancer-i1q
 @Paintoont
-@QuietKarma-v7c
 @humanconditions333
 @Ryomen-gamer-j9b
 @SudipMaiti-b9e
@@ -64832,7 +64825,6 @@
 @bowwow-jazz
 @Peaceful.Vinyl_room
 @TheKingdomView_Hi
-@rongyang-f6y
 @PixDen-z8m
 @marketingmarkai
 @SenkaiZenn
@@ -64865,8 +64857,6 @@
 @OZFantasy
 @Seagull_World
 @NichijouToGensou
-@PortalInnBGM
-@%E3%82%B3%E3%83%91%E3%83%B3-q8h
 @GensokyoTraditionalArrangement
 @%E5%AD%AB%E5%B0%8F%E7%B7%A3
 @KuroganeBeats
