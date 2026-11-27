@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70958
+! Total Channels: 70962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21453,7 +21453,6 @@
 @BlushGlowStories
 @daimengduanjusheDrama
 @暖暖短劇-c2c
-@帝尊短劇TopDrama
 @JadeDynastyStories
 @minidramas-de-epoca-diarios
 @FirstSightDrama
@@ -21489,7 +21488,6 @@
 @Aibeyondthepages
 @TalesTwists-q9x
 @ndukaStudios
-@TalesbyJaylasMum-e5c
 @MoonlightAfricanTales-k5h
 @EchoesFolktalesHQ
 @fatibobofilms
@@ -53828,7 +53826,7 @@
 @SoftTwine
 @MentalCuann
 @neoanimeecho
-@Ghunya
+@ghunyadigital
 @Unstoppable-b9j
 @aiwithrajofficial1
 @Thealerthub-prisha
@@ -53844,7 +53842,7 @@
 @CrazyUltra-j7l
 @Lawsofnature-l5n
 @WildLegacy22
-@Hy_roshan
+@mrkathatva
 @IndustrialZone360
 @jafunny-l1y
 @wahidatunsholihah6281
@@ -70974,3 +70972,9 @@
 @rainyumbrella.official
 @haaikaaystoryempire
 @ToPProjectsCompilation
+@zonaindustrial-l1s
+@theriotsixx
+@cartoondoom3000
+@妹宝-c1v
+@安康樂齡堂-u1g
+@卡皮巴巴拉_qlkb
