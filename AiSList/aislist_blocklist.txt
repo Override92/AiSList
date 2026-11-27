@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71054
+! Total Channels: 71046
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17245,7 +17245,6 @@
 @AndraSoulAiMusic
 @almost1950s
 @obcy_majki
-@Superhit-80
 @BernieBernie-vx3qv
 @WEREXMUSIC
 @AIMusicByLek
@@ -17832,12 +17831,9 @@
 @InspiringStoryWithKindness
 @sweetendingtales
 @Africanfolktalebyrichy
-@WhisperedTruths-e9t
 @TotaRosed
-@storiesbybeiola
 @Africanfolktales-by-Amara
 @LumivaleStudio-c7b
-@AfricanLegendsUnveiled-j4w
 @AfricanStoryChannel-1
 @savoreaworldkitchen
 @Bente_pro
@@ -26709,7 +26705,6 @@
 @Evil_tigerrr
 @AICreatz
 @JesusSaves-m2p
-@beyondrealityai-y2c
 @TravelWorldAI1
 @Sound-Wisdom-J
 @DivineAi-s96
@@ -29269,7 +29264,6 @@
 @Soul-Dad.Stories-TV
 @SoftSingleDadStories
 @SlumbertimeStoriesofHistory
-@SleeplessScientistStories
 @SkylineJusticeStories
 @SirGentlesStories
 @SilverSpurStories
@@ -32220,7 +32214,6 @@
 @theobjectsweheld
 @TheHiddenMind-z9v
 @QuietRestraint
-@tozpembe2856
 @WhatPoweredAmerica
 @RobertLainereports
 @Daredevil287
@@ -36386,7 +36379,6 @@
 @OutbackMotors
 @RealGeoVerge
 @TheHiddenCircuit-d2t
-@eurowakesup
 @TheUnitedStatesChronicles
 @stitchAlohaVibes
 @TheUniverseDisagrees
