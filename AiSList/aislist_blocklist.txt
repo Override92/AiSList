@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70969
+! Total Channels: 70968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -42773,7 +42773,6 @@
 @Clearwealthofficial-u2p
 @Aimusicstudio2026-r6j
 @AncestorQuestions
-@Dailytory
 @periribgm
 @HUMANNATURE-r2u
 @Vidiaai-l3j
@@ -42798,7 +42797,6 @@
 @midnightzoneshorts
 @ChibitekMSP
 @BabyLaughFactoryLOL
-@UniverseGoneCraze
 @kuro_showtime
 @UntitledFrequency
 @Nollywoodnigeria-z2r
@@ -47248,7 +47246,6 @@
 @backporchsoul-music
 @AdamCantanhede
 @anel-tok
-@Kindrelia
 @hanybahgat
 @thierrybezier
 @diegobga8907
@@ -47277,7 +47274,6 @@
 @ElPanteonOscuro
 @narcissistxxx
 @AlphaDestinyUS
-@AbdulHameed-o6i1o
 @OlvidadosdelaBiblia
 @Sikimonty
 @SPAMhooligans
@@ -70985,3 +70981,6 @@
 @everscapefilms
 @dohastudios
 @doivlofficial
+@ethnicmusicworld
+@thebizlab-z7c
+@ivexoai
