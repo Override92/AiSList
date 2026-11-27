@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71088
+! Total Channels: 71087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6624,7 +6624,6 @@
 @wiejskieopowiesci-l1p
 @demonhunterseries
 @A-ZMovieFacts
-@MoonFactsTv
 @TalksByKate
 @2zaq0
 @Echonyra
