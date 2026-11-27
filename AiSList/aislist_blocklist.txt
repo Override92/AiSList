@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71109
+! Total Channels: 71099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3655,7 +3655,6 @@
 @goldsilverpronews
 @JohnAG-x8g
 @RogersGoldSilver
-@WolffExplained
 @cw.au-25
 @CanadaNextt
 @PhysicsAfterDark
@@ -21072,7 +21071,6 @@
 @RubysManhwa
 @PinpuWebtoon
 @ahsanurdustudio7299
-@AstraVeyl
 @QuantumPulse11
 @CalmPiratee
 @MarIA_Animated
@@ -59957,33 +59955,25 @@
 @HFYPinnacle-o3d
 @HumanityUnchained-z7v
 @HFYUniverseHQ
-@HFYOverdrive-r2r
-@IsharTiNi-z2l
 @HFYUniverse-h5s
 @Ascendanthfy
-@HumansAreInsaneHFY
 @HumanityUnbound-m2b
 @HeartlandStoryMoments
 @HFYGalacticWarfare
 @tungtran8080
 @HFYCosmicWar-2
-@HFYVelstormSci-Fi
 @HumanitysRoar
 @HFYVORVANE
-@HFYDeepSpace-j1z
 @HFYGalaxy-h6p
 @EpicHumanityinspiredHFYStories
 @HumanLegendsUnbound
-@StellarHFYOfficial
 @EchoesofEarth-e7x
 @DeathworldEchoes-w3u
 @MrRehman-y2c
-@HFYUnbound-k4q
 @LovingThisFood
 @HFYALERT
 @TheSolChroniclesHFY
 @HFYSleepRelaxAlbum
-@HFYFirestorm-s1l
 @HFYTalesHQ
 @EarthfallHFY
 @HFYDeepSpace-x1c
