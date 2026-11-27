@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71035
+! Total Channels: 71029
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17737,7 +17737,6 @@
 @HiddenJusticeTales-7u
 @Billionaire-Tales-i8e
 @cozy-kitchen77
-@EverEnrichStories-t7m
 @DramaDonna-w1x
 @SilentSEAL-a1
 @OnyxDramaFilms
@@ -17821,7 +17820,6 @@
 @RoyalVowTales
 @BillionaireRevengeStoriesN13
 @BrokenDadDiaries
-@GraceFortuneUS
 @Silent-Depths-b9j
 @julioguillermo7609
 @polyzcape
@@ -35765,7 +35763,6 @@
 @DreamCloudClub
 @itdiescher
 @MythExplained8
-@HeartwarmingTales-e8e
 @SagebrushHearts-f4w
 @mAIn-music24h
 @RKKDOCK
@@ -35808,7 +35805,6 @@
 @RajeshUsb
 @TerraKora
 @TheEchoesof1880
-@AlphaKingOmegaStories-US
 @MiaVSHistoryVlog
 @RelaxingNordicStudio14
 @SKAYAVEIL
@@ -44599,7 +44595,6 @@
 @CobbHollow
 @BroadusVittum
 @TheMonochromeArchive
-@RealFictionStudio
 @WW2LifeUncovered
 @RhettReports
 @TechSphere4257
@@ -50557,7 +50552,6 @@
 @Sanzu-h5l
 @WeltderQuadrate-m8q
 @americasbiggesthoarders-n7o
-@UntoldRevengeStories-n5s
 @TheRightsReport-w8r
 @Frontline1941-u2y
 @WW2TalesUSA-y3t
