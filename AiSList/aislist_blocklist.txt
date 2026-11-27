@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70984
+! Total Channels: 70986
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71000,3 +71000,5 @@
 @TheRiffJury
 @GEOUK-c7e
 @mashupacoustix
+@VeraNachtfall
+@RABENSTAHL
