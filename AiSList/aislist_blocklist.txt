@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70944
+! Total Channels: 70954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70960,3 +70960,13 @@
 @ExpertExplains-r1z
 @Cloudmeow-o7n
 @AITOONSAGA
+@TeslaDailyDebate
+@aroclips1
+@oldisgoldgorkha9756
+@RomanNovskuy
+@DailyDoseofMetalOfficial
+@jewelfilmss
+@SteelAndSilkMetal
+@SLIPHAVOC
+@STAHLREQUIEM
+@mayonise-l1o
