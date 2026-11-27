@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71107
+! Total Channels: 71097
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3757,7 +3757,6 @@
 @LensHistory
 @IndexSense
 @OmahaAfterDark
-@ELMETODOMUNGERESP
 @FinanzasenlaTerceraEdad
 @seguramente.zurich
 @EnseñanzasdeRayDalio
@@ -3819,7 +3818,6 @@
 @Finigma-c8k
 @WhatWhereWhyHistory
 @JohnAGThinks
-@SoulStoriesX-1
 @StockVerseUSA
 @GPPodcast-y5s
 @aibuble
@@ -3858,7 +3856,6 @@
 @ElAlmaJungiana
 @FinancialCrisisExplained
 @JustAboutEarth
-@DocumentaryforSleep-y9m
 @TheMacroDetective
 @DocumentaryForSleep-y1y
 @AntiVestor
@@ -3935,7 +3932,6 @@
 @SovereignJustice
 @theHOAlab
 @HoaKarenToday
-@HOADossier
 @becausehoasaidso
 @HOACasesYT
 @KarenHQ-k1k
@@ -3983,7 +3979,6 @@
 @WW2LegendsChannel
 @WomenPOWWW2
 @FoxholeChronicles
-@HistorySalvage_WW2
 @LastWordsYouTube
 @WW2ChroniclesWithAndrew
 @VoiceofWar0
@@ -27384,7 +27379,6 @@
 @FalconAFlame
 @LyrecaMusic
 @HonestReview-q4p
-@NGMusx
 @ultra5374
 @CrestwellHVACPaidLeadIntellige
 @ReviewFast-f8p
@@ -59966,17 +59960,13 @@
 @HFYSleepRelaxAlbum
 @HFYTalesHQ
 @EarthfallHFY
-@HFYDeepSpace-x1c
 @dominicseow
-@HumanityUnleashed-w3f
 @GalacticStoriesHFY-l9z
 @HumanPrimeHFY
 @jfoli12
 @BruhEdictHFY
 @DeathworlderChronicles-i7h
 @MahmoudAhmed-y8o8s
-@TalhaArain-e3i
-@TheTerranParallax
 @HaiSonLe-q9t
 @HFYAethryx
 @thelastterran-c9g
