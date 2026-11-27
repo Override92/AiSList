@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71001
+! Total Channels: 70999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43967,7 +43967,6 @@
 @ZaneInvest
 @Ivan-y6q3l
 @Teylan7
-@JeanHiggins-p3u
 @nguyenvhop-j5g
 @NavadeepReddy-sk4uj
 @MAGK-d2b
@@ -50260,7 +50259,6 @@
 @Troli-m9s
 @TimeLens-l4w
 @Amelia-e2l5w
-@leonardobecera-e7e
 @FluxRecap-y7h
 @DKMovieZone-j5d
 @SkillMaster-i9j
