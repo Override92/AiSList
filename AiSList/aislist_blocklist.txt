@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71149
+! Total Channels: 71148
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29801,7 +29801,6 @@
 @AfricanFolktalesa
 @ThaBaobabTales
 @SandyLoveTales
-@DramaTalesofficial-c2t
 @TheMythicTalesChannel
 @NanyaFolktales1
 @talesfromtherocks
@@ -29999,7 +29998,6 @@
 @TalesfromthePalace
 @WhisperTalesStoriesTV
 @MiracleFolktales
-@AfricanTalesByWaba
 @TalesfromtheWildWest-f1q
 @FolkandTalesbyRuby
 @AfricanshadowTales-v6z
@@ -71165,3 +71163,4 @@
 @caseledger-n7m
 @zeitenfund
 @versusvault..comparison
+@onesittingrecaps
