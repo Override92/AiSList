@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71094
+! Total Channels: 71084
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38927,7 +38927,6 @@
 @MidnightGroovesUnplugged
 @Anything-n9u
 @ai-ASMR-123-p7l
-@Void2.o-n6g
 @WatchLotEm
 @techcore4
 @moneyelevate12
@@ -60217,7 +60216,6 @@
 @SavageRomanceDestiny
 @ForsakenMateStoriesBL
 @EAGLEDRAMAS
-@RomanticLoreStories
 @AlphasForbiddenMate
 @MidnightThirstStories
 @AirbooDrama
@@ -60228,26 +60226,20 @@
 @EternalGlowBL
 @AlphaKingLegacyStories666
 @1609-g1i
-@FloraStoryVerse
 @AlphasRoyalLore
-@AlphaMoonboundChronicles
 @dramavillagebox
 @RiseoftheAlphaKing
-@AliceRomanceStories
 @thisplotgotme
 @Quick-Drama-w3d
 @PrimeRuler9
 @MonsoonDrama
 @thealphaluna
-@ObsidianRomanceRise
 @AriaLopez-i9z
-@MoonsAlphaRomanceStories
 @CandyLove168
 @Modernfolktales-y2j
 @preyesstoryhut
 @FaithEzekielAdeyeye
 @BrokenVowTale
-@OriginsChronicles025
 @Holygrailusa
 @BaobabStoryHouse
 @LogixByTrends
@@ -60259,10 +60251,8 @@
 @EXPLORE.US.STATES
 @WarHeroes-w1l
 @MidnightMateLoveStories
-@MoonlitHearts-UK
 @CryingRoses
 @EncesRomanceLibrary
-@WhispersofAlphaKing68
 @AlphakingWisdomStories
 @RomanticRoyal-m8j
 @AlphaKingSecrets
