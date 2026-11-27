@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70936
+! Total Channels: 70934
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19674,7 +19674,6 @@
 @HorizonofSouls-u9s
 @AI-GeneratedMusic-jon
 @SurvivalGhibliWorld
-@SpiritLanternASMR
 @Clouds_And_Wind
 @GhibliNook-d2l
 @ClassicVaultGhibli
@@ -21296,8 +21295,6 @@
 @AngelBunnyAI
 @MRMUSO_AI
 @AI-dream-machines
-@AI-Future-AF
-@ViralFoodStudio
 @Luna-AI-ASMR
 @WarmerMusich
 @SØN_MUSIC-21
@@ -47681,7 +47678,6 @@
 @FOCUS365-j4h
 @MusiqueBossaClub
 @aratobeats
-@NOVALOGICMUSIC
 @MidnightRainSleep_AGV
 @GraceRiverStudio
 @SolasStillness
@@ -70952,3 +70948,5 @@
 @intourdreams
 @rimmali_story
 @nova_and_zeph
+@bubbledramaai
+@inquisitionsoundscapes
