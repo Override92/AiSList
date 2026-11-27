@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71099
+! Total Channels: 71094
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -31440,7 +31440,6 @@
 @HumanitysHorizon
 @intothemap360
 @LoveJourneys-q6e
-@AlphaLunadiaries
 @AlphaKingGoldenAgeStories
 @BuissonBieber
 @RebornRevenge-8
@@ -38758,9 +38757,7 @@
 @VengefulVoices-y1d
 @TheOpenSourceChannel
 @Ethos-j7t
-@RuthCarlton-s6g
 @Allinone-m16
-@MinecraftIronpickaxe
 @DrBurger-h1w
 @LegendsandMyths21
 @DAYROOVE-k7w
@@ -38797,7 +38794,6 @@
 @Azharismail-t2c
 @RandomAiespanol
 @PigHeroTv-Ai
-@AIVerse1kX
 @naturemorph-v4k
 @AmbientReflectionSoundscapes
 @Grannynostalgia
@@ -46147,7 +46143,6 @@
 @salome-u5v
 @tien-v6v
 @thelunaalpha
-@grandmarecipebook
 @eveilphilosophique
 @lemondemedieval
 @krolewskiswiat-j7e
