@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71025
+! Total Channels: 71026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4420,7 +4420,6 @@
 @dollarlogic17
 @HeavenTestimoniess
 @RedSignal0t
-@UBFinanceTruth
 @CapitalCraft-f8r
 @FinanceBeyondBordersOfficial
 @stevemakemoney
@@ -10238,7 +10237,7 @@
 @Mind_Drift_ASMR
 @ASMR_WORLD_YouTube
 @DreamyBed787
-@ai_asmr_lab_ch
+@hatena-shokai
 @DreamFluxASMR
 @miramakesai
 @YtSeva
@@ -10757,7 +10756,6 @@
 @ai-laughlab
 @pikupalanpur
 @urlove.hon3y786
-@presidentplaychess
 @はなび_hanabiplaylist
 @pcsense21
 @clippievirals
@@ -23881,7 +23879,6 @@
 @ainime.eloong
 @mandy_taleshub
 @extraordinaryanimalsen
-@etnoromania
 @ほたる物語
 @made.simplewithai
 @AnimeCinematicAI
@@ -32172,7 +32169,6 @@
 @kingvalaitv
 @world2026today
 @pupkibakbak
-@atlaswandering
 @zainiedits26
 @VintageTechnology-x1o
 @7th-messenger
@@ -71041,3 +71037,8 @@
 @apeonomics01
 @vancarterdocs
 @mirashyamtech
+@spaceloop1
+@echoforgemythos
+@lochax-007
+@pianoateliervisuals
+@aikenshoshitsu
