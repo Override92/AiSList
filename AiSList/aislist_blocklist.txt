@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71140
+! Total Channels: 71139
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -244,7 +244,6 @@
 @BeamNGTN
 @imaginedreality019
 @StoryArcPaws
-@r0hvannl
 @Meow_Ai_Story
 @MeowLifeTNMedia
 @RumasAnimationVedio1
@@ -52407,7 +52406,6 @@
 @wowdiscovery11
 @bibleenigma-x9p
 @thegratefulpathph
-@Theislandhq
 @Itemex
 @InHistory-7
 @ExtinoxStories
@@ -71156,3 +71154,4 @@
 @versusvault..comparison
 @onesittingrecaps
 @newmexicofiles
+@nigeriaonrecord
