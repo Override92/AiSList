@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71127
+! Total Channels: 71117
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -30430,7 +30430,6 @@
 @CowboyRomanceTales-i8o
 @AfricanFolktalesWithABBYS
 @OrcLoveboundTales
-@Africanfolktalesbygwen
 @uniquelyafricanfolktales
 @Talesbytanoma
 @taleswithwifi
@@ -45571,7 +45570,6 @@
 @randompov001
 @PurePolicePOV
 @POVArchives2
-@CapoVeil
 @FinanzasPOV
 @Hisorypov
 @bizpovinsider
@@ -52524,7 +52522,6 @@
 @Pennexplains
 @SmartBuyExpress-d6h
 @AnimusSynths
-@RicafortLabs
 @historycodexdocs
 @BeggarExplainsmoney
 @noirafterdark70
@@ -52692,7 +52689,6 @@
 @theroberthu
 @JusticeReact-n2q
 @AkshitaTomar-o2m
-@RiseBeyond-u1i
 @HFYHumanTales
 @ResetDiagnose
 @MasonWealthUS
@@ -52735,7 +52731,6 @@
 @Mark_Retire
 @MatzVeenstra
 @TomKessler4
-@TheTerranUprising
 @Stickman-Finance-official
 @CoolContentCreator-67
 @frontier-signals
@@ -52767,7 +52762,6 @@
 @KolozsMarcel
 @cwm606
 @TheVanishLegacy
-@StarbornFrontier
 @desmondcole-k3z
 @CuriofinanceExplainer-h7w
 @AmericanBattleArchives-j6r
@@ -52779,10 +52773,8 @@
 @Technate_News1
 @TheScarletMethod
 @GustBlack-u3k
-@ChaosSmileHFY
 @stickmanfinance01
 @Ja3Starr
-@Econlume
 @UntoldMinutesTV
 @signal_to_noiseHQ
 @dharshini.norway
@@ -52880,7 +52872,6 @@
 @GalacticJudgment
 @CaseyDigitalMusic
 @InfinitDeathworld
-@BloodAndBoundaries-h5f
 @YoungBlackFarmerStories
 @RosaTheMexicanWay
 @EthanTheLocksmith
@@ -52888,7 +52879,6 @@
 @Ruth-Calloway
 @glitchcore.mp3
 @MasonDixonBBQ
-@CatPurrsuits
 @TheHiddenHouse-j6i
 @HistoryExplained-c6s
 @PreyforthePath
