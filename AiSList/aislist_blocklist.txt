@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71049
+! Total Channels: 71039
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -74,7 +74,6 @@
 @FunnyMeow-q1j
 @meowworldcat-c9m
 @funnymeow-v8
-@Meow_Funny
 @meowneow-g9d
 @storys.meowia
 @Tiny-Chick-dz
@@ -31870,7 +31869,6 @@
 @FamilyTales-o8m
 @TheNordicVoid
 @nordicwarsongs
-@QuantumAwarenessNew
 @just_bentley_thelab
 @hb_toon
 @neptuneaiofficial
@@ -33715,7 +33713,6 @@
 @globaltechfiles
 @TyphlosionsMusicArchives-o3p
 @DeepSpaceFiles-j8o
-@TheMachineFiles-q1c
 @SyntheticLoveFiles
 @TheSuppressedFiless
 @HoaDramaFilesDaily
@@ -67711,12 +67708,9 @@
 @LeoFitnessGlobal
 @the_expat
 @Memzamerica
-@TacticalNusantaraExplain
 @ChristianFaitharchive
-@UPSCALEEVENTS-n1f
 @Maya_Lanez
 @TennisConfidential
-@singledestinations2966
 @DUDUOffical68
 @DesktopFolder
 @pixelFuryBeats
@@ -67724,7 +67718,6 @@
 @ChloeAnimeRock
 @TheRyuNoKage
 @SentiPhoenix
-@unkn0wnus3r97
 @LittleFisherCat
 @TheMemeCaucus
 @MrPhyscrib
@@ -67831,7 +67824,6 @@
 @KosmosEntdeckt-q3s
 @AktenderMachtDeutschland
 @akalha-s9r
-@SamanthaLee-g4b
 @JazzCatsAroundtheWorld
 @RobertDocBarham
 @RebirthBeginAgainToday
@@ -67841,7 +67833,6 @@
 @TheFrozenNorth-k3h
 @jundav99
 @NoahCalder-x2l
-@AmazingGlobalDiscoveries
 @GoatedTheory-m3d
 @DWFocusMusic
 @NeonSleepWindow
@@ -67849,7 +67840,6 @@
 @HiddenQuest-q3g
 @JacksonSmith-l9q
 @MaximilianoCorbo-h8i
-@DarkSecretStories-h3b
 @Soulstories-k8h
 @DadsVelvetRevenge
 @KarmaChronicles-n8i
