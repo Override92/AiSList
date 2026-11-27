@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71062
+! Total Channels: 71065
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5400,7 +5400,6 @@
 @HOAPatrolYT
 @TheHOAUnleashed
 @HOALoudPower
-@yoursleepscience
 @FutureStoriesbyAI
 @FrontlineWarMemoirs
 @QuietStrength141
@@ -31736,7 +31735,6 @@
 @HFYGalacticArchives
 @HFYBastion-y6b
 @SmileHFYExtra
-@HFYBeyondTerra-q5n
 @HFYSci-FiGalaxy2k
 @DeathworldPetsHFY
 @thehfyco
@@ -46250,7 +46248,6 @@
 @%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%87%AA%E7%94%B1
 @TheOwlRoom
 @kavithaj646
-@ravibagri07
 @LisasAudios
 @Juninzera
 @LuxuryGlimpse01
@@ -71078,3 +71075,9 @@
 @highsocietyinsider
 @thecatwithin
 @whatnext-b1r
+@shopmuff
+@ai_fairytale_cinema
+@kwantumscience
+@in_blackbox
+@3dvellix
+@explorewithambrose
