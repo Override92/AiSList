@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71054
+! Total Channels: 71060
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71070,3 +71070,9 @@
 @seibutuyobanasi
 @DeepHouseGym
 @Celtic_Fantas_Sounds
+@VelvetGuitarArchive
+@aventiqlab
+@TheBennettHeritage
+@DeltaDustRadio-o
+@DarkBluesNocturne
+@MichaelBennettBallads
