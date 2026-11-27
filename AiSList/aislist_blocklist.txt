@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71086
+! Total Channels: 71075
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5229,7 +5229,6 @@
 @maviratales
 @stickmaneconomics-d3z
 @HealthyAgingwithDr.ElenaCruz
-@DailyNewsMinutes0
 @EliteNostalgiaAnalycis
 @pastcaps
 @NovaBlackwoodMusic
@@ -5283,7 +5282,6 @@
 @ShadowsOfWar3
 @VictorianWhisperss
 @WorldChronicles.offical
-@EternalProphecyFilms
 @WarpathChronicles
 @HistoryBlends
 @onemileextra
@@ -46133,7 +46131,6 @@
 @MovieStarRecaps151
 @wrathrecaps
 @Marek_Borkowski
-@ChannelTimeLoop
 @LuminaRomanceDrama
 @Whatiflorestales
 @volgamingff
@@ -64473,7 +64470,6 @@
 @DAILYDIYGUIDES
 @trustedproductinsights12
 @RevengeBeyondLoved
-@TacticalMindset-c6g
 @MomsDiary-n3d
 @Mintella-l7r
 @6clouds-e2x
@@ -64483,7 +64479,6 @@
 @professorundercoverr
 @RuangMiliterFuturistik
 @TheSixty-Four
-@BestofAmazonProduct
 @Bunnybite1-g8b
 @WhatIfAftermath-e4g
 @DehaanSRRupp
@@ -64516,7 +64511,6 @@
 @IABossTuto
 @TheWorldofFusion-u4u
 @CarlitosMelgar-b9l
-@BOLLEROS-c7b
 @PhimNg%C3%B4nT%C3%ACnh-e3s
 @YIyiManhua-i6g
 @HawaHawai-x7z
@@ -64595,7 +64589,6 @@
 @gadgetglee12
 @furluxe12
 @curiositycove121
-@meadowpoint12
 @fetchpoint12
 @JoyHits
 @savoro12
@@ -64666,7 +64659,6 @@
 @thehabitbuddy
 @MechanicaObscura
 @DemocraticLiveTrust-f9r
-@WayneStories-l3n
 @QuietlyBetter-g5p
 @FactZooTV-Official
 @Vibemusicmix-j5l
@@ -64677,13 +64669,11 @@
 @JsA-w3n
 @BardcoreNorth
 @Forexample-v3v
-@MarcelExplains
 @CaveandFire
 @BeSatisfyMind
 @MonsterGroove-xyj
 @Music_is_life_A
 @shortsdaily-360
-@thanhvinhle7150
 @MongolMusicStudio
 @UNVEILINGHISTORY-780k
 @KITSUNEPHONK-e4z
@@ -64704,7 +64694,6 @@
 @ainiikiruzmark3
 @MythBeastAI-k5t
 @MythsUnearth
-@CozyGhibliDays-t9y
 @SleepyCrimeStories-4u
 @RainyFairytalesForSleep
 @CienciaFit-v4v
