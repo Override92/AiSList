@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71114
+! Total Channels: 71123
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -68598,7 +68598,7 @@
 @FableForge-Official
 @tentenai-aiaiai
 @androidtipsat1043
-@LumaKidsTales-y8c
+@sams-taleslove
 @Jesus.Devotional.Stories
 @JesusAlpha1
 @VelvetVowVV
@@ -71130,3 +71130,12 @@
 @小雨动漫社drizzleanime
 @نبض_القلوب_دراما
 @taleswith_joyce
+@aman_k_films
+@鬼手醫仙紀事
+@몽상가ai
+@mcmcode
+@iagenerique
+@diljitdosanjhauratour2026
+@赛博剧场
+@小登碎碎念
+@amazingaistudio1274
