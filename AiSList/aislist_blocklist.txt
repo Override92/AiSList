@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70934
+! Total Channels: 70924
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -53997,21 +53997,16 @@
 @TAZOLINKmusic
 @K-CrownRomance
 @BlackVelvetCurves-t8c
-@MafiaBossBloodline
 @MidnightZ-l6k
-@GarrettEllsworth-r7b
-@HiddenEmber-r9b
 @MoneyChuck
 @RomeUnmasked-x1p
 @Indexdue-d6d
 @inivysdream
 @XoxoDiary1
-@SouravUsa-k3x
 @SSProdex
 @K-Agree
 @KidsAiVideo110
 @TheExplorersJournal-t1r
-@GinaGrabhandz69
 @LoveFamilyForever2
 @KYRUMproduction2.0
 @rajnikant_vlog_start
@@ -54025,16 +54020,13 @@
 @AsukaRecaps-v4m
 @Ls30sounds777
 @CasualAI-o8t
-@lasaguaro_music
 @FamilyFallout-c7j
-@YenNguyen-vg5is
 @DarkAngel-h2r
 @HomeUpgradeLab-f9c
 @TheHiddenBlueprint-n8j
 @Auzura-i2e
 @ALEXBROWN-v4z
 @Vzestupap%C3%A1d-h3m
-@SEALDogChronicles-r6h
 @DeadlyAffairs-y4r
 @StepUpTech-q8g
 @tinytalesstories-r2e
@@ -54048,9 +54040,7 @@
 @axiom-motion-math
 @aicompu
 @zester_79
-@GodIsNearYou-h7b
 @BeyondlCodes-k9s
-@WHYGODCHOSE100M
 @GodsChosenVoice-u6f
 @gardenhoardnz
 @mrhousingg
