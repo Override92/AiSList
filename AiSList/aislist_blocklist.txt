@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71152
+! Total Channels: 71150
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -51855,11 +51855,9 @@
 @VARGYRN
 @ancientsecrets111
 @MarineDogStories
-@MUSENIQ8888
 @VoiceofEnkiMusic
 @Mixologyat
 @Dream-ghibli90s
-@GhibliBite-z1s
 @AnimeSoulAI-k1d
 @primalproblemlab_tv
 @DominanceCodeoffc
