@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71007
+! Total Channels: 71012
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -46492,7 +46492,6 @@
 @VibrasPlay
 @3histories
 @FantasyExplorers
-@rickyversestudios
 @fabianmosele2321
 @Hul-AI
 @18kukki
@@ -59397,14 +59396,14 @@
 @handloai
 @EpochenDeutschlands
 @LullaloopASMR
-@MilosMindShorts
+@softcrunchshorts
 @curyfilms
 @POPMP4
 @TimmyGlesel
 @blutideboys
 @AICinematicHub1
 @GOLD.S_OFFICIAL
-@PinkiAicartoon
+@apkaivideos
 @WatchTheWhyShow
 @PlAInSight-10
 @TheOtakuAI
@@ -71023,3 +71022,9 @@
 @ggbbgiao
 @novadrama-e1k
 @qiyuanduanju
+@retroattictv
+@claireabbondanza
+@untamed-y
+@str1kezin
+@whatifhappens-lab
+@vyntra-k3g
