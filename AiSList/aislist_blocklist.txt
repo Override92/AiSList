@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71086
+! Total Channels: 71084
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5274,7 +5274,6 @@
 @ItalianDelulu
 @anomalybrainrottv
 @Life_By_Rank
-@americanafterimage
 @TalkHistoryTV
 @RealCrimsonHistorians
 @ModernHistorians2026
@@ -8491,7 +8490,6 @@
 @mythbykia
 @kinzaman
 @CourtroomTwelve
-@ethansenginetips
 @BritishWarArmory
 @ToolsofWar-TV
 @BritishWarplanes
@@ -13242,7 +13240,6 @@
 @autocamperexplorer90
 @PSYofDesign
 @lovesportsmovie
-@TheFalloutLeo
 @FAMENOOK-d6x
 @FuriFuwa
 @botversetalesyt
@@ -39247,10 +39244,10 @@
 @SleepHistorye
 @severehistory
 @streetmathreal
-@ASPC-History
+@historyworldatlas
 @Gyaankastartup
 @InkManHistory
-@financialstamp
+@joguegrau
 @StoriesfromHistory-p8j
 @ElonCalmMind
 @SleepyHistoryQuest
@@ -39273,7 +39270,7 @@
 @histmystankit
 @newbornbabymothercare
 @RouteTheoryTV
-@TheOffscreenFiles
+@wwostokk
 @DreamThroughHistory-d5y
 @GhostFrequency-Channel
 @drift_into_history
@@ -46134,7 +46131,6 @@
 @chill-azz
 @aibysimer
 @legendsneverdieded
-@claycockpit
 @theborderbent
 @MovieStarRecaps151
 @wrathrecaps
@@ -46240,7 +46236,7 @@
 @EverydayWealthPOV
 @thewealthpov-f5t
 @WealthPOV-c8v
-@nxhaimusic
+@nxhaiedits
 @aeritageyt
 @foogia
 @emoneywithiman
@@ -71102,3 +71098,5 @@
 @thehusskid0
 @beyondworldsdocs
 @heartveil-studios
+@theuntoldstory-cm
+@afterdarktaleyt
