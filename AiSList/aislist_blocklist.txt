@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70988
+! Total Channels: 70985
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -33468,7 +33468,6 @@
 @AiAsmrloop
 @SolbornVanguard
 @KonbiniLofi
-@LateNightMelodies123
 @RegJamz
 @musiqpromos
 @gomics_beats
@@ -38176,7 +38175,6 @@
 @GARAGEGENIUS-n7z
 @InvestClarity123
 @NOBrainRot-f7ooi
-@historyunfolded41
 @SleepingHistorydocofficial
 @hiddenhistoriesyt
 @theflintage
@@ -38269,7 +38267,6 @@
 @ILAMOfficialMusic
 @BecksTown-e6q
 @thehorrorhistory786
-@DustEmpires-DE
 @Root.Insight
 @ThisDayArchive
 @StickSurvivalHistory
@@ -38336,7 +38333,6 @@
 @TYLRStudio
 @Aicartoons-g9o
 @AICartoons-u1e
-@aicartoonshow2911
 @AICartoonStories197
 @AICartoonStudio-b7y
 @ClassifiedSpongeAI
@@ -38381,7 +38377,6 @@
 @InsidetheVietnamWarYT
 @Kristyn_56
 @Reelcoded
-@TheNocturnePassage-b1c
 @globewise630
 @ChronosChronicles02
 @YesterTube
@@ -71004,3 +70999,5 @@
 @tropicatlas
 @whatverse-83
 @folkfracture
+@borniverse0
+@thepastsurvives
