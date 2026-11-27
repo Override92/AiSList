@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71029
+! Total Channels: 71032
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -44301,7 +44301,6 @@
 @IronFjordX
 @HomeofAfricanStories
 @AstridStormborn
-@afroKoreanStories-g1p
 @diddistorytime
 @AfricanStoryVault2
 @TheFairyTaleVault99
@@ -71045,3 +71044,7 @@
 @蒼いレコード
 @exposed_45
 @thatfrenchieface
+@feynmaninzihni
+@simplepaintportugues
+@고요한심연-l9e
+@oeilaffute-y3d
