@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70970
+! Total Channels: 70966
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -34799,7 +34799,6 @@
 @TheStoryLoom-e8x
 @RobertWilson-p8v
 @WHAT-IF-62
-@DaRomanCitizen
 @Eons96-d6k
 @FreshView-z9r
 @dogchart
@@ -42082,7 +42081,6 @@
 @TimmySean
 @kdadigitalskills
 @%E6%9D%8E%E6%97%A5%E8%AF%AD
-@NeoYuverse
 @1MusicMouse
 @RankStrom-k7y
 @ADK-AIanime
@@ -42266,7 +42264,6 @@
 @lytika.official
 @HFYGalacticTales-w2c
 @TerranMythosHFY-e9i
-@DRUMANDBASSGIRL
 @TozpembeHFYStudio
 @LOOOK-m2d
 @EchoesofthePhilippines
@@ -47211,7 +47208,6 @@
 @李日语
 @聖なる寺院
 @9ridich-j7m
-@AntonioSabatella-j6y
 @echosstellaires1
 @lumieredessecretsmystiques
 @LoveStoryManga-c1g
