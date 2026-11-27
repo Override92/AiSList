@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70973
+! Total Channels: 70971
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -43492,7 +43492,6 @@
 @FunkWizzle
 @bancaconstructora
 @M4ngaStory
-@future0wealthai3x82
 @Mraijoo
 @FantasyLore-k3b
 @AAAAAIGC
@@ -43539,7 +43538,6 @@
 @oMatheusdaIA
 @Conciencia_Artificial
 @MoneyMasteryhub.
-@yadampyeon
 @essentialtechbd5389
 @Blackropi
 @retrostellarstudios
@@ -47526,7 +47524,7 @@
 @Talisa_sys
 @Conquest-Collapse
 @AlphasHiddenMate
-@MoonboundShortDrama
+@fireaishortdrama
 @islapersia
 @CozyTinyWorld-h1v
 @XIRATofficial
