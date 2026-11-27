@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70983
+! Total Channels: 70973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39889,7 +39889,6 @@
 @Chip_wire
 @EliasYoderSecrets
 @TurningPoint-b1p
-@EliasYoderFarming
 @BeforeUs-i7j
 @SharkoLab
 @BeyondRoads2
@@ -47022,7 +47021,6 @@
 @CaddenStabell
 @GrantTalksMoney
 @OriginOddity
-@TheOldFarmFiles
 @BibleLessons360
 @underdog.acres-6
 @SlateLedger
@@ -69483,7 +69481,6 @@
 @AnalogFM60s
 @ss_gamerz
 @moodreels
-@RohitGurjar_968
 @FatihaPath
 @AIKidsUniverse
 @epicadventurearchives
@@ -69494,8 +69491,6 @@
 @ScordalusVEVO
 @SebastindermitisVEVO
 @MissingMatter-n1w
-@NexZone-z2i
-@MoneySecretr-f9r
 @TheHelixArchive
 @Timeless_Fin
 @TheDNAOrigins
@@ -69512,11 +69507,9 @@
 @GeneticFiles
 @techfunoola
 @GenoCore-h6y
-@Howeconomyworks-us
 @HealthySeniorsUSA-z6h
 @VitalScience001
 @NotebookLM.Explains
-@TrueCosts
 @EconomicallyYoursTV
 @Dr.EliasYT
 @ValakayenewhyEplxplThe1st74kva
@@ -69543,8 +69536,6 @@
 @SLEEPERtvOFFICIAL
 @SilentVengeance-e8i
 @WhispersofAlphaKingstory
-@SleepyHistorywithHenry
-@AiZone-q2i
 @SapphicStories2026
 @anone-acnh
 @MoboReelsPT
@@ -69565,7 +69556,6 @@
 @TheAttractionCode-z7n
 @IsabellaRelationshipAdvice
 @TheLoveDynamic-c9u
-@FemmeTheory-w
 @BeyondLoveUS
 @IntimacyCoupleCircle
 @HiddenRelationshipPsycholo-g6p
