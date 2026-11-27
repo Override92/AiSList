@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71070
+! Total Channels: 71072
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9345,7 +9345,6 @@
 @SankofaTales
 @QueerFolktale
 @AfricanFolkloreHub-j3k
-@LEATALES
 @TheKeeper-j9x
 @OhinoyiStories
 @essies_storiess
@@ -21791,7 +21790,6 @@
 @HeavenSeriess
 @Bot-Series-w1b
 @aivmusicstudio
-@Indiapur
 @UltraVibeZone-t2n
 @jmjfilmybeats
 @Aisonghub7
@@ -23330,7 +23328,6 @@
 @theaviationparadox-g8t
 @caminarbiblico-s1b
 @velune-7m
-@funfantasyzone
 @aifytunestudio
 @jrinspiredmotivation
 @cozywarmjazz
@@ -23742,7 +23739,6 @@
 @ohmyfrog
 @kweshstories
 @originalframe1
-@mkpaniboy
 @fact-interest-i6l
 @kahshksbh
 @Julius-YT187
@@ -71086,3 +71082,9 @@
 @v3t-explainer
 @vroomzillak
 @rawcaratyt
+@claireflights
+@minddlit
+@whatifukyt
+@highsocietyinsider
+@thecatwithin
+@whatnext-b1r
