@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70979
+! Total Channels: 70983
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -40026,7 +40026,6 @@
 @WizardExpress01
 @ThatFNAFTheorist
 @Hindsight-i9o
-@CtrlMaybeTech
 @sporefacts
 @NoCapBroTV
 @ExplainlyExplains
@@ -70995,3 +70994,8 @@
 @اسرار_لا_تحكى
 @thedialtoneyears
 @primitivexhistory
+@dechetihon
+@gta_vi_secrets_yt
+@oddfoodout
+@keystonegilded
+@miascooking-8888
