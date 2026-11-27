@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71051
+! Total Channels: 71052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13837,7 +13837,6 @@
 @AIChefCat
 @AICookingCat-z2v
 @aiCatstory-j6y
-@CATAI-x1v
 @Catcooking89
 @yourchefcatAI
 @CozyCatKitchenASMR
@@ -71067,3 +71066,5 @@
 @karmasclubviral
 @gfunkrastafara
 @patrick-t3d6v
+@lc666-v1u
+@pinkusapwala
