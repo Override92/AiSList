@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70973
+! Total Channels: 70976
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28622,7 +28622,6 @@
 @MsBrownSimplifies
 @anilj2772
 @eclesso
-@nana-celeb
 @Poxxiestwalker
 @AtzeJones
 @TheUnearthlyHub
@@ -39559,7 +39558,7 @@
 @TheBananaClubOfficial
 @JACSVIEWS
 @LadderTheoryLevels
-@Company-Rewind
+@dumplikeafox
 @Mr.SimpleTechTV
 @SimploraSpace
 @kotikiskotikis
@@ -70989,3 +70988,7 @@
 @cog-engineering
 @vaulthistory11
 @omotayo_ashlovely
+@pomeanimation920
+@pliny-b.2t
+@kuroneko-1121
+@shortjesusprayers
