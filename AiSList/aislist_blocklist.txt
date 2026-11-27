@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70955
+! Total Channels: 70954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -25611,7 +25611,6 @@
 @LucíadelCorazón
 @LiaCarmensi
 @DaianaBlues
-@DiegoCarmesíElenaVargasOficial
 @Valerin-u9h
 @EcosdeDavinia
 @SairaMoraVEVO
