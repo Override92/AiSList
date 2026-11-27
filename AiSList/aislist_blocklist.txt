@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70974
+! Total Channels: 70964
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12501,7 +12501,6 @@
 @MouseChefAi
 @littechefmice
 @CozyCravings4
-@EffortTinyStudio
 @MagicalChefStudio
 @neuralframes11
 @KidsToonverseYT
@@ -69553,11 +69552,9 @@
 @EPCover
 @JUFEIFANEXCITINGDRAMA-c6b
 @KissesBetweenCliffhangers
-@BritishWarSteel.Official
 @Yuki_Brandt
 @DeutscherIndustrieverfallYT
 @NaTariKaiLum
-@BusinessSHARK-f8t
 @UnchartedSignal-g2w
 @ryft___ryft
 @TheEmberInkStudios
@@ -69572,8 +69569,6 @@
 @DIYThinkingCreator
 @CraftlyArts
 @SunshineFarm-j4o
-@Nemesco-e3u
-@DwellWise-b1u
 @WhereTheySummered
 @InAudiobookSpective
 @asbdata
@@ -69591,7 +69586,6 @@
 @civilizedish
 @beasteye1
 @AIBook-b3k
-@THEJESTERSMIND-b8k
 @MrSawyer-z8s
 @AliceGamesEntertaiment
 @CostVerse
@@ -69600,7 +69594,6 @@
 @FamilyDramaUS-l7i
 @howitworksin60s
 @LocomotiveLoreYT
-@ElRecreoDigitalJB
 @WolfBoys804
 @PASTLIX
 @MoneyMovedHistory
@@ -69622,8 +69615,6 @@
 @The_Forgotten_Hearth
 @RelaxingWorldzzz
 @AcousticSerenade_02
-@HeartstringMelodies01
-@Astronom%C3%ADaInexplicable
 @physicsloop.channel
 @EnochDecoded
 @DonlyChimutuwaGlobal
@@ -69662,7 +69653,6 @@
 @VelaNoire-n3q
 @FinalDestination-w7c
 @SurvivaloftheOldWorld196
-@SecretsWithin-s9g
 @FeynmanPhysicsLab12
 @ThePhilosophersFix-yt
 @TheJobThatKilledYou
