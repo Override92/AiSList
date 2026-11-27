@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71027
+! Total Channels: 71036
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71043,3 +71043,12 @@
 @hayalpaftasi
 @TheAlfieShow1
 @politicsvarsity
+@realhistorybros
+@worldsinrhythm
+@covers-by-ai0
+@PromptUnlockedAI
+@Daddelcrab
+@ViewOS
+@officialoldiesclub
+@dr.b-bay
+@NyangSong-i
