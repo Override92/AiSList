@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71038
+! Total Channels: 71028
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -67837,13 +67837,10 @@
 @MaximilianoCorbo-h8i
 @Soulstories-k8h
 @DadsVelvetRevenge
-@KarmaChronicles-n8i
 @DarkPageStories-g1u
 @RevengeAfterDark-e9b
 @StronGDadsRevenge
 @AngelsAreCalling-01
-@AnaCarolina-f5b5s
-@GrimSpeechJoker
 @Godsmessagenowforyoutoday
 @SoulConnection-9
 @DivineLightRevelation333
@@ -67856,12 +67853,8 @@
 @WealthWise-yt123
 @CatNoirBlues
 @BlackLegendsRevealed
-@EndiMonyoASMR
 @hxlar
-@BelowTheWingg
 @WandererKeep
-@AfterlightOutpost
-@MetabolicSecrets-g1i
 @RadioDarkAcademia
 @EatWithScience
 @healthylifestyle789
@@ -67873,11 +67866,9 @@
 @CozyGhibli-v4x
 @SouikiBGMLab
 @RainJazz58
-@TheBoldNoir
 @TonyHits-h1p
 @XpectResults-k9e
 @Luminary_Cafe
-@PersianDarkAcademia
 @Health-Talk-YT
 @stillhus
 @MontmartreCaf%C3%A9Lounge
@@ -67934,7 +67925,6 @@
 @electronicasynthwavewaifuvibes
 @Pastoonix
 @DailyStoicism-z2i
-@BehavioralIntelligence-z5w
 @RomanJesina-d1g
 @SmartKitchen86
 @carljungshadow-t3s
