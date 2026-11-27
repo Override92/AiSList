@@ -31,7 +31,7 @@ Don't forget to set your username in the settings.
 
 | Rank | Contributor | Contributed Channels |
 |------|-------------|---------------|
-| 🥇 1 | [@Thibaultmol](https://github.com/Thibaultmol) | 16744 |
+| 🥇 1 | [@Thibaultmol](https://github.com/Thibaultmol) | 16766 |
 | 🥈 2 | [@crazypillx](https://github.com/crazypillx) | 10867 |
 | 🥉 3 | [@www2](https://github.com/www2) | 5480 |
 | 4 | [@Robert Ivens](https://github.com/Robert%20Ivens) | 4914 |
@@ -40,7 +40,7 @@ Don't forget to set your username in the settings.
 | 7 | [@dv](https://github.com/dv) | 867 |
 | 8 | [@BallsMcTits](https://github.com/BallsMcTits) | 567 |
 | 9 | [@Beavermafia](https://github.com/Beavermafia) | 476 |
-| 10 | [@tomjas1963](https://github.com/tomjas1963) | 370 |
+| 10 | [@tomjas1963](https://github.com/tomjas1963) | 371 |
 
 <!-- LEADERBOARD:END -->
 _This leaderboard is automatically updated once a day. You can find an hourly updated ranking on our Discord server._
