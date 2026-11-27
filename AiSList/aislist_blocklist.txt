@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71105
+! Total Channels: 71095
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59799,7 +59799,6 @@
 @studiopublivox
 @TimelessVibes.Official
 @SMARTCART-y7t
-@Batch89Studio
 @musicchannelviberush
 @SoundsofRox
 @Entervibes250
@@ -59810,7 +59809,6 @@
 @Latinapartyedm
 @SavannaEcho
 @HouseMixtion-n6u
-@Soundkey_AI
 @viralaisong-25
 @AISalidumay2.0
 @DigitalFeelss
@@ -59820,28 +59818,20 @@
 @Diuz2beri25
 @PmNetGuru
 @BasslineClubVibes
-@ainepalimusic88
-@mofercoffeetoronto
 @bruktewodrosOfficial
 @OpusPrime01
 @%D9%86%D9%88%D8%AA%D8%A9%D8%B1%D9%88%D9%83
 @GoldenLandMelodies-u3g
 @Levitate-h3p
-@PitchAnthem99
 @ngpsur
 @copeppe1
 @dink_music
 @DreamChannelS12
-@Sctmph
-@HorizonStudioHS
 @muzika-ps
 @RAKESHGAMERZ-r3x
-@MidnightGravelBlues99
 @DonConceptino
 @DeathworldDiaries-u2x
 @Deathworlders-c6n
-@HumanityAscendant-j6r
-@GalacticNovaHFY-2K9
 @TerranLegends-u4e
 @GalacticVerdictHFY-m2e
 @ZenithProfile
