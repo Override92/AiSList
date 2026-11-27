@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71030
+! Total Channels: 71034
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -28963,7 +28963,6 @@
 @JacoExplains
 @foodoo-sdt
 @FinanceSimplified-USA1
-@CineVerseStudiosOfficial
 @BizarreHistoryVault
 @BassExplained
 @anythingexplainedd
@@ -65248,7 +65247,7 @@
 @KIDOKOROSTUDIOMILANO
 @FictionAi-Art
 @TheFamilyKissa
-@AiWala-hu
+@aiwalayoung
 @A.S.RAJPUT-NF
 @ClipFlix_Animation
 @Panther-63
@@ -71046,3 +71045,8 @@
 @英文老情歌時光機
 @gta-dailyshorts
 @creditevent
+@dudecanplay
+@ahsantoons_56
+@뽀미의타임머신
+@aidivyakatha
+@mobiletech0112
