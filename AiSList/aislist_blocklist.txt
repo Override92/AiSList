@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70955
+! Total Channels: 70961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8954,7 +8954,6 @@
 @ourplanetearth012
 @revenge_drama_story
 @hollywoodfonda
-@officialaibreakdown
 @nadeemmughal06
 @ecosmiticos
 @wisetechnexus
@@ -70971,3 +70970,10 @@
 @rysiekbielecki
 @m4hanzala
 @MoneyMistakes-n9j
+@bommelybrosel
+@manganredditus
+@solo.aifilms
+@cat_recipes1
+@guynamedwhy
+@storieswithdamien
+@ernies-clips
