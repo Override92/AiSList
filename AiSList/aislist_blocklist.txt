@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70983
+! Total Channels: 70973
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39634,7 +39634,6 @@
 @TheDeathworldDoctrine
 @GrindspireMotivation
 @OopsYouExist
-@RevengeNotion
 @ImperialLibrariumX
 @AutoXperia-m2k
 @chronicle.arcanum
@@ -39691,7 +39690,6 @@
 @CurrentProductOverviews
 @CherryAvalon
 @swordandpaper
-@ScienceDomainHFY
 @theExfilStudios
 @primitiveblend
 @OldMansVerdict
@@ -69329,9 +69327,7 @@
 @CozyWoodland-i7l
 @SiennaVale-h5q
 @C%C3%A9lavoireChanson-u3c
-@LoveLove-fu8me
 @CaptainBelu
-@TheUnknownInquiry
 @BlueDino.Rantss
 @Poptrixa
 @Potus-44
@@ -69342,7 +69338,6 @@
 @Lowlights_12
 @PlanetNeugier
 @JoeOscarStories
-@WildDiscovery92
 @MusabDiiriye
 @Tech_Amigos
 @jonthemouse
@@ -69360,7 +69355,6 @@
 @SkieFlicks
 @Snoo_Trailz
 @Ezra-reads
-@StoryTimeStudioo
 @RedditStorys1x
 @A1_rizzz
 @FactoVibe-Official
@@ -69447,10 +69441,8 @@
 @UnAlteredStudios
 @linuxteck
 @devlarhq
-@CloudStackStudio
 @SOCMinute
 @SonicoAI2
-@kelbalrai
 @ultimatechannel4643
 @Wraith-Song
 @starry_souls
@@ -69474,7 +69466,6 @@
 @ElaraFaithMusic
 @QuantumSage777
 @OceanWonderstv4K-39
-@CreatorPulseTV1
 @Liam1-x6t
 @CosmicNews-d3o
 @TrueFrontAU
@@ -69485,7 +69476,6 @@
 @AniMora_4u-l6z
 @rashmitraveltales
 @glaciers3992
-@animecooking0520
 @gasavannahbuffalosoldiers
 @YourYouniverse
 @StoryLensChronicles
