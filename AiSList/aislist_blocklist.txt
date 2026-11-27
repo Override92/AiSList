@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70935
+! Total Channels: 70929
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35109,7 +35109,6 @@
 @Clamtemple
 @VenuZ-g8e
 @PEACESEEKER-e7k
-@WildWestRomanticTales-o4u
 @Storiesbyuvan
 @itsalreadymineaudio
 @FunCruiseStories
@@ -35305,7 +35304,6 @@
 @LUNARETH4u
 @NylaVale
 @duin_music_official
-@Curiositydrop91
 @BabaYagasCottage
 @MoonlitCelloVoice
 @MelancholySonata
@@ -43903,7 +43901,6 @@
 @foooieworldkitchen
 @igorotanimation
 @axelstory0
-@thinkly-x8j
 @thedrunkenimmortaltavern
 @ameliaveyra
 @lunavaldes_blues
@@ -48359,7 +48356,6 @@
 @storytimewithafrica
 @AfroMafStories
 @echosofafrica-e1m
-@Onechaperandprayer
 @AfroKoreanSeoul321
 @AFROVERSE-u2e
 @Afromythica
@@ -48469,7 +48465,6 @@
 @RootedInWisdomStories
 @AfroAfrikaa
 @AfroKoreastory
-@DramaCravingsTV
 @AfroSeoulLoveStories2026
 @AfroKoreanLoveStreamTV
 @SacredAfricanVoices
@@ -48762,7 +48757,6 @@
 @AfroKStoryverse
 @m%C3%A4renwerk
 @AfroVibeCovers
-@vilmaroliveira4952
 @AfroKlovestrings
 @Bianca-The-Bard
 @AfricanRuthStories
