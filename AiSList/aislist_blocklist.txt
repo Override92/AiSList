@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70944
+! Total Channels: 70954
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70960,3 +70960,13 @@
 @SLIPHAVOC
 @STAHLREQUIEM
 @mayonise-l1o
+@DarkIndustrialMetal
+@StahlEcho-g3m
+@StormforgeMetalRadio
+@GothicDuet
+@STAHLKATHEDRALE
+@METALREQUIEM-MR
+@riffstation1
+@DunkelRemix
+@BlackVow-o4b
+@ImagineMetalReverie
