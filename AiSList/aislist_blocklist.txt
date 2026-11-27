@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70946
+! Total Channels: 70936
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19324,7 +19324,6 @@
 @GlobalCurrent9463
 @Courtiva
 @GoldenTrophyNews
-@PawsofCourage-s7d
 @TheAussieSovereigns
 @MiliSmartKitchen
 @The-Chupacabro
@@ -19401,7 +19400,6 @@
 @Aiman_0619
 @AITLDR
 @TwinkleTales0407
-@KING-AIFruitopia
 @weirdai-786
 @h00pify
 @AIFruitsss
@@ -19610,7 +19608,6 @@
 @RichSecretsLive
 @RawLoveStoriesUnfiltered
 @loveandleveragestories
-@WiseFatherRevenge
 @PM-GGH038
 @EnforcementOfJustice
 @Consiglidianime
@@ -22626,7 +22623,6 @@
 @masteringaitool
 @asmrexpert-k1o
 @therankempire
-@canada2050-s1i
 @mycatstoryland
 @son_music-21
 @brain_cave-v2c
@@ -25280,7 +25276,6 @@
 @German_Insights00
 @AboutStoriesss
 @Murph-b5y
-@HumanvsGalaxy3.0M
 @hfyhumeofficial
 @TheSpaceFrontier-r3s
 @HFYOpus-i9n
@@ -26436,7 +26431,6 @@
 @mythspiderpark88
 @PhinSengheang-l2h
 @NeoMagicAI
-@AI_Aesthetica
 @Zyanexaaipage
 @funnyvibesunlimited
 @Akshyai
@@ -26596,7 +26590,6 @@
 @MysticalHighlandAmbience
 @SOL077-i8m
 @TheFeynmanParadox-r1f
-@RealDr.EthanMillerSeniorHealth
 @MapleAIMusic123
 @Slapstick_Heretic
 @HoorAl-Ayn7
@@ -26675,7 +26668,6 @@
 @ASHES-OF-MIDGARD
 @HarayaLoungeOfficial
 @amihanmusiclounge
-@Upskyai
 @AZstudios2026
 @wolfdenstudio
 @EliteVaultGlobal
@@ -43722,7 +43714,6 @@
 @StoneShiftScience
 @Steel878Warzone
 @Roadside-Justice
-@NewsNowToday-f4v
 @JRMotivation-n7s
 @InstantTipsDaily43F
 @LifeMadeSimple68G
@@ -43875,7 +43866,6 @@
 @Quantum-v6f
 @JayJessExplore
 @adelowotobiloba8800
-@RueangLaoPakjai
 @HFYcaptionstory
 @Eternitym111
 @ErisCreateLab
