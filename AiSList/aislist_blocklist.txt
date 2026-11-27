@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71109
+! Total Channels: 71108
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -32489,7 +32489,6 @@
 @frame-onee
 @boyloveforever-o2i
 @TheDeclanWay
-@ManifestingWhatIF
 @Pinky-Drama
 @wytsekoetse-filmmaker
 @DukesLoveTales
