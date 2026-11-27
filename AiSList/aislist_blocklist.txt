@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71046
+! Total Channels: 71044
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7392,7 +7392,6 @@
 @netramai
 @ProfessorJiangGlobalBrief
 @CawsofDeathMusic
-@BitwiseExplained1
 @deviceterra
 @Infinity3DWorld-r5j
 @factoryflow102
@@ -7413,7 +7412,6 @@
 @JasnaStronaTajemnice
 @Somnara-j3s
 @Strategic-World-View
-@nocturneechoesviolin
 @BrokenLegends-t8n
 @justsomeguystories
 @TopHistory-c1f
@@ -29340,7 +29338,6 @@
 @GlobalStories242
 @rakostories
 @Pickstorie
-@RraphStories16
 @TheUnknownStories-u1k
 @ZyntraStories-u6i
 @LifeUnlockedStories
@@ -29350,7 +29347,6 @@
 @Morrysstories
 @NazunaStories
 @foxleystories
-@realcrazyme
 @Nolvinastories
 @StoriesofHope-yt
 @ReadifyStories
@@ -71062,3 +71058,5 @@
 @betweensecondz
 @dvro0mz
 @ghibliwildtrails
+@thelastclimbyoutube
+@9ineflixstudio
