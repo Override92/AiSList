@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71132
+! Total Channels: 71142
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71148,3 +71148,13 @@
 @사연극장-z9o
 @꽃보다중년-m7l
 @deep_strike_desk
+@hexnadeem
+@celavoirechanson-u3c
+@zack-dlabs
+@thelorebeyond
+@tyr-production
+@心野短劇no1drama
+@ingrid_erzaehlt
+@kalachlive
+@johan_bech
+@cafequietjazz-n2w
