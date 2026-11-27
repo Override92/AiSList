@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71148
+! Total Channels: 71139
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9865,7 +9865,6 @@
 @BetweenPowerPassion
 @AnimeVillianious
 @The-Investor-Mind
-@Sundaywith-Buffett
 @Insight-Relay
 @Capital-Insight-u1f
 @lampheart.studio
@@ -15932,7 +15931,6 @@
 @dzialkowe_patenty
 @opowiescispodserca
 @cienreflektorow
-@elizabethtaylormdnephrology
 @faultlineledger3
 @MAVIRAofficial
 @Budgie_Psychology
@@ -29753,7 +29751,6 @@
 @moonlitafricantales
 @WildWestTales-q2f
 @TrinityTalesAfrica
-@TalesofForbiddenLove
 @Talesofaphantomworld23
 @QuestTalesShortStories
 @AFRICANFOLKTALESSTUDIO1
@@ -29840,9 +29837,7 @@
 @MidnightTaleswithVivi
 @AfricanTalesWorld
 @PEARLTALES-f7q
-@ToxicOfficeTalesx
 @FrenchLearningTales
-@MafiaSecretTales
 @TalesoftheWildWest-c8s
 @tales_of_the_sun
 @Unfinishedtales12345
@@ -32448,7 +32443,6 @@
 @LuxShortDrama
 @HeartBloomDrama
 @SkySweetDrama
-@DramaAIHub-t6c
 @FamilyLineDrama
 @DramaSophia-p3f
 @jemroo_official1
@@ -51946,7 +51940,6 @@
 @TheBigBean10000
 @TokenTalkDailyAI
 @MichaelLays-z2v
-@NextGenTechZone-u4w
 @theNightlyContext
 @Q9yr
 @underestimatedhq
@@ -52103,7 +52096,6 @@
 @errataexplains
 @monsterDNB-y6b
 @bugx
-@CrazyStickBros-f7m
 @lively-o4c
 @learnthatstack
 @WoWReaction-l5y
@@ -52342,7 +52334,6 @@
 @NatureRebuilt
 @RedditTalksStory
 @LearningCanteen
-@RippleofKindness7
 @RadiantStorytime
 @Story_ArcYT
 @When.Music.Mattered
