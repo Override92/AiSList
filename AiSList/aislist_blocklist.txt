@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71052
+! Total Channels: 71051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9651,7 +9651,6 @@
 @TechGeniusHub-AI
 @AaronIndigo
 @BotShelf
-@artofficialintelligence
 @johnjanuary7249
 @TheAITeaserLab
 @AI_BotRoss
@@ -24878,7 +24877,6 @@
 @QuantumReflex1
 @VideydjVit
 @DjVonk
-@DavidDeRebeque
 @celeste53400
 @HazelSinclairdj
 @ProducerSteven
@@ -27988,7 +27986,7 @@
 @bezaleelmovies
 @vornhall7
 @虹巢音樂
-@ayykubaa
+@generic123a
 @musicsplash_ms
 @a_p_n_production
 @wendy-antoinette
@@ -44996,7 +44994,6 @@
 @TheSteadyMechanic
 @pasttimetravelsyt
 @WW2Battlegrounds-d5z
-@StarShowdownsTV-03
 @FieldManualYT
 @draftdriftmusic
 @WadesUTVGarage
@@ -71068,3 +71065,5 @@
 @biblemilk
 @immivkn
 @skjoldar-records
+@funnymomentfactory-w8u
+@laurie_haskell
