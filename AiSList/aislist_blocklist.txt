@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71025
+! Total Channels: 71028
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17641,7 +17641,6 @@
 @LegacyUntold-v6d
 @SponeTale
 @BlackBeltHonor
-@BlackDadLeagacy-22
 @OPorquedasCoisassimples
 @StoryVerseChronicles5121
 @Harlemshiddenrulers
@@ -35708,7 +35707,6 @@
 @AIReelLife-h6z
 @Neo-Germany
 @luxuryhometimelapse
-@thecuriousdoodle
 @SurSymbo
 @ava_in_history
 @SyntheticSinsAudio
@@ -71041,3 +71039,8 @@
 @happykidsworld-o8j
 @lebigadyvytsia
 @firstwitnessunknown
+@hrk-z4j
+@robloxthematrixs
+@promptvisiontech
+@asinosfue
+@draconia-malfoy-ts
