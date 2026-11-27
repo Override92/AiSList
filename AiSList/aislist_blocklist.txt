@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70970
+! Total Channels: 70962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49412,8 +49412,6 @@
 @thoughtsim
 @b4writing
 @OnlyBrainzTV
-@StayAliveRules
-@IFUniverse137-c
 @Edgecount
 @BagaCrico
 @AtlasPopMaps
@@ -49781,7 +49779,6 @@
 @PixellumAI
 @HornyMetalOfficial
 @ranik_tales
-@FederationFallout
 @K-POPWITHOUTBORDERS1
 @SaleEndsSunday
 @UnascendMusic
@@ -49790,10 +49787,8 @@
 @nobodymentions
 @RootRiot81
 @DilSargam-w6d
-@thetylerbarnes0
 @Jaysinvestments
 @Agent100-doc
-@Tunes-zone
 @ControlledDemo-g6g
 @AtlasofOrdinaryThings
 @Nullsville
@@ -49844,7 +49839,6 @@
 @whatisClaroscuro
 @EverythingDoodled
 @CarmenTheWaifus
-@War_Sci-Fi
 @virtualwealthai
 @chimpsexplains
 @PawStory-y5g
@@ -49983,7 +49977,6 @@
 @aiglitch-qwer
 @DaleKowalchukFarm
 @VitoMind
-@WW3GlobalCrisis
 @ImproperIntegral-j9p
 @UncodedHorizons
 @GulStories2.0
@@ -60770,7 +60763,6 @@
 @cequelafranceabati
 @academyin30
 @evolution_stickman
-@videosinzynova
 @whatifwealth87
 @ogroddziadkajana
 @poradyzogrodka
