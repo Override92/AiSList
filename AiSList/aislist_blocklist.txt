@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71089
+! Total Channels: 71093
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55055,10 +55055,10 @@
 @ElviraCarpenteryt
 @Globetrekstories-901
 @ConorMcCloudx
-@Craftedai01
+@gathavritta
 @BossTabbyStudio
 @CookingWithAIContent
-@DuaneHowe
+@frankdalton-y8c
 @aikitchenstudio7
 @persiamusicai
 @fgc-o2l
@@ -55110,7 +55110,7 @@
 @GizmoTrailYT
 @NorthernBuild
 @aivlog665
-@JaliliFrat
+@sarahexplains101
 @MadeByAmandaAI
 @AussieFashionUncovered
 @Larryugc
@@ -55178,7 +55178,7 @@
 @AiVisualHub-j2e
 @FarmgateSecrets
 @ai.animation.fruits.2er
-@TheWWIIArchives-s05
+@warriorsx
 @CarbonaraChefCat
 @nolansdiary
 @AIcookingrecipe-e8r
@@ -55188,7 +55188,7 @@
 @PannyDoesUGC
 @LiveStoryDrama
 @AiXshort-z2h
-@WWIICombatArchives-u4s
+@battleu4s
 @letsCookWithAI
 @CaveCurious-k6e
 @Christopeher-k1y
@@ -55268,7 +55268,7 @@
 @AilienAgency
 @InhabitHistory
 @AI_ViralZone
-@MuktaPatil-fo6eq
+@aftravel-i2m
 @Thenumber1AI
 @RiseoftheHomestead
 @AlisaVlog-1
@@ -71105,3 +71105,7 @@
 @saddik-star
 @sabiduriaancestraldeltao
 @錦月劇場
+@健やか長寿の知恵-tv
+@好好好动漫
+@make.a.way.kay.beauty
+@newseveryday-q2x
