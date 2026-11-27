@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71097
+! Total Channels: 71087
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59968,14 +59968,12 @@
 @DeathworlderChronicles-i7h
 @MahmoudAhmed-y8o8s
 @HaiSonLe-q9t
-@HFYAethryx
 @thelastterran-c9g
 @Tu%E1%BA%A5nL%C6%B0%C6%A1ngv%C4%83n-s8x
 @HFYPrimeStories-h4i
 @Sci-FiHFYExtra
 @ContourBattles
 @RollTriP
-@brandonSadams
 @HFYSCIFIZYKER-e2n
 @HumanityAscendant-f9p
 @NexusStoryNetwork
@@ -59986,13 +59984,10 @@
 @HFYUniverse-w4u
 @InfernoWardHFY
 @HFYVaultStories
-@Tr%E1%BB%9Di%C3%81nhm%E1%BA%B7t-p4z
-@HFYOrynthia
 @The-Hidden-Narrative
 @SliceTherapyStudio
 @scifistories_5
 @EnduranceMind-y3l
-@HFYGalacticTales-x8y
 @StarlightMatesLibrarynew
 @HFYStarvorn
 @GalaxyUnveiled-n1q
@@ -60028,7 +60023,6 @@
 @GianKh%C3%B4nggianth%E1%BB%9Di
 @smithharris4781
 @ayeshasoniya3194
-@HFYVoidTestament
 @%C4%90auXoad%E1%BB%8Bun%E1%BB%97i
 @GrimwakeSagas
 @CozyVintageOldies
@@ -60068,14 +60062,10 @@
 @LeoValenti-i68i
 @science-consciousness
 @NotDevology
-@DominionReport-y3d
-@MysteryVaults-h6r
-@TeElijoaTi-p8q
 @caomeijianjian-j4x
 @dagoksakabanngpilipinas
 @6and60
 @serenayeon_ai
-@Glitch-USA-AI
 @BasAiHiAi
 @RobAi4.0
 @ElectricStorm-u5s
