@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71026
+! Total Channels: 71027
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24069,7 +24069,6 @@
 @AITimeTravelerSkyler
 @ChronoVoyagerAI
 @HistoryVlogHub
-@AIHistoryLegends
 @HistoryAI-y4d
 @AiVlogEna
 @historywith_Ai123
@@ -71042,3 +71041,5 @@
 @iljadererhabene
 @toon_village5
 @warbornstud
+@aspathuvlogs
+@미녀리뷰
