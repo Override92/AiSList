@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70967
+! Total Channels: 70957
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8339,7 +8339,6 @@
 @MoxieCeleb
 @MindBasicsHub
 @ImperialIterator
-@immortalrecaps005
 @godbuiltup
 @EcologicalEngineer
 @DimonomicsEdge
@@ -40348,7 +40347,6 @@
 @CarReviewshub
 @SnoopyMapleJazz
 @SteelHorizon-i9y
-@UnitedinKindness
 @ch35jc
 @Faunasticks
 @TheShadowwArchives
@@ -40364,7 +40362,6 @@
 @mmureviews
 @NewsCTS-t3s
 @RevengeandRealityUS
-@%EA%B5%B0%EC%82%AC%EC%A0%81%EA%B4%80%EC%A0%90
 @Opustechh
 @GrandpasRucksack
 @EverythingToyota
@@ -40492,7 +40489,6 @@
 @A-ZAI-i1v
 @SheepDrama-w3h
 @Story120Films
-@TragicVowAIReelSeries
 @Hippoframe
 @SpeechlessExplorerAi
 @TaleSpeaks
@@ -40529,7 +40525,6 @@
 @CrownAshes
 @zarqenmusic
 @KALUMA-b1z
-@GreatestRapGod
 @MysticWorld_j
 @StarlightSurvivor
 @LifeLineCorner2
@@ -47092,7 +47087,6 @@
 @lhistoiremurmuree1
 @oeilducosmos2
 @cookingsolowithamos
-@군사적관점
 @howtoforbeginners_tutorial
 @cooltonecafe
 @carolstonec
@@ -70016,7 +70010,6 @@
 @NYSMovie
 @AmericanPowerStories
 @AutoExplore-q8z
-@EcosdoTempo-u2l
 @KenapaBeginiTV
 @BirchwoodDadRevenge
 @MeatExposed
@@ -70104,7 +70097,6 @@
 @indiehackernews
 @thisearthsmanual
 @TheDexterTime
-@MentalistTime
 @EpochZero-h6h
 @Framexstudio
 @hidden_lands
@@ -70122,9 +70114,7 @@
 @BOLDDADTALES
 @BehindATaintedLegacyUS
 @Lesbiandiaries-01
-@BoundbyFate-84
 @HerRebornDestiny
-@CurvyMafiaChronicles
 @DramaFlake
 @GoodShortEpisodes-m2d
 @DramaticX22
