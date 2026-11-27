@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71032
+! Total Channels: 71025
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -35423,7 +35423,6 @@
 @SarkTv-Eng
 @tsukimalrakmedia
 @mathewweichel1050
-@NoahElfson
 @cynbahati
 @michaelabbatejr
 @21millionlights17
@@ -44023,7 +44022,6 @@
 @Tubba-14
 @LumitaleKids-w2s
 @illeagulseagullzz
-@Planet-ASF
 @HFYfictionalstories
 @VeedoDaMutt
 @VisionFrameStudio-p6k
@@ -44172,7 +44170,6 @@
 @NeoNightsAmbience
 @peregrinefalcons314
 @AbisAfricanStories
-@honr_gol_asmr
 @HfyNavalBattleZone
 @Nehas-Baking
 @AfooProject
@@ -44268,7 +44265,6 @@
 @AiGlobal18
 @ZuriChronicles
 @EmpireAnimatedStories
-@SatisfyVisualSounds
 @African-Echoes1
 @cartoonykfilmqoutes
 @paz-brown
@@ -44415,7 +44411,6 @@
 @Myfolktaletv
 @africanlichi
 @StorytimeByLilly
-@JellyHamsterASMR
 @EchoesofAfricanFolklore
 @%EA%B9%A8%EB%AC%BCASMR
 @mrmandaratvmain
@@ -44489,7 +44484,6 @@
 @TheEggsmr
 @HavenFlowASMR
 @KidSparkStories4kids
-@StellarBattleships
 @Ovafrokoreanstories
 @unreal-n3i
 @SugarBerryASMR
@@ -44521,7 +44515,6 @@
 @WildWestStories-d4n
 @Unclefrancistales
 @LumoraTalesTV
-@MYTHORIA-x7i
 @KevinPro-k1j
 @MythicPOVTales
 @HFYUniverse560
