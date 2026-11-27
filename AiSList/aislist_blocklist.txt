@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70927
+! Total Channels: 70928
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49231,7 +49231,6 @@
 @LowOrbitWhatIf
 @albumradio
 @AfroSeoulDiariesByDee
-@Simple-Thoughts1
 @LegendUnveiled001
 @AfricanFiresideTales-e2r
 @TheMapPurge
@@ -49266,7 +49265,6 @@
 @djbeatsthemagicofsounds
 @Seoul-Africastories-p6f
 @LonghornDeerShortDrama
-@AfroKoreanTalesTV-1
 @Kuantix
 @MojiAfricanTales
 @PoetryKode
@@ -49338,7 +49336,7 @@
 @TheUnknownsTruth
 @Africanfolktalesinspired
 @LiminalHoursCorto
-@PaulsAfriTales
+@pioskete1
 @ironwillcauntry
 @AfroHouseStudio
 @SathishTeluguMedia
@@ -70943,3 +70941,6 @@
 @thoughtspsyche_00
 @xcised
 @theberrytheory
+@doomedif
+@4k-media-4k
+@joelsurvivortv
