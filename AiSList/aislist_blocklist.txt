@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71098
+! Total Channels: 71088
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -16873,7 +16873,6 @@
 @嘉誠人生錄
 @wuweirenjian
 @李嘉誠思想課堂
-@長者智語
 @农家记
 @TheTanzaniteBard
 @SyntheticDiceGoblin
@@ -60263,7 +60262,6 @@
 @TertuliaDram%C3%A1tica
 @Caja-Minidrama
 @VampireKingEmpire-y6n
-@AlphaVortex-z6f
 @quynhtravel22
 @KingsoftheMoon
 @AstraDrama-h5e
@@ -60278,9 +60276,6 @@
 @HyperGalaxyHFY
 @Littleadventurersbyakosua
 @RroyalHeritage
-@EnduringElegance-r9j
-@Real-w320
-@CowboyRenegade9
 @SunsetStories-n5e
 @TalesBeneaththeVeil
 @CowboyGoldwind
@@ -60306,7 +60301,6 @@
 @CalmNightRadioOfficial
 @WildWestStories89
 @bestwildweststories-cowboy
-@FrontierDustStories
 @wwchronicles2
 @CowboysandTheirStories
 @WestWildClassics
@@ -60322,7 +60316,6 @@
 @legendsofthefrontier-l6c
 @TimebetweenTimes
 @NguyetQuyPhi
-@BienSoanPhimAI
 @CoffeeCodeLofi
 @Duc_Lab
 @SecondLookTM
@@ -60340,14 +60333,12 @@
 @Hanianovels12
 @MerabMotivationalstories
 @TheDukesSecretAffairs
-@Vanikikahanii
 @FatimaNovelDiary
 @NKNOVELS
 @Urdustoryghar6
 @LoveStoriesMarshall
 @VoiceofVengeance
 @PKYoutubeLife
-@Mknovel
 @dianovels
 @SitaraTalks55
 @WriterBrandonMcNulty
@@ -60361,7 +60352,6 @@
 @TheRomanceStories
 @GildedAgeLoveStories
 @RomanceStoriesss
-@FullNightLoveStory
 @TiannaLoveStories
 @loverscove
 @SlowBurnRomanceStories
