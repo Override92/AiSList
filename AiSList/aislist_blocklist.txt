@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71019
+! Total Channels: 71023
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7192,7 +7192,6 @@
 @FrankSinatra-TheUntoldLegacy
 @WW2Eraa
 @NighttimeBiographies
-@aismrglow
 @AiHustleHouse
 @zrodlo_madrosci1
 @economybackstage
@@ -11577,7 +11576,6 @@
 @StoriesAi-u2o
 @AITaleVerse-q4u
 @Ai_short_Story06
-@shortfilmtrailers2026ai
 @aasmausama
 @Animal-AILife
 @AIMARYLIFESTORY
@@ -71035,3 +71033,9 @@
 @せんぞのふしぎちょう
 @survivewild9
 @ramyrooma
+@themorrowpage
+@ssenariyx
+@secretedeiubire058-p8j
+@karmaunleashed88
+@hiddenpowerfilesyt
+@kvlkhmermusic
