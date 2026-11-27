@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71096
+! Total Channels: 71086
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39198,7 +39198,6 @@
 @PastCastHistory
 @Calmhistorystoriess
 @FinanceSketch-m5i
-@Mythvs.FactHistoryChannel
 @Inkineering
 @AetheronArena
 @theaibubble113
@@ -64325,14 +64324,12 @@
 @VibeCheckGadgets
 @BirajPokhrel-q5q
 @smartlistplus1275
-@ZenithHouseLabs
 @TechFreak55-f8f
 @AuraPromoter-l4n
 @QuantumHearth
 @Techs_budgets
 @SproutedTech
 @UcchistaGanesh
-@ParadigmDwelling
 @TechBeaconQD55
 @purikosanmusic
 @RingofTechno
@@ -64419,8 +64416,6 @@
 @TheTechPulse11
 @Logcabintv1
 @SensorSecrets
-@GraftCadence
-@ShearHorizon
 @AliSparkReviews
 @CanopyVector
 @onionstates
@@ -64428,7 +64423,6 @@
 @astrobox1746
 @finditfirst12
 @lenabriarwood
-@si_ooon
 @samrelaxe
 @PINKVORAHouse
 @OJogoInvis%C3%ADvel-o5k6s
@@ -64461,13 +64455,10 @@
 @MysteryHouse-e7l
 @ale-t6k2f
 @CanadaPowerShift-o9s
-@SamaBegam-p9s
 @NorthlineBriefing-c4j
 @englishstudywithPooja-e8p
 @SolvixPsychology
 @Lamstories1987
-@lilyanmontiro2824
-@WilliamJames-l9u
 @NarrativeMotionStudio
 @bestunder5000
 @AliPeekHub
@@ -64488,7 +64479,6 @@
 @GadgetsRe-bq1ko
 @DAILYDIYGUIDES
 @trustedproductinsights12
-@SegredosdaEscurid%C3%A3o06
 @RevengeBeyondLoved
 @TacticalMindset-c6g
 @MomsDiary-n3d
