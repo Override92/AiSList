@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70994
+! Total Channels: 70999
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71010,3 +71010,8 @@
 @volvahouse
 @ehai2026
 @enchanted.pillows
+@africantalesstoryhouse
+@clipbox67676
+@zynovazynova
+@movies.ai.hub1
+@voicexclips
