@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71034
+! Total Channels: 71026
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7295,8 +7295,6 @@
 @SignalBrust
 @Mr.DudeExplained
 @Plotberg
-@TheRedRegime
-@RoyalFrontierr
 @FlorksHabit
 @BhooBhookidz
 @TacticalHour
@@ -10202,7 +10200,6 @@
 @fruitloveislande
 @Precyai
 @SKILLTECHSTUDIO512
-@FruityRollAI
 @Fruitsai-w7l
 @LUMOSCURIA
 @IronSaga-q3f
@@ -20459,7 +20456,6 @@
 @wildpasthq
 @capitalize.oficial
 @DiscoverywithAmbrose
-@thenewglobalinsight
 @AuraiOfficial
 @novasteam-c9p
 @LoFiLoura
@@ -23886,7 +23882,6 @@
 @spmun.anime.videoAI
 @AnimeHeartAI
 @toonify_a1
-@2-y3o
 @Unoaistudios-0911
 @SpotlightAIChannel
 @AIkeymanUS
@@ -24000,7 +23995,6 @@
 @zeldogiq
 @MinifoodAi-p8e
 @TinytadkaAI-f4k
-@MiniFoodFactoryAI
 @TinyAI-24
 @TinyFrameAI
 @Fluxorix-c8v
@@ -50897,7 +50891,6 @@
 @whatifdata
 @nuvohistory
 @christmas-glow-melodies
-@survivalworld-yt
 @oulalatvx
 @trainsteinchess
 @usmanbhatti155-d2y
@@ -51016,7 +51009,6 @@
 @Untoldstoriesaii
 @AnimeLensavsr
 @your_lolitaa
-@SingleDadTwist
 @finalyearsd
 @Novelasclaudiane
 @goSonicMode
