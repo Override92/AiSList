@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70961
+! Total Channels: 70957
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18536,7 +18536,6 @@
 @DadReveng
 @edger255
 @JesusDeclaresOfficial
-@vinhkien3694
 @DarkBluesRadioFM
 @orbitost
 @DentalDecodeAI
@@ -18671,7 +18670,6 @@
 @bible-stickman
 @Bible-in-me
 @Bible-Energy
-@AI_BIBLE_ANIME_STORIES
 @AIBIBLEMUSIC
 @BibleScriptureExplained-Bible
 @footballnarrative24
@@ -23150,11 +23148,9 @@
 @aicreation-y8c
 @raba_tales
 @treeminbible
-@CandlelightArchivesYT
 @MatrixMonster
 @Tokyomel-ai
 @NeuralStorycrafter
-@AIShortsHub28
 @M_D_R_L_AI_ART
 @907motionlab
 @musicworldlabel
@@ -23712,7 +23708,6 @@
 @MRKASMR0
 @DreamifyASMR-k5x
 @fluvexofficial
-@たゆた音AICalmASMR
 @GoldenMusicTunes
 @Siatunez-b8c
 @Synaptixlabb
@@ -35112,7 +35107,6 @@
 @forgottenhistoryechoes-r1z
 @fantasy_chapel
 @blocfiles
-@reallolshockwave
 @bibledocumentarytv
 @stickmanworldnest
 @tom2_live
@@ -70977,3 +70971,5 @@
 @munchandcrunchasmr
 @theworldedit-c7g
 @pumpphysics
+@mrdg-7
+@history-on-easy-mode
