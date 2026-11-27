@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71049
+! Total Channels: 71040
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -29396,8 +29396,6 @@
 @ViralVerse-a1a
 @shoxrux_creatorai
 @ForbiddenAiFruits
-@FruitDreamAIOfficial
-@pomzy00
 @SweetFruitDrama-l
 @Aifruitstories-t7f
 @FruitAiDrama
@@ -29436,7 +29434,6 @@
 @aifruitbabyy
 @FruitsDrama2
 @AIFruitVIDEOS-s8b
-@FruitsASMR.5
 @Islandfruitcinema
 @fruitsandglass
 @FruitStoryASMR
@@ -29453,13 +29450,10 @@
 @drama_ailb
 @SOULHEALINGSTORIESTV
 @Mr.PeterStories-j8x
-@HomewardK9Stories
 @LastMissionK9
-@CEOStories-j4a
 @BrutalEncounters007
 @AifamilyStories-001
 @SinfulEmpire26
-@LuneraStories-i5f
 @bingeonai
 @TheK9Oath
 @MilitaryOutlaws
@@ -29489,9 +29483,7 @@
 @IdeasComeAlive-hp
 @DreamFrameAI2272
 @ShortlyAIStories
-@purrfecttales_ai
 @BibleStoriesReloaded-g3c
-@JesusHeartTouchingStories
 @AIIslamicStudio09
 @AIMysteryZone95
 @WildAnimalStoriesAI
@@ -29535,7 +29527,6 @@
 @KomediHorror-f7p
 @Quadrinhosdecontra-ataque
 @Counterattackcomics
-@super_ai_09
 @GoldenAgePsychology-q6p
 @WurstinatorderWagemutige
 @novelworldfmstories
