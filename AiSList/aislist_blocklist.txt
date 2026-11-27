@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70947
+! Total Channels: 70945
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19069,7 +19069,6 @@
 @TheFashionFable
 @samrosstheboss
 @MomscalmStories
-@Mr.Ledger-m6r
 @max-economics
 @Petengine786
 @LeoDogGuy
@@ -26460,7 +26459,6 @@
 @ColourfulHomeAesthetics
 @studio2800music
 @militoktok
-@ArtificialDesign98
 @AIDRAMA1985
 @short_ai_video24
 @BloomMotion-26
@@ -26539,7 +26537,6 @@
 @Pankajtech2550
 @ANAS-d9w6h
 @MeowTechAI-e1z
-@Epic_Untold_1
 @digitalchef95
 @aishooter00
 @DollyDolly-u4m
@@ -43565,7 +43562,7 @@
 @WintaGroove
 @CaveStoriesOfficial
 @TechnicalKaramSingh
-@TurboDriveAvenue
+@mythixtale
 @DirectorPsycho
 @wanyousheng
 @estebandiba
@@ -43637,14 +43634,12 @@
 @JoecarriganYT
 @TheFrontierLedger-j1s
 @storyofamericanpeople
-@SomethingOnlineAudio
 @voduai
 @TechScope-c9p
 @CabinHoursAmbience
 @KpopWaveWorld
 @FILMLIKE-AI
 @CaseReplays
-@StoneAgeFirsts
 @NeuralMusicHall
 @MinayuiAiMusic
 @ddal-P-m4s
@@ -70963,3 +70958,6 @@
 @pumpphysics
 @mrdg-7
 @history-on-easy-mode
+@hotoke-sukatto
+@babyenglish009
+@tnijmy
