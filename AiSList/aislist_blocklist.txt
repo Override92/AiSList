@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71065
+! Total Channels: 71055
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -11658,7 +11658,6 @@
 @allaboutbikes1
 @comedyradio69
 @WallsofWar01
-@MARCMÁRQUEZNEWSIN9MIN
 @guitarmeter
 @beyondexplorer-s3r8y
 @LifeHub-z2h
@@ -31765,7 +31764,6 @@
 @MementoHumaniHFY
 @IronResolveHFY
 @DeathworldersHFY
-@AlloyFuseHFY
 @HumanLegacyHFY-j4c
 @HFYGalacticLegendsUS
 @hfyShipVerse
@@ -31802,7 +31800,6 @@
 @HFYNexus-e8q
 @HFYSci-FiVoidborn
 @ZenithralHFY
-@TerranCommandHFY-j7u
 @EarthLegacyHFY
 @HFYDarkDeathworld
 @HFYFantasy-f9c
@@ -36589,7 +36586,6 @@
 @IyrosFilms
 @nuncavolvieron_es
 @abandonedmuse
-@timeline-philosophy
 @shauryakuls27
 @OffScriptFame-f4f86
 @JanKowalskiOpowiadaczHistorii
@@ -65104,7 +65100,6 @@
 @loretrip
 @doutormultiverso
 @SceneStream-q2b
-@KHuntrsYT
 @VintageTikiLounge
 @MixedContentLab
 @amazedit03
@@ -65889,7 +65884,6 @@
 @MillenniumPost-AnimatedBibleSe
 @quantumaihub369
 @BeehiveAmore
-@OkwudirichukwuKingsley-c1g
 @Bible.Vlogger
 @UrbanIndiavibes7488
 @Nova-x-x1
@@ -66657,7 +66651,6 @@
 @SecretTales789
 @uyenstudio
 @AI.Tidbits
-@kidskingdom_Ai
 @Animationandaiedits
 @JesusHopeFaith-x1z
 @MadeOfPixelsYT
@@ -67008,7 +67001,6 @@
 @epermese
 @maxxufilms
 @biblehowtos
-@AI.FoodChef
 @BHUiteai02w
 @artkolpro
 @Dream_Car_Garage_7
@@ -67016,7 +67008,6 @@
 @aianimation2-t91
 @InsidetheMomentFilms
 @MasihiMahimaAi
-@Crazy--Clip--Ai
 @worldvillagestories
 @AiChef-y9c
 @RiyazDiecast
@@ -67530,7 +67521,6 @@
 @Catcutek
 @GhibliVenture
 @BanglachudaYouTubeBank
-@AiCarByZoraiz
 @DancingHub-2012
 @KashishZaikaa
 @GiantFoodCraze
