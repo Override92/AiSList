@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71099
+! Total Channels: 71103
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3826,12 +3826,10 @@
 @imaginarii-videos
 @CichaNauka0
 @FinTalk-f2z
-@StockInvestmentEmpire
 @nonbindingfinance
 @JohnAG2
 @thegrowthpathmotivation
 @theCryptoFiles-h5d
-@roshinvestYT
 @Perspektywafizyki
 @PlainFinanceYT
 @mirada-p
@@ -28540,7 +28538,6 @@
 @MilitaryBlueprint
 @TheCompanyMethod
 @AIDrama-f1r
-@백치미1
 @ollie_finance
 @yomidigitry
 @한반도_백과사전
@@ -71115,3 +71112,10 @@
 @thebrainonautopilot
 @yuhan_animation
 @kahlonvlog-h8g
+@donotrespondtapes
+@0turnaround
+@homorex
+@autozentrale920
+@thepanicguide
+@bangbanglaugh
+@top_attitude-lo-fi
