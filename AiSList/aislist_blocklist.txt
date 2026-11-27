@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70964
+! Total Channels: 70961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21267,7 +21267,6 @@
 @ZzzAiASMR
 @CutieMelty
 @JustAIonly
-@zhane_es
 @SoftRill
 @plotglitch-en
 @fintechiq320
@@ -26268,7 +26267,6 @@
 @aizapgen
 @cat_mans
 @navheenxai
-@top-ai-trends
 @inspirasioren
 @PurrMeowgicAI
 @Ranikai-n6y
@@ -26369,7 +26367,6 @@
 @MARVELOFAI-j8w
 @AiMarvelHero
 @sarimshaikh011
-@driplordaistudio
 @AIImpactStudio
 @TimeRoadEvolution
 @floopit
@@ -26417,7 +26414,6 @@
 @DrarryVisions
 @AIGENERATED890
 @DubCreationStudio
-@WhatIfAIVlog
 @ronaldaivid
 @A.IChaos
 @Vloglodytevideos
@@ -26431,7 +26427,6 @@
 @FastFuriousReborn
 @YorgunKalbim-v7o
 @TheGuidedAvoidant
-@mansen0409-4
 @quietjazzrooms
 @MarkRoberts-w3k
 @AIFlavorStudio
@@ -70980,3 +70975,5 @@
 @miragephantomen
 @tardimasmr
 @munchandcrunchasmr
+@theworldedit-c7g
+@pumpphysics
