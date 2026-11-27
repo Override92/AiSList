@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71084
+! Total Channels: 71090
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -38945,7 +38945,6 @@
 @CourtSentinel-l5u
 @JudgeWatch-v4j
 @WESTVERDICT-g6b
-@JusticeStrike-l5p
 @BaileyCourt-v8z
 @JusticeOrder-y1t
 @DocketCourt-s1h
@@ -71100,3 +71099,10 @@
 @joepaulantidotetv
 @irisromance
 @preshys_storytime
+@ignotascientia
+@unsolicitednot
+@oniqehassy
+@anna_designer_ai_en
+@bunnyーchef
+@hypotheticashow
+@sheru_gangster_ai
