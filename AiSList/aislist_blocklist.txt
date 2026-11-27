@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71094
+! Total Channels: 71084
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -60075,12 +60075,10 @@
 @SR-RECORDS7
 @musicstationai
 @Shamelessbeats25
-@apex_aimusic
 @firetrendsmusic
 @redsystemrecords
 @Santalaran2.0
 @hrudayarakathaofficial
-@RiffRocked
 @AutoCoverStudio
 @TheGrooveSource
 @Prze%C5%BCyjnik
@@ -60105,7 +60103,6 @@
 @barrettstone8
 @nghiennhactinh
 @rockstyle28
-@hugotwish2025
 @MetalCoverVibe
 @midnight.soul.covers
 @OmBertho
@@ -60131,7 +60128,6 @@
 @mountainmanromance-mmr
 @shortmax-karma
 @christianlafleur9186
-@1World_Lyrics
 @ArabianGroove-h6t
 @bestccovermusic
 @MisterChimpRock
@@ -60149,13 +60145,11 @@
 @godysky532
 @FireguardTV
 @CR_FACTORY
-@Darksteellmusic
 @ShatteredHits
 @danielmalone3985
 @Vyriths
 @tinh-khuc-bat-hu
 @jadsd56
-@ambawangforceproduction715
 @DucatChannel21
 @VeteranPawJustice
 @Oldies2195
@@ -60178,7 +60172,6 @@
 @Mackcolak-xf5bk
 @StorySphere-l2j
 @DeanMartin-BriefMemoirs-c7z
-@Wagon_Trail_Romance
 @BackroadsFarmChronicles
 @GroundTruthFarm
 @EchoesofStories-w4d
@@ -60186,8 +60179,6 @@
 @HighwayChronicles-c1w
 @TheDeegen
 @ArchfiendoYouTube
-@Kweedle
-@ZeroDayPrompts
 @EntAIProductions
 @lllxxxxx
 @MotorHeadsYouTube
@@ -60215,7 +60206,6 @@
 @CartooonTHAT
 @digidigi-c6o
 @mythic_vault_main
-@MC6FUNFunnyComents
 @Meowlsol
 @Tamscene
 @IRANLEGONEWS
