@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70957
+! Total Channels: 70948
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1739,7 +1739,6 @@
 @georgepattonquotationinstitute
 @ww2rewind5
 @ww2taleofvalor
-@ww2confidential
 @ww2armorytales
 @ww2talk4u
 @wartimememory
@@ -45736,7 +45735,6 @@
 @noxara-n6e
 @zenskapsychologie-u6o
 @filmcld
-@夕風微劇場
 @traceecrite
 @aerownofun
 @전문가추천템
@@ -45957,7 +45955,6 @@
 @fatebound-realms
 @로즈팝스튜디오
 @哦哦的
-@stickoutsurvival
 @ashlarhistoryofficial
 @kissatenjapan
 @graceafricantales
@@ -45994,7 +45991,6 @@
 @ramishakhtn1
 @вопросыиответы-ъ4м
 @snowfallhavenasrm
-@histnap
 @tony-icdia
 @globaltech_tv
 @civilisationspresentees
@@ -59478,7 +59474,6 @@
 @invisiblefinancepov
 @lockedinside-m4z
 @所喜爱-w9e
-@capaceteamarelooficial
 @vintage_rnb_music
 @i_asmrr-i5k
 @rainbowmelody07
@@ -70129,14 +70124,11 @@
 @otisgrangerbarn
 @OfficialOupanku
 @EverythingSubaru
-@ApexAudit-l9y
 @crazythings-t7x
 @HiddenFamilyTruths-f4w
 @Herzensgeschichten-m5j
 @EfficientAnimals
 @SingleMomsSecondChance
-@StilleRache-r6s
-@DieselErbe
 @After-All-t4y
 @TheRevelationSignal
 @TheMatureGentleman
@@ -70157,7 +70149,6 @@
 @EarthUnrevealed-v6u
 @VoicesofPurpose-v7r
 @TechNana-h2r
-@MaryKowalskiCooks
 @uncleronniecooking
 @OntarioBackRoads
 @NatureTookOver
