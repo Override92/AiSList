@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70971
+! Total Channels: 70968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9495,7 +9495,6 @@
 @ZopaAI
 @NepaWaveAI
 @ai_music_official
-@gurshamusic
 @251sound
 @AIMasteryTutorial
 @DynamicAITech
@@ -12434,7 +12433,6 @@
 @podcastteddy
 @catproject-z5k
 @UnleashedPodcastOfficial
-@DAILY_QUIZ_1_1
 @Aimagicworldhq
 @PeanutBrain-t9s
 @OtterLandfun
@@ -12567,7 +12565,6 @@
 @LunaVincentMusic
 @80sSynthpopHits
 @RetroSync80s
-@RedoubtWarHistory
 @AmberVinyl-b3h
 @TheSereneSound-95
 @thisisarchive7
@@ -14838,7 +14835,6 @@
 @SAICINEMAUNIVERSE
 @Sahani_Cinematic07
 @SanatanUniverse-g3n
-@AnimalUniverse-v2z
 @whatif_universe573
 @iamJatinSehrawat
 @RealWorld-RealStories
@@ -14867,7 +14863,6 @@
 @DjTrivux
 @AI_Film_Forge
 @tinydream_kitchen03
-@PlotPops-l3c
 @Life_in_koreya
 @ShanhayStudio
 @ChineseBL
@@ -40118,7 +40113,6 @@
 @Mrmanhwaa1
 @GleeWildlife
 @outbreakfiles_yt
-@pffx-t3p
 @EpicAnime-n9u
 @SticklyLore
 @tinglbell
@@ -59512,7 +59506,7 @@
 @GuitarWhisper-q7o
 @KevinTurner-q7o
 @ClipStorm1-k3s
-@PawZingo-x5n
+@thrillvortex-i6i
 @WhiskerTales-q7o
 @bosporia
 @gameplayno
@@ -70987,3 +70981,6 @@
 @jugaadutoons45
 @neuralderp
 @nostalune_2
+@nooneexplainedit
+@whiskersandwaves1
+@fableworks2.0
