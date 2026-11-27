@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71130
+! Total Channels: 71127
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -275,7 +275,6 @@
 @mogingerstudios
 @simpleaichannel4
 @MrAi51214
-@AIMagicalFamily
 @StreetCameraStories
 @HypIm2.0
 @TNA3FACTOSTORY
@@ -30269,7 +30268,6 @@
 @MayasTales-i5f
 @FairyTalesKids07
 @NagaTales-1
-@OrcTales-n3l
 @SariFairyTales
 @NEOHEALANISTALES
 @AfricanFolktalesVaultTV
@@ -45527,7 +45525,6 @@
 @PovarTea
 @EveryRankPOVytb
 @POVmsq
-@ItsInWritingPOV
 @TheFamilyWalletPOV
 @RelationshipPOVStories
 @mrcapitalPOV
