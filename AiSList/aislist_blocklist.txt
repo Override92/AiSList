@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71029
+! Total Channels: 71022
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6766,7 +6766,6 @@
 @DasKatzenuniversum
 @BlackWhiteAmerica
 @NotebookILM
-@FederalReport-p1i
 @UnitedStateNews-h6e
 @Melanskiareal
 @CozyMountainFireplace
@@ -27909,7 +27908,6 @@
 @TheDivineCall-g5p
 @DailyGodDevotional-ph4qu
 @HolyWordsFromGod
-@AMomentofFaith-f1o
 @HongNhu-p9d
 @Ifiology_if
 @70s_ROCKREVIVAL
@@ -35950,7 +35948,6 @@
 @Themoodtales-k1f
 @AERELITH-000
 @Sexify-Music
-@2QStories
 @PlatinumVanguard-S01
 @Historiasbiblicascuriosas
 @AmyJoplinOfficial
@@ -36007,7 +36004,6 @@
 @Moosgrund
 @OfficialKingScroll
 @aethelvikingar
-@ashesllmar
 @ANAGHARAJENDRANKP
 @CucinaConItalia
 @BLUENOTESOCIETY-X
@@ -36070,7 +36066,6 @@
 @SeleneStarcrest
 @ASBSoundsStudio
 @LTYPHONK
-@WatchCinePulse
 @AveluneMelodies
 @Raven33601
 @SVAStoryVerseAnimated
@@ -36093,7 +36088,6 @@
 @kaatoons-n7y
 @AhamToons.387k
 @WhisperedToons
-@MindToonsChannel
 @tycontoons
 @Zippytoons43
 @CartoonsForKids-abc
@@ -50661,7 +50655,6 @@
 @AfrocentricChronicles
 @JulioDeAfrica
 @Jaja-Tales
-@AFRICANTALESUNVEILED-95
 @AfricanFolktalesWithTemi
 @TalesBeneaththeBaobab-b3l
 @AfriLoree
