@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70929
+! Total Channels: 70928
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48824,8 +48824,6 @@
 @UnsentDiary-j3p
 @humanlyte
 @MINDORAFACT26
-@Hoodieanimate
-@kanab-x1u
 @zero.disciplinenow
 @THE_INEVITABILITY
 @TimelessOffSwitch
@@ -48842,9 +48840,8 @@
 @The_Paint_Story
 @HomoChillens
 @IfStories-1
-@TheIfstitute
+@animatedfootyfilms
 @Finnactions205
-@tEDthefailure
 @endtostart_c
 @IfPlayerYT
 @JustACatTechnician
@@ -48924,7 +48921,6 @@
 @TinyBigDrama
 @AfricanFolktalesByJuliet-p2l
 @AlmadoFado
-@AfroKoreanAngle
 @ElDondelaVoz
 @ifelseworlds-yt
 @AfrokoreanMafiaStories
@@ -70945,3 +70941,6 @@
 @stickbeat26
 @damnedgoodadvice
 @lutacyt
+@1テクノ解剖室
+@aakaistudio
+@thoughtspsyche_00
