@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71046
+! Total Channels: 71047
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24484,7 +24484,6 @@
 @Ailifetales-01
 @CuteBiteOfficial
 @TinyDollAICookingStory
-@Exploreworld-q5r
 @GiantMonsterAI
 @AiFilmUniverse
 @AICineVerseYT
@@ -44957,12 +44956,10 @@
 @simplyvikings
 @Northerntide13
 @AnyaMetalRequiem
-@MelodineViking
 @VikingosDePalo
 @VikingStromSong
 @USMilitaryArea1
 @VikingFlame
-@ChristmasJazzInstrumentalMC
 @SailingintheNorth
 @VikingsoftheCross
 @VIKINGS_MUSIC_RADIO
@@ -66358,7 +66355,7 @@
 @GameXProoxY
 @GundetiSrilatha-gg2yw
 @terence__chang
-@DZAIComedyOfficial
+@hikzo-y1x
 @AITimeTravel
 @Spacekibaat-aikesath
 @SkywolfChronicles
@@ -71062,3 +71059,7 @@
 @sherubhaiaioffical
 @gta_6_suu
 @arenapoptoons
+@ravix_world_0429
+@skjoldsaga
+@ylva_viking_music
+@brittanygonzalezhernandez
