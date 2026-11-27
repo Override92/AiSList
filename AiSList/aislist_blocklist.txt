@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70934
+! Total Channels: 70931
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -23879,7 +23879,6 @@
 @reallifeanime-z7t
 @RealMorph_Ai
 @AIArtAnime21
-@aicoreanime
 @EarthAnimeAI
 @AIAnimeZoneX
 @AiForAnimes
@@ -48434,7 +48433,6 @@
 @DaughterOfAfrica-k6j
 @IndigoHeartbeatAfro
 @Afro-koreanStories-d6y
-@SStoryVerseAfrica
 @africanartworldwide3575
 @africanuncovered-1
 @AfroFestivalBeats
@@ -48454,9 +48452,7 @@
 @AfricanFolktaletv-u4p
 @afrokoreauntold
 @AfricanMysteryStories
-@AfroKLoveStories-f5p
 @AIAFRICANSTORYVERSE
-@AfroKHeartstringsTV
 @Afro-kRomanceDrama
 @EchoesofSeoulAndAfrica
 @Afrokstoryhouse
@@ -48490,7 +48486,7 @@
 @AfricanWorshipSong
 @Afro-KoreanLoveStories092
 @AfroKoreanStoryUniverse
-@nobleafricastudios
+@terry_creativestutorials
 @AFRO-KOREANLOVESTORIES-j3l
 @Afrokoreanlovestories-d9n
 @Afrokoreanstoriesbykoms
@@ -48533,7 +48529,6 @@
 @AfroKorean-Stories
 @AfrokoreanStoryverse8
 @legendsandpersonalities
-@3MinuteStoriesas
 @8MinExplain
 @therupeeroom43434
 @ProbablyYour
@@ -70950,3 +70945,5 @@
 @rainsoundsforsleepingrelax-f5k
 @quietwhispers2027
 @untrace1234
+@tihiy_gost
+@multiversedesktv
