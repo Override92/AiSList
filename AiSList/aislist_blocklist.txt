@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70954
+! Total Channels: 70944
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54086,7 +54086,6 @@
 @GONGSoftheMIND-o7w
 @VitrinedeFilmePrateado-dm8qx
 @Korp-Music
-@updatezone-r4t
 @Daniel88-d5h
 @jermainewatkins-r8s
 @WitzWelle-b1u
@@ -54100,28 +54099,19 @@
 @Hasret%C3%96nder-r5w
 @Areha-l1s
 @MimiMotorASMR
-@AlexMcarthy-e3n
-@HOAReports-i6u
 @DreamChroniclesStories-l7w
-@SingleDadLife-b5j
 @StoryHorizon-k8t
 @OldWestRoad-q6z
-@LegendsoftheFrontier-f5b
-@FrontierEchoes-x6m
 @OldWestRomanceTales-t4o
 @BetweenTwoWorlds-h2a
 @ethanstories-g7r
-@LifeUnfoldedStories-s1i
-@TheStoryLab-p9k
 @VerborgeneSchicksale-v2b
 @SilentValorStories-y4z
-@BrokenBadgesStories-u2i
 @animationclub-gq5vr
 @DreamCanvas-q4k7y
 @BehindTheLabel-e7s
 @cybercraftlab348
 @ClassicRockLegacy86
-@JacobMartin-n3y
 @DarkPsychologyCoded-d1e
 @FamilyStoriesbyAnish-h2t
 @hiddenods
