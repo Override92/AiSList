@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71039
+! Total Channels: 71038
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -89,7 +89,6 @@
 @TmFactoWorld
 @MelodyOfMemories7080
 @doggoofnibytnmedia
-@PoutyFrenchie
 @furriously
 @HeavenlyPets2025
 @momslittledoggotnmedia
@@ -10095,7 +10094,6 @@
 @SoundAIIndonesia
 @kjelloso-AI
 @CoverofAnatolian
-@mahirulofisounds
 @cocovers_ia
 @Senjasoremusic
 @GroovevaultHQ
@@ -33824,7 +33822,6 @@
 @AmericanJusticeFiles
 @DominionFiles1
 @IronFilesHistory
-@WWIIShockFiles
 @evidencefiles-i9d
 @JapaneseGhostFiles
 @MAFIASECRETFILES
@@ -33846,7 +33843,6 @@
 @WardFiles
 @DarkAfricafiles-k1b
 @untoldfiles000
-@BlackAmericaFiles
 @thewarfilesofficial0
 @ForbiddenFilesProject
 @thehungerfiles
@@ -39458,7 +39454,6 @@
 @thedukeslantern-v8s
 @corporate_casualties
 @velvethavenjazz-n8l
-@silentvalkyrie-p2
 @nurseclairehollis
 @EphemerisXY
 @theforgottenmile-v5g
@@ -71055,3 +71050,7 @@
 @littlehindistars-q7i
 @lajugadadegta
 @scene_sparkai
+@dailystreamdroptv
+@gunsguide
+@ntdmowing01
+@星魚資安
