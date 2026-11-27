@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70985
+! Total Channels: 70984
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3029,7 +3029,6 @@
 @Sidney_Explains_Money
 @WarAndMystery
 @The_Smart_Retirement
-@globalinnovation-tv
 @BullionInsider-k4w
 @MissileDiscovery
 @UncoveredGuru
@@ -25358,7 +25357,6 @@
 @thecarpulseusa
 @itsrandomy
 @forge-y
-@nocomfort_666
 @trulyunusual-v8x
 @africanstories-by-oma
 @mrbeaztwood
@@ -33530,7 +33528,6 @@
 @HumanAscendancyYT
 @TheFinalRevenge-r5f
 @FortifiedMindstory-g5i3m
-@TheAtlas.Archives
 @HumanReign
 @MrBack-e6o
 @GardensLab
@@ -33542,7 +33539,6 @@
 @QuietRevenge-q4m
 @TheAlphaThrone-us
 @NajiiManga
-@Bedtimescientist-icdi
 @longgangsternights
 @foodmark
 @Azmiya-z1e
@@ -71001,3 +70997,6 @@
 @folkfracture
 @borniverse0
 @thepastsurvives
+@tinyottertoons
+@planetaextremo07
+@viceatlaas
