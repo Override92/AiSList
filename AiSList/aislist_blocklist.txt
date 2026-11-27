@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71047
+! Total Channels: 71052
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -66400,7 +66400,7 @@
 @qoksieju14
 @Zippitykitty
 @CompanyUntoldTV
-@AIVillageTales-8
+@শরীকষণেরআলে-2
 @EarthEmpire-n2x
 @InfinityRenovations-r7j
 @maxexplainerr
@@ -66428,7 +66428,7 @@
 @toplezharmony
 @Kathalabstudio
 @QuangTienLam
-@Lullora-12
+@munosalwa12
 @thethinkingstickman102
 @BRIGHTX_AI-bible
 @Plugged-d4b
@@ -66441,7 +66441,7 @@
 @abhisheksihol5640
 @BeyondtheVeilCinema
 @AshokansWorld
-@APEXGENM
+@cuetypatootie
 @AitalesbyPb
 @CuriosityKeyStudio
 @AnimetaVidsOfficial
@@ -66512,7 +66512,7 @@
 @TheExplainerArt
 @TimeTravelAIOfficial
 @LegendsEpicRecords
-@AIMAGICWO-RLD
+@ceylondreams-l6b
 @MotarCulture
 @AIMagicWorld-h6e
 @DeepTime-7t7
@@ -66560,7 +66560,7 @@
 @AI_HumanLab
 @IA_JOIA
 @BibleAIAlive
-@nepaliai_video
+@ashimflix
 @aichristianbiblemusic
 @DigitalVisionaryManagement
 @OsMontag
@@ -71063,3 +71063,8 @@
 @skjoldsaga
 @ylva_viking_music
 @brittanygonzalezhernandez
+@balladstalesandstrings
+@levende-ruines
+@biblemilk
+@immivkn
+@skjoldar-records
