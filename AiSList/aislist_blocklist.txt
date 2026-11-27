@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71099
+! Total Channels: 71089
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55168,7 +55168,6 @@
 @relaxwithme918
 @TheHarmonWay
 @AIRAMREACTION
-@RevengeMagnoliaUS
 @DramaFruitAI
 @Marty-Hayes
 @mindfullmotive101
@@ -55192,7 +55191,6 @@
 @letsCookWithAI
 @CaveCurious-k6e
 @Christopeher-k1y
-@DavidGrant-s3j
 @randomclips77777
 @Gritandmortar
 @layZ.interviews
@@ -55410,7 +55408,6 @@
 @globalhistoryverse
 @QueenieFlicks
 @Fruit.DramaAi
-@KarenStoryhq
 @atlas-o4i
 @CrownCurtain
 @QuickStory-g4z
@@ -55478,7 +55475,6 @@
 @AISlop-0318
 @IvansSurvivalJournal
 @AIDoorbellF
-@GutVital-d8k
 @allaboutsportszz
 @Innovolt-r8lInnovolt
 @GMONEYSORA14
@@ -55498,7 +55494,6 @@
 @mommymillz2
 @ColdKarmaDrama
 @Tamildevotionalsecrets
-@FarnnTales
 @Aiminitinypeople
 @ChristianJennins
 @investingwcaleb
@@ -55528,7 +55523,6 @@
 @TinyFoodWorld-s9g
 @coleroganyt
 @Melio-Ratio
-@RevengeIris
 @TinyTaleStudio-u8v
 @TheJewishMethod
 @Allisonlovesmedia
@@ -55569,10 +55563,8 @@
 @Music_with_robert
 @TheSimpleFarmer12
 @AIstoryshorts_ak_1
-@RevengeVioletUS
 @Cookingwithaiofficial
 @MaxwellExplainsOfficial
-@Nephy_Hustle
 @ColeBarrettVanLife
 @YakubuSarah-b5p
 @UntilTheyFoundOutStories
@@ -55580,7 +55572,6 @@
 @seedpit
 @Alex_CosmicLab
 @Maryamshah-m9y
-@DuelDrain
 @WWIIAmerica
 @populardramas666
 @SpaceMeltdown
@@ -55634,7 +55625,6 @@
 @Moviehindi-x3g
 @ColinsCaravanLife
 @Epiviralstudio
-@MenFamilyRevenge333
 @AITravelsVlogs
 @TheObserverPsyc
 @TimeTraveling_Vlogs
