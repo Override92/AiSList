@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71055
+! Total Channels: 71045
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8314,7 +8314,6 @@
 @historyshift.channel
 @PivotPointHistory01
 @celticsoulambience
-@miloexplorer
 @feynmaninfinite
 @solomonfall
 @Digitaleshubofficial
@@ -17398,7 +17397,6 @@
 @輕輕故事
 @AI07-e7y
 @SiliconMinds-789
-@AiNewVibes
 @Mystorastories-h2s
 @aidreamScape-aq
 @UnfilteredAI7
@@ -67598,7 +67596,6 @@
 @vishal_wood_craft
 @kisnagarg003
 @GhibliFoodStudio
-@Love_N_steps
 @VisitorC137
 @generalvideochannel.93
 @GhiblistyledaysStudio
@@ -67657,7 +67654,6 @@
 @paulsimonarakkal329
 @tomelinamentor
 @ToolRush29
-@ScienceAndTechnologyOfficial
 @SP_vlogging_duo
 @Brainelixhub
 @ArchmageSubliminals
@@ -67678,7 +67674,6 @@
 @HoopsRivals
 @TheUnaverageLife
 @SilentEarthLab
-@SlowSpaceBedtime
 @NightfallChronicles87
 @quantumspaceresearch
 @TheAstroMind14
@@ -67696,7 +67691,6 @@
 @%EC%A7%80%EC%8B%9D%EA%BC%AC%EB%8B%A4%EB%A6%AC-f8j
 @HiddenEngineeringSecretss
 @RetiringInThePhilippines
-@VelvetTales-US
 @BookHeat-p8m
 @ForbiddenRoses
 @RichardInThePhilippines
@@ -67708,12 +67702,10 @@
 @HistoryClipsAi
 @RingPulse78
 @NeonHeartsRadio-n6h
-@MidnightStereo-o4f
 @Pigen-f7i
 @%EC%95%88%EB%85%95%EC%B9%98%EC%95%99%EB%A7%88%EC%9D%B4-p9r
 @TranHanh-c5w7n
 @LOVEMEGA-w1e
-@EmilyroseCarter-e6m
 @LolibombLolibomb
 @BobyMusicReggae
 @Ch%C3%A9rieDiaries542
@@ -67724,9 +67716,7 @@
 @UntoldValorr
 @KantoTalk
 @LeoFitnessGlobal
-@ApexSpace-u4y
 @the_expat
-@CourtLion
 @Memzamerica
 @TacticalNusantaraExplain
 @ChristianFaitharchive
