@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71093
+! Total Channels: 71099
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55326,7 +55326,7 @@
 @aioperator.1
 @LeonardSinclairAm
 @ejmaeai
-@FiredKrissy
+@tawk2.0
 @AIDominion-07
 @BeyondRevenge-f1d
 @LANG-1122
@@ -55380,7 +55380,7 @@
 @Aicookingtutorials1
 @WaltMercerReport
 @funnyaimaster
-@BroSaidSo
+@theoddwickfiles
 @HulkTheVlogger007
 @EvelynHartley7
 @itsDigitalAK
@@ -55416,7 +55416,7 @@
 @QuickStory-g4z
 @DuskyLaurel
 @sorasgalore
-@GuillermoValderas
+@everythingelectricv
 @aeristhoughts
 @TheManorChroniclesTV
 @HistoryInvisioned
@@ -55438,7 +55438,7 @@
 @wierdAIlaughs
 @QuietHeroes-b5s
 @fruit-poptv
-@AmossInvaders
+@buggychronicles
 @AIVIDEOS24-ktr
 @livingplanetwithfrank
 @TkHalloween
@@ -71109,3 +71109,9 @@
 @好好好动漫
 @make.a.way.kay.beauty
 @newseveryday-q2x
+@matiasfreites123
+@afnatravel
+@builttolest
+@segredosdavovochiyo
+@taylorbuilds7
+@funland-d2q
