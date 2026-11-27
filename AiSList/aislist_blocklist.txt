@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71027
+! Total Channels: 71030
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -24219,7 +24219,6 @@
 @JesusAiStories-j3u
 @Aistories-f9b
 @AITrailerBlazers
-@AiFairyToon
 @aiperfectdreams
 @heroaimarvel
 @aicadni
@@ -26653,7 +26652,6 @@
 @corridossinregreso-n1w
 @bunnybeartunes
 @philip-anthonymitchell-b6w
-@goldenbrownbgm
 @WorldOfArt2026
 @ThatNetworkingGuy
 @SouthernSoulRecords-fanpage
@@ -71043,3 +71041,8 @@
 @kathaverse626
 @내귀에경제학
 @шкураэпох
+@can_yourelate2026
+@detalhesqueninguemve
+@animaisdancandoia
+@jay_library_0
+@英文老情歌時光機
