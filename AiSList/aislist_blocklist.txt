@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71072
+! Total Channels: 71062
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -21857,7 +21857,6 @@
 @INNOPULSE1
 @aiscene.official
 @EmilyCarter-b6j
-@GeoTimeExplore
 @POVBeyond-y7p
 @HeliosArchives
 @pov.civilizations
@@ -31607,7 +31606,6 @@
 @CowboyPrairieTales1
 @cowboybebop1141
 @WildWestLoveStoryTV
-@TalesOfWildWestLove
 @wildwestjustice-y1n
 @WILDWESTREALM
 @WildWestPromises
@@ -31726,7 +31724,6 @@
 @HFYWarborn-l5f
 @NovaBattalionHFY
 @AlienCubChronicleshfy
-@THEDRAGONHFY
 @HFYVault-b1l
 @KingdomofLoveHFY
 @RescueOperationGalaxyHFY
@@ -64898,7 +64895,6 @@
 @ClassicalImmortality
 @imperial.classics
 @factus_mandus
-@theclassical.studio
 @TimelessClassicsnico
 @VAULT17-u
 @philia-f1t
@@ -64918,7 +64914,6 @@
 @AnimatedMind
 @RuptureRampage
 @Ground-Failure
-@anatomyofdisasters1
 @UnkonwNews-w7
 @WILDMYSTORA
 @Warriors_of_the_Pastt
@@ -65017,7 +65012,6 @@
 @MaaChaaKids
 @JackLondres-x4e
 @ThePsychologyMastery
-@TinyTotsWorld-m23
 @KPopix-r2d
 @tunegalaxy-q2g
 @AuroraBalladsOfficial
@@ -65072,12 +65066,10 @@
 @JenlisaWrites
 @DarkAarm
 @Glowria-k2p
-@The-Money-Behind-ss
 @echoesoftheblues1
 @velvet_moon_music
 @PixiLora
 @ChocoMintbeats
-@Eclipsers-u3i
 @solarasong
 @gkvideo464
 @quibble.x
@@ -65103,7 +65095,6 @@
 @AncientSecretswithArcher
 @rumimira-e4s
 @WildInstinct-q2z
-@K4IP0P
 @AnunnakiTalkYT
 @AldenMade
 @Wunderkammer2.0
@@ -65113,7 +65104,6 @@
 @DogWarts.1
 @HunterXzone2022
 @PetersOfficeStories
-@cerebrixx10
 @loretrip
 @doutormultiverso
 @SceneStream-q2b
