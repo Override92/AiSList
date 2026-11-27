@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70961
+! Total Channels: 70968
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59890,7 +59890,7 @@
 @Primatesofwar
 @ChroniclesGalactic
 @adeleswilley
-@hfx-humanitystories
+@hfy-humanitystories
 @ContactHumanityHFY
 @sci-fi-neon
 @TheHFYParagon
@@ -59930,7 +59930,7 @@
 @PixelPantheonMyths
 @HFYStellarEmpire
 @InfinitePhysics-c3l
-@%EA%B9%80%EB%8C%80%EA%B7%9C-m2k
+@черныикабинет2
 @nevergiveupanimations
 @%EB%A7%8C%EB%B3%B5%EC%83%81%ED%9A%8C-f5t
 @Stiqnity
@@ -70977,3 +70977,10 @@
 @deadleagueyt
 @krazekhan
 @hfysci_fistory-l6h
+@canadafinest
+@proximityintelligence
+@백창주-o9y
+@eskiturkiye-p8u
+@maniamotera-h3c
+@mcfrost1234
+@무슨잼이야
