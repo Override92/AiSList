@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70932
+! Total Channels: 70922
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -8493,7 +8493,6 @@
 @DustyTrailTales-y5z
 @battlefield.history
 @wildamericadocs
-@unseendarktime
 @Goodwin_Reconstructions
 @HistoryandLegends-UnitedStates
 @callahansWildWest
@@ -14355,7 +14354,6 @@
 @BritishFoodBlogger
 @heiseilover
 @HeavenLightYT
-@yunicornaiPiMPrivateAuditor
 @aiopenzen
 @tenembaum.mookie
 @CapObservatory
@@ -27372,7 +27370,6 @@
 @combatcore-r3l
 @SonarMai
 @theCrazyHuntr
-@TheUnbrokenKeel
 @HavocHomestead
 @MayhemMesa
 @JohnBrowningFan
@@ -33475,7 +33472,6 @@
 @TheCuriousFiles-u5f
 @WW2TechnicalFiles-n6c
 @ByAxiomFiles
-@BorderlineFiles10
 @38thparallelfiles
 @CourtroomShockFiles11
 @HomeroomFiles
@@ -33487,7 +33483,6 @@
 @Autofilesyt
 @AmericanJusticeFiles
 @DominionFiles1
-@IronFilesHistory
 @evidencefiles-i9d
 @JapaneseGhostFiles
 @MAFIASECRETFILES
@@ -45727,7 +45722,6 @@
 @AnimatedFilmTales
 @brokebraineconomic
 @3DpolyFilament
-@EnglishTimeValut
 @MoneyMatrixs1
 @TheCashflowAutopsy
 @mamakids-u2r
@@ -45735,7 +45729,6 @@
 @GetExplainedFast
 @Nooneisstupid2026
 @CasuallyGeopolitics
-@Duskfall-history
 @TheWhimsyWorld1
 @MacroIntelOfficial
 @MastiIndianHacker-n7z
@@ -45798,7 +45791,6 @@
 @SoldierSecrets
 @TRYK6
 @dutchkesslertactical38916
-@DuckVibeMusic
 @DorineBumatay
 @TonyDempsey-d7u
 @BritishBikes
@@ -45823,7 +45815,6 @@
 @EPICAILAB-f4r
 @FenomenaFilmsAI
 @enigma-ai-productions
-@rivethd
 @MadeinDavid
 @blissyinfinityAifilms
 @Thewholesky
@@ -45843,7 +45834,6 @@
 @DigitalAlchemyChannel
 @aimotionhub.official
 @MythicAIStudio1
-@VHSRealms2000
 @sceneberrystudio
 @MoviesStyleStudioEnterta-sz7bx
 @cosmicnightmares123
