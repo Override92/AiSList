@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70743
+! Total Channels: 70742
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49045,7 +49045,6 @@
 @AFRORENIA
 @TheCutOffs
 @annapaulafreitas
-@NovaFrame-z2t
 @UniquesAbility
 @Afro-KoreanStories-y2u
 @DrawnCosmos
