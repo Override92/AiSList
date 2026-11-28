@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70904
+! Total Channels: 70894
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9379,7 +9379,6 @@
 @Mysteryhistoryforsleep
 @Bites-Of-The-Past-p7d
 @HistorysEnigmaOfficial
-@Sleep.and.History
 @InterestingHistoryDaily
 @OfficialBoringHistory
 @WhisperingHistory29
@@ -12312,7 +12311,6 @@
 @Top5_ranks
 @Dylan.Prescott
 @JohnPeters-n8j1d
-@ViralVault-f4e
 @Rezero868
 @aaronmckinnon6639
 @Daily.Dose.Ring.Doorbell
@@ -14649,7 +14647,6 @@
 @oracaoemmelodiagospel
 @DoorbellDogDiaries
 @CaughtOnMyDoorBell
-@DoorbellAi-i1q
 @podcastshorts-sg5gp
 @DopamineFactory_YT
 @Idealsmaker
@@ -28463,7 +28460,6 @@
 @Messagefromlightangels777
 @BibleSimplified-0
 @RiseWithGod89
-@ThroneSignal-e9c
 @lightofislam3421
 @faithfuljourney96
 @WisdomBeyondWords-x3g
@@ -39425,7 +39421,6 @@
 @mindlinelab
 @HomeTech_review-c4i
 @MeisterHorstWerkzeug
-@AhmadAhmad-k2v8i
 @TechTutoring0
 @SteelSymphony-m6o
 @ECLIPSEVANGUARD-c8h
@@ -39457,14 +39452,12 @@
 @calmajazzlounge
 @AlenaMercedes
 @OutofFrameUSA
-@Canhsat11
 @SymphonyOfElyndra-123n
 @INFERNALRIFFS-i6p
 @SmoothJazzMoments-u7t
 @ItsWhyVerse-YT
 @BuriedDramaStories
 @Markus2.00
-@YourWealthStory
 @LiamsRevenge2
 @NovellaLove-d1r
 @fameshah-x5k
@@ -39585,7 +39578,6 @@
 @CellMemory
 @WalterNorthwood
 @AncientHuman64
-@ZenGalaxyHFY-r4z
 @ModernGadgetScout
 @CuriouslyHumanExplains
 @layertheory-k8n
@@ -39649,7 +39641,6 @@
 @ElisaYoderYT
 @pablowithapen
 @ElapsedYT
-@alexmercuuk
 @DeutscheTechnikgeschichte
 @TheFourQuestions
 @BeforeUsTribe
@@ -46480,7 +46471,6 @@
 @comerciohistorico
 @ch46jc
 @MoneyStickman-l6b
-@WWIIHIROSHIMA
 @FreedomFinance-US
 @MoneyCode-k6e
 @TheWWIIChronicle-v1f
