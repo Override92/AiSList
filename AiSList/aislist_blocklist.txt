@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70753
+! Total Channels: 70743
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -48592,7 +48592,6 @@
 @StrangeUpgrade
 @AfroKoreanStories-TV
 @KrisszFilms
-@AfroKoreanRomanceHub-v4x
 @Sticklore-v3l
 @HopeStickss
 @SONAnotherLife
@@ -48998,7 +48997,6 @@
 @watIFAnimations
 @africanstories42
 @MiltonOnHardMode
-@HFY_Chronicles_2X
 @bloxrush41
 @NebulaFrequencyOrbit
 @MikaLOL02
@@ -49041,7 +49039,6 @@
 @UnstoppedWhatIf
 @LaFranceauquotidien
 @Contradoxxa
-@AFrontierSoul
 @NobodyLeavesTV
 @AfrokSeoulStories
 @ImagineSiTu
@@ -49087,7 +49084,6 @@
 @africarising-y4j
 @whyzeroone
 @handmadecraftshere
-@Afrobeat-Energy-2026
 @MiloWhatsit
 @HelioBueno-l2o
 @onlyNYGfans
@@ -49251,7 +49247,6 @@
 @Final_Sight
 @Learn_with_Jesse
 @Geodudex
-@Mr.Doomsday2
 @Map_animationX
 @theoanimationofficiel
 @KHDailyEnglish888
@@ -49303,7 +49298,6 @@
 @REVELVEXUniverse
 @Tidehold
 @BeforeTheLogoTV
-@grandpaearlsgarden
 @BentinhoExplica
 @BeyondFlameStudio
 @TimeRetrievers
@@ -49423,7 +49417,6 @@
 @TheProudSalute
 @workbotstudio
 @moshimoshowa
-@EchoRealmStudios-d8z
 @DayTwenty-Nine
 @aviationintelligenceofficial
 @interludeai
@@ -49514,7 +49507,6 @@
 @SurviveBetter1
 @MeloTraxAI
 @TheCapitalAnatomy6568
-@AJITAIASMR
 @MountainManInTheWest
 @ded-ai
 @andrei_rockfabric
@@ -60128,7 +60120,6 @@
 @human-psyche2
 @doneliashistoriasaloido
 @vyron_z4
-@forgottenlives-o3h
 @nuclear-verge
 @comodiablosfunciona
 @vontaindaniel1
@@ -60233,7 +60224,6 @@
 @AIKiddoSmilesShorts
 @EnkayTheStoryTeller
 @CookingwithVaniya
-@UltimusAI
 @FuturelsAI
 @Mukeshshorted
 @EduPlayWorld-1
