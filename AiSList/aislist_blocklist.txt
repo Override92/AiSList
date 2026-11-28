@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70724
+! Total Channels: 70714
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -49692,7 +49692,6 @@
 @PsycheofPower-b7n
 @ManhwaLast
 @MI-Official
-@Gridandglobe
 @ScienceofCookingg
 @SoulFlowLife
 @OutdoorLivingStories-r6v
@@ -49743,7 +49742,6 @@
 @Howitsmake-w6e
 @ForgedAmericaTV
 @Chadexplains-u
-@%EC%8B%AC%EC%9B%90%EA%B5%B0
 @HarryExplains-h6h
 @toasterstories-k7n
 @THAIARENA-q3f
@@ -49836,7 +49834,6 @@
 @InnerPeaceAmbience-26
 @vital_blueprints
 @Cenchtech
-@DRLIHEALTHHUB-l8d
 @Unerkannt-f9j
 @FringeLab-v6t
 @ReviveMotors-g7e
@@ -63158,7 +63155,6 @@
 @globebyte-30
 @slavikygang
 @さと旅
-@심원군
 @이필주-x7q
 @차홍범-b6f
 @냥투게더-e5x
@@ -63171,12 +63167,6 @@
 @tellsvidetionary
 @ElonExplainedupdate
 @TheHiddenSecrets.online
-@GoldGallant-r3g
-@GoldLegacyX-v1e
-@GoldConsort
-@GoldNexum
-@GoldAureCrest
-@GoldJardin-v7i
 @GoldOptimist
 @GoldVittoria
 @GoldExalto
