@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71108
+! Total Channels: 71105
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -665,7 +665,6 @@
 @aistoryr.k-5.0
 @furrytalesnetwork
 @meowtationtv
-@aimeowtv25
 @strugglingpaws
 @callmesoren-t8f
 @magicmeow2
@@ -719,7 +718,6 @@
 @animals_aistorys
 @funnyorangecat-o1q
 @pluffymakes
-@dogverse-z4q
 @babywithtinypup-0829
 @the_four_friends-w5e
 @bossypaws
@@ -20820,7 +20818,6 @@
 @RomeoEpicAnimeMusic
 @RomantasySleep
 @crownlight_studioai
-@thelostpages-x3x
 @rainynightpiano-m6y
 @duinosecrets-v2
 @kaelofficials
@@ -32535,7 +32532,6 @@
 @PopFlickShorts
 @Blackswan00-e3v
 @Airage88
-@Nenea-a5b
 @dudufitme30Tv
 @MapocaIypse
 @CanadaTimeline-b9x
@@ -71124,3 +71120,4 @@
 @newmexicofiles
 @nigeriaonrecord
 @belowtestdepth
+@iserieturque
