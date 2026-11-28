@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70658
+! Total Channels: 70668
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70674,3 +70674,13 @@
 @UntoldTalesofHistory9
 @brunelvissGamesEN
 @LaHa-w6g
+@BuildNarrate
+@jacqueleeg
+@SilviaBudapest
+@BehindTheGatesYT
+@ParrotTalks-q9n
+@silicondork
+@PrecisionCraftASMR
+@concretepowertv
+@TheBassMixx
+@Cruzing-Danation
