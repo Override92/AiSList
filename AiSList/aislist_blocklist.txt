@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70961
+! Total Channels: 70951
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5258,7 +5258,6 @@
 @HOAWhisperTales
 @englishstory-b9d
 @CraziestHOAMoments
-@StoriesOfHOA
 @karenstories2
 @InsaneHOAMadness
 @HOABoardroomBattles
@@ -11083,7 +11082,6 @@
 @ArmyWings-e2g
 @USHistoryChannel
 @WartimeMilitaryPodcast
-@TheForbiddenVault-tv
 @D_m_Y_00
 @AlexBestDigital
 @NicheNotFound
@@ -18028,7 +18026,6 @@
 @secretromance123
 @HFYSolarArmada
 @TheMoonlitInnStories
-@SHESHELEYANA
 @BardicSymphonyNS
 @LunarLore-v7m
 @lore2RPG
@@ -38795,7 +38792,6 @@
 @FlightParts-z6f
 @AbsurdlyLoaded
 @historyofordinary
-@hunterosadciw
 @LetsThinkForOurselves
 @mysteriesofhistory3
 @LuiTale0
@@ -38876,7 +38872,6 @@
 @zyro_hive
 @InWrongShoes
 @machinemindstv
-@worldhistoryforsleep77
 @IsabellasWayMusic
 @HiddenEast_History
 @CurioScope-143
@@ -45659,7 +45654,6 @@
 @WealthPOV-i3m
 @WealthPOVHQ
 @truewealthPOV
-@WealthPOV-s9c
 @Wealthpov_014
 @nextgenwealthpov
 @WealthPOV-0
@@ -58521,16 +58515,13 @@
 @Dailylol-m7g
 @bulletsurprisetoon
 @cricguru_inside
-@Papallax
 @theunwrittencause
 @thelogiclab-r8z
-@ClearSkyReport-b9r
 @ASMRAIRRR
 @OzielMoraes-n4z
 @Demokid10-xs3rj
 @VisionService-y8d
 @LoreKeeper-u5n
-@yaoyaoxiao-d9d
 @user-UnknownAuthor
 @Mrphat18-nc
 @BalaManhuaRecaps
@@ -58581,7 +58572,6 @@
 @TomAndJerryExplains
 @KeeperAmosWren
 @Lacad%C3%A9mieF%C3%A9line
-@Earthbio1
 @Synthesis_HQ
 @short_hacker_news
 @evren-77
