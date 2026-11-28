@@ -19,7 +19,7 @@
 ! - Community votes indicate probable AI usage
 ! - Awaiting additional verification
 !
-! Total Channels: 1384
+! Total Channels: 1385
 
 ! Entries:
 @PapaMeat
@@ -1406,3 +1406,4 @@
 @FowlersWarRoom
 @OnSceneFilesHQ
 @Ocleg
+@LowResShortsYT
