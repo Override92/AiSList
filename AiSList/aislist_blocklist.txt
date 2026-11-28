@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70658
+! Total Channels: 70648
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -13725,7 +13725,6 @@
 @Mortal-Saga
 @TallTalesRecap
 @Timbertimetv
-@AussieProductsUncovered
 @kirchnershipman
 @LumosManhwaRecap
 @LC666ManhwaRecap
@@ -21147,7 +21146,6 @@
 @hellbreakermusic
 @abcrimeinterrogation
 @david-h9m6y
-@kanizcreative
 @westsidegroovesradio
 @thepsychspot
 @justtryderr
@@ -24473,7 +24471,6 @@
 @CineVerse-AI-b9s
 @AILifeStory-n3e
 @MovieAi-official
-@UnfinishedLab
 @Ai4TheGood
 @AIUNIVERSE111-d4l
 @AIMoviePodcast
@@ -24687,7 +24684,6 @@
 @BlitzTransform
 @The2DTake
 @Artintmechanics
-@AISTUDIOREX
 @JaduiKissatv
 @cineforgeai-w2v
 @cinelutionofficial
@@ -25396,7 +25392,6 @@
 @LearnwithSkyofficial
 @abidiyssin
 @QuantumSilkRoute99
-@NeoVasquez-f7v
 @LumiBaby-baby
 @nguoithanhcong1991
 @StoryCinder
@@ -26875,7 +26870,6 @@
 @OperatingLogic
 @QuantumUnsealedyt
 @NextGenProduction0
-@WWIIPOWFiles
 @TrueNorthInvents
 @China_Engineered
 @AnvilOfVictory
@@ -29260,7 +29254,6 @@
 @SinfulEmpire26
 @bingeonai
 @TheK9Oath
-@MilitaryOutlaws
 @EchoVerseStories-f8h
 @FarmerValleyStories
 @PfotenvollerMut
@@ -29273,7 +29266,6 @@
 @HmmFish
 @TheStoriesofHope-j2v
 @SyntheticHearts-h1v
-@CEOEnamoradoTV
 @Ajeet-Stories
 @RoyalStoryverse-e9k
 @JusticeTales-j4p
@@ -29353,7 +29345,6 @@
 @aistories8515
 @AiStoriesHindiTv1
 @HeartTaleAIStories
-@AIStories-b8c1k
 @Ai-stories1282
 @ShanzayKhan-i5q
 @DeinSongWirdWahr
@@ -65900,7 +65891,6 @@
 @AI_Contents_JP
 @the_modernminute
 @gatosvideos-IA
-@SymphonicSteelKamilRak
 @Bijaylakhua-w8g
 @Roman_Notebook
 @AilucidMind
