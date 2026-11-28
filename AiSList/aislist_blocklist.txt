@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70793
+! Total Channels: 70803
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70809,3 +70809,13 @@
 @EchoesOfTheCross-e2h
 @GoldenBolero-k4o
 @PersianJazzLovers-i8g
+@OneSpiritSound
+@AncientAwakeningAudio
+@ManhwaVerse-c4r
+@TheHiddenStructureChannel
+@plotjutsu
+@High-octanedrama
+@HotMiniDrama777
+@LuxuryCarRepairWatchHQ
+@talesbyjanny-2
+@Ani_Prestige
