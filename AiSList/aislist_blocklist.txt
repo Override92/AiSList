@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70676
+! Total Channels: 70666
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7962,7 +7962,6 @@
 @explosionoflaughter.56
 @chengai-q4x
 @famechronicles75
-@jumperstales
 @iubireinvestulsalbatic
 @szeptpamietniki
 @miloscnadzikimzachodzie
@@ -23902,7 +23901,6 @@
 @AIAdventures4
 @valog.ai.234
 @AITimeTravelerSkyler
-@ChronoVoyagerAI
 @HistoryVlogHub
 @HistoryAI-y4d
 @AiVlogEna
@@ -26481,7 +26479,6 @@
 @NovaraRecords98
 @CueMeInBeats
 @businessontrial
-@nocticosm
 @mx.fragility
 @historyunderfire1
 @OnceEverywhere-m5m
@@ -44589,7 +44586,6 @@
 @texaspulse-yt
 @kron-3d-tv
 @speaksphereindia
-@afterwordstales
 @factsdoraaeng2
 @holyauthority-o9s
 @oreo_the_cat-123
@@ -51060,7 +51056,6 @@
 @ShriSanhita
 @AayeshaVoiceYT
 @WhyBoxWorld
-@SHFA_Fan_Club
 @TheEnergyCulture
 @SaakGMusic
 @AiToonPramod4X
@@ -64309,7 +64304,6 @@
 @Velmind-1k
 @중년애창곡
 @kidsdreamland-z4m
-@THEPHILOSOPHYCODE-d1j
 @ItsDaleDingleberry
 @TristanTrexler
 @KolboAI
@@ -64582,7 +64576,6 @@
 @Mia-d5o4k
 @QuickAICravings
 @JishanwithAI-o3o
-@Akshayflimstar
 @aitimelapsebuild
 @VeggieToons_46
 @Aistorysvid
@@ -64618,7 +64611,6 @@
 @PlantLabAI-08
 @AhteshamTechAI-x3i
 @meeruchesedhithappu_ai
-@minifoods28
 @Lovekushvlogs-57
 @TheBibleByAI
 @VIRAT-video637
@@ -65475,7 +65467,6 @@
 @madztimetraveler
 @Cookwithrumanabir44
 @O-AIFilms
-@AITimeTravels
 @Salikaianimation569
 @Eliteaivideo
 @AfricanStoryWorld-l7z
@@ -65644,7 +65635,6 @@
 @PLANTPOWERGUYVLOGS
 @Rudraai4814
 @karemasyon
-@BibleMomentsAI
 @guuuu1119
 @kingjames-n
 @MgmFamily21
