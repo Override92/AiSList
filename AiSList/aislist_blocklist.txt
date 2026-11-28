@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71061
+! Total Channels: 71051
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3370,7 +3370,6 @@
 @SoulStories-c8y
 @BookFlickShare
 @QC-FamilyStory
-@AlexsRevengeDramaine
 @AncientBloodline1
 @truejusticeofficial
 @RevengewithTruth
@@ -12988,7 +12987,6 @@
 @Djgivethanks
 @NogmanStudios
 @Smokes_fj
-@RNJunior-c8z
 @mohamedazim5701
 @YoungAshes-nov29
 @sadoart2026
@@ -53421,7 +53419,6 @@
 @Areha-l1s
 @MimiMotorASMR
 @DreamChroniclesStories-l7w
-@StoryHorizon-k8t
 @OldWestRoad-q6z
 @OldWestRomanceTales-t4o
 @BetweenTwoWorlds-h2a
@@ -53487,7 +53484,6 @@
 @MarriageSecretsDaily
 @DukeLoveSaga
 @into_the_infinite_spacetime
-@Rose-DramaVoir
 @DramaSUHO777
 @Silentrevengewithmason_vnc
 @AsterDrama
@@ -53545,10 +53541,8 @@
 @%E5%AE%88%E5%A4%9C%E5%8A%87%E5%A0%B4TV
 @%EB%A1%9C%EB%A7%A8%EC%8A%A4%EA%B7%B9%EC%9E%A5
 @NotMilkNeverMilk
-@TerranZenithProtocol
 @TerraFuryLegends
 @StillMorningPiano
-@RiseFromUnfairFate
 @WesternZenith9
 @SeasonalSanctuaryTV
 @ShieldofSol-x2b
@@ -53569,7 +53563,6 @@
 @WesternFables
 @theancientambient
 @DreamDramaStudio-g6g
-@ArchivesOfTheLastDawn
 @TheMateoExplains
 @SlowScienceLab
 @celestialstuffYT
@@ -53577,7 +53570,6 @@
 @HearthsideStoryClub
 @MoonveraTales-h4l
 @WanitaPerkasaDrama
-@dustyrose456
 @aimoney-c4b
 @MidnightMoodNetwork
 @AIjoke-s9q
@@ -53620,7 +53612,6 @@
 @MidnightChicagoSoul
 @Danny.ai6M
 @SilentAdagio
-@futurestories-z3f
 @ReggaeNewEra
 @Manabentertainmentofficial
 @royal.insider
@@ -53848,7 +53839,6 @@
 @Theanimationai0
 @SIXTHSENSE-q5p
 @Mary_Aicreator
-@MartinKesslerBuilds
 @FRUITPKYA
 @worldwidelocalmaps
 @VybeAI-s9k
