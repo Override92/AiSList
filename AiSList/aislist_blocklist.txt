@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70970
+! Total Channels: 70962
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4401,7 +4401,6 @@
 @HeavenTestimoniess
 @RedSignal0t
 @CapitalCraft-f8r
-@FinanceBeyondBordersOfficial
 @stevemakemoney
 @hoaevidence
 @HOAvsHomeownerStories
@@ -17982,7 +17981,6 @@
 @SymphonicPowerMetAI
 @FutureForgeSciFi
 @20CentLab
-@MiniStories_001
 @MorphitectAI
 @ASMRVehicleRestorationHub
 @AmanSharma-gx1zm
@@ -20927,7 +20925,6 @@
 @IronAcreStories
 @FarmLegacyStories
 @NhuGiao-q7x4x
-@HenryFinance-US
 @8HUA
 @kannadaaichannel
 @perioddramaa
@@ -38593,7 +38590,6 @@
 @WatchTheVera
 @EchoesofAvalon-g4r
 @TheCuriousFile-k1i
-@Jokerville-k8w
 @FinanceAnalytics1
 @SatisfyingScienceOfficial
 @Spaceandbeyond515
@@ -38627,7 +38623,6 @@
 @zack_history
 @innerworkings-j6u
 @CalmAmbientSounds7
-@tocabocadaisi
 @TheSecondCountdown
 @DeepRootsHistory-c2d
 @PrimordiaMind
@@ -38678,11 +38673,9 @@
 @usacrimevault360
 @CityEons
 @unclefinanceyt
-@MicrolightCinema
 @TimelessHistory-T
 @HardwareNexus-g9c
 @POVPath
-@AcornTheory-88
 @HistoryAfterMidnighttv
 @WomanRiseTV004
 @Quiet-History-Storytelling
@@ -58141,7 +58134,6 @@
 @DesiGhibli-p8d
 @Mortyeditz
 @Ghiblicookingstory
-@blafieldJessick
 @Animation_kids_story
 @AIChefStudio-t1z
 @DoorbellDiariies
