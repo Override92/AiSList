@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70984
+! Total Channels: 70974
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -17895,7 +17895,6 @@
 @Jenniefolktale
 @SweetestAfricanfolktales
 @Farvi_storyteller
-@SiliconStories-j5t
 @DerelictDreams
 @animestarrecaps3418
 @StorylineEnglishOfficial
@@ -17912,7 +17911,6 @@
 @CrimsonStoryline
 @NoobManhwa-b5e
 @OtakuEx90730
-@MoneyLogicUSA
 @TheoreticallyMedia
 @AmaraPictures
 @techisrail
@@ -38481,7 +38479,6 @@
 @TapriTapes
 @cozyroomambience-g8p
 @ternakyiti-e8s
-@PregnantwithSecretsUS
 @HealthKnowledgeLab-g3v
 @AmosStoltzfus-l4b
 @MidnightThoughts-h9g
@@ -38500,7 +38497,6 @@
 @HypeRaker
 @ReAImaginedNewoldsong
 @NightPulsePodcast
-@SilentJusticeTales-r2n
 @MyCalmFlow
 @barsandriffs
 @MidnightGroovesUnplugged
@@ -57025,7 +57021,6 @@
 @SR_VisualWorks
 @GappuKaAdda
 @gulgultv-ai
-@TimelapseConstruction84
 @VoxlarkAi
 @MagicAIKitchen0
 @VeerToons04
@@ -57083,7 +57078,6 @@
 @MiniKitchenAIy
 @ChefBella-01
 @RNVisionFilms
-@PRINCEVERSE-i9f
 @AIKitchenWonders
 @AIverseIndia-g7k
 @WorldPowerInsider
@@ -57168,7 +57162,6 @@
 @SilentGhibliAI
 @U%C5%81%C5%A6%C5%82D%C9%84N%C5%82Y
 @AIStoryVerse867
-@AIStoryKids-m2w
 @AIFilmyWorldYT
 @JaiprakashKumar-i5o
 @drama_ai4kn
@@ -57282,7 +57275,6 @@
 @BuildMagicAI-7A
 @PeelVerseAI
 @VeloceAIStudio
-@carunboxingvideo4.0
 @OrangeFluffyChef
 @Talkify2026
 @AIKidsStory-r4z
@@ -57350,7 +57342,6 @@
 @Mcxtonic
 @echomorrowmusic
 @Videos-Viral-Bp
-@TinyFeastLab-r1g
 @goodpositivevibes-ai
 @AiPotato.official
 @uniquecooingwithai
@@ -57734,7 +57725,6 @@
 @Siku1203
 @fruit.toon.2
 @AncientEyesHistory
-@AI_Time_Travel
 @minichefkadhaba
 @Skarggung
 @SoraAiJunk
