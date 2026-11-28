@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71007
+! Total Channels: 70997
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3915,7 +3915,6 @@
 @KarenHQ-k1k
 @HOAFallout-y3f
 @OvertheFence3
-@HOATALESSTORIES-w5y
 @PolicyHOA
 @HOAShocks
 @HOAUprising
@@ -3923,7 +3922,6 @@
 @Maidens_Payback
 @HEARTBREAK-STORIES-CHANNEL
 @HOATalkYT
-@shakarali-u9l
 @HotlineKaren911
 @BATTLEHOA
 @TheUSAKarenShow
@@ -3960,7 +3958,6 @@
 @LastWordsYouTube
 @WW2ChroniclesWithAndrew
 @VoiceofWar0
-@WW2ForgottenVoices-q5m
 @ww2-insiders
 @DavesDividendLab
 @jamelshabasmr
@@ -3980,7 +3977,6 @@
 @GizzyTech
 @SimpleFinanceTom
 @MarbleZoid_world
-@HerocamAI
 @TheHiddenEconomyTV-h8f
 @MotherFolktales
 @FineMetalsOfficial
@@ -13030,7 +13026,6 @@
 @SonovelleHouse
 @MuzikBot-fm
 @BEATBYTE001
-@hossons
 @technovideossuman3208
 @AI_Music_channel2024
 @HindiBassHubAI
@@ -16054,7 +16049,6 @@
 @Moneymadesimpleeee
 @FinStoryHindi
 @moontimestudioai
-@cozystudio-beats
 @cozyfolklore__u
 @aiknowsitall
 @terrasecrets26
@@ -16985,7 +16979,6 @@
 @WorldwideGadgets01
 @J-RePOP
 @Curiosity-Orbit
-@combatgridofficial
 @corazondebolero-1992
 @AnishaMovieReview
 @DramaticLifeStories-q4y
@@ -27144,7 +27137,6 @@
 @thepast-k9f
 @Stickuria
 @TPDossierYT
-@TheMissingMenu-k7r
 @StickifiedExplains
 @TheCurio-g4j
 @Ancient-h9i
@@ -27199,13 +27191,11 @@
 @TopProduct-hf2je
 @Top5BestEver-r8b
 @VacuumCleanerReview-d4o
-@ProductOverviewWorld
 @BestForEver-cfb
 @GadgetShopping-trgh
 @ExploreEverything614
 @TheOutboxFinds
 @BewertungMeister
-@ProdottoItalia
 @WizzRev
 @WareWahrheitDE
 @DettagliProdotti
