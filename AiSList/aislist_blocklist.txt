@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70868
+! Total Channels: 70858
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -39841,8 +39841,6 @@
 @MarieRizzoKitchen
 @youmightwonder-o3d
 @DinhLongLxr
-@TaniaAnalysis
-@ColbertStephen-j5l
 @THEBLUELAB-01
 @BetrayalThreads
 @cumbiamutante
@@ -39931,7 +39929,6 @@
 @CarReviewshub
 @SnoopyMapleJazz
 @SteelHorizon-i9y
-@ch35jc
 @Faunasticks
 @TheShadowwArchives
 @animebattlemusic
@@ -39940,7 +39937,6 @@
 @ForgottenCircuits-b7u
 @TalkingSasquach
 @NextNow-1
-@QuietRevengeTales-f5b
 @HiddenStrength1
 @gianghomom1111
 @mmureviews
@@ -39984,7 +39980,6 @@
 @OriginToEmpireUS
 @TATANKAvideo
 @BuiltByThemAll
-@RustToRoad28
 @RanaSohaibTalib
 @ThePremiumJourney
 @MrsDorisLunchLady
@@ -59153,15 +59148,12 @@
 @sci-fi-neon
 @TheHFYParagon
 @HumanityStarfall
-@DragonboundHFY
 @miyar200279
 @CosmicWarStories
 @hfy-jeff
 @scifiworld2.1
-@GianKh%C3%B4nggianth%E1%BB%9Di
 @smithharris4781
 @ayeshasoniya3194
-@%C4%90auXoad%E1%BB%8Bun%E1%BB%97i
 @GrimwakeSagas
 @CozyVintageOldies
 @rawquietofficial
@@ -59176,7 +59168,6 @@
 @Ataide-c1w
 @Man%C3%ADaMotera-h3c
 @OutdoorOasis-c7n2c
-@ElsieMayor-t1u
 @MrWerkzeuge-g3z
 @SilaCorum-t1d
 @WhylyOfficial-c5k
@@ -59189,7 +59180,6 @@
 @HFYStellarEmpire
 @InfinitePhysics-c3l
 @черныикабинет2
-@nevergiveupanimations
 @%EB%A7%8C%EB%B3%B5%EC%83%81%ED%9A%8C-f5t
 @Stiqnity
 @DesmontandoOMundo
