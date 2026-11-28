@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70657
+! Total Channels: 70658
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70673,3 +70673,4 @@
 @16bitterness
 @bangtanlife-y8e
 @aikitchentadka
+@minecraft-stylea
