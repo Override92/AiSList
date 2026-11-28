@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70848
+! Total Channels: 70838
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2350,7 +2350,6 @@
 @aistory-f6j
 @mdsajibhossen-dv9cv
 @movie_mind555
-@mewwonders
 @bbctopanimalslife
 @cat_family.01
 @orange.cat92
@@ -2424,7 +2423,6 @@
 @bettercalldyno
 @catvideo-t8d
 @rammugaming-x6s
-@zoomiesroblox
 @meoaicat
 @mylovelyaicats
 @theaicatshow247
@@ -2468,7 +2466,6 @@
 @cartoonshorts-z3p
 @wraishorts
 @aicatshorts38
-@cutefunnycatdanc
 @catfunnydance7860
 @cutecatdance-u8u
 @cutefunnyanimaldancewith
@@ -8300,7 +8297,6 @@
 @The1DollarMiracle
 @FieldNote247
 @TheBuriedVault-g2x
-@VitalityProtocol-v3s
 @TheLostBlueprint-q5u
 @RuvenHigo
 @Recessionwarnings
@@ -11124,7 +11120,6 @@
 @ThangLongThanh
 @Susundan
 @EngineeringFailuresTales
-@DayriLopera
 @GermanWarWeapons-s4n
 @History_Grip_DE
 @AnimalMind-h5v
@@ -25795,7 +25790,6 @@
 @zvoidx2
 @ai_zombieFish_ai
 @CinematicByte9
-@aihumorfactory
 @TinyMorphixStudio
 @MiniMunchiesKitchen_11
 @PIXARMINICHEF
@@ -25952,7 +25946,6 @@
 @FruitDramaExposed
 @FruitAffairs1
 @FruitByteAI1
-@FruitDramaTV-o3w
 @Fruit_Films
 @AkhazeAI
 @FruitDramaTV-e2l
@@ -40410,7 +40403,6 @@
 @ChloedeSeine
 @VeraLarosa
 @LuciaMarenne
-@Arronas
 @Sintetika-Music
 @MythicFlame-m3n
 @TS_vlogs-ts
@@ -40631,7 +40623,6 @@
 @OnlyGame-r1s
 @NextTake-v4v
 @CANADATOMORROW-c5q
-@VaultofAges-b8h
 @TrueNorthHub-j7n
 @GrantParker-f7x
 @PaperEmpires-l2k
@@ -59708,7 +59699,6 @@
 @mcrayaistudio
 @AIEpisodes
 @AIVisionLabStudio
-@AIJB-m2d
 @Robloxmontero
 @AIKidsCartoon-0
 @FlicksinFocus2.0
