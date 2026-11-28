@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71095
+! Total Channels: 71085
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2180,7 +2180,6 @@
 @ricoraccoon-1
 @catstory-100
 @aicat_story_u
-@cutebabycat-k4p
 @aicatstory-w9f
 @catsstory-w8g
 @meowaicat-u2l
@@ -2792,7 +2791,6 @@
 @FilmRecapExplained
 @HiddenChefsClub
 @FunFlicker7
-@BoringHistorian-d5y
 @ImaginethePhysics
 @TheTacticalPsychology
 @TheMoneyFilesChannel
@@ -2937,7 +2935,6 @@
 @HenrysStories
 @SilentBossStories
 @graceslovestories
-@PlotTwisttoPower
 @HFYZenith
 @EpicSpaceChronicles
 @HFYRecorder
@@ -12890,7 +12887,6 @@
 @HOAGoneWild-f1g
 @HOATALES-22
 @MackExplains7
-@EliasYoderAmish
 @paul10031003
 @rockpapersong
 @UsAvibE-2
@@ -15942,7 +15938,6 @@
 @talkwonder
 @EvanInvestus
 @BritishSmallArms
-@usmarkettpulse
 @YourStreetWealth
 @BraveWorth
 @MachineSquadMS
@@ -30728,7 +30723,6 @@
 @Ihomas_Folktales
 @Bolasfolktales
 @AfricanSoulsTales
-@quiethistorytales19a
 @AuntyEveningTales
 @Talesby_OD
 @AlphaOmegaTales-us
@@ -30778,7 +30772,6 @@
 @ScaryTalesAnimated-n8k
 @folklore-tales
 @TalesUnsaid
-@KindnessTales-e3n4m
 @RegencyRomanceTaless
 @africantalesbyzimmkle
 @zainifairytales2021
@@ -32721,7 +32714,6 @@
 @AsadLima-o4w
 @AislingLyra
 @Ahnenruf
-@QuantumCoreX-l5m
 @Wolfskald
 @VocaloraMusic
 @OutlawGraceOfficialMusic
@@ -32841,7 +32833,6 @@
 @ManorForgottenLetters
 @AlphaKingSyndicate
 @TheAlphaMoonCourt
-@DarkEdge-m6s
 @EmmaAlpha-l6q
 @AdaezeEsther-y6g
 @desertstormKw
@@ -53129,7 +53120,6 @@
 @insomniacexplains
 @4urinfow
 @futurepredictions-w3o
-@itzcuriositylab
 @oneplanet-n1m
 @christmasradio2027
 @bobdinar36
