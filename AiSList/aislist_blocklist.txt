@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71051
+! Total Channels: 71053
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -71067,3 +71067,5 @@
 @세상별일i
 @живои_атлас
 @幻世引擎shorttv
+@khizartoonsallah
+@montanawayfinder
