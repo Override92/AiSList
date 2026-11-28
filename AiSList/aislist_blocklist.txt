@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71022
+! Total Channels: 71013
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55266,7 +55266,6 @@
 @Nicknick-e9y
 @MerrittGarden
 @moviegeekstudios
-@americanfamilyalmanac
 @MochiiFwends
 @vernonhale33
 @AiMarvel2.0-q6e
@@ -55352,7 +55351,6 @@
 @NixonBoatsCentral
 @auramotion-q5
 @Todaysfoodsinvestigated
-@beastclip_26
 @vicescopesyt
 @steakrealyes
 @WhisperlandFables
@@ -55461,7 +55459,6 @@
 @FruitTales1
 @TheLastAcre-1
 @m1niaturai
-@FultonSheenMessages
 @Mfuture_12
 @slowsleepstories1
 @Kothinakoduku6
@@ -55492,7 +55489,6 @@
 @marketwithley
 @usatruckinsight
 @VillageFamilyVlogs2
-@GlenCampbellStories
 @onlyBananas
 @thesteadyfarmerofficial
 @WeInSeconds
@@ -55532,7 +55528,6 @@
 @Marvelaishorts111
 @ShelterLine543
 @Regan.Hustle
-@SilentRoyalDuchess
 @monkey_aj_offical
 @RealCarSensei
 @FactZone2006-cj
@@ -55698,7 +55693,6 @@
 @StoicWithYou
 @OrcheartSaga-c1z
 @THRevengeMomentum
-@HFYStarfallTales
 @bossbassoriginal
 @chungNguyen-qn6jy
 @WildStates-p4t
@@ -55728,7 +55722,6 @@
 @Scar-Fi
 @DalesGarageTV
 @SilasBoone10
-@FictionZelora-u3h
 @SkincareWithEmiko
 @PobredeJuizo-ofc
 @StatesVison
@@ -55753,7 +55746,6 @@
 @PalaceBeacon
 @TheGalacticHFY-h2x
 @Ahmed-w9w1s
-@shortstorieshfy
 @future-files2026
 @YAMIFM
 @Mark.Calloway
@@ -55857,7 +55849,6 @@
 @EdnaJacksonCooking
 @CurrentOverviews
 @AirportNow
-@WhisperingFrontier-o4k
 @financialrecap
 @EarthsLastStand
 @ZeroKingDrama
