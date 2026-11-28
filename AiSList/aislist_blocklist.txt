@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70782
+! Total Channels: 70772
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -18437,7 +18437,6 @@
 @thatdigitalstrategist
 @CowboyWesternRomance
 @SingleDadRedemption
-@92Stories-003
 @KindTales-v2x
 @DomPełenSprzętu
 @artillense
@@ -18748,7 +18747,6 @@
 @Thewildweststories-h7f
 @FictionalTales-30
 @veil_of_fate
-@VillageFantasyWorld
 @storynovai2
 @AinzAnimation
 @PreciesTales
@@ -21108,7 +21106,6 @@
 @JustAIonly
 @SoftRill
 @plotglitch-en
-@fintechiq320
 @joystories11
 @egyptemeconnue
 @talithakoumbennett
@@ -26327,7 +26324,6 @@
 @Pankajtech2550
 @ANAS-d9w6h
 @MeowTechAI-e1z
-@digitalchef95
 @aishooter00
 @DollyDolly-u4m
 @soralopez2003
@@ -43228,7 +43224,6 @@
 @gensohatago
 @vibecodedmoney
 @WildAI-10
-@BeforeLongTV
 @gwangya_ai
 @forvexdev
 @AJMythicFrame
@@ -43283,9 +43278,7 @@
 @Geldfall
 @Jeppi-AiClassicalMusic
 @SeorinsLog
-@RumiMagicWorld-g3x
 @ZYNTRATV-v9m
-@RiseAndRuinPro
 @AmericaCutOpen
 @DarkrootEngine
 @kpopzone-off
@@ -43302,7 +43295,6 @@
 @KPopMagico
 @AIntReal-ai
 @elilapp
-@MioraVayne
 @drawntofailture
 @NonnaRosa-d5f
 @lunaria._ofcc
@@ -43335,7 +43327,6 @@
 @lyminhdangtran8072
 @RetirementBenefitsOfficial
 @maungayemaoaye
-@Prof.SamizzLab
 @OnceUponaStory-v4g
 @BigBetStories
 @NexusExpedition02
@@ -60093,7 +60084,6 @@
 @dreamtalestudio25
 @REBUILDPOP
 @whatversezone
-@politicsin3d
 @code89files
 @thebackpackguy1
 @aididthat-c4l
