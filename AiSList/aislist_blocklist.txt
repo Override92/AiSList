@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71032
+! Total Channels: 71022
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54831,7 +54831,6 @@
 @AIZone-d7u1r
 @BloodlineSecretsYT
 @letmeknow-r1w
-@AeCastillejos68
 @Ringdoor.ai34
 @SEALDogStories-t2q
 @Mr.StoryTime3D
@@ -54893,7 +54892,6 @@
 @the.edge.daily.miniasmr
 @TheBetrayedParent
 @CinematicStoriesAI-q9w
-@auretail.uncovered
 @%E5%80%BE%E5%9F%8E%E6%BC%AB%E5%89%A7EmpireDrama
 @StoryVelyn
 @goatfun7
@@ -54942,7 +54940,6 @@
 @AnimeCloudkitchen
 @StartingOverStories-f7f
 @Aikidslearningworld
-@PalaceInsightsYT
 @CeraProductionsTM
 @OdysseyRevengeStories
 @ai_emperor_vlog
@@ -54954,7 +54951,6 @@
 @AILifeCreate
 @DangerousHeartsStories2026
 @ai.art.clipss
-@HADramaFlix
 @globalfunnation08
 @MarcyHollis
 @Elaras_History
@@ -54967,7 +54963,6 @@
 @RoboNarratives-br4zn
 @veterantalesww
 @Alpa-movesh
-@TwistHaven_YT
 @bloxfruitclipping
 @ClaysWithJohn
 @Je_thelemirence
@@ -54985,7 +54980,6 @@
 @funnycatvideo92
 @WW2-zulu
 @AIReality17
-@AmberRevengeStory-i3p
 @chillwithkell
 @gunnykesslerprepping
 @AICashflow4
@@ -55006,7 +55000,6 @@
 @AIdoorbell66
 @amishpetcare
 @Mythic.Foundry
-@RevengeRoseUS
 @Latestdramas-5
 @RaymondWhitakerHospital
 @d.kboss9105
@@ -55031,7 +55024,6 @@
 @WarBladeHFY
 @ElliotGoesElectric
 @SnapVibeFails
-@RevengeAllosaurusUS
 @PevitaHistory
 @MafiaSecrets01
 @ViralWowsWhims
@@ -55168,7 +55160,6 @@
 @TipswithChase
 @RayColemanFirearms
 @xari-ugc1
-@science-509
 @yunijuchang
 @Betty_Larsen
 @samuel.cinematic
@@ -55191,7 +55182,6 @@
 @TheRevengeTales-1
 @JoStar-t1f
 @joannahaynal17
-@TheDukesBeloved-n3s
 @rswhoai07
 @EliasProphecy
 @nxni.builds
