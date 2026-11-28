@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71053
+! Total Channels: 71043
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -54246,14 +54246,12 @@
 @craftpena2545
 @PolarRevenge-k6z
 @EarthDocumentary-s9o
-@HlogiLisa
 @StoryVerse-f5i
 @HIDDEN_WEALTH01
 @CaiNaRealBR
 @BuriedPowerr
 @KennyRogersStoryVault
 @MapleVerdict
-@SilentMedicChronicles
 @%E9%8C%A6%E6%9C%88%E5%8A%87%E5%A0%B4
 @JohnMater-i3v
 @LouizChorfi
@@ -54287,7 +54285,6 @@
 @Businessunderstood-q4r
 @MONIKABIRLA-n7d
 @TheWeirdEra
-@Shihab_islam_07
 @ShadowLegacyStories
 @DoorBellAICatch
 @TK-RevengeMomentum-j3z
@@ -54322,7 +54319,6 @@
 @AINightPhilosophy
 @Brain_Fuel007
 @animalsAIlifejourney
-@HarvestHeartTales-u1h
 @MuhammadNaeem-b8f
 @PreparedAfter60
 @mixart_ai
@@ -54420,7 +54416,6 @@
 @AmericasFactoryYears
 @MustafaNaaz-v6x
 @OusmaYonlos-j1f
-@aayan_ai22
 @ColoradoRevealed
 @GizmoTrailYT
 @NorthernBuild
@@ -54462,7 +54457,6 @@
 @franksecuritytips97189
 @Fruitcitydrama
 @LinneaHolm8
-@TinyBiteStudioYT
 @Calitv-j5
 @TinycookKitchen
 @CalmRevengeTales-v2u
@@ -54510,7 +54504,6 @@
 @Gritandmortar
 @layZ.interviews
 @FathersReckoningStories
-@Aifoodstory-h3v
 @GrandpaLifeTales
 @jamezdfilmz
 @WadeTucker
@@ -54553,12 +54546,10 @@
 @Noor-e-Hidayat1-N1H
 @AmericanWarChronicles-w9i
 @lexeelove9863
-@MafiaCalden
 @lifewithpammy9
 @Mariohollandian
 @NYZOVRA
 @DramaKing-z8x
-@ChildCare16
 @ConsumerClues
 @Thefatheroffact
 @GrahamPearce12
@@ -54574,7 +54565,6 @@
 @WWII-Naval
 @charisma.prompts
 @LowEffortExplained98-3z
-@Niranjan-kumar287
 @BeyondtheAisle-c3r
 @WmemeGuy
 @DaMiaoDrama
