@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70762
+! Total Channels: 70752
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -19623,7 +19623,6 @@
 @revivalwindswrshp
 @HighFalconMusic
 @christhope7
-@adwaarstudio
 @TheDreamWeaver-m6o
 @HeavenlyDepths
 @HOLYCINEMA-m5j
@@ -19712,7 +19711,6 @@
 @courtreviewusa
 @bytesizedexplainer
 @CasuallyFinance
-@OverTales02
 @ProfessorPrimalOfficial
 @PsychToonsHQ
 @Lumicus-yt
@@ -19720,7 +19718,6 @@
 @ThePaybackOffice
 @PrehistoricJoeYT
 @britain-no4zv9ey4b
-@TomAstroLab
 @CanadaWarTales
 @Dronescapes
 @Quiet_Pluto
@@ -19766,7 +19763,6 @@
 @SimplePsychologyTeam
 @Mimousic
 @MilitaryBlue-Official
-@TheEnkiCodex
 @BAD_DEAL1
 @HumanOriginoTA
 @railwayrelics
@@ -34803,7 +34799,6 @@
 @ChillMorningMusic-j5b
 @tonightunfiltered
 @aicinemasakamoka
-@DeepMusicRadio-u2m
 @AdlerPierce
 @lovehub-channel
 @PurpleVelvetRecords
@@ -34827,7 +34822,6 @@
 @rlx_CrozyJazz-x4o
 @AfroPulse-x7t
 @Zeravane
-@OctoberNocturne
 @prodleviii
 @Thanghost-y2k6j
 @LatidoNoir
@@ -34955,7 +34949,6 @@
 @thepyromusic_official
 @FrostbornAnthems
 @Eternalveil-e5j
-@Celtic_Fire
 @RosainBlue
 @TenoriaSunriseUniverse
 @THRENOVAR
@@ -48199,7 +48192,6 @@
 @Afro-kPassionTv
 @hiddenafricanpower
 @exploreafricanmythology
-@TalesofTheSpeakers
 @afrokoreanromancestories
 @AfroUnderworldEmpire2
 @KoreanAfroStories
@@ -48234,7 +48226,6 @@
 @RacismNetwork
 @HighlandLullaby
 @AstryxTrance
-@tranthanh66-06
 @2KCover
 @LIRIONOIRMUSIC
 @crave-you
@@ -48313,7 +48304,6 @@
 @QuantumFlow-t6k
 @AfroKStoryverse
 @m%C3%A4renwerk
-@AfroVibeCovers
 @AfroKlovestrings
 @Bianca-The-Bard
 @AfricanRuthStories
