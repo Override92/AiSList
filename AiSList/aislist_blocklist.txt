@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70962
+! Total Channels: 70961
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -12065,7 +12065,6 @@
 @programistaart
 @gentlesingularityrecords
 @DallasMcMillan
-@Auronis-777
 @qmiir
 @metaflow2220
 @1hxsx
