@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70743
+! Total Channels: 70733
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -6123,7 +6123,6 @@
 @electrojazz-machine
 @inst-a
 @jazz_as_objet
-@madoromiwagaku
 @wo48bgm
 @midnightcitypop
 @mugiwave
@@ -60321,7 +60320,6 @@
 @AIcarvingstudio
 @AIChefstories-f
 @AIWorldoffical12
-@Synthryx.X
 @GenSwapAI
 @MamaAfricanAiStories
 @AnimalDreamsAI-p2f
@@ -60855,7 +60853,6 @@
 @animekitchenking
 @RiseMusic01
 @cookverse-d3c
-@HemrajKumawatVlogs
 @AfricanTalesTV13
 @ChefNovaKitchen114
 @Hammu_vlogg
@@ -61304,7 +61301,6 @@
 @FoodChallengeWorld-p9p
 @MiniAutoWorks-k1p
 @fruitzerostories
-@pixer_style_3d_animation
 @WildAIFilms
 @AI_STORIESYT1
 @AI-filmsandseries
@@ -61964,7 +61960,6 @@
 @little_foodie13
 @AIChefcooking-w8s
 @MrFantasyVlogs
-@RituNDabhi
 @GhibliCookingTales
 @YanishaTomar
 @oldgolddays23s
@@ -62326,7 +62321,6 @@
 @AILifeStories-q8e
 @karyabangjumawa
 @KulguliAI
-@3D_Master_1
 @JantiCabbar
 @ParallelWorldsStudio
 @DocxCreations
@@ -62639,7 +62633,6 @@
 @DiluAi
 @Zunibuild
 @AISTUDIOSAZERBAIJAN
-@Studiotoons-zone
 @Towseef56
 @atlas_ofages-s1n
 @FitFacts-04
@@ -62659,7 +62652,6 @@
 @DreamNFrameStudios
 @nipintiprasaoffcial
 @stryxai
-@Ghibli_ai_story0312
 @ailifestories34
 @NikS_sigal
 @BajrangbaliAIvideo-x1c
@@ -62670,7 +62662,6 @@
 @DianaAiphoria
 @RyanLouder
 @ViralX-s6k
-@ZubairKhanofficial09
 @khanbhai_2208
 @ThePanwarShorts
 @EchoesofSerbia
@@ -62687,7 +62678,6 @@
 @BiBLECRYPT26
 @VerseAuraBible
 @MK2_MANISH_95
-@Amnakahnjhc
 @Mr.Gabriel-Jesus
 @Daine_Muddaa
 @MiniVerse-z
