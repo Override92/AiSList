@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70942
+! Total Channels: 70932
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -95,7 +95,6 @@
 @RosendoProhaska
 @skillman1507
 @ai_kartoons
-@Animalartlab
 @KhanOfficialTK
 @funntastic_AI
 @fantasticAI-IA
@@ -5466,7 +5465,6 @@
 @andrzejoodkrywca
 @AIEvolutionVisions
 @AncientSurvivalChronicles1
-@The.ancientworld
 @whatiflabsoficial
 @QuietScienceChannel
 @psy_kye
@@ -5500,7 +5498,6 @@
 @BauernSchätze
 @velinastories
 @JordanWealthSystems
-@MidlifeAdvice
 @sleepysecretsofhistory
 @JudithCarverSeniorAlerts
 @AIQuantoma
@@ -5556,7 +5553,6 @@
 @czarnalojalnosc
 @wieczorneopowiesci
 @zmieniajaceprzeznaczenie
-@connectioninsights
 @poweroverhistory
 @sleepwise_official
 @thepawpsychology
@@ -17293,7 +17289,6 @@
 @Eadow-Yoal
 @LoveVerse-AI-1127
 @Melinahbeauty
-@mrpotato44-h3n
 @Ghibli-ASMR01
 @Mkstory912
 @ZushayaAiWorld
@@ -17340,7 +17335,6 @@
 @Boss2000
 @oliviasuna
 @GhibliAnimeAI
-@thetimelessstory-e
 @SoraCable
 @storylocation
 @StoryStudio_official
@@ -31533,7 +31527,6 @@
 @RioNReedus
 @WarhammerInit
 @UniverseInsideYou
-@LoneDesireSherman
 @LUNARITHM-X
 @MysticLadyAmbience
 @SkaldicMusic
@@ -33427,7 +33420,6 @@
 @TerraFiles-n1m
 @WW2Crewfiles
 @InheritanceFiles-u3n
-@TheSecretNurseFiles
 @InterestingFilesYT
 @AmericanWWIIFiles
 @GriotFiles
@@ -33468,7 +33460,6 @@
 @ModernHistoryFiles-w2l
 @CarFailureFiles
 @MotorsFiles
-@Somnium_Files
 @VengoraFiles
 @CommissionFiles
 @MotorFiless
@@ -58646,7 +58637,6 @@
 @Ailifestoriesoffical
 @AILifeTime-y8g
 @AnniesTales01
-@%EC%9D%B4%EC%98%A5%EC%A7%84-h8o
 @aibuilder22
 @poppy-pizza
 @xMooniferx
