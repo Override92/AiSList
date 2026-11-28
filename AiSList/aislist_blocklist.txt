@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70763
+! Total Channels: 70773
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70779,3 +70779,13 @@
 @DeepNightMelody-r5l
 @DeepHouseSociety-q8j
 @Vyora_Sound
+@DANGEROUS_LUXE
+@ProjektBetha
+@voidmusiicoficial
+@noxsoundsystem
+@Veloryn-y
+@WunderderWelt
+@AvoidBlue
+@mfsbassempire
+@LukeJansenChannel
+@djriangayo
