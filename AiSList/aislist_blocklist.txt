@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70773
+! Total Channels: 70783
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70789,3 +70789,13 @@
 @mfsbassempire
 @LukeJansenChannel
 @djriangayo
+@ProfessorZeroSec
+@Foeko
+@SuperBassEDM-z7l
+@StreetBassCulture
+@GrandSound-AI
+@NomadFreq
+@SLEEPCODE-c4m
+@ENIGMAAERIS
+@SoulfireRock-f2c
+@shenztech
