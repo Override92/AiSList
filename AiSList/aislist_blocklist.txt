@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70831
+! Total Channels: 70821
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1149,7 +1149,6 @@
 @aibrainbot-r4j
 @sweetstoryindia
 @bugguxduggu
-@aijadoostory
 @catmeowstation
 @meowtales-g4x
 @animatedshortai
@@ -7796,7 +7795,6 @@
 @Smokysdreamlab
 @MakemeASMRAI
 @sz-asmr-lab
-@fluxfoamasmr
 @DreamyAIxASMR
 @UltimateOddlySatisfying
 @ASMRaddct
@@ -13516,7 +13514,6 @@
 @剧诱惑
 @FastDrama-r7q
 @BriskdanDrama
-@BudiDrama8888
 @BoomDrama-m5m
 @RevengeBrideDrama
 @BrownieDrama
@@ -15677,7 +15674,6 @@
 @OllieandPoco
 @mrshort_page
 @AiWorld-z1i
-@aigenix-c9x
 @EdoboyAI
 @MedeoforAIVideo
 @AIKaChakkar09
@@ -15785,7 +15781,6 @@
 @anim.video007
 @complexAI
 @gunnarhendrickson3382
-@drjohnchester
 @OrivonHorizon
 @everypixel-matters
 @AI戏精剧场
@@ -34160,7 +34155,6 @@
 @FINALBETRAYAL-c5y
 @prythalize
 @LocalhostFocusVibes
-@%E7%BF%94%E5%B9%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB
 @WhispersofWesteros-l9w
 @SleepyHistoriansYT
 @ImperivmSPQR
@@ -34303,7 +34297,6 @@
 @Athena_Vesperia
 @Liang_yunge
 @NeonGatorRitual
-@ymirveyra
 @IreneBelserionOfficial
 @queenofmetalorchestra
 @OnyinTales
@@ -40659,8 +40652,6 @@
 @umbrarequiem
 @bezexa_ai
 @propheticachieves
-@moviedrama-i3e
-@翔平ジャーナル
 @theworldwariarchives
 @HondaCulture1010
 @aistoryverse-i1n
@@ -46697,7 +46688,6 @@
 @%E3%81%8D%E3%81%AE-y4o
 @CafeJazzDay-n4j
 @SeniorHealthInsight-x8h
-@HealthDecoded-k6u
 @WellnessforLife-w8b
 @Advicefortheelderly
 @InfiniteWellness-f8h
