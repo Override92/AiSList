@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70810
+! Total Channels: 70800
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5703,7 +5703,6 @@
 @crocaze
 @TheBibleStoriesYT
 @RestWithChristYt
-@DrJakeTaylor
 @Dr.CarlosMorris
 @TopHealthTipsHub
 @FlavorNostalgia
@@ -22225,7 +22224,6 @@
 @tontonton-touchan
 @EchoesThroughTime-AI
 @Mr.VincentStories
-@Mr.HarrisonStories-s1n
 @AmericanLoveTales-h7n
 @Biestories1
 @Tochimovie
@@ -42016,7 +42014,6 @@
 @Babypodcastsm
 @StoryKavi
 @NotebookLmGuide
-@RebornDestinyDrama
 @aiverse-30
 @notebooklmtv
 @Notebook-L6M
@@ -42182,7 +42179,6 @@
 @FrontierFlame-c4s
 @ArtiVisualIntelligence
 @Comfortable_soil
-@everystage1
 @Skippy-Roo
 @gokucoreirl
 @AnimeZoneReviewAnimeAI
@@ -42298,7 +42294,6 @@
 @MellowHourJazz
 @RPMWave
 @judygoodvibes
-@TampaRuthlessHearts
 @The-Gear-Archive
 @Duty_Station
 @RetireeMath
@@ -42504,7 +42499,6 @@
 @MeloZonia2026
 @InfiniteAudioLabsOfficial
 @MythicalMelodiesDnDMusic
-@Zenthovar
 @Playworlds-ai
 @chemverseai1008
 @EnkaSoulAI-c1e
@@ -42561,7 +42555,6 @@
 @VergesseneWege
 @KawaiYutoAISongs
 @theawesomebearalphadude
-@Ecolight07
 @Onyiisseries25
 @CoolerProMC
 @BlackMaidMafiaUS
@@ -42618,7 +42611,6 @@
 @MythosAI0019
 @NoapteaHouse
 @TheOmnalyze16
-@ExhaustedCore-j7p
 @Deutschlandlogik
 @nuevo-b7c
 @NoCodeAbode
@@ -42660,7 +42652,6 @@
 @FamilienDrama-i9s
 @verdict.of.empires
 @QuietPsalms-w1w
-@DramaHatiWanita
 @novairehq
 @Animadversion-u8z
 @dr.marcusreid
@@ -46734,7 +46725,6 @@
 @LoveStoryManga-c1g
 @N%C3%B6rd-s5g
 @TipsForAHappyLife22
-@manhwarecap14
 @UnrealHearts
 @poveasyfinance
 @povaboutfinances1
