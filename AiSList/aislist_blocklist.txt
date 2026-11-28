@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70951
+! Total Channels: 70942
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5461,7 +5461,6 @@
 @calosciowezdrowiemezczyzn
 @Worldnomics-Asianguy
 @historieukryte10
-@MocneKocieHistorie
 @SystemyObronne
 @NowoczesnaArmia-g3c
 @andrzejoodkrywca
@@ -21584,7 +21583,6 @@
 @AxisStudio-q3e
 @TheSilentQueen-US
 @TheQueenReturns-US
-@TheComebackQueen-US
 @BlackDiamond-US
 @TheDarkQueenUS
 @satisf-o2z
@@ -31254,7 +31252,6 @@
 @ObjectFilesUS
 @PlaneFilesOfficial
 @GalacticDistressFilesHFY
-@PlatinumFiles
 @HardwareFiles07
 @FarmhouseFiles-u3p
 @PattonBattlefieldFiles
@@ -31267,7 +31264,6 @@
 @TheKarmaFiles-c9j
 @TheBruceLeeFiles-m8x
 @horizonfilesyt
-@WW2CombatFiles-u9x
 @ArmamentFiles
 @Conflict-Files07
 @THEAMERICANFILES11
@@ -31301,7 +31297,6 @@
 @WILDWESTREALM
 @WildWestPromises
 @WildWestRomance-n1w
-@LoveintheWildWest-j8b
 @WildWestTalesYT
 @MysteriousWildWestTales
 @WildWest1368-r1k
@@ -31379,7 +31374,6 @@
 @MidoExplained
 @CoolDudeExplainsReal
 @FoodExplained1
-@KevinSeniorExplains
 @CJnzzExplains
 @CarsExplained101
 @rennexplains
@@ -31390,7 +31384,6 @@
 @hFyrEpReSeNtS
 @GalacticChroniclesHFY
 @TheStubbornFewHFY
-@QueenpinHFY
 @HFYUniverseSarah
 @HFYStealthy
 @HfyTheCasualDeathworlder
@@ -38983,7 +38976,6 @@
 @ModernFactoryInsideLook
 @TouchGrassLaterOk
 @BoringStoriesfromHistory
-@SkySutton-k3t
 @faulttreetv
 @Psychology_Truths1
 @FinancialCrimeHistorian
@@ -45702,7 +45694,6 @@
 @Nestoramom
 @SteveCooperZoo
 @cudaroo
-@activistru
 @imstickmanold
 @theguidedpathstory99
 @vision-vault-777
