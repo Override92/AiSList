@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70839
+! Total Channels: 70829
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -4622,7 +4622,6 @@
 @RevengewithCaroline
 @DisrespectHasaPrice
 @StillWaterRevenge
-@RevengeFiles-g3x
 @Revengejournal
 @FamilialStoriesExposed
 @revengetrip97
@@ -8776,7 +8775,6 @@
 @RedEarthStories33
 @RevengeWithLaura2
 @SciFiGalaxy-h9n
-@ScottRitterUpdates
 @brave-paw-chronicles
 @TheSealedRoom
 @PureEconomy
@@ -16101,7 +16099,6 @@
 @JakeWildEx
 @MicroWild-l1t6u
 @DustyRoadClassics
-@WildWestObese
 @CowboyInASuit
 @JusticeNeverSleeps-i9l
 @NebulaAudioUSA
@@ -16725,7 +16722,6 @@
 @VisionaryHistory-n6h
 @cutversee
 @be_still_studios
-@GraceAndTruth_US
 @kingdomEncountersTv
 @God-e5d5u
 @RAGOVIVFX
@@ -22289,7 +22285,6 @@
 @Moonpassio
 @TheBLissTales-m9l
 @LeonEvelakesAiBs
-@kutai-müzik
 @PorchlightStories68
 @Untoldhonorvoices
 @FamilyDramaStoriesYTB
@@ -22986,7 +22981,6 @@
 @MantavirusLoreMusic
 @RevengeGlowFamily
 @quadristories
-@kutai-muzik
 @learnexploregrowofficial
 @forgottenhistoricalstories
 @aicreation-y8c
@@ -24814,7 +24808,6 @@
 @NoobologyRBLX
 @GrimReaperFlag-Chan
 @Junedcoolboy
-@NİRO_FLUX
 @hearttalesUsa-d9f
 @MacroMechanics-x1n
 @Ansgar_AIStockAnalyst
@@ -25502,7 +25495,6 @@
 @MysticReggae
 @CosmicSandGrooves
 @CocktailNotes
-@niro_flux
 @footnote1863
 @motoryzacjanabiezaco
 @rootcausedocumentary
@@ -28477,7 +28469,6 @@
 @BabyAndPetAdventures
 @AI_iraan
 @AgelessStyle50s60s
-@ShortDrama-French-s2h
 @NunuDrama-r9y-z1v
 @MiaRecap_2695
 @jiyakapurfilms
@@ -59824,7 +59815,6 @@
 @aicinematicuniverse786
 @Veri-AIStudios
 @AfricanstoriesbyMoonlight
-@AiWonderVlogs-b5h
 @aiworld0908
 @topideiasefusoes
 @versunkenewelten01
