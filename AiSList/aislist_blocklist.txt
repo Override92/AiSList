@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70734
+! Total Channels: 70735
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70750,3 +70750,4 @@
 @TheInspectorPlay
 @TheCarMakersTV
 @Neveradullstory
+@showmakertelenovelas
