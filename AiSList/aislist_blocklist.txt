@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70691
+! Total Channels: 70681
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7094,7 +7094,6 @@
 @smarthealthguide-j3t
 @HealNaturally-h9h
 @healthandhealing-2M
-@PeakMale_Health
 @Avesstorytelling
 @sandraserratiresearch
 @MenHealthWithDrJocelyn
@@ -10142,7 +10141,6 @@
 @PraiseJesus_Amen
 @psalmsretelling
 @ProSecret2128
-@PixelPoet-c9u
 @RelaxoHubASMR32
 @RelaxoDreamASMR06
 @RelaxAI-ASMR4
@@ -12717,7 +12715,6 @@
 @Otoneko335JukeBox
 @TukkerX
 @tg-comic
-@HealWiseDaily-y6o
 @Tarihlojii
 @ValkyriesWrath8
 @Browser_Explained
@@ -20023,7 +20020,6 @@
 @TinyTasteStudio-v9m
 @oxii3357
 @Aabid61
-@AskCatShow
 @ForbiddenLoveverse
 @FurRealTalk7
 @CatTribeTale
@@ -20200,7 +20196,6 @@
 @CreateROfMany
 @FullMojaStory
 @Prof.JiangAudio
-@quickclips-b3f
 @aivideotoon01
 @osdriftent
 @AIDreamfactory66
@@ -35866,7 +35861,6 @@
 @BananaCor3
 @HiddenMotivesz
 @GreenPill888
-@WealthChronicles-x1e
 @BrokenVowsInfidelityStorie-j3t
 @BoldFuture2026
 @%D0%9F%D0%9E%D0%92%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0
@@ -50321,7 +50315,6 @@
 @grafimotive
 @DuniaCeritaTanpaBatas13
 @Rockyvibesmusiclab
-@LAtelierdesMondes%C3%89tranges
 @SecondAxisYT
 @epicstoryhq
 @FamilyStarRumi
@@ -50418,7 +50411,6 @@
 @pawarmusic06
 @hmongharmonydubs
 @MDPRODUCTION-1316
-@StoriesHFY-n6j
 @AaluWaaloo
 @awesometaekookbyella
 @FlourishTunes
@@ -50454,7 +50446,6 @@
 @kiopstudios
 @VelvetStoryhouseStudio
 @J-POPAI%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF
-@DoomsdayCinema-i3h
 @ghmcovers
 @aisongs-i9m
 @FeverDreamRecordsAI
@@ -64199,7 +64190,6 @@
 @funnyfactsking143
 @roadsiderightsh5
 @云曜剧场
-@latelierdesmondesetranges
 @세렌스튜디오
 @쁘로도
 @placeauxheros
