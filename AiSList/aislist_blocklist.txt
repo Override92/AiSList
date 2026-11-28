@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70911
+! Total Channels: 70902
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -1336,7 +1336,6 @@
 @modernfactoryprocess-hq
 @insideeveryfactory
 @insidethefactory3.0
-@howitsmade_factory
 @modernfactoryinsights1102
 @factorytoproduct
 @modernfactorystream
@@ -39184,7 +39183,6 @@
 @SilentWarriors-b2q
 @MoonlitInkBL
 @ORBIX-g5g
-@MythsForTheNight
 @HiddenRevengeLegacy
 @EthanGalacticw2k
 @MayaWealthUSA
@@ -39343,7 +39341,6 @@
 @voidpreacher
 @Rockesapa
 @BeyondGalaxyTitan
-@AnunnakiSanctuaries
 @NeonFunkLounge
 @RollAndMead
 @Jovan501isHere
@@ -39356,7 +39353,6 @@
 @HerPayback-l7p
 @AncientMythsYT
 @Strategic-Haulers
-@v%C4%91f-t2w
 @the.ravensmusic
 @WatchDrollery
 @BruceLeeRebirth
@@ -46015,7 +46011,6 @@
 @TheSleepyAstronomerzzz
 @vTourMapGlobal
 @SmallMoonlit
-@%E5%8F%A4%E7%9F%AD%E5%89%A7%E5%9C%BAAncientShortDrama
 @Mylisaadol
 @CandyBellyAi
 @TrendreactHQ
@@ -46135,7 +46130,6 @@
 @DADIKIKHANI-j4e
 @DarrenClayton-t2e
 @DailyGenZ-x6u3y
-@DevendraRajak-t2r
 @DanishCharak-j3r
 @DigitalDeepak-m9q
 @Delulu_AI-j5l
@@ -46306,7 +46300,6 @@
 @outtaworld
 @HFYprince
 @StarboundHumanity-f6y
-@HistoryRewritten-g2c
 @FBXFilms
 @WhisperingHearts-d1c
 @HFYAlienGuard
@@ -46368,7 +46361,6 @@
 @scifiworld-q2s
 @GalaticHFYNights
 @HFYAREA
-@Sci-FiHFYStories-x5b
 @TheGaiaGambitHFY
 @CosmicStorytime6
 @SciFiRevenge
@@ -46469,7 +46461,6 @@
 @psychetideyt
 @alysaliuskatingstar
 @ai小说故事短剧
-@vdf-t2w
 @volkanman
 @whispersofeire-woe
 @paradoksyinzynierii
