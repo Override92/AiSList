@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70672
+! Total Channels: 70673
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -70688,3 +70688,4 @@
 @ifemioluwaacademy
 @thecozyemberclub
 @dramastoryaibyarina
+@shopdiscover01
