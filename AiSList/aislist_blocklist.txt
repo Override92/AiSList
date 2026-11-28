@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70878
+! Total Channels: 70868
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -59090,8 +59090,6 @@
 @HFYUniverseHQ
 @HFYUniverse-h5s
 @Ascendanthfy
-@HumanityUnbound-m2b
-@HeartlandStoryMoments
 @HFYGalacticWarfare
 @tungtran8080
 @HFYCosmicWar-2
@@ -59106,19 +59104,15 @@
 @LovingThisFood
 @HFYALERT
 @TheSolChroniclesHFY
-@HFYSleepRelaxAlbum
 @HFYTalesHQ
 @EarthfallHFY
 @dominicseow
-@GalacticStoriesHFY-l9z
 @HumanPrimeHFY
 @jfoli12
 @BruhEdictHFY
 @DeathworlderChronicles-i7h
-@MahmoudAhmed-y8o8s
 @HaiSonLe-q9t
 @thelastterran-c9g
-@Tu%E1%BA%A5nL%C6%B0%C6%A1ngv%C4%83n-s8x
 @HFYPrimeStories-h4i
 @Sci-FiHFYExtra
 @ContourBattles
@@ -59127,9 +59121,7 @@
 @HumanityAscendant-f9p
 @NexusStoryNetwork
 @LUVIA-LUVIA
-@BlazeWardHFYUniverse
 @supreemtea
-@MahmoudsalamayaseenMahmoud-r8z
 @HFYUniverse-w4u
 @InfernoWardHFY
 @HFYVaultStories
@@ -59144,7 +59136,6 @@
 @HFYGalacticBattlelines
 @MianAliJaved-m9n
 @HfyAllTimeHit-i8r9p
-@NebularOutcasts
 @EpicHFYDEATHWORLDStory55
 @DeathworldDiaries5
 @HFYLegendario
@@ -59157,7 +59148,6 @@
 @TheLastArchieves
 @NEXORAStories_HD
 @Primatesofwar
-@ChroniclesGalactic
 @adeleswilley
 @hfy-humanitystories
 @ContactHumanityHFY
