@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71017
+! Total Channels: 71016
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -55618,7 +55618,6 @@
 @ghiblicooking2
 @Enzo-Bellandi1
 @CloudCatTV
-@bigideas-f9d
 @JY-KK22
 @SingleMomRise
 @cocakencozy
