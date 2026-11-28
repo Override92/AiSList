@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70912
+! Total Channels: 70911
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -9320,7 +9320,6 @@
 @HOACRAZYFILES
 @HOADramaStories-x8j
 @hoakaren-99
-@HOAKarenFiles27
 @HOAKarenKarma-l4o
 @HOAKARENSHORTS
 @HOAKarmaStories-b3v
