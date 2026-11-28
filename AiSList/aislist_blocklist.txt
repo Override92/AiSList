@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71078
+! Total Channels: 71068
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -2976,7 +2976,6 @@
 @MidnightHistorian-MH
 @JoeHistoryCorner
 @DeepSleepMode
-@JREShorts
 @puggyroom
 @nanabananainternational
 @funwithjamiemilliejaxx1830
@@ -3062,7 +3061,6 @@
 @goodthinkinghabits
 @MedievalWay
 @HFY_en_Español
-@BibliotecaGalactica-r7t
 @CienciayFiccionFHY
 @ManhwaResumenIA
 @EcosdeSangre-s5k
@@ -3111,7 +3109,6 @@
 @PorquésExtraños
 @TuMente-x8c
 @Motivandohastaeléxito
-@Raizmental01
 @MenteenMovimiento-l8x
 @HumanidadPrimero
 @Zen_Vibes_Station
@@ -3119,7 +3116,6 @@
 @YoNadie1
 @DesarrolloExponencial-r9d
 @victimadespierta
-@CriptasCognitivas
 @HablemosdelaMente00
 @UniversoCanino1
 @hauntedtruth-b8u
@@ -3168,7 +3164,6 @@
 @zodiac.fact9
 @LeoZodiacPower
 @dailyhoroscopefree
-@ZodiacLabFacts
 @TheZodiacPath12
 @ZodiacWisdom08
 @ZodiacWhisperTarot
@@ -3560,7 +3555,6 @@
 @adamsteen9034
 @Dr.Dylanfernandez
 @ABSOLUTEDOMINION-l4q
-@Margarita_Elena
 @AriadnaZuleta-u8i
 @SaludconelDr.Javier
 @Hombres_con_Poder
@@ -16529,7 +16523,6 @@
 @PlayTVtw
 @cityfun2025
 @hdjdjjf-w8u
-@林辰星-m3s
 @MarcusLee0721
 @Thalrynn
 @ArvinoAi
@@ -33164,7 +33157,6 @@
 @Humanconditions101
 @CGMuzic
 @MedievalReverie-e8e
-@THEDIVINEMESSAGE-r3m4g
 @Sleepy.Mystery.Channel
 @Quante-k8g
 @HumanAscendancyYT
@@ -37960,7 +37952,6 @@
 @BrandTrap-z6q
 @StoriesbyStarlight-w3m
 @惊蛰剧场17
-@HOASecretFiles-r7t
 @Dungeon_Vibes
 @SatisfAiy
 @LurkCZE
@@ -37982,7 +37973,6 @@
 @NoDistractionZone-x9y
 @walkermcnee
 @cinematicmovess
-@DesertChill_35
 @CelticBagpipeMusic
 @neonvoid001
 @RetroAmbientDreamscapes
