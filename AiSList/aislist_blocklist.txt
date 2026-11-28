@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70821
+! Total Channels: 70811
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -5571,7 +5571,6 @@
 @SleepyScrolls12
 @animolita
 @Unspoken.animalstories
-@ArcticKyunney
 @RescuePath-6868
 @FrostVigil
 @kexing-ai
@@ -8804,7 +8803,6 @@
 @SoundPulse-mv6jk
 @FullProcessRevealed
 @industriesprocess
-@EngineeredTheFactoryProcess
 @nextgenworld.10m
 @HFY-Reddit-01
 @HFYGalacticGrit
@@ -15792,7 +15790,6 @@
 @J-POP_Quality
 @soulfulJ-POP
 @Aimusic倶楽部
-@DadReturns-k3s
 @RisasenCortoOficial
 @SCPUnlocked
 @nynphie
@@ -27406,7 +27403,6 @@
 @MannersMattersChannel
 @StoicTraining
 @StoicLethobel
-@StoicRelationship
 @StoicMindsetAcademy1
 @senior_rise
 @StoicSociety
@@ -34400,7 +34396,6 @@
 @africantalebyEno
 @gelitestories
 @AfriTalesbyVera
-@Talefrommotherland
 @NapHistorian
 @TimeFox-YT
 @uareborn
@@ -34485,7 +34480,6 @@
 @childrengrowwithstories
 @WanderingEnglish-q2p
 @TheStoryLoom-e8x
-@RobertWilson-p8v
 @WHAT-IF-62
 @Eons96-d6k
 @FreshView-z9r
@@ -40695,7 +40689,6 @@
 @kidsStoryAI-j5g
 @FictionalworldGenz
 @taletoppings-z7x
-@Chirkutfilms-90
 @Vahap-Vakas
 @Toonfusiondilip
 @petTIME-n6x
@@ -40844,8 +40837,6 @@
 @MyGhibliDiaries
 @PawOfSeries
 @AfricanStoryverse-tv
-@urpeacockgirl
-@PocketChefTales-u1m
 @TheYugkatha
 @AiAnimationtoonspk
 @KahaniAIKi-y2026
@@ -41260,7 +41251,6 @@
 @RumiCrymm5l
 @handshouse
 @Manhwa-Hindi-Hub
-@AmeliaSha-c4b
 @aiinsideshow
 @DanielAiVFX
 @loova_ai
