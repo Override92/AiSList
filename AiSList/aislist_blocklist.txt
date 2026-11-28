@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 71068
+! Total Channels: 71058
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -3310,7 +3310,6 @@
 @enigmasarqueologicos7
 @LOSDOCUMENTALES1
 @ImperioPerdido
-@severalstoriess
 @LightStories-S3
 @ElNarradorMinimalista
 @WrittenbyRowan
@@ -8587,7 +8586,6 @@
 @theblessingezikeanyi
 @HowToIn5Minutes
 @isadoesai
-@NeoSoulReimahe
 @MartinAIArt
 @ROADreams
 @SurrealAIArt
@@ -21308,7 +21306,6 @@
 @MercyInaStories
 @AfricanwisdomVault-d5e
 @MangoDramaStories
-@FavstarAfricantales
 @RoseMaryTales-g7z
 @TalesbyHamaka
 @AfricanStoryverse-1
@@ -22684,7 +22681,6 @@
 @Airline-o1p
 @AlphaFateStories
 @AlwaysKind71
-@AmericaFacticity
 @AmericanDarklands
 @AniBite_01
 @AnimalsMachina
@@ -38077,7 +38073,6 @@
 @DarkPostRockFM
 @SekretyZakonnicy
 @SamierDeepVibes
-@UkrytePrawdyMiliarder%C3%B3w
 @OmnyxWaves
 @DjMimsy
 @ForgottenMilitaryHistory-87
@@ -45598,7 +45593,6 @@
 @observacionrural
 @quandtoutacommence
 @baasaudiomix
-@ukryteprawdymiliarderow
 @dendangirama1
 @cozyautumnescape
 @harvestthefrost-f8u
@@ -53136,7 +53130,6 @@
 @potlikker_official
 @ASTRALFORGE-u6g
 @Maestropulse
-@scarednight100M
 @macilcat
 @RbxNews-TV
 @frk_msc
@@ -53168,7 +53161,6 @@
 @JankiDR-9525
 @qorvexastudio
 @mutualisticsymbiosis
-@CrazyUltra-j7l
 @Lawsofnature-l5n
 @WildLegacy22
 @mrkathatva
@@ -53180,14 +53172,12 @@
 @TasleemTvinfo
 @AIcartoonblog12
 @GroundAnimal
-@TheCrazyGlow
 @saritachauhanshreeaschauhanshr
 @TheCosmosVault77
 @medomedo-bk7he
 @%E5%AE%89%E5%BA%B7%E6%A8%82%E9%BD%A1%E5%A0%82-u1g
 @PouwPouw-i6t9m
 @FactVerse2.0-c1l
-@Angelina-d5s6l
 @%E5%8D%A1%E7%9A%AE%E5%B7%B4%E5%B7%B4%E6%8B%89_qlkb
 @SilentRevengeVault1
 @PsychologischeLiebe
