@@ -14,7 +14,7 @@
 ! - Lines starting with ! are comments
 ! - Empty lines are ignored
 !
-! Total Channels: 70667
+! Total Channels: 70657
 ! Entries:
 @ChickofHonor-l
 @ChickofHonor-3i
@@ -7370,7 +7370,6 @@
 @TopHistory-c1f
 @ChillVibesMusic999
 @VectorNews24
-@OdkryteTajemnice
 @TheInvisibleDetail
 @Emrichshorts
 @larrytrustee
@@ -10608,7 +10607,6 @@
 @AchillesAIs
 @SoraView-34
 @FateTurner0
-@Trendy-vids123
 @ModusAssembly
 @WALTER-n8k-t6x
 @SINGULARITYVOICEAICoverArrange
@@ -17740,7 +17738,6 @@
 @HumanityStories-t1e
 @UnseenEarth4K1402
 @FinalVengeance-h7q
-@AntiKarenChannel
 @FATHERSJUSTREVENGE-b9d
 @DadsSilentTruth-y9s
 @NaijaStoryChronicles199
@@ -17749,7 +17746,6 @@
 @MarbleRevenge-s8e
 @Oyerindebukola-w8n
 @Folktalesbyogonna
-@herreddit89
 @keneneto
 @ChidimmadimStories
 @DelighttalesTV0
@@ -26567,7 +26563,6 @@
 @Legacies-t3b
 @RealityGlitch-t1p
 @ReimagineIndiaAI
-@audiomutations-music
 @SpeculAItion
 @AshokWM
 @cloudkittty-u8g
@@ -28972,7 +28967,6 @@
 @HerFamilyStories
 @HeartwarmingDadStories
 @HeartlandPorchStories
-@HeartJusticeStories86
 @MafiaBossRomanceStories-us
 @mafia_obsidianstories
 @LucasRevengeStories-y9b
@@ -29033,7 +29027,6 @@
 @RegencyStories
 @realdadstories55
 @RealBlackStories2
-@QuietSingleDadStoriesUS
 @QueenStories9908
 @ReigharStories369
 @RealBlackStories-l7v
@@ -29113,14 +29106,12 @@
 @VerdictStories1
 @vennstories
 @VelvetRevengesStories
-@velvetdadstories5
 @XSci-fiStories
 @WW2StoriesArchivee
 @WW2POWStories-yt
 @VelnixaStories
 @hiddenstories-k
 @CrackedStoriess
-@Wisdom_Stories_56
 @uniqueaurastories
 @Brooksspecial
 @AGH.STORIES
@@ -31932,7 +31923,6 @@
 @Deep-Idle-Room
 @Cab-Forward
 @bychrysalis
-@AlwaysSimplified
 @AliakseiFacts
 @aldobellinii
 @AidensRevengeDramaine
